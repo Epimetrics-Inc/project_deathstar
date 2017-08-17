@@ -53,7 +53,24 @@
 
         <div class="navbar-default sidebar navbar-collapse" role="navigation">
                 <div class="sidebar-nav">
+                    
+                    <div class="sidebar-vis-options">
+                        <div class="form-group form-inline vis-type">
+                            <label>Type</label>
+                            <select class="form-control">
+                                <option>Word Cloud</option>
+                                <option>Frequency Chart</option>
+                            </select>
+                        </div>
 
+                        <div class="form-group form-inline vis-type">
+                            <label>Coverage</label>
+                            <select class="form-control">
+                                <option>Single Document</option>
+                                <option>All Documents</option>
+                            </select>
+                        </div>
+                    </div>
                     <div class="sidebar-search">
                         <div class="sidebar-search-options">
                             <div class="has-feedback has-feedback-left search-option">
@@ -216,7 +233,13 @@
                                 <div class="text-muted"> Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings</div>
                             </a>
                         </li>
-                   </ul>
+                    </ul>
+
+                    <div class="pull-right">
+                    <button class="btn btn-default visualize-button" href="#" type="button">
+                        Visualize
+                    </button>
+                    </div>
                 </div>
                 <!-- /.sidebar-collapse -->
             </div>
