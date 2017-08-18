@@ -61,10 +61,10 @@ def process_xml(dir: str) -> dict:
     for _, _, fn in os.walk(dir):
         fn = fn
 
-    logfn = open('errors.txt', 'w')
-
     data = {}
     final = {}
+
+    logfn = open('errors.txt', 'w')
 
     for file in fn:
         try:
@@ -73,9 +73,7 @@ def process_xml(dir: str) -> dict:
             data[tmp_fn] = d
 
         except Exception as error:
-            logfn.write(file + " " + str(error) + "\n")
-
-    logfn.close()
+            logfn.write(str(file) + ": " + str(error) + "\n")
 
     final = {i: {k: v.get('text')
                  for k, v in data[i].items()} for i in data.keys()}
@@ -84,7 +82,32 @@ def process_xml(dir: str) -> dict:
         final[i]['image'] = data[i]['image']
         final[i]['raw_json'] = data[i]
 
+    logfn.close()
+
     return final
+
+
+def check_tags(data: etree._Element):
+    names = set([
+        'date',
+        'docnum',
+        'doctype',
+        'subject',
+        'body',
+        'image',
+        'sign',
+        'signtitle',
+        'missingtext'
+    ])
+    elements = data.findall('.//')
+    tags = set([i.tag for i in elements])
+    diff = tags.difference(names)
+
+    if len(diff) != 0:
+        raise AttributeError(
+            str(diff) + " are mislabeled / do not follow protocols.")
+
+    return True
 
 
 def extract_data(data: etree._Element) -> dict:
@@ -92,6 +115,7 @@ def extract_data(data: etree._Element) -> dict:
     Converts xml data to dict with text and line numbers
     """
     d = {}
+    check_tags(data)
     d['date'] = find_tag(data, 'date')
     d['doctype'] = find_tag(data, 'doctype')
     d['docnum'] = find_tag(data, 'docnum')
@@ -163,11 +187,16 @@ def format_date(s: str):
     formats = [
         '%b %d, %Y',
         '%B %d, %Y',
+        '%B %d, %Y',
         '%B %d,, %Y',
         '%B, %d, %Y',
         '%B %d,%Y',
+        '%d %B,%Y',
+        '%d %B%Y',
         '%B %d %Y',
         ' %b %d, %Y',
+        '%d %B. %Y',
+        '%d %B, %Y',
         '%b %d,%Y',
         '%b %d %Y',
         '%d %b %Y',
@@ -175,7 +204,8 @@ def format_date(s: str):
         '%m/%d/%Y',
         '%m/%d/%y',
         '-%m/%d/%Y',
-        '%B,%Y'
+        '%B,%Y',
+        '%B, %Y'
     ]
 
     s = s.strip().capitalize()
