@@ -39,6 +39,9 @@ body {
   padding: 15px;
   min-height: 50px;
 }
+.navbar-top-links .active a{
+  font-weight: bold;
+}
 .navbar-top-links .dropdown-menu li {
   display: block;
 }
@@ -219,6 +222,7 @@ body {
   background-color: #FFFFFF;
   padding:50px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  font-family: Garamond,serif;
 }
 
 #page-wrapper .header-title {
