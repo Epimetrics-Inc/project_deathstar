@@ -73,16 +73,17 @@ body {
 
 .sidebar-nav {
   max-height: inherit;
+  height:inherit;
   display: flex;
   flex-flow:column;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-
 }
 
 .sidebar-nav > ul {
   overflow-y:auto;  
   border-top: 1px solid #e7e7e7;
-
+  border-bottom: 1px solid #e7e7e7;
+  height:inherit;
 }
 
 .sidebar-nav > div{
@@ -96,7 +97,19 @@ body {
   margin: 5px 15px;
   opacity: .86;
   border-radius: 4px;
+  display:flex;
+  padding:10px;
 }
+
+.sidebar .nav li > a > .list-checkbox{
+  margin-top: -2px;
+  margin-right: 10px;
+}
+
+.sidebar .nav li > a > div > .list-title{
+  font-size:12px;
+}
+
 .sidebar .sidebar-nav.navbar-collapse {
   padding-left: 0;
   padding-right: 0;
@@ -106,9 +119,17 @@ body {
   display:flex;
 }
 
-.sidebar .sidebar-search-options .search-option {
+.sidebar .sidebar-search-options > div {
   margin-left: 2.5px;
   margin-right: 2.5px;
+}
+
+.sidebar .sidebar-search-options > :first-child{
+  margin-left:0px;
+}
+
+.sidebar .sidebar-search-options > :last-child{
+  margin-right:0px;
 }
 
 .sidebar .sidebar-search-options .has-feedback-left {
@@ -144,6 +165,24 @@ body {
   padding-left: 34px;
 }
 
+/*Start of Documents Sidebar*/
+
+#export-options{
+  margin-top:5px;
+}
+
+#export-options .selector-button{
+  width: 32.5%;
+  padding-left:0px;
+  padding-right:0px;
+}
+
+#export-options .export-button{
+  float:right;
+}
+/*End of Documents Sidebar*/
+
+
 /*Start of Visualisation Sidebar*/
 .sidebar .sidebar-vis-options {
   margin-bottom: 0;
@@ -161,12 +200,25 @@ body {
   width:70%;
 }
 
+.sidebar .visualize-button{
+  float:right;
+}
 /*End of Visualisation Sidebar*/
 
 /*Start of Document Preview*/
 
 #doh-logo{
   float:left;
+}
+
+#page-wrapper{
+  background-color: #DEDEDE;
+}
+
+#page-wrapper .doc-preview{
+  background-color: #FFFFFF;
+  padding:50px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 #page-wrapper .header-title {
@@ -206,6 +258,7 @@ body {
     width: 300px;
     max-height: 500px; /*fallback height if vh is not recognized*/ 
     max-height:calc(100vh - 51px);
+    height:calc(100vh - 51px);
     padding-right:0px;
     padding-left:0px;
   }
