@@ -70,6 +70,8 @@ def process_xml(dir: str) -> dict:
         try:
             d = extract_data(read_xml(file))
             tmp_fn = re.sub('.pdf.*$', '', file)
+            formatted_date = format_date(d['date']['text'])
+            d['date']['text'] = str(formatted_date)
             data[tmp_fn] = d
 
         except Exception as error:
@@ -87,7 +89,7 @@ def process_xml(dir: str) -> dict:
     return final
 
 
-def check_tags(data: etree._Element):
+def check_tags(data: etree._Element) -> bool:
     names = set([
         'date',
         'docnum',
@@ -179,9 +181,9 @@ def rawstr(s):
     return pattern.format(s)
 
 
-def format_date(s: str):
+def format_date(s: str) -> str:
 
-    if s is None or s.isspace():
+    if s is None or s.isspace() or s.lower() == 'nd':
         s = '01/01/2050'
 
     formats = [
@@ -191,21 +193,26 @@ def format_date(s: str):
         '%B %d,, %Y',
         '%B, %d, %Y',
         '%B %d,%Y',
+        # 
+        '%d/%m/%Y',
+        '%d/%m/%y',
+        '%m/%d/%Y',
+        '%m/%d/%y',
+        # '-%m/%d/%Y'
         '%d %B,%Y',
         '%d %B%Y',
         '%B %d %Y',
         ' %b %d, %Y',
+        '%b %d, %Y',
         '%d %B. %Y',
         '%d %B, %Y',
         '%b %d,%Y',
         '%b %d %Y',
         '%d %b %Y',
         '%d %B %Y',
-        '%m/%d/%Y',
-        '%m/%d/%y',
-        '-%m/%d/%Y',
         '%B,%Y',
-        '%B, %Y'
+        '%B, %Y',
+        # '%d/%-m/%Y'
     ]
 
     s = s.strip().capitalize()
@@ -214,10 +221,10 @@ def format_date(s: str):
         if not isinstance(tmp, pd._libs.tslib.Timestamp):
             tmp = pd.to_datetime(s, errors='ignore', format=f)
 
-    # if not isinstance(tmp, pd._libs.tslib.Timestamp):
-    #     raise TypeError(rawstr(tmp) + ": " + str(type(tmp)))
+    if not isinstance(tmp, pd._libs.tslib.Timestamp):
+        raise TypeError('date error: ', rawstr(tmp) + ": " + str(type(tmp)))
 
-    return tmp
+    return str(tmp.date())
 
 
 # LOAD
