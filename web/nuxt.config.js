@@ -32,6 +32,9 @@ module.exports = {
           loader: 'eslint-loader',
           exclude: /(node_modules)/
         })
+      } else {
+        const babelLoader = config.module.rules.find((rule) => rule.loader === 'babel-loader')
+        babelLoader.exclude = /node_modules\/(?![uiv])/
       }
     }
   },

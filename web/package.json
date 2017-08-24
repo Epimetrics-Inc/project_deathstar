@@ -14,7 +14,8 @@
   },
   "dependencies": {
     "bootstrap": "3",
-    "nuxt": "^1.0.0-rc6"
+    "nuxt": "^1.0.0-rc6",
+    "uiv": "^0.11.8"
   },
   "devDependencies": {
     "babel-eslint": "^7.2.3",

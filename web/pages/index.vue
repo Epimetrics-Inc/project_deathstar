@@ -14,11 +14,11 @@
                                 <i class="form-control-feedback glyphicon glyphicon-search"></i>
                             </div>
 
-                            <div class = "dropdown">
-                                <button class="dropdown-toggle btn btn-default search-option" data-toggle="dropdown" href="#" type="button">
+                            <dropdown>
+                                <button data-role="trigger" class="dropdown-toggle btn btn-default search-option" type="button">
                                     <i class="glyphicon glyphicon-filter"></i>
                                 </button>
-                                <ul class="dropdown-menu dropdown-options">
+                                <template slot="dropdown">
                                     <li>
                                         <div class="dropdown-header">
                                             Show only:
@@ -72,9 +72,9 @@
                                             </div>
                                         </a>
                                     </li>
-                                </ul>
+                                </template>
 
-                            </div>
+                            </dropdown>
 
                             <div>
                                 <button class=" btn btn-default search-option" type="button">
@@ -778,15 +778,14 @@
 
 <script>
 import navheader from '~/components/navheader.vue'
+import dropdown from 'uiv/src/components/dropdown/Dropdown.vue'
+
 export default {
   components: {
-    navheader
+    navheader,
+    dropdown
   },
   head: {
-    script: [
-      { src: 'https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js' },
-      { src: 'https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js' }
-    ]
   },
 
   data: function () {
