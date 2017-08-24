@@ -28,39 +28,39 @@
                         <div class="sidebar-search-options">
                             <div class="has-feedback has-feedback-left search-option">
                                 <input type="text" class="form-control" placeholder="Search..." />
-                                <i class="form-control-feedback glyphicon glyphicon-search"></i>
+                                <icon class="form-control-feedback" name="search"></icon>
                             </div>
 
-                            <div class = "dropdown">
-                                <button class="dropdown-toggle btn btn-default search-option" data-toggle="dropdown" href="#" type="button">
-                                    <i class="glyphicon glyphicon-filter"></i>
+                            <dropdown>
+                                <button data-role="trigger" class="dropdown-toggle btn btn-default search-option" type="button">
+                                    <icon name="filter"></icon>
                                 </button>
-                                <ul class="dropdown-menu dropdown-options">
+                                <template slot="dropdown">
                                     <li>
                                         <div class="dropdown-header">
                                             Show only:
                                         </div>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Adolescent Health
                                             </div>
                                         </a>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Geriatric Health
                                             </div>
                                         </a>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 MNCHN
                                             </div>
                                         </a>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Others
                                             </div>
                                         </a>
@@ -72,26 +72,26 @@
                                         </div>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Date (newest)
                                             </div>
                                         </a>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Date (oldest)
                                             </div>
                                         </a>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Relevance
                                             </div>
                                         </a>
                                     </li>
-                                </ul>
+                                </template>
 
-                            </div>
+                            </dropdown>
                         </div>
                     </div>
                     <ul class="nav" id="side-menu">
@@ -191,11 +191,23 @@
 </template>
 
 <script>
+import 'vue-awesome/icons/search'
+import 'vue-awesome/icons/filter'
+import 'vue-awesome/icons/check'
+import 'vue-awesome/icons/plus'
+import 'vue-awesome/icons/download'
+import 'vue-awesome/icons/search-plus'
+import 'vue-awesome/icons/search-minus'
+
 import navheader from '~/components/navheader.vue'
+import dropdown from 'uiv/src/components/dropdown/Dropdown.vue'
+import icon from 'vue-awesome/components/Icon'
 
 export default {
   components: {
-    navheader
+    navheader,
+    dropdown,
+    icon
   }
 }
 </script>

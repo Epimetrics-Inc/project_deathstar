@@ -11,12 +11,12 @@
                         <div class="sidebar-search-options">
                             <div class="has-feedback has-feedback-left search-option">
                                 <input type="text" class="form-control" placeholder="Search..." />
-                                <i class="form-control-feedback glyphicon glyphicon-search"></i>
+                                <icon class="form-control-feedback" name="search"></icon>
                             </div>
 
                             <dropdown>
                                 <button data-role="trigger" class="dropdown-toggle btn btn-default search-option" type="button">
-                                    <i class="glyphicon glyphicon-filter"></i>
+                                    <icon name="filter"></icon>
                                 </button>
                                 <template slot="dropdown">
                                     <li>
@@ -25,25 +25,25 @@
                                         </div>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Adolescent Health
                                             </div>
                                         </a>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Geriatric Health
                                             </div>
                                         </a>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 MNCHN
                                             </div>
                                         </a>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Others
                                             </div>
                                         </a>
@@ -55,19 +55,19 @@
                                         </div>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Date (newest)
                                             </div>
                                         </a>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Date (oldest)
                                             </div>
                                         </a>
                                         <a>
                                             <div>
-                                                <i class="glyphicon glyphicon-ok"></i>
+                                                <icon name="check"></icon>
                                                 Relevance
                                             </div>
                                         </a>
@@ -78,7 +78,7 @@
 
                             <div>
                                 <button class=" btn btn-default search-option" type="button">
-                                    <i class="glyphicon glyphicon-plus"></i>
+                                    <icon name="plus"></icon>
                                 </button>
                             </div>
                         </div>
@@ -91,7 +91,7 @@
                                 Deselect all
                             </button>
                                 <button class=" btn btn-default search-option export-button" type="button">
-                                    <i class="glyphicon glyphicon-upload"></i>
+                                    <icon name="download"></icon>
                                 </button>
                         </div>
                     </div>
@@ -237,10 +237,10 @@
             <div class="container-fluid doc-preview">
             <div class="zoom-buttons">
                 <a v-on:click="zoomOut()">
-                    <i class="glyphicon glyphicon-zoom-out"></i>
+                    <icon name="search-minus"></icon>
                 </a>
                 <a v-on:click="zoomIn()">
-                    <i class="glyphicon glyphicon-zoom-in"></i>
+                    <icon name="search-plus"></icon>
                 </a>
             </div>
                 <div v-bind:style="docStyle" id="zoom-wrapper">
@@ -777,13 +777,24 @@
 </template>
 
 <script>
+// icon imports
+import 'vue-awesome/icons/search'
+import 'vue-awesome/icons/filter'
+import 'vue-awesome/icons/check'
+import 'vue-awesome/icons/plus'
+import 'vue-awesome/icons/download'
+import 'vue-awesome/icons/search-plus'
+import 'vue-awesome/icons/search-minus'
+
 import navheader from '~/components/navheader.vue'
 import dropdown from 'uiv/src/components/dropdown/Dropdown.vue'
+import icon from 'vue-awesome/components/Icon'
 
 export default {
   components: {
     navheader,
-    dropdown
+    dropdown,
+    icon
   },
   head: {
   },
@@ -844,12 +855,13 @@ export default {
   padding:50px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   font-family: Garamond,serif;
+  position: relative;
 }
 
 #page-wrapper .header-title {
   text-align: center;
   margin: auto;
-  width: 50%;
+  width: 80%;
   padding: 10px;
   font-size:20px;
 }
@@ -873,6 +885,8 @@ export default {
 #page-wrapper .doc-signed .doc-sign-title{
   text-align:center;
 }
+
+
 
 /*End of Document Preview*/
 

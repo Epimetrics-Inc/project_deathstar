@@ -13,6 +13,13 @@
 
 /* End of Transitions  */
 
+/* Start of general components css */
+button .fa-icon{
+  height:100%;
+}
+
+/* End of general components css */
+
 /*Start of CSS of document and visualization pages*/
 #wrapper {
   background-color: #DEDEDE;
@@ -22,6 +29,7 @@
 }
 #page-wrapper {
   padding: 15px 15px;
+  position:relative;
 }
 @media (min-width: 768px) {
   #page-wrapper {
@@ -163,9 +171,13 @@
 .sidebar .nav-third-level li a {
   padding-left: 52px;
 }
+.sidebar button {
+  height:34px;
+}
 
 .has-feedback-left .form-control-feedback{
   left:0;
+  padding:7px;
 }
 
 .has-feedback-left .form-control {
@@ -191,19 +203,32 @@
 
 /* Start of page-wrapper */
 #page-wrapper .zoom-buttons{
-    float: right;
+  position: absolute;
+  right: 50px;
+  background-color: rgba(229,229,229, 0.2);
+  border-radius: 30px;
+  padding: 5px
+}
+
+#page-wrapper .zoom-buttons:hover{
+  background-color: rgba(229,229,229, 0.8);
 }
 
 #page-wrapper .zoom-buttons > a{
-    font-size: 70px;
-    margin:15px;
-    border-color: transparent;
-    opacity:.5;
-    color: #000000;
+  margin:5px;
+  border-color: transparent;
+  opacity:.2;
+  color: #000000;
+  padding:5px;
+}
+
+#page-wrapper .zoom-buttons > a .fa-icon{
+  width: 70px;
+  height: 70px;
 }
 
 #page-wrapper .zoom-buttons > a:hover{
-    opacity:1;
+    opacity:.6;
 }
 
 #page-wrapper .zoom-buttons > a:active{
