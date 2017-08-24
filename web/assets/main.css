@@ -37,7 +37,7 @@ button .fa-icon{
     margin: 0 0 0 300px;
     padding: 30px 30px;
     border-left: 1px solid #e7e7e7;
-    height:calc(100vh - 51px);
+    height:calc(100vh - 51px); /*51px is the header*/
     overflow-y:auto;
   }
 }
@@ -93,7 +93,6 @@ button .fa-icon{
 }
 
 .sidebar-nav {
-  max-height: inherit;
   height:inherit;
   display: flex;
   flex-flow:column;
@@ -175,6 +174,10 @@ button .fa-icon{
   height:34px;
 }
 
+.sidebar .icon-button {
+  width: 39px;
+}
+
 .has-feedback-left .form-control-feedback{
   left:0;
   padding:7px;
@@ -223,8 +226,8 @@ button .fa-icon{
 }
 
 #page-wrapper .zoom-buttons > a .fa-icon{
-  width: 70px;
-  height: 70px;
+  width: 30px;
+  height: 40px;
 }
 
 #page-wrapper .zoom-buttons > a:hover{

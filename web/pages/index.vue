@@ -15,7 +15,7 @@
                             </div>
 
                             <dropdown>
-                                <button data-role="trigger" class="dropdown-toggle btn btn-default search-option" type="button">
+                                <button data-role="trigger" class="dropdown-toggle btn btn-default search-option icon-button" type="button">
                                     <icon name="filter"></icon>
                                 </button>
                                 <template slot="dropdown">
@@ -77,7 +77,7 @@
                             </dropdown>
 
                             <div>
-                                <button class=" btn btn-default search-option" type="button">
+                                <button class=" btn btn-default search-option icon-button" type="button">
                                     <icon name="plus"></icon>
                                 </button>
                             </div>
@@ -90,7 +90,7 @@
                             <button class="btn btn-default selector-button" href="#" type="button">
                                 Deselect all
                             </button>
-                                <button class=" btn btn-default search-option export-button" type="button">
+                                <button class=" btn btn-default search-option export-button icon-button" type="button">
                                     <icon name="download"></icon>
                                 </button>
                         </div>
@@ -855,7 +855,6 @@ export default {
   padding:50px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   font-family: Garamond,serif;
-  position: relative;
 }
 
 #page-wrapper .header-title {
