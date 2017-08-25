@@ -51,7 +51,7 @@ module.exports = {
   * Global css
   */
   css: [
-    { src: 'bootstrap/dist/css/bootstrap.min.css', lang: 'css' },
-    {src: '~/assets/main.css', lang: 'css'},
+    { src: '~/assets/bootstrap.min.css', lang: 'css' },
+    { src: '~/assets/main.css', lang: 'css' },
   ],
 }
