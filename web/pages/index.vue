@@ -729,20 +729,22 @@ export default {
         }
       ],
       docStyle: {
-        zoom: 1
+        fontSize: '15px' // 15 is default font-size
       },
       checkedAOs: []
     }
   },
   methods: {
     zoomIn: function (event) {
-      if (this.docStyle.zoom < 5) { // maximum 5
-        this.docStyle.zoom = (this.docStyle.zoom * 10 + 0.2 * 10) / 10 // multiply and divide by 10 because js number is not exact
+      var fontSizeInt = parseInt(this.docStyle.fontSize, 10) // parse to a decimal value
+      if (fontSizeInt < 50) { // maximum 50        
+        this.docStyle.fontSize = (fontSizeInt + 5) + 'px'
       }
     },
     zoomOut: function (event) {
-      if (this.docStyle.zoom > 0.2) { // minimum 0.2
-        this.docStyle.zoom = (this.docStyle.zoom * 10 - 0.2 * 10) / 10 // multiply and divide by 10 because js number is not exact
+      var fontSizeInt = parseInt(this.docStyle.fontSize, 10) // parse to a decimal value
+      if (fontSizeInt > 5) { // minimum 5
+        this.docStyle.fontSize = (fontSizeInt - 5) + 'px'
       }
     },
     selectAll: function (event) {
@@ -795,6 +797,7 @@ export default {
   padding:50px;
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
   font-family: Garamond,serif;
+  word-wrap: break-word;
 }
 
 #page-wrapper .header-title {
