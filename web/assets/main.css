@@ -11,6 +11,24 @@
   opacity: 0
 }
 
+.fade-enter-active {
+  animation: fade-in-down .2s;
+}
+.fade-leave-active {
+  animation: fade-in-down .2s reverse;
+}
+@keyframes fade-in-down {
+  from {
+    opacity: 0;
+    transform: translate3d(0, -20%, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
 /* End of Transitions  */
 
 /* Start of general components css */

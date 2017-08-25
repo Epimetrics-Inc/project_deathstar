@@ -82,24 +82,26 @@
                                 </button>
                             </div>
                         </div>
-
-                        <div id = "export-options">
-                            <button class="btn btn-default selector-button" href="#" type="button">
-                                Select all
-                            </button>
-                            <button class="btn btn-default selector-button" href="#" type="button">
-                                Deselect all
-                            </button>
-                                <button class=" btn btn-default search-option export-button icon-button" type="button">
-                                    <icon name="download"></icon>
+                        
+                        <transition name="fade">
+                            <div id = "export-options" v-if="checkedAOs.length > 0">
+                                <button class="btn btn-default selector-button" href="#" type="button">
+                                    Select all
                                 </button>
-                        </div>
+                                <button class="btn btn-default selector-button" href="#" type="button">
+                                    Deselect all
+                                </button>
+                                    <button class=" btn btn-default search-option export-button icon-button" type="button">
+                                        <icon name="download"></icon>
+                                    </button>
+                            </div>
+                        </transition>
                     </div>
                     <ul class="nav" id="side-menu">
                         <li href="index.html">
                             <a href="index.html">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="">
+                                    <input type="checkbox" value="AO1" v-model="checkedAOs">
                                 </div>
                                 <div>
                                     <div>AO No. 2017-0001-A</div>
@@ -112,7 +114,7 @@
                         <li href="index.html">
                             <a href="index.html">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="">
+                                    <input type="checkbox" value="AO2" v-model="checkedAOs">
                                 </div>
                                 <div>
                                     <div>AO No. 2017-0001-A</div>
@@ -125,7 +127,7 @@
                         <li href="index.html">
                             <a href="index.html">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="">
+                                    <input type="checkbox" value="AO3" v-model="checkedAOs">
                                 </div>
                                 <div>
                                     <div>AO No. 2017-0001-A</div>
@@ -138,7 +140,7 @@
                         <li href="index.html">
                             <a href="index.html">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="">
+                                    <input type="checkbox" value="AO4" v-model="checkedAOs">
                                 </div>
                                 <div>
                                     <div>AO No. 2017-0001-A</div>
@@ -151,7 +153,7 @@
                         <li href="index.html">
                             <a href="index.html">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="">
+                                    <input type="checkbox" value="AO5" v-model="checkedAOs">
                                 </div>
                                 <div>
                                     <div>AO No. 2017-0001-A</div>
@@ -164,7 +166,7 @@
                         <li href="index.html">
                             <a href="index.html">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="">
+                                    <input type="checkbox" value="AO6" v-model="checkedAOs">
                                 </div>
                                 <div>
                                     <div>AO No. 2017-0001-A</div>
@@ -177,7 +179,7 @@
                         <li href="index.html">
                             <a href="index.html">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="">
+                                    <input type="checkbox" value="AO7" v-model="checkedAOs">
                                 </div>
                                 <div>
                                     <div>AO No. 2017-0001-A</div>
@@ -190,7 +192,7 @@
                         <li href="index.html">
                             <a href="index.html">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="">
+                                    <input type="checkbox" value="AO8" v-model="checkedAOs">
                                 </div>
                                 <div>
                                     <div>AO No. 2017-0001-A</div>
@@ -203,7 +205,7 @@
                         <li href="index.html">
                             <a href="index.html">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="">
+                                    <input type="checkbox" value="A9" v-model="checkedAOs">
                                 </div>
                                 <div>
                                     <div>AO No. 2017-0001-A</div>
@@ -216,7 +218,7 @@
                         <li href="index.html">
                             <a href="index.html">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="">
+                                    <input type="checkbox" value="A10" v-model="checkedAOs">
                                 </div>
                                 <div>
                                     <div>AO No. 2017-0001-A</div>
@@ -803,7 +805,8 @@ export default {
     return {
       docStyle: {
         zoom: 1
-      }
+      },
+      checkedAOs: []
     }
   },
   methods: {
