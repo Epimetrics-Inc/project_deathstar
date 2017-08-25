@@ -18,9 +18,9 @@
 
                         <div class="form-group form-inline vis-type">
                             <label>Coverage</label>
-                            <select class="form-control">
-                                <option>Single Document</option>
-                                <option>All Documents</option>
+                            <select class="form-control" v-model="coverage">
+                                <option value="single">Single Document</option>
+                                <option value="all">All Documents</option>
                             </select>
                         </div>
                     </div>
@@ -94,79 +94,21 @@
                             </dropdown>
                         </div>
                     </div>
-                    <ul class="nav" id="side-menu">
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                    </ul>
+                    <transition name="fade">
 
+                        <ul v-if="coverage=='single'" class="nav" id="side-menu">
+                            <li v-for="ao in aoDocuments">
+                                <a href="/">
+                                    <div>
+                                        <div>{{ ao.docNum }}</div>
+                                        <div class="list-title text-muted"> 
+                                            {{ ao.docTitle }}
+                                        </div>
+                                    </div>
+                                </a>
+                            </li>
+                        </ul>
+                    </transition>
                     <div>
                         <button class="btn btn-default visualize-button" href="#" type="button">
                             Visualize
@@ -208,6 +150,53 @@ export default {
     navheader,
     dropdown,
     icon
+  },
+  data: function () {
+    return {
+      aoDocuments: [
+        {
+          docNum: 'AO No. 2017-0001-A',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-B',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-C',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-D',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-E',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-F',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-G',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-H',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-I',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-J',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        }
+      ],
+      coverage: 'single'
+    }
   }
 }
 </script>
