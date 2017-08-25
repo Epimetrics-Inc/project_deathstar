@@ -1,3 +1,5 @@
+const nodeExternals = require('webpack-node-externals')
+
 module.exports = {
   /*
   ** Headers of the page
@@ -35,6 +37,12 @@ module.exports = {
       } else {
         const babelLoader = config.module.rules.find((rule) => rule.loader === 'babel-loader')
         babelLoader.exclude = /node_modules\/(?![uiv])/
+
+        config.externals = [
+          nodeExternals({
+            whitelist: [/\.(?!(?:js|json)$).{1,5}$/i, /^vue-awesome/]
+          })
+        ]
       }
     }
   },
