@@ -85,145 +85,28 @@
                         
                         <transition name="fade">
                             <div id = "export-options" v-if="checkedAOs.length > 0">
-                                <button class="btn btn-default selector-button" href="#" type="button">
+                                <button v-on:click="selectAll()" class="btn btn-default selector-button" type="button">
                                     Select all
                                 </button>
-                                <button class="btn btn-default selector-button" href="#" type="button">
+                                <button v-on:click="deselectAll()" class="btn btn-default selector-button" href="#" type="button">
                                     Deselect all
                                 </button>
-                                    <button class=" btn btn-default search-option export-button icon-button" type="button">
+                                    <button v-on:click="downloadDocs()"class=" btn btn-default search-option export-button icon-button" type="button">
                                         <icon name="download"></icon>
                                     </button>
                             </div>
                         </transition>
                     </div>
                     <ul class="nav" id="side-menu">
-                        <li href="index.html">
-                            <a href="index.html">
+                        <li v-for="ao in aoDocuments">
+                            <a href="/">
                                 <div class="list-checkbox">
-                                    <input type="checkbox" value="AO1" v-model="checkedAOs">
+                                    <input v-bind:value="ao.docNum" type="checkbox" v-model="checkedAOs">
                                 </div>
                                 <div>
-                                    <div>AO No. 2017-0001-A</div>
+                                    <div>{{ ao.docNum }}</div>
                                     <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div class="list-checkbox">
-                                    <input type="checkbox" value="AO2" v-model="checkedAOs">
-                                </div>
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div class="list-checkbox">
-                                    <input type="checkbox" value="AO3" v-model="checkedAOs">
-                                </div>
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div class="list-checkbox">
-                                    <input type="checkbox" value="AO4" v-model="checkedAOs">
-                                </div>
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div class="list-checkbox">
-                                    <input type="checkbox" value="AO5" v-model="checkedAOs">
-                                </div>
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div class="list-checkbox">
-                                    <input type="checkbox" value="AO6" v-model="checkedAOs">
-                                </div>
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div class="list-checkbox">
-                                    <input type="checkbox" value="AO7" v-model="checkedAOs">
-                                </div>
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div class="list-checkbox">
-                                    <input type="checkbox" value="AO8" v-model="checkedAOs">
-                                </div>
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div class="list-checkbox">
-                                    <input type="checkbox" value="A9" v-model="checkedAOs">
-                                </div>
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
-                                    </div>
-                                </div>
-                            </a>
-                        </li>
-                        <li href="index.html">
-                            <a href="index.html">
-                                <div class="list-checkbox">
-                                    <input type="checkbox" value="A10" v-model="checkedAOs">
-                                </div>
-                                <div>
-                                    <div>AO No. 2017-0001-A</div>
-                                    <div class="list-title text-muted"> 
-                                        Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings
+                                        {{ ao.docTitle }}
                                     </div>
                                 </div>
                             </a>
@@ -803,6 +686,48 @@ export default {
 
   data: function () {
     return {
+      aoDocuments: [
+        {
+          docNum: 'AO No. 2017-0001-A',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-B',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-C',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-D',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-E',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-F',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-G',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-H',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-I',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        },
+        {
+          docNum: 'AO No. 2017-0001-J',
+          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+        }
+      ],
       docStyle: {
         zoom: 1
       },
@@ -819,6 +744,18 @@ export default {
       if (this.docStyle.zoom > 0.2) { // minimum 0.2
         this.docStyle.zoom = (this.docStyle.zoom * 10 - 0.2 * 10) / 10 // multiply and divide by 10 because js number is not exact
       }
+    },
+    selectAll: function (event) {
+      for (let ao of this.aoDocuments) {
+        this.checkedAOs.push(ao.docNum)
+      }
+    },
+    deselectAll: function (event) {
+      this.checkedAOs = []
+    },
+    downloadDocs: function (event) {
+      this.deselectAll()
+      alert('Document download')
     }
   }
 }
