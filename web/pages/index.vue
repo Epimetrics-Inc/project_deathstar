@@ -754,8 +754,10 @@ export default {
     toggleFilter: function (filter) {
       if (this.checkedFilters[filter]) {
         this.checkedFilters[filter] = false
-      } else {
+      } else if (this.checkedFilters[filter] === false) {
         this.checkedFilters[filter] = true
+      } else {
+        this.$set(this.checkedFilters, filter, true)
       }
     },
     setSortBy: function (sort) {
@@ -763,7 +765,7 @@ export default {
     }
   },
   mounted: function () {
-    for (let filter of this.filters) {
+    for (let filter of this.filters) { // initialize to check all filters
       this.$set(this.checkedFilters, filter, true)
     }
   }
