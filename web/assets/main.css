@@ -108,6 +108,7 @@ button .fa-icon{
   margin: 5px 15px;
   opacity: .86;
   border-radius: 4px;
+  cursor:default
 }
 
 .sidebar-nav {

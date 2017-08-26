@@ -23,28 +23,12 @@
                                         <div class="dropdown-header">
                                             Show only:
                                         </div>
-                                        <a>
+                                        <a v-for="filter in filters" @click.stop="toggleFilter(filter)">
                                             <div>
-                                                <icon name="check"></icon>
-                                                Adolescent Health
-                                            </div>
-                                        </a>
-                                        <a>
-                                            <div>
-                                                <icon name="check"></icon>
-                                                Geriatric Health
-                                            </div>
-                                        </a>
-                                        <a>
-                                            <div>
-                                                <icon name="check"></icon>
-                                                MNCHN
-                                            </div>
-                                        </a>
-                                        <a>
-                                            <div>
-                                                <icon name="check"></icon>
-                                                Others
+                                                <icon v-bind:style="{visibility: checkedFilters[filter] ? 'visible': 'hidden'}" name="check"></icon>
+                                                <span class="filter-name">
+                                                    {{ filter }}
+                                                </span>
                                             </div>
                                         </a>
                                     </li>
@@ -98,7 +82,7 @@
                         </transition>
                     </div>
                     <ul class="nav" id="side-menu">
-                        <li v-for="ao in aoDocuments">
+                        <li v-for="ao in aoDocuments" :key="ao.docNum">
                             <a href="/">
                                 <div class="list-checkbox">
                                     <input v-bind:value="ao.docNum" type="checkbox" v-model="checkedAOs">
@@ -731,7 +715,14 @@ export default {
       docStyle: {
         fontSize: '15px' // 15 is default font-size
       },
-      checkedAOs: []
+      checkedAOs: [],
+      filters: [
+        'Adolescent Health',
+        'Geriatric Health',
+        'MNCHN',
+        'Others'
+      ],
+      checkedFilters: {}
     }
   },
   methods: {
@@ -758,6 +749,18 @@ export default {
     downloadDocs: function (event) {
       this.deselectAll()
       alert('Document download')
+    },
+    toggleFilter: function (filter) {
+      if (this.checkedFilters[filter]) {
+        this.checkedFilters[filter] = false
+      } else {
+        this.checkedFilters[filter] = true
+      }
+    }
+  },
+  mounted: function () {
+    for (let filter of this.filters) {
+      this.$set(this.checkedFilters, filter, true)
     }
   }
 }
