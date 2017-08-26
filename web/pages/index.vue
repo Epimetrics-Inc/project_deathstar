@@ -37,21 +37,21 @@
                                         <div class="dropdown-header">
                                             Sort by:
                                         </div>
-                                        <a>
+                                        <a @click.stop="setSortBy('newest')">
                                             <div>
-                                                <icon name="check"></icon>
+                                                <icon v-bind:style="{visibility: sortBy == 'newest' ? 'visible': 'hidden'}" name="check"></icon>
                                                 Date (newest)
                                             </div>
                                         </a>
-                                        <a>
+                                        <a @click.stop="setSortBy('oldest')">
                                             <div>
-                                                <icon name="check"></icon>
+                                                <icon v-bind:style="{visibility: sortBy == 'oldest' ? 'visible': 'hidden'}" name="check"></icon>
                                                 Date (oldest)
                                             </div>
                                         </a>
-                                        <a>
+                                        <a @click.stop="setSortBy('relevance')">
                                             <div>
-                                                <icon name="check"></icon>
+                                                <icon v-bind:style="{visibility: sortBy == 'relevance' ? 'visible': 'hidden'}" name="check"></icon>
                                                 Relevance
                                             </div>
                                         </a>
@@ -68,7 +68,7 @@
                         </div>
                         
                         <transition name="fade">
-                            <div id = "export-options" v-if="checkedAOs.length > 0">
+                            <div id = "export-options" v-show="checkedAOs.length > 0">
                                 <button v-on:click="selectAll()" class="btn btn-default selector-button" type="button">
                                     Select all
                                 </button>
@@ -722,7 +722,8 @@ export default {
         'MNCHN',
         'Others'
       ],
-      checkedFilters: {}
+      checkedFilters: {},
+      sortBy: 'newest'
     }
   },
   methods: {
@@ -756,6 +757,9 @@ export default {
       } else {
         this.checkedFilters[filter] = true
       }
+    },
+    setSortBy: function (sort) {
+      this.sortBy = sort
     }
   },
   mounted: function () {
