@@ -21,13 +21,22 @@
                                 <template slot="dropdown">
                                     <li>
                                         <div class="dropdown-header">
-                                            Show only:
+                                            Show only
                                         </div>
                                         <a v-for="filter in filters" @click.stop="toggleFilter(filter)">
                                             <div>
                                                 <icon v-bind:style="{visibility: checkedFilters[filter] ? 'visible': 'hidden'}" name="check"></icon>
-                                                <span class="filter-name">
+                                                <span>
                                                     {{ filter }}
+                                                </span>
+                                            </div>
+                                        </a>
+
+                                        <a>
+                                            <div>
+                                                <icon></icon>
+                                                <span>
+                                                    See more filters
                                                 </span>
                                             </div>
                                         </a>
@@ -35,7 +44,7 @@
                                     <li class="divider"></li>
                                     <li>
                                         <div class="dropdown-header">
-                                            Sort by:
+                                            Sort by
                                         </div>
                                         <a @click.stop="setSortBy('newest')">
                                             <div>

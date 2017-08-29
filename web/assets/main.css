@@ -226,6 +226,7 @@ button .fa-icon{
 /* Start of page-wrapper */
 #page-wrapper .zoom-buttons{
   position: absolute;
+  top:100px;
   right: 50px;
   background-color: rgba(229,229,229, 0.2);
   border-radius: 30px;
