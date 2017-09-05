@@ -730,7 +730,7 @@ export default {
         'Adolescent Health',
         'Geriatric Health',
         'MNCHN',
-        'Others'
+        'Special Population'
       ],
       checkedAOs: [],
       checkedFilters: {},
