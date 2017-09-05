@@ -3,7 +3,7 @@
 
 	    <nav class="navbar navbar-default navbar-static-top" role="navigation">
 	        <div class="navbar-header">                     
-	            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+	            <button type="button" class="navbar-toggle" v-on:click="toogleSideBar">
 	                    <span class="sr-only">Toggle navigation</span>
 	                    <span class="icon-bar"></span>
 	                    <span class="icon-bar"></span>
@@ -33,6 +33,11 @@
 
 <script>
 export default {
-  props: ['isVisActive', 'isDocActive', 'isAboutActive']
+  props: ['isVisActive', 'isDocActive', 'isAboutActive'],
+  methods: {
+    toogleSideBar: function (event) {
+      this.$emit('tooglesidebar')
+    }
+  }
 }
 </script>
