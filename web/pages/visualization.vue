@@ -14,14 +14,6 @@
                             <option>Frequency Chart</option>
                         </select>
                     </div>
-
-                    <div class="form-group form-inline vis-type">
-                        <label>Coverage</label>
-                        <select class="form-control" v-model="coverage">
-                            <option value="single">Single Document</option>
-                            <option value="all">All Documents</option>
-                        </select>
-                    </div>
                 </div>
                 <div class="sidebar-search">
                     <div class="sidebar-search-options">
@@ -31,83 +23,86 @@
                         </div>
 
                         <dropdown>
-                            <button data-role="trigger" class="dropdown-toggle btn btn-default search-option" type="button">
+                            <button data-role="trigger" class="dropdown-toggle btn btn-default search-option icon-button" type="button">
                                 <icon name="filter"></icon>
                             </button>
                             <template slot="dropdown">
                                 <li>
                                     <div class="dropdown-header">
-                                        Show only:
+                                        Show only
                                     </div>
-                                    <a>
+                                    <a v-for="filter in filters" @click.stop="toggleFilter(filter)">
                                         <div>
-                                            <icon name="check"></icon>
-                                            Adolescent Health
+                                            <icon v-bind:style="{visibility: checkedFilters[filter] ? 'visible': 'hidden'}" name="check"></icon>
+                                            <span>
+                                                {{ filter }}
+                                            </span>
                                         </div>
                                     </a>
+
                                     <a>
                                         <div>
-                                            <icon name="check"></icon>
-                                            Geriatric Health
-                                        </div>
-                                    </a>
-                                    <a>
-                                        <div>
-                                            <icon name="check"></icon>
-                                            MNCHN
-                                        </div>
-                                    </a>
-                                    <a>
-                                        <div>
-                                            <icon name="check"></icon>
-                                            Others
+                                            <icon></icon>
+                                            <span>
+                                                See more filters
+                                            </span>
                                         </div>
                                     </a>
                                 </li>
                                 <li class="divider"></li>
                                 <li>
                                     <div class="dropdown-header">
-                                        Sort by:
+                                        Sort by
                                     </div>
-                                    <a>
+                                    <a @click.stop="setSortBy('newest')">
                                         <div>
-                                            <icon name="check"></icon>
+                                            <icon v-bind:style="{visibility: sortBy == 'newest' ? 'visible': 'hidden'}" name="check"></icon>
                                             Date (newest)
                                         </div>
                                     </a>
-                                    <a>
+                                    <a @click.stop="setSortBy('oldest')">
                                         <div>
-                                            <icon name="check"></icon>
+                                            <icon v-bind:style="{visibility: sortBy == 'oldest' ? 'visible': 'hidden'}" name="check"></icon>
                                             Date (oldest)
                                         </div>
                                     </a>
-                                    <a>
+                                    <a @click.stop="setSortBy('relevance')">
                                         <div>
-                                            <icon name="check"></icon>
+                                            <icon v-bind:style="{visibility: sortBy == 'relevance' ? 'visible': 'hidden'}" name="check"></icon>
                                             Relevance
                                         </div>
                                     </a>
                                 </li>
                             </template>
-
                         </dropdown>
                     </div>
+                    
+                    <transition name="fade">
+                        <div id = "export-options" v-show="checkedAOs.length > 0">
+                            <button v-on:click="selectAll()" class="btn btn-default selector-button" type="button">
+                                Select all
+                            </button>
+                            <button v-on:click="deselectAll()" class="btn btn-default selector-button" href="#" type="button">
+                                Deselect all
+                            </button>
+                        </div>
+                    </transition>
                 </div>
-                <transition name="fade">
-
-                    <ul v-if="coverage=='single'" class="nav" id="side-menu">
-                        <li v-for="ao in aoDocuments">
-                            <a href="/">
-                                <div>
-                                    <div>{{ ao.docNum }}</div>
-                                    <div class="list-title text-muted"> 
-                                        {{ ao.docTitle }}
-                                    </div>
+                <ul class="nav" id="side-menu">
+                    <li v-for="ao in aoDocuments" :key="ao.docNum">
+                        <a href="/">
+                            <div class="list-checkbox">
+                                <input v-bind:value="ao.docNum" type="checkbox" v-model="checkedAOs">
+                            </div>
+                            <div>
+                                <div>{{ ao.docNum }}</div>
+                                <div class="list-title text-muted"> 
+                                    {{ ao.docTitle }}
                                 </div>
-                            </a>
-                        </li>
-                    </ul>
-                </transition>
+                            </div>
+                        </a>
+                    </li>
+               	</ul>
                 <div>
                     <button class="btn btn-default visualize-button" href="#" type="button">
                         Visualize
@@ -134,10 +129,6 @@
 import 'vue-awesome/icons/search'
 import 'vue-awesome/icons/filter'
 import 'vue-awesome/icons/check'
-import 'vue-awesome/icons/plus'
-import 'vue-awesome/icons/download'
-import 'vue-awesome/icons/search-plus'
-import 'vue-awesome/icons/search-minus'
 
 import navheader from '~/components/navheader.vue'
 import dropdown from 'uiv/src/components/dropdown/Dropdown.vue'
@@ -195,8 +186,38 @@ export default {
           docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
         }
       ],
-      coverage: 'single',
+      filters: [
+        'Adolescent Health',
+        'Geriatric Health',
+        'MNCHN',
+        'Others'
+      ],
+      checkedAOs: [],
+      checkedFilters: {},
+      sortBy: 'newest',
       sidebarCollapse: true
+    }
+  },
+  methods: {
+    selectAll: function (event) {
+      for (let ao of this.aoDocuments) {
+        this.checkedAOs.push(ao.docNum)
+      }
+    },
+    deselectAll: function (event) {
+      this.checkedAOs = []
+    },
+    toggleFilter: function (filter) {
+      if (this.checkedFilters[filter]) {
+        this.checkedFilters[filter] = false
+      } else if (this.checkedFilters[filter] === false) {
+        this.checkedFilters[filter] = true
+      } else {
+        this.$set(this.checkedFilters, filter, true)
+      }
+    },
+    setSortBy: function (sort) {
+      this.sortBy = sort
     }
   }
 }
