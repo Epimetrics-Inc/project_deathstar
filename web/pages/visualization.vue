@@ -7,17 +7,37 @@
             <div class="sidebar-nav">
                 
                 <div class="sidebar-vis-options">
-                    <div class="form-group form-inline vis-type">
+                    <div class="form-group form-inline">
                         <label>Type</label>
                         <select class="form-control">
                             <option>Word Cloud</option>
                             <option>Frequency Chart</option>
                         </select>
                     </div>
+                    <div class="form-group form-inline">
+                        <label>Coverage</label>
+                        <select class="form-control" v-model="coverage">
+                            <option value="single">Specific Document</option>
+                            <option value="theme">Specific Theme</option>
+                            <option value="all">All Documents</option>
+                        </select>
+                    </div>
+                    <transition name="fade">
+                    <div class="form-group form-inline" v-show="coverage=='theme'">
+                      <label>Themes</label>
+                      <select class="form-control">
+                          <option>Adolescent Health</option>
+                          <option>Geriatric Health</option>
+                          <option>MNCHN</option>
+                          <option>Special Population</option>
+                      </select>
+                		</div>
+                		</transition>
                 </div>
 		        		
-        				<navsearch is-doc-active="false"></navsearch>
-
+		        		<transition name="fade">
+        					<navsearch is-doc-active="false" v-show="coverage=='single'"></navsearch>
+								</transition>
                 <div>
                     <button class="btn btn-default visualize-button" href="#" type="button">
                         Visualize
@@ -61,7 +81,8 @@ export default {
   },
   data: function () {
     return {
-      sidebarCollapse: true
+      sidebarCollapse: true,
+      coverage: 'single'
     }
   }
 }
