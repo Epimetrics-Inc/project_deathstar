@@ -14,29 +14,6 @@
 	              <template slot="dropdown">
 	                  <li>
 	                      <div class="dropdown-header">
-	                          Show only
-	                      </div>
-	                      <a v-for="filter in filters" @click.stop="toggleFilter(filter)">
-	                          <div>
-	                              <icon v-bind:style="{visibility: checkedFilters[filter] ? 'visible': 'hidden'}" name="check"></icon>
-	                              <span>
-	                                  {{ filter }}
-	                              </span>
-	                          </div>
-	                      </a>
-
-	                      <a>
-	                          <div>
-	                              <icon></icon>
-	                              <span>
-	                                  See more filters
-	                              </span>
-	                          </div>
-	                      </a>
-	                  </li>
-	                  <li class="divider"></li>
-	                  <li>
-	                      <div class="dropdown-header">
 	                          Sort by
 	                      </div>
 	                      <a @click.stop="setSortBy('newest')">
@@ -55,6 +32,20 @@
 	                          <div>
 	                              <icon v-bind:style="{visibility: sortBy == 'relevance' ? 'visible': 'hidden'}" name="check"></icon>
 	                              Relevance
+	                          </div>
+	                      </a>
+	                  </li>
+	                  <li class="divider"></li>
+	                  <li>
+	                      <div class="dropdown-header">
+	                          Show only
+	                      </div>
+	                      <a v-for="filter in filters" @click.stop="toggleFilter(filter)">
+	                          <div>
+	                              <icon v-bind:style="{visibility: checkedFilters[filter] ? 'visible': 'hidden'}" name="check"></icon>
+	                              <span>
+	                                  {{ filter }}
+	                              </span>
 	                          </div>
 	                      </a>
 	                  </li>
