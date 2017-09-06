@@ -15,94 +15,9 @@
                         </select>
                     </div>
                 </div>
-                <div class="sidebar-search">
-                    <div class="sidebar-search-options">
-                        <div class="has-feedback has-feedback-left search-option">
-                            <input type="text" class="form-control" placeholder="Search..." />
-                            <icon class="form-control-feedback" name="search"></icon>
-                        </div>
+		        		
+        				<navsearch is-doc-active="false"></navsearch>
 
-                        <dropdown>
-                            <button data-role="trigger" class="dropdown-toggle btn btn-default search-option icon-button" type="button">
-                                <icon name="filter"></icon>
-                            </button>
-                            <template slot="dropdown">
-                                <li>
-                                    <div class="dropdown-header">
-                                        Show only
-                                    </div>
-                                    <a v-for="filter in filters" @click.stop="toggleFilter(filter)">
-                                        <div>
-                                            <icon v-bind:style="{visibility: checkedFilters[filter] ? 'visible': 'hidden'}" name="check"></icon>
-                                            <span>
-                                                {{ filter }}
-                                            </span>
-                                        </div>
-                                    </a>
-
-                                    <a>
-                                        <div>
-                                            <icon></icon>
-                                            <span>
-                                                See more filters
-                                            </span>
-                                        </div>
-                                    </a>
-                                </li>
-                                <li class="divider"></li>
-                                <li>
-                                    <div class="dropdown-header">
-                                        Sort by
-                                    </div>
-                                    <a @click.stop="setSortBy('newest')">
-                                        <div>
-                                            <icon v-bind:style="{visibility: sortBy == 'newest' ? 'visible': 'hidden'}" name="check"></icon>
-                                            Date (newest)
-                                        </div>
-                                    </a>
-                                    <a @click.stop="setSortBy('oldest')">
-                                        <div>
-                                            <icon v-bind:style="{visibility: sortBy == 'oldest' ? 'visible': 'hidden'}" name="check"></icon>
-                                            Date (oldest)
-                                        </div>
-                                    </a>
-                                    <a @click.stop="setSortBy('relevance')">
-                                        <div>
-                                            <icon v-bind:style="{visibility: sortBy == 'relevance' ? 'visible': 'hidden'}" name="check"></icon>
-                                            Relevance
-                                        </div>
-                                    </a>
-                                </li>
-                            </template>
-                        </dropdown>
-                    </div>
-                    
-                    <transition name="fade">
-                        <div id = "export-options" v-show="checkedAOs.length > 0">
-                            <button v-on:click="selectAll()" class="btn btn-default selector-button" type="button">
-                                Select all
-                            </button>
-                            <button v-on:click="deselectAll()" class="btn btn-default selector-button" href="#" type="button">
-                                Deselect all
-                            </button>
-                        </div>
-                    </transition>
-                </div>
-                <ul class="nav" id="side-menu">
-                    <li v-for="ao in aoDocuments" :key="ao.docNum">
-                        <a href="/">
-                            <div class="list-checkbox">
-                                <input v-bind:value="ao.docNum" type="checkbox" v-model="checkedAOs">
-                            </div>
-                            <div>
-                                <div>{{ ao.docNum }}</div>
-                                <div class="list-title text-muted"> 
-                                    {{ ao.docTitle }}
-                                </div>
-                            </div>
-                        </a>
-                    </li>
-               	</ul>
                 <div>
                     <button class="btn btn-default visualize-button" href="#" type="button">
                         Visualize
@@ -131,6 +46,7 @@ import 'vue-awesome/icons/filter'
 import 'vue-awesome/icons/check'
 
 import navheader from '~/components/navheader.vue'
+import navsearch from '~/components/navsearch.vue'
 import dropdown from 'uiv/src/components/dropdown/Dropdown.vue'
 import collapse from 'uiv/src/components/collapse/Collapse.vue'
 import icon from 'vue-awesome/components/Icon'
@@ -138,6 +54,7 @@ import icon from 'vue-awesome/components/Icon'
 export default {
   components: {
     navheader,
+    navsearch,
     dropdown,
     collapse,
     icon
