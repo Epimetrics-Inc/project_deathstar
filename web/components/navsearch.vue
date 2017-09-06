@@ -60,7 +60,7 @@
 	          </div>
 	      </div>
 	      
-	      <transition name="fade" v-if="isDocActive == 'true'">
+	      <transition name="fade">
 	          <div id = "export-options" v-show="checkedAOs.length > 0">
 	              <button v-on:click="selectAll()" class="btn btn-default selector-button" type="button">
 	                  Select all
@@ -77,7 +77,7 @@
 	  <ul class="nav" id="side-menu">
 	      <li v-for="ao in aoDocuments" :key="ao.docNum">
 	          <a href="/">
-	              <div class="list-checkbox" v-if="isDocActive == 'true'">
+	              <div class="list-checkbox">
 	                  <input v-bind:value="ao.docNum" type="checkbox" v-model="checkedAOs">
 	              </div>
 	              <div>
