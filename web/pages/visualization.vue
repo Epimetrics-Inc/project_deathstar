@@ -67,7 +67,6 @@ import 'vue-awesome/icons/check'
 
 import navheader from '~/components/navheader.vue'
 import navsearch from '~/components/navsearch.vue'
-import dropdown from 'uiv/src/components/dropdown/Dropdown.vue'
 import collapse from 'uiv/src/components/collapse/Collapse.vue'
 import icon from 'vue-awesome/components/Icon'
 
@@ -75,7 +74,6 @@ export default {
   components: {
     navheader,
     navsearch,
-    dropdown,
     collapse,
     icon
   },

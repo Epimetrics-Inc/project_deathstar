@@ -48,6 +48,14 @@
 	                              </span>
 	                          </div>
 	                      </a>
+	                      <a>
+	                          <div>
+	                              <icon></icon>
+	                              <span>
+	                                  See more filters
+	                              </span>
+	                          </div>
+	                      </a>
 	                  </li>
 	              </template>
 
