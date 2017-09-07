@@ -1,11 +1,15 @@
 import os
 import re
 import copy
+import codecs
 from lxml import etree
+import pandas as pd
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.dialects import postgresql as psql
 from sqlalchemy import Column, Integer, String, DATE
+
+# EXTRACT
 
 
 def remove_special_chars(string: str) -> str:
@@ -14,17 +18,25 @@ def remove_special_chars(string: str) -> str:
     """
     output = copy.deepcopy(string)
     output = re.sub('&', '&amp;', output)
+    # output = re.sub('<', '&lt;', output)
+    # output = re.sub('>', '&gt;', output)
+    output = re.sub("”", '&quot;', output)
+    output = re.sub("‘", '&apos;', output)
+    output = re.sub("'", '&apos;', output)
+    output = re.sub('"', '&quot;', output)
 
     return output
 
 
 def read_file(fn: str) -> str:
     """
-    Given a filename string, return the contents in string type.
+    Given a filename string, return the contents in string type with added data tags.
     """
     data = '<data>'
-    with open(fn, 'r') as f:
-        data += remove_special_chars(f.read())
+    with open(fn, 'rb') as f:
+        raw = f.read()
+        file_data = remove_special_chars(codecs.decode(raw, errors='replace'))
+        data += file_data
 
     data += '</data>'
     return data
@@ -40,32 +52,64 @@ def read_xml(fn: str) -> etree._Element:
     return xml
 
 
-def check_errors(dir: str):
+def process_xml(dir: str) -> dict:
     """
     Check errors and generates and error.txt
     """
-
-    logfn = open('errors.txt', 'w')
 
     fn = []
     for _, _, fn in os.walk(dir):
         fn = fn
 
+    data = {}
+    final = {}
+
+    logfn = open('errors.txt', 'w')
+
     for file in fn:
         try:
-            read_xml(file)
+            d = extract_data(read_xml(file))
+            tmp_fn = re.sub('.pdf.*$', '', file)
+            formatted_date = format_date(d['date']['text'])
+            d['date']['text'] = str(formatted_date)
+            data[tmp_fn] = d
 
         except Exception as error:
-            print("Error in ", file)
-            try:
-                logfn.write(file)
-                logfn.write(": ")
-                logfn.write(str(error))
-                logfn.write('\n')
-            except:
-                logfn.close()
+            logfn.write(str(file) + ": " + str(error) + "\n")
+
+    final = {i: {k: v.get('text')
+                 for k, v in data[i].items()} for i in data.keys()}
+
+    for i in final.keys():
+        final[i]['image'] = data[i]['image']
+        final[i]['raw_json'] = data[i]
 
     logfn.close()
+
+    return final
+
+
+def check_tags(data: etree._Element) -> bool:
+    names = set([
+        'date',
+        'docnum',
+        'doctype',
+        'subject',
+        'body',
+        'image',
+        'sign',
+        'signtitle',
+        'missingtext'
+    ])
+    elements = data.findall('.//')
+    tags = set([i.tag for i in elements])
+    diff = tags.difference(names)
+
+    if len(diff) != 0:
+        raise AttributeError(
+            str(diff) + " are mislabeled / do not follow protocols.")
+
+    return True
 
 
 def extract_data(data: etree._Element) -> dict:
@@ -73,10 +117,12 @@ def extract_data(data: etree._Element) -> dict:
     Converts xml data to dict with text and line numbers
     """
     d = {}
+    check_tags(data)
     d['date'] = find_tag(data, 'date')
     d['doctype'] = find_tag(data, 'doctype')
     d['docnum'] = find_tag(data, 'docnum')
     d['subject'] = find_tag(data, 'subject')
+    d['body'] = find_tag(data, 'body')
     d['sign'] = find_tag(data, 'sign')
     d['signtitle'] = find_tag(data, 'signtitle')
     d['image'] = find_tag(data, 'image', all=True)
@@ -109,7 +155,79 @@ def find_tag(data: etree._Element, tag: str, all=False) -> dict:
             }
         return d
 
+# TRANSFORM
 
+
+def rawstr(s):
+    """
+    Return the raw string representation (using r'') literals of the string
+    *s* if it is available. If any invalid characters are encountered (or a
+    string which cannot be represented as a rawstr), the default repr() result
+    is returned.
+    """
+    if any(0 <= ord(ch) < 32 for ch in s):
+        return repr(s)
+
+    if (len(s) - len(s.rstrip("\\"))) % 2 == 1:
+        return repr(s)
+
+    pattern = "r'{0}'"
+    if '"' in s:
+        if "'" in s:
+            return repr(s)
+    elif "'" in s:
+        pattern = 'r"{0}"'
+
+    return pattern.format(s)
+
+
+def format_date(s: str) -> str:
+
+    if s is None or s.isspace() or s.lower() == 'nd':
+        s = '01/01/2050'
+
+    formats = [
+        '%b %d, %Y',
+        '%B %d, %Y',
+        '%B %d, %Y',
+        '%B %d,, %Y',
+        '%B, %d, %Y',
+        '%B %d,%Y',
+        # 
+        '%d/%m/%Y',
+        '%d/%m/%y',
+        '%m/%d/%Y',
+        '%m/%d/%y',
+        # '-%m/%d/%Y'
+        '%d %B,%Y',
+        '%d %B%Y',
+        '%B %d %Y',
+        ' %b %d, %Y',
+        '%b %d, %Y',
+        '%d %B. %Y',
+        '%d %B, %Y',
+        '%b %d,%Y',
+        '%b %d %Y',
+        '%d %b %Y',
+        '%d %B %Y',
+        '%B,%Y',
+        '%B, %Y',
+        # '%d/%-m/%Y'
+    ]
+
+    s = s.strip().capitalize()
+    tmp = ''
+    for f in formats:
+        if not isinstance(tmp, pd._libs.tslib.Timestamp):
+            tmp = pd.to_datetime(s, errors='ignore', format=f)
+
+    if not isinstance(tmp, pd._libs.tslib.Timestamp):
+        raise TypeError('date error: ', rawstr(tmp) + ": " + str(type(tmp)))
+
+    return str(tmp.date())
+
+
+# LOAD
 Base = declarative_base()
 
 

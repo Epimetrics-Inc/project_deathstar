@@ -1,3 +1,0 @@
-figure_1.png: 'charmap' codec can't decode byte 0x8f in position 57: character maps to <undefined>
-figure_2.png: 'charmap' codec can't decode byte 0x8f in position 57: character maps to <undefined>
-figure_3.png: 'charmap' codec can't decode byte 0x8f in position 57: character maps to <undefined>

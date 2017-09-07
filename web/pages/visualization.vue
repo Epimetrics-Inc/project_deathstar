@@ -14,30 +14,9 @@
                             <option>Frequency Chart</option>
                         </select>
                     </div>
-                    <div class="form-group form-inline">
-                        <label>Coverage</label>
-                        <select class="form-control" v-model="coverage">
-                            <option value="single">Specific Document</option>
-                            <option value="theme">Specific Theme</option>
-                            <option value="all">All Documents</option>
-                        </select>
-                    </div>
-                    <transition name="fade">
-                    <div class="form-group form-inline" v-show="coverage=='theme'">
-                      <label>Themes</label>
-                      <select class="form-control">
-                          <option>Adolescent Health</option>
-                          <option>Geriatric Health</option>
-                          <option>MNCHN</option>
-                          <option>Special Population</option>
-                      </select>
-                		</div>
-                		</transition>
                 </div>
 		        		
-		        		<transition name="fade">
-        					<navsearch is-doc-active="false" v-show="coverage=='single'"></navsearch>
-								</transition>
+      					<navsearch is-doc-active="false"></navsearch>
                 <div>
                     <button class="btn btn-default visualize-button" href="#" type="button">
                         Visualize
@@ -79,8 +58,7 @@ export default {
   },
   data: function () {
     return {
-      sidebarCollapse: true,
-      coverage: 'single'
+      sidebarCollapse: true
     }
   }
 }
