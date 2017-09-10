@@ -174,3 +174,5 @@ secret_config.json
 
 # Ignore vagrant files
 .vagrant/
+
+*.bin

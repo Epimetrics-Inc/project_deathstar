@@ -8,6 +8,7 @@ from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.dialects import postgresql as psql
 from sqlalchemy import Column, Integer, String, DATE
+from sqlalchemy.orm import sessionmaker
 
 # EXTRACT
 
@@ -82,6 +83,9 @@ def process_xml(dir: str) -> dict:
 
     for i in final.keys():
         final[i]['image'] = data[i]['image']
+        # inefficient / bad fix for now
+        final[i]['images'] = final[i].pop('image')
+        final[i]['title'] = i
         final[i]['raw_json'] = data[i]
 
     logfn.close()
@@ -228,29 +232,34 @@ def format_date(s: str) -> str:
 
 
 # LOAD
-Base = declarative_base()
-
-
-class Document(Base):
-    __tablename__ = 'document'
-
-    id = Column(Integer, primary_key=True)
-    date = Column(DATE)
-    doctype = Column(String)
-    docnum = Column(String)
-    subject = Column(String)
-    body = Column(String)
-    sign = Column(String)
-    signtitle = Column(String)
-    images = Column(psql.JSONB)
-    raw_json = Column(psql.JSONB)
-
-    def __repr__(self):
-        return self.docnum
-
-
-def to_sql(data: dict):
+def insert_db(data: dict):
     """
-    Converts dict to sql
+    Converts dict to sql and inserts to postgres
     """
+    Base = declarative_base()
+
+
+    class Document(Base):
+        __tablename__ = 'document'
+
+        id = Column(Integer, primary_key=True)
+        title = Column(psql.TEXT)
+        date = Column(DATE)
+        doctype = Column(psql.TEXT)
+        docnum = Column(psql.TEXT)
+        subject = Column(psql.TEXT)
+        body = Column(psql.TEXT)
+        sign = Column(psql.TEXT)
+        signtitle = Column(psql.TEXT)
+        images = Column(psql.JSONB)
+        raw_json = Column(psql.JSONB)
+
+        def __repr__(self):
+            return self.title
+
     engine = create_engine('postgresql://dev:dev@localhost/dev')
+    Base.metadata.create_all(engine)
+    Session = sessionmaker(bind=engine)
+    session = Session()
+    session.add_all([Document(**data[key]) for key in data.keys()])
+    session.commit()
