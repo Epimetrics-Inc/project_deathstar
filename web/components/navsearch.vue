@@ -1,103 +1,115 @@
 <template>
-	<div class="search-wrapper">
-		<div class="sidebar-search">
-	      <div class="sidebar-search-options">
-	          <div class="has-feedback has-feedback-left search-option">
-	              <input type="text" class="form-control" placeholder="Search..." />
-	              <icon class="form-control-feedback" name="search"></icon>
-	          </div>
+  <div class="search-wrapper">
+    <div class="sidebar-search">
+        <div class="sidebar-search-options">
+            <div class="has-feedback has-feedback-left search-option">
+                <input type="text" class="form-control" placeholder="Search..." />
+                <icon class="form-control-feedback" name="search"></icon>
+            </div>
+            <button class=" btn btn-default search-option icon-button" type="button" v-on:click="isFilterModalOpen=true">
+                <icon name="filter"></icon>
+            </button>
+            <div v-if="isDocActive == 'true'">
+                <button class=" btn btn-default search-option icon-button" type="button">
+                    <icon name="plus"></icon>
+                </button>
+            </div>
+        </div>
+        
+        <transition name="fade">
+            <div id = "export-options" v-show="checkedAOs.length > 0">
+                <button v-on:click="selectAll()" class="btn btn-default selector-button" type="button">
+                    Select all
+                </button>
+                <button v-on:click="deselectAll()" class="btn btn-default selector-button" href="#" type="button">
+                    Deselect all
+                </button>
+                    <button v-on:click="downloadDocs()" v-if="isDocActive == 'true'" class="btn btn-default search-option export-button icon-button" type="button">
+                        <icon name="download"></icon>
+                    </button>
+            </div>
+        </transition>
+    </div>
+    <ul class="nav" id="side-menu">
+        <li v-for="ao in aoDocuments" :key="ao.docNum">
+            <a href="/">
+                <div class="list-checkbox">
+                    <input v-bind:value="ao.docNum" type="checkbox" v-model="checkedAOs">
+                </div>
+                <div>
+                    <div>{{ ao.docNum }}</div>
+                    <div class="list-title text-muted"> 
+                        {{ ao.docTitle }}
+                    </div>
+                </div>
+            </a>
+        </li>
+    </ul>
+    <modal v-model="isFilterModalOpen" title="Advanced Search" class="modal-wrapper" :footer="false">
+        <div class="modal-custom-header">Themes</div>
+        <div>
+            <label class="checkbox-inline" v-for="filter in filters">
+                <input type="checkbox" v-bind:value="filter" v-model="checkedFilters">
+                {{ filter }}
+            </label>
+        </div>
 
-	          <dropdown>
-	              <button data-role="trigger" class="dropdown-toggle btn btn-default search-option icon-button" type="button">
-	                  <icon name="filter"></icon>
-	              </button>
-	              <template slot="dropdown">
-	                  <li>
-	                      <div class="dropdown-header">
-	                          Sort by
-	                      </div>
-	                      <a @click.stop="setSortBy('newest')">
-	                          <div>
-	                              <icon v-bind:style="{visibility: sortBy == 'newest' ? 'visible': 'hidden'}" name="check"></icon>
-	                              Date (newest)
-	                          </div>
-	                      </a>
-	                      <a @click.stop="setSortBy('oldest')">
-	                          <div>
-	                              <icon v-bind:style="{visibility: sortBy == 'oldest' ? 'visible': 'hidden'}" name="check"></icon>
-	                              Date (oldest)
-	                          </div>
-	                      </a>
-	                      <a @click.stop="setSortBy('relevance')">
-	                          <div>
-	                              <icon v-bind:style="{visibility: sortBy == 'relevance' ? 'visible': 'hidden'}" name="check"></icon>
-	                              Relevance
-	                          </div>
-	                      </a>
-	                  </li>
-	                  <li class="divider"></li>
-	                  <li>
-	                      <div class="dropdown-header">
-	                          Show only
-	                      </div>
-	                      <a v-for="filter in filters" @click.stop="toggleFilter(filter)">
-	                          <div>
-	                              <icon v-bind:style="{visibility: checkedFilters[filter] ? 'visible': 'hidden'}" name="check"></icon>
-	                              <span>
-	                                  {{ filter }}
-	                              </span>
-	                          </div>
-	                      </a>
-	                      <a>
-	                          <div>
-	                              <icon></icon>
-	                              <span>
-	                                  See more filters
-	                              </span>
-	                          </div>
-	                      </a>
-	                  </li>
-	              </template>
+        <hr>
 
-	          </dropdown>
+        <div class="modal-custom-header">Sort by</div>
+        <div>
+            <label class="radio-inline">
+                <input type="radio" v-model="sortBy" value = "newest">
+                Date (newest)
+            </label>
+            <label class="radio-inline">
+                <input type="radio" v-model="sortBy" value = "oldest">
+                Date (oldest)
+            </label>
+            <label class="radio-inline">
+                <input type="radio" v-model="sortBy" value = "relevance">
+                Relevance
+            </label>
+        </div>
 
-	          <div v-if="isDocActive == 'true'">
-	              <button class=" btn btn-default search-option icon-button" type="button">
-	                  <icon name="plus"></icon>
-	              </button>
-	          </div>
-	      </div>
-	      
-	      <transition name="fade">
-	          <div id = "export-options" v-show="checkedAOs.length > 0">
-	              <button v-on:click="selectAll()" class="btn btn-default selector-button" type="button">
-	                  Select all
-	              </button>
-	              <button v-on:click="deselectAll()" class="btn btn-default selector-button" href="#" type="button">
-	                  Deselect all
-	              </button>
-	                  <button v-on:click="downloadDocs()" v-if="isDocActive == 'true'" class="btn btn-default search-option export-button icon-button" type="button">
-	                      <icon name="download"></icon>
-	                  </button>
-	          </div>
-	      </transition>
-	  </div>
-	  <ul class="nav" id="side-menu">
-	      <li v-for="ao in aoDocuments" :key="ao.docNum">
-	          <a href="/">
-	              <div class="list-checkbox">
-	                  <input v-bind:value="ao.docNum" type="checkbox" v-model="checkedAOs">
-	              </div>
-	              <div>
-	                  <div>{{ ao.docNum }}</div>
-	                  <div class="list-title text-muted"> 
-	                      {{ ao.docTitle }}
-	                  </div>
-	              </div>
-	          </a>
-	      </li>
-	 	</ul>
- 	</div>
+        <hr>
+        <div class="modal-custom-header">Date signed</div>
+        <div class="form-inline">
+            <dropdown class="form-group">
+                <label for="datefrom">From </label>
+                <div class="input-group" id="datefrom">
+                    <input class="form-control" type="text">
+                    <div class="input-group-btn">
+                        <button class="btn btn-default" type="button" data-role="trigger">
+                            <icon name="calendar"></icon>
+                        </button>
+                    </div>
+                </div>
+                <template slot="dropdown">
+                    <li>
+                        <date-picker v-model="date" :today-btn="false"></date-picker>
+                    </li>
+                </template>
+            </dropdown>
+            <dropdown class="form-group">
+                <label for="datefrom">To: </label>
+                <div class="input-group" id="dateto">
+                    <input class="form-control" type="text">
+                    <div class="input-group-btn">
+                        <button class="btn btn-default" type="button" data-role="trigger">
+                            <icon name="calendar"></icon>
+                        </button>
+                    </div>
+                </div>
+                <template slot="dropdown">
+                    <li>
+                        <date-picker v-model="date"></date-picker>
+                    </li>
+                </template>
+            </dropdown>
+        </div>
+    </modal>
+  </div>
 </template>
 
 <script>
@@ -107,13 +119,19 @@ import 'vue-awesome/icons/filter'
 import 'vue-awesome/icons/check'
 import 'vue-awesome/icons/plus'
 import 'vue-awesome/icons/download'
+import 'vue-awesome/icons/calendar'
 
 import dropdown from 'uiv/src/components/dropdown/Dropdown.vue'
+import modal from 'uiv/src/components/modal/Modal.vue'
 import icon from 'vue-awesome/components/Icon'
+
+import datePicker from 'uiv/src/components/datepicker/DatePicker.vue'
 
 export default {
   components: {
     dropdown,
+    modal,
+    datePicker,
     icon
   },
   data: function () {
@@ -167,8 +185,9 @@ export default {
         'Special Population'
       ],
       checkedAOs: [],
-      checkedFilters: {},
-      sortBy: 'newest'
+      checkedFilters: [],
+      sortBy: 'newest',
+      isFilterModalOpen: false
     }
   },
   props: ['isDocActive'],
@@ -184,23 +203,11 @@ export default {
     downloadDocs: function (event) {
       this.deselectAll()
       alert('Document download')
-    },
-    toggleFilter: function (filter) {
-      if (this.checkedFilters[filter]) {
-        this.checkedFilters[filter] = false
-      } else if (this.checkedFilters[filter] === false) {
-        this.checkedFilters[filter] = true
-      } else {
-        this.$set(this.checkedFilters, filter, true)
-      }
-    },
-    setSortBy: function (sort) {
-      this.sortBy = sort
     }
   },
   mounted: function () {
     for (let filter of this.filters) { // initialize to check all filters
-      this.$set(this.checkedFilters, filter, true)
+      this.checkedFilters.push(filter)
     }
   }
 }
@@ -228,6 +235,31 @@ export default {
   border-bottom: 1px solid #e7e7e7;
   height:inherit;
 }
+
+.search-wrapper .modal-wrapper {
+  margin:0;
+}
+
+/* Filter modal */
+.modal-backdrop{
+  display:none;
+}
+
+.modal-dialog{
+  margin: 60px auto;
+}
+
+.modal-custom-header{
+  font-weight:bold;
+  font-size:15px;
+  color: #333;
+}
+
+.modal-dialog .checkbox-inline, .modal-dialog .radio-inline{
+  margin:0px 15px;
+}
+
+/* End of Filter modal */
 
 #export-options .export-button{
   float:right;

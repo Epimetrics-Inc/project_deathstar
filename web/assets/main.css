@@ -31,12 +31,20 @@
 
 /* End of Transitions  */
 
-/* Start of general components css */
+/* Start of general components and classes */
 button .fa-icon{
   height:100%;
 }
 
-/* End of general components css */
+.form-inline .dropdown {
+   margin-left: 15px;
+}
+
+.form-inline .dropdown label {
+  margin-right: 5px;
+}
+
+/* End of general components and classes */
 
 /*Start of CSS of document and visualization pages*/
 #wrapper {
@@ -81,34 +89,6 @@ button .fa-icon{
 }
 .navbar-top-links .active a{
   font-weight: bold;
-}
-
-.dropdown-menu {
-  width: 200px;
-}
-
-.dropdown-menu li:last-child {
-  margin-right: 0;
-}
-.dropdown-menu li > a, .dropdown-menu li > div {
-  padding: 3px 10px;
-  min-height: 0;
-}
-.dropdown-menu li a div {
-  white-space: normal;
-}
-
-.dropdown-menu .dropdown-header{
-  font-weight:bold;
-  font-size:15px;
-  color: #333;
-}
-
-.dropdown-menu li > a {
-  margin: 5px 15px;
-  opacity: .86;
-  border-radius: 4px;
-  cursor:default
 }
 
 .sidebar-nav {
@@ -267,5 +247,4 @@ button .fa-icon{
     opacity:.5;
     transition: opacity .5;
 }
-
 /* End of page-wrapper */
