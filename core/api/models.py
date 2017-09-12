@@ -1,5 +1,5 @@
-from django.db import models
 from django.contrib.postgres.fields import JSONField
+from django.db import models
 from django_extensions.db import models as ext_models
 
 

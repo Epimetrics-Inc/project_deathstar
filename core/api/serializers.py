@@ -6,7 +6,7 @@ from .models import Document
 class DocumentListSerializer(serializers.ModelSerializer):
     class Meta:
         model = Document
-        fields = ('title', 'date', 'doctype', 'docnum', 'created', 'modified')
+        fields = ('id', 'title', 'date', 'doctype', 'docnum', 'created', 'modified', 'body')
 
 
 class DocumentGetSerializer(serializers.ModelSerializer):

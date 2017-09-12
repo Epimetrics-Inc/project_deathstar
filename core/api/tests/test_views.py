@@ -5,7 +5,7 @@ from rest_framework.test import APITestCase
 from api.models import Document
 
 
-class DocumentTests(APITestCase):
+class DocumentIntegratedTests(APITestCase):
     def test_get_documents(self):
         """
         Ensure we can get document objects.
