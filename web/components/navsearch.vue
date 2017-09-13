@@ -45,7 +45,7 @@
             </a>
         </li>
     </ul>
-    <modal v-model="isFilterModalOpen" title="Advanced Search" class="modal-wrapper" :footer="false">
+    <modal v-model="isFilterModalOpen" title="Search options" class="modal-wrapper" :footer="false">
         <div class="modal-custom-header">Themes</div>
         <div>
             <label class="checkbox-inline" v-for="filter in filters">
@@ -71,7 +71,6 @@
                 Relevance
             </label>
         </div>
-
         <hr>
         <div class="modal-custom-header">Date signed</div>
         <div class="form-inline">
@@ -87,7 +86,7 @@
                 </div>
                 <template slot="dropdown">
                     <li>
-                        <date-picker v-model="date" :today-btn="false"></date-picker>
+                        <date-picker v-model="date" :today-btn="false" :clear-btn="false"></date-picker>
                     </li>
                 </template>
             </dropdown>
@@ -103,7 +102,7 @@
                 </div>
                 <template slot="dropdown">
                     <li>
-                        <date-picker v-model="date"></date-picker>
+                        <date-picker v-model="date" :today-btn="false" :clear-btn="false"></date-picker>
                     </li>
                 </template>
             </dropdown>
@@ -125,7 +124,7 @@ import dropdown from 'uiv/src/components/dropdown/Dropdown.vue'
 import modal from 'uiv/src/components/modal/Modal.vue'
 import icon from 'vue-awesome/components/Icon'
 
-import datePicker from 'uiv/src/components/datepicker/DatePicker.vue'
+import datePicker from '~/components/datepicker/DatePicker.vue'
 
 export default {
   components: {
