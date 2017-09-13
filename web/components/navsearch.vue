@@ -71,13 +71,15 @@
                 Relevance
             </label>
         </div>
+        
         <hr>
         <div class="modal-custom-header">Date signed</div>
         <div class="form-inline">
+            <!-- datefrom dropdown + date-picker -->
             <dropdown class="form-group">
                 <label for="datefrom">From </label>
                 <div class="input-group" id="datefrom">
-                    <input class="form-control" type="text">
+                    <input class="form-control" type="text" v-model="dateFrom" v-on:blur="validateDate('dateFrom')"  >
                     <div class="input-group-btn">
                         <button class="btn btn-default" type="button" data-role="trigger">
                             <icon name="calendar"></icon>
@@ -86,14 +88,17 @@
                 </div>
                 <template slot="dropdown">
                     <li>
-                        <date-picker v-model="date" :today-btn="false" :clear-btn="false"></date-picker>
+                        <date-picker v-model="dateFrom" :today-btn="false" :clear-btn="false" class="datepicker"></date-picker>
                     </li>
                 </template>
             </dropdown>
+            <!--/ datefrom dropdown + date-picker -->
+            
+            <!-- dateto dropdown + date-picker -->
             <dropdown class="form-group">
-                <label for="datefrom">To: </label>
+                <label for="dateTo">To: </label>
                 <div class="input-group" id="dateto">
-                    <input class="form-control" type="text">
+                    <input class="form-control" type="text" v-model="dateTo" v-on:blur="validateDate('dateTo')">
                     <div class="input-group-btn">
                         <button class="btn btn-default" type="button" data-role="trigger">
                             <icon name="calendar"></icon>
@@ -102,10 +107,12 @@
                 </div>
                 <template slot="dropdown">
                     <li>
-                        <date-picker v-model="date" :today-btn="false" :clear-btn="false"></date-picker>
+                        <date-picker v-model="dateTo" :today-btn="false" :clear-btn="false" class="datepicker"></date-picker>
                     </li>
                 </template>
             </dropdown>
+            <!--/ dateto dropdown + date-picker -->
+
         </div>
     </modal>
   </div>
@@ -186,7 +193,9 @@ export default {
       checkedAOs: [],
       checkedFilters: [],
       sortBy: 'newest',
-      isFilterModalOpen: false
+      isFilterModalOpen: false,
+      dateFrom: '',
+      dateTo: ''
     }
   },
   props: ['isDocActive'],
@@ -202,6 +211,29 @@ export default {
     downloadDocs: function (event) {
       this.deselectAll()
       alert('Document download')
+    },
+    validateDate: function (dateObjectName) {
+      var date = new Date(this[dateObjectName])
+      var year
+      var month
+      var day
+
+      if (isNaN(date)) {
+        this[dateObjectName] = ''
+      } else {
+        month = '' + (date.getMonth() + 1)
+        day = '' + date.getDate()
+        year = date.getFullYear()
+
+        if (month.length < 2) {
+          month = '0' + month
+        }
+        if (day.length < 2) {
+          day = '0' + day
+        }
+
+        this[dateObjectName] = [year, month, day].join('-')
+      }
     }
   },
   mounted: function () {
@@ -256,6 +288,11 @@ export default {
 
 .modal-dialog .checkbox-inline, .modal-dialog .radio-inline{
   margin:0px 15px;
+}
+
+.datepicker{
+  padding-left:15px;
+  padding-right:15px;
 }
 
 /* End of Filter modal */
