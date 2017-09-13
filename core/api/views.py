@@ -1,5 +1,5 @@
 from rest_framework import viewsets
-from rest_framework.filters import SearchFilter
+from rest_framework.filters import SearchFilter, OrderingFilter
 from rest_framework_extensions.mixins import (
     PaginateByMaxMixin, ReadOnlyCacheResponseAndETAGMixin, DetailSerializerMixin)
 
@@ -19,7 +19,8 @@ class DocumentViewSet(DetailSerializerMixin, ReadOnlyCacheResponseAndETAGMixin,
     """
     queryset = Document.objects.all()
     max_paginate_by = 5
-    filter_backends = (SearchFilter,)
-    search_fields = ('title', 'date', 'doctype', 'docnum', 'body')
+    filter_backends = (SearchFilter, OrderingFilter)
+    search_fields = ('title', 'date', 'doctype', 'docnum', 'body', 'sign')
+    ordering_fields = ('date', 'title')
     serializer_class = DocumentListSerializer
     serializer_detail_class = DocumentGetSerializer

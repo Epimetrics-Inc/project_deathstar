@@ -15,6 +15,8 @@ class Document(ext_models.TimeStampedModel):
     images = JSONField(null=True)
     raw_body = JSONField(null=True)
 
+
+
     class Meta:
         ordering = ('date', 'modified',)
 
