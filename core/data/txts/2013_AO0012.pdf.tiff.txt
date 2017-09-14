@@ -1,0 +1,511 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>03/18/2013</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2013 - 0012 </docnum>
+<subject>SUBJECT: Rules and Regulations Governing the Accreditation of Health Facilities Engaging in Human Stem cell and Cell-Based or Cellular Therapies in the Philippines. </subject>
+<body>
+
+
+1. RATIONALE/ BACKGROUND 
+
+Stem cells science and technology is considered the future of medicine. The g0vernment encourages that various stakeholder participate in the development of the science of stem cell therapy. But as with any new technology or innovation, there is a need for regulatory oversight that will provide protection to the public. It is also neceSsary to inform the public of this new technology of its potential beneﬁts and risks. 
+
+Stem cells are unspecialized cells capable of renewing themselves and differentiating into other cell types, even after long periods of inactivity. Under certain physiologic or experimental conditions, they can be induced to become tissue or organ-speciﬁc cells with special functions. In some organs such as the gut and bone marrow, stem cells regularly divide to repair and replace worn out or damaged tissues. In other organs, however, such as the pancreas and the heart, stem cells only divide under special complex conditions. 
+
+Stem cell-based therapies have existed for the past four decades. There are stem cell-9 based therapies, which have been proven to be effective in some mediCal conditions such as some forms of blood dyscracias. Stem cells that come hour the bone marrow or blood have already been routinely used in transplant procedures to treat patients with cancer and other disorders of the bleed and 1mmune system. 
+
+The rapid development of techniques to grow human stem cells in culture coupled with an increased understanding of cell differentiation have eXpanded its promising therapeutic uses for diseases such as spinal cord injury, stroke, autism, Parkinson’s disease, and others However, stem cell treatments offered today are a type of cell therapy that introduce new cells- into adult bodies for possible treatment of cancer, diabetes, neurological, and other conditions with the latest passion for skin rejuvenation or aesthetic purposes. This is becoming a signiﬁcant item of interest and concern within the media, the internet and our seeiety, as some clinics and providers : claim success in treating patients but few has published data from controlled clinical trials. 
+
+In a recent study conducted by the Bureau of Health Facilities and Services (BHF S) of the Department of Health (DOH) pursuant to Department Memorandum No. 2011—0135 entitled “A Survey of the Services and Equipment Available in Hospitals Nationwide”, the ﬁndings revealed that ﬁve (5) hospitals and some ambulatory surgical clinics were providing stem cell services to patients for various indications. 
+
+Given the recent developments in stem cell and cell-based research and therapy, the Department of Health sees it imperative to develop and strengthen the regulatory ﬁamework to ensure access to safe and quality health facilities engaging in human stem cell and cell—based or cellular therapies 1n the Philippines. 
+
+II. OBJECTIVE 
+
+These rules and regulations are promulgated to protect the public and assure the safety of patients and personnel by: 
+
+A. Preventing the introduction, transmission and spread of communicable disease by ensuring a minimum quality of service rendered by hospitals and other health facilities engaging in human stem cell and cell-based therapies, and 
+
+B. Ensuring that human stem cell and cell-based therapies are safe and effective for their intended use. 
+
+III. SCOPE 
+
+These rules and regulations shall apply to all government and private facilities that are and will be involved in the use of human stem cell and cell-based or cellular therapies. 
+
+IV. TERMINOLOGY, ABBREVIATIONS AND DEFINITIONS 
+
+For purposes of this Order, the following terms, abbreviations and deﬁnitions apply: 
+
+1. Adverse Reaction — any unintended or unfavorable sign, symptom, abnormality, or condition temporarily aSSOciated with an intervention that may or may not have a causal relationship with the intervention, medical treatment, or procedure. Adverse reaction is a type of adverse event. 
+
+2. Adverse Event — a noxious and unintended response suspected or demonstrated to be caused by the collection or infusion of a cellular therapy product or by the product itself. 
+
+3. Allogeneic - refers to cells obtained from a donor and intended for infusion into a genetically distinct recipient. 
+
+4. Autologous — refers to cells obtained from a patient and intended for infusion into that patient. 
+
+5. Applicant - the natural or juridical person who is applying for Certiﬁcate of Accreditation (COA) of a health facility. 
+
+6. Bioethics Advisory Board (BAB) — the national body to examine the scientiﬁc, ethical, legal, and social issues arising from biomedical research and development and recommends policies on stem cell and cell-based or cellular research and therapies in the Philippines. 
+
+7. Bureau of Health Facilities and Services (BHF S) — the regulatory agency of DOH which shall exercise the accreditation function under these rules and regulations. 
+
+8. Certiﬁcate of Accreditation (COA) — a formal authorization issued by BHFS- DOH to an individual, partnership, corporation or association to operate a facility that performs stem cell and cell-based or cellular transplantation. It refers to compliance with standards set for a particular purpose. These standards cover mput/ structural process and outcome/output standards. 
+
+9. Cellular Therapy -— the administration of products with the intent of providing effector cells in the treatment of disease or support of other therapy. 
+
+10. Clinical Laboratory — a facility where tests are done on specimens from the human body to obtain information about the health status of a patient for the prevention, diagnosis and treatment of diseases. The tests include, but are not limited to, the  following disciplines: clinical chemistry, hematology, irnmunohematology, molecular biology and cytogenetics. The total testing process includes pro-analytical, analytical and post analytical procedures. Facilities that are involved in the pre-analytical processes such as collection, handling or preparation of specimens or act as a mailing or distribution center such as in a laboratory network or system are also considered to be a part of a clinical laboratory. Refer to Administrative Order (A.O.) No. 2007-0027 entitled “Rules and Regulations Governing the Licensure and Regulation of Clinical Laboratories in the Philippines”. 
+
+11. Clinical Program — an integrated medical team housed in geographically contiguous or proximate space with a single Clinical Program Director and common staff training programs, protocols, and quality management systems. 
+
+12. Communicable Diseases - refer to, but are not limited to, those transmitted by viruses, bacteria, fungi, parasites, and transmissible spongiform encephalopathy agents. 
+
+13. Current Good Tissue Practice (cGTP) — refers to requirements that govern the methods used in, and the facilities and controls used for, the manufacture of human cells, tissues, and cellular and tissue-based products (HCT/Ps) in a way that prevents the introduction, transmission, or spread of communicable diseases by HCT/Ps. 
+
+14. Current Good Manufacturing Practice (cGMP) the set of current practices followed by entities producing drug and biologic products, including cellular therapy products, to ensure that the products produced meet speciﬁc requirements for identity, strength, quality, and purity. 
+
+15. Department of Health (DOH) 
+
+16. Donor — a person who is the source of cells or tissue for a cellular therapy product. 
+
+17. Expansion — refers to growth of one or more cell populations in an in vitro culture system. 
+
+18. Facility — a location where activities covered by these Standards are performed. Such activities include determination of donor eligibility suitability, product collection, processing, storage, distribution, issue and administration. (As guidance, refer to FACT-JACIE International Standards for Cellular Therapy 5th Edition 2012) . A facility, under this Order, may be any or all of the following: 
+
+a. Collection Facility —an entity providing the service of cellular therapy product collection. 
+
+b. Processing Facility — a location where cellular therapy product processing activities are performed in support of the Clinical Program. 
+
+c. Storage Area/Facility— an entity holding a cellular therapy product for future processing, distribution or administration. 
+
+19. Foundation for the Accreditation of Cellular Therapy (FACT) and the Joint Accreditation Committee — International Society for Cellular Therapy [ISCT] and European Group for Blood and Marrow Transplantation [EBMT] (JACIE) - refers to the current Standards designed to promote quality medical and laboratory practice in hematopoietic progenitor cell transplantation and other therapies using cellular products. 
+
+20. Genetic Manipulation — refers to an ex vivo procedure(s) that genetically alters cell populations. A signiﬁcant stem cell manipulation involves any process that alters the biological and/or physiological characteristics of cells or tissues including introduction of viral genes and other genetic processes that incorporate exogenous genetic material into the genome of the recipient cells. 
+
+21. Good Manufacturing Practice (GMP) — refers to that part of quality assurance which ensures that medicinal products are consistently produced and controlled in accordance with quality standards appropriate for their intended use and as required by the applicable marketing authorization or product speciﬁcation.
+
+22. Human Tissue — refers to cells obtained from any living or cadaveric human donor or organ. 
+
+23. Human Cells, Tissues, and Cellular and Tissue-Based Products (HCT/Ps) — articles containing or consisting of human cells or tissues that are intended for implantation, transplantation, infusion or transfer into a human recipient. 
+
+24. Institutional Review Committee (IRC) or Ethics Committee or Ethical Review Committee (ERC) — a Committee established by an institution in accordance with the regulations of the relevant governmental agency to review biomedical and behavioral research that involves human subjects and is conducted at or supported by that institution. 
+
+25. Pharmaceutical Inspection Cooperation Scheme (PIC/ S) — refer to AD. No. 2012- 0008 entitled “Adoption and Implementation of the Pharmaceutical Inspection Cooperation Scheme (PIC/S) Guides for the Good Manufacturing Practice (GMP) for Medicinal Products”, Parts I and II and its Annexes.
+
+26. Philippine Food and Drug Administration (Phil. FDA) -— the agency of DOH in the Philippines charged with the regulation of stem cell and cell—based or cellular products. 
+
+27. Prohibited — refers to procedures, preparations or products that shall not be allowed or permitted for development or commercial use without exemption. These are banned or forbidden by law. 
+
+28. Protocol — a written document describing steps of a treatment or procedure in sufﬁcient detail such that the treatment or procedure can be reproduced repeatedly without variation.
+
+29. Quality Assurance Program (QAP) — an organized plan of activities that aims to provide the best possible care and services for all patients. 
+
+30. Restricted — refers to procedures, preparations or products that shall not be allowed unless a prior regulatory approval is obtained. These are controlled by law or rules and limited to authorized activities. These are stem cell products that have genetic manipulation. 
+
+31. Registered and Permitted — refers to procedures, preparations and products allowed to be in trade by the Phil. FDA, and in facilities with prior DOH accreditation. These are certiﬁed ofﬁcially and legally by the government ofﬁce for speciﬁc activities. These are stem cell products that do not have genetic manipulation. 
+
+32. Standard Operating Procedures (SOP)/ Operational Manual -- refers to a compilation of written policies and detailed instructions required to perform the deﬁned activities of the accredited facilities. 
+
+33. Stem Cell — undifferentiated cells from multicellular organisms that have the capacity to divide and differentiate into different types of cells found in the body. 
+
+34. Stem Cell—Based Products  comprised of human cells, tissues, and cellular and tissue-based products (HCT/Ps) that are subject to Phil. FDA regulations. 
+
+V. IMPLEMENTING MECHANISMS 
+
+A. GENERAL GUIDELINES 
+
+1. Human stem cell and cell-based or cellular therapies shall be performed only in health facilities accredited by DOH. 
+
+2. Physicians shall ensure that patients are well-informed on stem cell and cell-— based/cellular therapies and shall empower their patients with knowledge about treatment options that are available. 
+
+3. Each health facility shall have an IRC that shall review and evaluate the policies and procedures of stem cell and cell-based/cellular research and therapy in accordance with acceptable standards of practice, DOH standards and international guidelines. 
+
+4. Investigators/researchers shall obtain speciﬁc approvals from institutional committees and designated central authorities for the protocols that they plan to follow in their studies. Each facility and individual should analyze their practices and procedures to determine whether additional standards may apply. 
+
+5. Non hospital based facilities engaging in human stem cell and cell-based or cellular therapies 1n the Philippines shall have linkage with at least one (1) Level Three (3) hospital licensed by DOH through a contractual agreement. 
+
+6. A system shall be established and maintained to implement, follow, review, and as needed, revise on an ongoing basis the regulatory framework for stem cell and cell-based or cellular research and therapy in the Philippines. 
+
+7. Stakeholders shall comply with the standards and requirements prescribed by BHFS and Phil. FDA in the assessment tool for accreditation of facilities utilizing human stem cell and cell-based or cellular therapies. The regulatory agencies took into consideration PIC/S guide for GMP, and appropriate cGMP, cGTP, current edition of FACT, this Order, and other policy guidelines. 
+
+
+B. SPECIFIC GUIDELINES 
+
+These speciﬁc guidelines under the Phil. DOH and Phil. FDA shall supersede any other policies and guidelines on cellular therapies, such as those issued by other countries and international bodies. 
+
+1. STEM CELL PREPARATIONS AND THERAPIES 
+
+a. PROHIBITED The following stem cell preparations and therapies shall be prohibited from creation, importation, promotion, marketing and use. 
+
+1. Creation of human embryos for research purposes; 
+
+2. Human embryonic stem cells and their derivatives for human treatment and research; 
+
+3. Aborted human fetal stem cells and their derivatives for human treatment and research; 
+
+4. Plant parts labeled as stem cells. 
+
+
+b. RESTRICTED 
+
+The following stem cell preparations and therapies shall not be allowed for importation, promotion, marketing and use in humans without prior regulatory application and approval from Phil. FDA. 
+
+1. Genetically altered human adult stem cells for human treatment; 
+
+2. Genetically altered human umbilical cord stem cells for human treatment;
+
+3. Adipose (Fat) derived human stem cell; 
+
+4. Any human cells, tissues, and cellular and tissue-based products (HCT/Ps) that are subjected to genetic manipulation, as deﬁned in Section IV of this Order; 
+
+5. Live animal (xenobiotic) embryonic, fetal, or adult stem cells in parenteral form for human administration. ' 
+
+c. REGISTERED and PERMITTED 
+
+The following stem cell preparations and therapies may be performed only in health faCilities accredited by DOH. 
+
+1. Adult human stem cells (autologous) —- extracted from the same patient. It may undergo basic processing (including separation, fractionation, primary culture, expansion) but without genetic modiﬁcation. 
+
+2. Adult human stem cells (allogeneic) — extracted from a human donor. It may be followed by basic processing (including separation, fractionation, primary culture, expansion) but without genetic modiﬁcation. It requires Human Leukocyte Antigen (HLA) compatibility testing and infectious screening as is used with organ tranSplants or blood transfusions. 
+
+3. Human umbilical cord stem cells .. includes stem cells derived from umbilical cord blood and other stem cells derived from umbilical cord, placenta and placental membrane extracted at time of birth. It may be followed by basic processing (including separation, fractionation, primary culture, eXpansion) but without genetic modiﬁcation. It requires HLA compatibility testing, if used allogeneically, and infectious screening as is used with organ transplants or blood transfusions. 
+
+4. Human organ-speciﬁc cells. 
+
+2. BIOETHICS ADVISORY BOARD (BAB) 
+
+Health facilities engaged in stem cell and cell-based or cellular therapies shall comply with the guidelines set by BAB. 
+
+The Board shall be comprised of, but not limited to, the following: 
+
+1. Chairperson — Secretary of Health / National Transplant Ethics Committee (N TEC) 
+
+2. Vice-chairperson — Director of Phil. FDA 
+
+3. Members: 
+a. Representative from a government health facility or organization; 
+
+b. Representative from a private health facility-or organization; 
+
+c. Academicians, researchers, local and international experts. 
+
+b. The Board shall be responsible in formulating the ethical standards which shall guide the IRC that shall be created in hospitals and other health facilities using human stem cell and cell—based or cellular therapies. 
+
+c. The Board shall be responsible in addressing contentious ethical, scientiﬁc and legal issues in stem cell and cell-based or cellular research and therapies. 
+
+3. INSTITUTIONAL REVIEW COMMITTEE (IRC)/ERC 
+
+Stem cell and cell-based or cellular research and therapies shall undergo IRC approval in accordance with the current guidelines set by DOH in the manual of “Standard Operating Procedures for Hospital Ethics Review Committees”. The Committee shall be responsible for reviewing and verifying the following: 
+
+a. Ethical aspect of the research and therapy; 
+
+b. Scientiﬁc rationale, design and data collection on safety and efﬁcacy of stem cell and cell-based or cellular therapy programs; 
+
+c. Assurance and certiﬁcation that the institution or clinical laboratory does not carry out activities or programs involving Prohibited Stem Cells speciﬁed in Section V. B. 1. a. of this Order; 
+
+d. Documentation and reporting of adverse events observed in patients receiving 
+
+stem cell and cell-based or cellular treatments. 
+
+4. PERSONNEL 
+
+The facility shall be organized to provide quality, effective and efﬁcient stem cell and cell-based therapies. 
+
+a. The facility shall deﬁne in its operational manual its current organizational structure and the corresponding responsibilities and qualiﬁcation of each staff. 
+
+b. The facility shall adhere to the current standards stipulated in cGTP, cGMP, Phil. FDA adopted PIC/ S guide for GMP. 
+
+c. The facility shall be headed and managed by a licensed physician. 
+
+1. The head or Medical Director shall be directly responsible for the clinical aspects of the program. 
+
+2. The Medical Director may also serve as the Laboratory DirectorfManager if appropriately qualiﬁed. Such laboratory shall be a section/unit under the supervision of the head of the clinical laboratory of the hospital or linked to a main hospital laboratory if the facility is not based in a hospital. 
+
+d. The clinical laboratory shall be headed by a board certified pathologist. 
+
+1. The head of the laboratory shall be responsible for all technical procedures and administrative operations of the laboratory. 
+
+2. The head of the laboratory shall participate regularly in educational activities related to the ﬁeld of cell collection and/or processing. 
+
+e. There shall be adequate numbers of trained support personnel available at the 
+
+facility where the processes/ activities are performed. 
+
+1. Personnel shall be trained and retrained whenever necessary, to perform their assigned responsibilities adequately. They shall perform only those activities for which they are qualiﬁed and authorized. 
+
+2. The management of the facility shall ensure that the training complies with Phil. FDA regulations, the requirements stipulated in the guidelines on GMP, and whenever appropriate cGMP, cGTP, other related policy - guidelines and/or Issuances. 
+
+3. Records/logbook of personnel qualiﬁcations and trainings shall be maintained and regularly updated. 
+
+5. PHYSICAL FACILITIES 
+
+Every facility shall have adequate areas to ensure the safety of staff, patients and their relatives. 
+
+
+a. The health facility shall comply with statutory requirements and applicable Philippine governmental laws and regulations. It shall likewise adhere to the current standards speciﬁed in cGTP, cGMP, Phil. FDA considered PIC/S guide for GMP. 
+
+b. Any facility used in stem cell and cell—based research and therapy must be of suitable size, construction, design and location for the intended procedures, depending on the services it provides, to prevent contamination with communicable disease agents, infectious contaminants and microorganisms.
+
+
+c. The Clinical Unit, whenever applicable, shall be a designated patient unit of adequate space, design, and location that minimizes airborne microbial contamination. 
+
+1. The inpatient program shall have an intensive care unit or equivalent coverage available. 
+
+2. There shall be a designated area for outpatient care that protects the patient from transmission of infectious agents. 
+
+a. The outpatient facility shall be designed in such a way that the patient may be provided appropriate isolation, administration of intravenous fluids, medications, and/or blood products. 
+
+b. The outpatient area shall be conducive for confidential donor examination and evaluation. 
+
+c. Outpatient facilities shall have a plan for providing access to an intensive care unit or equivalent coverage for patients who may become critically ill. 
+
+d. The facility shall be maintained in a clean and orderly manner as established in its SOPs. 
+
+6. EQUIPMENT, REAGENTS, SUPPLIES 
+
+Every facility shall have available, adequate and operational equipment, instruments, mateIials and supplies for the procedures to be provided. 
+
+a. The management shall ensure that the equipment, reagents and supplies comply with the standards prescribed in Phil. FDA regulations. The Phil. FDA incorporated appropriate cGMP, cGTP, FACT, and other related policy guidelines for application under this Order. 
+
+b. Equipment 
+
+1. The equipment shall be of appropriate design for its use, with barrier ﬁmctions, and shall prevent the introduction of infectious agents or cross contamination between patient samples. 
+
+2. Equipment shall be routinely inspected for cleanliness, sanitation, and calibration. 
+
+3. There shall be preventive and corrective maintenance of equipment as well as contingency plan in case of equipment malfunction. 
+
+c. Reagents and supplies 
+
+1. There shall be validation and/or verification processes used for production of in—house reagents. 
+
+
+2. Reagent(s) used in processing and preservation of HCT/Ps shall be sterile, where appropriate. 
+
+3. Establishments shall not use reagents and supplies until they have been veriﬁed to meet speciﬁcations designed to prevent circumstances that increase the risk of the introduction, transmission, or spread of communicable diseases. 
+
+d. Protective and personal equipment (PPE) such as, but not limited to, gloves, goggles and protective clothing shall be worn while handling human specimens. Such protective clothing shall not be worn outside the work area. 
+
+7. WORK ENVIRONMENT 
+
+Every facility shall ensure that the environment is safe for its patients and staff and that the following measures and/or safeguards shall be observed. 
+
+a. The facility shall have written policies and procedures to be included in their safety manual, but not limited to, the following: 
+
+1. Infection control; 
+
+2. Biosafety, chemical and radiological safety; 
+
+3. Emergency response to worksite accidents; 
+
+4. Waste disposal; 
+
+5. Instructions fer action in case of exposure to communicable disease, or to chemical, biological and radiological hazards. 
+
+b. Lighting, ventilation, plumbing, and drainage shall be adequate to prevent the introduction, transmission, or spread of contaminates or communicable disease. 
+
+c. There shall be procedures to establish and maintain routine facility cleaning and sanitation. 
+
+1. These procedures shall assign responsibility for sanitation and shall describe in sufficient detail the cleaning methods to be used and the mandatory schedule for cleaning the facility. 
+
+2. Records of all cleaning and sanitation activities performed to prevent contamination shall be maintained. 
+
+3. Records on cleaning activities shall be retained after their creation and shall be available upon request. 
+
+d. Decontamination and disposal techniques for medical waste shall be described. Human tissue shall be disposed of in such a manner as to minimize any hazard to facility personnel or the environment in accordance with applicable governmental laws and regulations. 
+
+e. Proper environmental control systems shall be utilized where circumstances can reasonably be expected to cause contamination or cross-contamination of cells. Proper conditions for operations shall be environmentally controlled for equipment to prevent accidental exposure of cells to communicable disease agents. The following systems shall be provided: 
+
+1. Temperature and humidity controls Dehumidifier shall be used in humid areas to control spread of infectious- agents in the facility. 
+
+2. Ventilation and air filtration Cell culture areas require a positive pressure environment. Human tissue and cells shall only be handled in Biological Safety Cabinets with classification of Class II or above designed with High Efficiency Particulate Air (HEPA) filtration. 
+
+3. 
+
+Cleaning and disinfecting of rooms and equipment shall be undertaken to ensure aseptic processing operations. Disinfectants shOuld be approved by the equipment manufacturer and Occupational Safety and Health Administration (OSHA) for use of decontaminating blood borne pathogens and microbiological or by steam pressure autoclaving, hot air drying, or any other acceptable procedure. 
+
+8. QUALITY IMPROVEMENT (QI) ACTIVITIES 
+
+Every facility shall establish and maintain a system for continuous quality improvement (CQl) activities. 
+
+a. Every facility shall have policies and procedures on QAP and CQI. 
+
+b. The National Kidney and Transplant Institute (N KTI) shall be designated as the National Reference Laboratory for stem cell and cell-based or cellular therapy. 
+
+9. RECORDS 
+
+Every facility shall maintain a record system to provide readily available information on each donor, patient, procedures on stem cell and cell—based therapies. Such records shall include the following, but not limited to: 
+
+a. Patient and Donor Medical Records (refer to A.O. No. 2012-0012 entitled “Rules and Regulations Governing the New Classification of Hospitals and Other Health Facilities” and its corresponding hospital assessment tool). 
+
+
+1. Each patient and donor records, including, but not limited to, consents and records of care, shall be maintained in a confidential manner as required by applicable laws and regulations for a minimum of ten (10) years after the administration of the cellular therapy, or, if not known, ten (10) years after the date of the distribution, disposition, or expiration, whichever is latest. 
+
+2. Informed consent from the patient/donor shall be obtained for each procedure and documented by a licensed physician or other health care provider familiar with the operations, processes, activities in the facility. 
+
+3. There shall be documentation on patient/donor education. 
+
+
+b. Research records shall be maintained in a confidential manner as required by applicable laws and regulations for a minimum of ten (10) years after the administration, distribution, disposition or expiration of the cellular therapy product, whichever is latest. 
+
+c. Records in Case of Divided Responsibility 
+
+1. If two (2) or more facilities participate in the collection, processing or administration of the cellular therapy product, the records of each facility shall show plainly the extent of its responsibility. 
+
+2. The Clinical Program shall furnish to other facilities involved in the collection or processing of the cellular therapy product outcome data in so far as they concern the safety, purity, or potency of the cellular therapy product involved. 
+
+d. Complications/ adverse reactions/ adverse events logbook shall include, but not limited to, the following: ' 
+
+1. Complications related to disease; 
+
+2. Complications related to stem cell and cell-based therapy; 
+
+3. Outcome. 
+
+e. Administrative records 
+
+Every facility shall maintain the following administrative records. 
+
+1. Minutes of meeting; 
+
+2. Attendance logbook; 
+
+3. 201 staff files (include vaccination status of staff); 
+
+4. Reports of DOH, Phil. FDA inspection and monitoring activities. 
+
+Technical records/logbook 
+Every facility shall maintain the following technical records. 1. List of all machines/equipment and their corresponding schedule of calibration; 
+
+2. Logbook/records of preventive and corrective maintenance of machines/equipment. 
+
+3. All process related, including validation protocol, change control and labeling control records. 
+
+4. List of products, preparations related to stem cell therapies conducted within their facilities as well as all the processes conducted outside the premises of the accredited facility through contractual agreement. 
+
+g. Documentation 
+
+Every facility shall have documentation on, but not limited to, the following: 
+
+1. Procedure of operations on procurement to distribution of the products and records; 
+
+2. Specifications of the product; 
+
+3. Source of the product; 
+
+4. Supplier/source qualification. 
+
+h. Technical or Service Agreement shall be provided if activity will be carried out by a third party. The written agreement shall stipulate the responsibilities of both parties. Both parties shall be liable for the quality of the product. 
+
+Retention and disposal of records and other relevant information whether paper-based or electronic media shall be in accordance with related and future issuances by DOH. 
+
+
+
+VI. PROCEDURAL GUIDELINES 
+
+A. CERTIFICATE FOR INITIAL/RENEWAL OF ACCREDITATION 
+
+1. Application for initial/renewal of accreditation 
+
+a. The applicant requests for relevant information and prescribed form from BHFS in person or through mail, email or Internet. 
+
+b. The applicant accomplishes required documents and submits them to BHFS. Stakeholders applying for renewal of COA shall submit its application prior to the expiry date stated in its COA. The following are the documentary requirements: 
+
+1. Duly accomplished and notarized application form; 
+
+2. List of personnel and appropriate permits (i.e. valid Professional Regulation Commission (PRC) identification for individuals, License to Operate (LTO) for institutions, and/or-affidavit for joint undertaking if the provider is attached to a medical center); 
+
+3. List of equipment; 
+
+4. Documentation of QAP; 
+
+5. Assurance and notarized certification that the facility does not carry out activities or programs involving Prohibited Stem Cells as stated in Section V. B. 1. a. of this Order; 
+
+6. Assurance and notarized certification that the facility does not carry out activities or programs involving Restricted Stem Cells as stipulated in Section V. B. 1. b. of this Order without prior regulatory application and approval; 
+
+7. Documented policies and procedures on bio safety, infectious agent surveillance, Institutional Review Committee (IRC) approval process including ethics review and patient informed consent in the conduct of human stem cell treatment and research; 
+
+8. Manual of Operations and relevant SOPs; 
+
+9. Other pertinent documents and records as may be required by BHFS and Phil. FDA of DOH. 
+
+c. The BHFS reviews the documents for completeness, authenticity and compliance with accreditation requirements. 
+
+d. The BHFS informs the applicant if all the documentary requirements were met and schedules the survey of the facility. 
+
+2. Payment of Fees 
+
+a. The BHFS prepares the order of payment incorporating Phil. FDA fees and other related fees. 
+
+b. A non-refundable application fee shall be paid by the applicant to the DOH cashier in cash or through postal money order payable to DOH. 
+
+3. Survey 
+
+a. The team shall be composed of, but not limited to, the following: 
+
+Team leader — representative from BHFS Members — Representatives from: 
+
+BHFS 
+Phil. FDA 
+NKTI 
+Bioethics Advisory Board 
+
+b. The composite team conducts survey of the facility and prepares the official summary of fidings with their recommendations. 
+
+c. The BHFS forwards the findings of the composite team to the BAB. 
+
+d. The BAB approves or disapproves the issuance of the COA. 
+
+1. If approved, BHFS registers the facility and issues the COA. 2. If disapproved, BHFS sends a copy of the survey findings to the applicant. The applicant shall be given fifteen (15) days to comply with the recommendations. 
+
+B. MONITORING 
+
+1. All facilities shall be monitored at least once a year and records shall be made available to determine compliance with these rules and regulations. 
+
+2. The team shall be allowed to monitor the facility at any appropriate time without prior notice. 
+
+3. The team shall be given access to all data/information as required by DOH. 
+
+VII. VALIDITY OF CERTIFICATE OF ACCREDITATION (COA) 
+
+The COA shall be valid for three (3) years from January 1 of the first year to December 31 of the third year. 
+
+VIII. VIOLATIONS 
+
+Stakeholders found violating any provision of these guidelines and its related issuances, and/or commission/omission of acts by personnel operating the facility under this Order shall be penalized and/or its COA suspended or revoked. 
+
+All products with claims of being cell—based shall undergo a separate review process by Phil. FDA. Any false claims, including advertisements, marketing and other related activities for such product(s) shall be prohibited and shall constitute a violation. The COA of the facility may be suspended or revoked. 
+
+IX. INVESTIGATION OF CHARGES AND COMPLAINTS 
+
+The BHFS and Phil. FDA and! or their authorized representatives shall investigate the complaint and verify if the facility concerned or any of its personnel is liable for an alleged violation. 
+
+The BHFS and Phil. FDA and/or their authorized representatives after investigation, may suspend, cancel or revoke the COA of facilities found violating the provisions of this Order and its related issuances, without prejudice to taking the case to judicial authority for criminal action. 
+
+X. PENALTY 
+
+The penalty to be imposed shall be in accordance with A.O No. 2007 — 0022 re: “Violations Under the One—Stop Shop Licensure System for Hospitals”, A.O. No. 2008 —— 0027 re: “One-Step Shop System for the Regulation...of Non Hospital Based Ambulatory Surgical Clinics...”, A.O. No. 2012-0008 re: “Adoption and Implementation of the Pharmaceutical Inspection Cooperation Scheme (PIC/S), Guides for Good Manufacturing Practice (GMP), for Medicinal Products”, its related issuances, this Order and other related policy issuances/guidelines. 
+
+XI. APPEAL 
+
+The management of the facility aggrieved by the decision of the Director of BHFS/ Phil. FDA may, within ten (10) days after receipt of the notice of decision, file a notice of appeal to the Office of the Secretary of Health. Thereupon, BHFS/ Phil. FDA shall promptly certify and file a copy cf the decision, including all documents and transcript of hearings on which the decision 18 based, with the Office of the Secretary for review. The decision of the Secretary of Health shall be final and executory. 
+
+XII. REPEALING CLAUSE 
+
+Provisions from previous issuances that are inconsistent or contrary to the provisions of this Order shall be deemed impliedly or expressly amended or revoked. 
+
+XIII. SEPARABILITY CLAUSE 
+
+In the event that any provision or part of this Order is declared unauthorized or rendered invalid by any court of law- or competent authority, those provisions not affected by such declaration shall remain valid and in force. 
+
+XIV. EFFECTIVITY 
+
+This Order shall take effect fifteen (15) days after its approval and publication in a newspaper of general circulation and shall be reviewed three'(3) years after its implementation. 
+
+</body>
+
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>

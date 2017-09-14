@@ -1,0 +1,842 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>10/27/2014</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2014 - 0039 </docnum>
+<subject>SUBJECT: Strengthening the capacity of LGUs in identifying potential Measles outbreak and planning for appropriate response</subject>
+<body>
+ 
+
+I. BACKGROUND AND RATIONALE 
+
+During the last quarter of 2013 and ﬁrst quarter of 2014, the country observed high measles transmission in many provinces and cities resulting in increased measles incidence rates by the end of March 2014. Subsequently, the number of reported suspect measles cases increased and specimens submitted to the National Measles Reference Laboratory of the Research Institute for Tropical Medicine (NMRL/RITM) surpassed its capacity to conduct conﬁrmatory testing on all specimens. The above circumstances challenged the capacity of both the measles surveillance system and NMRL in providing timely epidemiologic data and laboratory results to conﬁrm the outbreak as well as local health workers to promptly implement appropriate response and control measures. 
+
+II. OBJECTIVES 
+
+1. Provide health workers guidance on responding to high transmission of measles in the community; and 
+
+2. Establish epidemiological linkage of new cases in barangays with laboratory conﬁrmed case(s) following the representative sampling method adopted by the NMRL 
+
+III. SCOPE AND COVERAGE 
+
+This issuance shall apply to the entire health sector, to include public and private health facilities both at the national and local government units involved in disease surveillance and response activities. 
+
+
+DEFINITION OF TERMS 
+
+1. Case Investigation Form (CIF) 
+Refers to reporting form that allows collection of standard information to acquire epidemiological study of disease incidence and disease patterns 
+
+2. Clinically-Measles Compatible Case 
+Any individual, regardless of age, with history of fever (38°C or more) or hot to touch, generalized non-vesicular rash of 3 or more days duration; and at least one of the following cough, coryza, or conjunctivitis 
+
+
+3. Laboratory— conﬁrmed Measles Case 
+A suspected measles case with a positive laboratory test result for measles-speciﬁc IgM antibodies or other approved laboratory test method 
+
+4. Laboratory- conﬁrmed Rubella Case 
+A suspect measles case with a positive laboratory test result for rubella—speciﬁc IgM antibodies or other approved laboratory test method 
+
+5. Epidemiologically- Linked Measles Case 
+
+Cases with a credible mode of transmission from a laboratory-conﬁrmed case or another epidemiologically- conﬁrmed case 7 to 21 days prior to rash onset
+
+6. Provincial Health Ofﬁce (PHO) 
+Refers to the unit established in the Provincial Health Ofﬁces that provides services on public health surveillance and epidemiology 
+
+7. Municipal Health Ofﬁce (MHO) 
+Refers to the unit established in the Municipal Health Ofﬁces that provides services on public health surveillance and epidemiology 
+
+8. City Health Ofﬁce (CHO) 
+Refers to the unit established in the City Health Ofﬁces that provides services on public health surveillance and epidemiology
+
+9. Regional Health Ofﬁce (RHO) 
+Refers to the unit established in the Centers for Health Development or the DOH regional ofﬁces that provide services on public health surveillance and epidemiology 
+
+10. Rural Health Unit (RHU) 
+Refers to the unit established in the rural health units that provides services on public health surveillance and epidemiology
+
+11. Disease Reporting Unit (DRU) 
+This includes all health facilities (rural health units, hospitals, laboratories, seaports and airport are considered DRUs) 
+
+12. Research Institute For Tropical Medicine (RITM) 
+It houses the Department of Virology which is the National Measles Reference Laboratory (NMRL) 
+ 
+
+V. IMPLEMENTING MECHANISM 
+
+OBJECTIVE 1. PROVIDE HEALTH WORKERS GUIDANCE ON RESPONDING TO HIGH TRANSMISSION OF MEASLES IN THE COMMUNITY 
+
+Health workers at all levels are encouraged to follow these basic steps in outbreak response: 
+
+
+
+-Investigate and isolate suspected measles case(s) in the household 
+
+-Obtain appropriate blood specimens for laboratory conﬁrmation 
+
+-Inform health authorities 
+
+-Assess immunization coverage in affected and surrounding barangays by conducting a rapid convenience survey 
+
+-Ensure appropriate case management, including Vitamin A administration in an age-appropriate dose 
+
+-Provide measles vaccine to unvaccinated household and community contacts Implement active case search in the community and nearby health facilities Alert surveillance focal points 
+
+-Monitor, analyze and prepare outbreak summary report 
+
+
+1.A ISOLATION INSTRUCTIONS 
+
+-At home, isolate the suspected measles case and limit contact with other household members whenever possible until ﬁve days after the rash appears. 
+-Suspected measles cases should not be hospitalized unless necessary (e.g. when complications develop such as pneumonia or severe diarrhea). 
+-In schools, suspected measles cases should be sent home and parents should be advised to keep the child at home for ﬁve days. 
+-At the hospital, isolate suspected measles cases in isolation ward/room from rash onset up to 5 days to prevent nosocomial spread. 
+
+INVESTIGATION INSTRUCTIONS 
+
+
+-All Disease Surveillance Ofﬁcers and Coordinators should report cases based on the standard measles case deﬁnition (rash, fever and either cough, coryza or conjunctivitis). 
+
+-All disease reporting units, including private clinics and facilities and the community are encouraged to report suspected measles cases to the concerned regional, provincial or city epidemiology and surveillance unit. 
+
+-Each suspected measles case should be completely investigated using the standard measles-rubella CIF (Annex A). 
+
+-Collect serum/ dried blood spot (DBS) sample from ALL cases in a barangay with only 1-5 suspected measles cases. If the number of cases exceeds 5, collect at least 5 serum/DBS samples per barangay. 
+
+-Wen the number of cases exceeds the level where completing the CIF is operationally feasible due to limited resources, case investigators should collect at least the 10 core variables (information items) required to allow for meaningful epidemiological analysis to guide health workers in implementing appropriate measles outbreak response measures. 
+
+-Core variables/information to be collected from suspected measles cases in all barangays where measles transmission is observed, especially in barangays where high measles transmission is occurring: 
+ - case identiﬁcation 
+
+— date of birth/age 
+
+- sex 
+
+- place of residence 
+
+- vaccination status or date of last vaccination 
+
+- date of rash onset 
+
+- date of notiﬁcation 
+
+- date of investigation 
+
+- date of blood specimen collection 
+
+- place of infection and travel history 
+
+
+-Collect information about the measles immunization status from all suspected measles cases, especially if the case is an under-ﬁve child. If the investigator failed to collect this data or the case is found to be unimmunized, the investigator(s) must immediately inform the local EPI coordinator and encourage to validate the information and to immunize the case as needed. 
+
+1.C. CROSS NOTIFICATION 
+
+
+-Health workers at all levels should immediately be oriented and involved in all aspects of the outbreak response. 
+
+-Health workers of neighboring barangays should be notiﬁed so that they will begin implementing preventive actions as necessary. 
+
+-The public should be informed through the media about the outbreak and any protective measures that they can take. 
+
+-If a suspected case has traveled or has close contact with individuals from other barangays of the country 7-21 days before the onset of the illness, the D80 in those barangays should be notiﬁed immediately. 
+
+1.D. MEASLES CASE MANAGEMENT 
+
+-All suspect cases with clinical manifestation of measles, e.g. maculopapular rash, high fever (238 C) accompanied by either cough, runny nose or red eyes, should receive recommended age-speciﬁc Vitamin A dosage. 
+-Administration of Vitamin A is the standard of care in measles case management. 
+-Vitamin A supplementation has been shown to reduce all-cause mortality by 23%-30%. 
+-Health workers are encouraged to include Vitamin A administration in the immunization response activity whenever possible if adequate supply is available. 
+
+1.E MEASLES VACCINATION 
+
+-Close contacts (persons living in the same household or other close quarters: classroom, dormitory, etc.) without evidence of measles immunity should immediately be vaccinated, regardless of age. They should also be instructed about the symptoms of measles and practice isolation as described above if symptoms appear. 
+-The immunization response for each scenario is dependent on the availability and timeliness of information about laboratory conﬁrmed measles cases. 
+-In the absence of a laboratory conﬁrmed measles case but with evidence of an increasing number of suspected measles cases, local health workers can adopt the recommended immunization response to a “one conﬁrmed measles casein a barangay.” 
+-Follow the recommended guidelines for an effective and efﬁcient community outbreak response immunization. The guideline is only for using measles containing vaccine. Standard guidelines must be followed should local health workers decide to include other interventions (e.g. Vitamin A administration, OPV, etc.) in the response (Annex B). 
+
+1.F INTENSIFY MEASLES SURVEILLANCE 
+
+
+-Measles surveillance should be intensiﬁed to search for additional suspected cases. 
+
+-For every chain (date of rash onset of cases fall within an interval of 7—21 days from each other) of conﬁrmed measles cases, at least 5 representative nasopharyngeal or oropharyngeal swab samples should be collected for laboratory measles viral isolation and allowing identiﬁcation of the circulating measles virus strain. 
+
+-Ideally the nasopharyngeal or oropharyngeal swabs should be collected from cases within seven days of rash onset. Whereas, serum IgM or DBS for measles-speciﬁc IgM is more likely to be positive if collected between 4-28 days after rash onset. Specimens for IgM testing and for virus isolation should be collected during the ﬁrst contact. Specimens for virus isolation and for IgM testing do not need to be collected from the same cases during an outbreak investigation. 
+
+-All reporting units should be notiﬁed once a measles outbreak is suspected and be alerted to be vigilant for additional cases. 
+
+-Health workers and public should be encouraged to report cases. 
+
+-The public should be informed where to report cases and where to get information for measles prevention and control. 
+
+1.G OUTBREAK MONITORING AND SUMMARY REPORTING 
+
+-All epidemiology and surveillance units should aim to update their measles database regularly. At least one staff in each unit should be assigned for this purpose. 
+-Surveillance data should be analyzed using the most updated information. 
+-Data should be analyzed for both suspected, clinically—compatible, and conﬁrmed measles cases. 
+-Basic weekly analysis should include the following: 
+
+- Distribution of cases by case classiﬁcation. Epidemiologically-linked cases should be determined as soon as a laboratory conﬁrmed measles case is identiﬁed. 
+- Distribution of cases by morbidity week and place 
+- Age distribution of cases and immunization status 
+- Patterns of transmission, including travel and exposure history 
+- Measles incidence and case fatality ratio 
+- Immunization response activities 
+
+
+
+-When no new case is reported during a three-week period, despite the presence of intensiﬁed surveillance, the outbreak may be considered to be over. 
+-It is recommended for each epidemiology and surveillance unit with catchment barangays affected by the outbreaks to prepare and share a summary report to document the outbreak including lessons learned, best practices and recommendations that could be useful in improving the country’s measles elimination strategies. 
+
+OBJECTIVE 2. ESTABLISH EPIDEMIOLOGICAL LINKAGE OF NEW CASES IN BARANGAYS WITH LABORATORY CONFIRMED CASEtS) FOLLOWING THE REPRESENTATIVE SAMPLING METHOD ADOPTED BY THE NMRL 
+
+The guidelines described in this section are temporary and applicable ONLY in the situation of widespread measles transmission. When faced with a high incidence of measles, strategic collection of blood samples is essential to conserve valuable staff time and lessen the overload of specimens in the laboratory. Once a reference sample has been conﬁrmed positive for either measles or rubella IgM, health care providers can redirect their time and effort in conducting a high-quality ﬁeld investigation to search for other cases, epidemiologically-link other suspected cases to a known laboratory-conﬁrmed measles or rubella case and conduct an appropriate and timely outbreak and immunization response. 
+
+Once the measles transmission has been controlled and the number of suspected measles cases is signiﬁcantly reduced, it is important to follow the guidelines in AO. No. 2014—0003, which requires collection of serum/DBS samples from EVERY suspected measles case. This will facilitate conﬁrmation of the end of a measles outbreak. This approach also applies when sporadic measles cases are observed. 
+
+Please be reminded that once the country enters the measles elimination phase, it is highly recommended that ALL reported suspect measles cases are completely investigated and have blood specimens collected for laboratory conﬁrmation. 
+
+2.A. ESTABLISHING EPIDEMIOLOGICAL LINKAGE 
+
+A measles case conﬁrmed by epidemiological linkage to a laboratory- conﬁrrned case or epidemiologically—linked case is a suspected measles case with a credible mode of transmission from a laboratory-conﬁrmed case or (in the event of a chain of transmission) to another epidemiologically-conﬁrmed case seven to 21 days prior to rash onset. 
+
+How should a “credible mode of transmission ” be understood? 
+
+Cases must be linked geographically and temporally, although the contact details may not always be proven and sometimes must be assumed. Measles virus spreads very rapidly and people may be completely unaware that they have been in contact with infected persons who have not yet developed a rash. The following situations are all credible and should be considered: 
+
+
+-A case in the same village or urban community; 
+
+-A case in a neighbouring community with contact occurring through schools, markets and social events; 
+
+-A case who has travelled to a country known to have measles circulating during the past seven to 21 days; and 
+
+-A case having visited a health facility where a conﬁrmed case is known to have occurred. 
+
+Who should perform epidemiological linking of measles cases? 
+
+- A barangay with no laboratory-conﬁrmed measles case: 
+
+- Depending on which unit is responsible for the barangay where the cases were reported, the provincial, municipal or city epidemiology and surveillance unit (MHO/PHO/CHO) shall be responsible for determining if the cases are epidemiologically-linked to conﬁrmed measles or other epidemiologically-linked measles cases from neighboring barangays or municipalities where laboratory-conﬁrmed cases are identiﬁed. 
+
+- As the MHO/PHO/CHO has access to the measles database of the whole municipality, province or city, it has the ability to determine which of the newly reported cases are epidemiologically-linked to the laboratory-conﬁrmed measles cases from other areas by reviewing individual case’s core information (e.g. date of onset, exposure and travel history). 
+
+- The MHO/PHO/CHO can also use maps to plot all the cases reported in their whole catchment area to determine patterns of transmission, population density and mobility, immunization data, etc., which could help identify outbreak risks and measles transmission chains. 
+
+- A barangay with at least one known laboratory-conﬁrmed measles case: 
+
+- If a barangay has at least one known laboratory-conﬁrmed measles case, the ﬁeld investigation team or responsible disease surveillance ofﬁcer should already determine if the new cases currently being investigated are epidemiologically—linked to that case or other previously identiﬁed epidemiologically-linked cases in the same barangay. 
+
+2.B. SELECTION OF REPRESENTATIVE SPECIMENS FOR LABORATORY CONFIRMATION OF MEASLES OUTBREAK/CASES 
+
+The NMRL is committed in providing timely laboratory results to guide planning for an effective and efﬁcient outbreak immunization response with implementation of. appropriate control measures. However, due to the limited ELISA test kits and overwhelming number of. specimens being submitted for conﬁrmatory testing, the NMRL has suggested a plan for prioritizing samples to be tested using a simple method of selection. The selected samples represent certain barangays and would allow efﬁcient epidemiological linking of suspected measles cases without specimens. 
+
+2.C. CLASSIFYING SUSPECTED MEASLES CASES WITH UNTESTED SPECIMEN 
+
+Having a reference laboratory-conﬁrmed measles case is necessary to facilitate epidemiological linkage. Therefore, while the laboratory test results of the selected specimen for priority testing are still pending, it is recommended that suspected measles cases with serum/DBS samples will be temporarily classiﬁed as clinically-measles compatible cases if they belong to a barangay where representative samples were selected for priority testing. Once the test results of the representative samples are available, these cases will be reviewed and reclassiﬁed as follows: 
+
+- Epidemiologically-linked cases — if the representative samples are positive for measles IgM and the criteria for epidemiologically-linked case is met. 
+
+- Clinically-Measles Compatible eases — this will be the ﬁnal classiﬁcation if the representative samples are negative for measles and rubella IgM even if the criteria for epidemiological linkage are met. These cases will not be discarded as non-measles/non-rubella due to epidemiological linkage to a case that tested negative for measles/ rubella IgM. 
+
+Following standard protocol, all reported cases with negative measles IgM test results shall be re-tested by the NMRL for presence of rubella IgM. Based on the results, cases will be classiﬁed as either conﬁrmed rubella or discarded non- measles/non-rubella. The same standard protocol applies to reported cases whose specimens were prioritized but tested negative for measles IgM. 
+
+2.D. STRATEGIC APPROACH TO SERUlVI/DBS COLLECTION DURING HIGH MEASLES TRANSMISSION 
+
+In line with the above mentioned strategy, it is recommended that specimen collection be done strategically to facilitate the process of epidemiological linkage of measles cases, particularly in provinces and cities with high measles transmission (e.g. multiple barangays with more than one laboratory-conﬁrmed measles case in several municipalities, provinces and/or cities) without overwhelming the NMRL's capacity to test specimens and provide timely test results. Please refer to the table below for the supplemental guidelines that apply ONLY during a period of high and widespread measles transmission. 
+
+ 
+ <image>table_1.png</image>
+ <image>table_2.png</image>
+
+ 
+
+The details of recent travels and contact tracing will be very important in establishing epidemiological linkage and probable source of infection. Integration of strong epidemiological information is achieved through conducting a high-quality ﬁeld investigation. 
+
+In barangays where the surveillance system is inadequate to promptly identify and investigate cases, or when specimen collection is not possible, epidemiological linking may be done at the municipal or city level provided a laboratory-conﬁrmed case(s) exists in a neighboring barangay and there is sufﬁcient evidence of epidemiological linkage among cases. Oftentimes, plotting cases in a map and tracking transmission chains are helpful to support this process. 
+
+Furthermore, ensuring the collection of the 10 core variables/information from every suspected measles case will support proper case classiﬁcation and data analysis to help decision makers in planning for appropriate immunization response. 
+
+2.E. ROLES AND RESPONSIBILITIES 
+
+As previously mentioned, this issuance is developed to provide guidance to health workers at different levels to timely and effectively carry out interventions to contain an outbreak and prevent further transmission. Some items contained in this guideline apply only during a high level of measles transmission in the community (Annex C). As signiﬁcant reduction in measles transmission is expected after the conduct of a nationwide measles-rubella mass immunization (that will also include administration of OPV) in September 2014, health workers are encouraged to exercise tact in deciding which activities are to be carried out based on the local situation. 
+
+Once a low measles transmission is achieved, the country will shift to recommended measles elimination strategies where each case is required to be completely investigated and collected with appropriate specimen for measles conﬁrmation and genotyping. Likewise, during an elimination phase, one laboratory conﬁrmed case is considered an outbreak and appropriate measures must be carried out to prevent further spread of measles in the community. A.O. No. 2014-0003 provides guidance on laboratory conﬁrmation of measles case' during measles elimination phase. 
+
+VI. REPEALING CLAUSE The provisions of previous Orders and other related issuances inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modiﬁed, repealed or rescinded accordingly. All other provisions of existing issuances which are not affected by this Order shall remain valid and in effect. 
+
+VII. EFFECTIVITY 
+
+This order shall take effect immediately. 
+</body>
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+ 
+
+ANNEX A: CASE INVESTIGATION FORM FOR MEASLES SURVEILLANCE 
+
+<image>figure_1.png</image>
+<image>figure_2.png</image>
+<image>figure_3.png</image>
+<image>figure_4.png</image>
+<image>figure_5.png</image>
+<image>figure_6.png</image>
+<image>figure_7.png</image>
+<image>figure_8.png</image>
+<image>figure_9.png</image>
+<image>figure_10.png</image>
+<image>figure_11.png</image>
+<image>figure_12.png</image>
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+mﬁﬂﬁﬁmi anew“ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+E: 1, g g. .5. -. 
+
+B 
+
+ 
+
+ 
+
+an: manning nae-irrig- SW ﬂit—1mm " .Fiﬁﬁiﬂiﬁ“iﬁﬁal5”" ' ' ' ' ' 
+
+ 
+
+ 
+
+ 
+
+ 
+
+' than mam-nun 
+
+ 
+
+   
+
+use» an aim: we? enter»: are aware: in ma: team macaw magnum 
+
+. awammineaammeewm mmmcwenamranmatennwmrn em- 
+
+Wﬁ$£mmgﬁﬁ¥m 
+
+magnum“ cameraman-rim: 
+
+ 
+
+I anewamm. . slit, ‘7‘.’ '7 an 
+
+ 
+
+  
+
+'. Meagan.“ " - Emirate-i5 
+
+ 
+
+Mamnmwaammm ﬁﬁrmnanéw: ' 
+
+am aim: gamma gaming. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ANNEX B: GUIDELINES ON MEASLES VACCINATION 
+
+Immunization response during high measles transmission preceding a national or sub-national measles cam ain 
+
+ 
+
+ 
+
+Ml'iitiiile: ha.‘?nga¥5 With moreth confirmed - me:a'3§aes-gg-§§3'sg';'e . - 
+
+ 
+
+Vcbii re 
+
+ 
+
+Immunization response for residual measles transmission conﬁrmed after a national or sub-national measles cam ' 
+
+jag; aii _ missed 
+
+ 
+
+10 conﬁrmed measies casesaiin'é muiti'ple cities] municipaiitiezs 3 
+
+*Target age can be adjusted locally based on epidemiological evidence. For example, the lowest age can be adjusted to 6 months and upper age limit up to 59 months. If target age is lowered to 6 months, children immunized between 6-8 months should get their routine MCV dose at age 9 months. 
+
+**This approach requires consultation with national level ﬁrst and should only be considered if initial strategies are proven ineffective to control outbreak. 
+
+13 
+
+Ml 
+
+ 
+
+ 
+
+ANNEX C: ROLES AND RESPONSIBILITIES OF EACH ADMINISTRATIVE 
+
+ 
+
+    
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LEVEL DOH CENTRAL DRU MHO/CHO/PHO R0 OFFICE (N EC/NMRL- RITM/EPI 0 Support m, investigation and surveillance at the surveillance I Manage and reporting of suspect DRUs and ensure activities of the analyze national cases complete MHO/CHO/PHO/ database for '0 Weekly zero investigation and DRU VPD reporting specimen collection 0 Assess and surveillance 0 Field investigation 0 Monitoring visits monitor quality of o Facilitate ﬁnal and collection of and provision of VPD surveillance case information on new technical support to performance based classiﬁcation of cases and contacts; the different DRUs on standard reported cases establish 0 Surveillance data indicators ‘/ Review epidemiological collection and 0 Monitoring visits surveillance data linkage if feasible management and provision of for 0 Use the standard 0 Perform timely technical support epidemiological protocols in epidemiological t0 the linkage 0f collecting, analysis MHO/CHO/PHO / clinically- processing and o Monitoring for DRU measles transporting of clusters 0 Perform timely compatible cases specimens for 0 Field investigation epidemiological t0 the laboratory- laboratory to identify contacts analysis and conﬁrmed conﬁrmation. and validate cluster monitoring case(s) - Refer to item “2D.” suspected outbreak - Join/support ﬁeld ‘/ Coordinate of this guideline for . Establish investigation to With R0 and the appropriate epidemiological identify contacts RITM for number of linkage of new and validate compleuon of specimens to be suspected cases to suspected outbreak 1nvest1gation 001130th per the laboratory- 0 Review data barangay. conﬁrmed case(s) surveillance data ' Smeit national ' Maintain a VPD - Provide different for “1935165 data to surveillance log DRUs with epidemiological WHO monthly book to tract adequate linkage of 0 Assess and suspect measles surveillance clinically- measles monitor quality case admissions. supplies/logistics, compatible cases OfVPD - Provide appropriate such as to the laboratory- surveillance case management, investigation forms, conﬁrmed case(s) performance including age— specimen 0 Provide different based 01’1 appropriate doses of collection, data MHO/CHO/PHO/ standard Vitamin A. management tools DRU with indicators 0 Coordination adequate 0 Monitoring Visits meeting with surveillance and provision of immunization unit SUpplieS/logistics, technical support for; such as to priority 14 
+
+Ml 
+
+ 
+
+ 
+
+ 
+
+ 
+
+V Conduct of regular risk assessment using surveillance and immunization data V Identiﬁcation of barangays/ municipalities high risk for measles outbreak V Joint ﬁeld investigation and/or monitoring and technical supervision in priority municipalities and barangays 
+
+o Advocacy to local chief executives and partners for support 
+
+0 Provide immediate data analysis feedback to the immunization unit and the MHO/CHO/PHO/ R0 
+
+0 Prepare and disseminate regular and timely VPD/measles surveillance reports. 
+
+ 
+
+investigation forms, specimen collection materials, data management tools Coordination meeting with immunization unit for: 
+
+V Conduct of regular risk assessment using surveillance and immunization data V Identiﬁcation of municipalities high risk for measles outbreak V Joint ﬁeld investigation and/or monitoring and technical supervision in priority municipalities, provinces and cities 
+
+Advocacy to relevant stakeholders, partners and local chief executives Provide immediate data analysis feedback to the immunization unit and the MHO/CHO/PHO/ DRU/N EC Prepare and disseminate regular and timely VPDS/measles surveillance reports. 
+
+ 
+
+DRU/MHO/ CHO/PHO/RO - Regularly perform and feedback epidemiological analysis and clustering of cases 0 Coordinate with R0 for validation of suspected outbreak «- Provide technical and logistical support during ﬁeld investigation Coordination meeting with DOH central ofﬁce (N EC, EPI), NMRL- RITM and WHO for: V Conduct of annual national and sub-national measles risk assessment using surveillance and immunization data V Identiﬁcation of provinces and cities high risk for measles outbreak V Joint ﬁeld investigation and/or monitoring and technical supervision in priority provinces and cities 0 Advocacy to: V Secure high level political 
+
+ 
+
+ 
+
+15 
+
+all 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+support from health and government authorities 
+
+V Encourage support from partners, professional association and other government and non— government agencies Provide immediate data analysis feedback to health authorities and relevant partners and stakeholders Prepare and disseminate regular and timely VPDS/measles surveillance reports. 
+
+RITM 
+
+Disseminate specimen collection supplies as needed Laboratory testing to conﬁrm measles cases Maintenance and management of laboratory data base 
+
+Provide timely laboratory results to facilitate epidemiological linkage of clinically- measles compatible cases 
+
+ 
+
+16 
+
+will 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Once outbreak is ofﬁcially declared in the catchment area, provide daily updated (via SMS, phone or email) to the concerned epidemiology and surveillance unit (MHO/CHOH’HO/ R0 or NEC) Investigate all suspected measles cases from the in- patient and out-patient wards 
+
+If cases exceeds 30, linelist of cases with collection of 10 core variables is sufﬁcient Ensure collection serum/ DBS and NPS/OPS specimens from the ﬁrst 5 admitted suspected measles cases per barangay 
+
+Provide MHO/CHO/PHO/RO weekly linelist of suspected measles cases per barangay/ municipality 
+
+0 Hospitals serving the 
+
+areas affected by high 
+
+ 
+
+ 
+
+0 Conduct complete investigation, monitoring and validation of suspected outbreak 
+
+- Intensify surveillance: 
+
+V Ensure each case is investigated V Ensure that adequate specimen are collected per barangay (refer to section “2.D.”) 
+
+V Ensure proper storage and handling of specimens 
+
+V Request DRUs for daily reporting of hospitalized cases and weekly submission of surveillance data 
+
+.. Provide adequate 
+
+supply of Vitamin A and other life- saving medicines to the different hospitals and health facilities for treatment of measles cases 
+
+0 Perform timely and regular 
+
+ 
+
+ 
+
+0 Ensure complete investigation, monitoring and validation of suspected outbreak 
+
+0 Provide additional resources and support to MHO/CHO/PHO /DRU to perform intensiﬁed hospital and ﬁeld based surveillance and investigation 
+
+0 Facilitate proper collection, storage and shipment of specimens to NMRL-RITM 
+
+o Liaise with DOH central ofﬁce to facilitate provision of adequate supply of Vitamin A and other life-saving medicines to the hospitals and other health facilities 
+
+0 Perform timely 
+
+ 
+
+Distribute laboratory results to DRU/MHO/ CHO/PHO/RO and NEC. 
+
+m 
+
+o Facilitate conﬁrmation of immunization status of cases with missing information on immunization history. 
+
+EC 
+
+ 
+
+- Perform timely and complete epidemiological analysis, evaluation of population immunity and risk assessment 
+
+0 Report the outbreak to WHO 
+
+- Organize laboratory conﬁrmation and shipment of specimens for viral isolation 
+
+0' Support ﬁeld investigation 
+
+0 Provide technical guidance and logistical support through the RO during outbreak investigation and response. 
+
+- Disseminate weekly summaries of outbreak surveillance data to OSEC, ExeCom, RO, EPI, NEC, 
+
+ 
+
+17 
+
+will 
+
+ 
+
+ 
+
+ 
+
+ 
+
+measles transmission should initiate contingency plan: 
+
+V Surge capacity 
+
+V Referral system 
+
+V Adequate supply of life-saving medicines, supplies and equipment 
+
+V Establish a coordinating body with the MHO/CHO/PHO/RO Public information & communication: 
+
+V Provide information on the outbreak and control activities to the higher authorities 
+
+V Promote public awareness of the outbreak and what the community should do to prevent measles or to receive medical treatment 
+
+ 
+
+epidemiological analysis and review of immunization data 
+
+0 Disseminate weekly summaries of outbreak surveillance data to DRU/MHO/CHO/ PHO/RO and other relevant health and government authorities 
+
+ 
+
+and regular epidemiological analysis and review of immunization data 
+
+In case of high measles transmission, support NMRL— RITM strategic testing of specimens in case of inadequate surge capacity to test at referred samples: V Analyze data and come up with a list of cases with Specimens that will be prioritized for NMRL-RITM laboratory testing V Inform the DRUs about the cases whose specimen can no longer be tested by the NMRL- RITM 
+
+V Inform the MHO/CHO/PHO [DRU if additional samples need to be collected for priority testing V Disseminate laboratory results and transmittals to the respective 
+
+ 
+
+NCHP, and other relevant health authorities and partners. 
+
+RITM 
+
+- In case of high measles transmission, activate surge capacity to ensure timely and accurate testing of specimens for laboratory conﬁrmation of suspected measles cases 
+
+a Secure adequate supply of specimen collection kits and testing reagents 
+
+- In case of specimen overload, initiate contingency plan for priority testing of measles specimens 
+
+0 Maintain timely dissemination of laboratory test results, prioritizing areas with conﬁrmed measles outbreak 
+
+L131 0 Coordinate with NBC for 
+
+MHO/CHO/PHO epidemiological lDRU- analysis and risk Continue and assessments support a Support ﬁeld MHO/PHO/PHO investigation lDRU 1n through the analyzing data regional EPI 
+
+ 
+
+18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+RHUs AND HEALTH 
+
+CENTERS 
+
+- Coordination meeting between surveillance, immunization and health promotion staff to of both the RHU/HC and MHO/CHO/PHO to: V Jointly review of surveillance and immunization data by barangay V Plan for appropriate immunization response (use tables in section “l.E.”.) V Identify manpower and logistical needs V Develop advocacy and communication plan V Determine strategy for social/ community mobilization V Determine means of recording and reporting of immunization response and documentation of lessons learned V Identify mechanism 
+
+ 
+
+Coordinate with the respective EPI Coordinator of the respective MHO/CHO/PHO for the formulation of an appropriate outbreak immunization response. 
+
+I Developed microplanning based on: 
+
+V Deﬁned the vaccination strategy 
+
+V Deﬁned the geographical areas to be covered 
+
+V Deﬁned target age group to be vaccinated 
+
+V Estimated the total number of eligible population for the immunization response 
+
+V Deﬁned time- frame for vaccination intervention 
+
+V Identiﬁed 
+
+ 
+
+for epidemiological linkage of clinically- measles compatible cases - Disseminate weekly summaries of outbreak surveillance data to MHO/CHO/PHO and other relevant health and government authorities 
+
+Assess reported measles outbreaks immediately and report all essential information to the DOH central ofﬁce. 
+
+0 Provide on-site assistance to aid in local outbreak investigation and control measures. 
+
+- Convene a regional outbreak coordinating committee and 
+
+0 Coordinate and work with the respective EPI Coordinator of the respective MHO/CHO/PHO and DOH central ofﬁce for the formulation of an appropriate outbreak immunization response. 
+
+0 Intervention 
+
+ 
+
+coordinators - Participate in coordination meetings and advocacy activities 
+
+ 
+
+EC 
+
+ 
+
+0 Feedback results of epidemiological analysis and risk assessment with health ofﬁcials at the national and local levels for immediate approval and implementation of containment measures. 
+
+0 Monitoring and course of the outbreak and control measures 
+
+0 Review and strengthen capacity for AEFI investigation and response. 
+
+0 Coordinate the appropriate communication strategy to increase the community and health worker’s awareness and involvement 
+
+ 
+
+19 
+
+ 
+
+Ml 
+
+ 
+
+ 
+
+ 
+
+ 
+
+for immunization waste management 
+
+V Plan for AEFI(A.O. No. 2010-0017-A) 
+
+- Advocacy to local chief executives for support 
+
+0 Secure vaccine and other logistics needed for immunization response 
+
+0 Engage partners for public information dissemination and other form of support (e.g. lending of vehicles or support monitoring or RCA) 
+
+0 Identify / set up immunization posts 
+
+0 Mobilize vaccination teams, supervisors and monitors/RCA 
+
+0 Community engagement and social mobilization to complete immunization response as planned 
+
+0 Submission of immunization response accomplishment report to higher authorities 
+
+0 Continuous outbreak monitoring through surveillance, with strong capacity for laboratory conﬁrmation 
+
+0 Reporting end of outbreak 
+
+HOSPITALS 
+
+o Vaccination of all unvaccinated health workers 
+
+0 Information of parents 
+
+ 
+
+required resources: - Vaccines and injection materials — Human resources - Cold chain and logistics support including transport - Determine key messages for public information - Mobilization of vaccination teams, supervisors and monitors V Established AEFI response mechanism in place V Deﬁned budget and potential sources of funding for the intervention V Result of ongoing evaluation of the intervention by measuring vaccination coverage to verify that the objective is being achieved; plan for RCA Determine and coordinate communication strategy needed to increase community awareness and involvement, monitoring and course of the outbreak and control measures Convene meeting with immunization unit, health promotion and other relevant 
+
+ 
+
+planning: V Deﬁne the vaccination strategy V Deﬁne the geographical areas to be covered V Deﬁne target age group to be vaccinated V Estimate the total number of eligible population for the immunization response V Deﬁne time- frame for vaccination intervention V Identify required resources: - Vaccines and injection materials - Human resources - Cold chain and logistics support including transport - Determine key messages for public information - Mobilization of vaccination teams, supervisors and monitors V Ensure AEFI response mechanism in place V Deﬁne budget 
+
+ 
+
+0 Establish effective networking with other relevant government agencies at the national and local level. 
+
+E_P_I 
+
+- Convene a national outbreak coordinating committee and assigning duties 
+
+0 Assess and secure required resources 
+
+0 Provide assistance in obtaining emergency supplies, technical and support staff 
+
+0 Support R0 and MHO/CHO/PHO intervention planning 
+
+0 Provide technical assistance to strengthen the vaccination strategy 
+
+0 Consolidate information about immunization response accomplishments 
+
+o Convene meeting with immunization unit, health promotion and other relevant health units to plan, monitor 
+
+ 
+
+. ' and otential and caregivers to seek health un1ts to p f and evaluate the - evaluate the sources 0 outbreak Prevent”? outbreak funding for the immumzatlon of response 20 
+
+i/I‘” 
+
+ 
+
+ 
+
+ 
+
+ 
+
+unimmunized intervention intervention immunization 
+
+household members V Ensure that 0 Support immunization there is ongoing activity at the hospital evaluation of the - Provide emergency intervention by and medical treatment measuring to seriOus cases of vaccination Adverse Event coverage to Following verify that the Immunization objective is being achieved; plan for RCA 0 Coordinate with DOH central ofﬁce to determine communication 
+
+strategy needed to increase community awareness and involvement, monitoring and course of the outbreak and control measures 0 Convene meeting with immunization unit, health promotion and other relevant health units to evaluate the outbreak intervention 
+
+ 
+
+ 
+
+ 
+
+ 
+
+21 
+
+ 
+
+ 
+

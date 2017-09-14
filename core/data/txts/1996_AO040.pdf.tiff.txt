@@ -1,0 +1,278 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+   
+
+SAN LAZARO COMPOUND 
+RIZAL AVENUE, STA. CRUZ
+MANILA, PHILIPPINES
+TEL NO. 711-60-80  
+
+<date>12/06/1996</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 40 s. 1996</docnum>
+
+<subject>SUBJECT: Requirements for the control of radiation hazards from industrial and anti-crime x-ray facilities.</subject>
+
+<body>
+
+Pursuant to the authority vested in me as secretary of Health under Section 3, Chapter 1 Title IX Book IV of the Administrative Code of 1987 and in the interest of service, the following requirements for the control of radiation hazards from industrial and anti crime x-ray facilities are hereby issued.
+
+I. Statement of Policy 
+
+These requirements are promulgated to protect the health of the people by preventing the operation of substandard, improperly managed and inadequately shielded facilities using x-ray devices used in industry and anti—crime work. All x-ray facilities used in industrial companies and anti-crime activities shall comply with these requirements.
+
+
+II. DEFINITION OF TERMS
+
+1. ShaLL and shall not are used to indicate that adherence to the requirement is considered mandatory to meet accepted standards of protection.
+
+2. Should and should not are used to indicate a prudent practice to which exceptions may occasionally be made in appropriate circumstances.
+
+3. Anti-crime x—ray devices means an x—ray unit used for inspection of mails, packages, baggage, freight and other articles for security purposes.
+
+4. Barrier means a physical guard to prevent access to an area of potential hazard.
+
+5. Cabinet-type x—ray equipment means an x-ray unit in a shielded enclosure into which test items or specimens may be placed or allowed to pass for fluoroscopic or radiographic imaging.
+
+6. Collimator means a device to limit the primary beam to the required cross-sectional area at the point of interest.
+
+7. Coulomb per kilogram (C kg^(-1)) is the System Internationale (St) unit of exposure. The special unit of exposure, the roentgen is related to coulomb per kilogram by: 1 roentgen (R) = 2.58 x 10^(-4) C kg(-1)
+
+8. Dead man type switch or spring loaded type switch is a switch so constructed that a circuit—closing contact can be maintained only by continuous pressure on the switch.
+
+9. Enclosed installation means an installation in which the radiation source and the test items or specimens thereto are conﬁned Within a permanent shielded enclosure which prevents unauthorized person access during irradiation.
+
+10. Enclosure means the shields angler barriers that surround a particular area, which prevents access to and attenuates x-ray emerging from that area.
+
+11. External surface means the outside surface of the industrial and anti crime x—ray device which may include the high voltage generator, doors, access panels, handles, control knobs and other permanently mounted hardware and the plane across any aperture or port.
+
+12. Industrial fluoroscopic equipment means an x-ray equipment in a shielded enclosure into which test items or specimens may be placed for fluoroscopic inspection
+
+13. Industrial radiographic equipment means an x-ray equipment which is used in taking a radiograph of test items or specimens.
+
+14. Industrial x-ray gauge means an x-ray device which uses the detection of an x-ray beam transmitted through or scattered by a material at interest to measure a parameter associated with the material.
+
+15. Interlock means a device intended to prevent accidental exposure of any part of the human body to the x—ray beam by automatically terminating x-ray exposure in case any  door or access panel leading to the x-ray source is opened.
+
+16. Leakage radiation is radiation coming from within the x-ray tube assembly except for the useful beam.
+
+17. Open installation means an installation in which the x-ray source and all objects thereto are within an area that is not shielded and to which only authorized persons have  access and outside which, under all operating conditions, adequate protection is afforded to all persons.
+
+18. Operator is any individual authorized by the Radiation Health Service to operate an industrial and/or anti-crime x-ray device.
+
+19. Owner/licensee is a person, association, partnership, corporation, government agency or its duly authorized representative licensed by the Department of Health to operate and maintain an x—ray facility.
+
+20. Personal monitor means any appropriately sensitive device such as film badge, TLD  and pocket dosimeter used to measure the radiation dose received by an individual during a specific period. 
+
+21. Radiation Safety Officer is an individual authorized by the Radiation Health Service responsible for the conduct of radiation safety program in an x-ray facility.
+
+22. Radiation Safety Program is a planned and organized set of rules, policies and activities  which aims to ensure that the specified design and operational requirements of a particular x-ray facility related to protection and safety are satisﬁed.
+
+23. Sievert (Sv) is the System Internationale (SI) unit of dose equivalent which is equal to one Joule per kilogram (J kg^(-1)). The special unit of dose equivalent, the rem is related to Sivert by: 100 rem = 1 Sv.
+
+24. ShIeld means a wall or cover made of a material having sufficient density and thickness to attenuate x-rays to a minimum acceptable level.
+
+25. Tube shutter means an aperture cover designed to reduce, when closed, the intensity of the primary beam emerging from the aperture to such an acceptable level that the beam presents no hazard to persons at any point beyond the cover.
+
+26. X-ray analysis unit means an x-ray device which is used to determine the properties and composition of materIals using x—ray fluorescence of x—ray diffraction techniques.
+
+
+III. MANPOWER REQUIREMENTS
+
+3.1 All industrial and anti crime x—ray facilities shall be staffed by the following personnel: 
+
+3.1.1 Operators who have completed training in radiation protection for industrial and anti-crime work conducted and/or recognized by the Radiation Health Service(RHS).
+
+3.1.2 A Radiation Safety Officer who is an individual who has undergone training in radiation protection for Radiation Safety Officers(RSO) conducted and/or recognized by the Radiation Health Service (RHS).
+
+
+IV. X-RAY MACHINE REQUIREMENTS 
+
+An x-ray tube incorporated in an x—ray device to which this statement applies shall be enclosed  in a tube housing which satisfies the following requirements:
+
+4.1 Requirements for Industrial Radiographic Equipment
+
+4.1.1 Every x-ray source used in industrial radiography shall be enclosed in a housing such that the karma in air from the leakage radiation measured at a distance of 1 m from the focus does not exceed 100 mR in 1 hr (100 mSv/hr) at every rating specified by the manufacturer for that tube in that housing.
+
+4.1.2 Industrial radiographic equipment shall be provided with diaphragms, cones or adjustable collimator to limit the area of the useful beam.
+
+4.1.3 A warning light and a warning sign shall be provided on industrial radiographic units to indicate whether the tube is energized at a location visible to the operator.
+
+4.1.4 Every x-ray equipment shall be provided with an automatic timer which will terminate the exposure by de-energizing the x—ray tube after the preset time has elapsed.
+
+4.1.5 No radiation shall be detected when timer is set at zero.
+
+4.2 Requirements For industrial Fluoroscopic Equipment
+
+4.2.1 Each x—ray tube used in industrIal fluoroscopy shall be enclosed in a tube housing with an aperture that is covered by a shutter or a completely shielded enclosure, all entrances to which are interlocked so that opening one entrance immediately energizes the x-ray tube.
+
+4.2.2 The radiation level at any accessible point 5 cm from the surface of the tube housing and any enclosure attached to it shall not exceed 25 μSv (2.5 mR) in 1 hour when the x-ray tube is operated at any of the permissible ratings specified by the manufacturer of the equipment.
+ 
+4.2.3 The radiation level at any accessible point 5 cm from the external surface of the equipment shall not exceed 5 μSv (0.5 mR)in 1 hour when averaged over an area of 100 sq cm when the time is operated at any of the permissible ratings specified by the manufacturer of the equipment.
+
+4.2.4 Each tube shutter and enclosure shall be interlocked with the tube housing so that detachment of the shutter or enclosure from the housing de-energizes the x—ray tube.
+
+4.2.5 Fluoroscopic screens should be viewed indirectly by the use of mirrors or remotely by TV techniques.
+
+4.3 Requirements For Industrial X-ray Gauges
+
+4.3.1. Industrial x—ray thickness and level gauges and other similar devices should be housed shielded and installed so as to prevent unauthorized access to these devices.
+
+4.3.2 The relevant parts of 4.2 shall apply.
+
+4.4 Requirements For X-ray Analytical Equipment 
+
+4.4.1 Every x-ray analysis unit shall be fitted with an illuminated sign or a combination of  sign and a light which is activated only if the x—ray tube is operating. This sign shall be  legible and readily discernible at a distance of at least 2 meters on all accessible sides of the x—ray analysis unit.
+
+4.4.2 The high tension generator supplying the x-ray tube shall have an independent and easily disconnectable cable connection or line switch.
+
+4.4.3 An interlocking device should prevent entry of any part of the body into the beam path or cause the beam to be shut off upon such entry into its path.
+
+4.4.4 The x-ray camera or other recording device shall be provided with a protective screen that effectively absorbs radiation.
+
+4.4.5 The relevant parts of 4.2 shall apply.
+
+4.5 Requirements For Anti-Crime Cabinet-type X-ray Device:
+
+4.5.1 Anti-crime cabinet-type x—ray device for examination of carry-on baggage shall be so arranged that the operator stays in a position where all parts and doors can be  readily observed during exposure.
+
+4.5.2 A key operated control console shall be designed such that x-rays cannot be produced when the key in removed.
+
+4.5.3 The exposure switch shall be of the dead man type. 
+
+4.5.4 X-ray indicator lights shall be labeled "X RAYS ON” and shall be activated only when the x—ray tube is energized. The words shall be legible and readily discernible at a distance of at least 2 meters from all accessible sides of the equipment. 
+
+4.5.5 A clearly visible warning sign shall be fixed to the equipment adjacent to the controls. The warning notice shall be made tip of a solid yellow equilateral triangle 180 mm long on each side. At the center of the triangle is a black tre-foil sign for radiation.  Under the triangle are the words “CAUTION X-RAY EMITTING APPARATUS.“ The warning notice shall be on a 180 mm x 270 mm white background.
+
+4.5.6 The relevant parts of 4.2 shall apply.
+
+
+V. SITE REQUIREMENTS
+
+5.1 Site Requirements For Enclosed Installations
+
+Industrial x—ray equipment in an enclosed installation shall be located in a separate room which shall satisfy the following requirements:
+
+5.1.1 All walls and doors shall be made of materials which will reduce radiation level to 2.5 μSv per hour (0.25 mR/hr).
+
+5.1.2 The door leading to this room shall have an interlock to prevent any person from entering the said room during irradiation. In the event of an exposure being terminated by an interlock, it shall only be possible to reinitiate the irradiation from the control panel.
+
+5.1.3 Audible and visual warning signs shall be provided within the enclosed installation. These sign shall be actuated before the irradiation begins and shalt remain actuated until completion of the irradiation.
+
+5.1.4 Sortable means of exit shall be provided, so that any person who is inside the irradiation room by accident can leave the enclosure without delay.
+
+5.1.5 Where practicable, effective means, that cannot be reset from outside, shall be provided within the enclosure for preventing or quickly interrupting the irradiation.
+
+5.1.6 The control console of the x-ray equipment shall be located outside the x-ray room.
+
+5.2 Site Requirements For Open Installations
+
+Industrial radiographic equipment that are used in an open installation site shall satisfy the following requirements:
+
+5.2.1 The boundaries of an open field site shall be clearly defined by some appropriate means soon as ropes, rails or fences. 
+
+5.2.2 The boundary site shall be adequately posted with clearly visible warning notices. The warning notice shall be made up of a solid yellow equilateral triangle 180 mm long on each side. At the center of the triangle is a black tre-foil sign for radiation. Under the triangle are the words" CAUTION X-RAY EMITTING APPARATUS." The warning notice shall be on a 180 mm x 270 mm white background.
+
+5.2.3 The dose equivalent rate outside the boundary shall not exceed 25 μSv (2.5 mR) per hour.
+
+5.2.4 Continuous and competent supervision of the site shall be carried on during the conduct of x-ray exposure.
+
+5.2.5 The control console shall be located in an area where the dose equivalent rate  does not exceed 25 μSv {2.5 mR) per hour. 
+
+5.3 Site Requirements For Anti-crime X—ray Device
+
+5.3.1. Anti-crime x-ray device may not be located in a separate room provided that access to its locatIon shall be limited to personnel authorized to work in the area by the RSO.
+
+5.3.2 Visual warning signs shall be posted in the area. The warning notice shall be  made up of a solid yellow equilateral triangle 180 mm long on each side. At the center  of the triangle is a black tre-foil sign for radiation. Under the triangle are the words “CAUTiON - X—RAY EMITTING APPARATUS.” The warning notice shall be on a 180 mm x 270 mm white background.
+
+
+VI. WORKING PROCEDURE 
+
+6.1 Recommendations For The Operator During The Use Of Industrial Radiographic Equipment:
+
+6.1.1 Industrial radiographic equipment shall only be used if warning lights and  interlocks are operating properly.
+
+6.1.2 Whenever practicable, radiography shall be done such that the primary beam is  directed either upward or downward.
+
+6.1.3 Safety devices such as warning lights and interlocks shall be tested periodically to  ensure their proper operation.
+
+6.1.4 The RSO shall carry out regular radiation area and equipment monitoring. He shall keep a record of the results of such activities and report to RHS any significant levels of radiation that may arise.
+
+6.2 During the Use Of Fluoroscopic Equipment
+
+6.2.1 No industrial fluoroscopic equipment shall be operated if a person occupying an area can be exposed to greater than 2.5 μSv (0.25 mR) per hour.
+
+6.2.2 The relevant parts of 5.1 shall apply.
+
+6.3 During The Use Of X-ray Analytical Equipment And X-ray Gauges
+
+6.3.1 When a total enclosure of the equipment is not practicable, it shall be so located and supervised that no person can occupy an area in which the exposure rate is higher than 25 microsievert per hour.
+
+6.3.2 No person using an x-ray analysis unit shall expose any part of his body to a primary x-ray beam. 
+
+6.3.3 Doors leading to the x-ray analytical equipment shall be locked whenever the unit remains energized and the room is unsupervised. 
+
+6.3.4 The equipment shall be periodically monitored tor possible detection of significant leakage radiation.
+
+6.3.5 Operators of the equipment should use finger or wrist monitoring devices.
+
+6.3.6 Neither repair not cleaning involving removal of covers, shielding material or tube housing, nor non-routine exchange of filters, shutters, collimator etc. shall be performed  unless it has been positively ascertained that the tube is de-energized.
+
+6.3.7 The relevant parts of 5.1 shall apply.
+
+6.4 During The Use Of Anti-crime X-ray Equipment
+
+6.4.1 The relevant parts of 5.1, 5.2 and 5.3 shall apply.
+
+
+VII. ADMINISTRATIVE REQUIREMENTS 
+
+7.1 The owner shall appoint a radiation safety officer who shall manage the conduct of radiation safety program.
+
+7.2 The owner shall provide personal dose monitors for the operators and shall keep a record of Occupational radiation doses received by the workers. 
+
+7.3 The owner shall have or make available a radiation monitoring instrument for the purpose of carrying out regular radiation monitoring surveys of industrial x-ray units. He shall see to it that the radiation monitoring instrument is calibrated at least once a year.
+
+
+VIII. INSPECTION REQUIREMENTS
+
+8.1 Each licensee shall afford to the RHS radiation protection survey and evaluation (RPSE) team at all reasonable times opportunity to inspect his/her x-ray facility
+
+8.2 Each licensee shall make available to the RHS-RPSE team for inspection, upon reasonable notice, records kept by the facility relevant to the conduct of x-ray inspection for the purpose of determining the workload of his/her facility.
+
+8.3 Whenever necessary the RHS-RPSE team shall be allowed by the licensee to conduct investigation even without prior notice on certain occasions in response to complaints that are unrelated to the operation of the licensee’s facility.
+
+
+IX. AMENDMENTS 
+
+The terms and conditions of each license shall be subject to amendment revision or modiﬁcation by reason of amendments to this standard or by reason of rules regulations and orders issued by the Department of Health.
+
+
+X. VIOLATIONS
+
+10.1 Any license may be revoked or suspended for any material false statement in the application or for violation of, or failure to observe by the licensee any of the requirements and provisions of this standard.
+
+10.2 Except in cases of wilful violation or those in which the public health, interest or safety requires otherwise, no license shall be modified, suspended or revoked until the licensee shall have been accorded an opportunity to demonstrate or achieve compliance with the standard.
+
+
+XI. PENALTIES
+
+Any person who shall wilfully violate, attempts to violate, or conspire to violate any requirements issued hereunder may be guilty of a crime and upon conviction, maybe punished by a fine or imprisonment or both as provided in the penalty clause of PD 480.
+
+
+XII. REPEALING CLAUSE
+
+All administrative orders, rules or regulations, inconsistent herewith are hereby repealed, amended or modified accordingly.
+
+
+XIII. EFFECTIVITY
+
+This administrative order shall take effect 15 days following the publication in the Official Gazette or in a newspaper of general circulation and shall supersede all issuances inconsistent herewith.
+
+
+</body> 
+<sign>CARMENCITA N. REODICA, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>
+=

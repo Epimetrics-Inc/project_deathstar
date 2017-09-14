@@ -1,0 +1,408 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>07/02/2012</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2012 - 0013</docnum>
+<subject> 
+Subject: Policy and Guidelines on Logistics Management in Emergencies and Disasters
+</subject>
+
+<body>
+I. BACKGROUND AND RATIONALE
+
+Due to its geographical location, the Philippines is regularly affected by various types of hazards that, when left unmanaged, may transform into emergencies and disasters. Disasters and emergencies happen so often in the Philippines that they tend to be regarded as part of daily life. Year in and year out, various forms of disasters befall the country and cause massive destruction of property, disruption of - livelihood and integral services, and loss of human lives. In addition, because of its varied geographical features island provinces, geographically isolated/remote areas, and areas requiring speciﬁc means of transportation pose a number of issues and challenges especially in times of emergencies and disasters.
+
+An efﬁcient and effective Logistics Management System in emergencies or disasters is a vital disaster response tool that will help to decrease both mortalities and morbidities and to prevent disabilities. This hopes to provide the right medicine, supplies and equipment at the right place, at the right quantity, at the right condition, at the right time, with the right cost, to the right populations. It spans an entire process that covers planning, procurement, storage, distribution, and monitoring of the needed logistics in emergencies and disasters.
+
+There are gaps/issues that have been encountered in the Department of Health (DOH) Central Ofﬁces (CO), Centers for Health Development, DOH Retained Hospitals and Local Government Units (LGUs) in the course of logistics management in emergencies and disasters, such as : a) the absence of a guide for the stockpiling of goods ; b) insufﬁcient amount of funds being set aside for emergencies and disasters ; and c) delayed delivery of goods, especially to the Geographically Isolated and
+Disadvantaged Areas (GIDA). Although there are existing national policies on emergency procurement, acceptance of donations, and storage, delivery, transport, monitoring and reporting of goods in emergencies and disasters, these notable
+operational gaps and issues were encountered in the management of such logistics. Once the gaps are bridged and the issues are addressed, the correct and timely provision of the necessary logistics to the population in need will greatly contribute to the overall goal of reducing mortality, morbidity, and disability during disasters. As such, it signiﬁcantly supports the health sector’s objectives and strategies in achieving the Millennium Development Goals for health and Universal Health Care.
+
+II. OBJECTIVES
+
+A. General Objective
+
+This order sets the guideline toward the effective and efﬁcient management of logistics support at all levels of the health system in emergency or disaster situations in order to decrease mortalities and morbidities and prevent disabilities
+ 
+B. Speciﬁc Objectives
+
+1. To ensure the availability and accessibility of all the necessary logistics during emergency and/0r disaster preparedness and response activities
+
+2. To provide standards and guidelines in management of goods necessary for interventions during emergencies and disaster.
+
+3. To deﬁne the speciﬁc roles and responsibilities of all the ofﬁces, agencies, and organizations with a stake in logistics management in emergencies and disasters
+
+4. To identify innovative and ﬂexible strategies and potential partners necessary for the provision of logistics in emergencies and disasters.
+
+III. SCOPE
+
+This Order is issued for the compliance of all DOH ofﬁces, Bureaus, National Centers, Centers for Health Development, DOH Health facilities, Attached Agencies, Local Government Units, Other Government Agencies, Non—Government Organizations, Professional Societies, Private Sector, Development Partners and Others concerned.
+
+IV. DECLARATION OF POLICIES
+
+This order is guided by the following issuances:
+
+1. Republic Act 10121, or the Philippine Disaster Risk Reduction and Management Act of 2010, which states that “it shall be the policy of the State to provide maximum care, assistance, and services to individuals and families affected by disasters.”
+
+2. Administrative Order No. 2010 -0036, Implementation Framework for Universal Health Care or Kalusugan Pangkalahatan (UHC/KP).UHC shall be attained by: pursuing strategic thrusts such as attainment of the health-related MDGs - public health programs shall be focused on reducing maternal and child mortality in emergencies and disaster. Strategic instruments shall be optimized to achieve the UHC strategic thrusts:
+
+1. Health Financing - instrument to increase resources for health that will be effectively allocated and utilized to improve the financial protection of the poor and the vulnerable sector.
+
+2. Service Delivery - instrument to transform the health service delivery structure to address variations in health service utilization and health outcomes across socio-economic variables.
+
+3. Governance for Health - instrument to establish the mechanisms for efﬁciency, transparency and accountability and prevent opportunities for fraud.
+
+3. Administrative Order No. 2004-168, the National Policy on Health Emergencies and Disasters which states that, under the support systems, Logistics Management shall be developed for health emergency with the aim of providing the right requirement, in the right amount, at the right time and the right place. A system for procurement and delivery shall be developed wherein the logistical needs are identiﬁed at the different levels.
+
+4. Administrative Order No. 2007-0017, the Guidelines on the Acceptance and Processing of Foreign and Local Donations during Emergency and Disaster Situations “under VIII. Roles and Responsibilities of Health Emergency Management Staff (HEMS) on pre, during and post emergencies and disasters.
+
+5. Revised Implementing Rules and Regulations of Republic Act 9184 otherwise known as the “Government Procurement Reform Act", under section 53.2, states that in case of imminent danger of life and property during a state of calamity, or when times is of the essence arising from natural or man- made calamities or other causes where immediate action is necessary to prevent damage to or loss of life or property, or to restore vital public services, infrastructure facilities and other public
+utilities, “. . .negotiated procurement is the method of procurement of goods, infrastructure projects and consulting services whereby the procuring entity directly negotiates a contract with technically, legally and ﬁnancially capable
+supplier, contractor or consultant in emergency cases.
+
+V. DEFINITION OF TERMS
+
+1. Augmentation — the act or process of making larger, by addition, expansion, or increase.
+
+2. Buffer stock — a percentage of the total stock pile which is strictly reserved for use only in emergencies and disasters to safeguard against unforeseen shortages and demands.
+
+Cash advance — easily liquidated cash that may be used to make emergency purchases in emergencies and disasters
+
+Disaster — any event, in which local emergency management measures were insufﬁcient to cope with a hazard, whether due to lack of time, capacity or resources, resulting in unacceptable levels of damage or number of casualties.
+
+5. Emergency — any situation in which there is imminent or actual disruption or damage to communities, i.e., any actual threat to public health and safety.
+
+6. End-user — refers to CHDs, DOH Hospitals, LGUs (with emphasis on the affected population), and other stakeholders who will be using the goods in emergencies/disasters.
+
+7. Geographically Isolated and Disadvantaged Area (GIDA) - communities with marginalized population physically and socio-economically separated from the mainstream society such as island municipalities, upland communities, hard—to-reach areas, and conﬂict—affected areas.
+
+8. Goods — refer to drugs, medicines, reagents, laboratory and medical supplies, cadaver bags, drinking water containers, equipment, collaterals, and other similar items for use in emergencies and disasters.
+
+9. Internal Creditor — refers to preferred parties who provide goods or services in advance as credit. Appropriate payment for the delivered goods and services is made within a specified period upon the fulﬁllment of identiﬁed requirements.
+
+10. Logistics — is the acquisition and delivery of resources; this can also be used interchangeably with goods
+
+11. Logistics Management System — is a system based on policies that provides the means to acquire, store and deliver resources.
+
+12. Logistics management in emergencies and disasters — a system that provides the operational platform adapted from routine logistics by rapid deployment of national and international goods, stockpiles and other supplies and services through an increased ﬂexibility of resources and activities in which multi-sectoral coordination is essential. It aims to provide the right medicines and supplies at the right place, at the right quantity, at the right condition, at the right time, with the right cost, to the right individuals.
+
+13. One-Stop Shop — refers to the concept of an office that centralizes all the necessary logistics for emergencies and disasters in one pre-identiﬁed place to facilitate the provision of convenient, rapid, and efﬁcient services and goods to the affected communities.
+
+14. Pre-positioning — refers to the stock piling of goods in strategic locations for quick and ready access during emergencies and disasters.
+
+15. Stock pile- refers to the total amount goods stored for future use, carefully accrued and maintained.
+
+VI. POLICIES AND GENERAL GUIDELINES
+
+1. Every victim of disaster has the access to have the right logistics that he/she needs, hence, all implementing agencies shall exert all efforts to provide these needs in the least amount of time possible.
+
+2. In emergencies and disasters, all implementing agencies at all levels shall ensure that buffer stocks of goods must be available over and above those required in their areas during normal operations or programs. Self-sufﬁciency and good planning are required for the efﬁcient and effective management of logistics in emergencies and disasters based on the following :
+
+a their existing hazards and vulnerabilities
+
+b. the historical and projected data of emergencies and disaster
+
+c. the changing global landscape such as climate change, terrorism, and others
+
+d. the existing systems and mechanisms for accessing or replenishment of these logistics
+
+3. All implementing agencies at all levels shall develop and continuously upgrade their strategies, mechanisms, and innovations to ensure immediate availability of and access to needed logistics. These may include, but are not limited to annual procurement, direct sub-allotment, contingency funds in selected regions and hospitals, identiﬁcation of regional warehouses, emergency procurement, procurement of services to handle emergencies, private-public partnerships, arrangements with pharmaceutical companies, cluster members, etc.
+
+4. All implementing agencies shall formulate strategies to prioritize island provinces and. GIDAs in terms of logistics. This shall be addressed by, but is not limited to, prepositioning of these logistics to these identiﬁed areas.
+
+5. All implementing agencies/ofﬁces/organizations shall devise mechanisms and strategies for the provision of a centralized one-stop shop for logistics management in emergencies and disasters including donations.
+
+6. All implementing agencies shall ensure the availability of funds for logistics to be used in emergencies and disasters. At least 5% of the MOOE shall be allotted annually solely for this purpose which is accessible at any given time. In the event that this is not utilized by the third quarter, this will be used for the procurement of emergency drugs as buffer stocks for the next year.
+
+7. All implementing agencies shall sub-allot an amount for procurement of standby logistics based on those criteria mentioned above to be regularly replenished if consumed within the year. In the event of an emergency and disaster they may utilize any amount in their budget for emergencies and disasters.
+
+
+8. All Local Government Units shall be self sufﬁcient for at least ten (10) days depending on their geographical areas and considering that help within that period shall be solely theirs before help would arrive.
+
+9. All hospitals shall ensure available logistical needs for victims brought to their hospitals as a result of the emergency or disaster. They are advised to have a buffer stock of three (3) months for this purpose. In addition, they shall provide all medicines and supplies needed to equip their response teams when deployed. Hospitals may also be called upon to provide logistics support to other hospitals as needed.
+
+10. The Centers of Health Development shall be the ﬁrst to augment the needs of the LGUs within their catchment area and hence shall have a buffer stock for a minimum of two (2) months based on the criteria mentioned above.
+
+11. The DOH Central Ofﬁce shall augment the needed logistics of CHDs and hospitals in emergencies and disasters when necessary.
+
+12. HEMS shall be the clearing house of logistical requirements in emergencies and disasters in coordination with relevant ofﬁces.
+
+13. For DOH programs and ofﬁces, any logistics in the warehouse coming from their respective programs or ofﬁces can be utilized for emergencies and disasters.
+
+14. All implementing agencies/offices shall develop systems for transport of these logistics to the affected areas within 24 hours at the least but not more than 48 hours. As such, efforts shall be taken and mechanisms established to distribute through all means of transport by air, land and sea.
+
+15. All pharmaceuticals companies, distributors, etc. which are eligible to provide logistics through an emergency procurement shall use the Electronic Drug Price Monitoring System (EDPMS) to estimate a reasonable price. They shall be considered as internal creditors and shall be paid within three (3) working days from the time of delivery, provided that all supporting documents are complete.
+
+16. All implementing agencies shall have a ready cash advance (range: Php 1M-5M) that shall be used for the management of the emergency and disaster, not only forlogistical needs but also for administrative needs required in response to the emergencies (the amount shall be determined bythe head of Ofﬁce based on the magnitude, extent and impact of the disaster).
+
+17. All implementing agencies shall submit a report on the utilization of these logistics to include, but is not limited to, the following: recipient of the logistics preferably down to the smallest unit of government (municipality, barangay, evacuation centers etc,), type of logistics given, amount, source (GOP, donations, and others). The report shall be submitted within two (2) weeks after the closure of the event. A system of reporting shall be developed and maintained at Central Ofﬁce.
+
+18. HEMS shall conduct annual monitoring and evaluation to continuously improve the logistics management in emergencies and disasters and provide inputs for improvement, amendment of policies, improvement of protocols and procedures.
+
+19. A standard monitoring and evaluation report shall be made and submitted annually to the DOH Executive Committee, where issues shall be raised and resolved.
+
+VII. IMPLEMENTING GUIDELINES
+
+A. ROLES AND RESPONSIBILITIES
+
+1. DEPARTMENT OF HEALTH CENTRAL OFFICE
+
+The Head of the Sector Finance and Policy Technical Cluster, supported by the Head of the Support to Service Delivery Technical Cluster, shall oversee that these guidelines are implemented in the different ofﬁces of the Department during
+emergencies and disasters.
+
+The Service/Bureau Directors of DOH Central Ofﬁce shall be responsible for the implementation and adoption of these guidelines in their Ofﬁces as required and as appropriate in their response during emergencies and disasters.
+
+a. Shall serve as the leader and policy-maker body for logistics
+management in the Health Sector
+
+b. Shall formulate, in coordination with members of the Health Sector, guidelines, standards, procedures and protocols in relation to logistics management in emergencies and disasters
+
+c. Shall enforce efﬁcient logistics management in emergencies and
+disasters 
+
+d. Shall provide technical assistance to all implementing agencies.
+
+e. Shall ensure the provision of logistics to augment the required needs of the affected population
+
+A. HEALTH EMERGENCY MANAGEMENT STAFF (HEMS)
+
+The Health Emergency Management Staff Director shall be responsible for monitoring and evaluating the enforcement and compliance of this order and subsequent recommendations for policy formulations and amendments.
+
+a. Shall take the lead, draft policies and formulate plans for logistics management in the DOH in emergencies and disasters.
+
+b. Shall formulate in coordination with members of the Health Sector, formulates guidelines, standards, procedures and protocols in relation to logistics management in emergencies and disasters.
+
+c. Shall establish and implement the effective management of logistics in the DOH Central Ofﬁce in emergencies and disasters
+
+ 
+d.Shall develop and continuously update strategies, mechanisms, and innovations to ensure immediate availability of and access to the needed logistics in emergencies and disasters
+
+e. Shall provide technical assistance to all implementing agencies.
+
+f. Shall develop various kits that are needed in response activities (e.g.,
+ﬁrst aid, hygiene, etc)
+
+g. Shall provide the list of the minimum basic logistics needs in all kinds of emergencies and disasters for guidance.
+
+h. Shall augment the logistic requirements of the affected population, as needed Maintain an updated inventory and adequate stock pile of goods for emergency response activities.
+
+i. Shall develop and implement reporting systems for logistics management and its corresponding tools.
+
+j.Shall perform annual monitoring and evaluation of the process implementation for possible amendments and updates to the policies and guidelines
+
+B. PROCUREMENT SERVICE 0FFICE(PS)
+
+a. Shall develop streamlined guidelines, systems, and procedures for the emergency procurement of goods for emergencies and disasters, in consultation with the different ofﬁces involved in logistics management in emergencies and disasters.
+
+b. Shall maintain an updated database of suppliers and of providers of goods using the alternative procurement method.
+
+c. Shall ensure the timely procurement of necessary goods.
+
+C. MATERIALS MANAGEMENT DIVISION (MNID)
+
+a. Shall develop streamlined guidelines, procedures, and systems in the acceptance, delivery, warehousing, transport, and distribution of logistics in emergencies and disasters.
+
+b. Shall maintain and provide HEMS with an updated stock inventory
+report of all goods available in MMD— maintained Warehouses.
+
+c. Shall ensure the timely distribution of logistics via any means of transportation in emergencies and disasters.
+
+d. Shall ecordinate with the different ofﬁces and programs regarding the mobilization of their goods in emergencies and disasters.
+
+e. Shall monitor, track, properly document, and report to HEMS all movement of logistics from the source down to the end-user.
+
+D. FINANCE SERVICE (FS)
+
+a. Shall develop streamlined guidelines, procedures, and systems for timely release, disbursement of funds (e.g. cash advance/petty cash) reimbursements, etc.) and payment of goods delivered in emergencies and disasters
+
+b.Shall identify sources of funds for logistics in emergencies and disasters.
+
+c. Shall ensure the timely allocation and release of necessary funds for payment of procured logistics from internal creditors within three (3) working days provided all supporting documents are complete.
+
+d. Shall ensure the availability of sufﬁcient petty cash, in coordination with concerned ofﬁces within the DOH Central Ofﬁce, for use in emergencies and disasters.
+
+E. NATIONAL CENTER FOR PHARMACEUTICAL ACCESS AND
+MANAGEMENT (NCPAM)
+
+a. Shall develop streamlined guidelines, procedures, and system that will facilitate the immediate acquisition of NCPAM funds and logistics that are speciﬁcally allocated and sub—allotted for emergencies and disasters
+
+b. Shall expedite the issuance of clearance for drugs and medicines when needed.
+
+F. NATIONAL CENTER FOR DISEASE PREVENTION AND CONTROL
+(NCDPC)
+
+a. Shall develop treatment guidelines and procedures for all diseases related to emergencies and disasters and ensure adequate
+dissemination thereof.
+
+b. Shall provide technical and logistics support during emergencies and disasters.
+
+c. Shall ensure, in coordination with HEMS, that the regular procurement of NCDPC program drugs relevant to disaster response (e.g., Vitamin A, vaccines, etc) includes a portion that is allotted solely for use in emergencies and disasters.
+
+G. FOOD AND DRUG ADMINISTRATION (FDA)
+a. Shall provide technical assistance in the acceptance of international donations, especially drugs.
+
+b. Shall facilitate the acceptance and clearance of food, drugs and supplies which are necessary in response activities but are not available in the Philippines.
+
+2. CENTERS FOR HEALTH DEVELOPMENT (CHDs)
+
+The Center for Health Development Directors shall be responsible for the implementation and adoption of these guidelines within their Regions and provide feedback, suggestions, and policy recommendations to the Secretary of Health through the Area Cluster Heads.
+
+The HEMS Coordinators of the regions shall directly oversee the implementation of these guidelines in their respective regions. He/she shall report to the CHD Director and/or Director of HEMS, as applicable.
+
+a. Shall formulate plans, procedures and protocols to implement this policy and guidelines.
+
+b. Shall establish logistics management appropriate in their respective regions.
+
+c. Shall develop and continuously update strategies, mechanisms, and innovations that are suited to their regional context that will ensure immediate availability of and access to needed logistics in emergencies and disasters.
+
+d. Shall provide and implement a mechanism of coordination and
+collaboration with LGUs, partners and other stakeholders, to ensure the provision of logistics during emergencies and disasters.
+
+e. Shall provide technical assistance to LGUs in the establishment of their logistics management systems in emergencies and disasters.
+
+f. Shall maintain an updated inventory and adequate stockpile of goods for emergency response activities.
+
+g. Shall ensure the availability of 5% of their total MOOE funds to be mobilized in emergencies and disasters.
+
+h. Shall ensure the availability of logistics buffer stocks sufﬁcient for at least two (2) months.
+
+i. Shall preposition logistics to all provinces, especially island provinces and GIDAs.
+
+j. Shall ensure the timely distribution of logistics to augment the needs of the LGUs in emergencies and disasters.
+
+k. Shall monitor and track the distribution and utilization of all logistics for emergencies and disasters in their respective regions.
+
+l. Shall coordinate and report to HEMS Central Ofﬁce using the reporting forms developed by HEMS.
+
+3. LOCAL GOVERNMENT UNITS ( LGUs)
+
+a. Shall formulate plans, procedures and protocols to implement their policy and guidelines.
+
+b. Shall ensure the availability of goods for response activities with a buffer stock of at least ten (10) days.
+
+c. Shall maintain an updated inventory and adequate stock pile of goods for emergency response activities.
+
+d. Shall establish logistics management systems in their respective units and provide a mechanism of coordination and collaboration for involved stakeholders.
+
+e. Shall coordinate with the next higher level LGUs and their CHDs for necessary augmentation of logistics requirements for the sites affected by emergencies and disasters.
+
+f. Shall ensure the availability of funds (pursuant to RA 10121) for the procurement of logistics, and the timely allocation and distribution thereof and for other operational expenses.
+
+g. Shall monitor and track the distribution and utilization of all logistics for emergencies and disasters in their respective localities.
+
+h. Shall report to the next higher level LGUs and CHDs all the goods utilized based on the reporting forms developed by HEMS.
+
+4. HOSPITALS
+
+The Medical Center Chiefs/Chief of Hospitals shall administer these regulations and support all the policies and guidelines mentioned in this Order. He/she shall lead in the dissemination of these guidelines and integration of the same in the hospital. He/she shall ensure the availability of personnel and funds to support all the needed training and responses. He/she shall submit reports to the respective CHD, LGU, or DOH-CO.
+
+The HEMS Coordinators of the hospitals shall directly oversee the implementation of these guidelines in their respective hospitals. He/she shall report to the Chief of Hospital/Medical Center Chief andfor Director of HEMS, as applicable.
+
+a. Shall formulate plans, procedures and protocols to implement this policy and guidelines.
+
+b. Shall ensure the availability of goods for response activities with a buffer stock of at least three (3) months.
+
+c. Shall maintain an updated inventory and adequate stock pile of goods for emergency response activities.
+
+d. Shall establish logistics management systems in their respective units and provide a mechanism of coordination and collaboration for involved stakeholders
+
+e. Shall coordinate with the following for the necessary augmentation of logistical requirements for the sites affected by emergencies or disasters:
+
+- DOH Metro Manila (MM) Hospitals to DOH HEMS
+
+-Regional DOH hospitals report to their respective CHDs
+
+-LGU Hospitals to their respective LGUs
+
+-Private Hospitals to their respective LGUS
+
+-Independent Government Hospitals (e.g., PGH, Bilibid hospital/Military hospitals) to their respective agencies.
+
+f. Shall ensure the availability of funds for the procurement of logistics and the timely allocation, distribution, use of response teams thereof and for other operational expenses.
+
+g. Shall provide all medicines and supplies needed to equipt their response teams when deployed within and outside of their catchment area.
+
+h. Shall support and augment the logistical needs of other hospitals, as needed
+
+i. Shall monitor and track the distribution and utilization of all logistics for emergencies and disasters in their respective hospitals and areas of assignment.
+
+j. Shall report to the next higher level LGUs and CHDs all the goods utilized based on the reporting forms developed by HEMS.
+
+
+5. PHILIPPINE HEALTH INSURANCE CORPORATION
+a. Shall develop strategies to support affected population in emergencies and disasters including, but are not limited to: ambulatory care (out-patient services), clinics, ambulance services and hospital care packages, reimbursements, and services in non-Phil health accredited institutions/health service providers.
+
+6. OTHER GOVERNMENT AGENCIES
+
+a. Shall adhere to and observe all requirements and standards needed to respond to emergencies and disasters in accordance to the thrust of the Department of Health.
+
+b. Shall coordinate and participate in inter-agency activities with the Department of Health in emergencies and disasters.
+
+c. Shall support the DOH/CHDs/LGUs/Hospitals in providing logistics and establishing management systems in emergencies and disasters. Philippine International Trading Corporation (PITC-Pharma) shall be an alternative procuring agency for implementing agencies in emergencies and disasters.
+
+7. NON-GOVERNMENT ORGANIZATIONS/AGENCIES, PRIVATE
+SECTOR, AND CIVIL SOCIETY GROUPS
+
+Non—Government OrganizationslPrivate Sector/Civil Society Groups shall adopt these guidelines in their locality and provide feedback and report to LGU or the Director of the CHD where they belong.
+
+a. Shall adhere to and observe all requirements and standards needed to respond to emergencies and disasters in accordance to the thrust of the Department of Health.
+
+b. Shall coordinate and participate in inter—agency activities with the Department of Health in emergencies and disasters.
+
+c. Shall support the DOH/CHDs/LGUs/Hospitals in providing logistics and setting up logistics management systems in emergencies and disasters.
+
+d. Shall report to the next higher level LGUs/CHDs/DOH all the goods utilized based on the reporting forms developed by HEMS, accessible from the HEMS OpCen and/or web portal.
+
+e. Shall coordinate with appropriate DOH ofﬁces for provision of logistics and services during response operations.
+
+B. COORDINATION MECHANISM
+1. Sectoral
+
+In emergencies and disasters, the DOH, through HEMS, shall coordinate with the following accordingly:
+
+a. Health Sector.
+
+HEMS shall coordinate with the members of the Health Sector, in line with the Memorandum of Agreement signed July 20, 2011. The MOA focuses on the crafting and promulgation of policies relevant to health emergency management,the building up of capacities and capabilities of institutions and frontline responders, and the strengthening of advocacy work to increasthe awareness of the population especially the decision makers.
+
+Health Sector members are as follows:
+i. Department of Health (DOH)
+ii. Department of Transportation and Communication (DOTC)
+iii. Department of Interior Local Government (DILG)
+iv. Department of Social Welfare and Development (DSWD)
+v. Department of Education (Dep-Ed)
+vi. Department of Justice (DOJ)
+vii. Department of National Defense (DND)
+viii. Philippine Hospital Association (PHA)
+ix. Philippine League of Government and Private Midwives Inc.
+(PLGPMI)
+x. Philippine Medical Association (PMA)
+xi. Philippine Nurses Association (PNA)
+xii. Philippine Red Cross (PRC)
+xiii. Philippine Society of Sanitary Engineers Inc. (PSSEI)
+xiv. University of the Philippines
+
+b. Other Government Agencies
+DOH shall be represented by HEMS in the National Disaster Risk Reduction and Management Council (NDRRMC). HEMS shall ensure involvement in all relevant NDRRMC activities, including meetings, trainings, and others.
+
+c. Cluster Partners and Other Agencies
+
+In line with the National Disaster Coordinating Council (NDCC, now NDRRMC) Memorandum No. 12 (October 2008), amendment to Circular No. 5, “Institutionalization of the Cluster Approach in the Philippine Disaster Management System, Designation of Cluster Leads & their Terms of Reference at the National, Regional and Provincial Level”, DOH shall take the lead in the Health, Nutrition and Water, Sanitation and Hygiene (WASH) Clusters. As such, coordination with other member agencies pertinent to logistics management for both government and non—government shall be done through the Cluster mechanism.
+
+2. Agency
+A Logistics Management Committee shall be formed and activated within the DOH Central Ofﬁce during emergencies and disasters. This shall be in accordance with the Incident Command System that will be activated accordingly.
+ 
+
+VIII. REPEALING CLAUSE
+
+All orders, rules and regulations or any provisions thereof, inconsistent with this order are hereby deemed repealed and modiﬁed accordingly.
+
+IX. EFFECTIVITY CLAUSE
+This Order shall take effect immediately after signing.
+
+</body>
+
+<sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+

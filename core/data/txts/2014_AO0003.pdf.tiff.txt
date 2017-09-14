@@ -1,0 +1,451 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>01/24/2014</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2014 - 0003 </docnum>
+<subject>SUBJECT: Updated Guidelines on Strengthening Laboratory Conformation of Suspected Measles Cases </subject>
+<body>
+
+
+
+I. BACKGROUND AND RATIONALE 
+
+In 2005, the countries of the Western Pacific Region of the World Health Organization (WHO) adopted the goal of measles elimination. To achieve this, the WHO recommends that countries strengthen three areas of their Expanded Programme for Immunization. These areas are: 1) universal high population immunity through increased coverage; 2) high case—based quality surveillance; and 3) adequate laboratory support for conformation of diagnosis. 
+
+World Health Organization guidelines in support of the goal of measles elimination state that any person satisfying the suspect case definition of measles shall be immediately reported, investigated and a blood specimen collected to conform whether the suspected case is indeed a case of measles. Effective surveillance for measles entails establishing case—based surveillance that includes investigation and laboratory testing of specimens from all suspected cases. Such surveillance system will also identify rubella cases through laboratory conformation. As the country progresses towards measles elimination, reporting of rubella cases will be implemented and incorporated into the measles surveillance system. 
+
+The laboratory plays an important role in measles surveillance. In the elimination phase, it is well established that surveillance based on clinical recognition of cases is inaccurate and that laboratory conformation of all suspected cases is critical for effective surveillance and proper program planning. It is in this light that conformation of suspected measles cases through laboratory testing needs to be enhanced. 
+
+1. Monitoring and verifying virus transmission: 
+
+-Conformation of suspect cases/ outbreaks: confirm the clinical diagnosis, especially in the early stages of an outbreak 
+
+-Identification of measles and rubella virus . strains and genetic characteristics of viral isolates 
+
+-Differentiate endemic or imported cases: monitor circulation of wild genotypes to define pathways of transmission/importation ' 
+
+2. Monitoring susceptibility proﬁle of the population 
+
+-Determination of the age distribution of susceptibility to measles and rubella in order to assess population at risk and appropriate intervention to reduce risk. 
+-Evaluation of the impact of the immunization campaigns 
+
+Quality measles surveillance requires laboratory conformation of at least 80% of the reported suspected measles cases. However, during elimination phase, all suspected measles cases require laboratory conformation. This shall serve as the evidence of the country’s achievement and maintenance of the elimination status. 
+
+11. OBJECTIVES A. General Objective: 
+
+To update the guidelines for strengthening laboratory conformation of suspect measles cases in support of the goal of measles elimination. 
+
+B. Speciﬁc Objectives: 
+
+To strengthen measles case-based surveillance To strengthen detection of rubella cases through measles surveillance and laboratory conformation 
+
+-To evaluate impact of the measles and rubella routine and supplemental immunization activities in interrupting measles transmission and achieving control of rubella through efficient laboratory conformation
+
+-To establish the use of dried blood spot (DBS) as an alternative method of sample collection for serology
+
+-To require the collection of nasopharyngeal swab (NPS) and orcpharyngeal swab (OPS) from all chains of measles transmission for virus isolation 
+
+-To implement standards for the collection, handling, storage and transport of DB8 and NPS/OPS samples 
+
+III. SCOPE AND COVERAGE 
+
+This issuance shall apply to the entire health sector, to include public and private health facilities both at the national and local government units involved in disease surveillance and response activities (refer to AO. No. 2007-0036: Guidelines on the Philippine Integrated Disease Surveillance and Response). 
+
+Moreover, this administrative issuance is an update to AO 2012-003 to provide the most recent guidelines for strengthening specimen collection from suspect measles cases in support of the goal of measles elimination. 
+
+
+IV. DEFINITION OF TERMS, ABBREVIATIONS & ACRONYMS 
+
+Case Investigation Form (CIF) 
+Refers to reporting form that allows collection of standard information to acquire epidemiological study of disease incidence and disease patterns 
+
+Cluster 
+Deﬁned as two or more persons presenting with manifestations of a>suspect measles case that are detected with onset of illness-within a period of 7 to 21 days and in the same geographical area and/or are epidemiologically linked 
+
+Contacts 
+Are all persons living in a household of other close quarters with the case during the infectious period (5 days before to 5 days after the onset of rash)
+
+Disease Reporting Unit (DRU) 
+This includes all health facilities (rural health units, hospitals, laboratories, seaports and airport are considered DRUs) 
+
+Epidemiologically-Linked Measles Case 
+Deﬁned as a suspected measles case who was not discarded and who: 
+
+-had contact with a laboratory conﬁrmed case or another epidemiologically-linked case Within 7-21 days before rash onset and 
+-the other epidemiologically-linked or laboratory conﬁrmed case was infectious at the time of contact (i.e. contact was 5 days before and 5 days after rash onset) 
+
+
+Measles IgM 
+A measles-speciﬁc antibody that rises early in the infection: it 
+is used to conﬁrm suspect measles cases. 
+
+Provincial Epidemiology and Surveillance Unit (PESU) 
+Refers to the unit established in the Provincial Health Ofﬁces that provides services on public health surveillance and epidemiology 
+
+Philippine Integrated Disease Surveillance and Response (PIDSR) 
+Refers to the Philippines process of coordination, prioritizing, and streamlining of core surveillance activities (e.g., data collection, reporting, laboratory and epidemiological conﬁrmation, analysis and feedback), support functions (e.g., training, monitoring, ﬁnancial and logistics) and response (e.g.. epidemic investigation) with the aim of making the system more efﬁcient and effective in providing timely, accurate and relevant information for action 
+
+
+Regional Epidemiology and Surveillance Unit (RESU) 
+Refers to the unit established in the Centers for Health Development or the DOH regional ofﬁces that provide services on public health surveillance and epidemiology 
+ 
+
+ 
+Research Institute For Tropical Medicine (RITM)
+
+It houses the Department of Virology which is the national measles reference laboratory 
+
+Rural Health Unit (RHU) 
+
+Refers to the unit established in the rural health units that provides services 7 on public health surveillance and epidemiology 
+
+Suspected Measles Case 
+
+Any individual, regardless of age, with history of fever (38°C . or more) or hot to touch, generalized non-vesicular rash of 3 or more days duration; and at least one of the following cough, coryza, or conjunctivitis 
+
+V. DECLARATION OF POLICIES 
+
+A. Global Immunization Vision Strategy (GIVS) proposed a new measles mortality reduction of 90% by 2010 with the following major challenges: (i) measles mortality reduction activities in several large countries with high measles burden, (ii) enhanced efforts are needed to improve immunization systems to ensure that at least 95% of infants are vaccinated with measles before their ﬁrst birthday, (iii) continue conduct “follow-up” SIAs every 3-4 years until their routine system are capable of providing two opportunities for measles immunization to >90% of every birth cohort, (iv) disease surveillance at district, provincial and national levels need to be strengthened to enable case-based surveillance with testing of clinical specimens from suspected cases in the laboratories. This was endorsed in the World Health Assembly 2005 - 
+
+B. In 1996, the Regional Office of the Western Pacific (WPRO) established a “Plan of Action (POA) for Accelerated Measles Control”. By 2003, the region’s vision had moved to elimination with the publication of the “Western Pacific Regional POA for Measles Elimination”, that covered the years 2003- 2005. The Regional Office published the Field Guidelines for Measles Elimination in 2004 and in 2005, a second Regional Committee (RC) resolution established 2012 as the target date for measles elimination 
+
+C. In light of the proven efficacy and safety of the Regional Advisory (RA) 27/3 bases rubella vaccine, WHO recommends its use in all countries where control or elimination of Congenital Rubella Syndrome (CRS) is considered a public health priority. Current efforts in global measles control shall be used as an opportunity to pursue control of rubella through the use of Measles Rubella (MR) and Measles Mumps Rubella (MMR) vaccines 
+
+D. WHO-UNICEF comprehensive strategy for reducing measles mortality among priority countries with the following goals: (1) achieving and maintaining high coverage (>90%) of the lSt dose of measles-containing vaccine (MCVl) among all children by the age of 12 months in every district through routine immunization services, (ii) ensuring that all children receive a second opportunity for measles immunization, (iii) enhancing measles surveillance with integration of epidemiological and laboratory information, and (iv) providing appropriate clinical management for measles cases 
+
+
+
+VI. IMPLEMENTING MECHANISM 
+
+The primary function of the laboratory in measles surveillance is confirming suspect measles cases, either through serology, molecular detection of the virus or virus isolation. The testing of serum specimen for the presence of anti- measles IgM antibodies remains the gold standard for laboratory conformation of suspect cases occurring both sporadically, in clusters or during outbreaks. Other means of conformation includes testing of DB8 for presence of anti-measles IgM antibodies and/or culture and isolation of measles virus from suspect or clinically confirmed measles cases. 
+
+In countries with measles elimination goal and implementing case-based surveillance, the recommendation is to collect either serum or DBS specimen within the ﬁrst 28 days of rash onset from all suspect measles cases. While the collection of NPS/ OPS specimen for viral isolation must be within the ﬁrst 7 days of rash onset. Viral isolation provides evidence of elimination of indigenous measles virus, including outbreak source and transmission pathways. 
+
+A. Laboratory Procedures for Case Conformation 
+
+1. Use of Serum Samples for Measles IgM testing 
+
+A single serum sample obtained at the ﬁrst contact with the patient at am time within 28 days after rash onset shall be taken from ALL suspected measles ca_ses. Measles-speciﬁc IgM antibodies appear within the ﬁrst few days of rash onset and decline rapidly after one month. Specimen shall be received at RITM within 72 hours after collection with the completely filled-up Measles Case Investigation Form (Annex A.). 
+
+Provided that the epidemiological linkage among cases has been established within a household, specimen shall be taken from the index case (ﬁrst person that ﬁt the case definition of suspected measles case). 
+
+In line with this, it is very important to identify accurate information regarding the exposure history of suspect measles case. The CIF shall contain basic epidemiological information on time, date, place and history of contact with a known measles case. This will help identify origin and path of measles virus transmission. 
+
+Patients admitted at hospital facilities and those DRUs (RHUlHealth Centers) that have the capacity to collect, store and transport shall have serum sample collected. Procedures for collection, storage and transport of sample are contained in the Annex B. 
+
+2. Use of alternative sample for Measles IgM detection (dried blood spot) 
+
+Dried blood spot samples shall ONLY be used as an alternative means of specimen collection where there is difficulty in extracting blood (e.g. very young infants, no medical technologist or certified phlebotomist), maintaining the specimen at 2—8°C during storage and transport (i.e. selected island barangays, municipalities or RHUs, and provinces, lack of specimen storage facilities and no local courier). Collection shall be done by medical, paramedical and other trained personnel (doctors, medical technologists, nurses, midwives, etc). 
+
+3. Use of Oropharyngeal and/or Nasopharyngeal swab for virus isolation 
+
+Aside from serum, it is also important to collect NPS/OPS for virus isolation from all clusters/outbreaks of suspected measles cases within 7 days from rash onset. 
+
+In collecting NPS/OPS, the response team shall consider the guide below in collecting samples of cases in a cluster/ outbreak: 
+
+3 cases - collect at least 1-2 samples 
+
+5 cases - collect a minimum of 3 samples 
+
+10 cases —— collect a minimum cf 5 samples 
+
+>= 10 cases - collect a minimum of 10 samples 
+
+Virus isolation is significant to conform whether the transmissions of indigenous measles strains have been interrupted. This shall provide evidence that the country has achieved measles elimination goal. 
+
+B. Roles and Responsibilities 
+
+1. Research Institute for Tropical Medicine 
+
+a. Shall receive all specimens from the DRUs and other allied health units 
+
+b. Shall inform the RESU if specimen/s arrives at RITM in bad condition and if repeat collection is needed 
+
+c. Shall process/test the specimens 
+
+d. Shall send timely result including transmittal of individual results to the National Epidemiology Center (NEC), National Center for Disease and Prevention Control (NCDPC) and RESUs 
+
+e. Shall build and develop laboratory capacity and networking of laboratories at the national and local levels if needed 
+
+f. Shall collaborate with WHO to strengthen molecular surveillance and virus identification and share laboratory results (both serology and virus identification) on a monthly basis with WHO country office 
+
+2. National Epidemiology Center 
+
+a. Shall oversee the implementation of high quality measles surveillance in all regions, province and cities 
+
+b. Shall monitor and provide technical support to all regions, provinces and cities that are experiencing low surveillance performance 
+
+c. Shall facilitate the provision of logistics for specimen collection to all RESUs 
+
+d. Shall facilitate/ensure transport of specimens from the RESU/PESU and RHU 
+
+e. Shall ensure the adequacy & timeliness of specimen collection 
+
+f. Shall perform the overall coordination, feedback and data management 
+
+
+3. Center for Health Development 
+
+a. Shall coordinate and investigate suspect measles cases 
+
+b. Shall monitor and provide technical support to all provinces and cities that are experiencing low surveillance performance 
+
+c. Shall be responsible for regional level surveillance data management 
+
+d. Shall ensure the proper and timely collection, storage and transport of specimens to the National Measles Reference Laboratory (e. g. RITM) 
+
+e. Shall facilitate the provision of logistics to the hospitals and LGUs 
+
+f. Shall send laboratory results to concerned LGUs 
+
+4. PESU/PHO/RHU 
+
+a. Shall coordinate and facilitate the detection, reporting and investigation of suspect measles cases 
+
+b. Shall be responsible for provincial/city/municipality level surveillance data management 
+
+c. Shall ensure the proper and timely collection, storage and transport of specimens to the national reference laboratory, RITM and or CHD 
+
+d. Shall facilitate the provision of logistics to the hospitals and LGUs 
+
+e. Shall ensure that CIFs are completely filled up sealed in a separate plastic bag and enclosed in the shipping box 
+
+f. Shall send laboratory results to concerned LGUs 
+
+5. All Hospitals 
+
+a. Shall completely investigate with. proper documentation all suspected measles cases whether in-patient and outpatient wards 
+
+b. Shall collect blood specimen for all suspected measles cases at ﬁrst contact or within 28 days from rash onset following the standard procedure in specimen collection 
+
+c. Shall properly label, store and/transport blood specimens to ESURITM 
+
+d. Shall ensure that CIFs are completely ﬁlled up sealed in a separate plastic bag and enclosed in the shipping box 
+
+e. Shall keep specimen collection kits properly and check for the expiration date 
+
+f. Shall coordinate with CHD/ESU for the laboratory results 
+
+C. Funding Requirements 
+
+Budgetary requirements such as laboratory expenses, logistic support and other laboratory requirements for testing shall be charged against the Research Institute for Tropical Medicine through the support of Department of Health and World Health Organization. The freight and handling of specimen shall be charged against the different CHDs, subject to the usual accounting and auditing rules and regulations. 
+
+VII. REPEALING CLAUSE 
+
+The provisions of previous Orders and other related issuances inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modiﬁed, repealed or rescinded accordingly. All other provisions of existing issuance which are not affected by this Order shall remain valid and in effect. 
+
+VIII. EFFECTIVITY 
+
+This order shall take effect immediately. 
+
+</body>
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+ 
+<image>figure_1.png</image>
+<image>figure_2.png</image>
+
+ 
+
+ANNEX B - GUIDELINES FOR SPECIMEN COLLECTION & STORAGE 
+
+B.1. WHOLE BLOOD FOR SEROLOGY 
+
+I. Timing of Collection 
+
+Obtain a single serum sample at the ﬁrst contact with a suspected case of measles or any time within 28 days after onset of rash.
+
+II. Pro-specimen Collection 
+
+
+
+1. Prepare all materials needed. 
+
+2. Completely and legibly ﬁll up the PIDSR Measles Case Investigation Form (CIF). 
+
+III. Collection and Storage 
+
+
+1. Make the patient comfortable with the arm accessible to the medical technologist/ phlebotomist. 
+
+2. Clean the venipuncture site with alcohol then prick with a sterile, single use syringe with gauge 23 needle. 
+
+3. Collect at least 5 ml (1 ml for infants and younger children) of blood from the patient. 
+
+4. Label the red top VacutainerTM tube with the patients’ name, age, sex, date of birth, date of blood extraction. The information on the label must be legible and shall match the information on the CIF. Label must remain attached under all conditions of storage and transport. 
+
+5. Keep blood at room temperature, undisturbed until a clot is formed. 
+
+6. Allow the clot to retract in the refrigerator (approximately 4 to 80C) or in a transport box with a minimum of 4 frozen ice packs. Do not freeze the specimen. Centrifuge at 1000 x G for 10 minutes to separate serum from the clot. If there is no centrifuge, the blood shall be kept in a refrigerator for no longer than 24 hours until there is complete retraction of the clot from the serum. 
+
+
+IV. Processing and Handling 
+
+1. Carefully transfer or decant the serum (2 ml for adults and 0.5 ml for infants) into a cryovial labelled with the patient’s name, age/sex and date of collection. Avoid mixing red blood cells with the serum as these hemolyse during storage. - 
+
+2. Store serum at 4-8°C and ship to RITM ensuring receipt will be within 3 days from collection. If a delay in shipment is anticipated, freeze serum samples at - 20°C or lower. - 
+
+Transport 
+
+1. The serum sample shall be placed in a scalable plastic bag or pouches containing absorbent materials such as cotton wool to soak up any leakage that may occur. Insulated containers shall be used to contain the sealed bags of specimen.  
+
+2. The case investigation form shall be sealed in a separate plastic bag and enclosed within the shipping box. 
+
+3. Place the specimens in the transport box with at least 4 frozen ice packs ﬁtted around the specimens. 
+
+4. Arrange shipment such that arrival of specimens at RITM does not fall on weekends or holidays. Otherwise, make advance notice of such arrival via telephone, fax or e-mail. 
+
+
+5. Address shipment to: 
+Head, Virology Department 
+Research Institute for Tropical Medicine 
+9001 Research drive, Filinvest Corporate Compound 
+Alabang, Muntinlupa City 
+Tel. Nos: 02-8097120 
+
+NOTE: SPECIMENS SHALL BE SHIPPED WITHIN 48 HOURS (2 DAYS) AFTER COLLECTION TO ENSURE ARRIVAL AT RITM WITHIN 72 HOURS (3 DAYS) 
+
+VI. Rejection Criteria 
+
+1. Inadequate sample collection. 
+
+2. Samples without CIF. 
+
+3. Improperly labelled sample/ unlabelled sample. 
+
+4. Samples with visible contamination. 
+
+5. Spillage or breakage in transit. 
+
+6. Grossly hemolyzed sample 
+
+7. Improperly shipped ( no cold chain) 
+
+B.2. DRIED BLOOD SPOT (DBS) FOR SEROLOGY 
+
+1. Timing of Collection 
+Obtain DBS at the ﬁrst contact with a suspected case of measles or any time within 28 days after onset of rash. 
+
+II. Pre-specimen Collection 
+
+1. Prepare materials. 
+
+2. Completely and legibly ﬁll up the Measles CIF. 
+
+III. Collection and Storage 
+
+
+1. Label the DBS card with patient’s name, age, sex, date of birth, date of collection and the Disease Reporting Unit (DRU). The information on the label must be legible and shall match the information on the CIF. Label must remain attached under all conditions of storage and transport. 
+
+2. Clean each individual’s ﬁnger (either side of the middle or 4th ﬁnger), or the side of the heel in the case of a very young children (those who are not capable of walking on their own) with alcohol, then prick with a sterile, single use microlancet; 
+
+3. Hold the ﬁnger or side of the heel face down to the DBS card (i.e. Whatman S & S No. 903) and allow blood to ﬁll completely at least 3 circles. Do not touch the ﬁnger or heel to the paper. Blood must soak all the way through the paper. Alternatively, a venous blood sample (about 1 ml) can be collected and immediately dropped unto the circles of the DBS card. 
+
+4. Allow the blood spots to dry thoroughly (at least 60 minutes). Do not heat. Place the dried blood spots in a re-sealable bag with desiccant individually to prevent possible cross contamination and to protect from dust and m01sture during storage. 
+
+5. Samples can be stored at room temperature for a maximum of two weeks if immediate shipment is not possible. 
+
+
+IV. Specimen Handling and Transport 
+
+1. Place the individually packed DBS in an envelope big enough to accommodate the number of DBS. Ship the DBS sample via ordinary postage. 
+
+2. Although samples do not need to be kept refrigerated or frozen during transport, it is advisable to store in a cool place and transport to the laboratory/RITM, Virology Department" as soon as possible to the address mentioned above. 
+
+V. Rejection Criteria 1. Inadequate sample collection (less than 3 circles ﬁlled, circle not completely ﬁlled, blood not soaked through). 2. Samples without CIF. 3. Improperly labeled sample. 4. Samples with visible contamination (mouldy). 
+
+NOTE: DBS IS USED AS AN ALTERNATIVE FOR WHOLE BLOOD EXTRACTION ONLY UNDER SPECIFIED CIRCUMSTANCES. 
+
+
+<image>figure_3.png</image>
+
+
+
+B.3. OROPHARYNGEAL/NASOPHARYNGEAL SWAB (OPSINPS) FOR VIRUS ISOLATION 
+
+I. Timing of Collection: 
+Collect specimen within 7 days after rash onset. 
+
+II. Pre-specimen collection 
+
+1. Take out only the number of Viral TranSport Media (VTM) needed from the freezer ( 20 °C)/refrigerator freezer Where they are stored. 
+
+2. Frozen VTM shall be thawed just before use. If the collection site is far from a refrigerator, have a thenno box with 4- 6 frozen Ice packs at hand to maintain a refrigerated temperature during collection. 
+
+3. Check VTM for turbidity. The medium should be clear and pinkish. Tap the tube to mix contents. 
+
+4. Check also the integrity of the swab and tongue depressor pouch to ensure sterility. Do not use swabs or tongue depressor that have been opened. 
+
+5. Completely and legibly ﬁll up the CIF. 
+
+
+III. Specimen Collection and Storage  
+Label the VTM tube with the patient’s Full Name and date of collection. The information on the label must be legible and shall match the information on the CIF.Label must remain attached under all conditions of storage and transport. 
+
+Nasopharvngeal swab (NPS) 
+ 
+1. Using a ﬂexible Dacron or Rayon tip swab, measure from the base of the nostril towards the auditory pit. Divide the length into half in order to know into what extent will be inserted into the nostril (usually 5—6 cm in adults) to ensure that it reaches the posterior pharynx. 
+
+2. With the patient seated, tilt the head slightly backwards. Insert the swab into the nostril parallel to the palate. 
+
+3. Rotate swab applying a little force taking large quantities of mucosa. 
+
+4. Repeat procedure in the other nostril using the same swab (if possible) 
+
+5. Place the nasopharyngeal swab immediately in the VTM tube to avoid drying of the swab. 
+
+6. Break/cut with scissors the end of the swab that sticks out of the tube and close the tube. 
+
+
+Oropharyngeal swab (OPS) 
+
+1. With gloved hands, hold down the tongue with a sterile tongue depressor. 
+
+2. Have the patient say "aahh” to elevate the uvula. 
+
+3. Use a sweeping motion to swab the posterior pharyngeal wall and tonsilar pillars. Apply a little force, taking large quantities of mucosa. 
+
+4. Avoid swabbing the soft palate and do not touch the tongue with the swab tip. (N. B. this procedure can induce the gag reﬂex) 
+
+5. Place the oropharyngeal swab immediately in the same VTM tube with the nasopharyngeal swab. 
+
+6. Break/cut with scissors the end of the swab that sticks out of the tube and close the tube tightly. 
+
+7. Secure the cap with paraﬁlm to prevent leakage during transport. 
+
+8. Store inside the refrigerator (2-8°C)/thermobox with at least 4 frozen ice packs while awaiting transport. 
+
+IV. Processing and Handling 
+
+1. Wrap VTM tubes with specimens in tissue paper or any absorbent material, place upright in a separate 50 ml centrifuge tube or any leak/puncture proof container; place the 50 ml tube or any container in a resealable plastic bag (ZiplockTM). 
+
+VII. Transport 
+
+
+1. The laboratory request form shall be sealed in a separate plastic bag and enclosed within the shipping box. 
+
+2. Place the specimens in the transport box with at least 4 frozen ice packs fitted around the specimens. 
+
+3. Arrange shipment such that arrival of specimens at RITM does not fall on weekends or holidays. Otherwise, make advance notice of such arrival via telephone, fax or e-mail. Transport to the laboratory/RITM, Virology Department as soon as possible to the address mentioned above. 
+
+
+NOTE: SPECIMENS SHALL BE SHIPPED WITHIN 48 HOURS (2 DAYS) AFTER COLLECTION TO ENSURE ARRIVAL AT RITM WITHIN 72 HOURS (3 DAYS). 
+
+VII. Rejection Criteria 
+
+1. Inadequate sample collection. 
+
+2. Samples without CIF. 
+
+3. Improperly labeled sample. 
+
+4. Samples with visible contamination. 
+
+5. Spillage or breakage in transit. 
+
+
+ 
+

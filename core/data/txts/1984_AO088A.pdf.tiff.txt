@@ -1,0 +1,139 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>25/5/1984</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 88-A, s. 1984</docnum>
+<subject> Subject: Subject: Regulatory Guidelines Concerning Food Additives</subject>
+
+<body>
+
+
+		This Regulation prescribes the guidelines on the use of food additives in all foodstuffs sold in the Philippines whether manufactured locally or imported.
+
+1. Definition of Terms
+Food Additive refers to any substance not normally consumed as a food by itself and not normally used as a typical ingredient of the food, whether or not it has nutritive value, the intentional addition of which to food for a technological (including organoleptic) purpose in the manufacture, processing, preparation, treatment, packaging, transport, or holding of such food results or may be reasonably expected to result (direct or indirectly) in its or its by-products becoming a component of (or otherwise affecting the characteristics of) such food.
+
+Processing Aids are additives that are used in the processing of food to achieve a specified technological purpose and which may or may not result in the presence of residues r derivatives in the final product.
+
+Flavoring Substances refer to flavor preparations composed of substances derived from plant/animal products and/or chemically synthesized substances whose significant function in food is flavoring rather than nutritional
+
+2. List of permissible Food Additives
+2.1 A List of Permissible Food Additives, duly approved by the Minister of Health upon the recommendation of the Bureau of Food and Drugs, shall be the official reference for additives that are allowed for use in food products. Foodstuffs containing additives not found in the list shall be considered illegal and their local distribution shall not be permitted.
+
+2.2 The additives are listed in separate tables, according to their functional categories
+2.3 Every Food additive included in the list shall meet the specification for identity and purity set forth that particular substance in any of the latest edition of the following publication:
+	a) U.S. Code of Federal Regulations
+	b) Food Chemicals Index
+	c) JECFA Specifications (published in FAO Food and Nutrition Paper)
+
+2.4 The use of additives shall be in accordance with the specified restrictions, e.g. the type of food where the substance may be added and/or the quantitative limitations prescribed thereto. Whenever GMP is indicated, it means that the additives in question are self-limiting in food for technological, organoleptic, or other reasons and that, therefore, the additives need not be subject to maximum limits but must be used according to good manufacturing practice
+
+2.5 The list of permissible additives shall be subject to periodic review and the use of any substance may later be banned when circumstances render such action necessary.
+
+3. Requirements for approval and other additives
+3.1 Any person or entity who wish to use a food additive that is not included in the approved list may file with the Minister of Health, through the Bureau of Food and Drugs, a petition proposing the approval of such additive
+3.2 Petitions shall be accompanied by pertinent information concerning the food additive including, but not limited to, the following:
+	a. the chemical identity and composition of the additive, its physical, chemical and biological properties and specifications for its purity;
+	b. a description of the method of manufacture and a list of substances used in its synthesis, extraction or other method of preparation;
+	c. the amount of food additive proposed for use and the purposes for which it us proposed, together with all direction and recommendations regarding the proposed use
+	d. data establishing that the food additive will have the intended physical or other technical effect or that it may reasonably be expected to become a component or to affect the characteristics, directly or indirectly, of food and the amount necessary to accomplish this
+	e. assay method(s) for determining the amount of food additives in the raw, processed and/or finished food and of any substance formed in or on such food because of tis use;
+	f. proposed tolerance or maximum level of use, if required to ensure its safety
+	g. full reports of investigation made with respect to the safety of the additive, including information as to the methods and controls used in conducting such investigation
+	h.	or in lieu of clause (g) official documents from the country of origin containing the standard procedure adopted in evaluating the safety of food additives ad a certification from the Health Authorities in that country indicating the present status of the additive and these documents shall be duly authenticated by the Philippine Consulate; and
+	i. a sample of the food additive and a sample of food containing the additive.
+3.3 The Bureau of Food and Drugs shall, within ninety days after filing of a petition, notify the person, entity concerned whether or not the food additive in question shall be recommended for approval of the Minister of Health
+
+This Regulation shall take effect immediately upon approval and publication in the Official Gazette
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>
+
+<body>
+LIST OF PERMISSIBLE FOOD ADDITIVES
+Explanatory notes: 
+	The substances listed hereto are those that have been approved for use in foodstuffs. These food additives are divided into three major groups:
+
+
+<image>table_1.png</image>
+<image>table_2.png</image>
+
+Although substances found in the list are classified into functional categories, some of them are multi-functional. For example, citric acid is usually added to foods as an acidulant but it can also be used as a sequestrant. Furthermore, some additives listed in Group 1 may be used as processing aids.
+	The maximum levels of use in a particular type of food or in food products in general, are specified for some additives. The term GMP signifies the use of the least amount of additive that is reasonably necessary to accomplish the intended effect.
+	Additives may be used in any food where applicable except when otherwise indicated in this list or when food standard precludes such use in a particular food product. The use if a combination of two or more substances to produce the same technological effect in any food shall be allowed only in the following condition: The quantity of each substance present in the food shall be expressed as a percentage based on the maximum permitted level for that substance and combined level, which is the sum of the percentage for the component substances, shall not exceed one hundred.
+	Specific regulatory guidelines pertaining to certain additives are stated in appropriate sections.
+	Annexed hereto are Recommended levels of Use of some additives in certain food products
+<image>table_3.png</image>
+<image>table_4.png</image>
+<image>table_5.png</image>
+<image>table_6.png</image>
+<image>table_7.png</image>
+<image>table_8.png</image>
+<image>table_9.png</image>
+<image>table_10.png</image>
+<image>table_11.png</image>
+
+ANTIOXIDANTS SYNERGISTS
+	Substances used to interact with antioxidants to produce a total effect greater than the sum of effects produced by the synergist and the antioxidant individually
+<image>table_12.png</image>
+
+
+<image>table_13.png</image>
+<image>table_14.png</image>
+<image>table_15.png</image>
+<image>table_16.png</image>
+
+FLOUR TREATMENT AGENTS/DOUGH
+	Substances added to milled flour at the mill, to improve its color and baking qualities, including bleaching and maturing agents. Dough conditioners modify starch and gluten, thereby producing more stable dough
+<image>table_17.png</image>
+
+FOOD AGED BANTS
+	Acids normally present in food, which when added to food, produces an agreeable sharp taste in the product
+<image>table_18.png</image>
+<image>table_19.png</image>
+<image>table_20.png</image>
+<image>table_21.png</image>
+<image>table_22.png</image>
+<image>table_23.png</image>
+<image>table_24.png</image>
+<image>table_25.png</image>
+<image>table_26.png</image>
+<image>table_27.png</image>
+<image>table_28.png</image>
+<image>table_29.png</image>
+<image>table_30.png</image>
+<image>table_31.png</image>
+<image>table_32.png</image>
+<image>table_33.png</image>
+<image>table_34.png</image>
+<image>table_35.png</image>
+<image>table_36.png</image>
+<image>table_37.png</image>
+
+<image>table_38.png</image>
+
+	**the label of food whose reasonably foreseeable consumption may result in a daily ingestion of 20 grams of mannitol or 50 grams of sorbitol shall bear the statement “Excess consumption may have lethargic effect”
+<image>table_39.png</image>
+<image>table_40.png</image>
+<image>table_41.png</image>
+<image>table_42.png</image>
+<image>table_43.png</image>
+<image>table_44.png</image>
+<image>table_45.png</image>
+
+
+	NUTRIENT SUPPLEMENTS
+	Substances that are necessary for the human body’s nutritional and metabolic processes.
+<image>table_23.png</image>
+<image>table_24.png</image>
+<image>table_25.png</image>
+
+
+
+</body>

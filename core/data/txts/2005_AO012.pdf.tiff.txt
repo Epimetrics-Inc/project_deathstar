@@ -1,0 +1,367 @@
+Republic of the Philippines
+DEPARTMENT OF HEALTH
+OFFICE OF THE SECRETARY
+
+Bldg. 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila 1003
+Trunkline (632) 743-8301 locals 1125, 1132, Telefax # (632) 743-1829/743-1786
+e-mail info@doh.gov.ph; web site: www.doh.gov.ph
+
+<date>05/11/2005</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2005 - 0012</docnum>
+
+<subject>SUBJECT: Guidelines for Foodborne-Disease Surveillance of the Department of Health (DOH), Philippines with Salmonella as pilot pathogen</subject>
+
+<body>
+I. RATIONALE
+
+Diarrheal diseases has been the number 1 cause of morbidity in the Philippines for many years to date with a morbidity rate of 913.6/100,000 (FHSIS 2002 data). Majority of cases are secondary to intake of contaminated food or water. Studies on the etiology of foodborne diseases worldwide show that 3 diseases - Norovirus infection, Campylobacteriosis, and Salmonellosis account for 70% of cases of known etiology transmitted by food (Present State of Foodborne Diseases in OECD countries, WHO, 2003). However, nontyphoidal Salmonella and the two other aforementioned etiologic agents may be an under-reported and often unrecognized cause of foodborne illness in the Philippines since hospitals within the Philippine Department of Health (DOH) currently conduct routine screening of stool for Vibrio cholerae and Salmonella typhi but do not routinely culture steel for other causes of gastroenteritis.
+
+The Research Institute for Tropical Medicine (RITM), the coordinating center of the Philippine Antimicrobial Resistance Surveillance Program routinely screens for Salmonella from all specimens. In a review of ARSP data from 1988 to 2002, 18% of all stool isolates were salmonella, 15% non-typhoidal and 3% typhoidal Salmonella. In 2002, DOH and RITM, with assistance from United States Centers for Disease Control (CDC), conducted a pilot program to identify the most common bacterial etiologic agents of acute diarrhea among patients at the San Lazaro Hospital. In that study, 54% of patients with Salmonella isolated from their stool had non-typhoidal Salmonella, providing further evidence that nontyphoidal Salmonella may be more prevalent than Salmonella typhi.
+
+Treatment of Salmonella is complicated by the emergence of strains that are resistant to multiple antimicrobials. In the Philippines, resistance of nontyphoidal Salmonella to ciprofloxacin, a fluoroquinolone had risen from &lt;1% in 1994 to 7% in 2003, a matter of serious concern considering the very limited number of alternative antibiotics left for the clinician's use. On the other hand, although S. typhi had been generally sensitive to the first line drugs chloramphenicol, ampicillin and cotrimoxazole, there have been documented rare outbreaks of drug resistant typhoid fever as well, thus the need to sustain surveillance for this organism.
+
+II. STATEMENT/DECLARATION OF POLICY
+
+The epidemiology of typhoid fever is well known; however, the epidemiology of non-typhoidal Salmonella infection in the Philippines has yet to be described. Information such as risk factors for acquiring nontyphoidal Salmonella infection and developing drug-resistant infection are wanting. Thus, the Department of Health is initiating a foodborne disease surveillance with Salmonella as a pilot pathogen by analyzing epidemiologic, clinical and laboratory data (including serotypes), data from which can be used to tract transmission of foodborne/waterborne infections from the suspected vehicle(s) to patients and to develop evidence-based risk assessment and risk management guidelines. This is in accordance with WHO Global Strategy for Food Safety which called on member states to utilize surveillance as the basis for formulation of national strategies to reduce food-related risks (WHO Global Strategy for Food Safety, 2002). These guidelines are prescribed for reference and guidance of all reporting hospitals and other health facilities covered by the Salmonella surveillance.
+
+III. OBJECTIVES
+
+A. General Objective:
+To enhance/expand the existing surveillance on Salmonellosis utilizing existing personnel and infrastructure in the Philippines.
+
+B. Specific Objectives:
+
+Specific Objectives:
+
+1. Determine the risk factors for the disease
+2. Determine the food vehicles associated with Salmonella serotypes
+3. Determine antimicrobial resistance patterns of Salmonella
+4. Utilize the data to draw up recommendations for the control of foodborne diseases secondary to Salmonella
+5. Determine how to integrate the data of NEC, ARSRL, ERL, BFAD and ARSP sentinel sites
+6. Determine feasibility of including nontyphoidal Salmonella in the National Epidemic Sentinel Surveillance System (NESSS)
+
+IV. SCOPE AND COVERAGE
+
+The Salmonella surveillance will be implemented in the following Antimicrobial Resistance Surveillance Program (ARSP) sentinel sites:
+
+1. Corazon Locsin Montelibano Medical Center (Region 6)
+2. Eastern Visayas Regional Medical Center (Region 8)
+3. Vicente Sotto Memorial Medical Center (Region 7)
+4. Davao Medical Center (Region 11)
+5. Baguio General Hospital and Medical Center (CAR)
+6. Cotabato Regional Hospital and Medical Center (Region 12)
+7. Bicol Regional Training and Teaching Hospital (Region 5)
+8. San Lazaro Hospital (NCR)
+9. Rizal Medical Center (NCR)
+10. Zamboanga Medical Center (Region 9)
+11. Celestino Gallares Memorial Hospital (Region 7)
+
+with their corresponding Regional Epidemiology Sentinel Units (RESU)/Local Epidemiology Sentinel Units (LESU), the RITM Antimicrobial Resistance Surveillance Reference Laboratory (ARSRL), RITM Enteric Reference Laboratory (ERL), and the Bureau of Food and Drugs (BFAD).
+
+V. DEFINITION OF TERMS
+
+1. Acute diarrhea/acute gastroenteritis - patient passing out loose stools/vomiting for less than 2 weeks
+2. Laboratory continued Salmonella infection - patient who is culture-positive for Salmonella from any specimen type
+3. Food or water-borne outbreak - an incident in which 2 or more persons experience a similar gastrointestinal illness alter ingestion or consumption of a common food or water in the past 4 weeks.
+4. Sporadic illness - all other cases acute diarrhea/acute gastroenteritis in which do not satisfy the definition of outbreak listed in item 3
+
+VI. GUIDELINES AND PROCEDURES
+
+A. Specimen collection, storage and transport of human specimens
+
+1. All human specimens from suspected food or waterborne outbreaks will be sent to the RITM ERL for aerobic culture and sensitivity tests. Stool specimen should be placed on Cary Blair transport medium to be provided by the RITM Enteric Reference Laboratory, properly labeled with the information that includes patient's name, age, date of collection and address. All stool specimens should be stored in a stool specimen box with 4 ice packs to maintain a temperature of 4°C until testing is performed. Requesting physician should fill up laboratory request form (APPENDIX 2).
+
+2. For patients hospitalized at any ARSP sentinel site, a sufficient amount of bulk stool, approximately 5 ml blood, or other appropriate specimen will be obtained from cases of acute diarrhea/acute gastroenteritis or suspected cases of Salmonella infection during admission in the hospital, as deemed necessary by the attending physician. However, specimen collection should preferably be done on the day of presentation to the hospital or within 48 hours of hospital admission.
+
+3. All specimens should be properly transported to the laboratory within 4 hours after collection.
+
+B. Specimen collection, storage and transport from suspected food vehicles
+
+1. All processed food samples suspected to be the vehicle of foodborne/waterborne illness will be sent to the BFAD for identification of possible bacterial agents of foodborne infection.
+
+2. All unprocessed food suspected to be the vehicle of foodborne illness will be sent to the appropriate agency of the Department of Agriculture (DA) for culture and sensitivity tests. The following are the designated DA testing agencies for various types of unprocessed food and meat products:
+
+a. Bureau of Animal Industry- live food animals
+b. National Meat Inspection Commission- slaughtered food animals(meat and meat products, local and imported)
+c. Philippine Coconut Authority- coconut and coconut products
+d. Bureau of Plant Industry- agriculture crops and by-products
+e. Bureau of Agriculture and Fisheries Product Standards- agricultural fish products
+f. National Dairy Authority- locally produced milk, small scale milk products
+g. Bureau of Fisheries and Aquatic Resources (BFAR)- fresh chilled frozen fish and fishery products
+
+A Memorandum of Understanding (MOU) will be drawn between the DOH and DA to facilitate coordination between the two agencies.
+
+3. At least 200 g or ml of the suspected food/water vehicle should be aseptically collected and placed in a sterile container.
+
+4. If the amount of the suspected food vehicle is big, representative samples should be collected.
+
+5. Specimens should be transported to the BFAD/appropriate DA agency immediately at 4°C in case of nonfrozen foods. In case of frozen foods, specimens should be transported in a box with dry ice.
+
+6. Food/water sample should be labeled by stating the name of the sample, amount of sample, name of specimen collector, particulars of place where sampling was made, date and time of sampling. Nature and number of units with batch code or lot if suspected food is manufactured should be indicated;
+
+7. All Specimens should be properly transported to the laboratory within 4 hours after collection.
+
+C. Surveillance Procedure for Sporadic Cases (hospitalized)
+
+1. Patient suspected to have acute diarrhea/gastroenteritislSalmonella infection is seen at the hospital outpatient department, emergency room or admitted.
+
+2. Physician evaluating patient/admitting physician fills up the Foodborne Illness Complaint Worksheet and orders culture and susceptibility test of appropriate specimens.
+
+3. Specimen collection is done by either the watcher or hospital staff.
+
+4. Laboratory testing of human specimens for culture and sensitivity is done at the ARSP sentinel site laboratory
+
+5. ARSP Lab informs RESU of cultures growing Salmonella sp. once detected.
+
+6. RESU does the epidemiologic investigation, collects samples of suspected food/water vehicle for aerobic culture and sensitivity tests which they submit to BFAD or ARSP sentinel site laboratory or DA agency depending on the nature of the suspected food vehicle.
+
+7. RESU does the traceback with BFAD if processed food; with DA if unprocessed food.
+
+8. ARSRL coordinates with appropriate DA agency to obtain food isolate for confirmation
+
+9. Sentinel site laboratories/BFAD/DA laboratory sends all Salmonella isolates (food/water/human) to ARSRL for confirmatory tests.
+
+10. ARSRL does the confirmatory tests including Salmonella serotyping then forwards the result to NEC and the referring laboratory.
+
+11. ARSRL encodes lab data while RESU encodes epidemiologic data using existing data management systems. RESU submits electronic copy of data to NEC. NEC shares its electronic files with ARSRL and vice versa.
+
+12. ARSRL/NEC jointly generates biweekly summary of Salmonella isolates and provides copies to the DOH Executive Committee, DOH Food Safety Committee and the DA.
+
+D. Surveillance Procedure for Outbreaks
+
+1. R/LESU investigates outbreak, collects suspected food/water vehicle and human specimens and fills up Foodborne Illness Complaint Worksheet
+
+2. LESU sends human specimens to RESU/RITM Enteric Reference Lab/ARSP Sentinel laboratory whichever is more readily accessible, processed food specimens to BFAD; and unprocessed food specimens to the appropriate DA agency. L/RESU coordinates with the apprOpriate DA agency in undertaking tracebacks of unprocessed food.
+
+3. Follow procedure from Step 9 onwards enumerated above under Surveillance Procedure for Sporadic Cases. ARSRL provides copies of all confirmatory results to the referring laboratory of the DOH or DA.
+
+4. Enteric Reference Lab forwards all test results to NEC as well as ARSRL for inclusion in the laboratory database
+
+5. Enteric Reference Laboratory refers all onserotypable Salmonella isolates and those with unusual antimicrobial susceptibility patterns to the ARSRL for confirmatory tests.
+
+The reporting system for the Salmonella Surveillance is attached as Appendix 3. Walk-in cases from BFAD will be excluded. Walk-in cases will be referred to the local government units or may be referred to the appropriate Rural Health Unit.
+
+VII. IMPLEMENTING GUIDELINES
+
+A. Phases of Implementation
+
+Implementation of the Salmonella Surveillance will be in 2 phases with the National Epidemiology Center (NEC) as lead agency starting July 1, 2005.
+
+Phase 1 (pro-implementation phase) from July 1, 2005 to June 30, 2006 will consist of the following activities:
+
+1. Organizational set»up and-establishment of linkages
+
+2. Preparatory activities such as development of the Manual of Procedures, laboratory and data management training, and training on epidemiology procedures to be utilized by the Department of Health and Agriculture reference laboratories and epidemiology surveillance units
+
+3. Utilization of the Foodborne Illness Complaint Worksheet (Appendix 1) in the emergency room, outpatient department, and wards of all aforementioned ARSP sentinel sites for patients consulting for diarrhea and or vomiting
+
+4. Traceback of suspected food/water vehicle, if any, by the NEC/RESU/LESU if such is processed food to be done in coordination with the Bureau of Food and Drugs (BFAD)
+
+5. Confirmatory testing of all Salmonella isolates at ARSRL
+
+6. Initial analysis of data
+
+Phase 2 (implementation phase) commencing on July 1, 2006 onwards will consist of the following activities:
+
+1. Implementation of an External Quality Assurance Program in all ARSP sentinel sites, BFAD, and DA laboratories by ARSRL
+
+2. Monitoring visits of laboratories
+
+3. Traceback of all suspected food/water vehicles, if any, by the NEC/RESU/LESU to be done in coordination with the Bureau of Food and Drug if such is processed food and in coordination with the Department of Agriculture reference laboratories if unprocessed food
+
+4. encoding and analysis with bimonthly output of data by the NEC in coordination with the ARSRL with corresponding recommendations
+
+5. advocacy activities for needed public health interventions, policy changes, revision of prevention and control measures
+
+B. Roles and Responsibilities of Participating Agencies
+
+1. National Epidemiology Center - serves as the lead agency in the surveillance
+
+a. NEC - Central Office
+
+1) Shall initiate the organizational set-up and establishment of linkages among offices/agencies involved in the surveillance
+
+2) Shall jointly draw up a Memorandum of Understanding (MOU) on the roles and responsibilities of each involved office/agency in the surveillance, if necessary
+
+3) Shall take the lead in putting together a Manual of Procedures for the surveillance
+
+4) Shall take the lead in developing a work and financial plan and/or proposal for funding for the surveillance
+
+5) Shall ensure that finds are provided to all offices/agencies involved in the surveillance for said purpose
+
+6) Investigates cases of laboratory continued Salmonella infection not covered by the RESUS and LESUS
+
+7) Shall undertake traceback of suspected food/water vehicle in cooperation with BFAD/DA agencies as necessary
+
+8) Encodes and collates epidemiologic data
+
+9) Generates bimonthly summary of data, its interpretation and corresponding recommendations in cooperation with the ARSRL on laboratory-confirmed Salmonella cases
+
+10) Provides aSsistance to RESUS and LESUS, if needed in the investigation of cases of foodborne/waterborne illness
+
+11) Disseminates urgent information/bulletins on occurrence of foodborne/waterborne infections to appropriate agencies of the DOH
+
+b. RESU
+
+1) Shall orient hospital staff of salmonella surveillance sentinel sites about the surveillance program 
+
+2) Investigates all cases with laboratory confirmed Salmonella infection Identified from community outbreaks and hem cases seen in the ARSP sentinel sites
+
+3) Fills up laboratory request forms and submits appropriately labeled stool specimens from patients and samples of suspected food/water vehicles to the appropriate DOH or DA laboratory, respectively for culture and susceptibility tests
+
+4) Inoculates stool specimens onto Cary Blair transport medium and ensures that these are transported at appropriate conditions to the RITM ERL/ARSP sentinel site laboratory
+
+5) Transports all human and food/water specimens to the designated laboratory in the appropriate transport conditions
+
+6) Shall undertake traceback of suspected food/water vehicle in cooperation with BFAD/DA agencies as necessary
+
+7) Encodes and collates epidemiologic data
+
+8) Submits reports of all investigations performed to NEC Central Office and other appropriate agencies/offices
+
+c. LESU
+
+1) Investigates all cases with laboratory confirmed Salmonella infection identified from community outbreaks
+
+2) Enrolls patients with laboratory confirmed Salmonella infection identified from community outbreaks
+
+3) Fills up laboratory request forms and submits appropriately labeled specimens from patients and samples of suspected food/water vehicles to the appropriate DOH or DA laboratory, respectively for culture and susceptibility tests
+
+4) Transports all human and food/water specimens to the designated laboratory in the appropriate transport conditions
+
+5) Shall undertake traceback of suSpected food/water vehicle in cooperation with BFAD/DA agencies as necessary
+
+6) Encodes and collages epidemiologic data
+
+7) Submits reports of all investigations performed to NEC Central Office and other appropriate agencies
+
+2. Antimicrobial Resistance Surveillance Reference Laboratory, RITM
+
+a. Serves as the lead/reference laboratory of the surveillance
+
+b. Shall take the lead in preparing the laboratory component of the Salmonella surveillance Manual of Procedures
+
+c. Shall assist the NEC in preparing work and financial plan/proposal for funding of the Salmonella surveillance
+
+d. Provides training programs on the relevant laboratory procedures of the surveillance in cooperation with the ERL and BFAD
+
+e. Performs confirmatory tests of all referred Salmonella isolates
+
+f. Coordinates with appropriate DA agency to obtain Salmonella isolates from food for confirmatory tests
+
+g. Provides NEC results of confirmatory tests
+
+h. Enters data into electronic files, generates a bimonthly summary of data, and provides copies of the data, its interpretation and recommendations to the DOH Executive Committee, DOH Food Safety, Committee, and DA in coordination with the NEC
+
+3. Enteric Reference Laboratory, RITM
+
+a. Performs aerobic culture and sensitivity tests and serotyping of Salmonella isolates from human specimens from food/waterborne outbreaks submitted by NEC staff
+
+b. Provides Cary Blair transport medium to NEC staff
+
+c. Provides NEC results of aerobic culture, antimicrobial sensitivity tests and Salmonella serotyping as well as the ARSRL for inclusion in the laboratory database
+
+d. Refers all isolates of nonserotypable Salmonella and those with unusual antimicrobial susceptibility patterns to the ARSRL for confirmatory tests
+
+e. Cooperates with the ARSRL in its laboratory activities related to Salmonella surveillance
+
+4. ARSP Sentinel Sites
+
+a. Clinical staff
+
+1) Administers Foodborne Illness Complaint Worksheet to cases of acute diarrhea/acute gastroenteritis/suspected cases of Salmonella consulting at the ER, OPD or admitted in the hospital
+
+2) Fills up laboratory request forms for stool aerobic culture and sensitivity test of emailed patients within 48 hours from admission to the hospital
+
+b. Bacteriology staff
+
+1) Performs aerobic culture and sensitivity tests on human specimens from patients with acute diarrhea/acute gastroenteritis/suspected Salmonella infections and hem community food/waterborne outbreaks submitted by NEC staff
+
+2) Refers all isolates of Salmonella to the ARSRL for confirmatory tests
+
+5. Bureau of Food and Drugs
+
+a. Performs aerobic culture and sensitivity tests of suspected food vehicles from food/waterborne outbreaks submitted by NEC staff
+
+b. Provides the NEC/ARSRL with results of laboratory tests on suspected food/water vehicles
+
+c. Sends isolates of Salmonella to the ARSRL for confirmatory tests
+
+d. Shall participate in the preparation of the Manual of Procedures and work and financial plan or proposal for funding for the surveillance
+
+e. Cooperates with the ARSRL in implementing laboratory activities related to Salmonella surveillance
+
+6. Food and Waterborne Disease Control Program
+
+a. Disseminates information obtained from the surveillance
+
+b. Provides technical assistance on the prevention and control of food and waterborne-diseases
+
+7- Department of Agriculture Laboratories
+
+a. Performs aerobic culture and sensitivity tests on suspected food vehicles from food/waterborne outbreaks submitted by NEC staff
+
+b. Assists the NEC staff in investigating food/waterborne infections originating from unprocessed food
+
+c. Provides the NEC/ARSRL with results of laboratory tests/reports on suspected food/water vehicles
+
+d. Sends isolates of Salmonella to the ARSRL for confirmatory tests
+
+e. Shall participate in the preparation of Manual of procedures and work and financial plan or proposal for finding of the surveillance
+
+8. Steering Committee
+
+A Steering committee will oversee the administration of the project whose functions will be the following:
+
+a. Undertake monitoring and evaluation of the project
+b. Develop work and financial plan
+c. Recommend policy changes to the DOH Executive Committee
+
+The Steering Committee will be composed of the following:
+
+<image>table_1.png</image>
+
+9. National Coordinating Committee
+
+A National Coordinating Committee will serve as liaison between offices/agencies involved in the surveillance to ensure its smooth function and shall be composed of the following:
+
+a. Chairperson - Head, NEC Surveillance Division
+b. Members - Head, ARSRL
+Representative, BAFPS
+
+10. Oversight Committee in ARSP Sentinel Sites
+
+An oversight committee in each participating ARSP sentinel site shall be created to ensure compliance by physicians in filling up the Foodborne Illness Complaint Worksheet and shall be composed of the following:
+
+a. Chairperson - Head, Chief of Clinics
+b. Members - Head, Department of Pediatrics
+Head, Department of Internal Medicine
+Head, Records Department
+
+It shall be the responsibility of every attending physician in all areas of the sentinel site to completely fill-up the Foodborne Illness Complaint Worksheet otherwise, sanctions shall be imposed by the Chief of Clinics on the erring physicians. Incompletely filled up forms shall not be accepted by the Records Department.
+
+11. Office of the Secretary
+
+The Office of the Secretary will be responsible for allotting funds to support the activities of the Salmonella Surveillance and shall be represented by the executive assistant to the Secretary of Health. Funding for the pro-implementation phase of the surveillance shall be derived from the Office of the Secretary's contingency funds. Once institutionalized, funds shall be provided to the involved agencies/offices to cover the costs of the surveillance.
+
+VIII. REPEALING CLAUSE
+
+Administrative issuances and other related orders inconsistent with this Order are hereby repealed.
+
+IX. EFFECTIVITY
+
+This order shall take effect immediately.
+</body>
+
+<sign>MANUEL M. DAYRIT, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<image>figure_1.png</image>
+
+<image>figure_2.png</image>
+
+<image>figure_3.png</image>
+
+<image>figure_4.png</image>

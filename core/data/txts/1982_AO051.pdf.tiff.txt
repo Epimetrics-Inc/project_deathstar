@@ -1,0 +1,21 @@
+﻿ 
+
+Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+ 
+
+<date>11/12/1982</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 51, s.1982</docnum>
+
+<subject>SUBJECT: Subject: Transfer of Supervision and Control Over Medical Centers Outside of the Metropolitan Manila Area to the Regional Health Offices Concerned</subject>
+       <body>In the interest of the service and in accordance with the provisions of Section 10 of Executive Order No. 851 dated December 2, 1982 of the President of the Philippines, all medical centers of the Ministry of Health outside Metro Manila area are hereby placed under the supervision and control of the regional health offices concerned.
+	This Order takes effect immediately.
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>
+
+

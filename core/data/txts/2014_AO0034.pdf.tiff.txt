@@ -1,0 +1,286 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>10/13/2014</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2014 - 0034 </docnum>
+<subject>SUBJECT: Rules and Regulations on the Licensing of Establishments Engaged in the Manufacture, Conduct of Clinical Trial, Distribution, Importation, Exportation, and Retailing of Drug Products and Issuance of Other Related Authorizations </subject>
+<body>
+
+I. RATIONALE 
+
+Section 15, Article II of the 1987 Constitution declares it a policy of . the State to protect and promote the right to health of the people and instill health consciousness among them. Section 11 of Article XIII further mandates the State to adopt an integrated and comprehensive approach to health development which shall endeavour to make essential goods, health and other social services available to all the people at affordable cost. 
+
+In implementing the abovementioned Constitutional policy, Republic Act No. 3720 created then the Bureau of Food and Drugs (BFAD) which was mandated to insure safe, effective, and good. quality of foods, drugs, devices, and cosmetics. FDA was mandated to regulate and subsequent issuance of appropriate authorizations to establishments engaged in the manufacture, distribution, importation, exportation, and retailing of drug products, including ' the conduct, supervision, monitoring and auditing of research studies on health and safety issues on these products. Administrative Order No. 56 s. 1989, “Revised Regulations for the Licensing of Drug Establishments and Outlets”, was issued as guideline for the issuance of License to Operate (LTO) for these establishments. 
+
+From the creation of BFAD, other regulations .were issued to strengthen its regulatory capacity and functions, thereby ensuring access to affordable, safe, effective, and quality medicines: Republic Act No. 9711, otherwise known as the “Food and Drug Administration (FDA) Act of 2009 and its Implementing Rules and Regulation, Republic Act No. 7394, otherwise known as the “Consumer Act of the Philippines”, and Republic Act No. 9502, otherwise known as the “Universally Accessible Cheaper and Quality Medicines Act of 2008. In addition, Republic Act No. 8792, otherwise known as “Electronic Commerce Act of 2000” was issued to facilitate domestic and international dealings, transactions, arrangements, agreements, contracts and exchanges, and storage of information through the utilization of electronic, optical and similar medium, mode, instrumentality and technology to recognize the authenticity and reliability of electronic documents related to such activities and to promote the universal use of electronic transaction in the government and general public. 
+
+With the issuance of these new regulations, a more relevant, updated, and streamlined regulation for the issuance of LTO for drug establishments is needed. 
+
+Therefore, pursuant to the foregoing, to (a) update and streamline regulatory approaches in licensing of drug establishments; (b) provide faster access of drug products to the public; and (0) promote transparency through the universal use of electronic transaction in the government and general public, the following rules and regulations are hereby adopted and prescribed for the licensing of drug establishments and issuance of other related authorizations. 
+
+II. OBJECTIVES 
+
+This Administrative Order is promulgated with the main objective of ensuring the health and welfare of. the public by regulating the activities and operations of establishments and requiring them to secure LTO. Speciﬁcally, this Administrative Order has the following objectives: 
+
+A. To establish rules and regulations in the licensing of drug establishments to align with the recently promulgated laws and regulations; 
+
+B. To ensure compliance of establishments to FDA and international regulatory standards and requirements of the following, but not limited to, Good Manufacturing Practice (GMP), Good Distribution Practice (GDP), Good Storage Practice (GSP), and. Good Clinical Practice (GCP); and 
+
+C. To prescribe the use and implementation of innovations, such as but not limited to, electronic data messages, electronic submission of documents and electronic signatures in the Food of Drug Administration pursuant to Republic Act No. 8792 or the “Electronic Commerce Act of 2000.” 
+
+III. SCOPE/COVERAGE 
+
+This Administrative Order shall apply to establishments in the country, including local government units, government owned and controlled corporations, non-government organizations, other government ofﬁces and instrumentalities engaged. in the manufacture, distribution, importation, exportation, sale, offer for sale and transfer of. drug product. This shall also apply to Contract Research Organizations (CROs) and/or Sponsors engaged in the conduct of clinical trials. 
+
+Entities engaged in the activities such as donation, promotion, advertising, or sponsorship of drug product shall secure appropriate authorizations in accordance with existing rules and regulations. 
+
+IV. DEFINITION OF TERMS 
+
+As used in this Administrative Order, the following words, phrases or terms shall .have the following meaning: 
+
+A. Clinical Trial refers to any investigation in human subjects intended to discover or verify the clinical, pharmacological and/or other pharrnacodynamics effects of an investigational product(s), and/or to identify any adverse reactions to an investigational product(s), and/or to study absorption, distribution, metabolism, and excretion of an investigational product(s) with the object of ascertaining its safety and/or efﬁcacy. The terms clinical trial and clinical study are synonymous. 
+
+B. Contracting, in addition to the activities performed by a manufacturer/packer/repacker- in this Administrative Order, refers to the formal and documented evidence of activities to be undertaken by the contract acceptor (referred to as Contract Manufacturer/Packer/Repacker or Contract Researcher) to its contract giver (referred to as its Client) with regard to the manufacturing/packing/repacking of the latter’s product. 
+
+C. Drug Establishment refers to a sole proprietorship, partnership, corporation, institution, association and organization engaged in the manufacture, distribution, importation, exportation, sale, offer for sale, donation, transfer, use, testing, promotion, advertising, or sponsorship of drug product including the facilities and installations needed for its activities. 
+
+D. Good Clinical Practice (GCP) refers to the standard for the design, conduct, performance, monitoring, auditing, recording, analyses, and reporting of clinical trials that provides assurance that the data and reported results are credible and accurate, and that the rights, integrity, and conﬁdentiality of trial subjects are protected. 
+
+E. Institutional pharmacy refers to drug establishments which are non- government entities/organizations procuring drugs to be dispensed whether at a cost or as part of employee’s beneﬁts and/or its dependents. 
+
+F. Investigational New .Drug (IND) or Investigational Product refers to a pharmaceutical form of an active ingredient or placebo being tested or used as a reference in a clinical trial, including a product with a marketing authorization when used or assembled (formulated or packaged) in a way different from the approved form, or when used for an unapproved indication, or when used to gain further information about an approved use. 
+
+G. License to Operate (LTO) is an authorization or permission embodied in a document granted by FDA to any natural or juridical person engaged. in manufacture, distribution, importation, exportation, sale, offer for sale, testing and transfer of drug products. 
+
+
+H. Pharmacy Compounding is a practice in which a licensed pharmaCist combines, mixes, or alters ingredients in response to a prescription to create a medication tailored to the medical needs of an individual patient. 
+
+I. Special Permit is a form of authorization granted to entities that procure drugs to be used solely for a specific purpose, such as but not limited to, either medical missions or other health related programs and are not for sale ' or resale. FOr other purposes such as promotion, advertising, or sponsorship of drug product, a Sales Promotion .Permit shall be secured in lieu of Special Permit. 
+
+J. Testing refers to either (1) quality control testing, (2) clinical trial, (3) bioavailability and bioequivalence testing, (4) and such other analyses to determine the safety, efficacy, and/or quality of drug products. 
+
+GENERAL GUIDELINES 
+
+A. No drug establishment shall manufacture, import, export, sell, offer for sale, distribute, transfer, promote, advertise and/or sponsor any activity that involves drug product without first securing an LTO or an appropriate authorization from FDA pursuant to this Administrative Order. 
+
+B. Likewise, no CRO and/or Sponsor shall be involved in the conduct of clinical trial without a license from FDA. 
+
+C. The responsibility of ensuring the safety, efﬁcacy, quality and/or purity of any drug product sold in its original packaging (container) of which the seal has not been broken or tampered with shall rest upon the drug establishments involved in the supply chain of sale, handling, transport, distribution, trading and storage, among others. 
+
+D. All establishments are required to implement a risk management plan which is a requirement for the issuance of an LTO or other authorization. 
+
+E. All drug distributors shall not sell directly to the general public or consumer, unless they have an LTO as a drugstore. 
+
+F. All licensed establishments must continuously comply with the existing requirements, regulations and standards, otherwise the establishment may be ordered closed or their licenses suspended or revoked motu proprio or upon petition by any person. 
+
+G. A violation with any of the terms and conditions of the LTO issued by FDA shall likewise result in the suspension, revocation or cancellation of the LTO or disapproval of the application for renewal, after due process. 
+
+H. All licensed establishments engaged in the importation of drug products which have been banned or withdrawn for health and safety reasons in the country of manufacture or country of origin shall not be imported or offered for import, sold or used in. the Philippines and shall likewise be refused admission. Consequently, the marketing authorization of the product may be withdrawn after due process. 
+
+I. All licensed establishments shall immediately recall, withdraw, seize, or ban from public sale or distribution or donation any drug product that is declared to be imminently injurious, unsafe or dangerous, as recommended by the FDA Director General. 
+
+J. All entities, whether government or non-government, that regularly procure drugs on wholesale basis from appropriate FDA duly licensed drug establishment for distribution to their constituents must be licensed as drug distributor. 
+
+K. All institutional pharmacies procuring drugs to be dispensed whether at a cost or as part of employee’s beneﬁts and/or its dependents must secure a LTO. 
+
+L. All establishments engaged in retail, whether privately owned or government-owned, shall be under the supervision of a registered pharmacist when operating or open for business, except otherwise allowed by other pertinent laws. 
+
+M.All licensed establishments engaged in the manufacture, distribution,exportation, importation, selling, transportation/shipment of vaccines, biologics and other temperature—sensitive drug products are hereby directed to comply with the cold chain management requirements. 
+
+N. All information, education and communication campaign material promoting the safe and rational use of drugs shall be displayed in a conSpicuous area of the drugstore. 
+
+O. The FDA shail have the authority to enter any establishment for (1) inspection of compliance and/or (2) veriﬁcation of submitted documents in relation to any application for issuance of appropriate authorization. 
+
+P. All establishments shall abide with the guidelines of the FDA on electronic submissions and processes of LTD applications into electronic format pursuant to Republic Act No. 8792 or the “Electronic Commerce Act of 2000” 
+
+Q. All CROs, sponsors and other concerned entities shall adhere to existing standards of safety, efﬁcacy and ethical practice in the conduct of clinical trials. 
+
+R. For hospital pharmacies, Administrative Order No. 2012-0012 or Rules and. Regulations Governing the New Classiﬁcation of Hospitals and Other Health Facilities in. the Philippines shall apply until modiﬁed or repealed. 
+
+S. This Administrative Order is subject for review after two (2) years from its issuance. 
+
+SPECIFIC GUIDELINES 
+
+A. Classification of Establishments 
+
+A.1 Drug Manufacturer 
+
+A.1.1 Drug Manufacturer — refer to any establishment engaged in any or all operations involved in the production of drug products including preparatory processing, compounding, formulating, ﬁlling, packaging, repackaging, altering, ornamenting, ﬁnishing and labeling with the end in view of its storage, sale or distribution; provided, that the term shall not apply to the compounding and ﬁlling of prescriptions in drugstores and hospital pharmacies. A Drug Manufacturer can distribute and/or export in wholesale its own drug products and import raw materials for its own production. 
+
+A.1.2 Drug Manufacturer-Repacker — refers to any establishment that repacks a ﬁnished drug product into smaller quantities in a separate container and/or into secondary packaging, including but not limited to relabeling, stickering, & bundling for promo packs with the end view of storage, distribution, or sale of the product. Provided, it shall not cover repacking of drugs at the time of purchase for purposes of dispensing. 
+
+A.1.3 Drug Manufacturer~Packer — refers to any establishment that packages a bulk drug product into its immediate container with the end view of storage, distribution, or sale of the product.
+
+A.1.4 Drug Manufacturer-Trader — refers to any establishment which is a registered owner of a drug product and the formulation and procures the raw materials and packing components, and provides the production monographs, quality control standards and procedures, but subcontracts the manufacture of such product to a licensed manufacturer. 
+
+In addition, a trader may also engage in the distribution and/or exportation in wholesale of its own drug products and importation of raw materials for the production by its contract manufacturer. In cases where the contract manufacturer procures the raw materials and packing components, a quality agreement must be provided. 
+
+Drug Manufacturer, Drug Manufacturer-Packer, Drug Manufacturer-Repacker may respectively engage in subcontracting activity which is referred to as contract manufacturing, contract packing and contract repacking. 
+
+
+
+A.2 Drug Distributor 
+
+A.2.1 Drug Distributor—Exporter — refers to any establishment that exports raw materials, active ingredients and finished products for distribution to other drug establishments outside the country. 
+
+A.2.2 Drug Distributor-Importer — refers to any establishment that imports raw materials, active ingredients and/or ﬁnished products for wholesale distribution to other local FDA—licensed drug establishment. 
+
+A.2.3 Drug Distributor~ Wholesaler — refers to any establishment that procures raw materials, active ingredients and/or ﬁnished products from a local FDA-licensed drug establishment for local distribution on wholesale basis. 
+
+A.3 Drugstore/Pharmacy/Botica and similar outlets 
+
+Drugstore/Pharmacy/Botica, including hospital pharmacy and institutional pharmacy shall refer to drug establishment where registered drugs, chemical products, dental, medicinal and household remedies are dispensed directly to the general public on a retail basis. Botika ng Barangay and its variants that sell the same shall be reclassiﬁed and required to secure LTO as a drugstore. 
+
+A.4 Retail Outlet F or Non—Prescription Drugs (RONPD) 
+
+Retail Outlet for Non-Prescription Drugs shall refer to drug establishment such as a supermarket, convenient store and other similar retail establishment authorized to sell only identiﬁed Over-the-Counter (OTC) and household remedy products directly to the general public on a retail basis. Botika ng Barangay and its variants that opt to sell the same shall be reclassiﬁed and required to secure LTO as a RONPD. 
+
+A.5 Sponsor 
+
+Sponsor is an individual, company, institution, organization or an entity which takes the responsibility for the initiation, management, and/or ﬁnancing of a clinical trial. 
+
+A.6 Contract Research Organization 
+
+Contract Research Organization (CRO) refers to a person or an organization (commercial, academic, or other) contracted by the sponsor to perform one or more of the sponsor’s trial-related duties and functions. 
+
+B. License to Operate (LTO) and Other Authorizations: Requirements And Approval Process 
+
+1) Filing of Applications 
+
+An application for LTO, whether initial, renewal, or variation, and other authorization are deemed ﬁled upon submission of complete requirements including payment of required fees and charges. 
+
+2) Evaluation 
+
+The evaluation of all applications for LTD and other authorization shall be based on satisfactory compliance to the applicable requirements or appropriate standards. 
+
+If, upon evaluation, it was found that the applicant company fraudulently ﬁled or misrepresented, falsiﬁed, or withheld any relevant data or information contrary to the provisions of the law, rules and regulations or appropriate standards shall mean disapproval of the application. Following due process, the applicant shall be subjected to further investigation, appropriate charges, penalties and sanctions under the law. 
+
+Should there be any clariﬁcation on the application, a notiﬁcation either written or through e—mail shall be sent to the applicant. 
+
+3) Inspection 
+
+(a) Pre-opening Inspection 
+
+Applications for LTO of drugstores, RONPDs, sponsors, and CROs, pro-opening inspection may be waived provided all necessary requirements are complied with. Nevertheless, on-site veriﬁcation may be done if deemed necessary. 
+
+Applications for LTO of drug manufacturers and distributors are required to be inspected for compliance with existing requirements and standards. 
+
+(b) Post-licensing Inspection 
+
+All establishments, after approval and issuance of their LTO are subjected to post-approval inspection as part of post—marketing surveillance activities to monitor continuous compliance with existing requirements and standards. 
+
+4) Decision on Application 
+
+(a) Approval 
+
+If, upon evaluation and/or inspection of an application the establishment was found to have satisfactorily complied with all the requirements, the appropriate authorization shall be issued. 
+
+(b) Disapproval 
+
+If upon evaluation it was found that there was no satisfactory evidence to prove compliance with the requirements, a notice of disapproval shall be issued. Any notice of disapproval of applications for license or authorization must clearly state the ground/s on which the disapproval is based. 
+
+The disapproval of an application is without prejudice to re- application. However, disapproval of application shall mean outright forfeiture of payment. 
+
+5) Validity 
+
+All LTO shall have the following validity for any classiﬁcation of drug establishments from the date of issuance: 
+
+-Initial issuance of LTO shall be valid for two years 
+-Renewal of LTO shall be valid for three years 
+
+In either case, the LTO shall be valid only in the address indicated therein and the warehouse or plant covered. 
+
+For applications for other authorizations, the validity shall be indicated in the issued authorization. 
+
+6) Renewal of LTD 
+
+(a) Application for regular renewal of license shall be ﬁled within six (6) months from the date of expiration of LTD. An application received after expiration of the LTO shall be subject to a surcharge or penalty equivalent to twice the renewal licensing fee and an additional. ten percent (10%) per month or a fraction thereof of continuing non-submission of such application up to a maximum of one hundred twenty (120) days. 
+
+Any application for renewal of license ﬁled beyond the 1.20 days after the original expiration shall be subject to a fee equivalent to the total surcharge or penalty plus the initial license fee. Such application shall undergo the initial ﬁling and evaluation procedure. Submission of documentary requirements is hereby waived except when there is a change or variation effected on the drug establishment. 
+
+For renewal applications ﬁled within one hundred twenty (120) days from its original expiry, the LTO shall be considered valid and existing until a decision or resolution by the FDA is rendered on the application for renewal. 
+
+(b) Automatic renewal shall apply when the following conditions are met: 
+
+-The application is ﬁled before the expiration date; 
+-The prescribed renewal fee is paid upon ﬁling of the application; 
+-A sworn statement indicating no change or variation whatsoever in the establishment is attached to the application. 
+
+In considering both renewal applications, FDA shall ascertain the continued compliance by the establishment with the existing standards and requirements. In either case above, the instances provided in Section 4, Article I, Book II of the IRR of RA 9711(Paragraph E, Item VI above) shall be grounds for non-renewal of LTO. 
+
+7) Application for Variation 
+
+Application for variation refers to post-approval applications by drug establishments to implement a change from the previously approved and issued LTO. 
+
+Variation are categorized into two, (1) major variation and (2) minor variation. 
+
+(a) Major Variation 
+
+Major variations refer to changes in the drug establishment operations that may affect signiﬁcantly and/or directly the aspects of safety, efﬁcacy and quality of drug products they are engaged in, and those changes affecting signiﬁcant particulars of the issued LTO. 
+
+No change in the previously approved circumstances of the application of the establishment shall be effected unless proper notiﬁcation and submission of necessary documents to the FDA and approval of such change(s) has been made. 
+
+(b) Minor Variation 
+
+Minor variation refers to changes in administrative documents and/or changes in the drug establishment operations with minimal impact on the aspects of safety, efﬁcacy and quality of drug products they are engaged in. 
+
+There are minor variations that may no longer require prior approval before implementation but only submission of notiﬁcation from the applicant. 
+
+Consistent with Section VIII, C.2, variations as post—approval changes, whether minor or major may be subject to inspection as deemed necessary. 
+
+The speciﬁc types of variations and the documentary requirements shall follow the existing requirements as provided in the latest issuance of FDA. 
+
+8) Lost or Destroyed LTO 
+
+An LTO shall be re-issued upon the ﬁling of request, afﬁdavit (loss or destruction, where applicable) and other documents whenever necessary, and payment of the prescribed fee; provided, that there is no change whatsoever in the establishment, otherwise the same shall be treated as variation or initial as the case may be. 
+
+9) Cancellation of LTD 
+
+(a) Automatic 
+
+Existing establishments that failed to ﬁle an application for renewal after one-hundred twenty (120) days from the date of expiration shall be automatically cancelled and deleted from the list of registered. establishments without prejudice to re-application. 
+
+(b) Voluntary 
+
+The owner or authorized person of a licensed establishment may apply for voluntary cancellation of its existing license by ﬁling a formal notiﬁcation. 
+
+Any voluntary cancellation intended to defraud the government, its creditors, and/or its workers shall not deprive FDA jurisdiction to perform acts in ensuring the safety of the public or pursuing regulatory or quasi-judicial actions as a result of violation or non-conformance of the license holder to FDA—implemented laws, standards, rules and regulations. No clearance shall be evoked unless existing monetary obligation with the FDA has been settled. 
+
+C. Regulatory Action 
+
+FDA may execute any necessary regulatory action as deemed necessary to protect and promote the health of the Filipino people. Regulatory action may include re-inspection, suspension, or revocation of an existing LTO and/or authorization. 
+
+A formal notice shall be issued by FDA clearly stating the ground/s on which the re-inspection, suspension, or revocation is based. 
+
+The lifting of the order of suspension and the resumption of the operation of an establishment that have been issued a suspension of its LTO, shall take effect only after due application and satisfactory compliance of the deﬁciencies for which it was suspended. 
+
+Any establishment whose LTO have been revoked may apply for initial application after three years from date of ﬁnal decision. 
+
+D. Violation and Administrative Sanctions 
+
+Violations of any of the provisions of this Administrative Order and the imposition of administrative sanctions shall follow the Rules of Administrative Procedure provided in the implementing rules and regulations of Republic Act No. 9711. 
+
+E. Fees and Other Charges 
+
+The FDA shall collect non-refundable application fees for each type of activity or classiﬁcation that the applicant will engage into and other charges as may be allowed. by the existing rules on fees and charges or surcharges. The fees and other charges shall be based on the existing issuances on schedule of fees including any applicable amendment thereto. 
+
+VII. SEPARABILITY CLAUSE 
+
+If any of the provisions of this Administrative Order is found by a court of competent jurisdiction to be void or unenforceable, in whole or in part, such provision shall be deemed deleted from this Administrative Order but the remaining provisions thereof not affected shall remain in full force and in effect. 
+
+VIII. REPEALING CLAUSE Administrative Order No. 56 s. 1989, as well as other provisions in existing administrative orders, circulars, memoranda, and other issuances inconsistent with this Administrative Order are hereby withdrawn, repealed, and revoked accordingly. 
+
+IX. EFFECTIVITY 
+
+This Administrative Order shall take effect after ﬁfteen (15) working days following its publication in a newspaper of national circulation and upon submission to the University of the Philippines Law Center. 
+
+</body>
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+ 
+
+ 
+

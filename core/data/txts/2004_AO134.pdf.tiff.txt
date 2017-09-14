@@ -1,0 +1,243 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Cpd., Rizal Ave., Sta. Cruz, Manila
+
+
+<date>01/09/2004</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 134 s. 2004</docnum>
+
+<subject>SUBJECT: Guidelines Governing the Registration and Performance Evaluation of Drug Screening Test Kits and Reagents</subject>
+
+
+<body>
+
+I. RATIONALE
+
+The detection of drugs has an important role in many areas of society such as sports, suspicious deaths, violent crimes, travel and work safety. Results of analysis should be accurate, reliable and defensible. Reporting of a positive drug ﬁnding in a biological specimen should be based upon a positive result by a drug screening analysis as well as by conﬁrmatory test. Today, drug screening test kits are used almost universally for both clinical and medico-Iegal preliminary examinations of abused drugs. As intended for human use, the drug screening test kits should be subjected to regulations to protect and promote the health of the people by preventing the distribution of substandard drug screening test kits. For this purpose, it is essential that the government promulgate certain rules and regulations governing the registration of drug test kits sold and used in the country.
+
+II. LEGAL MANDATE
+
+Pursuant to Article III Section 39 of RA 9165 also known as the Comprehensive Dangerous Drugs Act of 2002, the Department of Health is tasked to license and accredit drug testing centers in each province and city in order to assure their capacity, competency, integrity and stability to conduct laboratory examinations. As part of improving the quality of the results of drug testing laboratories, the Department of Health through the Bureau of Food and Drugs and National Reference Laboratory - East Avenue Medical Center is tasked to establish an effective regulatory system for drug screening test kits in which the primary goal is to ensure safety, quality and effectiveness of the drug screening test kits as a condition to commercial marketing.
+
+The Bureau of Food and Drugs pursuant to its function as the regulatory agency for diagnostic reagents/kits in the Philippines, has the responsibility of assuring the quality, safety and efﬁcacy of drug screening test kits and reagents sold to the public in accordance with the mandate of RA. 3720.
+
+BFAD in discharging this responsibility evaluates the following:
+
+a. all drug screening test kits/reagents submitted for registration (initial/renewal)
+
+b. drug screening test kits/reagents submitted to BFAD for investigation by concerned citizens; and
+
+c. drug screening test kits/reagents collected from licensed distributors for monitoring purposes.
+
+The East Avenue Medical Center (EAMC) is the designated National Reference Laboratory (NRL) and Occupational Health, Toxicology and Micronutrient Assay pursuant to 0.0. 393-E s. 2000. As an NRL, it is mandated to evaluate the performance of drug screening test kits/reagents.
+
+III. SCOPE
+
+These guidelines shall apply to all drug test manufacturers and traders/ distributors (importers/exporters/wholesalers) of drug screening test kits/ reagents.
+
+IV.DEFINITION OF TERMS
+
+1. Applicant — refers to an establishment or a natural or juridical person that seeks to register drug screening test kits/ reagents.
+
+2. Conformance — refers to the fulﬁllment of the requirements of the standard.
+
+3. Cut—off value of the drug testing kit -— the concentration used to establish and report a specimen as negative or positive.
+
+4. Distributor/ Exporter — refers to any establishment that exports raw materials, active ingredients and/or ﬁnished drug screening test kits/reagents to another country.
+
+5. Distributor/ Importer — refers to any establishment that imports raw materials, active ingredients and/or ﬁnished drug screening test kits/reagents for its own use or for wholesale distribution to other establishments or outlets.
+
+6. Distributor/Wholesaler - refers to any establishment that procures raw materials, active ingredients and/or ﬁnished drug screening test kits/reagents from local establishment for local distribution on wholesale basis.
+
+7. Drug Screening Test Kits/Reagents — refers to testing device/reagents which is used alone or in combination intended for use in the examination of speciﬁc type of specimen for the purpose of preliminary identiﬁcation of drug metabolite.
+
+8. Drug Trader — refers to any establishment which is the registered owner of the drug screening test kits/reagents, procures the raw materials and packing components, and provides the production monographs, quality control standards and procedures, but sub-contract the manufacture of such product to a licensed manufacturer.
+
+9. Gas Chromatograph — Mass Spectrometry — refers to the combined technique extensively used for qualitative and quantitative analysis. GC separates a sample into its components and MS operating as the detector of GC clariﬁes the structure. It is the established conﬁrmatory method when a preliminary positive test result for drugs/metabolites is obtained.
+
+10. Manufacturer — refers to any establishment engaged in operations involved in the production of devices, including propagation, processing, compounding, ﬁnishing, ﬁlling, packing, re-packing, altering, ornamenting and labeling with the end in view of storage, distribution or sale of the drug screening test kits/reagents provided that for the purpose of this regulation the compounding and filling of prescriptions in drug testing laboratories and hospital shall not be considered as production operations.
+
+11. Negative control specimen -— refers to synthetic or human urine specimen found below the cut-off value or absence of substance for drugs/metabolites.
+
+12. Performance Evaluation — refers to the procedures to verify the data submitted by the applicant.
+
+13. Positive control specimen — refers to synthetic or human urine specimen found positive or spiked with known concentrations of speciﬁc drugs/metabolites.
+
+14. Registration — means the process of approval to manufacture, import, export, sell, distribute or transfer any drug screening test kits/reagents that is determined to be safe, effective and in conformance to quality and safety standards.
+
+15. Samples — refer to the drug screening test kits/reagents subject for performance evaluation.
+
+16. Sensitivity —- the ability of a test to detect all positive specimen for drug/metabolite. The smallest concentration of drugs /metabolite that can be detected.
+
+17. Specificity - the ability to discriminate between various similar drugs and identify all negative specimen for drugs/ metabolites correctly.
+
+18. Standard — reference material of known purity or a solution containing a metabolite of known concentration.
+
+19.Test Efficiency — the over-all ability of a test to correctly identify positives and negatives. The combination of the sensitivity and the speciﬁcity of an assay to give an idea of the total effectiveness of the test.
+
+V. REQUIREMENTS
+
+A. Application for Registration of Drug Screening Test Kits by BFAD
+
+1. Notarized Letter of Application from manufacturer/trader/distributor.
+
+2. Valid License to Operate (LTO) as drug manufacturer/trader/distributor issued by BFAD.
+
+3. Government Certiﬁcate of Clearance and Free Sale/Registration Approval of the Product from country of origin and duly authenticated by territorial Philippine Consulate.
+
+4. Good Manufacturing Practice (GMP) Certiﬁcate attesting to the status of the manufacturer, competency and reliability of the personnel and facilities and duly authenticated by territorial Philippine Consulate.
+
+5. Certiﬁcate of Agreement between the manufacturer and trader/distributor regarding the product involved. If importer, it must be authenticated by the Philippine Consulate.
+
+6. Specific Use and Directions for Use.(Product insert)
+
+7. Copy of latest Certiﬁcate of Product Registration. (renewal)
+
+8. List of all raw materials used as components of the reagents/test kits.
+
+9. Technical specifications/physical description of the drug screening test kits/reagents.
+
+10.Process~control procedure and expected performance specifications.
+
+11. Flowchart of the manufacturing procedure.
+
+12. Stability studies of the product to justify claimed shelf-life. Signed by the authorized company representative.
+
+13. Immediate label, box label, package insert, brochure.
+
+14. Representative samples (2) in the market or commercial presentation
+
+15. Evidence of registration fee/payment (charge slip/official receipt)
+
+B. For Performance Evaluation by NRL:
+
+1. Letter of endorsement from BFAD.
+
+2. Letter of compliance to NRL-EAMC (Incase of Deﬁciency)
+
+3. List of raw materials used as components of the drug screening test kits/reagents.
+
+4. Test Procedures/in-process controls to conduct Drug screening test kits.
+
+5. Physical description and technical speciﬁcations of the drug screening products which includes:
+
+5.1 Data on sensitivity and speciﬁcity tests to be conducted for:
+
+5.1.1 Negative Specimens
+
+One hundred twenty (120) independent analyses using three different lots at different concentration from 0 to 50% below of cut-off. All test results must be negative for drug.
+
+5.1.2 Positive Specimens
+
+One hundred twenty (120) independent analyses using three different lots at different concentration from cut-off to 150% cut—off. All test results must be positive for drug.
+
+5.2 Other statistical indices that shall describe the performance characteristic of the test kits
+
+6. Performance comparison studies with GC/ MS.
+
+7. Certiﬁcate of analysis of ﬁnished product
+
+8. Not less than 150 samples for evaluation.
+
+9. Evidence of registration fee/payment (charge slip/official receipt)
+
+VI. SPECIFIC POLICIES GUIDELINES
+
+1. All data/information must be submitted in English. When data/material is not originally in English, an authenticated translation shall be submitted.
+
+2. All text, drawings, pictures and photographs must be legibie and drawings/picture clearly labeled and in full size four, (4) copies.
+
+3. BFAD/NRL reserves the right to ask any other requirement not indicated in this order but deemed necessary to support the reliability and authenticity of the submitted documents.
+
+4. The initial registration shall be valid for ﬁve years minimum of 2 years.
+
+5. For renewal registration, application shall be made on a form promulgated by the Bureau of Food and Drugs.
+
+6. Renewal application shall be reviewed and evaluated on the basis of the product and the applicant meeting the current BFAD and NRL—EAMC standards of identity, purity, quality and efficacy.
+
+7. Filing for renewal of registration of drug screening test kits/reagents shall be accepted starting ninety (90) calendar days before the expiry date.
+
+8. All requirements shall be submitted as indicated in the checklist of requirements (BFAD and NRL) as enumerated in Section V A and B.
+
+9. Application for renewal registration ﬁled after the validity date of the registration shall be imposed with corresponding surcharge.
+
+10.The renewal registration shall be valid for ﬁve years minimum of three years
+
+11. Application that failed to meet standards of safety, efﬁcacy and quality shall be disapproved.
+
+VII. PROCEDURES
+
+A. Initial Registration
+
+1. Submission of requirement. by the applicant to BFAD including issuance of order of payment/charge slip for registration.
+
+2. Evaluation of documents at the Product Services Division (PSD)-BFAD.
+
+3. Endorsement letter from the BFAD Director with attached complete documents listed in the NRL checklist to be forwarded to NRL.
+
+4. Review of documents by NRL.
+
+5. Issuance of Notice of Submission by NRL to the applicant.
+
+6. Payment of technical evaluation fee to NRL-EAMC by the Applicant.
+
+7. NRL performs technical evaluation of product samples.
+
+8. Submission of technical evaluation report and recommendation to Product Services Division (PSD-BFAD) for ﬁnal action on the application for registration.
+
+9. Certificate of Registration (CPR) shall be issued by BFAD upon recommendation of the NRL.
+
+10. BFAD shall submit list of registered screening drug test kits/reagents to Bureau of Health Facilities and Services (BHFS), NRL and Dangerous Drugs Board (DDB). The same shall be posted in the Department of Health website.
+
+B. Renewal Registration
+
+The procedure to be followed for the renewal registration shall be the same as the initial registration.
+
+C. Any changes relative to the drug screening test kits/reagents
+
+The applicant shall notify BFAD of any changes relative to the drug test kits/reagents. Any changes on the drug test kits/reagents and/or performance of products shall warrant a clearance, approval or initial registration.
+
+D. Fees and Charges
+
+1. Fees shall be payable to BFAD for registration and NRL-EAMC for performance evaluation.
+
+2. Fees and charges are subject to change as may be deemed necessary.
+
+3. Expenses and fees (including freight and handling of sampies) for laboratory testing, if required, shall be borne by the applicant.
+
+VIII. Monitoring
+
+BFAD shall conduct random monitoring of all registered drug screening test kits/reagents in accordance with BFAD’s standards. Collected samples shall be evaluated by BFAD-PSD as to registration and NRL as to validation. The performance evaluation result of NRL shall be forwarded to BFAD.
+
+IX. Sanctions
+
+The following are the grounds for cancellation/disapproval/non-renewal of registration of drug screening test kits/reagents.
+
+1. The manufacture, sale, offering for sale or transfer of drug screening test kits that does not meet all requisite speciﬁcations and product standards on safety, quality and effectiveness.
+
+2. Misrepresentation or concealment of signiﬁcant data or information about the product sought to be registered.
+
+3. Alteration, mutilation, destruction, obliteration or removal of any part of labeling.
+
+4. Drug screening test kits that has a biological, chemical or physical property that may cause a health risk.
+
+5. Submission of falsiﬁed documents.
+
+6. Failure to notify BFAD of changes or alteration to the test.
+
+7. Invalid test results identiﬁed by users or through some other program/activities.
+
+X. Repealing Clause
+
+All administrative order, rules and regulations and administrative issuance or parts thereof inconsistent with the provision of this order are hereby repealed or modiﬁed accordingly.
+
+XI. Effectivity
+
+This order shall take effect upon the approval of the Secretary of Health.
+
+
+</body>
+<sign>MANUEL M. DAYRIT, MD, MSc.</sign>
+<signtitle>Secretary of Health</signtitle>

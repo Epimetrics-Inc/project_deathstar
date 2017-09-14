@@ -1,0 +1,431 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>06/22/2015</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2015 - 0029 </docnum>
+<subject>SUBJECT: Revised Policies yd Guidelines on Hospital TB-DOTS Mar the National TB Collin] Program </subject>
+<body>
+ 
+I. RATIONALE 
+
+Administrative Order No. 2010-0031, the 2010 — 2016 Philippine Plan of Action to Control TB (PhilPACT) serves as the roadmap of the National Tuberculosis Control Program (NT P) to address the problem of tuberculosis in the country. ‘ The over—arching program strategy - is Directly. Observed Treatment Short Course Strategy (DOTS). One of the PhilPACT’s- eight strategies is to engage all providers of TB services. By 2016, it targets that 90% public hospitals and 65% private hospitals are participating in TB control efforts under the direction of NTP. 
+
+Hospitals are major providers of tuberculosis (TB) care. The 2007 National TB Prevalence Survey showed that 43% of patients with signs and symptoms of TB consulted hospitals. HOSpital participation, however, in TB control efforts is very limited. In 2010, a survey of 14 public hospitals in Metro Manila showed that they detected around 12,500 TB cases a year but only 5% were reported to the NTP. Many studies. showed that management of TB in hospitals is not consistent with the policies. and guidelines of the NTP and. the International Standards of TB. Care. 
+
+In 1997, the Department of Health (DOH) issued AO no. 24-A s. 1997 on implementing the hospital-based TB control program in DOH—owned hospitals. It was later amended in 2004 through AO no 140 s. 2004 expanding the coverage to all government hospitals. In 2003, the Philippine Health Insurance Corporation (PhilHealth) introduced the TB-DOTS cut- patient beneﬁt package. However, by 2013 only less than 25% of around 1,800 hospitals are implementing the TB control program. Furthermore, the NTP Manual of Procedures 5th edition had been recently issued changing key technical policies and guidelines. It is within ' this context that this administrative order is being issued. This set of guidelines had been ’ tested through the World Health Organization (WHO)/Canadian International Development Agency-assisted—Collaboration for Additional TB Cases from Hospitals TB cases (CATCH- TB) project (2009 — 2013) in 17 public hospitals in Metro Manila and the Philippine Tuberculosis Society/Linking Initiatives and Networking to Control TB (TBLINC)/USAID- supported System for an Enhanced, Comprehensive, Uniﬁed Referral, Recording and Reporting for TB (SECURE TB) project (2011 ”2012) in 38 private hOSpitals nationwide. 
+
+II. OBJECTIVES 
+
+This Order aims to; 
+
+A. Provide the policies and guidelines on implementing patient-centered TB-DOTS in all - hospitals. 
+
+B. Highlight key technical policies in managing TB cases in the hospitals. 
+
+C. Describe the NTP recording and reporting system for hospitals. 
+
+D. Deﬁne the roles and responsibilities of stakeholders. 
+
+III. SCOPE or APPLICATION 
+
+This Order covers all DOTS facilities in public and private hospitals. This further covers all ofﬁces of the Department of Health and health ofﬁces of the Local Government Units (LGUs). - 
+
+IV  DEFINITION OF TERMS 
+
+A. DOTS Strategy — the over-arching TB control strategy consisting of (a) availability of quality-assured sputum examination; (b) uninterrupted supply of anti-TB drugs; (c) supervision of drug intake; (d) patient and program monitoring, and (e) political will. 
+
+B. DOTS facility - a health care facility, whether public or private, that provides TB-wDOTS services in accordance with the policies and guidelines of the NTP. 
+
+C. Engaged hospital -— a public or private hospital implementing DOTS and reporting to NTP. 
+
+D. TB-DOTS Providing Hospital (TDPH) -— an engaged hospital that has a TB clinic that registers, treats and notiﬁes TB cases and with functional internal and external TB referral systems. 
+
+E. TB DOTS Referring Hospital (TDRH) —— an engaged hospital that has a functional system of ensuring that presumptive TB and diagnosed TB cases are successfully referred to other DOTS facilities. 
+
+F. Presumptive TB— any person whether adult or child with signs and/or symptoms suggestive of TB whether pulmonary or extra—pulmonary, or those with chest x—ray ﬁndings suggestive of active TB. 
+
+G. Presumptive Drug Resistant-TB (DRTB) —— any person, whether adult or child, who belongs to any of the DR-TB high-risk groups: such as re~treannent cases, new TB cases that are contacts of conﬁrmed DR-TB cases or non-converter of Category 1, and people living with HIV with signs and symptoms of TB. 
+
+H. TB disease/TB case —— a presumptive TB case who after clinical and diagnostic evaluation is conﬁrmed to have TB. Based on bacteriological conﬁrmation, these includes the following: 
+
+ 
+-Bacteriologically conﬁrmed - a TB patient from whom a biological specimen is positive by smear microscopy, culture or rapid diagnostic tests (such as Xpert MTB/RIF). 
+
+-Clinically diagnosed - a TB patient who does not fulﬁl the criteria for bacteriological conﬁrmation but has been diagnosed with active TB by a clinician or other medical practitioner who has decided to give the patient a full course of TB treatment. This deﬁnition includes cases diagnosed on the basis of x—ray abnormalities or suggestive histology, and extra-pulmonary cases without laboratory conﬁrmation. 
+
+I. Childhood TB — is TB disease! TB case in any person who is less than 15 years old. 
+
+J. Internal referral system — a system of referral within a hospital er clinics (e.g. a multi- specialty or polyclinic). This involves referral from the wards, outpatient department or other departments to the hOSpital TB team. 
+
+K. External Referral system process of referral from one health facility to another facility or institution (e. g. hospital to health center, health center to PMDT facility, jail to health center) 
+
+GENERAL GUIDELINES: 
+
+A. In accordance with public and private collaboration policy of DOH, the NTP shall ensure that all hospitals, whether public or private, will adopt the NTP strategy, policies and guidelines as provided in the 2010 .... 2016 Philippine Plan of Action to Control TB and the NTP Manual of Procedures 5th edition. 
+
+B. Hospitals shall participate in the national efforts to control TB either as (a) TB— DOTS referring hospital (TDRH) or (b) TB-DOTS providing hospital (TDPH) depending on its capacity. Cases that could not be managed by the TDRH shall be . ' properly referred to other DOTS facilities using the NTP referral form. 
+
+C. DOH, through NTP, shall provide the necessary logistical support Within its capacity including but not limited to anti-TB drugs and laboratory supplies, recording and reporting fonns and PPD reagents. 
+
+D. Hospitals shall organize and support a hospital TB team composed of at least a physician, nurse and medical technologist who will coordinate and manage the hospital TB DOTS program. 
+
+E. All hospital providing TB diagnostic services whether microscopy, Xpert MTB/RIF, TB culture and others shall participate in the quality assurance system managed by the National TB Reference Laboratory of the Research Institute of Tropical Medicine through the local government unit. 
+
+F. All TB cases seen by the hospitals shall be diagnosed and managed in accordance with the policies and guidelines contained in the NTP Manual of Procedures to ensure patient-centered TB services. 
+
+G. All TB cases diagnosed and treated at the hospitals shall be reported to the NTP through channels. 
+
+H. All hospitals shall maintain NTP records and submit reports that provide information on TB cases seen at the hospital and their ﬁnal disposition. 
+
+VI. SPECIFIC GUIDELINES 
+
+A. Organizing, maintaining. and sustaining TB-DOTS in the hospitals; 1. Start TB—DOTS in hospitals. 
+
+a. The DOH regional TB team, in coordination with provincial and city TB coordinators, shall: 
+
+i. Conduct situational assessment 
+
+ii. Talk with hospital management to get its support 
+
+iii. Facilitate organization of hospital TB team 
+
+iv. Ensure participants of hospitals through a memorandum of understanding between DOH-Regional Office (DOH-R0) and hospital 
+
+v. Assist in developing hospital plan and policies on TB management 
+
+vi. Facilitate provision of logistics such as drugs, laboratory supplies and forms 
+
+vii. Do internal advocacy to hospital staff 
+
+viii. Conduct capability—building activities such as integrated TB-DOTS and Direct
+Sputum Smear Microscopy (DSSM). 
+
+ix. Help in planning for enablers for patients and providers 
+
+x. Put NTP recording and reporting system in place 
+
+b. Hospital TB team shall have the following fuctions: 
+
+i. Collaborate and coordinate with DOH-ROS, LGUs, NGOs, other government offices and other partners to ensure hospital policy development, capability- building, functional referral system and availability of logistics 
+
+ii. - Assist the Hospital Head in overseeing the management of hoSpital—based TB- DOTS 
+
+iii. Develop annual plan with budgetary requirement and ensure integration in the hospital plans, programs and budget. 
+
+iv. Facilitate development, issuance and dissemination of hospital TB policies and guidelines. 
+
+v. Ensure continuous capability-building of hospital staff on TB. 
+
+vi. Establish a ﬁmctional two—way referral system among the hospital and health centers and private clinics. 
+
+vii. Ensure continuous availability of logistics. 
+
+viii. Develop mechanism/s to ensure patient’s compliance to referral and treatment. 
+
+ix. Monitor and supervise hospital staff compliance to TB policies and procedures. it. Submit necessary reports to hospital management and to the Provincial or City Health Ofﬁces (PHO/CHO). 
+
+c. Additional tasks for hospital TB team in TDPH should be the following: 
+
+i. Register, treat and report TB cases. 
+
+ii. Monitor outcome of treatment. 
+
+iii. Set-up a mechanism for contact investigation and defaulter tracing mechanism (either by the hospital staff or health centers) 
+ 
+
+2. Establish/ Strengthen the hospital TB referral system 
+
+a. Internal referral system: 
+
+i. All hospital units involved in TB diagnosis and treatment such as the OPD wards, pharmacy, radiology, laboratory, etc. shall participate in the TB referral system 
+
+ii.  All identiﬁed presumptive TB shall undergo diagnostic tests such as DSSM, Xpert MTB/RIF, radiology based on the policies of NTP and in accordance with the hospital procedures. 
+
+iii. Diagnosed TB cases, whether from the OPD or ward, shall be referred to the hospital TB team using the internal TB referral form developed by the hospital. 
+
+v. TB patient shall start TB treatment at the hospital based on the agreement with the PHD/CHO. 
+
+iv. TB team shall evaluate the referred TB patient and jointly decide whether the patient will be treated in the hospital or referred to other DOTS facility.
+
+vi. TB team shall give a feedback to the referring unit. 
+
+
+
+b. External referral system shall be referred: 
+
+i. All TB cases shall be referred to a DOTS facility that is most convenient to the patient. 
+
+ii. Hospital TB team shall ﬁll—up an NTP referral form, attach the necessary documents and advise patient to go to the DOTS facility. 
+
+iii. Receiving DOTS facility shall provide a feedback to the referring hospital either through sending back the referral return slip, Short Message Service (SMS), telephone call, email or mail. 
+
+iv. Receiving DOTS facility shall register patient and report to NTP through channels. 
+
+v. Shall trace and retrieve patients lost during the referral process within ﬁve working days. 
+
+
+3. Improving TB services to TB patients 
+
+a. Diagnosis: 
+
+i. Presumptive TB cases should be identiﬁed among those consulting the hospital 
+
+ii. All presumptive TB identiﬁed shall undergo basic diagnostic work—up based on the NTP case ﬁnding algorithm except in cases where patients are seriously-ill or with other co-morbidities. 
+
+iii. Diagnosis is TB case based on NTP classiﬁcation, shall be as follows: anatomic site (pulmonary or extra-pulmonary), bacteriologic status (bacteriologically conﬁrmed or clinically diagnosed) and history of treatment (new or retreatment). See table below on NTP classiﬁcation compared to ICD1O classiﬁcation. 
+
+
+ <image>table_1.png</image>
+ <image>table_2.png</image>
+ <image>table_3.png</image>
+
+
+
+ 
+
+iv. Hospitals providing TB diagnostic examination shall participate in the QAS of Research Institute of Tropical Medicine-NTRL in coordination with the local government units. 
+
+v. Per Department Memorandum No. 2011—0218 of DOH, use of TB Diagnostic Committee is optional . 
+
+b. Treatment: 
+
+i. Treatment of diagnosed TB patients shall be initiated using a treatment regimen based on the registration group in accordance with NTP policies and guidelines. At least four drugs in ﬁxed dose combination shall be given to patients under supervision by a treatment partner. 
+
+ii. The following inpatient can access NTP drugs; (a) bacteriologically conﬁrmed; (b) seriously-ill clinically confirmed; (c) will require prolonged hospitalization; and ((1) those that will be registered in the hospital TB clinic. — 
+
+iii. Those who initiated treatment at the ward, upon discharge, shall be properly referred and given at least one week supply of anti-TB drugs. 
+
+iv. Hospital TB team of TDPH shall issue NTP ID card to patient, open a treatment card and register patient in the drug susceptible TB register. 
+
+v. Cohort analysis of patients being managed by the hospital shall be conducted to determine treatment outcome. 
+
+c. Counselling: 
+
+i. Hospitals shall provide key TB messages to all TB patients before and during treatment. 
+
+d. Contact investigation 
+
+i. Close contacts investigation shall be. conducted especially household members of TB patients being managed in the hospitals. 
+
+e. Referral of presumptive DR-TB: 
+
+i. Presumptive DR—TB shall be referred to a DOTS facility with PMDT services nearest the patient’s home or place of work using the NTP referral form. 
+
+
+4. Ensuring sustainability of the hospital TB DOTS program 
+
+Ensure sustainability of DOTS services through; 
+
+a. Provision of budgetary support by the hospital to the program and mobilizing other resources. 
+
+b. Incorporation of TB DOTS training in the pre-service and other hospital training programs. 
+
+c. Monitoring of different hospital units” compliance to hospital policies and guidelines on TB DOTS. 
+
+d. Coordination with the PHOs/CHOS and health centers
+
+e. Assessment of program implementation and identifying leakages in the referral system. 
+
+f. Certiﬁcation and Philhealth Accreditation (see Annex A. DOTS Certiﬁcation Standards) to avail of the PhilI-Health outpatient beneﬁt package. 
+
+5. Monitoring and evaluation of hospital TB DOTS program 
+
+a. Hospital TB DOTS shall be included in the NTP monitoring, conduct of program implementation review and periodic program evaluation. 
+
+b. The following indicators shall be analyzed: total number of TB cases contributed by the hospital, intra-hospital referral rate, external referral acceptance rate and treatment success rate. 
+
+B. Recording and reporting; 
+
+1. All hospitals shall maintain the following records and submit the following reports: 
+
+a. Presumptive TB master list 
+
+b. NTP Laboratory Request Form 
+
+c. NTP laboratory register (Microscopy and GX) 
+
+d. Hospital TB Referral Logbook 
+
+e. Quarterly report on TB Microscopy and GK Examinations 
+
+f. Quarterly report on EQA for TB Microscopy 
+
+g. Quarterly report on Hospital TB Referral 
+
+2. TDPH shall maintain additional records and reports that are in the NTP MOP 
+
+a. TB Treatment/IPT card and NTP ID Card 
+
+b. Drug susceptible TB register 
+c. Quarterly report on case ﬁnding on all TB cases and IPT 
+d. Quarterly report on Treatment outcome of drug susceptible TB cases 
+
+C. Logistics management: 
+
+1. Hospitals shall submit quarterly report on drug inventory and requirements and request to PHO/CHO and who in turn shall submit to DOH RO. 
+
+2. NTP shall procure and provide logistics such as but not limited to drugs, laboratory supplies and PPD in accordance with MOP and available resources. 
+
+3. NTP shall provide logistics to hospitals through the DOH-ROS, PHOs and CHOs except for the retained DOH hospitals in the National Capital Region that shall be given directly by NTP. 
+
+4. TB drugs and laboratory supplies provided by the NTP shall not be included in the charges to the patients by private facilities. 
+
+D. Infection Control 
+
+Provisions for TB infection control as stated in the “Guidelines for TB infection control” shall be incorporated in the infection control program of the hospitals. 
+
+ 
+E. Roles and responsibilities: 
+
+1. Hospitals shall: 
+
+a. Organize and support the hospital TB team. 
+
+b. Develop and implement plans and policies on TB-DOTS. 
+
+c. Establish and maintain the internal and external TB referral System. 
+
+d. Provide services to TB patients according to national policies and international standards. 
+
+e. Inform the receiving DOTS facility of the incoming TB referral. 
+
+f. Coordinate with the DOH through DOH RO. 
+
+g. Monitor/ supervise implementation of DOTS. 
+
+h. Participate in the assessment of hospital TB-DOTS implementation. 
+
+i. Maintain NTP records and submit quarterly reports to CHO/PHO. 
+
+j. Mobilize resources. 
+
+
+2. Department of Health 
+
+a. National Center for Disease Prevention and Control shall: 
+
+
+i. Oversee the entire DOTS implementation in the hospitals. 
+
+ii. Formulate and issue policies and guidelines on TB control including hospital involvement in TB control. 
+
+iii. Provide logistical support such as the anti—TB drugs, laboratory supplies and basic NTP forms. 
+
+iv. Coordinate regular program monitoring, review and planning.
+
+v. Coordinate with other DOH units and other partners. 
+
+
+
+b. Health Facility Development Bureau shall: 
+
+i. Assist in providing technical support to the participating hospitals. 
+
+ii. Participate in the monitoring and evaluation of the program. 
+
+iii. Provide resources to public hospitals. 
+
+Health Facilities and Services Regulatory Bureau shall: 
+
+i. Incomorate TB indicators in the assessment tool for inspection and monitoring of hospitals and ensure compliance of hospitals. 
+
+d. National TB Reference Laboratory, RITM shall: 
+
+i. Ensure that all TB laboratories in the hospitals are participating in EQA.
+
+ii. Provide technical assistance on TB bacteriological diagnostic tests.
+
+iii. Participate in monitoring and evaluation. 
+
+e. DOH Regional OfﬁCe— thru the Regional TB Team shall. 
+
+i. Oversee TB—DOTS implementation 1n the hospitals located 1n their region. 
+
+ii. Assist in the establishment of hospital— based DOTS. 
+
+iii. Provide technical support including training to the hospitals. 
+
+iv. Ensure that provincial/city QA centers are implementing the EQA regularly. 
+
+v. Manage logistical support to hospitals. 
+
+vi. Participate in monitoring and program review. 
+
+vii. Coordinate with various PHOs/CHOs. 
+
+3. Philippine Health Insurance Corporation 
+
+a. Shall monitor compliance of the hospital with Philhealth accreditation standards and post-audit of case rate claims ﬁled for TB. 
+
+4. Local Government Units (Provincial/City Health Ofﬁce) shall: 
+
+a. Provide technical support to the hospital. 
+
+b. Conduct EQA of DSSM. 
+
+c. Receive, allocates and distribute logistics. 
+
+d. Facilitate participation of health centers in the referral system. 
+
+e. Participate in the monitoring and assessment of hospital DOTS implementation. 
+
+f. Submit quarterly reports to the region. 
+
+
+5. DOTS facilities (other than hospitals) shall: 
+
+a. Do DSSM for presumptive TB referred by the hospitals. 
+
+b. Receive, evaluate and manage TB cases referred by hospitals. 
+
+c. Provide feedback to the hospital. 
+
+d. Help trace patients lost during referral. 
+
+e. Submit reports to NTP through channels.  
+
+VI. REPEALING CLAUSE 
+
+Provisions of AO 140 s. 2004 and all other issuances that are inconsistent with the provisions of this A0 are repealed or modiﬁed aCcordingly. 
+
+VII. EFFECTIVITY 
+
+The issuance shall be effective ﬁfteen ('15) days after publication to the ofﬁcial gazette or a newspaper of general circulation as required in compliance to Section 4, Chapter 2, Book VII, Administrative Code of 1987. 
+
+
+</body>
+
+<sign>JANETTE P. LORETO-GARIN, M.D., MBA-H</sign>
+<signtitle>Acting Secretary of Health</signtitle>
+ 
+
+Annex A: DOTS Certiﬁcation Standards 
+
+Goal: The TB DOTS Center provides a safe and effective physical environment to its staff and patients. 
+
+Standard 1: The TB DOTS center is easily located and patients have convenient and safe access to the center. 
+
+Standard 2: The TB DOTS center provides for the privacy and comfort of its patients ' and staff. 
+
+Standard 3: The TB DOTS center provides forthe safety of its patients and staff. 
+
+Goal: Patients receive adequate and effective diagnostic and therapeutic services at every phase of their management from screening for TB to rehabilitation. 
+
+Standard 4: Patients receive adequate and effective diagnostic and therapeutic services at every phase of their management from screening for TB to rehabilitation. 
+
+Standard 5: All patients have continuous access to acourate and reliable TB diagnostic tests. 
+
+Standard 6: A care plan is developed and followed for all patients. Standard '7: Patients have continuous access to safe and effective anti-TB medications - throughout the duration of their treatment. 
+
+Goal: The management and staff adhere to clear and collaboratively developed policies and procedures for the efficient operation of the TB DOTS center. 
+
+Standard 8. Policies and procedures for providing care to patients are developed, disseminated, implemented and monitored for effect 
+
+Standard 9: Policies and procedures for managing patient information are developed, disseminated, implemented and monitored for effectiveness. 
+
+Goal: The TB DOTS center staff provide efﬁcient and competent DOTS services. 
+
+Standard 10: The TB DOTS Center has an adequate number of qualiﬁed personnel skilled in providing DOTS services. 
+
+

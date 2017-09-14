@@ -1,0 +1,101 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Bldg. 1, San Lazaro Compound, Sta. Cruz, Manila 1003 
+Tel:743—8301; e-mail:info@doh.gov.ph; website:www.doh.gov.ph 
+
+<date>29 July 2008</date>
+<docnum>No. 2008 -0025 </docnum>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<subject>SUBJECT: Guidelines on the Implementation of the Integrated Druq Test Operations and Manaqement Information System (IDTOMIS) for Screening and Confirmatory Drug Test Laboratory Operation</subject>
+
+
+<body>
+I. BACKGROUND/RATIONALE 
+
+The enactment of Republic Act No. 9165 or “The Comprehensive Dangerous Drugs Act of 2002” mandated the Department of Health (DOH) to oversee the operation of Drug Testing Centers. An interim system called Drug Test Operation and Management Information System has been implemented since 2003 using the DOH’s existing infrastructure. In 2004, the DOH received a grant from the e-government fund to computerize the Integrated Drug Test Operations and Management Information System (IDTOMIS). 
+
+The IDTOMIS aims to establish an Information and Communications Technology (ICT) solution for efficient and effective accreditation of drug testing laboratories and related facilities, monitoring and quality assurance of drug test operations, integration with rehabilitation centers, sharing and retrieval of relevant information for decision-making and policy formulation of various agencies using drug testing data. 
+
+As approved by the Dangerous Drugs Board in Board Regulation No. 8, series of 2007 titled ‘Amending Board Regulation No. 2, series of 2003 entitled “Implementing Rules' and Regulations Governing Accreditation of Drug Testing Laboratories in the Philippines”,’ specifically Section 3, which states that “The Laboratory shall have access to and utilize the IDTOMIS IDTOMIS is hereby adopted for implementation until such time as need arises to revise the system and as determined by the DOH and approved by the DDB. 
+
+II. OBJECTIVES 
+
+This order sets the guidelines in the implementation and operation of IDTOMIS. 
+
+III. SCOPE AND COVERAGE 
+
+This Order shall apply to all the Drug Test Laboratories/Centers, the Department of Health, including its Centers for Health Development (CHD) and Retained Hospitals and the Agency Data Beneficiaries. 
+
+IV. DEFINITION OF TERMSIACRONYMS 
+
+For purposes of this Order, the following terms are defined as follows: 
+
+1. ADB — Agency Data Beneficiaries are the Government Agencies which are members of the Dangerous Drug Board and other entities, as may be determined by the Department of Health and the Dangerous Drugs Board. 
+
+2. BHFS — refers to the Bureau of Health Facilities and Services, which is the regulatory arm of DOH for DTLs 
+
+3. CHD — refers to the Center for Health Development, the DOH field offices that serves as the frontline support for the implementation of lDTOMIS 
+
+4. CO — refers to the Department of Health Central Office 
+
+5. COA — refers to the Certificate of Accreditation provided to duly accredited DTLs 
+
+6. DDB —- refers to the Dangerous Drugs Board, the policy-making and strategy-formulating body in the planning and formulation of policies and programs on drug prevention and control. 
+
+7. DTL/DTC — refers to Drug Test Laboratories/Drug Test Centers that apply for either a License to Operate (Hospital—Based) or a Certificate of Accreditation. These are the entities responsible for using the IDTOMIS software. 
+
+8. DTK -— refers to Drug Test Kits used in DTL operations 
+
+9. DTOMIS — refers to the interim Drug Test Operation and Management Information System which automates the Screening and Confirmatory operations of DTLs 
+
+10. DTR — refers to Drug Test Report, used by both government and private institutions (e.g. driver’s license, permits, COMELEC, employment, etc.) 
+
+11. IDTOMIS — refers to the Integrated Drug Test Operation and Management Information System, that automates the processes from accreditation, drug test and rehab operations, quality assurance and monitoring 
+
+V. GENERAL GUIDELINES and SCHEDULE OF IMPLEMENTATION 
+
+1. Effective September 22, 2008, all Drug Test Laboratories nationwide shall use the lDTOMIS. Required works on system orientation and biometric registration shall be undertaken by the CHD's Technical Support. Downloading and installation of IDTOMIS software shall be undertaken by the DTLS. 
+
+2. All accredited/licensed DTLs whether initial or renewal shall undergo a registration process for their DTL personnel (Laboratory Analyst). The biometric ID shall be captured by the IDTOMIS. Please refer to Guidelines on the Implementation of the Integrated Drug Test Operations and Management Information System (lDTOMlS) for Drug Test Laboratories. 
+
+3. The CHD’s trained personnel on IDTOMISshall extend support in the implementation of the system. 
+
+VI. IMPLEMENTING GUIDELINES 
+
+The implementing guidelines for this Order are grouped into three major categories, specific details are incorporated here as annexes and can be downloaded in the IDTOMIS website https://www.idtomis.doh.gov.ph/idtomis/login.jsp. Major categories are as follows: 
+
+A. Implementing Procedure for Drug Test Centers. This describes the important Drug Testing Operations and Accreditation activities affected by the implementation of the IDTOMIS. 
+
+B. IDTOMIS Screening and Confirmatory Drug Test Operation User’s Manual. This provides step-by-step procedures in using the IDTOMIS software by the DTLs. 
+
+C. Terms and Conditions for IDTOMIS Software Use. This is an agreement between the CHD and the DTL in using the IDTOMIS. It defines the required manpower and other resources needed to implement the system. 
+
+VII. VIOLATIONS AND SANCTIONS 
+
+DTLs found violating any of the provisions or statements defined in this Administrative Order shall be subjected to appropriate sanctions. Violations and sactions are as follows: 
+
+<image>table_1.png</image>
+<image>table_2.png</image>
+
+If upon survey, monitoring or verification with the IDTOMIS the drug testing laboratory is found to be violating the herein rules and regulations, the BHFS may preventively suspend the operation of the said laboratory and may order the immediate cessation of its operation. Preventive suspension shall not be more that sixty (60) days. 
+
+VIII. REPEALING CLAUSE 
+
+Provisions of previous issuances, which are contrary or inconsistent with those provided in this Order are hereby rescinded and modified accordingly. 
+
+IX. SEPARABILITY CLAUSE 
+
+If any provisions in these Guidelines, or application of such provision to any circumstance, is held invalid, the remainder of these Guidelines shall not be affected thereby. 
+
+X. EFFECTIVITY 
+
+This Order shall take effect fifteen (15) days after its approval and publication in the official gazette or newspaper of general circulation. 
+</body>
+
+<sign>FRANCISCO DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle> 
+
+
+ 
+*For the Manual please refer to the AO

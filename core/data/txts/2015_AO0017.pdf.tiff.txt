@@ -1,0 +1,227 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>05/06/2015</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2015 - 0017 </docnum>
+<subject>SUBJECT: Guidelines on the Use of National Database of Human Resources for Health Information System (NDHRHIS) </subject>
+<body>
+
+
+
+I. RATIONALE 
+
+By virtue of Executive Order No. 102 s. 1999, the Department of Health was mandated to be the “lead agency in ensuring equity, access and quality of health care services through policy formulation, standards development and regulations” and to “formulate national policies and standards for health ”. 
+
+In the same manner, by virtue of Republic Act No. 4226 “An Act Requiring the Licensure of all Hospitals in the Philippines and Authorizing the Bureau of Medical Services to serve as the Licensing Agency”, the Department of Health through its licensing bureau was ‘ mandated “to keep a permanent register of approved hospitals or those issued licenses to operate indicating the name of the hospital, address or location, type of hospital, name of the director or administrator, ownership, number of authorized beds and bassinets and such other pertinent data as may be necessary.’ In July 18, 2012, Administrative Order No. 2012-0012 “Rules and Regulations Governing the New Classiﬁcation of Hospitals and Other Health Facilities in the Philippines” has required all hospitals and other health facilities to have a non-medical support unit which includes an Information Management Unit. The hospital information management unit is responsible for collection and aggregation of relevant data for the timely and efﬁcient delivery of health services. Further, pursuant to AO 2012-0012, all hospitals and health facilities shall submit data/information as may be required by DOH through the Health Facilities and Services Regulatory Bureau (HFSRB) for purposes of research, standards, setting, improving access to quality health services and others. 
+
+Therefore, in fulﬁlment of these mandates, the Health Human Resource Development Bureau shall utilize the National Database of Selected Human Resources for Health Information System (NDHRHIS), a web-based system to facilitate the collection of data on human resources for health - (HRH) from hospitals and other health facilities. The NDHRHIS data are aggregated to produce statistical reports that can be used for HRH planning and management, policy development and research. In addition, such data is needed to determine the location, distribution and skill mix of HRH to be deployed to complement existing HRH at all levels of the health care system. 
+
+This Administrative Order aims to strengthen the NDHRHIS Data Collection System and establish a more accurate and reliable database of HRH as a tool for planners and managers to support the achievement of Universal Health Care. 
+
+II. OBJECTIVES 
+
+General: To provide a guide for the mandatory use of NDHRHIS-Based Data Collection System in all hospitals and other health facilities. 
+
+Speciﬁc: 
+
+1. To establish a mechanism of HRH data collection from hospitals and other health facilities; 
+
+2. To establish a process on the use of NDHRHIS by all health facilities, both public and private, at all levels of the health care system. 
+
+3. To include the use and regular updating of the NDHRHIS as one of the requirements for facility licensing 
+
+III. SCOPE 
+
+This Order shall apply to: 1) Hospitals and other health facilities that are licensed by the DOH; 2) FDA-licensed pharmacies and drugstores; 3) Local Government Unit (LGU)-owned/0perated health facilities (provincial and district hospitals, and ProvincialfMunicipal/City Health Ofﬁces/Rural Health Units); 4) Health facilities owned and operated by other National Government Agencies or offices (e.g., clinics, school clinics, medical departments, etc); 5) DOH Ofﬁces and attached agencies (central ofﬁce and regional ofﬁces, NNC, PHIC, FDA, POPCOM, PITAHC); and, 6) Health facilities owned and operated by private corporations (e.g., company clinics, Health Maintenance Organizations , etc.), that employ health professionals. 
+
+IV. DEFINITION OF TERMS AND ACRONONYMS 
+
+The terms and acronyms as used in this AO are deﬁned as follows: 
+
+A. Health Facilities and Services Regulatory Bureau (HFSRB) — a unit of the DOH Central Ofﬁce that sets the standards for regulation of health facilities and services and issues permits license to operate, clearance to operate and certiﬁcates of accreditation. 
+
+B. Bureau of Local Health Systems Development (BLHSD) — a unit of the DOH Central Ofﬁce that supports decentralization of health services at various level of health care system and provides assistance to improve the health management capacities at the sub-national and local levels in order to ensure effective delivery of quality health services. 
+
+
+C. Food and Drug Administration (FDA) — a regulatory agency under the DOH, created under Republic Act No. 9711 otherwise known as “The Food and Drug Administration Act of 2009”. Its primary function is to issue certiﬁcates of compliance and appropriate authorization regarding operation of manufacturers, importers, exporters, distributors, wholesalers, drug outlets, and other establishments and facilities of health products. 
+
+D. Health Human Resource Development Bureau (HHRDB) — a unit of the DOH Central Ofﬁce mandated to ensure the quality of training and health human resource development at all levels of the health care system. 
+
+E. Health Professionals — deﬁned by the Commission on Higher Education (CHED) as the following cadres of professionals: physicians, nurses, midwives, dentists, medical technologists, nutritionist-dieticians, pharmacists, physical therapists, occupational therapists, respiratory therapists, x—ray technicians and radiologic technologists, and speech pathologists. 
+
+F. Knowledge Management and Information Technology Service (KMITS) - a unit of the DOH Central Ofﬁce that develops and manages the management information systems, the information technology infrastructure and services, health information resources, and library services for the DOH. 
+
+G. National Nutrition Council (NNC) — is mandated by law as the country’s highest policy-making and coordinating body on nutrition. 
+
+H. Philippine Health Insurance Corporation (Philhealth) - is a tax-exempt Government Corporation attached to the DOH. As mandated by RA 10606, it shall determine requirements and accredit health care providers and negotiate and enter into contracts with health care institutions for the ﬁnancing and delivery of health services in behalf of its members. 
+
+I. Philippine Institute of Traditional and Alternative Health Care (PITAHC) —— is a DOH-attached government corporation that aims to provide and deliver to people, especially the poor sector, the traditional and alternative health care products, services and technologies that have been proven safe, effective and affordable. 
+
+J. Population Commission (POPCOM) — is a government agency mandated as the over-all coordinating, monitoring and policy-making body of the population program. It is the lead agency promoting population activities. 
+
+K. Local Government Unit (LGU) - (adopted from NSCB) Local Government refers to the political subdivisions established by or in accordance with the Constitution. The ﬁve (5) political subdivisions of the LGU are: 1) Region, 2) Province, 3) City, 4) Municipality, and 5) Barangay. 
+
+L. National Government Agencies (NGAs) — (adopted from Administrative Code of 1987) 
+
+a. National Government refers to the entire machinery of the central government, as distinguished from the different forms of local governments. 
+
+b. Agency of the Government refers to any of the various units of the Government, including a department, bureau, ofﬁce, instrumentality, or government-owned or controlled corporations, or a local government or a distinct unit therein. 
+
+M. DOH Regional Ofﬁces - are responsible for the ﬁeld operations of the Department of Health in its administrative region and for providing the region with efﬁcient and effective health and medical services. They shall provide technical assistance to all DOH—retained medical centres, regional hospitals, sanitaria, provincial health ofﬁces and city health ofﬁces that are located in their respective region. 
+
+N. Hospital — a place devoted primarily to the maintenance and operation of health facilities for the diagnosis, treatment and care of individuals suffering from illness, disease, injury, or deformity or in need of obstetrical or other surgical, medical, and nursing care. It shall also be construed as any institution, building or place where there are installed beds, cribs or bassinets for 24-hour use or longer by patients in the treatment of diseases. 
+
+O. Other Health Facilities as categorized in AO No. 2012-0012 
+
+P. Local Health Information System (LHIS) — a system developed by BLHSD and KMITS that aims to establish an efﬁcient system for health data gathering, analysis, and utilization for local health systems development. 
+
+Q. Philippine Health Information Exchange (PHIE) —— is the electronic transfer of health information among participating health providers involved in the treatment and care of patients, in the interest of public health. 
+
+V. GENERAL GUIDELINES 
+
+A. All public and private hospitals and other health facilities under the scope of this Administrative Order, that employ at least one or several types of health professionals, shall participate and register as facility users in the NDHRHIS- based Data Collection System. 
+
+B. All hospitals and other health facilities shall regularly update the data on HRH personnel complement which includes: 1) name, sex, date of birth; 2) PRC license number; 3) profession; 4) specialty; and, 5) status of employment. These data are to be encoded in the web-based NDHRHIS (or in any DOH-based information system linked to the NDHRHIS). 
+
+C. A complete and updated HRH personnel data, as required by NDHRHIS, shall be included as a requirement for the licensure and/or renewal of license or accreditation of health facilities by DOH and PhilHealth, and registration of drugstores by FDA. 
+
+D. The terms, acronyms and classiﬁcation relative to licensed hospitals and other health facilities shall follow the deﬁnitions as stated in A0 No. 2012-0012 “Rules and Regulations Governing the New Classiﬁcation of Hospitals and Other Health Facilities in the Philippines”. 
+
+E. There shall be coordination between and among DOH ofﬁces and other government agencies for the regular collection and updating of the NDHRHIS. 
+
+VI. SPECIFIC GUIDELINES 
+
+A. National System Administrator 
+
+1. The DOH HHRDB shall act as the National System Administrator, and shall have the following responsibilities: 
+
+a. Coordinating HRH data collection from DOH Regional Ofﬁces and various sectors and stakeholders, such as national government agencies and their regional ofﬁces, professional organizations, DOH Central Ofﬁce units, and attached agencies. 
+
+b. Providing technical assistance to facility users, encoders, regional ofﬁces and other individuals on the use of the NDHRHIS, its features, means of accessing the system, viewing statistical reports and other needs. 
+
+c. Data encoding from national level facilities/ofﬁces/associations whenever on- line encoding in the NDHRHIS is not feasible. 
+
+d. Coordinating with KMITS for maintenance of system software and hardware, data back-ups in the server, data cleansing, data validation and other data management activities. 
+
+B. Modes of Data Collection 
+
+1. On-line registration and encoding 
+
+a. Health facilities with internet access shall be required to register online and use the web-based NDHRHIS (refer to the user-friendly instructions ) 
+
+b. A printed registration and log-in summary from the NDHRHIS website shall be included as one of the documentary requirements for the licensing, andfor renewal of licenses of concerned health facilities. 
+
+2. Manual Registration and encoding a. Health facilities without internet access shall be required to accomplish the NDHRHIS matrix (see Annex 1) 
+
+b. The accomplished NDHRHIS matrix of the health facilities shall be submitted to the HHRDB for encoding into the system 
+
+C. Monitoring and Evaluation 
+
+1. HHRDB shall conduct an annual inventory of NDHRHIS facility users with reference to the total licensed facilities by HFSRB, and a semestral monitoring of facility users who have updated their HRH data in the NDHRHIS O 5 
+
+2. Data validation shall be conducted through the following: 
+
+a. Annual list of licensed hospitals and other health facilities by HFSRB
+
+b.  Annual list of registered drugstores by the FDA 
+
+c. Report on HRH complement in health ofﬁces and rural health units as reﬂected in the LGU scorecard and the Local Health Information System 
+
+d. List of HRH complement in Philhealth-accredited health facilities 
+
+e. Quarterly updates from the HRH Network Phils. member agencies 
+
+3. The National System Administrator shall utilize a standard monitoring tool 
+
+VII. ROLES AND RESPONSIBILITIES 
+
+A. HHRDB shall: 
+
+Perform all responsibilities as the National System Administrator and central repository of HRH database 
+
+1. Allocate funds to support the provision of technical assistance and necessary system enhancements 
+
+2. Make available HRH data and NDHRHIS reports to policy-makers, researchers, decision—makers and other stakeholders to promote an evidenced-based HRH management in the country 
+
+3. Facilitate the sharing of NDHRHIS aggregated data to the HRH integrated database system of the HRH Network Philippines and other related information systems 
+
+4. Monitor the use of the NDHRHIS and the implementation of this Order 
+
+5. Advocate for the use of NDHRHIS to all health facilities and to various stakeholders. 
+
+B. HFSRB shall: 
+
+1. Include the updated NDHRHIS facility report as a requirement for licensing or renewal of license of health facilities. This may either be in the form of the NDHRHIS matrix or the log-in summary (provider list summary). 
+
+2. Provide an annual list of licensed hospitals and other health facilities to DOH HHRDB 
+
+3. Facilitate referral of health facilities requiring HHRDB technical assistance on the use of the NDHRHS-based data collection system 
+
+C. KMITS shall: 
+
+1. Provide the necessary information technology support to ensure accessibility of the NDHRHIS for 24 hours a day and 7 days a week. 
+
+2. Provide the following technical support for the NDHRHIS: 
+
+a. Protection of data and system security at all times 
+b. Advice on the need for system updates and/or enhancement. 
+c. Supervision of systems integration that impact on NDHRHIS 
+
+3. Support the harmonization of the NDHRHIS into the Philippine Health Information Exchange (PHIE). 
+
+D. DOH Regional Ofﬁce shall: 
+
+1. Include the updated NDHRHIS facility report as a requirement for licensing or renewal of license of health facilities, through the Regulation, Licensing and Enforcement Division (RLED). 
+
+2. Validate the existing hospitals and health facilities vis-a-vis the registered facility users in the NDHRHIS within their respective region. 
+
+3. Conduct advocacy activities to various facilities, ofﬁces, and organizations on the use of NDHRHIS-Based Data Collection System in their respective region. 
+
+4. Perform monitoring and evaluation activities in coordination with the National System Administrator. 
+
+E. FDA shall: 
+
+1. Recognize the NDHIU-IIS-updated data on pharmacists and other HRH complement / as a requirement for registration or renewal of registration of all drugstores 
+
+2. Provide an annual list of registered drugstores to DOH HHRDB 
+
+F. Philhealth shall: 
+
+1. Provide an annual list of Philhealth-accredited hospitals and other health facilities to DOH HHRDB at the end of each calendar year 
+
+2. Assist in the NDHRHIS data collection by sharing the HRH data from their Health Care Professional Accreditation database, through the Philippine Health Information Exchange (PHIE). 
+
+G. BLHSD shall: 
+
+1. Assist in the NDHRHIS data collection by submitting to DOH HHRDB the data on LGU HRH (physicians, nurses, midwives) from the Local Health Information System (LHIS) 
+
+
+H. HRH Network Phils. member agencies shall: 
+
+1. Advocate the use of the NDHRHIS in each of the member agency’s personnel department 
+
+2. Provide a venue for a regular presentation and updating of HRH database in the country. 
+
+3. Issue the necessary policy instruments to support the implementation of this Administrative Order. 
+
+VIII. REPEALING CLAUSE 
+
+All other issuances inconsistent with the provisions of this Order are hereby rescinded and modiﬁed accordingly. 
+
+IX. SEPARABILITY CLAUSE 
+
+If any provision of this order is declared unauthorized or rendered invalid by any court of law or competent authority, those provisions not affected thereby shall remain valid and effective. 
+
+X. EFFECTIVITY 
+
+This Order shall take effect after ﬁfteen (15) days following the completion of its publication in a newspaper of general circulation. 
+
+</body>
+<sign>JANETTE P. LORETO-GARIN, M.D., MBA-H</sign>
+<signtitle>Acting Secretary of Health</signtitle>
+
+ 
+
+<image>figure_1.png</image>
+

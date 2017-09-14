@@ -1,0 +1,21 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>31/1/1984</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 77, s. 1984</docnum>
+
+<subject>Subject: Implementing previous Administrative Orders issued regarding authorized ceiling of drugs and medicines that can be kept in stock by hospitals and sanitaria.</subject>
+
+<body>
+This order is being issued to further supplement Administrative Order No. 81, s. 1980 and the supplementing orders thereto, issued implementing Section 9, special Provisions of the Ministry of Health, Batas Pambansa Blg. 40, fixing the ceiling of drugs and medicines that can be kept in stock by hospitals and sanitaria at any given time including undelivered purchases so as to include Socorro Emergency Hospital, Socorro, Surigao del Norte, in the amount of P15,000.00
+	This ceiling hereby fixed is based on the submitted request/average quarterly consumption of drugs and medicines
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>
+

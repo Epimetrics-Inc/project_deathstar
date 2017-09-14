@@ -1,0 +1,22 @@
+﻿
+Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+<date>15/3/1982</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>no. 22 s. 1982</docnum>
+
+<subject>SUBJECT : Rescinding Adm. Order No.2-B dated July 31, 1981 
+designating the Don Juan Mayuga Memorial Hospital as the Provincial Hospital for Batangas</subject>
+
+       <body>Administrative Order No. 2-B dated July 30, 1981, designating the Don Juan Mayuga Memorial Hospital as the Provincial Hospital for Batangas province is hereby rescinded for further study and review of the criteria for selection of a more appropriate tertiary provincial hospital for the said province.
+
+       This Order takes effect immediately.
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>
+
+

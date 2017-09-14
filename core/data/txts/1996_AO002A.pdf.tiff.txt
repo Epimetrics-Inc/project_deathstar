@@ -1,0 +1,282 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+   
+
+SAN LAZARO COMPOUND 
+RIZAL AVENUE, STA. CRUZ
+MANILA, PHILIPPINES
+TEL NO. 711-60-80  
+
+<date>01/30/1996</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2-A s. 1996</docnum>
+
+<subject>SUBJECT: Requirements for the control of radiation hazards from dental x—ray facilities.</subject>
+
+<body>
+
+I. STATEMENT OF POLICY
+
+These requirements are promulgated for the purpose of ensuring the safety of  patients, dentists, x—ray/radiologic technologists and the general public from  the hazards associated with the use of dental x-ray machines pursuant to PD  480 (creation of Radiation Health Office in the Department of Health). As amended by PD 1372 and consistent with E.O 119 (Reorganization Act of the  Ministry of Health) and AO 124 s. 1992 (Rules and Regulations Governing the Establishment Operation and Maintenance of An X—ray Facility in the 
+Philippines). These requirements shall apply to all government and private x-ray facilities which operate dental x—ray units for diagnostic purposes.
+
+
+II. DEFINITION OF TERMS
+
+The following terms shall be deﬁned according to their application in dental medicine:
+
+2.1 Aluminum Equivalence means the thickness of aluminum affording the same attenuation under specified conditions as the material in question.
+
+2.2 Added filter means an aluminum or its equivalent material of specific thickness that is mounted on to the porthole of the tube housing for the purpose of beam filtration.
+
+2.3 Beam collimation means a process of limiting the size of the x-ray beam by using a fixed diaphragm.
+
+2.4 Beam filtration means a process of removing unwanted low energy photons from the primary beam by using aluminum of specific thickness or other material specified in aluminum equivalent thickness for a given range of tube operating voltages.
+
+2.5 Bitewing examination means the examination of the crown and neck to demonstrate interproximal cavities, early carries or other conditions confined to the crown and neck areas.
+
+2.6 Dead man switch means a switch so constructed that a circuit closing contact can be maintained by continuous pressure on the switch.
+
+2.7 Dental x-ray facilities means a facility using x- ray devices used for the diagnose of human dental diseases.
+
+2.8 Dental x-ray practitioner means a dentist certified by the Radiation Health Service to own and operate a dental x-ray clinic.
+
+2.9 X-ray/Radiologic Technologist means any individual licensed by  the ProfessIonal Regulations Commission to operate an x-ray machine.
+
+2.10 Diaphragm means a device that is fixed at the x—ray tube exit window or base of a pointed cone with a size such that it fits the diameter of the cone and the x-ray tube exit window
+
+2.11 Full-mouth radiographic examination means any dental x—ray examination consisting of panoramic radiography, cephalography or periapical film survey requring complete x-ray examination of the full structure of the mouth.
+
+2.12 Gray is the special name for the standard unit of absorbed dose equal to one joule per kilogram.
+
+2.13 Inherent filter refers to the x-ray tube window and any other permanent enclosure to the tube within the path of the primary beam.
+ 
+2.14 Intra-oral radiography means any dental x—ray examination consisting of occlusal, periapical and bitewing examination which necessitates the placement of film packets inside the mouth behind the set of teeth under examination.
+
+2.15 Lead equivalence means the thickness of lead affording the same attenuation under specified conditions as the material in question.
+
+2.16 Leakage radiation refers to all radiation coming from within the scores assembly except the useful beam.
+
+2.17 Occlusal or axial examination refers to the examination of the maxillary and mandibular arches to demonstrate the buccolingual relationship of the teeth, impaction, or gross trauma or pathology.
+
+2.18 Open ended cylinder is a device used for directing the beam to maintain a consistent source-to-skin distance, and to eliminate primary and secondary radiation not parallel with the useful beam.
+
+2.19 Panoramic x-ray examination means a dental x—ray technique that provides a full view of one dental arch upper or lower on one long, narrow film.
+
+2.20 Periapical examination is the examination of the entire tooth the alveolus and the surrounding alveolar structure to demonstrate the roots and lesions of local infections near the roots.
+
+2.21 Personal monitor means an appropriately sensitive device used to measure the radiation exposure received by an individual.
+
+2.22 Pointed cone is is device made from plastic material that is used as a pointing dance and for the purpose or maintaining a constant source-to-skin distance.
+
+2.23 Protective apron is an apron made of radiation absorbing material worn by both the patient and dental x—ray practitioner as a shield from radiation during x—ray examinations.
+
+2.24 Protective barrier is a barrier made of radiation absorbing material used by dental x-ray practitioner as a shield from x-radiation during x-ray examination.
+
+2.25 Radiation Safety Officer is a person duly authorized to ensure proper implementation of radiation safety programs in a dental x-ray clinic.
+
+2.26 Sievert is the special name for the standard unit of dose equivalent equal to one Joule per kilogram.
+
+2.27 Thyroid shield is a device made of radiation absorbing material for the purpose of protecting the thyroid from the hazards of radiation exposure during dental x-ray examination.
+
+2.28. Total filtration means the sum of the inherent and added filtration.
+
+
+III. ADMINISTRATIVE REQUIREMENTS
+
+3.1 Any person applying for an authorization to operate dental x-ray facility shall comply with the administrative requirements of AO 124, s. 1992.
+
+3.2 The owner/licensee shall ensure that the facility complies with the requirements set herein and other relevant standards rules regulations and policies issued by the Department of Health. 
+
+3.3 The owner/licensee shall provide radiation dose monitors to all radiation workers in the facility. He/she shall ensure that no radiation workers  in the facility shall exceed the dose limit of 20 mSv per year
+
+3.4 The head of the x-ray facility shall establish a duality control program for the x- fray facility in the Radiation Health Service of the Department of Health protocol on quality control. He has the responsibility to control all aspects of the conduct of the x-ray examination. He shall ensure that no unqualified person operates the x-ray equipment.
+
+3.5 The radiation safety officer shall be responsible for the conduct of radiation safety programs in the facility. He/She shall keep a record of occupational radiation doses received by the radiation workers in the facility. He/She shall also assists the owner/licensee to comply with the requirements set herein and other relevant standards, rules, regulations and policies issued by the Department of Health.
+
+
+IV. MANPOWER REQUIREMENTS
+
+4.1. All dental x-ray facilities shall be staffed by a licensed dental x—ray practitioner as deﬁned in this administrative order. He/she shall be authorized  to interpret dental radiographs, operate dental x—ray machines and process digital x-ray films.
+
+4.2. Each dental x—ray machine shall have at least one dental x—ray practitioner.
+
+4.3. In the absence of dental x—ray practitioner, a Radiologic Technologist duly licensed by the Professional Regulation Commission shall be hired to operate dental x—ray machines and process dental x-ray films.
+
+
+V. X-RAY MACHINE REQUIREMENTS
+
+5.1 Every x-ray tube used for dental radiography shall be enclosed in a  housing such that the exposure from leakage radiation measured at a distance of 1 meter from the source shall not exceed 25.8 microcoulomb/kg in one hour over 100 sq cm normalized to maximum current for continuous operation.
+
+5.2 Standard x-ray equipment designed for intra-oral radiography shall not be used for other radiographic work. If panoramic dental radiographs or other special projections are needed, the necessary specialized equipment shall be employed.
+
+5.3. X-ray equipment used for medical x-ray purposes shall not be used for dental radiography.
+
+5.4. Fluoroscopy with dental equipment shall not be used.
+
+5.5. The minimum permanent total filtration in the useful beam shall be determined by the maximum voltage specified for the tube in its housing. The permanent total filtration for normal diagnostic work in dental radiography shall be equivalent to not less than 1.5 mm Al at voltages up to and including 100 kV. At tube voltages above 100 kV the total filtration shall not be less than 2.5 mm Al.
+
+5.6. For intra-oral radiography, the maximum range of the exposure timer shall not exceed 5 seconds. The timer shall be capable of consistently reproducing the short exposure times needed for high speed film.
+
+5.7. The radiographic exposure switch shall be of the ”dead man” type. It shall have a circuit closing contact which can be maintained only by continuous pressure It snail 11th be possible to make repeat exposure without releasing the exposure switch.
+
+5.8. No radiation shall be detected when the timer is set to zero.
+
+5.9. A beam-on indicator shall be provided at the control panel to show whether or not radiation is being generated. It shall be functional at all times.
+
+5.10. The control panel shall include devices (labeled control dials push buttons and/or meters) for setting and/or indicating physical parameters (such as kVp, mA, exposure time, mAs) used for exposure.
+
+5.11. The actual kVp and mAs output shall be periodically checked by a qualified medical physicist or x—ray engineer.
+
+5.12. Every conventional dental x—ray equipment shall be provided with an exposure cord with length sufficient for the operator to maintain at least 2 meters distance from the tube and from the patient.
+
+5.13. Effective electrical grounding of the equipment shall be mandatory.
+
+5.14. Dental x-ray equipment shall have a stable tubehead. All brakes and locks shall be properly functioning.
+
+5.15. The diameter of the useful x-ray beam as determined by the beam defining device on the proximal skin surface shall not be greater than 7 cm. for dental x-ray units using a focal spot-skin distance of 18 cm or more nor 6. cm for dental x-ray units using a focal spot-skin distance of less than 18 cm.
+
+5.16 The focal spot-skin distance determined by the beam defining device shall not be less than 18 cm for dental x-ray units operating above 50 kVp and not less than 10 cm for dental x-ray units operating at 50 kVp and below.
+
+5.17 A beam defining device of the open ended type, constructed of metal to define the dimensions of the useful x-ray beam should be used.
+
+5.18 A pointed plastic cone attached to the end of the open ended beam defining device for the purposed of positioning the useful x-ray beam with respect to the area under examination shall be used only if the requirements of 4.15 and 4.16 are met. A pointed plastic cone attached directly to the x-ray tube head shall be used only if it includes a permanently mounted top diaphragm.
+
+
+VI. PHYSICAL REQUIREMENTS
+
+6.1. All proposed installations and new operations or changes in existing installations and operation of dental x-ray facilities should be examined at the design stage from the point of view of restricting the resulting occupational and general exposure.
+
+6.2. A well-ventilated, well lit, clean and safe x-ray room sufficient to accommodate its activities shall be provided.
+
+6.3. The walls and doors of the x-ray room shall be made of materials which will reduce radiation level to not greater than 2.5 microsievert per hour.
+
+6.4. Shielding materials such as lead shall be mounted in such a manner that they will not creep under their own weight. They shall also be protected against mechanical damage. When materials such as concrete are intended to provide radiation shielding, care shall be exercised to ensure that they are sufficiently homogeneous and have the specified composition and density. The density of concrete materials shall be 2.35 g/cc.
+
+6.5. Windows of radiation room shall be subjected to the same protection requirements as the adjacent part of the walls in which they are located. However, if the base of the windows are located at least 2 meters from the floor or ground outside the x-ray room, no protection requirements are needed.
+
+6.6. Dental installations shall be so arranged such that the operator can remain outside the radiation beam at least 2 meters from the tube and the patient.
+
+6.7. In cases where the x-ray machine is positioned near the dental chair, it should be positioned to the left of the dentist for ease of operation, unless the operator is left handed.
+
+6.8. Workloads of more than 30 mA-min per week should require the use of an adequately shielded protective barrier for conventional dental x-ray units.
+
+6.9. Dental x-ray facilities using panoramic dental x-ray units shall construct a movable or permanent protective barrier lined with at least 1.5 mm lead sheet or made of 6 inches poured concrete with a density of 2.5 g/cc.
+
+6.10. A lead glass viewing window with at least 1.5 mm lead equivalence shall be mounted on the protective barrier at the eye level of the operator in order to view the patient during examination.
+
+6.11. A separate darkroom shall be constructed near or inside the x-ray room for installations intended for special dental radiographic examinations such as panoramic examination. For intra-oral examinations a portable light tight film processing box shall be used.
+
+6.12. The darkroom shall be well ventilated, light tight, clean and shall have a dimension sufficient to accommodate its activities.
+
+6.13. A safelight with 10-15 watts light bulb encased in a suitable receptacle required with an appropriate filter shall be mounted on the wall of the darkroom at the height of not less than 1.2 m from the working table.
+
+6.14. The time-temperature method of processing shall be observed. A luminous interval times and a floating thermometer shall be provided.
+
+
+WORKING PROCEDURES
+
+7.1. For the protection of the patient
+
+7.1.1 No dental x-ray exposure shall be done unless its introduction produces a positive net benefit to the patient.
+
+7.1.2 The frequency with which single or multiple film radiographic examination are to be made shall be left to the judgment of the licensed practitioner provided that 6.1.1 is satisfied.
+
+7.1.3 It is however recommended that full mouth examination shall not be repeated in less than 5 years. Bitewing examinations shall not be taken more frequently than once every six months. 
+
+7.1.4 Should the quality of the radiograph be inadequate, the licensed practitioner shall be responsible for improving the technique of the individual who produced the film.
+
+7.1.5 Should the clinical finding, without radiologic films be sufficiently definitive to authorize treatment, the radiation exposure of an individual would not be justified.
+
+7.1.6 The licensed practitioner shall be responsible for developing within himself/herself to those who interpret dental radiographs a high level of interpretive ability.
+
+7.1.7 The useful beam shall be restricted to the smallest area practicable and consistent with the objectives of the x-ray examination.
+
+7.1.8 During dental x-ray examination, the patient shall be provided with a lead rubber apron and a thyroid shield with at least 0.25 mm lead equivalence.
+
+7.2 For the protection of the operator:
+
+7.2.1  During each panoramic dental radiographic examination, the operator shall stand behind a movable or permanent protective barrier lined with at least 1.5 mm lead sheet.
+
+7.2.2 Dental x-ray clinics which use intra-oral radiographic units only, do not usually require a movable or permanent protective barrier provided the operator and any auxiliary personnel position themselves correctly during exposure.
+
+7.2.3 The dentist who uses the x-ray-equipment should in the absence of a protective barrier wear a protective apron of at least 0.25 mm lead equivalence and stand at least 2 meters from the patient and the tube.
+
+7.2.4 The recommended position of the operator during  exposure is in an area between 90 degrees and 135 degrees from the direction of the primary beam. When exposure are made of the anterior position of the face, the operator should stand on either side of the patient.  When views are made on the side of the face, the operator should stand behind the patient.
+
+7.2.5 Schools and clinics where patients are being examined radiographically on a continuing rather than routine basis should be equipped  with permanent shield described in 6.2.1.
+
+7.2.6 The operator shall not hold the film in place for the patient during exposure.
+
+7.2.7 Neither the tube housing nor field spacer cone shall be hand held by the operator during exposure.
+
+7.2.8 Neither the operator, the dentist nor any of the staff shall hold the patient during dental x-ray examination. Only persons who do not work within the dental x-ray clinic should be allowed to hold patients during x-ray examinations.
+
+7.2.9 Pregnant women or persons under 18 years of age shall not be permitted to hold patients. Those holding the patients shall wear protective aprons and gloves and should ensure that no part of their body, even if covered by protective clothing is in the path of the primary beam.
+
+7.3 For the protection of the public
+
+7.3.1 A warning notice shall be put up outside the dental x-ray examination room door which shall be made up of a solid yellow equilateral triangle 180 mm long on each side. At the center of the triangle is a black trefoil sign for radiation. Under the triangle are the words “X-RAY ROOM - DO NOT ENTER WHEN THE RED LIGHT IS ON”. The warning notice shall be on a 180 mm x 270 mm white background (see Annex 1).
+
+7.3.2 The door to the x—ray room shall always be closed during exposure.
+
+7.3.3 Unless the walls of the room are lined with lead, the beam shall never be directed toward an occupied area. 
+
+7.3.4 No person shall remain in the x-ray room during x-ray examination unless his/her presence is essential.
+
+7.3.5 No person having a fixed workplace shall be located close to the x-ray machine if the wall partition is only made from light material.
+
+7.3.6 Deliberate exposure of an individual to the useful beam for research, training, demonstration and school requirement shall not  permitted unless there is a diagnostic need for the exposure and the exposure is prescribed by a dentist or physician.
+
+7.3.7 No two dental x-ray machines shall be operated simultaneously in one x-ray room.
+
+
+VIII. INSPECTION REQUIREMENTS
+
+8.1 Each licensee shall allow the Radiation Health Service (RHS) Radiation Protection Survey and Evaluation (RPSE) team at all reasonable times to inspect his/her dental x-ray facility.
+
+8.2 Each licensee shall make available to the RHS RPSE team for  inspection upon reasonable notice records kept by the facility relevant to the conduct of x-ray examination for the purpose of determining the workload of his/her facility.
+
+8.3 Whenever necessary, the RHS RPSE team shall be allowed by the licensee to conduct investigation even without prior notice on certain occasions in response to complaints that are related to the, operation of the licensee's facility.
+
+ 
+IX. AMENDMENTS 
+
+9.1 The terms and conditions of each license shall be subject to  amendments, revisions or modifications by reason of amendments to this standard or by reason of rules, regulations and orders by the RHS.
+
+
+X. VIOLATIONS
+
+10.1 Any license may be revoked or suspended for any material false statement in the application or for violation of or failure to observe by the  licensee any of the requirements and provisions of this standard.
+
+10.2 Except in cases of willful violation or those in which the public health, interest or safety requires otherwise, no license shall be modiﬁed, suspended or revoked until the licensee shall have been accorded an  opportunity to demonstrate or achieve compliance with the standard.
+
+
+XI. PENALTIES
+
+Any person who shall willfully violate, attempts to violate or conspires to violate any requirements issued hereunder, may be guilty of a crime and upon conviction, may be punished by a fine or imprisonment er both as provided in the penalty clause of PD 480.
+
+
+XII. REPEALING CLAUSE
+
+All laws, decrees, executive orders, administrative orders, rules or regulations, inconsistent herewith are hereby, repealed amended or modiﬁed accordingly.
+
+
+XIII. SEPARABILITY CLAUSE
+
+The provisions of this administrative order are hereby declared to be separable and in the event any one or more such provisions are held unconstitutional the validity of the other provisions shall not be affected.
+
+
+XIV. EFFECTIVITY
+
+This administrative order shall take effect 15 days following the publication in the Official Gazette or in a newspaper or general circulation and shall supersede all issuances inconsistent herewith. 
+
+</body> 
+<sign>HILARION J. RAMIRO JR., M.D., M.H.A.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+
+RHS/OHFSR 
+

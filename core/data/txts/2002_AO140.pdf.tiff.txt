@@ -1,0 +1,197 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound
+Rizal Avenue, Sta. Cruz
+1003 Manila, Philippines
+Trunk Line 743-83-01
+Direct Line 711-95-02 to 03
+Fax Line 743-18-29, e-mail: osec@doh.gov.ph
+
+ 
+<date>07/31/2002</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 140 s., 2002</docnum>
+
+<subject>SUBJECT: Guidelines on the Use and Maintenance of the DOH Health Emergency Management Staff (HEMS) Upgraded Trunked Radio Communication Network System</subject>
+
+
+<body>
+
+I RATIONALE:
+
+Communications is the one of the most vital requirement in emergency preparedness and response and its lack can be the cause of failure in many emergencies that led/to disasters. Cognizant of this fact, the Department of Health established in 1997 the Radio Communication Network System (Radionet) with the Disaster Management Unit’s (DMU) Operation and Coordinating Center, as its central base. For effective monitoring, coordination and response to emergencies and disasters, general guidelines and related procedures were issued to the 18 DOH offices and hospitals that were covered by the radionet. It was further strengthened in 1999 with the approval by the Executive Committee of the DOH for the STOP DEATH Program to procure and upgrade the radio equipment in preparation for the Y2K.
+
+Around that time the Disaster Management Unit (DMU) and the STOP DEATH Program had fused to form the Health Emergency Management Staff (HEMS). It became responsible in coordinating with the Department of Transportation and Communication’s, Telecommunication Ofﬁce(DOTC-TELOF) the procurement and upgrading of the communication equipment and system for the DOH. It was agreed upon and formalized through the signing of a Memorandum of Agreement (MOA) between DOH and DOTC—TELOF that DOH’s upgraded communication system will hook up with the DOTC—TELOF Trunking system with the latter providing the technical expertise in the installation and maintenance of the system .With the new radio system comes the need for the revision of the DOH radio communication guidelines.
+
+II DEFINITION OF TERMS:
+Radio Communication Network System (Radionet) - a group of radio stations operating on the same frequency for the purpose of communicating with each other.
+
+Trunking System - a radio communication system similar to the telephone system, composed of multiple channels which enable several talk groups to communicate simultaneously through the use of different channels which are hooked up to one common radio communication system as in a telephone switchboard.
+
+III COVERAGE
+
+The following DOH Offices and Hospitals are covered by the Upgraded Radio Communications Network System:
+
+A. DOH, Central Office
+1. Office of the Secretary
+2. Office of the Undersecretary for Health Operations
+3. Office of the Undersecretary for Health Regulations
+4. Health Emergency Management Staff, Central Office
+
+B. Centers for Health Development
+1. Center for Health Development, Metro Manila
+2. Center for Health Development lll.
+3. Center for Health Development IV
+4. Center for Health Development CAR
+
+C. Metro Manila DOH Retained Hospitals
+1. Amang Rodriguez Memorial Hospital
+2. Dr. Jose Fabella Memorial Hospital
+3. Dr. Jose M. Rodriguez Memorial Hospital (under CHD IV)
+4. Dr. Jose Reyes Memorial Medical Center
+5. East Avenue Medical Center
+6. Lung Center of the Philippines
+7. National Center for Mental Health
+8. National Children’s Hospital
+9. National Kidney and Transplant Institute
+10. Philippine Children’s Medical Center
+11. Philippine Heart Center
+12. Philippine Orthopedic Center
+13. Quirino Memorial Medical Center
+14. Research Institute for Tropical Medicine
+15. Rizal Medical Center
+16. San Lazaro Hospital
+17. Tondo Medical Center
+18. Las Piñas District Hospital
+19. Taguig —Pateros District Hospital
+20. Valenzuela District Hospital
+
+D. DOH Retained Hospitals in the Regions
+1. Batangas Regional Hospital (CHD IV)
+2. Bataan Provincial Hospital ( CHD Ill)
+3. Jose B. Lingad Memorial Hospital (CHD Ill)
+4. Paulino Garcia Medical Center (CHD Ill )
+5. Baguio General Hospital (CHD CAR)
+
+The allocation of the offices at the DOH Central are the following:
+
+1. Office of the Secretary - Two (2) Handheld portable units
+2. Office of the Undersecretary for Health Operations- One (1) portable Handheld radio unit
+3. Office of the Undersecretary for Health Regulations- One(1) Portable Handheld radio unit
+
+IV IMPLEMEMTING GUIDELINES
+
+IV - 1. Functions of the DOH-HEMS Operation and Coordinating Center
+
+1. Maintains a 24-hour monitoring of health emergencies and disasters
+2. Coordinates needed health assistance from offices within and outside the Department of Health.
+3. Submits timely reports of emergencies and disasters to the Secretary of Health; members of the Executive Committee; and other concerned officials and offices.
+4. Coordinates regularly with the Operation Center of the National Coordinating Council (NDCC); Center for Health Development (CHD) offices, hospitals and other agencies regarding emergencies and disasters.
+5. Maintains a databank of all health related emergencies and disasters.
+
+IV - 2 Management of the Radio Communication Network System
+
+A Issuance /Distribution of Radios:
+
+1. The Central Base for the Radionet shall be stationed at the Health Emergency Management Staff (HEMS),being the DOH Operation and Coordinating Center
+2. The Secretary of Health, Undersecretaries for Health Operations Cluster and Health Regulations Cluster, shall be issued handheld radios.
+3. All the Health facilities covered by the radionet except the preceding items 1 & 2 shall be provided with a radio base to be stationed at the Emergency Room and mobile radio for their respective HEMS ambulances lvehicles, if available, while their directors and HEMS coordinators will be issued hand—held radios.
+
+B. Issuance and Distribution Requirements:
+
+1. Pre Installation Phase:
+
+a). Programming of the newly procured radio transceivers shall be done by the Department of Transportation and Communication’s Telecommunication Ofﬁce(TELOF).
+
+b). AttendanCe of the HEMS CoordinatorlAssistant Coordinator and ambulance driver of all health facilities belonging to the HEMS network for which the radios are intended, to a one-day orientation seminar conducted by the National Telecommunications Commission (NTC) and Department of Transportation and Communication’s Telecommunication Office (DOTC-TELOF).
+
+c) Each health facility with its corresponding HEMS coordinator and assistant coordinator, shall be identified by their call signs (preferably 2-3 syllables only) which they will submit to the HEMS OPCEN for listing in the directory. Health facilities and HEMS coordinators with existing call signs have the option to retain them.
+
+d) All the recipient of the radio units shall secure their license to operate from the National Telecommunications Commission (NTC). The HEMS OPCEN shall assist in the securing of their licenses by facilitating their application.
+
+2. Actual Installation Phase:
+
+a) The installation of the radio units by the DOTC-TELOF, shall follow the schedule as agreed upon by the HEMS Central office and DOTC—TELOF, with the HEMS coordinators of the health facilities concerned, properly notified.This shall be directly supervised by the authorized representative of the HEMS Central Office and provided assistance by the HEMS Coordinators of the Health facilities.
+
+b) All land based radio units shall be installed at the Emergency Room(ER)of the hospital, while the base mobile radio units in their HEMS ambulance. For CHDs, their [and base radio unit should be installed at the HEMS coordinator’s office and their base mobile radio unit in the assigned HEMS vehicle if available.
+
+a) The HEMS Central ofﬁce shall issue an Invoice Receipt (IR) with the Director of the health facility or his duly authorized representative as the signatory in the recipient section of the Invoice Receipt.
+
+b) All health facilities which have existing radio units previously assigned to them by the then Disaster Management Unit (DMU) should turn over these radio units to the HEMS personnel over-seeing the installation. A “No return, no installation"? policy shall be observed. These shall be properly noted by the supply officer of the health facility.
+
+3. Post Installation Phase:
+
+a) The HEMS-OPCEN, Central Office and the DOTC TELOF, shall conduct a complete test check of all the radio units installed and shall not stop until all the problems in sending and receiving are addressed.
+
+b) A daily radio check on both base, land and mobile radio units shall be conducted at 8:00 am. by the HEMS-OPCEN Central Office, with all monitoring stations expected to respond. However, it reserves the option to conduct random checks anytime as deemed necessary.
+
+B. General Responsibilities of the Radio Users:
+
+1) The HEMS Coordinator of each Health Facility shall have the overall responsibility on the proper use, operation and maintenance of the radio equipment and shall also be held responsible for the conduct/ action of his authorized staff in using the radio.
+
+2) All radio units issued by the HEMS Central Office shall be for “Official Use Only”.
+
+3) A spare battery shall be issued to each recipient of the portable handheld radio unit but succeeding battery replenishments shall be the responsibility of the recipient health facility.
+
+4) All authorized radio users are advised to strictly observe the following:
+a) Radio Laws, Rules and Regulations; Department Circular No,92—274 of DOTC/TELOF
+b) DOH General Protocol [Procedures/Guidelines on Radio Communication
+c) Radio Communication Ethics
+
+C. Maintenance:
+
+1. Fees:
+
+a) Annual trunking fees, licenses and non—recurring fees such as programming, installation and access fees per unit, of all the upgraded radio equipment installed in the recipient Health facilities shall be charged against the funds of the Health Emergency Management Staff, Central Ofﬁce.
+
+b) Fees for the maintenance, repair and replacement of parts of the said equipment assigned to each health facility, shall be charged against the HEMS funds of their respective offices subject to the usual accounting rules and regulations.
+
+2. Repair and Maintenance:
+
+a) The HEMS, Central Office shall facilitate the coordination with the DOTC/TELOF regarding the repair and maintenance of the upgraded radio equipment.
+
+b) Regular check-up and maintenance lcare of the radio units shall be the responsibility of the user.
+
+c) For any loss of radio unit ,the official/personnel who received said units as per Invoice receipt, is deemed accountable
+
+D. Standard Operating Procedures:
+
+1) All radio units (base and handheld) shall be kept open and manned 24 hours a day. Radio bases should not be turned off without informing the HEMS—OPCEN, while handheld radios should not be turned off without notifying their respective facility base radio.
+
+2) Radio checks shall be done everyday at 8:00 am by the HEMS-OPCEN and each base radio shall respond accordingly, one after the other.
+
+3) Only official messages shall be communicated over the radio.
+
+4) All health emergencies and disasters, including epidemics shall be relayed immediately, anytime of the day, to the Operation Center for rapid reporting to the Secretary of Health, Undersecretaries and other concerned officials/ofﬁces. The Operation Center (OPCEN) shall likewise alert concerned hospitals and offices for any emergency and disaster monitored.
+
+5) Request for emergency assistance like medical teams, ambulance service, logistics etc. to be used for emergency or disaster operations and which are available within the HEMS Hospital/Office network shall be coursed directly to the facility concerned. Requests not within the capacity of the network to accommodate shall be relayed to the Operation Center for central coordination, response and reporting.
+
+6) Messages should be short and specific.
+
+a)Format for communicating an event(emergency or disaster)
+
+EVENT— ex. Fire, explosion, mass accidents, riots, etc.
+DATE and TIME of occurrence
+SITE-give speciﬁc location
+NO. of CASES and DEATHS
+ACTION TAKEN - ex. Sent medical team. Admitted to the hospital, etc
+STATUS-controlled? Uncontrolled? Needs additional team? Etc
+SOURCE of information
+
+b) Format for communicating patient information
+
+NAME, AGE and SEX
+CHIEF COMPLAINT
+STATUS- ex. Conscious, unconscious, stable, serious etc.
+TREATMENT given
+NEEDS—ex. Immediate transferlsurgery, needs blood, etc.
+
+7) To ensure confidentiality of messages, use designated call signs, ten(10) codes and standard'phonetics
+
+8) Always observe courtesy in using the radio. Do not interrupt radio conversation. Use “break” to be given the floor to use radionet and a double break(break, break) for emergency connection. Ongoing conversation should give way to a call of double break. Never show anger, impatience or excitement. Never use profane / vulgar words.
+
+
+</body>
+<sign>MANUEL M. DAYRIT, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>

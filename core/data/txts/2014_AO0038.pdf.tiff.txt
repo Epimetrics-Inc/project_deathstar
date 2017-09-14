@@ -1,0 +1,976 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>10/27/2014</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2014 - 0038 </docnum>
+<subject>Subject: Rules and Regulations Governing Household / Urban Pesticides Licensing of Establishments and Operators, Registration of Their Products and for Other Purposes </subject>
+<body>
+ 
+
+I. BACKGROUND AND RATIONALE 
+
+Presidential Decree No. (PD) 881, dated 30th January 1976, empowered the Secretary of Health to regulate household hazardous substances (HHS), covering the label, sale and distribution of household hazardous substances. Pursuant to that, the Secretary of Health issued Administrative Order No. 303 s. 1976 to provide guidelines on the registration of HHS and licensing of establishments engaged in the sale and manufacture of HHS under the Food and Drug Administration (FDA). 
+
+On 17th January 1977, Administrative Order No. 312 was issued by the Secretary of Health. It classiﬁed or listed fertilizers, pesticides, insecticides and other economic poisons, together with room fresheners and deodorizers, as HHS under Category V. 
+
+On 30th May 1977, PD No. 1144 was issued, creating the Fertilizer and Pesticides Authority (FPA) and abolished the Fertilizer Industry Authority. The PD mandated the FPA to have jurisdiction over all existing handlers of pesticides, fertilizers and other agricultural chemical inputs. As a result, the Ministry of Health issued Administrative Order No. 39 s. 1979 which delisted fertilizer, insecticides and other pesticides under Category V and, thereby, transferred the regulatory jurisdiction over them to FPA from the FDA. 
+
+In a ﬁnal decision dated 8th February 2007, the Supreme Court ruled over FPA vs. Manila Pest Control Co. (MAPECON) and Woodrow Catan, GR. No. 161594. It ruled that the FPA did not have jurisdiction or regulatory power over the acts and business operations of Manila Pest Control Company (MAPECON) and declaring that only agricultural pesticides and not urban pest control products fall under the jurisdiction of the FPA. Urban pest control or pesticide use in households, offices, hotels and other commercial establishments has nothing to do with agriculture. 
+
+The FDA issued DOH-BFAD Advisory No. 2008—003, re: Import Permits; Initial Registration and Renewal of Existing Certiﬁcates of Product Registration Covering household/urban pesticide (H/UP) products, as well as licenses to operate of entities manufacturing or importing/exporting/distributing such products and raw materials, as a regulatory measure or as a necessary consequence of the Supreme Court decision dated 8“] February 2007 holding that the Fertilizer and Pesticides Authority (FPA) has jurisdiction only over agricultural pesticides and not to pesticides used in household, business establishments, and ofﬁces in urban areas, registration of such products, as well as, licensing of entities engaged in the manufacture or importation/distribution of the products or raw material, whichshall now be under the purview of the Department of Health, through the Bureau of Food and Drugs, which is vested by law with the power to regulate household hazardous substances, considering that the above pesticides are inherently hazardous. 
+
+Republic Act No. 9711, otherwise known as “The FDA Act of 2009”, states that “the manufacture, importation, exportation, sale, offering for sale, distribution, transfer, or retail of any drug or device; the manufacture, importation, exportation, transfer or distribution of any food, cosmetics, household hazardous substances or urban pesticides; or the operation of a radiation facility or pest control establishment without the appropriate authorization from the FDA is prohibited.” 
+
+Evaluation of the safety and efﬁcacy of H/UPs as one of the health products under the jurisdiction. of the FDA is essential. These products are inherently toxic products relative to the other health products being regulated by the FDA. 
+
+These products have great impact on public health, as they are designed to control the vermin or vectors on infectious diseases. The product active ingredients, additives, ' formulation, indication, use, storage condition, and disposal should adhere to international standards to protect the public, applicators and the receiving environment. According to the World Health Organization, impurities formed during manufacture of the pesticide or by interaction in unstable formulations can increase product toxicity to humans and the environment. Applying products that are lower in active ingredient content than declared could result in monetary loss and application of a sub-lethal dose of pesticide, leading to ineffective control and promotion of the development of resistance. 
+
+Products or formulations with inferior physiochemical properties, such as suspensibility, emulsification or particle size characteristics, can also result in inadequate application and possibly increase the degree of risk for personnel, who may come into greater contact with the pesticide and/or pesticide contaminated application equipment. 
+
+It is also important that all H/UPs are not harmful to pet animals when used according to the product label. 
+
+The success of any vermin or vector abatement program to control mosquitoes, stored product pests, and termite or rodent infesting dwelling places depends on the judicious use of safe and effective H/UPs. Trained and competent service providers or operators, direct applicators, technicians and workers are crucial in protecting public health against unnecessary exposure to H/UPs. 
+
+The public health program on vector-borne disease control is faced with limited choice of cost-effective pesticides that are low in toxicity, safe for general use and for the environment. Moreover, resistance of major vectors to H/UPs is on the increase which may be attributed to the misuse and overuse by operators and applicators. There should be judicious, selective and targeted use of available compounds in order to increase their effective life span. 
+
+Pesticides are used in urban or dwelling places, storage facilities, and institution, like malls, movie houses, hotels and motels, food establishments, government and private ofﬁces, for economic and public health reasons. Handling and actual application of H/UPs especially those with restricted use such as fumigants, should be done by licensed Urban Pest Control Operators (UPCO) and Certiﬁed Urban Pesticide Applicators (CUPA). 
+
+This Administrative Order is being issued to provide guidelines for issuing License to Operate (LTO) to establishments engaged in the manufacture and distribution of H/UPs, registration of HfUPs that are manufactured, distributed, advertised, promoted and marketed, sold and offered for sale or use, and retailed in the country as well as to govern the licensing of UPCO, CUPA and training of all Pesticide Handlers (urban pesticides technicians and workers) to protect the health and welfare of the consumers and general public. 
+
+II. OBJECTIVES 
+
+The objectives for issuing this Administrative Order are as follows: 
+
+A. To protect the health and welfare of the consumers and the general public especially infant, children. and old people, against banned, illegal and unregistered household/urban hazardous products or Household/Urban Pesticides (HﬂlPs). 
+
+B. To provide guidelines on licensing of establishments engaged in manufacture, trade, distribution (importers, exporters, and wholesalers), retail and registration of H/UPS. 
+
+C. To provide guidelines, rules and regulations for UPCO, Pesticide Handlers; and urban pesticide applicators on the issuance of License to Operate (LTO) as UPCO, certiﬁcate of completion of training to pesticide handlers and applicators, and FDA Identiﬁcation Card as CUPA. 
+
+III. SCOPE 
+
+This Administrative Order shall apply to all establishments engaged in the manufacture and distribution, i.e. import, export, wholesale and trade, as well as retailers of Household/Urban Pesticides (Ii/UPS). It shall not cover pesticides under the jurisdiction of Fertilizer and Pesticides Authority (FPA) or any organization, committee or entities as mandated by law. 
+
+As applicable, it shall also include all government and private establishments engaged in the business or service as Urban Pest Control Operator (UPCO), all government and private individuals employed or seeking employment as Certiﬁed Urban Pesticide Applicators (CUPAs) and Pesticide Handlers employed by UPCO and all individuals, such as drivers transporting H/UPs, workers dealing or handling H/UPs. 
+
+IV. DEFINITION OF TERMS 
+
+As used in these Rules, the following terms shall have the following respective meaning: 
+
+A. Authorization is a permission embodied in a document granted by the FDA to a natural or juridical person who has submitted an application to implement the manufacture, importation, exportation, sale, offer for sale, distribution, transfer, and/or where appropriate, the use, testing, promotion, advertising, or sponsorship of health products. The authorization can take the form of a permit, a license, a certificate of registration, of accreditation, of compliance, or of exemption, or any similar document. 
+
+B. Bioefﬁcacy Test is a scientiﬁc study conducted to show, demonstrate or substantiate a claim of efﬁcacy against pestls as indicated in the label or as claimed by the applicant. The data or information generated from bioefficacy studies shall be based on actual experiment based on a hypothesis consistent with. the mechanism of action. 
+
+C. Certiﬁcate of Product Registration (CPR) means the certiﬁcate issued by FDA for the purpose of marketing and distribution of a product after evaluation of its safety, efﬁcacy and quality. 
+
+D. Certified Urban Pesticide Applicators (CUPA) refers to a person who has completed the training course on pesticides, and issued FDA identification card either as fumigator or exterminator, or both. A fumigator is a specialist handling fumigants, while an exterminator is a specialist handling non-fumigant pesticide. 
+
+E. Distribute means the delivery or sale of any household/urban pesticides for purposes of distribution in commerce, except that such term does not include the manufacture or retail of such product. 
+
+F. Distributor means any establishment that imports, exports or locally procures raw materials, active ingredients and/or ﬁnished products for wholesale distribution to other establishments or outlets. If the distributor/importer/ exporter sells to the general public, it shall also be considered as a retailer. 
+
+G. Fertilizer and Pesticide Authority (FPA) is a technically-oriented agency mandated to regulate and ensure safety in the manufacture, formulation, importation, distribution, storage, sale, transport, use and disposal of pesticides and fertilizers to ensure their adequate supply among crop growers and other end-users to support the foOd security program of the country. It is also mandated to develop both the fertilizer and pesticide industries. 
+
+H. Health Certiﬁcate refers to the certiﬁcate issued by the Local Government Unit (LGU) to a person employed in any establishment handling health products. This certiﬁcate is issued only after the required physical and medical examinations are performed and immunizations are administered at prescribed intervals. 
+
+I. Household/Urban Pesticide (H/UP) refers to (1) any material or mixture of substances used for the control of pests (e.g. ﬂies, mosquitoes, cockroaches, ants, rodents) found in places of human habitation, work and recreation. They shall include pesticides used for the control of pest in homes, yards, and gardens but shall exclude chemicals used in commercial agricultural production, golf courses, maintenance, pest extermination in industrial products and related uses; (2) products that are intended for use in domestic or commercial establishments for the control of ﬂying, crawling and structural insect pests (e.g. termiticides, rodenticides and wood preservative). It also refers to any substance or product, or mixture thereof, including active ingredients, adjuvants and pesticide formulations, intended. to control, prevent, destroy, repel or mitigate directly or indirectly, household/urban pest. It shall be understood to include insecticide, fungicide, bactericide, nematicide, herbicide, molluscicide, avicide, rodenticide, desiccant and the like not intended for agricultural use. 
+
+The H/UPs can be classified as 
+
+i.1 For Professional Use H/UPs are FDA-registered products intended to be applied as fumigants by FDA-licensed operator, FDA-certiﬁed applicators and FDA-trained pesticides handlers. The CPR will indicate if a product is restricted use. Retailers selling or offering for sale or use for professional use products requires FDA LTO. 
+ 
+
+i.2 For Institutional Pest Control Program Use of H/UPs are F DA-registered products intended to be applied other than by fumigation in construction sites, establishments, dwelling places or public places under a pest control program. The CPR will indicate if a product is for institutional use. 
+
+i.3 Restricted Use HfUPs refer to pesticides which are only authorized to be used by Certiﬁed Urban Pesticide Applicators due to theirtoxic nature. 
+
+J. Household/Urban Pesticide Establishment means a sole proprietorship, a partnership, a corporation, an institution, an association, or an organization engaged in the manufacture, importation, exportation, sale, offered for sale, distribution, donation, transfer, use, testing, promotion, and/or advertising of household/urban pesticide products including the facilities and installations needed for its activities. 
+
+K. Household/urban hazardous substance (H/UHS) is any substance or mixture of substances intended for individual or limited purposes and which is toxic, corrosive, an irritant, a strong sensitizer, is ﬂammable or combustible, or generates pressure through decomposition, heat or other means, if such substance or mixture of substances may cause substantial injury or substantial illness during or as a proximate result of any customary or reasonably foreseeable ingestion by children, but shall not include agricultural fertilizer, pesticide, and insecticide, and other economic poisons, radioactive substance, or substances intended for use as fuels, coolants, refrigerants and the like. 
+
+L. Label means a display of written, printed, or graphic matter on the immediate container, or other materials affixed thereto, of any article. Any word, statement or other information appearing on the label required under authority of the FDA Act of 2009 or other relevant laws shall be deemed complied with if such word, statement or other information also appears on the outside container or wrapper, if any there be, of the retail package of such article, or easily legible through the outside container or wrapper. 
+
+M. Licensing means the process of approval of an application to operate or establish an establishment prior to engaging in the manufacture, importation, exportation, sale, offer for sale, distribution, transfer, and where applicable the use, application, provision of services, testing, promotion, advertisement, and/or sponsorship of household/urban pesticide. 
+
+N. Manufacturer means an establishment engaged in any and all operations involved in the production of household/urban pesticides including preparation, processing, compounding, formulating, ﬁlling, packing, repacking, altering, ornamenting, ﬁnishing and labeling with the end in view of its storage, sale or distribution. 
+
+0. Non-Consumer Users refer to users of household/urban pesticide who are members of a certain class of profession or workers such as but not limited to fumigators, applicators where the use of such household/urban pesticide may have an effect on health that requires regulations as determined. by the FDA. 
+
+P. Pesticide Registration means the process whereby the responsible regulatory agency approves the sale and use of a household/urban pesticide following the evaluation of comprehensive scientiﬁc data demonstrating that the product is effective for its intended purposes and does not pose an unacceptable risk to human or animal heal h or the environment. 
+
+
+Q.Pesticide Handlers (technicians and workers) are individuals who have completed the basic training course on pesticides conducted by the FDA. 
+
+R. Place include land, building, residence, pier, watercraft, aircraft or any means of conveyance. 
+
+S. Products for Use by Consumer means products that are used, applied as ready-to-use space spray or surface spray for knockdown and residual action. They are commonly formulated as aerosol or as liquid end-use product applied with manually operated pressure spray. Other forms include pest strips, baits, lotions, chalks, balls, insect repellants, patches, coils, impregnated nets with insect repellant and others. (See deﬁnition for “For Ready-to-Use H/UPS”) 
+
+T. Public establishments include hotels, motels, dormitories, lodging and boarding houses, tenement houses, apartelles, condominium, hospitals, libraries, museum, ofﬁces, malls, markets, supermarkets, movie houses and other similar institutions. 
+
+U. Public places include parks, plaza, picnic grounds, camps, roads, cemeteries and memorial parks, terminals, rest areas, and other open fields and enclosed areas of public assembly. 
+
+V.Raw Materials mean the starting materials, which includes technical grade active ingredients, that have pesticidal activities and inert ingredients and additives used in the production of ﬁnished pesticide product. 
+
+W. Retailer is an F DA-licensed establishment who sells or offer for sale or use H/UPs, namely a construction supplier that sells or offer for sale or use H/U P5 in large volume or packaging size that are intended for use in houses and buildings under construction and repair or a do—it-yourself shop or hardware that sells or offer for sale or use H/UPs in small packaging sizes intended for dwelling places, homes, classrooms, or ofﬁces or similar places where people stay or frequent. 
+
+X. Stored products refer to agricultural commodities, food, industrial and forest products, and other similar products that may be infested, which are stored in private or public warehouses. It shall not refer to stored products kept at home or resident dwelling places nor in institutional places in urban areas. 
+
+Y. Stability Study is a scientiﬁc study performed to show data, demonstrate or substantiate a claimed shelf-life of a product. Stability tests are carried out to determine the acceptable period of storage at a specified condition within which the pesticide product still meets its established speciﬁcations or claim of efficacy. 
+
+Z. Toxicity Studies are studies performed in vivo or on animals that is initiated by exposure to a chemical, physical or biological agent, and to determine the toxicity level, adverse effects and to show a series of events, like toxidrome observed for a product for the purpose of classification or categorization. The toxicity reports containing sets of data or information from an experiments for the purpose of risk assessment and risk analysis of the product. 
+
+AA. Urban Pest Control Operator (UPCO) means an establishment, often private operator,- who carries out pest control of economic and public health importance at the request of clients. 
+
+
+BB. Vector is any organism which transmits infection by inoculation into the skin. or mucous membrane by biting, or by deposit of infective materials on the skin or food or other objects; or by biological reproduction within the organism. 
+
+CC. Vermin is a group of insects or small animals such as ﬂies, mosquitoes, cockroaches, ﬂeas, lice, bedbugs, mice, rats and others which are vectors of diseases. 
+
+V. POLICIES AND GUIDELINES A. General Guidelines 
+
+a.1 Only those establishments that have submitted all the requirements specified in this Order and paid the corresponding application fees shall be issued LTOs. All LTO applicants shall demonstrate their capacity to conform to health standards and requirements, including occupational health standards. 
+
+a.2 The manufacture, importation, exportation, sale, offering for sale, distribution, transfer, non-consumer use, promotion, advertising, or sponsorship of any HfUPs without the proper authorization from the FDA is prohibited. 
+
+a.3 The manufacture, importation, exportation, sale, offering for sale or use, donation, distribution, transfer, promotion, advertisement, or sponsorship of any H/UPs that is adulterated, unregistered or misbranded is prohibited. 
+
+a.4 No person shall manufacture, distribute (import, export, wholesale), sale, offer for sale or use, advertise, or transfer any HXUP products that are unregistered or containing ingredients which are banned, as determined by the FDA and other government agencies. 
+
+a.5 All establishments that offer for sale or use products for professional use shall require FDA LTO and shall be applied only under the supervision of FDA- licensed UPCO. 
+
+a.6 FDA-licensed manufacturers and distributors shall be responsible for the ﬁnal disposal of expired products as well as used containers (principle of product stewardship and cradle to grave responsibility of manufacturers and distributors). Disposal of expired pesticides and used containers may be by chemical alteration, burying/ landﬁll, incineration and treatment system. 
+
+a.7 All establishments that engage in the manufacture and distribution shall keep themselves updated, and shall initiate information dissemination and training on Montreal Protocol, Rotterdam Convention, and Stockholm Convention, among others, to their employees, clients and other stakeholders. 
+
+a.8 All establishments shall adhere to the list of banned or prohibited finished products for chemical or biological pest control, active and raw ingredients or additives, and combinations thereof, of the Fertilizer and Pesticide Authority-Department of Agriculture (FPA-DA). 
+
+a.9 Only those establishments with valid FDA LTOs may apply for a CPR. Applicants shall submit technical dossier to demonstrate the safety, efﬁcacy, and quality of the product being registered.
+
+a.10 All technical materials/active ingredients used in the manufacture of the HMPs must be registered with FDA. 
+
+a.11 The FDA shall work closely with the DOH National Center for Non- communicable Diseases, other government agencies with mandate to regulate pesticides like the Department of Agriculture, other regulatory agencies in other countries, foreign governments, and international organizations like the WHO and the FAQ to develop and strengthen the FDA regulatory standards or approaches to the sound management of pesticides. 
+
+a.12 The FDA shall adhere to the Montreal Protocol, Rotterdam Convention and Stockholm Convention, among other protocol and agreement. It is the policy of the FDA to align its standards with the FPA as applicable. 
+
+a.13 Inclusion in the list of banned or prohibited ﬁnished products for chemical or biological pest control, active and raw ingredients or additives, and combinations thereof, of the FPA-Department of Agriculture (FPA-DA) is a ground for disapproval of application. 
+
+a.14 Products that have the same formulation but in different packaging presentation, different containers, different mode of application, volume of content or containers, shall be registered separately or individual. 
+
+a.15 All products shall be evaluated for its safety to pet animals when used according to the proposed application. 
+
+a.l6 Each branch ofa licensed establishment shall apply for a separate FDA LTO. 
+
+a.17 A CUPA shall be required in every ofﬁce or branch. All FDA-CUPAs shall have direct and personal supervision over the technicians and workers. He shall be present at all times during the application of H/UPs by the service technicians or workers. Any pesticide-related incidents, issues and concerns shall be the responsibility of the FDA-CUPA. All F DA-CUPAs shall wear their FDA-issued IDs while working, and shall require Pesticide Handlers under them to wear their Health Certiﬁcate issued by the LGU. 
+
+a.18 All establishment applying for a LTO as an UPCO shall be required. to demonstrate its capacity to assure the safety of the applicator, handler and the public. They shall be required to conform. to occupational health standards and requirements, in addition to those speciﬁed in this Administrative Order. 
+
+a.19 All manufacturers, processors, traders, sellers, distributors, importers, exporters, wholesalers, retailers, or non—consumer users, and consumers are required to report to the FDA (report@fda.gov.ph or info@fda.gov.ph) any incidents that reasonably indicates that a product has caused or contributed to the death, serious illness or serious injury to a consumer, a patient, or any person. 
+
+a.20 All UPCO shall engage in urban pest control activities shall secure Sanitary 
+
+Permits issued by the LGU. All employees of UPCOs shall be required Health Certificates issued by the LGU. 
+
+
+VIII. SEPARABILITY CLAUSE 
+
+If any part or term of provision of this order shall be declare invalid or unenforceable the validity or enforceability of the remaining portions or provisions shall not be affected and this order shall be construed as if it did not contain the. particular invalid or enforceable part, term or provision. 
+
+IX. REPEALING CLAUSE 
+
+All other administrative issuances, bureau circulars and memoranda and other regulations inconsistent with this Order are hereby withdrawn, repealed and /or revoked accordingly. 
+
+X. EFFECTIVITY 
+
+This Administrative Order shall take effect in ﬁfteen (15) days after publication in two newspapers of general circulation. 
+
+</body>
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+I. 
+
+ANNEX A Licensing of Manufacturers and Distributors 
+
+General Requirements 
+
+A. Completely accomplished and notarized Integrated Form with ID picture of both the Owner/Incorporator/General Manager and the Authorized Person (Refer to Food and Drug Administration [FDA] Circular no. 2014—009) (for NCR and CHD IV-A) 
+
+B. Qualiﬁed authorized representative 
+
+b.1 Copy of QPIRA ID or Certiﬁcate of Attendance to QPIRA Seminar 
+b.2 Certiﬁcation/Authorization Letter from the company 
+b.3 Certiﬁcate of Attendance to CCRR seminar on licensing of establishments 
+
+B. Clearance from Department of Environment and National Resources (DENR), for Householderban Pesticide (H/UP) Manufacturers 
+
+D. Proof of Business Registration 
+
+d.1 If Single Proprietorship, valid Certiﬁcate of Business Name Registration with the 
+Department of Trade and Industry (DTI) 
+
+d.2 If a Corporation or Partnership, valid Registration with Securities and Exchange Commission (SEC) and Articles of Incorporation and other pertinent documents 
+
+d.3 If a Cooperative, Certiﬁcate of Cooperative Development Authority (CDA) 
+
+* If the Business Name is different from the Corporate Name, SEC Certiﬁcate must reﬂect "Doing business under the name and style of (Name of Establishment)” 
+
+**Valid Mayor's Business Permit OR Barangay Business Permit, if the business name and address is different from the registered name and address in the DTI or SEC 
+
+E. Proof of Occupancy of Ofﬁce and Warehouse 
+
+Submit any of the following, as applicable: 
+
+e.1 Notarized Valid Contract of Lease/ Sublease 
+
+e.2 Transfer Certiﬁcate of Title (if owned) 
+
+e.3 Notarized Certiﬁcate of Occupancy (if owned by one of the incorporators) 
+
+e.4 Duly Notarized Valid Homeowner's Association (HOA) Clearance if the establishment is located inside a subdivision or residential condominium (for distributors only) 
+
+e.5 Duly Notarized Valid Warehousing Agreement, if the establishment has an additional warehouse/storage place (Third Party Logistics) 
+
+F. Vicinity Map and GPS Position 
+
+G. Floor Plan 
+
+H. Picture of Ofﬁce and Warehouse with Signage 
+
+II. Speciﬁc Requirements (Raw Materials, Finished in Bulk and Finished Product) 
+
+A. For Manufacturer 
+
+a.1 Photocopy of the Financial statement notarizedfreceived by the Bureau of Internal Revenue (BIR) or notarized certiﬁcation of initial capital invested 
+
+a.2 Site Master File (see Annex A) 
+
+a.3 List of products to be manufactured 
+
+B. For Toll Manufacturer 
+
+Duly notarized valid contract manufacturing agreement with the FDA-licensed H/UPs Trader stipulating the following: 
+
+ 
+-That the trader owns the formulation 
+-That the trader and manufacturer are jointly responsible for the quality, efﬁcacy and safety of the product/s placed in the market 
+-List of products to be manufactured by the toll manufacturer 
+
+C. For Repacker 
+
+c.1 Self-declaration of compliance to Good Manufacturing Practice (GMP) if manufacturer is from an ASEAN Member State 
+
+c.2 Certiﬁcate of Free Sale (CFS) issued by the government agency or accredited business association (WHO, ECC/EU, COLIPA) in the country of origin 
+
+c.3 ISO Certiﬁcate in relation to GMP 
+
+c.4 Valid business/manufacturer’s license 
+
+D. For Importer 
+
+d.1 Valid Foreign Agency Agreement from each supplier duly authenticated by the Territorial Philippine Consulate 
+
+d.2 Valid GMP Certiﬁcate of manufacturer issued by the government agency or accredited business association in the country of origin 
+
+d.3 In lieu of GMP Certiﬁcate, an ISO or a CFS of all the products it intends to import in the country 
+
+d.4 Distribution Record must be maintained and readily available to FDA Inspectors 
+
+d.5 List of products (registered and to be registered) 
+
+E. For Exporter 
+
+e.1 Duly notarized valid distribution agreement with the supplier in the country where the products are to be exported
+
+e.2 Distribution Record must be maintained and readily available to FDA Inspectors 
+
+e.3 Copy of the FDA LTO of the supplier until such time that the FDA database has been updated 
+
+e.4 List of products (registered and to be registered) 
+
+F. For Wholesaler 
+
+f.1 Duly notarized valid distribution agreement with the FDA-licensed supplier 
+
+f.2 Distribution Record must be maintained and readily available to FDA Inspectors 
+
+f.3 Copy of the FDA LTO of the supplier until such time that the FDA database has been updated 
+
+f.4 List of products (registered and to be registered) 
+
+III. Change of Circumstances or Amendments to LTO 
+
+A. For Importer 
+
+a.1 Change of Ownership 
+
+a.1.1 Deed of Sale 
+
+a.1.2 Original LTO 
+a.1.3 Submit new documents to reﬂect change in ownership in the products, labeling materials and records of FDA 
+
+a.2 Merging/Buy-Out 
+
+a.2.1 Submit Deed of Assignment 
+a.2.2 Original LTO 
+a.2.3 Submit new documents to reﬂect change in ownership in the products, labeling materials and records of FDA 
+
+a.3 Change in Address 
+
+Valid Contract Agreement 
+
+a.4 Addition of Sources 
+
+a.4.1 Submit Notarized/Authenticated Contract Agreement with the supplier 
+
+a.4.2 Original LTO, list of products to be supplied in matrix form 
+
+ 
+a.5 Deletion of Sources/Clients 
+
+a.5.1 Submit letter of termination signed by the other party 
+
+a.5.2 Original LTO 
+
+B. For Exporter 
+
+b.1 Change of Ownership 
+
+b. 1.1 Submit Deed of Sale 
+
+b.1.2 Original LTO 
+
+b.1.3 Submit new documents to reﬂect change in ownership in the products, labeling materials and records of FDA 
+b.2 Merging/Buy-Out 
+b.2.1 Submit Deed of Assignment
+b.2.2 Original LTO 
+
+b.2.3 Submit new documents to reﬂect change in ownership in the products, labeling materials and records of FDA 
+
+b.3 Change in Address 
+
+b.3.1 Valid Contract of Agreement 
+b.3.2 Location Plan/Floor Plan 
+
+b.3.3 DTI/Mayor’s Permit/Brgy. Clearance b.4 Addition of Clients 
+
+b.4.1 Submit Notarized/Authenticated Contract Agreement 
+
+b.4.2 Original LTO 
+C. For Wholesaler 
+
+c.1 Change of Ownership 
+
+c.1.1 Submit Deed of Sale 
+c.1.2 Original LTO 
+
+c.1.3 Submit new documents to reﬂect change in ownership in the products, labeling materials and records of FDA 
+
+c.2 Merginnguy-Out 
+
+c.2.1 Submit Deed of Assignment 
+c.2.2 Original LTO 
+
+c.2.3 Submit new documents to reﬂect change in ownership in the products, labeling materials and records of FDA 
+
+c.3 Change in Address 
+
+c.3.1 Valid Contract of Agreement 
+c.3.2 Location Plan/Floor Plan 
+
+c.3.3 DTI/Mayor’s PermitXBrgy. Clearance 
+
+c.4 Addition of Sources 
+
+c.4.1 Submit Notarized/Authenticated Contract Agreement with the supplier 
+
+c.4.2 Original LTO 
+
+c.4.3 List of products to be supplied in matrix form 
+
+c.5 Deletion of Sources/Clients 
+
+c.5.1 Submit letter of termination signed by the other party 
+
+c.5.2 Original LTO 
+
+c.6 Addition of Clients 
+
+c.6.1 Submit Notarized/Authenticated Contract Agreement 
+
+c.6.2 Original LTO D. For Manufacturer 
+
+d.1 Change of Ownership 
+
+d.1.1 Submit Deed of Sale 
+
+d.1.2 Original LTO 
+
+d.1.3 Submit new documents to reﬂect change in ownership in the products, labeling materials and records of FDA 
+
+
+d.2 Merging/Buy-Out 
+
+d.2.1 Submit Deed of Assignment 
+
+d.2.2 Original LTO 
+
+d.2.3 Submit new documents to reﬂect change in ownership in the products, labeling materials and records of FDA 
+
+d.3 Change in Address 
+
+d.3.1 Valid Contract of Agreement 
+
+d.3.2 Location Plan/Floor Plan 
+
+d.3.3 DTI/Mayor’s Permit/Brgy. Clearance 
+d.4 Addition of Sources 
+
+d.4.1 Submit Notarized/Authenticated Contract Agreement with the supplier 
+
+d.4.2 Original LTO 
+
+d.4.3 List of products to be supplied in matrix form 
+
+d.5 Deletion of Sources/Clients 
+
+d.5.1 Submit letter of termination signed by the other party 
+
+d.5.2 Original LTO 
+
+d.6 Addition of Clients 
+
+d.6.1 Submit Notarized/Authenticated Contract Agreement 
+
+d.6.2 Original LTO 
+
+d.7 Addition of Warehouse 
+
+d.7.1 Submit Notarized/Authenticated Contract of Lease/TCT 
+
+d.7.2 DENR Clearance/ Sanitary Permit issued by LGU 
+
+d.7.3 Original LTO 
+
+* All applications must be submitted along with a letter of intent. 
+
+IV. Inspection of Establishment 
+
+An inspection shall be conducted by the FDA Inspectorate in addition to the submission of requirements. 
+
+The following are the parameters for inspection: A. For Manufacturer 
+
+a.1 Business Ofﬁce 
+
+a.2 Risk Management Plan (contingency plan) in case of accident 
+
+a.3 Appropriate GMP—compliant facility and equipment appropriate for the product category being manufactured 
+
+a.4 Dedicated warehouse/ storage facility appropriate for the product category and raw materials ' 
+
+a.5 Appropriate quality and number of PPE for product category being manufactured and the number of personnel 
+
+a.6 Dedicated instruments, implements and equipment for handling and transferring products 
+
+a.7 Dedicated and appropriate vehicle for transporting products, as well as for collecting expired pesticides, returned products or empty containers for disposal 
+
+a.8 Agreement with entities in proper disposal of toxic waste or dedicated disposal area for expired pesticides and used containers 
+
+a.9 Proof of training and annual training plan on safe handling and use of products 
+
+a.10 Updated Distribution Record 
+
+a.11 Manufacturing procedure 
+
+a.12 Master File 
+
+
+a.13 The company shall annually provide antidote for its products to the nearest tertiary hospital and shall be made available to the nearest district hospital at the cost of the company when the need arises 
+
+a.14 First aid kits with antidote, when possible 
+
+a.15 Other Certiﬁcation, Clearance and Permits as required by law to entities that will conduct the proper disposal (e. g. Department of Labor and Employment [DOLE], DENR, LGUs Sanitary Permit, and other government agencies) 
+
+a.16 Updated/Historical Record of accidents in the premises, including reports made to FDA 
+
+a.17 Product Recall System (Risk Management Plan and SOPs) 
+
+B. For Distributor 
+
+b.1 Business Ofﬁce 
+
+b.2 Risk Management Plan (contingency plan) in case of accident 
+
+b.3 Appropriate Good Distribution Practice (GDP) and Good Storage Practice (GSP) compliant facility and equipment appropriate for the product category being distributed 
+
+b.4 Dedicated warehouse/storage facility appropriate for the product category and raw materials 
+
+b.5 Appropriate quality and number of PPE for product category being manufactured. and the number of personnel 
+
+b.6 Dedicated and appropriate vehicle for transporting products, as well as for collecting expired pesticides, returned products or empty containers for disposal 
+
+b.7 Certiﬁcation Agreement with entities in proper disposal of toxic waste or dedicated disposal area for expired pesticides and used containers 
+
+b.8 Proof of training and annual training plan on safe handling and use of products 
+
+b.9 Updated Distribution Record 
+
+b.10 The company shall annually provide antidote for its products to the nearest tertiary hospital and shall be made available to the nearest district hospital at the cost of the company when the need arises 
+
+b.11 First aid kits with antidote, when possible 
+
+b.12 Other Certiﬁcation, Clearance and Permits as required by law to entities that will conduct the proper disposal of pesticide wastes including its methods of disposal and disposal of pesticide containers (e.g. DOLE, DENR, LGUs Sanitary Permit, and other government agencies) 
+
+b.13 Updated/Historical Record of accidents in the premises, including reports made to FDA b.14 Product Recall System (Risk Management Plan and SOPs) 
+
+* In addition to the above requirements, the FDA may request additional documents to support or clarify initial ﬁndings. 
+
+
+ANNEX B Registration of Products 
+
+The submission of application and the requirements shall be through the PAIR system. 
+
+
+1. Requirements for Initial Product Registration 
+
+A. Completely accomplished and notarized Integrated Application Form with ID picture of both the Owner/Incorporator/General Manager and the Authorized Representative 
+
+B. Notarized Application Form and Declaration 
+
+C. Copy of Valid License to Operate (LTO) 
+
+D. Duly authenticated by the Consulate of the Philippine Embassy from the country of origin of any of the following: 
+
+d.1 Certiﬁcate of Free Sale (CFS) 
+d.2 Certiﬁcate of Good Manufacturing Practice (GMP) 
+d.3 Manufacturing License or ISO Certiﬁcate 
+
+E. Composition of the Finished Product expressed in percent 
+
+F. Safety Data Sheet of the Raw Material(s) including the technical specifications of the active ingredients 
+
+G. Certiﬁcate of Analysis of the Finished Product 
+
+H. Technical Specification of the Finished Product 
+
+h.1 Appearance, color, state, odor 
+h.2 Melting Point 
+h.3 Boiling Point 
+h.4 Vapor Pressure 
+h.5 Density of Speciﬁc Gravity 
+h.6 Solubility in water and solvents 
+h.7 Suspensibility/Emulsifying Characteristics 
+h.8 Known capability/incompatibility with other pesticide or active ingredients 
+h.9 Flash point and other indications of ﬂammability (If product contains combustible liquid) 
+h. 1O pH 
+
+1. Certiﬁcate of Analysis of the Finished Product duly signed and dated referring to the same batch/lot number of the sample submitted; written/translated in English on the letterhead of manufacturer shall include the following: 
+
+i.1 Name and batch number of sample submitted 
+
+i.2 Complete speciﬁcations, methods and limits stated on technical speciﬁcations of the ﬁnished product 
+
+i.3 All test results based on technical specifications of ﬁnished product stating actual numerical value (when applicable) 
+
+i.4 Manufacturing procedure 
+
+i.5 Complete Test Methods done on the ﬁnished product 
+
+i.6 Unattached legible, comprehensive and indelible specimen of all labeling materials per pack size [c.g. outer, immediate, package insert (if applicable)] 
+
+i.7 Finished commercial product per pack size 
+
+i.8 Bioefﬁcacy study 
+
+i.8.1 Abstract 
+
+i.8.2 Introduction 
+
+i.8.3 Materials and Methods 
+
+i.8.4 Results and Discussion 
+
+i.8.5 Summary and Conclusion 
+
+i.8.6 References 
+
+i.9 Toxicity study 
+
+i.10 Stability study 
+
+i.11 Substantiation ofproduct claims, as applicable 
+
+II. Requirements for Renewal of Product Registration 
+
+A. Completely accomplished and notarized Integrated Application Form with ID picture of both the Owner/Incorporator/General Manager and the Authorized Representative 
+
+B. Notarized Application Form and Declaration 
+
+C. Copy of Valid LTO 
+
+D. Original copy of Certiﬁcate of Product Registration (CPR) 
+
+E. Composition of the ﬁnished product expressed in percent 
+
+F. Technical Speciﬁcation of the Finished Product 
+
+f.1 Appearance, color, state, odor 
+
+f.2 Melting Point 
+
+f.3 Boiling Point 
+
+f.4 Vapor Pressure 
+
+f.5 Density of Speciﬁc Gravity 
+
+f.6 Solubility in water and solvents 
+
+f.7 Suspensibility/Emulsifying Characteristics 
+
+f.8 Known capability/incompatibility with other pesticide or Active ingredients 
+
+f.9 Flash point and other indications of ﬂammability (If product contains combustible liquid) 
+
+G. Certiﬁcate of Analysis of the Finished Product duly signed and dated referring to the same batch/lot number of the sample submitted; written/translated in English on the letterhead of manufacturer shall include the following: 
+
+g.1 Name and batch number of sample submitted 
+
+g.2 Complete speciﬁcations, methods and limits stated on technical speciﬁcations of the finished product 
+
+g.3 All test results based on technical speciﬁcations of finished product stating actual numerical value (when applicable) 
+
+g.4 Manufacturing procedure 
+
+g.5 Complete Test Methods done on the ﬁnished product 
+
+g.6 Unattached legible, comprehensive and indelible specimen of all labeling materials per pack size [e. g. outer, immediate, package insert (if .applicable)] 
+
+g.7 Finished commercial product per pack size 
+
+g.8 Bioefﬁcacy study 
+
+g.8.1 Abstract 
+
+g.8.2 Introduction 
+
+g.8.3 Materials and Methods 
+
+g.8.4 Results and Discussion 
+
+g.8.5 Summary and Conclusion 
+
+g.8.6 References 
+
+g.9 Toxicity study 
+
+g.10 Stability study 
+
+g.11 Substantiation of product claims, as applicable 
+
+ 
+III. Changes and Amendments to a CPR 
+
+All modiﬁcations on the registration of products shall be approved by the FDA. 
+
+A letter of request has to be submitted for any amendment to the CPR. 
+
+A. Change in business name of the manufacturer/distributor 
+
+a.1 Valid LTO reﬂecting the new business name and address of the manufacturer /trader/importer with the source reﬂected on the LTO 
+
+a.2 Valid original CPR 
+
+a.3 Complete labeling requirements reﬂecting the change (primary, secondary and inserts, if applicable) 
+
+B. Change in Ownership 
+
+b.1 Valid LTO reﬂecting the source 
+
+b.2 Termination of Contract/Deed of assignment 
+
+b.3 Agreement of the manufacturer and the new trader/importer/distributor 
+
+b.4 Valid original CPR 
+
+b.5 Complete labeling requirements reﬂecting the change (primary, secondary and inserts, if applicable) 
+
+C. Change in product name (brand name/variant name, etc.) 
+
+c.1 Valid original CPR 
+
+c.2 Valid LTO 
+
+c.3 Complete labeling requirements reﬂecting the change (primary, secondary and inserts, if applicable) 
+
+c.4 Afﬁdavit of no change in the formulation 
+
+c.5 Extension of use or claim 
+
+D. Change in rate, timing or frequency of application or method of application 
+
+d.1 Request for change in formulation, additional or new source of ﬁnished product and change of manufacturer / address of manufacturer shall require initial registration 
+
+d.1.1 Extension of use or claim 
+
+d.1.2 Bioefﬁcacy Study 
+
+d.1.2.1 Abstract 
+
+d.1.2.2 Introduction 
+
+d.1.2.3 Materials and Methods 
+
+d.1.2.4 Results and Discussion 
+d.1.2.5 Summary and Conclusion 
+
+d.1.2.6 References 
+
+d.1.3 Letter of request 
+
+d.1.4 Valid original CPR 
+
+d.1.S Valid LTO 
+
+d.1.6 Complete labeling requirements reﬂecting the change 
+d.1.7 Study or studies that will justify request for change in rate, timing or frequency of application, or method of application 
+
+* A CPR shall be issued for approved application. The CPR shall indicate if the product is For Institutional Pest Control Program Use or both, or For Professional Use H/UPs. The validity of the CPR shall be for 3 years. 
+
+ 
+ANNEX C Licensing of Urban Pest Control Operators (UPCO) 
+
+1. Requirements for License to Operate (LTO) as UPCO 
+
+A. Completely accomplished and notarized Integrated Application Form with ID picture of both the Owner/Incorporater/General Manager and the Authorized Representative 
+
+B. Proof of Business Registration 
+
+b.1 If Single Proprietorship 
+
+b.1.1 Valid Certiﬁcate of Business Name 
+
+b.1.2 Registration with the Department of Trade and Industry (DTI) 
+
+b.2 If a Corporation or Partnership, Valid Registration with Securities and Exchange Commission (SEC) and Articles of Incorporation and other pertinent documents, or 
+
+b.3 If a Cooperative Certiﬁcate of Cooperative Development Authority (CDA) 
+
+* If the Business Name is different from the Corporate Name, SEC Certiﬁcate must reﬂect "Doing business under the name and style of (Name ofEstablishmem)" 
+
+** Valid Mayor's Business Permit or Barangay Business Permit, if the business name and address is different from the registered name and address in the DTI or SEC 
+
+C. Proof of Company Viability, may be notarized bank statement of assets or notarized ﬁnancial statement; 
+
+D. Proof of Occupancy of Ofﬁce and Warehouse. Submit any of the following: 
+
+d.1 Notarized Valid Contract of Lease/ Sublease 
+
+d.2 Transfer Certiﬁcate of Title (if owned) 
+
+d.3 Notarized Certificate of Occupancy (if owned by one of the incorporators) 
+
+d.4 Clearance issued by Homeowner's Association (HOA) if the establishment is located inside a subdivision or residential condominium 
+
+d.5 Duly Notarized Valid Warehousing Agreement (Third Party Logistics) 
+
+E. Vicinity Map and GPS Position 
+
+e.1 Main ofﬁce, branches; number of personnel, identifying the owner/prosident/CEO/operator and basic personnel, such as managers, applicators, technicians and other workers 
+
+e.2 Agreement with a DOE-accredited health facility that will conduct annual medical 
+
+e.3 Check-up for its certiﬁed urban pesticide applicators (CUPAS), technicians, workers and. other personnel 
+
+c.4 Risk Management Plan (contingency plan) and procedures for handling accidents and referrals to hospitals in case of accidents or casualties 
+
+e.5 Safety training plan for applicators, technicians and workers 
+
+II. Inspection 
+
+The Certiﬁcate of Compliance shall be issued by the FDA Inspectorate before a LTO is issued. The following are the parameters for inspection: 
+
+A. Adequate quality and quantity of Personal Protective Equipment (PPE) for people engaged in pesticide operation services 
+
+B. First aid kit or medical clinic, as appropriate 
+
+C. Dedicated (with lock) storage facilities in the main and all its branches 
+
+D. Adequate water supply and washing facilities 
+
+E. Dedicated spraying area for inanimate objects (tables, chairs) that are risky when sprayed right inside the houses or establishments 
+
+F. Dedicated (with lock) disposal area for expired pesticides and used containers. 
+
+* As a general rule, the disposal of expired pesticides and used containers by chemical alteration, by burying/landﬁll, incineration and wastewater treatment system shall be the responsibility of the manufacturer or distributor 
+
+G. Dedicated vehicle. Every vehicle or conveyance transporting pesticide materials shall carry an emergency water supply for washing off corrosive and toxic materials, facilities for washing eyes, such as foxed or portable eyewash fountains, all-purpose gas masks, goggles and protective clothing for protection. Records of annual medical check-up for its CUPAs, technicians, workers and other personnel 
+
+H. First aid and pesticide safety training at the beginning of employment followed by training program at regular intervals 
+
+I. Advanced (contingency) plans and procedures for handling or referral of accidents and casualties 
+
+J. Records and company policies or project that ensure that no poison baits will be exposed in food processing, food manufacturing, food establishment, food storage and other places selling and serving or storing food like hospitals, hotels, eateries, etc. Spraying with chemicals or pesticides shall be done only on approved and deﬁned sprayable surface or areas 
+
+K. Records to ensure that the CUPAs employed by the operator provide direct and personal technical supervision over technician and workers during pest control operation 
+
+L. Record to ensure that Household/Urban Pesticides (HUPs) are not ﬂushed down to sanitary sewer system 
+
+M. Record to ensure that every container of pesticide shall be appropriately, permanently and legibly labelled at all times and any transfer from original containers to another shall be prohibited. In cases where it is not possible, it shall be transferred to small container, provided proper precautions and labelling are observed 
+
+N. Ensure the number and quality of personnel to undertake simultaneous operations or projects/services that require direct and personal supervision by a FDA-CUPA over pesticide technicians and workers 
+
+O. DENR clearance 
+
+P.Business name signage 
+
+III.Approval and Validity of LTO as Urban Pest Control Operators (UPCO) 
+
+The Director of the CCRR, under the authority of the FDA Director General, shall sign and approve the LTO, which shall be valid for 1 year unless revoked. 
+
+IV. Requirements for the Renewal 
+
+A. Letter of application for renewal 
+B. Expired original LTO 
+
+* Automatic Renewal (AR) may be applied for prior the expiration of the LTO. For the AR of LTO, the above requirements must be submitted as well as an afﬁdavit of undertaking for AR stating that that no unauthorized changes have been done on the establishment and no violation of FDA rules and regulations were made. 
+
+**Renewed LTO will be valid. for two (2) years. 
+
+V. Amendments to LTO 
+
+A. Change of Business Name 
+
+a.1 Notarized accomplished petition form with ID picture of the owner
+
+a.2 Photocopy of business name registration or a digital image of the document (1024 x768 pixels) 
+
+a.2.1 For single proprietorship, registration from the DTI 
+
+a.2.2 For corporation / partnership, registration from SEC and Articles of Incorporation. If the registered address with DTI/ SEC is different from the address of the establishment to be licensed, a photocopy of Business/Mayor’s Permit shall be submitted 
+
+a.3 Surrender original LTO B. Change Of Ownership b.l Notarized accomplished Petition Form with ID picture of the owner
+
+b.2 Photocopy of Business Name Registration 
+
+b.2.1 For single proprietorship registration from the DT
+
+b.2.2 For corporation/partnership, registration from SEC and Articles of Incorporation If the registered address with DTI/ SEC 15 different from the address of the establishment to be licensed, a photocopy of Business/Mayor 5 Permit shall be submitted. 
+
+b.3 Photocopy of Deed of Sale or Transfer of Rights 
+
+b.4 Photocopy of Dissolution Papers from SEC (for corporation/partnership) 
+
+b.5 Surrender original LTO 
+
+C. Changes in the Existing or Opening or Closure of Warehouse/Offiee/Branch 
+
+c.1 Notarized accomplished Petition Form with picture of the owner 
+
+c.2 Photocopy of Business Name Registration under new address, when applicable 
+
+c.2.1 For single proprietorship registration from the DTI 
+c.2.2 For corporation / partnership, registration from SEC and Articles of Incorporation. If the registered address with DTI/ SEC is different from the address of the establishment to be licensed, submit a photocopy of Business/Mayor’s Permit 
+
+c.3 Surrender original License to Operate (LTO) 
+
+D. Lost or Destroyed LTO 
+A lost or destroyed LTO shall be replaced by the Food and Drug Administration (FDA) upon submission of the following: 
+
+d.1 Letter of request 
+d.2 Notarized affidavit of loss 
+d.3 Payment of prescribed fee 
+
+* A certified photocopy of the original LTO kept by FDA shall be issued temporarily for a period of 3 months. 
+
+ 
+
+ANNEX D Licensing of Establishment that Sell or Offer for Sale or Use Household/Urban Pesticides (HUPs) for Professional Use (Fumigants) 
+
+1. Documentary Requirements for Licensing 
+
+Submit the following electronically through the Public Assistance Information and Receiving (PAIR) Unit: 
+
+A. Duly notarized accomplished petition form (pro forma) B. Proof of Business Registration 
+
+b.1 If Single Proprietorship Valid Certificate of Business Name Registration with the Department of Trade and Industry (DTI) 
+
+b.2 If a Corporation or Partnership Valid Registration with Securities and Exchange Commission (SEC) and Articles of Incorporation and other pertinent documents, or If a Cooperative, Certificate of Cooperative Development Authority (CDA) 
+
+* If the Business Name is different from the Corporate Name, SEC Certificate must reﬂect "Doing business under the name and style of (Name of'EsrabZishmem)" 
+
+** Valid Mayor's Business Permit OR Barangay Business Permit, if the business name and address is different from the registered name and address in the DTI or SEC Certificate of Completion of PM] P training for Technicians/ Workers by Food and Drug Administration (FDA) or FDA-accredited training providers. 
+
+II. Inspection of establishment shall be conducted after all documents have been accepted. 
+
+The following shall be the parameters for inspection: 
+
+A. Provision of dedicated secured (with locks) storage area. 
+
+B. Records (documentation) of deliveries to establishments and sales to individuals or establishments, e.g. receipts, order and delivery receipts. 
+
+C. Provision of PPEs, toilet with ample supply of water. 
+
+D. Area for storing used containers retrieved from or returned by customers before the suppliers (FDA—licensed manufacturers or distributors) finally dispose them 
+
+E. Other Certification, Environmental Clearance and Permits as required by law (e.g. Sanitary Permit and Health Certiﬁcate issued by Local Government Unit [LGU] and other government agencies) 
+
+III.Approval of Application 
+
+The LTO shall be approved only after the applicant has complied with all the requirements. Initial LTO shall be valid only for ﬁve (5) years. 
+
+
+ANNEX E Training and Certiﬁcation 
+
+I. Qualiﬁcations 
+
+A. Certiﬁed Urban Pesticide Applicator (CUPA) 
+
+a.1 Has completed 2 years college education or 
+
+a.2 Has completed a vocational course 
+
+a.3 Physically and mentally ﬁt as certiﬁed by a licensed physician employed in a DOH-accredited health facility 
+
+a.4 Certiﬁcate or certiﬁcation of completion of basic training on pesticides given by the company, industry association, academe, other government agencies or other organization. 
+
+a.5 If a government employee, a valid employment certiﬁcate and latest Service Record shall be submitted. 
+
+B. Pesticide Handlers 
+
+b.1 At least high school graduate 
+
+b.2 Physically and mentally ﬁt as certiﬁed by a licensed physician employed in a DOHw accredited health facility 
+
+b.3 Certiﬁcate or certiﬁcation of completion of basic training on pesticides given by the company, industry association, academe, other government agencies or other organization. 
+
+b.4 If a government employee, a valid employment certiﬁcate and latest Service Record shall be submitted. 
+
+II. Schedule and Application for Training The Food and Drug Administration Academy (FDA Academy) shall post the training 
+
+schedule at the FDA website (www.fda.gov.ph). All application shall be done online. The applicant shall receive conﬁrmation of acceptance upon completion of the on-line application. 
+
+
+The trainee shall print the conﬁrmation slip and bring it to the venue on the day of the training. The trainee shall bring with him a valid identiﬁcation card (ID) during registration. 
+
+III. Conduct and Completion of Basic Training 
+
+A 2-day basic training module shall be prepared by the FDA Academy and the Center for Cosmetics Regulation and Research (CCRR). A training kit shall be given out to the trainees. Attendance shall be recorded during the entire duration of the training. Upon completion of the basic training, a certiﬁcate of completion of training shall be awarded. 
+
+Applicants in possession of the certiﬁcate shall qualify him/her to be a Pesticide Handler. Those who failed to pass the training shall be required to re-enroll until hef she passes. 
+
+IV. Conduct and Completion of Training for CUPAs 
+
+Only those applicants who were awarded a certiﬁcate of completion of training shall proceed to the training for CUPAs. The FDA Academy and CCRR shall prepare a 2-day training module for CUPAs. An examination shall be given to all applicants at the end of the course. Only those that have passed the examination shall be awarded the FDA ID card as CUPA. 
+
+V. Validity of CUPA ID 
+
+The CUPA ID card shall be valid at all times. However, it shall be surrendered to the FDA whenever there is a change in employment status. It shall be the responsibility of the Urban Pest Control Operator (UPCO) to inform the FDA that a CUPA has been terminated or has resigned. The CUPA shall present to the FDA a proof of new employment. 
+
+A new ID shall be issued upon presentation of physical and mental certiﬁcate issued by licensed-physician employed in a DOH—accredited health facility and payment of the corresponding fee for the new ID. A CUPA need not undergo the courses or take any examination. 
+
+Database on UPCOs, CUPAs and Pesticide Handlers shall be maintained by the FDA which will be shared with the public. 
+
+ 
+

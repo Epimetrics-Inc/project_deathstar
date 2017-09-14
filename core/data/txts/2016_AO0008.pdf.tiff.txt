@@ -1,0 +1,559 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>MAR 21, 2016</date>
+<doctype>ADMINISTRIVE ORDER</doctype>
+<docnum>No. 2016 - 0008</docnum>
+
+
+<subject>SUBJECT: Revised Rules and Regulations Governing the Generic Labeling Requirements of Drug Products for Human Use</subject>
+
+
+<body>
+I. RATIONALE 
+
+Article 111, Section 7 of the 1987 Philippine Constitution declares that the State recognizes the right of the people to gain information on matters of public concern, such as those relating to health and health products. 
+
+Labels and labeling materials are the primary Sources of information for consumers. They provide useful information such as those dealing with the safe and effective use of a drug product (eg. indication(s), phannacologic class and dosage), and information dealing with quality (cg. manufacturing and expiration dates, registration number, and manufacturer). 3 
+
+The Food and Drug Administration (FDA), as the regulatory authority of the Philippines responsible for all matters pertaining to drug products, has issued several guidelines to ensure that drug establishments provide the most accurate information relating to their products. In the course of the enforcement of these issuances, coupled with the advent of globalization and development of harmonization schemes of technical procedures and requirements applicable to the drug industry in the ASEAN region, gaps in regulations have been identiﬁed, and the need for a more transparent and clear regulatory guideline pertaining to labels has been raised. I 
+
+Hence, this Administrative Order is issued to rationalize the regulations on labeling of drug products for human use, as well as to address the gaps and issues raised for the effective implementation of the declared policy. 
+
+II. OBJECTIVE 
+
+The objective of this Administrative Order is to rationalize the existing rules and regulations on generic labeling requirements of drug products, consistent with the harmonized requirements of the ASEAN Member States; thus providing an updated and comprehensive guideline. 
+
+ 
+III. SCOPE 
+
+This Administrative Order shall apply to all manufacturers and distributors (i.e. exporters, importers and wholesalers) of drug products for human use, including herbal medicines and traditionally-used herbal products. 
+
+
+IV. DEFINITION OF TERMS 
+
+For purposes of this Administrative Order, the following terms shall mean: 
+
+1. Active Moiety - the molecule or ion, excluding those appended portions of the molecule that cause the drug to be an ester, salt (including a salt with hydrogen or coordination bonds), or other noncovalent derivative (such as complex, chelate, or clathrate) of the molecule, responsible for the physiological or pharmacological action of the drug substance. 
+
+2. Active Pharmaceutical Ingredient (API) - a substance or compound that is intended to be used in the manufacture of a pharmaceutical product as a therapeutically active compound (ingredient). 
+
+3. Adverse Drug Reaction (ADR) - a response to a medicine that is noxious and unintended, and which occurs at doses normally used in man. 
+
+4. Batch — a deﬁned quantity of starting material, packaging material or product manufactured in a single or series of processes so that it can be expected to be homogeneous. (In the case of continuous manufacture, the batch must correspond to a deﬁned fraction of production, characterized by its intended homogeneity; it may sometimes be necessary to divide a batch into a number of sub-batches, which are later brought together to form a ﬁnal homogeneous batch). 
+
+5. Batch Number - a distinctive combination of numbers and/or letters which specifically identifies a batch on the labels, the batch records, and the certiﬁcates of analysis, etc. 
+
+6. Biological Product — any product of biological origin, prepared with biological processes, derived from human blood and plasma, or manufactured by biotechnology, consisting of substances of higher molecular weight whose purity, potency, and composition cannot readily and reliably be determined by chemical or physicochemical analysis. Examples of this group include vaccines, blood products, modiﬁed animal tissues, high molecular weight hormones, allergens, and the products of genetic engineering or other newer biotechnological techniques. This definition does not include antibiotics and substances that, although of biological origin, are of low molecular weight and can be isolated as pure substances, such as puriﬁed steroids and alkaloids 
+
+7. Brand Name — the proprietary name assigned to the product by the Marketing Authorization Holder (MAH). 
+
+8. Contraindication - a statement regarding the conditions wherein the use of the drug product may cause harm to the patient. 
+
+9. Date of Manufacture - refers to the date (month and year) during which processing of the bulk product, from which the goods are to be ﬁlled, is completed. 
+
+10. Dosage - the quantity of a medicine given per administration. 
+
+11. Dosage Form - the drug product type (e.g. tablet, capsule, solution, cream) that contains a drug substance generally, but not necessarily, in association with excipient(s). 
+
+12. Dosage Strength -— may refer to: 
+
+(a) the concentration of the known AM or active moiety in a given formulation stated in metric units 
+
+(b) the potency of the known API or active moiety expressed in terms of, for example, units by reference to a standard (potency is the speciﬁc ability or capacity of the product as indicated by the appropriate laboratory tests or by adequately controlled clinical data obtained through the administration of the product in the manner intended to effect a given result(s)). This shall be stated in accordance with the potency requirements of the monograph of the product, as ofﬁcially listed in USP, BP' and HP, or any other ofﬁcial compendia recognized by FDA. 
+
+13. Drug Product or Drug 
+
+(a) any article recognized in the ofﬁcial United States Pharmacopoeia- National F ormulary (USP-NF), ofﬁcial Homeopathic Pharmacopoeia of the United States (HPUS), Philippine Pharmacopoeia (PP), Philippine National Drug Formulary (PNDF), British Pharmacopoeia (BP), European Pharmacopoeia (EP), Japanese Pharmacopoeia (JP), International Pharmacopoeia (Ph. Int), any national compendium or any supplement to any of them; 
+
+(b) any article intended for use in the diagnosis, cure, mitigation, treatment or prevention of disease in humans or animals; 
+
+(c) any article other than food intended to affect the structure or any function of the human body or animals; 
+
+(d) any article intended for use as a component of any article speciﬁed in clauses (a), (b) and (c) not including devices or their components, parts or accessories; 
+
+(e) herbal and/or traditional drugs which are articles of plant or animal origin used in folk medicine which are: 
+
+i. recognized in the Philippine National Drug F ormulary 
+
+ii. intended for use in the treatment, cure or mitigation of disease symptoms, injury or body defects in humans 
+
+iii. other than food, intended to affect the structure or any function of the human body 
+
+iv. in ﬁnished or ready-to-use dosage form; and 
+
+v. intended for use as a component of any of the articles speciﬁed in clauses i, ii, iii and iv. 
+
+14. Excipient - an ingredient, added intentionally to the drug substance which should not have pharmacological properties in the quantity used. 
+
+15. Expiration Date - the date (i.e. month and year) placed on the label of a drug product designating the time prior to which a batch of the product is expected to remain within the approved shelf-life speciﬁcation if stored under deﬁned conditions. After the expiration date, there no guarantee that the product will remain within the approved speciﬁcations and, therefore, it may be unsuitable for use and should not be used. 
+
+16. Formulation - the name, strength, and reference monograph of all APIs and/or excipients present in the drug product. 
+
+17. Generic Class Name - the identiﬁcation of a drug product containing three or more APIs by its scientiﬁcally and internationally recognized name or by its ofﬁcial generic name as determined by FDA. 
+
+18. Generic Name - the identiﬁcation of a drug product by its scientiﬁcally and internationally recognized API or by its ofﬁcial generic name as determined by FDA. 
+
+19. Indication - the FDA-approved clinical use of a drug product based on substantial, scientiﬁcally supported evidence of its safety and efﬁcacy in the given dosage form. 
+
+20. Investigational Product - a pharmaceutical form of an active ingredient or placebo being tested or used as a reference in a clinical trial, including a product with a marketing authorization when used or assembled (formulated or packaged) in a way different from the approved form, or when used for an unapproved indication, or when used to gain further information about an approved use. 
+
+21. Label - the written, printed or graphic matter on any drug product, its immediate container, tag, literature or other suitable material afﬁxed thereto for the purpose of giving information as to the identity, components, ingredients, attributes, directions for use, speciﬁcations and such other information as may be required by law or regulation. 
+
+22. Labeling Materials - label on the immediate container, and the other printed materials that are made available with the drug product at the time of purchase and/or when the product is used, such as the outer wrapper cartons, package insert/leaﬂet accompanying the product, which provide the accurate and necessary detailed information for the identiﬁcation and proper use of the product. 
+
+23. Lot Number - any distinctive combination of letters and/or numbers assigned to a particular lot, herein deﬁned as a portion of a batch. 
+
+24. Manufacturer - an establishment engaged in any and all operations involved in the production of health products as well as the ﬁnal release of the ﬁnished product, with the end view of its storage, sale or distribution; provided, that the term shall not apply to the compounding and ﬁlling of prescriptions in drugstores and hospital pharmacies. 
+
+25. Marketing Authorization (MA) - an ofﬁcial document issued by the competent drug regulatory authority (DRA) for the purpose of marketing or free distribution of a product after evaluation for safety, efﬁcacy, and quality, and containing, inter alia: the name of the product; the pharmaceutical dosage form; the quantitative formula (including excipients) per unit dose; the shelf-life and storage condition(s); and packaging characteristics; speciﬁc information on which authorization is based (e. g. “The product(s) must conform with all the details provided in the application and as modiﬁed in subsequent correspondence”); the product information approved for health professionals and the public, the sales category, the name and address of the holder of the authorization, and the period of validity of the authorization. In the Philippines, the MA is in the form of a Certiﬁcate of Product Registration (CPR). 
+
+26. Marketing Authorization Holder (MAH) - the company or corporate or legal entity in the ﬁeld of pharmaceuticals in whose name the MA for a drug product has been granted. This party is responsible for all aspects of the product, including quality and compliance with the conditions of the MA. The authorized holder must be subjected to legislation in the country that issued the MA, which normally means being physically located in that country. In the Philippines, the MAH may either be a manufacturer or distributor (exporter, importer or wholesaler). 
+
+27. Mode of Administration - the manner and site where the drug product is to be introduced into or applied on the body. 
+
+28. Net Content - the total amount/quantity/number of the dosage form in a certain container of a drug product expressed in metric system. 
+
+29. New Chemical Entity (NCE) - new chemical or biological API not previously authorized for marketing for any pharmaceutical use in the country in question. 
+
+30. Over-the-Counter (OTC) Drugs - drug products that can be dispensed even without the written order of a licensed physician or dentist. 
+
+31. Pack Size - refers to the quantity of dosage form in the ﬁnal packaging (excluding the shipping carton) of a drug product bearing the required labeling information. 
+
+32. Package Insert (PI) - the document deﬁning information that is supplied with prescription drug products by the MAH. The PI is intended for use by healthcare professionals. 
+
+33. Patient Information Leaﬂet (PIL) - the document deﬁning information that is supplied with non—prescription drug products by the MAH. The PIL is intended for use by patients and is written in layman’s language. 
+
+34. Pharmacologic Category - refers to the classiﬁcation of the drug product based on its therapeutic action as speciﬁed in the product registration. 
+
+35. Precautions - the instruction and the special care required in the use of the drug product to avoid undesired effects and to ensure its safe and effective use. 
+
+36. Prescription Drug Products - drug products that are to be dispensed only upon the written order or prescription of a duly licensed physician or dentist for the management or treatment of a condition or a diagnosed disease of man. 
+
+37. Primary Label - refers to the label on the primary packaging material of a drug product. 
+
+38. Prodrug - a drug substance that is inactive in the intended pharmacological actions and must be converted into the pharrnacologically active agent by metabolic or physico-chemical transformation. 
+
+39. Product Name - the name (i.e. generic name and brand name, if any) of the drug product as registered in FDA. 
+
+40. Product Description - refers to the complete organoleptic description of the finished drug product. ﬂ/ Page 5 of 16 M 
+
+41. Registration Number - a combination of letters and/or numbers assigned to a particular drug product by FDA as proof of registration. 
+
+42. Small containers - are drug packaging materials that hold less than or equal to 5 mL volume or 5 g weight, which include: 
+
+(a) ampoules, vials, and nebules of small volume parenterals; 
+
+(b) packaging materials for ophthalmic, otic, and nasal liquid preparations; 
+
+(c) jars and tubes for semi-solid preparations; and 
+
+(d) any other packaging material of the same capacity. 
+
+43. Storage Condition(s) - the acceptable speciﬁed temperature range, humidity, and other environmental factors within which optimal. stability of the drug product is ensured based on laboratory data. 
+
+44. Summary of Product Characteristics (SPC) - the product information as approved by the DRA. It also serves as the source of information for health personnel as well as for consumer information on labels and leaﬂets of drug products, and for control of advertising. A Company Core Data Sheet (CCDS) approved by the DRA may also be considered. 
+
+45. Warnings - statements regarding the occurrence of potential hazards and undesirable effects associated with the use of the drug product and the limitation of its use. 
+
+V. GENERAL GUIDELINES 
+
+1. The following are the minimum mandatory information that shall ' appear in the labeling materials accompanying a drug product: 
+
+(a) Product Name
+(b) Dosage Form and Strength
+(c) Pharmacologic Category
+(d) Formulation/Composition
+(e) lndication(s)
+(f) Dosage and Mode of Administration
+(g) Contraindication(s), Precaution(s), Warning(s) (if applicable)
+(h) Interactions
+(i) Adverse Drug Reaction(s)
+(j) Overdose and Treatment
+(k) Storage Condition(s)
+(1) Net Content or Pack Size
+(m) Name and Address of MAH
+(n) Name and Address of Manufacturer
+(o) For prescription drug products, Rx Symbol and Caution Statement
+(p) ADR Reporting Statement
+(q) Registration Number
+(r) Batch Number and Lot Number (if any)
+(s) Expiration Date and Date of Manufacture 
+
+2. All information required to appear on the label shall be (a) written in English and/or Filipino and (b) readable with normal vision without straining. The color contrast, position and spacing of the printed matter on the label must be taken into consideration in complying with labeling requirements. ’ 
+
+3. For all NCEs, biological products, and prescription generic products and herbal medicines, a PI shall be submitted; for all household remedies, overnthe-counter drug and herbal medicines, and traditionally-used herbal products, a PIL shall be submitted. The SPC shall be the basis of the submitted PI for NCEs and biological products. 
+
+4. In lieu of P1 or PIL, the foregoing information shall be printed directly on the reverse side or inner panel of the outer packaging material or inner carton; provided, that the product is intended to be sold or dispensed together with such packaging material or inner carton. 
+
+5. For products intended to be sold without any product information sheet and unit carton, the minimum mandatory information shall be required to be reﬂected on the primary label. 
+
+6. The revised labeling materials compliant with this Administrative Order shall be submitted upon renewal of the MA of a registered drug product. The labeling materials of products due for renewal registration within the ﬁrst year of implementation of this Administrative Order shall be granted reasonable exhaustion period. 
+
+The speciﬁc information required for each labeling material is indicated under Annex A. 
+
+VI. SPECIFIC GUIDELINES 
+
+A. Requirements for each Mandatory Information 
+
+1) Product Name 
+
+(a) The product name shall indicate the generic name and the brand name (if any) of the drug product. 
+
+(b) The generic name shall be as the active moiety based on the International Non-proprietary Name (INN), and consistent with the dosage strength indicated; for prodrugs, the generic name shall be the INN of the prodrug itself and not its active chemical (metabolite) form. ‘ 
+
+(c) The generic name shall appear prominently with an outline box, with the generic name’s prominence over the other information being clearly and distinctly readable by normal vision as may be determined by common visual sense. 
+
+(d) For herbal medicines and traditionally-used herbal products, the generic name shall be the botanical origin or as recognized by FDA. 
+
+(e) If a product is identified by a brand name together with its generic name, the generic name enclosed in an outline box shall in all cases appear immediately above the brand name; for narrative texts (whether in the unit carton, primary label or insert), the brand name shall in all cases be preceded by the generic name and enclosed in parentheses or brackets
+ 
+(f) For products with multiple APIs, the product name shall indicate all of the APIs, enumerated in the order of decreasing pharmacologic activity and placed inside the box in either of the given format: 
+
+
+<image>figure_1.png</image>
+
+
+If the APIs have more or less similar pharmacologic activity, they shall be enumerated in the order of decreasing potency and strength; provided, that if there exists a single approved name for ﬁxed-dose combination (e.g. Cotrimoxazole for the standard formulation Sulfamethoxazole / Trimethoprim), the single approved name shall be used; provided further, that if there is no single approved name but there exist a generic class name (e. g. Multivitamins for multi-vitamin containing preparations, as approved by FDA), the generic class name shall be used. The individual components of the single approved name and generic class name shall be enumerated under Formulation. 
+
+ 
+2) Dosage Form and Strength 
+
+(a) The label shall specify the (i) dosage form of the product such as tablet, capsule, suspension, ointment, etc, (ii) the speciﬁc delivery system, if any, such as modiﬁed release, and (iii) speciﬁc mode of administration, if any, and appropriate, such as vaginal/rectal suppository, etc, as approved by FDA. If there is no qualiﬁer for tablets, it is understood as an oral, uncoated, immediate release tablet. 
+
+(b) The label shall specify the dosage strength of the product which shall be expressed in metric units reduced to lowest terms and in the number of the largest unit speciﬁed (e. g. 500 mcg, not 0.5 mg). 
+
+(c) FDA, as deemed necessary and appropriate, shall allow the strength of certain dosage forms (e. g. semisolid, ophthalmic, otic, nasal, and topical preparations) to be expressed as percentage. 
+
+(d) For products with multiple APIs, the dosage strength shall be stated in accordance with the generic name indicated: for multiple APIs, the individual strengths shall be indicated, separated by a slash sign (/); if a single approved name is used, the dosage strength shall be indicated as the sum. 
+
+Ex: 
+
+<image>figure_2.png</image>
+ 
+
+ 
+3) Pharmacologic Category 
+The pharmacologic category shall be as determined by FDA, taking into consideration current acceptable standards for therapeutic categories. 
+
+4) Formulation/Composition 
+
+(a) The label shall state the name and strength of all APIs present per unit dose of the product, which shall be arranged in decreasing pharmacologic activity, or if having more or less similar pharmacologic activity, in decreasing potency and strength. 
+
+(b) The generic name of the API shall be stated in full (including salts and esters, if any) and correlated to the active moiety, when applicable. The name of the API shall be in accordance with its INN; for herbal medicines and traditionally-used herbal products, the ofﬁcial Philippine Pharmacopoeia name shall be used, or as determined by FDA. 
+
+(c) The reference monograph recognized by FDA (e.g. USP, BP, EP, JP, PP, Ph. Int) used for the analysis of the ﬁnished drug product shall be indicated immediately after the API, unless a non-ofﬁcial method is used; for multiple APIs, it shall be indicated after the ﬁrst API. 
+
+
+<image>figure_3.png</image>
+
+
+(d) Alcohol, when present in the product shall also be indicated, expressed as a percentage (%). The name “alcohol” without qualiﬁcation shall mean ethyl alcohol. 
+
+(e) The coloring, antimicrobial, and antioxidant agents, and preservatives used in the manufacture of the product that may cause hypersensitivity and/or other adverse drug reactions shall also be indicated, with the amount expressed in the same manner as the API. 
+
+5) Indication(s) The indication(s) stated in the labeling materials shall include only the FDA-approved clinical use(s) of the drug product. 
+
+6) Dosage and Mode of Administration 
+
+(a) The label shall contain full information on the product’s recommended dosage, including the (i) initial or loading dose, (ii) optimal use or usual dose, (iii) frequency interval, (iv) duration of treatment, (v) dosage adjustment, and other pertinent aspects of drug therapy, if applicable. 
+
+(b) Relevant information regarding dilution (6. g. the speciﬁc volume of diluent to be added), reconstitution, preparation, and administration shall also be included (such as “Shake well before use” for suspensions, “Do not crush” for tablets with special delivery system, etc.) in all labeling materials. The label shall include a description of the reconstituted preparation. ' 
+
+(c) Separate directions for use by special populations, adults, and children shall be stated. If the product is not recommended for children, the dosage shall be clearly identiﬁed as “Adult dose”, or any statement to that effect. 
+
+7) Contraindication(s), Precaution(s), Warning(s) 
+
+(a) The label shall contain full information regarding the contraindication(s) of the drug product, as well as the precaution(s) to be observed in its administration and use. 
+
+(b) The label shall include warning statements, as required and/or speciﬁed by FDA (6. g. “Flammable,” “For external use only,” “Keep out of reach of children”). Other speciﬁc additional instructions shall be issued by FDA in appropriate regulations. 
+
+(c) Where the contents of a container are to be used on one occasion only, the label shall include the statement, “Single use only”, “Single dose”, “Use only once”, “Discard any remaining portion”, or any statement to that effect. 
+
+8) Interactions 
+
+The label shall include drug-drug, drug—food, drug-laboratory testing interactions, as well as other relevant interactions, if applicable. 
+
+9) Adverse Drug Reaction(s) 
+
+The label shall include detailed information on adverse drug reaction(s) for a drug product arranged by system organ class. 
+
+10) Overdose and Treatment 
+
+The label shall include signs and symptoms of overdose, as well as possible treatment. 
+
+11) Storage Condition(s) 
+
+(a) The label shall indicate appropriate storage condition(s) and special instructions for handling of the drug product. 
+
+(b) Special labeling instructions shall be added for drug products with the following properties: 
+
+
+<image>table_1.png</image>
+
+
+12) Pack Size or Net Content 
+
+(a) The unit carton shall indicate the pack size of the drug product expressed in terms of the number of units in the pack or the volume of each unit, e. g. 60 mL (for liquids), 10 blister packs x 10 tablets (for tablets), 100 tablets, 12 sachets x 5 g, etc.; Provided, that in case of drug products for reconstitution for oral administration, the pack size shall reﬂect the volume of the product as reconstituted. 
+
+(b) For the primary label excluding blisters and foil strips, the net content of the product, stating the total amount/quantity/number of the dosage form in a given container shall be expressed in metric units, e.g. 60 mL (for liquids), 5 g (for sachets) 
+
+13) Name and Address of Marketing Authorization Holder The label shall state the name and full address of the MAH of the drug product. 
+
+14) Name and Address of Manufacturer
+The label shall state the name of the manufacturer and full address of the speciﬁc manufacturing site of the drug product as determined by FDA. 
+
+15)Rx Symbol and Caution Statement 
+
+(a) The labeling materials of prescription drug products shall always include the Rx symbol, which shall be prominently displayed. The Rx symbol may be allowed to be over-printed or superimposed, provided, that such will not result in the obliteration by or being rendered less legible than other required labeling information. 
+
+(b) The caution statement, “Foods, Drugs, Devices, and Cosmetics Act prohibits dispensing without prescription.” shall dwells-included in-the package insert, unit carton, primary label except blister pack, foil strip, and small containers of prescription drug products. In addition, for products classiﬁed as Dangerous Drug as per Republic Act No. 9165, the caution statement shall be followed by an additional statement as speciﬁed by the Philippine Drug Enforcement Agency (PDEA). 
+
+16) ADR Reporting Statement For the product information sheet and the unit carton or primary label except blister pack, foil strip, and small containers of products intended to be sold without a unit carton, the statement “For suspected adverse drug reaction, report to the FDA: www.fda.gov.ph” shall appear. In addition, a statement instructing the patient to seek medical attention immediately at the ﬁrst sign of any adverse drug reaction shall appear. The MAH may also include a reporting statement for their own pharmacovigilance system. 
+
+17) Registration Number The label shall indicate the registration number assigned by FDA to the product, which is denoted by a combination of letters and/or numbers. 
+
+18) Batch Number and Lot Number The label shall indicate the product’s batch number; provided, that if the entire batch is marketed by one drug establishment, only the batch number shall be indicated. However, if a batch is divided into lots marketed by different drug establishments, the lot number and corresponding batch number shall be indicated. 
+
+19) Expiration Date and Date of Manufacture 
+
+(a) The label shall bear the month and year of the product’s manufacturing and expiration date either in letters or words and numbers, or in numbers alone; if expressed in numbers alone, the year shall be stated completely in order to distinguish it from the month; and if the day is speciﬁed, the month shall be spelled out, as shown below: 
+- June 2007 or Jun 2007
+- 06/2007
+- 03 June 2007 or 03 Jun 2007 
+
+(b) Unless a certain day of the month is speciﬁed, the last day of the stated month shall be deemed as the date of the product’s expiration/manufacturing date. 
+
+(c) For products reconstituted prior to use and those which can be administered multiple times (e. g. suspensions), the label shall include the period of guaranteed safety, efﬁcacy, and quality of the reconstituted preparation/after ﬁrst opening at a given storage condition(s). 
+
+B. Special Labeling Instructions 
+
+In addition to the minimum mandatory requirements mentioned, the following shall be required to appear on the label of speciﬁc product types: 
+
+1) Parenterals 
+
+For parenteral products, the following additional information shall be required: 
+(a) A statement of the recommended mode of administration such as “IV”, “IM” or “SC”, etc., as the case may be. 
+(b) Where the product consists of a concentrated solution for injection, 3 direction not to administer the solution undiluted and a direction to dilute the solution with the speciﬁed diluent to the appropriate volume before use shall be stated. 
+
+2. Fluid Replacement Products 
+
+(a) For ﬂuid replacement products which follow the standard formulations contained in the current edition of the ofﬁcial compendium, the nomenclature to be adopted as the generic class name shall be determined by FDA. 
+
+(b) For ﬂuid replacement products not included in any ofﬁcial compendium, FDA shall determine the generic class name. 
+
+(c) Directly below the generic class name but still inside the generic outline box are the individual components (including excipients) with the corresponding mEq/L or mmol/L enumerated in the order of decreasing pharmacologic activity. 
+
+(d) Where one or more substances are amino acids and/or proteins, the total amount of nitrogen in the volume of ﬂuid in the container shall be reﬂected. 
+
+(e) The osmolality, such as “hypotonic” or “hypertonic”; and the pH value or range (where applicable) of the solution shall be indicated. 
+
+3) Products for External Use 
+
+For products that are intended for external use, the statement “For external use only” shall appear on all labeling materials, rendered in capital letters against a red background or printed in red font. 
+
+4) Biological Products 
+
+For biological products, the following additional information shall be reﬂected on the Formulation: 
+
+(a) The name of the species of animal or organism from which the product has been prepared. 
+
+(b) The name of any adjuvant in the product or any substance which, when administered with an antigen, modiﬁes the immune response to that antigen. 
+
+Multivitamin/ Mineral/ Herbal Products with Non-vitamin/ Mineral/ Herbal Components Multivitamins, consisting of at least three vitamins, and minerals, consisting of at least three mineral ingredients, shall have the following additional requirements:  
+
+(a) The generic name adopted for multivitamin-containing products shall. be “Multivitamins”; for multi-mineral-containing products the ofﬁcial name shall be “Minerals”. 
+
+(b) For multivitamin and/or multi-mineral preparations containing at least three herbal ingredients, the generic class name of the herbal ingredients shall be “Herbs”. 
+
+(c) For multivitamin products with non-vitamin components (i.e. mineral or herbal ingredient), or multi-mineral products with non- mineral components (i.e. vitamin or herbal ingredient), or multi- herbal products with non-herbal components (i.e. vitamin or mineral ingredient) the term “Multivitamins” or “Minerals” or “Herbs”, respectively, shall first be stated, followed by the generic name of the speciﬁc additional individual components, as shown below: 
+
+<image>figure_4.png</image>
+
+(d) The unit content of each vitamin, mineral, and/or herbal ingredient present shall no longer be required to be indicated in the generic box, but rather shall be reﬂected under Formulation. 
+
+6) Physician Samples 
+
+(a) In addition to the minimum requirements, each individual dosage unit of the physician’s sample shall include batch and/or lot numbers, date of manufacture and expiration date. 
+
+(b) On each of the labeling material(s), the following statement, shall appear in red background or red font: 
+
+<image>figure_5.png</image>
+
+
+7) Drugs under Maximum Drug Retail Price (MDRP) Control On the label of the minimum pack and the outer presentation of drugs listed under Section 1 of Executive Order No. 821 and other drugs as determined by the Secretary of Health, the following statement shall be required to appear in red background or red font: 
+
+
+8) Reproductive Health Products 
+
+The product information for reproductive health (RH) products that are drugs shall include both PI and PIL. The PIL shall be written in English and Filipino, and/or local dialect. 
+
+The Department of Health (DOH) and/or FDA may, from time to time, prescribe special labeling requirements for specific products. 
+
+C. Exemptions 
+
+The requisites provided in this Administrative Order shall not apply to the following cases: 
+
+1) Drug products manufactured for export; 
+
+2) Veterinary drug products; 
+
+3) If the container or primary pack containing the product is enclosed in a transparent covering and the particulars which are required to be set on the label on the container or primary pack are clearly visible through transparent covering, the transparent covering is exempted; 
+
+4) Products that are compounded by a pharmacist in accordance with the individual prescription of a medical practitioner or dentist for immediate use; 
+
+5) Investigational products; 
+
+6) Foreign donations of drug products; 
+
+7) Products that require special handling or with special packaging (e. g. products that require cold—chain management, pro—filled syringes); and 
+
+8) Low volume of importation (&lt 12,000 units per year, wherein units is deﬁned as the number of individual ﬁnished dosage form [such as tablets, capsules] or ﬁnished packed products [such as vials, sachets, and bottles of liquid preparations], where appropriate). 
+
+A Generic Labeling Exemption (GLE) application shall be concurrently submitted by applicant companies with their application for drug product registration, except for low volume of importation which shall be requested yearly. A letter stating the grounds for which the GLE is requested, as well as sample labels shall be included in the application. For low volume of importation, in addition to the letter a market forecast for the period applied for shall be included. 
+
+If granted, FDA shall issue a GLE certiﬁcate with a corresponding validity and number. The Registration Number assigned by FDA and the name and address of the MAH shall be reﬂected on the label of the drug product. 
+
+Should there be difﬁculties in reading and understanding the (1) generic name, (2) Rx symbol, (3) storage condition, (4) batchllot number, and (5) expiry date on the label of the product granted with a GLE, FDA is hereby authorized to require the MAH to make the appropriate labeling changes. 
+
+
+VII. SANCTIONS 
+
+Any violation of this Administrative Order consistent with Republic Act No. 3720 and Republic Act No. 9711 and its implementing rules and regulations shall be a ground for ﬁling of appropriate administrative charges and/or imposition of administrative sanctions such as, but not limited to, imposition of ﬁnes, suspension, cancellation or revocation of any license, permit or registration issued by FDA. 
+
+VIII. REPEALING AND SEPARABILITY CLAUSE 
+
+AO. 55 s. 1988, AD. 85 s. 1990, A0. 99 s. 1990 and their implementing guidelines, AD. 109 s. 1969, AC. 126 s. 1970, A0. 64 s. 1989, as well as other provisions in existing administrative issuances, circulars and memoranda inconsistent with this Administrative Order are hereby withdrawn, repealed and revoked accordingly. 
+
+If any provision in this Administrative Order, or application of such provision to any circumstances, is held invalid, the remainder of the provisions in this Administrative Order shall not be affected. 
+
+IX. EFFECTIVITY 
+
+This Administrative Order shall take effect after ﬁfteen (15) days following its publication in two (2) newspapers of national circulation and upon ﬁling to the University of the Philippines Law Center—Ofﬁce of the National Administrative Register. 
+</body>
+
+<sign>JANETTE P. LORETO-GARIN, MD, MBA-H</sign>
+<signtitle>Secretary of Health</signtitle>
+
+ 
+
+ANNEX A 
+
+MANDATORY INFORMATION FOR SPECIFIC LABELING MATERIALS 
+
+The provisions of Section VI equivalent to the mandatory information shall apply, unless otherwise specified
+
+A. Unit Carton 
+The unit carton shall contain the following minimum information: 
+
+1) Product Name
+2) Dosage Form and Strength 
+3) Pharmacologic Category 
+4) Formulation/Composition 
+5) Indication(s) 
+6) Warning(s) (if applicable) 
+7) Storage condition(s) 
+8) Pack Size 
+9) Name and Address of Marketing Authorization Holder 
+10) Name and Address of Manufacturer 
+11) For prescription drug products, the Rx Symbol and Caution Statement 
+12) ADR Reporting Statement 
+13) Registration Number 
+14) Batch Number and Lot Number (if any) 
+15) Expiration Date and Date of Manufacture 
+
+B. Primary Label excluding blister pack, foil strip and small containers The primary label shall contain the following minimum information: 
+
+1) Product Name 
+2) Dosage Form and Strength 
+3) Pharmacologic Category 
+4) Formulation/Composition 
+5) Indication(s) 
+6) Warning(s) (if applicable) 
+7) Storage condition(s) 
+8) Net Content 
+9) Name and Address of Marketing Authorization Holder 
+10) Name and Address of Manufacturer 
+11) For prescription drug products, the Rx Symbol and Caution Statement 
+12) ADR Reporting Statement (if without accompanying unit carton) 
+13) Registration Number 
+14) Batch Number and Lot Number (if any) 
+15) Expiration Date and Date of Manufacture 
+
+C. Blister Packs/Foil Strips The standard blister pack/foil strip packaging of a drug product shall contain the following minimum information: 
+
+1) Product name on each unit for single API, or every two (2) units for multiple APIs 
+2) Dosage form and strength of API on each unit for single AP], or every two (2) units for multiple APIs 
+3) Name and/or logo of the Marketing Authorization Holder on each unit for single API, or every two (2) units for multiple APIs (for unbranded products only) 
+4) Rx symbol on each unit for single API, or every two (2) units for multiple APIs 
+5) Batch number and expiration date on every standard blister pack/foil strip, provided that, when the pharmaceutical product is not restricted to be dispensed in quantities less than the standard blister pack or foil strip, the batch or lot number and expiration date shall be indicated on each unit 
+
+D. Primary label of small containers The primary label of small containers shall contain the following minimum information: 
+
+1) Product name 
+2) Dosage Form and Strength 
+3) Net Content 
+4) Name and/or Logo of Marketing Authorization Holder 
+5) Rx Symbol (if applicable) 
+6) Registration Number 
+7) Storage Condition(s) 
+8) Batch and/or Lot Number (if any) 
+9) Expiration Date and Date of Manufacture 
+
+Due consideration may be given in view of limited space on the label. 
+
+E. Package Insert 
+
+The package insert shall contain the following minimum information: 
+
+1) Product Name 
+2) Dosage Form and Strength 
+3) Pharmacologic Category 
+4) Product Description 
+5) Femulation/Composition 
+6) Pharmacodynamics and Pharmacokinetics 
+7) Indication(s) 
+8) Dosage and Mode/Route of Administration 
+9) Contraindication(s), Precaution(s), Warning(s) (if applicable) 
+10) Pregnancy and Lactation (if applicable) 
+11) Interactions 
+12) Adverse Drug Reaction(s) 
+13) Overdose and Treatment 
+14) Storage Condition(s) 
+15) Dosage Forms and Packaging Available (pack size) 
+16) Instructions and Special Precautions for Handling and Disposal (if applicable) 
+17) Name and Address of Marketing Authorization Holder 
+18) Name and Address of Manufacturer 
+19) Caution Statement 
+20) ADR Reporting Statement 
+21) Registration Number 
+22) Date of First AuthorizationfRenewal of the Authorization 
+23) Date of Revision of Package Insert 
+
+Products with varying strengths may opt to use a common insert, provided that individual product description, packaging, formulation, or other differing information between the strengths are included. 
+
+F. Patient Information Leaﬂet PIL shall be prepared and written in layman’s terms, and shall contain the following minimum information: 
+
+1) Name of the Product 
+2) Description of the Product 
+3) What is in the Medicine? 
+4) Strength of the Medicine 
+5) What is this Medicine used for? 
+6) How much and how often should you use this Medicine? 
+7) When should you not take this Medicine? 
+8) Care that should be taken when taking this Medicine? 
+9) Undesirable Effects of this Medicine 
+10) What other medicine or food should be avoided While taking this Medicine? 
+11) What should you do if you miss a dose? 
+12) Signs and Symptoms of Overdose 
+13) What to do when you have taken more than the recommended dosage? 
+14) How should you keep this Medicine? 
+15) When should you consult your doctor? 
+16) Name and Address of Marketing Authorization Holder 
+17) Name and Address of Manufacturer 
+18) ADR Reporting Statement 
+19) Registration Number 
+20) Date of First Authorization/Renewal of the Authorization 
+21) Date of Revision of Patient Information Leaﬂet 
+

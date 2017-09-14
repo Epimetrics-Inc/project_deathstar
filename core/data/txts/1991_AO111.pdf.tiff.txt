@@ -1,0 +1,338 @@
+﻿Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+<date>22/8/1991</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 111 s. 1991</docnum>
+<subject>SUBJECT: RULES AND REGULATIONS IMPLEMENTING CHAPTER VII (INDUSTRIAL HYGIENE) OF P.D. 856, OTHERWISE KNOWN AS “THE CODE ON SANITATION OF THE PHILIPPINES”.</subject>
+<body>
+	Pursuant to Section 4 of the P.D. 856, The Code on Sanitation of the Philippines, the following Rules and Regulations on Chapter VII of the Code are hereby issued for the guidance and strict compliance by all concerned.
+
+RULE 1: DEFINITION OF TERMS
+Section 1 Definition of Terms
+1. Industrial Establishments – refer to establishments engaged in the manufacture, sale, and distribution of goods or processing of raw materials into end products.
+2. Industrial Hygiene – the science and art devoted to the anticipation, recognition, and control of those environmental factors or stresses, arising in or from the workplace which cause sickness, impairs health and inefficiency among workers. It includes the development of corrective measures in order to minimize health hazards.
+3. Department – The Department of Health
+4. Sanitary permit – a permit issued by the Department upon compliance with the prescribed sanitary and occupational health and safety requirements.
+5. Shall – is construed to mean mandatory
+6. Secretary – the Secretary of Health
+7. Local Health Authority – an official or employee responsible for an application and/or implementation of a prescribed health measure in a local political subdivision.
+8. Vermin and Insect Abatement Program – a control scheme to eradicate or reduce the vermin/insect population.
+9. Effluent – waste material discharged into the environment resulting from process of industry, manufacturing, trade or business or from the development, processing or recovery of any natural resources which may cause or tend to cause pollution, or contribute to the pollution.
+10. Outfall – the outlet of a body of water, the mouth of a drain or sewer.
+11. Septic tank – a water-tight receptacle which receives the discharge of a plumbing system or part thereof and designed to accomplish the partial removal and digestion of suspended solid matter in the sewerage through a period of detention.
+12. Sewer – the pipe line conveying sewage from the building to the septic tank or to any point of discharge.
+13. Sewerage system – means pipeline or conduits, pumping stations, force mains, constructed drainage ditches, and all other constructions, devices and appurtenances used for collecting or conducting sewage and industrial wastes or other wastes to a point of treatment, discharge or ultimate disposal.
+14. Waterworks – the system of reservoirs, channels; mains, pumping and purifying equipment by which a water supply is obtained and distributed.
+15. Annual Examination – regular physical examination done once or twice a year.
+16. Pre-employment examination – physical examination conducted before an applicant is accepted or hired for employment.
+17. Separation examination – physical examination conducted prior to the resignation or termination of the workers.
+18. Special Examinations:
+a. ECG (electrocardiogram) – special examination to detect cardiac abnormalities.
+b. EEG _electroencephalogram) – special examination done to determine brain wave abnormalities.
+c. Lung Function Test – special examination performed to determine pulmonary function and abnormalities.
+d. Audiometric Examination – special examination done to detect hearing abnormalities.
+e. Cholinesterase Level Determination – special examination done to determine cholinesterase level in the blood.
+19. Company’s Medical Staff – includes company Physicians, Nurses, Dentists, and First Aiders with adequate training on occupational health and safety.
+a. Full time – a service rendered for 8 hours/day; 40 hours/week.
+b. Part time – a service rendered for at least 4 hours/day, 12 to 24 hours/week as the case may be.
+20. Company’s Health and Safety Committee – the composition of which shall be in accordance with the prescribed rules and regulations of the Labor Code of the Philippines and its implementing Rules and Regulations.
+21. Foot candle – a unit of illuminance on a surface that is everywhere one foot from a uniform source of light of one candle and equal to one lumen per square foot. One foot candle = 10.76 lux.
+22. Monitoring devices:
+a. Gas/vapor sampler – a device used for collecting samples of gas for laboratory analysis.
+b. Globe thermometer (wet bulb temperature index) – used to measure environmental factors which correlate with deep body temperature and other physiological responses to heat.
+c. Lux meter – device used to measure light intensity.
+d. Personal dust sampler – a compact device used primarily for personal dust sampling.
+e. Sound level Meter – electronic device used for measuring sound levels in decibels.
+23. Threshold Limit Values (TLVs) – refers to airborne concentration of substances that represent conditions under which it is believed that nearly all workers may repeatedly exposed day after day without adverse effect.
+24. Glare – refers to excessive luminance in the field of vision which disturbs the adaptation process of the retina produced by excessive light stimuli.
+25. Hazard – risk or danger to one’s health or life.
+26. Hazardous workplace(s) shall refer to an establishment where any or all of the following conditions exist:
+a. Where the nature of work exposes the workers to dangerous environmental elements, contaminants or work conditions including ionizing radiation, chemicals, fire, flammable substances, noxious components and the like;
+b. Where the workers are engaged in construction work, logging, firefighting, mining, quarrying, blasting, stevedoring, dock work, deep sea fishing/diving, and mechanized farming;
+c. Where the workers are engaged in the manufacture or handling of explosives and other pyrotechnic products;
+d. Where the workers use or are exposed to power driven or explosives power-actuated tools;
+e. Where the workers are exposed to biologic agents such as bacteria, fungi, viruses, protozoa, nematodes, and other parasites.
+27. Non-hazardous workplace(s) – shall refer to any establishment where none of the condition(s) under hazardous workplace exist in the principal activity of the establishment.
+28. Vermin – refers to a small group of animals such as mice, rats, and insects which are vectors of diseases.
+a. Rats/Mice – refers to small group of animals habiting human households and premises which are vectors of diseases.
+b. Insect – refers to any of the several kinds of arthropod which include flies, mosquitoes, cockroaches, fleas, lice, and bedbugs which are vectors of diseases.
+29. Ergonomics – refers to the joint application of certain biological sciences and engineering techniques so as to ensure the optimum mutual adaptation of man and work.
+30. Small-scale industries – refer to industrial establishments classified in accordance with the criteria prescribed under the rules and regulations of the Labor Code of the Philippines and its implementing rules and regulations.
+RULE II: SANITARY REQUIREMENTS FOR OPERATING AN INDUSTRIAL ESTABLISHMENT
+Section 1. Prior to operation all industrial establishments shall obtain a sanitary permit from the Secretary or his duly authorized representative under the following conditions:
+A.1 Application or renewal of Sanitary Permit
+a) The application or renewal of the sanitary permit shall be filed annually with the Municipal Health Offices/City Health Office having jurisdiction over the establishment.
+b) All permits shall be issued only upon favorable recommendation of the Municipal Sanitary Engineer/Inspector, Provincial Sanitary Engineer or Regional Sanitary Engineer after site inspection by the Municipal Health Officer/City Health Officer/Regional Health Officer or their duly authorized representative upon compliance with the requirements prescribed herein. In the case however of export processing zones and similar establishments, it shall be referred to higher authorities.
+c) Fees shall be paid upon application or renewal of sanitary permits.
+
+A.2 The following shall be conditions precedent to the issuance of sanitary permit:
+a) Water Supply. Adequate potable water supply shall be provided to employees.
+a.1) An adequate potable water supply approved as to source and distribution by the approving agency shall be provided in all places of employment.
+a.2) Standard drinking water facilities readily accessible to all employees and type approved by the proper authority shall be provided in the ratio of one facility for every fifty employees.
+a.3) Where a local or city waterworks system exists, the industrial establishments shall utilize water from the system or from its own water supply that complies with the Code on Sanitation and the prescribed water quality standards of the National Drinking Water Standards (1978).
+
+b) Sewerage System. Sewage Works and Treatment Plants shall comply with the following requirements:
+b.1) All establishments covered by the system shall be connected to the sewer in areas where a sewage system is available.
+b.2) Outfalls discharging effluent from a treatment plant shall be carried to the channel of the stream or to deep water where the outlet is discharged.
+b.3) Storm water shall be discharged to a storm sewer, sanitary sewage shall be discharged to a sewerage system carrying sanitary sewage only; but this should not prevent the installation of a combined system.
+b.4) Properly designed grease traps shall be installed in establishments where the sewage carries a large amount of grease.
+
+c) Septic Tank. Where a public sewerage system is not available, sewer outfalls from industrial establishments shall be discharged into a septic tank to be constructed in accordance with the following minimum requirements:
+c.1) It shall be generally rectangular in shape. When a number of compartments are used, the first compartment shall have the capacity from one half to two thirds of the total volume of the tank.
+c.2) It shall be built of concrete, either precast or poured-in-place. Bricks, concrete blocks or adobe may be used.
+c.2) It shall not be constructed under any building and within 25 meters from any source of water supply.
+
+d) Disposal of Septic Tank Effluent. The effluent from septic tanks shall be discharged into a subsurface soil, absorption field where applicable or shall be treated with some type of purification device. The treated effluent may be discharged into a stream or body of water if it conforms to the quality standards prescribed by the Environmental Management Bureau (EMB-DENR).
+e) Disposal of Industrial Wastes. The following requirements shall be complied with.
+e.1) All wastes incident to the operation of the industrial plant shall be collected, stored or disposed of in a manner that will prevent health hazards, nuisance and pollution (e.g. settling ponds in the collection of effluents). Where a city of municipal collection and disposal system exists, it shall be utilized.
+e.2) All industrial establishments discharging toxic wastes shall submit a copy of the method of the treatment approved and certified by the EMB to the Department or its duly authorized representatives.
+f) Compliance with the Threshold Limit Values for Hazards.
+The sanitary permit shall be in accordance with the Threshold Limit Values for hazards as adopted by the Department from the American Conference of Governmental Industrial Hygienist – Threshold Limit Values (ACGIH-TLV’s).
+
+g) Abatement Program for Vermin Control. An abatement program for the control of rats and insects shall be maintained.
+g.1) A vermin abatement program shall be maintained in places by their owners, operators or administrators. If they fail, neglect, or refuse to maintain a vermin abatement program the Municipal Health office/City Health Office shall undertake the work at the former’s expense.
+g.2) The procedure and frequency of vermin abatement program shall be determined and approved by the Municipal Health Officer/City Health Officer.
+h) Facilities Required. The following facilities shall be installed in all industrial establishments.
+h.1) Adequate and suitable toilet and bath facilities for both male and female employees at the following ratio:
+1) Where the number of female employees exceeds 100, one (1) toilet for every 20 female employees up to the first 100 and one (1) for every 30 thereafter.
+2) Where the number of male employees exceeds 100 and sufficient urinals have been provided, one (1) toilet for every 25 males up to the first 100 and one (1) more for every 40 thereafter.
+3) Where the number of males employed exceeds 500, it is sufficient to provide one toilet for every 60 males if sufficient urinals are provided.
+h.2) Adequate restrooms and mess halls shall be provided for the employees at the following ratio:
+1) Where 10 or more workers are employed at any one time, at least one restroom for each sex for their exclusive use shall be provided.
+2) Where less than 10 workers are employed and a rest room is not available an equivalent space shall be provided which can be properly screened and made suitable for such use.
+h.3) Dining facilities/mess halls shall be provided where there are 10 or more workers in an establishment.
+h.4) One bathing/washing facility regardless of sex for every 25 employees up to the first 100 and one more for every 40 thereafter.
+i) The following minimum standards shall be strictly observed:
+i.1) Every toilet shall be provided with enclosure, partitioned off so as to provide/ensure privacy and shall have a proper door and fastenings, so door shall be tight-fitting and self-closing.
+i.2) Urinals shall be so placed or screened so as not to be visible from other parts of the factory where employees work or pass.
+i.3) Rest rooms and mess halls shall be so arranged so as to be conveniently accessible to the workers and shall be kept clean and orderly at all times.
+i.4) Bathing/Washing facilities shall include a supply of clean running, hot and cold or warm water, soap, clean towels or other suitable means of cleaning or drying.
+i.5) Adequate hand-washing facilities shall be so provided within or adjacent to toilet facilities.
+i.6) Toilet and bath facilities shall be so arranged so as to be conveniently accessible to the workers at all times while they are at the establishment and shall be kept clean and I orderly condition.
+i.7) Every toilet and bath facility shall be sufficiently ventilated and shall not be joined with any workroom, kitchen or dining room, except through the open air or through an intervening ventilated space.
+i.8) In cases where persons of both sexes are employed, toilet and bath facilities for each sex shall be situated or partitioned so that the interior will not be visible even when the door of any facility is open from any place where persons of the other sex have to work or pass.
+i.9) If toilet and bath facilities for one sex adjoin those for the other sex, the approaches shall be separate and toilet and bath facilities for each sex shall be properly indicated.
+i.10) The minimum space provided for a rest room for 10 workers shall be 6.9 square meters for each additional employee, the minimum addition shall be at least 0.2 square meter.
+j) Workrooms and Work Equipment. All places of employment and all workrooms, including machinery and equipment shall be kept clean and sanitary.
+j.1) All places of employment, passageways, storerooms, service rooms, machineries, equipment and supplies shall be kept in a clean and sanitary condition with all the unnecessary dusts, spillage and debris removed at regular intervals frequent enough to maintain good housekeeping.
+j.2) Where wet process are used, reasonable drainage shall be maintained, and false floors, platforms, mats or other dry standing places shall be provided.
+j.3) Sweeping and cleaning shall be strictly done in such a manner so as to avoid dispersal of air contaminants/dust particles into the work environment.
+k) Location and Siting. The location and siting of industrial establishment shall be in compliance to existing policies, zoning laws and ordinances.
+Section 2. Any person, firm, corporation and entity that shall operate an industrial establishment without the necessary permit shall be subjected to penal provision actions by the Department as provided for under Rule VII.
+Section 3. Non-compliance of the requirements provided for under Section 1 shall mean automatic cancellation of the sanitary permit.
+Section 4. Newly opened establishments which have been issued a temporary sanitary permit and found to have not complied with any one of the prescribed requirement shall be given six (6) months grace period to comply. Failure to comply with the requirements shall mean automatic revocation of the permit issued.
+
+RULE III. RESPONSIBILITIES OF EMPLOYER, EMPLOYEES, ND HEALTH AND SAFETY COMMITTEE
+
+Section 1. Responsibilities of the Employer
+a) Provide, install and maintain in good repair all control measures and protective equipment.
+b) Inform all affected employees regarding the nature of the hazards and the reasons for the method of control measures and protective equipment as provided under Rule V of this Order.
+c) Make periodic testing/examination of the hearing capacity of all employees in noisy areas of operations.
+d) Provide control measures to reduce noise and pollution.
+e) Provide adequate and appropriate personal protective equipment and/or protective barriers when potential and actual hazards are present as provided under Rule V of this Order.
+f) Provide his employees medical services in accordance with the provision under Rule VI of this Order.
+g) Provide his employees the following facilities in accordance with the provision under Rule III of this Order.
+h) Request for the issuance of a permit for variation from the requirements when other means of equivalent protection are provided.
+1. This request shall be filed with the respective municipal health offices/city health offices and shall contain the following:
+a. The reasons for the request.
+b. The alternative measures to be undertaken/adopted.
+2. The Department reserves the right to turn down such requests if the variations are found not appropriate for the proper control of the hazards or the request not justifies to warrant the grant of such requests.
+
+Section 2. Responsibilities of the Employees.
+a) Observe strictly the use of protective control measures in accordance with the provision of Rule V of this Order.
+b) Observe the proper use of equipment provided to them by their employers.
+c) Report health hazards present in the working environment to Company’s Medical Staff or Company’s Safety Committee.
+d) Cooperate in the conduct of health and safety program and inspection.
+e) All employees shall undergo the following medical examinations:
+a. Pre-employment
+b. Annual Examination
+c. Separation Examination
+d. Transfer Examination
+Section 3. Responsibilities of the Company Safety Committee:
+a) Anticipate and recognize health hazards arising out of work operations and processes.
+b) Evaluate and measure the magnitude of hazard based on past experience and study.
+c) Control the hazard which includes engineering procedure or reduction of the number of persons exposed to the hazard.
+
+RULE IV. ENVIRONMENTAL REQUIREMENTS
+
+Section 1. Control of Physical Hazards
+a) Noise – where noise levels are above the TLVs, one/or more of the following measure/s shall be adopted:
+1. Substitution with quieter moving parts.
+2. Proper upkeep and regular maintenance of machinery.
+3. Total or partial enclosure of noise producing equipment.
+4. Utilization of anti-vibration mountings.
+5. Treatment of the area with sound absorbing materials to decrease reverberation.
+6. Increase the distance or construct barriers between the work area and the noise source.
+7. Construct sound insulated remote control booths.
+8. Change of job schedules.
+9. Rotation of workers.
+10. When noise exposure cannot be controlled adequately by environmental changes, the use of hearing protection by workers is necessary.
+b) Heat and Cold Stress
+1. Decrease in the number of hours of physical work of the task.
+2. Modification of the number and duration of exposures.
+3. Modification of the thermal environment.
+4. Maintenance of normal thermal conditions of the rest areas.
+5. Use of the appropriate work clothing
+a. Use of thick clothing, gloves, and shoes
+b. Use of aluminized reflective clothing
+c) Proper lighting
+a) The following recommended levels of illumination shall be observed in all establishments:
+a. Good lighting shall include illumination adequate in amount for the type of work measured by a light meter with a minimum glare and contrasting intensities between work and workroom.
+b. Illumination shall be supplied by a source of light which is constant, without fluctuation or oscillation that may cause eye fatigue.
+c. Illumination shall be provided and distributed to all working areas as required in this implementing rules and regulations.
+d. Seeing tasks requiring discrimination of fine details under conditions of fair contrast and where the nature of the work is very exacting and prolonged shall be provided with a minimum of 100 foot candles of illumination or 1076 lux.
+e. Seeing tasks requiring discrimination of details over prolonged periods of time and under conditions of moderate contrast shall be provided with a minimum of 50 food candles of illumination or 538 lux.
+f. Casual seeing tasks not involving discrimination of fine details shall be provided with a minimum of 10 foot candles of illumination or 107.6 lux.
+g. Rough seeing tasks not requiring critical seeing shall be provided with a minimum of 5 food candles of illumination or 53.8 lux.
+h. Efforts shall be made to prevent excessive brightness ratios between the visual tasks and its surroundings.
+i. Supplementary or local lighting shall be added where the tasks require more light than is provided by the general illumination or where directional light is indicated. This may be indicated in the form of a low placed fixture or a “spotlight” type of light. The lighting fixture of maximum to minimum foot candles shall not exceed 10.1 between supplemental and the general light sources.
+j. Special vapor-proof fixture shall be used where flammable substances are handles and shall be the type approved by the Department.
+d) Vibration
+a. The response of the vibrating surface shall be reduced by any of the following means:
+i. Interface damping (Friction)
+ii. Application of a layer of material with high internal losses over the surface of the vibrating element.
+iii. Designing the critical elements as “sandwich” structures.
+e) General Ventilation
+a. Natural or artificial means shall be provided to insure a safe and healthy working atmosphere which is free from injurious amounts of toxic materials and reasonably free from offensive odors and dust throughout the establishments. The natural air supply in any workroom shall in no instance be less than 0.005 cubic meter per second per person. A ventilation rate of 0.015 cubic meter per second per person is desirable in workroom in which the work is arduous.
+b. All industrial establishments where recognized or established health hazards exists, from dusts, fumes, mists, vapors, gases or other harmful atmospheric contaminants and where their means of control is deemed not adequate by the health authorities, such contaminated air shall be diluted with a sufficient amount of clean air so that the concentration of the toxic materials shall be reduced below the maximum allowable concentration for such contaminants.
+c. All equipment and processes that emit or create harmful dust, fumes, vapors, and gases in quantities that can injure the health of those exposed shall thereto be connected to an exhaust system or otherwise effectively controlled.
+d. A complete exhaust system shall include an air suction device, hoods, ducts, fans, objectors, separators and receptacles and all the other parts necessary for the its proper installation, its inlet velocities shall be regulated at:
+i. 0.61 meter/second for inlets between 2.4 to 3.66 meters above the floor.
+ii. 2.54 meter/second for inlets between 3.66 to 4.88 meters above the floor.
+iii. 5.08 meter/second for inlets more than 5.49 meters above the floor.
+e. All exhaust system shall discharge to the outside atmosphere provided however, that air may be recirculate if it is passed through a suitable cleaning device and is safe and wholesome when reused. The amount of air circulated in workrooms shall not except seventy fie (75%) percent and in plants and dining rooms shall not exceed fifty (50%) percent.
+f. The point of discharge of an exhaust system shall be so located so that the discharge materials shall not re-enter places of employment or habitation, nor create hazard to the public nor cause any general nuisance.
+g. Air shall be provided and distributed in all workrooms as required in this implementing rules and regulations and outside air shall be provided to all workrooms at the rate of 0.008 cubic meter per second per person, or one-half air charge per hour whichever is greater.
+h. Air circulated in workrooms shall be supplied through air inlets arranged, located, and equipped so that workers are not subjected to air velocities exceeding 1.02 meter per second except under special circumstances specified in this implementing rules and regulations or approved by the Department.
+f) Local Exhaust Ventilation
+a. The air velocity and/or rate of air flow required through a hood, booth enclosure, other points of ventilation and through the pipes shall be maintained at all times whenever the machine or process for which the ventilation is applied is in operation or use.
+b. The effectiveness of every local exhaust ventilation system shall be judged according to:
+i. The ability of the hoods, booths or other openings to produce a movement of air toward the opening is sufficient to prevent the escape of the contaminant to the workroom beyond the maximum allowable concentration set-up by the Department.
+ii. The ability of the air flow and main ducts shall be sufficient to transport the contaminant through branch and main ducts without settling.
+c. Piping shall be located so as to be accessible for inspection and maintenance.
+d. Air flow equipment including hoods, pipes, fan motors and collectors shall be effectively grounded.
+e. Two or more operations involving more than one substance shall not be permitted to be connected to the same exhaust system when a combination of such substances being removed may constitute fire hazards, an explosion hazard, or otherwise dangerous mixture.
+f. Processes or operations using or generating flammable dust, gases, fumes, vapors, mists, fibers, or other impurities shall be protected completely from all sources of ignition.
+g. The capacity of an exhaust system shall be calculated on the basis of all hoods, booths, and enclosures connected to the system being open except where the system is so interlocked that only a portion of it can be operated at a given time, in which case the capacity shall be calculated on the basis that all of the hoods in the group requiring the greater volume rate of exhaust are open.
+h. Exhaust system holding dust discharging to the outer air shall be provided with suitable air cleaning devices to remove air contaminants prior to the discharge to the outer air unless otherwise approved by the Department or meets the air quality standards as provided for by the air pollution rules and regulations of the EMB-DENR.
+i. The discharge from any exhaust system shall be such that no air contaminants will enter any window, door, or other opening of any work space in quantities sufficient to create health hazards to such space or create a nuisance to surrounding areas.
+j. Collected materials shall be removed at intervals frequent enough to insure that the exhaust system will meet the requirements of the Rule IV Section 1 paragraph (f) of this Rules and Regulations at all times.
+k. Collected materials shall be disposed of in a manner which will not result in a health hazard.
+l. Suitable air inlets shall be provided for replacement of fresh air.
+SECTION 2. Control of Chemical Hazards
+
+a) Substitution of toxic substances to non-toxic substances shall be applied in cases where it is possible and less hazardous processes shall be utilized whenever applicable.
+b) Isolation/enclosure/interposing of a barrier between a hazard and those who might be affected by the hazard shall be applied.
+c) Proper ventilation of the hazardous area/s shall be provided.
+d) The number of workers exposed shall be maintained at a minimum.
+e) Proper personal protective devices shall be worm by the workers.
+f) Safety and Health Education of the workers shall be implemented.
+
+SECTION 3. Control of Biological Agents
+
+a) Proper personal protective devices with special emphasis on gloves, masks, aprons and water resistant shoes like rubber boots shall b work by workers at all times.
+b) Control measures shall be provided to eliminate or control the transmission of infectious disease through processing or handling of industrial products or wastes.
+
+SECTION 4. Ergonomics
+a) All work procedures shall be in such a manner that it will not produce undue stress to the musculoskeletal system of the workers.
+RULE V. PERSONAL PROTECTIVE EQUIPMENT
+Section 1. Personal protective equipment shall not be used in lieu of control measures specified in Rule B except when approved by the Department.
+Section 2. Personal protective equipment and/or protective barrier shall be provided whenever substances, radiations or mechanical irritants are encountered in a manner capable of causing any pathological change or injury or impairment in functions of any part of the body through skin and/or mucous membrane absorption.
+Section 3. Personal protective equipment as stated hereunder shall be fitted to each exposed worker when necessary:
+a) Head Protection
+a. Hard Hats
+b. Helmets
+c. Head Caps
+b) Face Protection
+a. Face Shields
+b. Eye Goggles
+c. Safety Glasses
+c) Respiratory Protection
+a. Canister
+b. Gas Masks
+c. Cartridge Respirators
+d. Mechanical Filter Type Respirators
+i. Hot Masks
+ii. Airline Respirators
+iii. Airline Hoods
+d) Hearing Protection
+a. Ear Muffs
+b. Ear Plugs
+e) Body Protection
+a. Aprons
+i. Asbestos
+ii. Rubberized
+iii. Water Resistant
+b. Impermeable garments (sleeves)
+c. Over-all
+f) Hand Protection
+a. Gloves
+i. Rubberized
+ii. Leatherized
+iii. Thick Cloth (Denims)
+iv. Asbestos
+g) Foot Protection
+a. Safety Shoes
+i. Hard Rubber
+ii. Leather
+iii. Asbestos
+
+Section 4. Safety Glasses. In any job where safety glasses are indicated, the individual shall have suitable tester to determine whether or not he needs refraction and correction for the job and such correction should be incorporated in the safety glasses.
+Section 5. Working Clothes. Working clothes shall be washed and/or dried between shifts on any job where the process is such that washing or drying is needed or a change of clothes shall be supplied to ensure that dry clothes are available upon return to work.
+Section 6. Respirators. Formal respiratory protection and protective clothing shall be used where it is impossible and impracticable to protect employees from occupational hazards by means of ventilation or other acceptable measures and even in cases where the hazard is controlled by suitable means, a supply of respirators shall be kept for emergency use in case of break down.
+A) All supplied air respirator shall be used only after it conforms with the quality standards prescribed by the Department of Labor and Employment (DOLE).
+B) All personal respiratory protective equipment shall be a type intended for the specific hazard involved. Where personal protective equipment is provided each device shall be cleaned and sterilized after use at which time it should be serviced by replacement of filters or other necessary replacements. When not in used, devices shall be stored in dust free containers.
+C) Each worker who has to use a respirator shall be provided with at least two (2) respirators so that when one is being used, the other one is being cleaned, sterilized and equipped with new filters or other necessary repairs or replacements.
+D) Supervisors and employees shall familiarize themselves with the use, sanitary care and limitations of such respiratory protective equipment as they may have occasion to use.
+
+Section 7. Air Supplies. Where the protective pressure equipment is used, the air supplies shall not contain contaminants. The intake for such air shall be protected against possible contamination with carbon monoxide or other toxic materials. Supplied air lines shall be provided with an approved filter to remove oil, sediments or condensation.
+Section 8. Supplied air lines shall contain an automatic pressure relief valve to ensure that the maximum pressure to air supply hose is less than 172.32 kilopascal pressure. The maximum values of air supplied to a respirator face piece shall be 0.002 cubic meter per second and to hoods or helmets shall be 0.003 cubic meter per second.
+Section 9. X-ray film badges or pocket dosimeters shall be worn by workers who, during their course of work are inevitably exposed to even slightest amount of radiation.
+
+RULE VI. HEALTH SEVICES
+Section 1. Medical Services shall be provided to all employees in accordance with the Labor Code of the Philippines and its implementing Rules and Regulations and the rules and regulations prescribed hereunder by the Department, in the following manner:
+1. For hazardous workplaces:
+a. Where the number of workers is from 1 to 50, the services of a full-time first-aider shall be provided, who maybe one of the workers in the workplace and who has immediate access to the first aid medicine prescribed in rule 1963.01 of the amended occupational safety and health standards.
+b. Where the number of workers is from 51 to 99, the services of a part-time occupational health Nurse shall be provided, who shall stay in the premises of the workplace at least four (4) hours a day, six (6) times a week. Where there are more than one work shift in a day: the Nurse shall stay at the workplace during the shift which has the biggest number of workers. The services of a full-time first-aider including the maintenance of an emergency treatment room for workers shall also be provided.
+c. Where the number of workers is from 100 to 199, the services of a part-time occupational health physician and a part-time dentist shall be provided, each of whom shall stay in the premises of the workplace at least four (4) hours a day, three (3) times a week, and each one working on alternate days with the other, where there are more than one shift in a day, the physician and the dentist shall stay in the workplace during the shift which has the biggest number of workers. In addition, the services of a full-time occupational health Nurse and a full-time first-aider shall be provided An emergency treatment room shall be maintained in the place of employment.
+d. Where the number of workers is from 200 to 600, the services of a part-time occupational health physician and a part-time dentist shall be provided, each of whom shall stay in the promises of the workplace at least four (4) hours a day, sic (6) times a week, and each working in alternate periods with the other. Where there are more than one work shift in a day, the physician and the dentist shall stay at the workplace during the shift which has the biggest number of workers. The services of a full-time occupational health Nurse and a full-time first-aider shall also be provided. An emergency medical clinic for workers shall be maintained in the place of employment.
+e. Where the number of workers is from 601 to 2000, the services of a full-time occupational health physician shall be provided who shall stay in the premises of workplace eight (8) hours a day, six (6) times a week, or two (2) part-time occupational health physicians each working four (4) hours a day, six (6) times a week in alternate periods with the other. The services of a full-time dentist shall also be provided. The physician and the dentist shall stay at the workplace during the shift which has the biggest number of workers. The services of a full-time occupational health Nurse and a full-time first-aider shall be provided for every work shift. An emergency medical and dental clinic for workers shall be maintained in the place of employment.
+f. Where the number of workers is more than 2000, provisions shall be made for the services of a full-time occupational health physician and a full-time dentist, each shall stay in the premises of workplace eight (8) hours a day, six (6) times a week which has the biggest number of workers. In addition, provisions shall likewise be made for the services of one (1) part-time occupational health physician for each of the other work shifts who shall stay in the premises of the workplace at least four (4) hours a day, six (6) times a week. The services of a full-time occupational health Nurse and a full-time first-aider shall also be provided for every work shift. An emergency hospital having a bed capacity of one (1) bed for every one hundred (100) workers and a dental clinic shall be maintained in the place of employment.
+g. Every employer of industries/establishments having factories/plants using or producing pesticides under toxicity categories I and II of the World Health Organization (WHO) toxicity classification standards shall provide the following: 
+i. A medical clinic within 100 meters of working areas in the formulating/manufacturing plant.
+ii. The services of a competent full-time occupational health physician who shall stay in the medical clinic provided for above, at least eight (8) hours a day during the work shift which has the biggest number of workers.
+iii. A bathroom with showers and eye wash facilities within or beside the medical clinic.
+iv. An examining table with capacity to allow trendelenberg position.
+
+b) For Non-Hazardous Workplaces
+1. Where the number of workers is from 1 to 99, the services of a full-time first-aider shall be provided, who maybe one of the workers in the workplace and who has immediate access to the first aid medicine prescribed in rule 1963.01 of the amended occupational safety and health standards. Where the number of workers is from 51 to 99, an emergency treatment room shall be provided.
+2. Where the number of workers is from 100 to 199, the services of a part-time occupational health Nurse shall be provided, who shall stay in the premises of the workplace at least four (4) hours a day, six (6) times a week. Where there are more than one work shift in a day: the Nurse shall stay at the workplace during the shift which has the biggest number of workers. The services of a full-time first-aider will be provided. An emergency treatment room for workers shall be maintained in the place of employment.
+3. Where the number of workers is from 200 to 600, the services of a part-time occupational health physician and a part-time dentist shall be provided, each of whom shall stay in the premises of the workplace at least four (4) hours a day, three (3) times a week, and each one working on alternate days with the other, where there are more than one shift in a day, the physician and the dentist shall stay in the workplace during the shift which has the biggest number of workers. In addition, the services of a full-time occupational health Nurse shall be provided. An emergency treatment room for workers shall be maintained in the place of employment.
+4. Where the number of workers is from 601 to 2000, , the services of a part-time occupational health physician and a part-time dentist shall be provided, each of whom shall stay in the promises of the workplace at least four (4) hours a day, sic (6) times a week, and each working in alternate periods with the other. Where there are more than one work shift in a day, the physician and the dentist shall stay at the workplace during the shift which has the biggest number of workers. The services of a full-time occupational health Nurse and a full-time first-aider shall also be provided. An emergency treatment room for workers shall be maintained in the place of employment.
+5. Where the number of workers is more than 2000, the services of a full-time occupational health physician and a full-time dentist, each shall stay in the premises of workplace eight (8) hours a day, six (6) times a week which has the biggest number of workers. In addition, the services of one (1) part-time occupational health physician for each of the other work shift shall be provided, who shall stay in the premises of the workplace at least four (4) hours a day, six (6) times a week. The services of a full-time occupational health Nurse and full-time first-aider for every work shift shall also be provided. An emergency medical and dental clinic for workers shall be maintained in the place of employment.
+c) For both hazardous and non-hazardous workplaces:
+a. Where there are more than one work shift in a day, additional services of a full-time first-aider for every work shift shall be provided.
+b. Where only a treatment room is provided for the workers in addition shall be provided in case of emergency, access to the nearest medical/dental clinic or to a medical/dental clinic located not more than 5 kilometers away from the workplace. Such access shall be in form of providing the necessary transportation facilities and a written agreement with the medical/dental clinic to attend to such emergencies brought to them.
+c. The physician/dentist required to stay in the workplace during the work shift having the biggest number of worker shall be subject to call at any time during the other shifts to attend to emergencies.
+d. Employees exposed to hazards in the workplace shall undergo special examination at periodic intervals.
+e. All establishments shall keep a medical record of the employee, which shall be made available for inspection by the Secretary or his duly authorized representative should the need arise.
+f. For small-scale industries where health services needed is beyond the scope of the first-aider or in cases of emergencies, the services/facilities of the local health units shall be utilized at the expense of the establishment.
+g. Said local health authorities shall provide the workers with the required medical services/attendance prescribed in this Section.
+h. Dental Health Services shall be in accordance with the standard minimum requirement set by the Dental Health Service of the Department of Health.
+RULE VII PENAL PROVISIONS
+Section 1. Any person who shall violate, disobey, refuse, omit, or neglect to comply with any of the provisions of these rules and regulations shall be guilty of misdemeanor and upon conviction shall be punished by imprisonment for a period not exceeding six (6) months or by a fine of not exceeding P1,000.00 or both.
+Section 2. Any person who shall interfere with or hinder, or oppose any officer, agent, or member of the Department of the Bureaus and Offices under it, in the performance of his duty as provided for under these rules and regulations, or shall tear down, mutilate, deface, or alter any placard, or notice affixed to the premises in the enforcement of these rules and regulations shall be guilty of a misdemeanor and punishable upon conviction by imprisonment for a period not exceeding six (6) months or by a fine not exceeding P1,000.00 or both depending upon the discretion of the court.
+
+RULE VIII. SEPARABILITY AND REPEALING CLAUSES
+Section 1. In the event that any rules, section, paragraph, sentence, clause or word of this Order is declared invalid for any reason, the other provision thereof shall not be affected thereby.
+Section 2. All pertinent rules and regulations which are inconsistent with the provisions of this Order are hereby repealed or amended accordingly.
+RULE IX DATE OF EFFECTIVITY
+This rules and regulations shall take effect after fifteen (15) days from date of publication in the official gazette or two (2) newspapers of general circulation.
+</body>
+<sign>ALFREDO R.A. BENGZON, M.D.</sign>
+<signtitle>Secretary of Health</signtitle>
+

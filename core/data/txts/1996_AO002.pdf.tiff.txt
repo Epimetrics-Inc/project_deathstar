@@ -1,0 +1,102 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+SAN LAZARO COMPOUND, RIZAL AVENUE, STA. CRUZ, MANILA, PHILIPPINES
+TEL NO. 711-60-80 
+
+<date>01/15/1996</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2 s. 1996</docnum>
+
+<subject>SUBJECT: Validation and Update of Barangay Health Workers Masterlist</subject>
+
+<body>
+A. RATIONALE:
+
+Section 4 of Republic Act 7883 otherwise known as the “Barangay Health Workers’ Benefits and Incentives Act of 1995,” mandates the Department of Health to maintain a national register of barangay health workers.”
+
+Section 5 of the same Act stipulates that the DOH shall “determine the ideal ratio of barangay health workers to the number of households provided however that the total number of barangay health workers nationwide shall not exceed one percent (1%) of the total population.”
+
+In order that the DOH could prepare for the implementation of R.A. 7883 and carry out the mandated roles and functions as provided in the Act, a validation, and update of existing masterlist of BHWs shall be conducted throughout the country. The following guidelines and procedures are described for guidance.
+
+
+
+B. GUIDELINES AND PROCEDURES:
+
+
+B.1 Organizational Set-up
+
+Technical Working committees shall be created at different levels of implementation. These committees shall be responsible for planning the activities related to the validation and updating of the masterlist of BHWs. The composition of the various committees are as follows: 
+
+1. City/Municipal Technical Working Committee (CTWC/MTWC) 
+a) DOH Representative 
+b) Designated Municipal/ City BHW Coordinator
+c) Municipal/ City BHW Federation President
+
+2. Provincial Technical Working Committee (PTWC)
+a) DOH Representative 
+b) BHW Coordinator 
+c) Provincial Computer Operator
+d) Provincial BHW Federation President
+
+3. Regional Technical Working Committee (RTWC)
+a) BHW Coordinator
+b) LGAMS Coordinator
+c) Regional Computer Operator
+d) Regional BHW Federation President
+
+4. National Technical Working Committee (NTWC)
+a) Director, MAS
+b) OIC, LGAMS
+c) National BHW Federation President
+d) Director, CHS 
+
+
+B.2 Rules and Responsibilities of Agencies Involved
+
+1. Provincial Health Office (PHO) — The PHO shall facilitate through the provincial BHW Coordinator and computer operator the validation and processing of generated data on BHW. It shall involve the BHW Federation in the activities.
+
+2. Regional Field Offices (RFO) - The RFO through the Regional BHW Coordinator shall coordinate the validation and updating of BHW data in the region. It shall provide the necessary technical, logistic, financial support to the provinces at different level of implementation. It shall collect soft copy or diskette copy of provincial data, print out masterlists, and such printed masterlists shall be distributed to all provincial and regional BHW Federation and Local Health Board not later than May 31,1996.
+
+3. Local Government Assistance and Monitoring Service (LGAMS) - The LGAMS shall participate in the planning and management of activities in coordination with CHS and MAS. It shall provide inputs related to the concerns and issues of DOH representatives and Local Government Units.
+
+4. Management Advisory Service-(MAS) - The MAS shall provide technical assistance in planning and managing information system development. It shall specifically design data collection and other related forms, develop a computer based masterlisting of BHW, orient and train the regional computer operators, regional BHW coordinators and CHS Staff in using the system operation. It shall also assist CHS in producing and publishing the BHW masterlist and the necessary statistical reports.
+
+5. Community Health Service (CHS) - The CHS shall coordinate the overall implementation of this order. It shall facilitate the participation and involvement of the Regional Field Offices, MAS, LGAMS and Barangay Health Workers Federation in planning and implementing the validation activities. It shall serve as the repository unit of DOH for the BHW masterlist and shall provide access to other interested institutions or groups.
+
+
+B.3 Methodology
+
+1. Data Collection/ Validation — The Provincial Technical Working Committee shall plan out the activities for the collection and validation of BHW list per municipality covering the period of 1 January to December 1995. This entails coordination with the CTWC/ MTWC. 
+
+The CTWC/ MTWC shall:
+a) Review the most recent BHW masterlist of the city/ municipality
+b) Compare the list with the 1991 DOH prescribed masterlist data elements (see attachment 1) 
+c) Collect missing information or update the existing information
+d) Submit the accomplished data collection/ validation form to the PTWC
+
+The collection or validation activities shall be done from February 15 - March 30,1996.
+
+2. Data Processing — This activity begins upon completion and submission of municipal master list. This shall be the primary responsibility of PTWC and RTWC with the following specific activities and functions:
+
+a) Editing the masterlist as to the completeness and correctness of entries 
+b) Data entry by the Provincial Computer Operator
+c) Print out of masterlist per municipality
+d) Other PTWC member(s) validate the correctness and completeness of computerized outputs
+e) Submission of final soft copies and print outs to the Regional Health Office 
+Attention: Regional Computer Operator
+f) Regional Computer Operator consolidates the regional masterlist
+g) Submission of soft copies and hard copies of regional masterlist to MAS and CHS respectively not later than May 31, 1996. 
+
+The data processing activitiess shall be done at the provincial and regional level from February 15 - April 15, 1996 and from March 30 to May 31, 1996, respectively.
+
+3. Publication - The city/ municipal BHW federation president, DOH representative, local health board and city/ municipal health ofﬁces shall be provided each with a hard copy of their city/ municipal BHW database by the RFC. The hard copy of provincial BHW database shall also be provided to the provincial BHW federation, provincial health office, the local health board, Regional BHW Federation and the DOH representatives. The DOH representatives shall make the database available to other interested groups.
+
+CHS and MAS shall be responsible for the publication of national BHW database CHS shall make the publications available to other agencies for information and reference.
+
+This Order which supersedes any order previously issued to the contrary, takes effect upon approval. 
+
+</body> 
+<sign>HILARION J. RAMIRO JR., MD., MHA</sign>
+<signtitle>Secretary of Health</signtitle>

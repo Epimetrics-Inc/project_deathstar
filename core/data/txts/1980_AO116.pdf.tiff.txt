@@ -1,0 +1,22 @@
+Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+<date>12/31/1980</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 116 s. 1980</docnum>
+
+<subject>SUBJECT: Amendment to Administrative Order No. 98 dated August 28, 1980, by placing the Management Information Division under the Planning Service, Office of the Minister</subject>
+
+<body>
+In order that the statistical information generated from all health and medical units of the Ministry of Health can be fully and effectively utilized in the formulation of annual, short term and long range plans and in the determination of priorities for proposed health projects, the Management Information System Division, which has been placed temporarily under the Philippine Population Project II under Administrative Order No. 98 dated Angust 28, 1980, is hereby transferred to the administrative control and supervision of the Chief, Planning Service, Office of the Minister.
+
+Accordingly, all administrative and technical matters involving the Management Information System Division shall bear the recommendation or approval, as the case maybe, of the Chief, Planning Service.
+
+This Order takes effect January 1, 1981.
+</body>
+
+<sign>ENRIQUE M. GARCIA, M.D.</sign>
+<signtitle>Minister of Health</signtitle>

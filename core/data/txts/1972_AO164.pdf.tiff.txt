@@ -1,0 +1,35 @@
+Republika ng Pilipinas
+KAGAWARAN NG KALUSUGAN
+MAYNILA
+
+<date>02/01/1972</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 164 s. 1972</docnum>
+
+<subject>Subject: Further delegation of authority of the Department Budget Officer.</subject>
+
+<body>
+To facilitate the financial transactions in the interest of the Department of Health, further authority is hereby delegated to the Department Budget Officer as follows:
+
+(1) To sign and approve voucher and request for obligation of allotments involving remmittance of funds to the subordinate units of the Department of Health, when such payments merely involve allocations of funds previously approved and authorized by the Budget Commision and do not need exercise of discretion.
+
+(2) To sign details of expenses of special budget of hospitals, provided the covering indorsement or letters recommending their approval shall be for the signature of the Secretary of Health.
+
+(3) To sign plans of works and requests for allotments, covering the programming of appropriations, provided the covering letters or indorsement, recommending their approval shall be for the signature of the Secretary of Health.
+
+(4) To sign and approved Traveling Expenses Vouchers, provided the corresponding itinerary of travel has been previously approved and authorized by the Secretary of Health.
+
+The Department Budget Officer shall sign in the following manner:
+
+CLEMENTE S. GATMAITAN, M.D., M.P.H.
+(Undersecretary for Health & Medical Services)
+Officer-in-Charge
+By:
+CARLOS SAN PEDRO, JR.
+Department Budget Officer
+</body>
+
+<sign>CLEMENTE S. GATMAITAN, M.D., M.P.H.</sign>
+<signtitle>(Undersecretary for Health & Medical Services)
+Officer-in-Charge</signtitle>

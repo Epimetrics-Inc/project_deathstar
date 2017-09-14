@@ -1,0 +1,292 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>SEP 06, 2011</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2011 - 0012 </docnum>
+
+
+<subject>SUBJECT: Implementing Guidelines on Electronic Drug Price Monitoring System (EDPMS) version 2.0 </subject>
+
+<body>
+I. RATIONALE 
+
+Under Republic Act (RA) No. 7581 or the “Price Act” of 1992, the Department of Health (DOH) is identiﬁed as the lead implementing agency in classifying essential drugs as “basic necessities” and monitoring their corresponding prices to ensure that they are reasonable at all times. 
+
+In support to the abovementioned law, the DOH issued Administrative Order (A0) No. 2006—0009 dated February 14, 2006, establishing the guidelines institutionalizing and strengthening the Essential Drug Price Monitoring System ( e~EDPMS) in the DOH. The Order covered all data collection activities and analysis undertaken by all health facilities and units under the DOH on the prices of essential drugs sold to the general public. Said issuance was initially implemented as a manual system. 
+
+Republic Act (RA) No. 9502 otherwise known as the Universally Accessible Cheaper and Quality Medicines Act of 2008, states that “it is the policy of the State to protect public health and when the public interest or circumstances of extreme urgency so require, it shall adopt appropriate measures to promote and ensure access to affordable quality medicines for all”
+
+Subsequently, Administrative Order (A0) No. 2008-01 was jointly formulated by the Department of Health , Department of Trade and Industry, Intellectual Property Office, and Bureau of Food and Drugs (now known as Food and Drugs Administration), which set the Implementing Rules and Regulations ([RR) of RA No. 9502. Chapter V provides for the Price Monitoring and Regulation System and the Creation of Advisory Bodies and Consultative Councils. 
+
+Rule 26 of the same chapter mandated the Secretary of Health to establish and initiate an. electronic price monitoring and regulation system for drugs and medicines. To support this directive, the Department of Health developed the Electronic Essential Drug Price Monitoring System (e-EDPMS) and issued AO No. 2008-0014 which provides the “Guidelines on the Pilot Implementation of the e—EDPMS”. 
+
+In an effort to continuously improve the system, the DOH through consultations with the end-users and stakeholders has developed version 2.0. This order deﬁnes the implementing guidelines in the implementation of the EDPMS version 2.0. 
+
+II. OBJECTIVES 
+
+General Objective: To provide a more effective and efficient implementation of 
+
+EDPMS Version 2.0 
+
+Speciﬁc Objectives: 
+
+1. To expand the scope of implementation of the system to cover all drug establishments and outlets. 
+
+2. To establish guidelines on data validation, analysis, report generation and dissemination, monitoring and evaluation. 
+
+3. To strengthen and provide more coherent roles and responsibilities of the different agencies and stakeholders involved in the implementation of the system. 
+
+III.DEFINITION OF TERMS 
+
+For purposes of this Order, the following terms are deﬁned as follows: 
+
+<image>table_1.png</image>
+<image>table_2.png</image>
+<image>table_3.png</image>
+<image>table_4.png</image>
+<image>table_5.png</image>
+ 
+
+IV. SCOPE 
+
+This Order applies to all DOH Central Ofﬁces, Attached Agencies, Centers for Health Development Ofﬁces, Local Government Units, Government and Private Health Facilities, Drug Establishments and outlets and other agency data beneﬁciaries subject to the rules on compliance provided below. 
+
+V. GENERAL GUIDELINES 
+
+1. For initial applications for LTO, attendance to the EDPMStraining seminar conducted by NCPAM shall be required. Thereafter, the use of the EDPMS for regular reporting of data shall be required for the renewal of License to Operate (LTO) issued by FDA, BHFS and CHDs. 
+
+2. Those with existing LTO but has not undergone trainings required under this Order shall undergo such trainings as a requirement to the renewal of the LTO. Thereafter,” the use of the EDPMS for regular reporting of data shall be required for the subsequent renewal of License to Operate (LTO) issued by FDA, BHFS and CHDs. 
+
+3. The NCPAM shall deﬁne the users who are authorized to use the system, deﬁne access level and permission rights, review and approve requests to access the system and/or data. 
+
+4. Drug establishments and outlets shall report data on drug prices and inventories on a monthly basis using the EDPMS Version 2.0 and other succeeding versions. 
+
+5. CHD ofﬁces shall undertake validation to check the quality of data (eg. reliability, completeness, and timeliness) being submitted by the drug establishments and outlets prior to official release of reports. The NCPAM shall generate, analyze and officially release the required reports or information only after the CHD offices have validated the data. 
+
+6. The PhilHealth may use the price information from the EDPMS as reference or basis for reimbursement of government and private health facilities. 
+
+7. For the effective implementation of this Order, a monitoring team composed of personnel from IMS, NCPAM and FDA shall be created and authorized to enter drug establishments and outlets to conduct monitoring activities to assess compliance of reporting facilities and the performance of the system. 
+
+VI. SPECIFIC GUIDELINES 
+
+1. Attendance of the drug establishments and outlets representative (Pharmacist/owner/IT personnel, etc.) to trainings and use of the EDPMS for regular reporting of data, as the case may be, shall be required for the initial or renewal of License to Operate (LTO) issued by FDA, 131-th and CHDs. 
+
+2. Drug establishments and outlets applying for initial application for LTO including those with existing LTO but have not undergone EDPMS training as required in this Order shall undergo training on EDPMS for the respective initial and renewal issuance of LTO. 
+
+3. Once the initial or renewed LTO is issued drug establishments and outlets shall regularly report or upload the data into the EDPMS. The reporting shall be a requirement for subsequent renewal of LTO. 
+
+4. The trainings required under this Order shall be included in the regular liCensing trainings conducted by the FDA every two months; and by the BHFS/CHDS every September 15th of the current year and annually thereafter. 
+
+5. For levels three and four hospitals, the BHFS and FDA shall verify if the same facility regularly reports to the EDPMS before any license or accreditation is issued. Below level three hospitals, the CHD shall be responsible for the aforementioned veriﬁcation. 
+
+6. Drug establishments who are interested to participate in government bidding for drugs and medicines must show proof of compliance with the reporting on the use of the EDPMS. 
+
+7. The NCPAM shall deﬁne the users who are authorized to use the system, deﬁne access I level and permission rights, review and approve requests to access the system and/or data. 
+
+a. The NCPAM shall assign and issue user names and passwords to drug establishments and outlets who are going to use the system. The NCPAM shall also grant appropriate access levels and rights to the following: 
+
+i. Philhealth for veriﬁcation or checking of submitted medicine prices for reimbursement by the government and private health facilities and for other purposes. 
+ii. Precuring entities, namely Procurement Service, CHDS, Hospitals and Committees on Bids and Award may check the current medicine prices in the market. 
+iii.‘ DOH Management, namely Executive Committee, Directors, and Program Managers, and personnel of concerned ofﬁces including FDA.
+
+8. The NCPAM shall review and assess the requests of other agencies, ofﬁces, units, departments, and other organizations to have access to the system. The NCPAM shall assign and issue the appropriate access level and rights. 
+
+9. Drug establishments and outlets shall report data on drug prices and inventories on a monthly basis using the EDPMS Version 2.0 and other succeeding versions.
+
+a. Drug and medicines covered by or subject of the Maximum Drug Retail Price (See Annex A. for the List of Drugs and Medicines that are subject for Price Regulation) shall not exceed the maximum retail price imposed by law-or Orders wherever they may be sold. This also applies to govemment and private health facilities regardless of the established room rates. 
+
+b. Drug establishments and outlets shall report on a monthly basis the following data depending on the type of establishments: 
+
+ 
+<image>table_6.png</image>
+ 
+
+ 
+c. The data to be reported shall include the latest transactions per item that occurred during the reporting month. Example: For January 2011, latest purchase transaction for paracetamol is January 15, 2011, and latest selling transaction is January 31, 2011. As such, the purchase transaction to be reported is as of January 15, 2011; and the selling transaction to be reported is as of January 31, 2011. 
+
+d. Drug establishments and outlets shall enter or upload data every ﬁrst (1") ﬁve (5) working days of the month. The report represents the previous month’s data. Example: To report the latest purchase price and selling price transactions and other required data for the month of January 2011, it shall be entered or uploaded within the period February 1-4 and 7; For February 2011, the data shall be entered or uploaded within the period March 1-4 and 7. 
+
+e. Drugstores with up to four branches shall comply with the reporting requirements effective January 2012. 
+
+f. List of drugs and medicines as stipulated in Section 5, Rule 30, Chapter VI of the Implementing Rules and Regulations of RA 9502 shall be subjected to price regulations. Changes or updates in the said list shall be automatically included in the price regulation.
+
+g. The DOH shall update the Price List as deemed necessary and shall be properly disseminated or posted in the DOH’s official website. 
+
+10. CHD ofﬁces and FDA shall undertake validation to check the quality of data (eg. reliability, completeness, and timeliness) being submitted by the drug establishments and outlets prior to ofﬁcial release of reports. The NCPAM shall generate, analyze and ofﬁcially release the required reports or information only after the CHD ofﬁces and FDA have validated the data. 
+
+a. The CHD offices and FDA shall be given access levels and rights to view and validate the data of all drug establishments and outlets within their regions. As such, the CHD Regional Directors shall assign or designate person(s) to check or verify the quality of submitted data. 
+
+b. The CHD ofﬁces and FDA shall be given ﬁve (5) working days to check or verify the data from the time the drug establishments and outlets have entered their reports, i.e. after the ﬁfth working day of the month. 
+
+c. The CHD ofﬁces and FDA shall report within three (3) working days the facilities that complied and violated over the MDRP and GMAP. 
+
+d. All issues, concerns and/or problems in the validation of data shall be properly elevated to the NCPAM. Thus, the NCPAM shall address these accordingly. 
+
+11. The NCPAM shall generate, evaluate and ofﬁcially release the required reports or information only after the CHD ofﬁces and FDA have validated the data. 
+
+a. The NCPAM shall generate the monthly price medicine report every third (3”) week of the month. This is the period where data has been entered or uploaded, and validated by the CHD ofﬁces and FDA. 
+
+b. The NCPAM shall regularly release and/or post the Quarterly Price Medicine Report and Annual factsheets on the DOH website at wwwdohgovph. 
+
+c. The NCPAM shall analyze the reports or information using the factsheet format for purposes of generating the Annual Drug Price Bulletin, which shall include the following concerns: variations in government and privately procured medicine prices, trending, mark—up of medicine prices, regional variation in prices and others. 
+
+d. An Annual Drug Price Bulletin shall be generated every third (3rd) week of January. Example: The Annual Drug Price Bulletin for 2011 shall be generated on the third week of January 2012. 
+
+12. For the effective implementation of this Order, monitoring activities to assess E compliance of reporting facilities and the performance of the system shall be conducted. The NCPAM, BHFS, FDA, IMS and concerned CHDs are hereby authorized to conduct monitoring activities, which shall be done regularly or as the need arises through spot monitoring or checking. 
+
+a. The NCPAM shall develop, maintain and utilize the standard monitoring and reporting tools to be used during monitoring, reporting and disseminating the reports. 
+b. The following shall be the minimum basis in selecting drug establishments and . outlets for monitoring: 
+i. Total non—compliance in reporting data; 
+ii. Irregular reporting of data; 
+iii. Prices of medicines that exceeded the MDRP and GMAP; 
+iv. Delayed reporting of data; or 
+v. Other deﬁciencies related to the implementation of this Order as assessed by the concerned CHD, NCPAM, BHFS, IMS or FDA. VII. 
+
+VII. ROLES AND RESPONSIBILITIES 
+
+1. The NCPAM, as the system owner and over-all lead ofﬁce in managing the implementation of the EDPMS, shall: 
+
+a. Establish policies, procedures and guideline in data collection, reporting, processing, analysis and dissemination of information. 
+
+b. Issue orders requiring all drug establishments and outlets to usethe Electronic Drug Price Monitoring System (EDPMS) Version 2.0 software in reporting data to the DOH, and other automated tools or software to support the implementation of the price monitoring and regulation system. 
+
+c. Provide direction and guidance in the implementation of the EDPMS Version 2.0. 
+
+d. Review reports or information, and provide analysis or interpretation. 
+
+e. Prepare factsheets and annual medicines price bulletin. 
+
+f. Address issues, concerns and other problems accordingly. 
+
+g. Provide funds necessary to maintain and implement the system (e. g. system development and maintenance, cost of meetings, workshops, conferences, symposium, and other related activities). 
+
+h. Provide orientation and training on matters related to the use or operation of the system and other relevant trainings. 
+
+i. Grant user names and passwords to users who are authorized to use the EDPMS. 
+
+j. Monitor andevaluate the implementation of the system. 
+
+k. Perform other tasks or activities as may be necessary in the implementation of this Order. 
+
+2. The FDA shall: 
+
+a. Validate the data being-reported by drug establishments and outlets in NCR to the NCPAM. 
+
+b. Monitor compliance of drug establishments and outlets in regularly reporting data. 
+
+c. Assist the NCPAM in monitoring the implementation of the system. 
+
+d. Maintain and update registry of drugs and medicines, and list of licensed drug establishments and outlets. 
+
+3. The BHFS shall: 
+
+a. Act on cases referred to it by the NCPAM and/ or FDA, involving violations on EDPMS committed by hospital owners and/or staff, as the case may be, for their appmpriate action. 
+
+b. Monitor compliance of health facilities in regularly reporting data as one of the requirements in the renewal of LTO. I 
+
+c. Suspend or revoke the LTO of hospitals for levels 3 and 4. 
+
+4. The CHDs shall: 
+
+a. Validate the data being reported to the DOH. 
+
+b. Orient and train drug establishments and outlets within their area of responsibility on how to operate the software. 
+
+c. Monitor compliance of drug establishments and outlets reporting data and adherence to the MDRP and GMAP. 
+
+d. Monitor and evaluate the implementation of the system. 
+
+e. Validate requests for user names and passwords, and endorse to NCPAM for proper issuance. 
+
+f. Suspend or revoke the LTO of hospitals for levels 1 and 2 under their regions. 
+
+5. The IMS shall: 
+
+a. Provide technical support in software maintenance, implementation, deployment and operations, such as but not limited to the following: software enhancement, system troubleshooting, debugging, database backup and recovery, network administration, database administration, and others. 
+
+b. Train the trainers from CHDs and NCPAM, and/or users on how to operate the software. 
+
+c. Train the System Administrators on the mechanics of technical assistance, database administration, and other relevant technical support. 
+
+d. Monitor the operations and performance of the system. 
+
+6. The Area Cluster Heads shall: 
+
+a. Develop appropriate mechanisms to ensure that all relevant policies and plans are implemented by the CHDs. 
+
+b. Resolve issues that may be elevated to the Cluster. 
+
+c. Support the technical assistance packages necessary to enhance capacity of the CHDs and the regional partners in providing assistance to the local government units, and as necessary, in coordination with concerned clusters/ technical units. 
+
+7. Drug establishments and outlets and other covered entities shall: 
+
+a. Comply strictly with the standard system and procedures in submitting reports to the NCPAM. 
+
+b. Comply with the use of the software as part of the performance evaluation for the initial issuance and renewal of License to Operate. 
+
+c. Attend trainings, workshops, meetings or conferences related to the implementation of the system. 
+
+d. Register the personnel who are authorized to use the EDPMS to NCPAM. 
+
+e. Report issues, concerns or problems in the implementation of the system to the NCPAM. 
+
+VIII. ADMINISTRATIVE SAN CTIONS: 
+
+1. Administrative sanctions shall be imposed on erroneous submission or failure to submit _ the required data by drug establishments, hospital pharmacies and drug outlets and non- traditional drug outlets as required by the NCPAM without justiﬁable reason, provided that such erroneous submission or failure to submit electronic data does not fall as any of the activities defined as illegal acts of price manipulation in which case the penalty provided for under RA 7581 or RA 9502 as may be appropriate and their implementing rules and regulations shall be followed. 
+
+2. The DOH shall impose the following sanctions and penalties; as stated in RA. 9502, IRR, Chapter XIV: 
+
+a. lst violation — Written Warning 
+
+b. 2nd violation — Administrative fine of a minimum of Ten ThOusand (P10, 000.00) to Fifty Thousand (P50, 000.00) Pesos depending on the gravity and extent of the violation, including the recall of the offending product when applicable; 
+
+c. 3rd violation — Administrative fine of minimum of Sixty Thousand (P 60,000.00) to One hundred Fifty thousand (P 150,000.00) Pesos, depending on the gravity and extent of the violation, and in addition thereto, the recall of the offending product, and suspension of the Certificate of Product registration (CPR) when applicable; 
+
+d. 4th violation — Administrative fine of a minimum of Two hundred thousand (P200,000.00) to five Hundred Thousand (P500 000.00) Pesos, depending on the gravity and extent of the violation, and in addition thereto, the recall of the offending product, revocation of the CPR, suspension of the License to Operate (LTD) and or License to Import and Distribute, when applicable, for a period of time. 
+
+e. 5th and succeeding repeated violations - Administrative fine of One million (P1,000,000.00) Pesos, and, when applicable the recall of the offending product, revocation of the CPR, revocation of the License to Operate (LTO) and or License to import and Distribute of the company concerned, including the blacklisting of the company to be furnished Government Procurement policy Board (GPPB) and the Department of Trade and Industry (DTI); 
+
+f. An additional penalty of Two thousand five Hundred (P2,500.00) Pesos per day shall be made for every day the violation continues after having received the order from the DOH or other such appropriate body, notifying and penalizing the offending person or company for the infraction. 
+
+3. Suspension or revocation of the License to Operate as drug establishments and drug outlets may also be imposed by the Secretary of Health in addition to the above administrative fine. In case of suspension of the License to Operate, the duration thereof shall not exceed one (1) year. 
+
+4. Rule 78. of the IRR of RA. 9502 
+
+a. Fees, charges and Fines. All fees collected, charges imposed and administrative fines that have accrued as a consequence of the implementation of the Act and these Implementing rules and regulations shall be for the account and income of the BFAD. 
+
+IX. REPEALING CLAUSE 
+
+Administrative Order No. 2008 — 0014 dated May 7, 2008 and other provisions of previous issuances, inconsistent with this Order are hereby rescinded and modiﬁed accordingly. 
+
+X. SEPARABILITY CLAUSE 
+
+If any provision of this Order is declared invalid by any court of law or any competent authority, those provisions not affected thereby shall remain valid and effective. 
+
+XI. EFFECTIVITY: This order shall take effect fifteen (15) days after the publication on the gazette or a newspaper of general circulation. 
+</body>
+
+
+<sign>ENRIQUE T. ONA, MD, FPCS, FAC</sign>
+<signtitle>Secretary of Health</signtitle>
+
+
+
+LIST OF DRUGS AND MEDICINES THAT ARE SUBJECT To PRICE REGULATION. 
+
+The list of drugs and medicines that are subject to price regulation shall include-inter alia: 
+
+(a)Drugs and medicines those are included in the current edition of the Philippine National Drug Formulary (PNDF) Essential Drug List. 
+
+(b) All drugs and medicines indicated for treatment of chronic illnesses and life threatening conditions, such as, but not limited to, endocrine disorders, e.g., ' diabetes mellitus; gastrointestinal disorders, e.g., peptic ulcer; urologic disorders, e.g., benign prostatic hyperplasia (BPH; cardiovascular disease, e.g., hypertension; pulmonary disease, e.g., pulmonary tuberculosis (PTB), asthma; auto-immune disease , e.g., systemic lupus erythematosus (SLE); .skin disease, e.g., psoriasis; neuro—psychiatric disorders; other infectious disease, e.g., human immunodeficiency virus-acquired immune deﬁciency syndrome (HIV-AIDS); and other conditions such as Organ transplant and neoplasm;
+
+(c) Drugs and medicines indicated for prevention of disease, e.g., vaccines, immunoglobulin, anti—sera; 
+
+(d)Drugs and medicines indicated for prevention of pregnancy, e.g., oral contraceptive; 
+
+(e) Anesthetic agents; 
+
+(f) Intravenous ﬂuids; and 
+
+(g) All other-drugs and medicines which, from time to time the Secretary of Health, in accordance with the relevant. 

@@ -1,0 +1,233 @@
+Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+<date>07/20/1979</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 31 Series 1979</docnum>
+
+<subject>SUBJECT: REQUIREMENTS FOR THE ACCREDITATION OF WATER ANALYSIS LABORATORIES</subject>
+
+<body>
+The Ministry of Human Settlements and Ecology had, in January 1978, published a three volume "Philippine Standard Methods for Air and water Analysis", and the Ministry of Health, in September 1978, had issued a revised "National Standards for Drinking Water". The objective of the former publication is to have some assurance that accepted procedures are available for the determination of the "Standard", and that the adherence to the procedures allows comparability of results of analysis within a single laboratory and between laboratories. While laboratory procedures could be established their mere application is no guaranty that results are not erroneous. Erroneous results could mislead decision makers, e.g. in disapproving a water system even though historically the supply had always been of good quality.
+
+Water is a commodity which one cannot do without: it is one of the elements of life. For this reason alone, the water that is delivered to communities must be duly accredited as safe and potable. The safety and potability of water can be determined by the standard procedures already mentioned and the determination is undertaken by duly accredited water analysis laboratory. This laboratory must have the necessary facilities and personnel possessing the technical skill and knowledge to perform these vital examinations to assure that the results are acceptable and therefore reflect the quality of the water sampled.
+
+Those who deal with the determination of safe and potable water must be imbued with due concept that water analysis laboratories are not set up as any commercial enterprise for profit but primarily to assist maintain the safe and potable quality of the water supply for the community through the early detection of pollution and immediate institution Of remedial and corrective measures by those concerned. They therefore, assume a civic responsibility.
+
+In view of the foregoing, and in order to implement Sec. 12, Chapter II. of P. D. 856, otherwise known as the Code of Sanitation of the Philippines. which provides that "the examination of drinking water shall be performed only in private and government laboratories duly accredited by the Department of Health (now Ministry), "the following requirements for the accreditation of water analysis laboratories are hereby promulgated:
+
+Requirements for the accreditation of a water analysis laboratory
+
+Water analysis laboratories maybe accredited for separate services like bacteriological, chemical, radiological, physical, biological or for a combination of two or more or all of these services. Accreditation is renewable every year. (See Item No. 11)
+
+1. Basic Requirements
+
+Any person, firm or corporation desiring to establish or operate and maintain a water analysis laboratory shall submit to the Ministry of Health, through the Bureau of Research and Laboratories, an application, in the form prepared and adopted therefor, and containing among others the following data: (1) the name, citizenship and domicile of the head of the laboratory; (2) the municipality and place where it is to be established; (3) name of establishment; (4) name, citizenship and domicile of owner; (5) scope and nature of work, specifying procedures; (6) statement that applicant has complied with all business requirements under existing laws or ordinances that are necessary in pursuance of the activity for which an accreditation is applied for; (7) tax clearance for preceding year.
+
+An inspector of the Bureau of Research and Laboratories shall, upon the receipt of said application inspect within 60 days the establishment and verify if applicant has complied with all the requirements prescribed in these regulations. The certificate of accreditation will henceforth be issued, signed and approved by the Minister of Health or his duly authorized representative if the application is found to be meritorious otherwise the same shall be returned to the applicant with notations on why application was not approved.
+
+2. Personnel
+
+The operation of water analysis laboratories shall be under the direction and supervision of a licensed sanitary engineer. If the water analysis laboratory is attached to a licensed clinical laboratory where the bacteriological and chemical services are licensed to operate, then the clinical pathologist licensed to supervise the laboratory concurrently supervises the water analysis laboratory. In areas where there may not be a licensed sanitary engineer, a licensed chemist, medical technologist or pharmacist, with adequate training and experience of at least 3 years in a water analysis laboratory may provisionally supervise operation.
+
+The sanitary engineer in charge of supervision/direction of water analysis laboratory shall be authorized to head, manage, or supervise up to three (3) water laboratories provided they are contiguously located in a particular area. Those provisionally authorized to supervise operations maybe allowed to supervise only one laboratory.
+
+All laboratory assistants involved in the technical aspect of the physical, bacteriological, chemical, biological and radiological examination of water, should be either a registered pharmacist, medical technologist or chemist. One with a baccalaureate degree in biology may undertake biological analysis of water under the supervision of a registered professional. All technical assistants must have been trained and must have at least one year experience in the procedures involved in the different aspects of water analysis. A technical assistant may supervise not more than two skilled workers.
+
+Laboratory support personnel such as laboratory aides are needed to clean glasswares, assist in the preparation of media, etc. Trained personnel for sampling as well as for clerical support should also be provided.
+
+Each service must therefore be operated by at least one registered professional, one laboratory assistant and one laboratory aide. A bacteriological service with a minimum number of personnel may handle at most 30 samples/day and a chemical service of at most 5 samples for routine chemistry.
+
+3. Physical Plant
+
+(a) Work rooms must be housed in a permanent building constructed of strong materials, preferably concrete or semi-concrete. The floor must be concrete or tiled or linoleum-finished. It must also have adequate drainage.
+
+(b) Work rooms should be well—ventilated with adequate provisions for either natural or artificial lighting.
+
+(c) The working space of the laboratory must correlate with the volume and type of work it intends to do and periods of peak workload, and must consider the equipment and number of personnel involved. Working space requirements must include sufficient bench-top area for processing samples, storage space for media, glasswares and portable equipment, and an adequate appropriate area for cleaning glasswares and sterilizing materials. The bench-top working area needed for processing samples should be at least 1.20—1.80 m of continuous area per analyst. The working area for a specific service should be at least 20 sq. meters. A hood for chemical, radiological and bacteriological units must be provided. The analytical balance should be on a level and firm stand preferably cement—based. The work space of each unit or service must be separate and adequate.
+
+(d) A bench height of 90 centimeters provides convenience for the worker who may choose to stand or sit while performing various tasks. Laboratory benches 75 centimeters high should also be provided for other types of work. The laboratory table or top working areas should be level.
+
+(e) All work rooms should have adequate running water not stored water. Shower facilities should be available.
+
+(f) Adequate physical provisions for the safety of the laboratory personnel must be provided considering exposure to chemicals, inflammable reagents, fires, etc. All provisions of the safety and building code should be complied with.
+
+4. Laboratory Apparatus, Materials and Reagents
+
+All laboratory apparatuses must be of such quality as to meet levels of sensitivity, reliability and should only need minimum service repairs to correct mechanical failure or intolerable fluctuations in some critical characteristics. The apparatuses must also be such as to meet an increased workload. The apparatuses must also serve efficiently and effectively the purpose for which they were procured. The highest grade of quality of media and reagents are to be used.
+
+Applications for accreditation must specify the procedure of the examinations that the laboratories will perform so that the equipment, materials and supplies required will be as set forth in the Philippine Standards of Air and Water Analysis, Vol. 1 and Vol. 2. The following are some of the tests that maybe done for each service. The kind of test to be undertaken by the laboratory should be specified in the application and in the certificate of accreditation.
+
+(a) Bacteriological Analysis Service
+
+1. Multiple—tube fermentation technic
+2. Gram-stain technic
+3. IMVIC test
+4. Standard plate count
+5. Fecal coliform test
+6. Optional - tests for fecal streptococcal group
+
+(b) Biological Analysis Service
+
+1. Quantitative and qualitative examination of phytoplankton samples
+2. Zooplankton and bottom fauna examination
+
+(c) Physical and Chemical Analysis Service
+
+Tests for:
+
+1. Color
+2. Odor
+3. pH value
+4. Specific conductance
+5. Taste
+6. Temperature
+7. Turbidity
+8. Total solids
+9. Hardness
+10. Acidity
+11. Alkalinity
+12. Aluminum
+13. Arsenic
+14. Barium
+15. Cadmium
+16. Calcium
+17. Free carbon dioxide
+18. Chloride
+19. Chlorine (residual)
+20. Chromium (hexavalent)
+21. Copper
+22. Cyanide
+23. Fluoride
+24. Iron
+25. Lead
+26. Magnesium
+27. Manganese
+28. Mercury
+29. Nitrogen, ammonia
+30. Nitrogen, nitrate
+31. Nitrogen, nitrite
+32. Oil and grease
+33. Total organic carbon
+34. Oxygen, dissolved
+35. oxygen, demand, biochemical
+36. Pesticides
+37. Phenols
+38. Phosphate
+39. Potassium
+40. Residue
+41. Selenium
+42. Silica, dissolved
+43. Silver
+44. Sodium
+45. Sulfate
+46. Sulfide
+47. Sulfite
+48. Surfactants
+49. Zinc
+
+(e) Radiological Analysis Service
+
+1. Gross Alpha and Gross Beta Radioactivity (Total, Suspended and Dissolved)
+2. Total Radioactive Strontium in Water
+3. Strontium — 90 in water
+4. Total Radium (Precipitation Technique)
+5. Radium — 226 by Radon (Soluble, Suspended and Total)
+
+The minimum equipment for each service are the following:
+
+(a) Bacteriological Analysis Service
+
+1. Incubator
+2. Waterbath, 37°C
+44.5°C — 0.5 (if Escherichia coli test is to be performed)
+3. Autoclave
+4. pH meter
+5. Analytical balance
+6. Colony counter
+7. Microscope
+8. Hot plate or stove
+9. Oven, sterilizing
+10. Bunsen burner with tank
+11. Refrigerator
+
+(b) Chemical Analysis Service
+
+1. pH meter
+2. Oven, sterilizing
+3. Candle turbidimeter
+4. Pipette washer
+5. Spectrophotometer; spectronic 20, or A.A.
+6. Magnetic stirrer
+7. Waterbath
+8. Refrigerator
+9. Gas chromatographer
+10. Vacuum filter
+
+(c) Biological Analysis Service
+
+1. Water sampler, any of the following:
+
+(a) Van—Born
+(b) Kemmerrer
+(c) Nansen
+(d) Ruttner
+(e) Improvised Meyer of LLDA's Modified sampler
+
+2. Water pump with graduated intake
+3. Bottom dredge
+4. Inverted microscope
+5. Compound microscope
+
+(d) Radiological Analysis Service
+
+The apparatus, supplies, reagents and sampling as well as work room requirements shall be as provided for in the 14th edition of the Standard Methods for the Examination of Water and Wastewater, prepared and published jointly by American Public Health Association, American Water Works Association and Water Pollution Control Federation.
+
+5. Minimum Required References for Each Laboratory
+
+(a) Philippine Standard Methods for Air and Water Analysis, Vol. 1 and Vol. 2, Human Settlements Commission, January 1978.
+
+(b) Standard Methods for the Examination of Water and Wastewater, APHA, AWWA, WFCF, 14th Edition
+
+(c) National Standards for Drinking Water, Bureau of Research and Laboratories, Ministry of Health, 1978.
+
+6. Requests and Results
+
+The laboratory must have printed requests and results of examination forms. The samples for these forms as incorporated in reference 5 (a) may be used as guides. No result can be released to the public unless signed by the sanitary engineer or the authorized supervisor. Records of examinations must be properly filed for easy reference.
+
+7. Quality Assurance Program
+
+The accredited laboratory must participate in the quality assurance program to be conducted by the Bureau of Research and Laboratories.
+
+8. Laboratory Fees
+
+The rate of laboratory fees to be charged by a water analysis laboratory for examinations shall be within the range of the usual fees prevailing at the time and particular place taking into consideration costs of production and quality control of various laboratory procedures.
+
+9. Inspection
+
+It shall be the duty of the Director of the Bureau of Research and Laboratories or his duly authorized representative to conduct periodical inspection of water analysis laboratories. The Director of the Bureau of Research and Laboratories or his duly authorized representative/s shall be given the opportunity at all reasonable time to inspect the premises and facilities of the laboratory. All records shall be made available to them.
+
+10. Exhibition of Certificate of Accreditation
+
+The Certificate of Accreditation of the water analysis laboratory must be displayed in a conspicuous place within the laboratory.
+
+11. Expiration
+
+The accreditation of a water analysis laboratory shall expire on the last day of December of the year stated therein, including the authorization given to the head or supervisor of operation.
+
+12. Renewal
+
+Application for renewal shall be filed on the last two months of the year.
+
+13. Updating of requirements
+
+The requirements for the accreditation of water analysis laboratory maybe updated from time to time as the need arises.
+
+This Administrative Order shall take effect immediately.
+</body>
+
+<sign>CLEMENTE S. GATMAITAN, M.D., M.P.H.</sign>
+<signtitle>Minister of Health</signtitle>

@@ -1,0 +1,128 @@
+﻿<date>02/14/1974</date>
+
+<doctype>Administrative Order</doctype>
+<docnum>No. 206 s. 1974</docnum>
+
+<subject>SUBJECT: CODE OF PRACTICE FOR THE PROCESSING AND HANDLING OF QUICK FROZEN FOODS</subject>
+
+<body>
+SECTION I - SCOPE AND PURPOSE
+
+1.1 This Code is intended to provide guidelines to Codex Committees for elaborating codes of practice or standards for specific quick frozen products*/ or groups of products.
+
+1.2 This Code of Practice is intended to apply to quick frozen foods of all types which have been subjected to the process of quick freezing set out in Section III of this Code and which are offered for sale in the quick frozen state.
+
+1.3 The recommendations are intended as a guide to assist in the production and handling of quick frozen foods in order to maintain their quality up to the time of final sale.
+
+SECTION II - RAW MATERIALS AND PREPARATION
+
+2.1 Only sound and wholesome raw materials should be used for the quick freezing process. Because quick freezing cannot improve the original quality of the foods being treated, only products at an optimum level of freshness and maturity should be quick frozen.
+
+2.2 The selected raw materials should be in prime condition when processing begins. In order to minimize the rate of natural deterioration when storage prior to processing is necessary stage in stock holding, all raw materials should be stored for a period dictated by actual trade and material needs, in conditions capable of maintaining a temperature range and degree of relative humidity appropriate to the raw materials concerned.
+
+2.3 To minimize micro—biological activity pre—cooked foods intended for quick freezing should not be held in the temperature range 10°C to 60°C. They should be cooled as rapidly as possible in suitable precooling equipment consistent with requirements of hygienic processing. Whilst it is desirable that cooling and quick freezing should be carried out immediately, where this is not possible the food should be held at a temperature above 60°C (140°F) until cooling and subsequent quick freezing can take place. 
+
+SECTION III — QUICK FREEZING
+
+3.1 After preparation the product should be quick frozen without delay. The quick freezing process should be carried out in appropriate equipment in such a way as to minimize physical, biochemical and micro-biological changes.
+
+3.2 To achieve this the freezing operation should be carried out in such a way that the range of temperature of maximum crystallization (for most products - 1°C to -5°C) (30°F to 23°F) is passed quickly.
+
+3.3 The process should not be regarded as complete unless and until the product temperature has reached -18°C (0°F) at the thermal center after thermal stabilization.
+
+3.4 Specific limits for freezing times and speeds are not given, as the requirements of both differ for various food stuffs. Where necessary, specific indication should be made in individual food standards or Codes of Practice.
+
+3.5. If the product is exposed to higher temperatures after quick freezing, effective measures should be taken to keep temperature rise to a minimum.
+
+3.6 The recognized practice of repackaging quick frozen products should be carried out only under controlled conditions.
+
+SECTION IV - STORAGE
+
+4.1 Cold stores should be operated so as to maintain a product temperature of -180°C (O°F) or lower with a minimum of f1uctuation.
+
+4.2 Excessive product temperature fluctuations either in range or frequency are undesirable. They may lead to serious dehydration in susceptible products and to other forms of quality deterioration. Although temperature fluctuations are generally less harmful at lower storage temperatures, variations greater than 2 Centigrade degrees (4 Fahrenheit degrees) in the air temperature should, so far as possible,
+be avoided.
+
+4.3 Frequent temperature checks should be carried out, preferably with recording thermometers or devices that will continually monitor storage temperatures.
+
+4.4 The air velocity in cold stores should be moderate and no higher than necessary to achieve sufficiently uniform temperatures within the store.
+
+4.5 Products should be stacked so that air circulation is not impaired. No direct contacts with the walls -- except in jacketed rooms - ceiling or floor should be allowed. The distance between the stored products and the walls, ceiling or floor should be at least l0cm (4 in.).
+
+4.6 a system of controlled stock rotation should be employed in cold stores.
+
+SECTION V - TRANSPORT AND DISTRIBUTION
+
+5.1 The transport of quick frozen foods over a long period of time should be carried out in equipment capable of maintaining and so operated as to maintain a product temperature of -18°C(0°F) or lower. Vehicles should be pre—cooled to 10°C (50°F) or lower prior to loading and should be equipped with devices to record temperatures during transport.
+
+5.2 A temperature rise of the product during transport to -15°C due to unforeseen circumstances may be tolerated but any product temperature higher than -18°C should be reduced as soon as possible either during transport or immediately after delivery to —18°C.
+
+5.3 Loading into and unloading from vehicles and into and from stores should be as fast as practicable and the methods used should minimize product temperature rise.
+
+5.4 During the transport as indicated in 5.1 frequent temperature checks should be carried out using methods of recording temperatures of the load visible outside of the vehicle.
+
+5.5 During unloading the vehicle as indicated in 5.1 and before entering the cold store, the product temperature should be checked. 
+
+5.6 Transport of quick frozen foods for local distribution should be carried out in such a way that the temperature rise is kept at a minimum. 1/
+
+5.7 A temperature rise of the product occurring during local transport as indicated in 5.6 should be reduced to -18°C as soon as possible after delivering. When this is not possible the product should be offered for sale as soon as possible.
+
+SECTION VI - RETAIL SALE
+
+6.1 Quick frozen foods should be offered for sale from refrigerated cabinets designed for the purpose. 
+
+6.2 The cabinets should be capable of maintaining and be so operated as to maintain a product temperature of -18°C (0°F) and should be equipped with a thermometer.
+
+6.3 A rise in product temperature may be tolerated for short periods but the product temperature should not be allowed to become higher than -15°C (5°F), except for the top layer where a higher temperature may be tolerated. 2/
+
+6.4 Warm air currents from the outside should not blow directly into the refrigerated space. Cabinets should be located so that the open display area is not subjected to abnormal radiant heat (e.g. not in direct sunlight, under strong artificial light or in direct line with heaters). Cabinets should be covered at night and over the weekend. Defrosting cycles should be programmed in such a way that, as much as possible, defrosting takes place outside the normal shopping hours.
+
+6.5 The contents of the cabinet should never be stocked outside the load line. Stocks should not be removed from and returned to the cabinet except when absolutely necessary.
+
+6.6 Unpacked products are subject to risks of contamination and dehydration and should be stored and displayed in compartments separate from those used for packaged quick frozen foods.
+
+6.7 Foods which are not quick frozen should not be placed in a cabinet which contains quick frozen foods. Prepackaged edible ices may, however, be kept in cabinets containing quick frozen foods.
+
+6.8 Stocks should be carefully rotated to ensure that the products are sold on a "First In First Out" basis.
+
+SECTION VII - PACKAGING
+
+7.1 The packaging should be designed to:
+
+7.1.1 protect the organoleptic and other quality characteristics of the product;
+
+7.1.2 protect the product against micro-biological and other contamination;
+
+7.1.3 protect as far as practicable against dehydration, heat accumulation by radiation, and, where appropriate, leakage;
+
+7.1.4 not pass on to the product any odor, taste, color or other foreign characteristics, throughout the processing (where applicable) and distribution of the product up to the time of final sale.
+
+7.2 Retail packages should be preserved intact up to the time of final sale.
+
+SECTION VIII - HYGIENE
+
+8.1 The maintenance of good hygiene is important throughout the preparation, freezing process, transport and distribution right up to and including the time of final sale.
+ 
+8.2 Quick frozen foods should always comply with the provisions of the General Principles of Food Hygiene and, where appropriate, with Codes of Hygienic Practice relevant to a particular food.
+
+Adopted from the Joint-FAO/WHO Food Standards Programme
+Codex Alimentarius Commission
+ALINORM 74/25
+Appendix V
+
+This regulation shall take effect 30 days after publication in the Official Gazette.
+
+*/ Detailed technical information may be found in a publication of the International Institute of Refrigeration, "Recommendations for the Processing and Handling of Frozen Foods".
+
+1/ It is intended to give further specifications of the temperature and its measurement as soon as additional experience makes this possible.
+
+2/ It is intended that precise temperature be specified in this section after a review of data obtained from additional experience.
+</body>
+
+<sign>CLEMENTE s. GATMAITAN, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+Recommended by:
+
+<sign>L. M. PESIGAN</sign>
+<signtitle>Food & Drug Administrator</signtitle>

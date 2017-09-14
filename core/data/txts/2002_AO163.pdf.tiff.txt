@@ -1,0 +1,267 @@
+Republic of the Philippines
+Department of Health.
+OFFICE OF THE SECRETARY
+Manila
+SAN LAZARO COMPOUND
+RIZAL AVENUE, STA. CRUZ,
+MANILA, PHILIPPINES
+TEL NOS. 743-83-01
+
+<date>10/16/2002</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 163 s. 2002</docnum>
+
+<subject>SUBJECT: Implementing Guidelines and Procedures in the Procurement and Requisition of Drugs and Medicines by the Department of Health Pursuant to Executive Order No. 49 dated January 21, 1993.</subject>
+
+<body>
+I. Rationale
+
+In compliance with the R.A. No. 6675, otherwise known as the Generics Act of 1988, entitled "An Act to Promote, Require and Ensure the Production of an Adequate Supply, Distribution, Use and Acceptance of Drugs and Medicines identified by their Generic Names" Section 4 (a), the Department of Health (DOH) organized the National Drug Committee (NDC), tasked to formulate the Essential Drugs List known as the Philippine National Drug Formulary (PNDF) Volume I. In the year 2001, the NDC was renamed as the National Formulary Committee (NFC).
+
+The PNDF is a basic component of the National Drug Policy which seeks to bring about the availability of safe, efficacious, and quality drugs at affordable cost. The PNDF is an important step to rationalize drug production, distribution, procurement and consumption through the Essential Drugs concept.
+
+In 1923, Executive Order No. 49 was issued entitled "Directing the Mandatory use of the Philippine National Drug Formulary (PNDF) Volume I as the Basis for Procurement of Drug Products by the Government."
+
+Implementation was immediately enforced with the use of the PNDF Volume I current edition as the basis for procurement of Drug Products by the government. The PNDF became the basis for claim reimbursements for drugs and medicines through a Philippine Health Insurance Corporation (PHIC) Board Resolution #265 s.1999 dated July 15, 1999.
+
+II. In implementing these guidelines the following Policies and Procedures shall be adopted:
+
+1. Only drug products that fall within and conform with the Essential Drugs List, the Philippine National Formulary (PNDF) Volume I, current edition, shall be allowed to be requisitioned and procured by all Government Agencies including government-owned and controlled corporations.
+
+2. Every Requisition and Issue Voucher (RIV) or any request for procurement including Emergency Purchase of drugs and medicines authorized under the General Appropriation Act, shall be accompanied by a certification signed by the requisitioning officer that the drug products being requisitioned or procured fall within and conform with PNDF Vol. 1, current edition.
+
+3. Auditors/heads of auditing units shall monitor compliance thereto and shall disallow claims/disbursements either from regular budget, local/trust funds, covering the procurement of drugs and medicines which are not within the PNDF Volume I, current edition.
+
+4. Drugs and medicines not listed in the PNDF Volume 1, current edition may be procured by Government agencies through a written request with corresponding justification addressed to the Head of the National Drug Policy Staff who may approve or disapprove the request. However, in determining whether the drug(s) requested is/are justified or not, the said Head shall refer the request to the National Formulary Committee (NFC).
+
+4.1 A letter shall be submitted justifying that:
+
+4.1.1 The drug is needed for the prevention and treatment of conditions not already covered in the existing list.
+
+4.1.2 The drug is more effective and/or less toxic than a drug listed for the same indication.
+
+4.1.3 The drug is at least as effective and safe and of lower cost than the drug listed for the same indication.
+
+4.1.4 The drug is deemed essential for a specific DOH—Health program/project.
+
+4.2  The said justification letter shall have the following as attached documents:
+
+4.2.1 Scientific evidence (in table format) supported with literature review for the specific drug (Appendix A & B).
+
+4.2.2 Report on the disease burden and its ranking relative to the common diseases seen in the hospital.
+
+4.2.3 Comparison of costs for the total regimen of the drug or its full course of therapy with other comparable drugs listed in the current edition of the PNDF Vol. I.
+
+4.2.4 Copy of Certificate of Product Registration.
+
+5. The National Formulary Committee is hereby authorized to issue such other guidelines as may be necessary to implement this Administrative Order.
+
+III. Repealing Clause
+
+All previous Orders inconsistent in part or in whole to this Administrative Order are hereby rescinded or amended accordingly.
+
+IV. Effectivity
+
+This Order takes effect immediately.
+</body>
+
+<sign>MANUEL M. DAYRIT, MD, MSc.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<image>table_1.png</image>
+
+<image>table_2.png</image>
+
+<image>table_3.png</image>
+
+<body>
+ANNOTATIONS
+
+A Some drugs of proven efficacy and safety are not available in the market for lack of profitability or perceived demand but are considered essential, hence included in the PNDF marked with asterisk.
+
+B Systematic literature reviews in which studies are systematically searched, assembled, appraised and summarized using explicit and reproducible approaches that minimizes biases and random errors (after Sacks, Chalmers, Smith. Randomized versus historical controls for clinical trials. Am J Med 1982; 72:233-40.). The steps that the National Formulary Committee take in conducting systematic literature reviews on specific drugs are the following:
+
+1. We pose the question: Is drug X a safe and efficacious drug for condition Y?
+2. We conduct a comprehensive search for randomized controlled trials in HERDIN, MEDLINE, EMBASE, the Cochrane Controlled Trials Register in the Cochrane Library. We combine the generic name of the drug and the MESH terms of the indications for its use with the optimum set of keywords and commands for locating RCTs as given in the Cochrane Handbook for Preparing Systematic Reviews. We search for systematic reviews in the Cochrane Database of Systematic Reviews using the generic name of the drug as keyword.
+3. We evaluate the abstracts of the studies to verify whether they are really RCTs or not and their relevance to our question.
+4. We extract data on safety and efficacy from the study abstracts or, if needed, from the full texts.
+5. We summarize the results of each study in an evidence table and examine similarities and differences of finding across studies. If appropriate, meta-analyses are performed to quantitatively combine the results of several studies.
+
+C Benefits are expressed in risk differences and / or numbers needed to treat (NNT). We define risk as the proportion of people who develop a bad event among all of those who are at risk for developing it. The efficacy of drug X is reflected by the size of the difference in the risk of developing a bad event with and without drug X. (the absolute risk difference or ARR). Alternatively, the number of people who need to be treated with drug X to prevent one bad event (the NNT) may be obtained by the formula NNT = 1/ARR such that the smaller the NNT the more efficacious the drug. Safety is inversely proportional to the risk for adverse effects and is similarly expressed in risk differences and / or numbers needed to harm (NNH). Thus, as the risk difference rises or the NNH decreases the drug is deemed less and less safe.
+
+D1 Recently completed RCTs or systematic reviews that show new drugs to be more efficacious or safe (see C for definitions of efficacy and safety) than other drugs in the same class may be grounds for their inclusion in lieu of or as a complement to formulary drugs. However, the NFC may choose to perform a cost-effectiveness analysis when newer, more efficacious drugs are more expensive: than formulary drugs.
+
+D2 The bases for deletion include the following: (1) recently completed RCTs of systematic reviews that show formulary drugs to be less efficacious or safe (see C for definitions of efficacy and safety) than other drugs in the same class; (2) cost-effectiveness analysis favors newer drugs of the same therapeutic class as the formulary drugs.
+
+APPENDIX B
+
+MALACAÑANG
+Manila
+
+BY THE PRESIDENT OF THE PHILIPPINES
+
+EXECUTIVE ORDER NO. 49
+
+DIRECTING THE MANDATORY USE OF THE PHILIPPINE NATIONAL DRUG FORMULARY (PNDF) VOLUME i AS THE BASIS FOR PROCUREMENT OF DRUG PRODUCTS BY THE GOVERNMENT
+
+WHEREAS, the 1987 Constitution of the Philippines provides as State Policies that:
+
+a. "The State shall protect and promote the right to health of the people and instill health consciousness among them" (Section 15, Article II, 1987 Constitution)
+
+b. "The State shall adopt an integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services available to all the people at affordable cost" (Section 11, Article XIII, 1987 Constitution)
+
+c. "The State shall establish and maintain an effective food and drug regulatory system and undertake appropriate health manpower development and research, responsive to the country's health needs and problems" (Section 12, Article XIII of the 1987 Constitution)
+
+WHEREAS, paragraphs 3 and 4, Section 2, of the Generics Act of 1988 declare as the policy of the State, among others, that:
+
+aa. "To encourage the extensive use of drugs with generic names through a rational system of procurement and distribution".
+
+bb. "To emphasize the scientific basis for the use of drugs, in order that health professionals may become more aware and cognizant of their therapeutic effectiveness".
+
+WHEREAS, Section 4 of the Generics Act of 1988 provides that:
+
+aaa. "In the promotion of the generic names, for pharmaceutical products, special consideration shall be given to drugs and medicines which are included in the essential drugs list to be prepared within one hundred eighty (180) days from approval of this Act and updated quarterly by the Department of Health on the basis of health conditions obtaining in the Philippines as well as on internationally-accepted criteria".
+
+bbb. "The exclusive use of generic terminology in the manufacture, marketing and sales of drugs and medicines, particularly those in the essential drugs list, shall be promoted through such system of incentives as the Board of Investments jointly with the Department of Health and other government agencies as may be authorized by law, shall promulgate in accordance with existing laws, within 180 days after approval of this Act".
+
+WHEREAS, in order to promote rational use of drugs and medicines in government and as a logical extension of the successful implementation of DOH - D.O. 104 s. 1991, which makes mandatory the use of the Philippine National Drug Formulary (PNDF) (Volume 1) of Essential Drugs List as the basis for the procurement of drug products by the Department of Health, ALL GOVERNMENT ENTITIES CONCERNED ARE MANDATED TO USE THE CURRENT PNDF (VOLUME 1) AS THE BASIS FOR THE PROCUREMENT OF DRUG PRODUCTS;
+
+WHEREAS, the PNDF (Volume 1) is the Essential Drugs List for the Philippines prepared by the National Drug Committee (NDC) in consultation with experts and specialists from organized professional medical societies, medical academe, and pharmaceutical industry, and which is updated every year, consisting of two parts, namely: the Core List and the Complementary List where in the Core List drugs are the essential drugs which are needed by the majority of the population and should be therefore be available at all times in appropriate dosage forms and in sufficient quantities, while the Complementary List drugs are those drugs needed for treating rare disorders, drugs with special pharmaceutical properties, and alternative drugs to be used when there is no response to the Core List drugs or when the Core List drugs cannot be administered for one reason or another;
+
+NOW, THEREFORE, I, FIDEL V. RAMOS, President of the Philippines, by virtue of the powers vested in me by law, do hereby order:
+
+The following procedures shall be followed to implement this Order:
+
+1. The Therapeutics Committee/Physician-in-Charge of the Clinic or Infirmary/Procurement Officer, whichever is applicable, shall be responsible for determining which products and the corresponding quantity to be procured by the respective government entities.
+
+2. Every requisition and issue voucher (RIV) or any request to purchase drug, including those falling under Emergency Purchase authorized under the General Appropriation Act shall be accompanied by a certification signed by the requisitioning officer that the drug products being requisitioned or procured fall within and conform with PNDF Volume 1, current edition.
+
+3. The Commission on Audit shall instruct all unit auditors/heads of auditing unit to monitor compliance with this order and to disallow in audit, claims/disbursements, either from regular budget, local and/or trust funds, covering the procurement by any mode, of drugs and medicines which are not within the PNDF Volume 1, current edition.
+
+4. For drugs not listed in the PNDF Volume 1, a written request with corresponding justification addressed to the Head of the National Drug Policy Office who may approve or disapprove the request. In determining whether the drug(s) requisitioned is justified or not, the said Head may refer such request to the National Drug Committee (NDC), as needed.
+
+Any violation of this Order shall be construed as a conduct grossly prejudicial to the best interest of the service or grave misconduct, as the case may be, per P.D. 807 and CSC-M No. 30 s. 1989.
+
+This Order shall take effect immediately.
+
+Done in the City of Manila, this 21st day of January in the year of our Lord, nineteen hundred and ninety three.
+
+Signed
+FIDEL V. RAMOS
+
+By the President:
+
+Signed
+ANTONIO T. CARPIO
+Chief, Presidential Legal Counsel
+
+[Republic Act No. 6675]
+
+AN ACT TO PROMOTE, REQUIRE AND ENSURE THE PRODUCTION OF AN ADEQUATE SUPPLY DISTRIBUTION, USE AND ACCEPTANCE OF DRUGS AND MEDICINES IDENTIFIED BY THEIR GENERIC NAMES
+
+Be it enacted by the Senate and House of Representative of the Philippines in Congress assembled:
+
+Sec. 1. Title - This Act shall be known as the Generics Act of 1988.
+
+Sec. 2. Statement of Policy - It is hereby declared the policy of the State:
+
+To promote, encourage and require the use of generic terminology in the importation, manufacture, distribution, marketing, advertising and promotion, prescription and dispensing of drugs;
+
+To ensure the adequate supply of drugs with generic names at the lowest possible cost and endeavor to make them available for free to indigent patients;
+
+To encourage the extensive use of drugs with generic names through a rational system or procurement and distribution;
+
+To emphasize the scientific basis for the use of drugs, in order that health professionals may become more aware and cognizant of their therapeutic effectiveness; and
+
+To promote drug safety by minimizing duplication medications and/or use of drugs with potentially adverse drug interactions.
+
+Sec. 3. Definition of Terms - The following terms are herein defined for the purposes of this Act:
+
+1) "Generic Name or Generic Terminology" is the identification of drugs and medicines by their scientifically and internationally recognized active ingredients or by their official generic name as determined by the Bureau of Food and Drugs of the Department of Health.
+
+2) "Active Ingredient" is the chemical component responsible for the claimed therapeutic effect of the pharmaceutical product.
+
+3) "Chemical Name" is the description of the chemical structure of the drug or medicine and serve as the complete identification of the compound.
+
+4) "Drug Product" is the finished product form that contains the active ingredients, generally but not necessarily in association with inactive ingredients.
+
+5) "Drug Establishment" is any organization or company involved in the manufacture, importation, repacking and/or distribution of drugs and medicines.
+
+6) "Drug Outlets" means drugstores, pharmacies, and any other business establishments which sell drugs or medicines.
+
+7) "Essential Drugs List" or "National Drug Formulary" is a list of drugs prepared and periodically updated by the Department of Health on a basis of health conditions obtaining in the Philippines as well as on internationally accepted criteria. It shall consist of a core list and a complementary list.
+
+8) "Core List" is a list of drugs that meets the health care needs of the majority of the population.
+
+9) "Complementary List" is a list of alternative drugs used when there is no response to the core essential drug or when there is a hypersensitivity reaction to the core essential drug or when, for one reason or another, the core essential drug cannot be given.
+
+10) "Brand Name" is the proprietary name given by the manufacturer to distinguish its product from those of competitors.
+
+11) "Generic Drugs" are drugs not covered by patent protection and which are labeled solely by their international non-proprietary or generic name.
+
+Sec. 4. The Use of Generic Terminology for Essential Drugs and Promotional Incentives. -
+
+(a) In the promotion of the generic names for pharmaceutical products, special consideration shall be given to drugs and medicines which are included in the Essential Drugs List to be prepared within one hundred eighty (180) days from approval of this Act and updated quarterly by the Department of Health on the basis of health conditions obtaining in the Philippines as well as on internationally accepted criteria.
+
+(b) The exclusive use of generic terminology for in the manufacture, marketing and sales of drugs and medicines, particularly those in the Essential Drugs List, shall be promoted through such a system of incentives as the Board of Investments jointly with the Department of Health and other government agencies as may be authorized by law, shall promulgate in accordance with existing laws, within one hundred eighty (180 days) after approval of this Act.
+
+Sec. 5. Posting and Publication. - The Department of Health shall publish annually in at least two (2) newspapers of general circulation in the Philippines the generic names, and the corresponding brand names under which they are marketed, of all drugs and medicines available in the Philippines.
+
+Sec. 6. Who Shall Use Generic Terminology. - 
+
+(a) All government health agencies and their personnel as well as other government agencies shall use generic terminology or generic names in all transactions related to purchasing, prescribing, dispensing and administering of drugs and medicines.
+
+(b) All medical, dental and veterinary practitioners, including private practitioners, shall write prescriptions using the generic name. The brand name may be included it so desired.
+
+(c) Any organization or company involved in the manufacture, importation, repacking, marketing and/or distribution of drugs and medicines shall indicate prominently the generic name of the product. In the case of brand name products, the generic name shall appear prominently and immediately above the brand name in all product labels as well as in advertising and other promotional materials.
+
+(d) Drug outlets, including drugstores, hospital and non-hospital pharmacies and non-traditional outlets such as supermarkets and stores, shall inform any buyer about any and all other drug products having the same generic name, together with their corresponding prices so that the buyer may adequately exercise his option. Within one (1) year after approval of this Act, the drug outlets referred to herein, shall post in conspicuous places in their establishments, a list of drug products with the same generic name and their corresponding prices.
+
+Sec. 7. Provision on Quality, Manufacturer's Identity and Responsibility. - In order to assure responsibility for drug quality in all instances, the label of all drugs and medicines shall have the following: name and country of manufacture, dates of manufacture and expiration. The quality of such generically labeled drugs and medicines shall be duly certified by the Department of Health.
+
+Sec. 8. Required Production - Subject to the rules and regulations promulgated by the Secretary of Health, every drug manufacturing company operating in the Philippines shall be required to produce, distribute and mane available to the general public the medicine it produces, in the form of generic drugs.
+
+Sec. 9. Rules and Regulation - The implementation of the provisions of this Act shall be in accordance with the rules and regulations to be promulgated by the Department of Health. Rules and regulations with penal sanctions shall be promulgated within one hundred eighty (180) days after approval of this Act and shall take effect fifteen (15) days after publication in the Official Gazette or in two (2) newspapers of general circulation.
+
+Sec. 10. Authority to Import. - Within three (3) years from the effectivity of this Act, extendible by the President for another two (2) years and during periods of critical shortage and absolute necessity, the Department of Health is hereby authorized to import raw materials of which there is a shortage for the use of Filipino-owned or controlled drug establishments to be marketed and sold exclusively under generic nomenclature. The President may authorize the importation of raw materials tax and duty-free. The Secretary of Health shall ensure that the imported raw materials are allocated fairly and efficiently among Filipino-owned or controlled drug establishments. He shall submit to the Office of the President and to Congress a quarterly report on the quantity, kind and value of the raw materials imported.
+
+Sec. 11. Education Drive. - The Department of Health jointly with the Department of Education. Culture and Sports, Philippine information Agency and the Department of Local Government shall conduct a continuous information campaign for the public and a continuing education and training for the medical and allied medical professions on drugs with generic names as an alternative of equal efficacy to the more expensive brand name drugs. Such educational campaign shall include information on the illnesses or symptoms which each generically named drug is supposed to cure or alleviate, as well as its contraindications. The Department of Health with the assistance of the Department of Local Government and the Philippine information Agency shall monitor the progress of the education drive. and shall submit regular reports to Congress.
+
+SEC. 12. Penalty. - 
+
+(A) Any person who shall violate Section 6(a) or 6(b) of this Act shall suffer the penalty graduated hereunder, viz.:
+
+(a) for the first conviction, he shall suffer the penalty of reprimand which shall be officially recorded in the appropriate books of the Professional Regulation Commission.
+
+(b) for the second conviction, the penalty of fine in the amount of not less than two thousand pesos (P2,000.00) but not exceeding five thousand pesos (P5,000.00) at the discretion of the court.
+
+(c) for the third conviction, the penalty of fine in the amount of not less than five thousand pesos (P5,000.00) but not exceeding ten thousand pesos (P10,000.00) and suspension of his license to practice his profession for thirty (30) days at the discretion of the court.
+
+(d) for the fourth and subsequent convictions, the penalty of tine of not less than ten thousand pesos (P10,000.00) and suspension of his license to practice his profession for one year or longer at the discretion of the court.
+
+B) Any juridical person who violates Section 6 (c), 6 (d), 7 or 8 shall suffer the penalty of a fine of not less than five thousand pesos (P5,000.00) nor more than ten thousand pesos (P10,000.00) and suspension or revocation of license to operate such drug establishment or drug outlet at the discretion of the Court: Provided, That its officers directly responsible for the violation shall suffer the penalty of fine and suspension or revocation of license to practice profession, if applicable, and by imprisonment of not less than six (6) months nor more than one (1) year or both fine and imprisonment at the discretion of the Court: and Provided, further, That if the guilty party is an alien, he shall be ipso facto deported after service of sentence without need of further proceedings.
+
+C) The Secretary of Health shall have the authority to impose administrative sanctions such as suspension or cancellation of license to operate or recommend suspension of license to practice profession to the Professional Regulation Commission as the case may be for the violation of this Act.
+
+Sec. 13. Separability Clause. - If any provision of this Act is declared invalid, the remainder or any provision hereof not affected thereby shall remain in force and effect.
+
+Sec. 14. Repealing Clause. - The provisions of any law, executive order, presidential decree or other issuances inconsistent with this Act are hereby repealed or modified accordingly.
+
+Sec. 15. Effectivity. - This Act shall take effect fifteen (15) days after its complete publication in the Official Gazette or two (2) newspapers of general circulation.
+
+Approved,
+
+(Sgd.) RAMON V. MITRA
+Speaker of the House of Representative
+
+This Act which is a consolidation of Senate Bill No. 453 and House Bill No. 10900 was finally passed by the Senate and the House of Representatives on August 25, 1988 and August 31, 1988, respectively.
+
+(Sgd.) QUIRINO D. ABAD SANTOS, JR.
+Secretary of the House of Representatives
+
+Approved: September 13, 1988
+
+(Sgd.) CORAZON C. AQUINO
+President of the Philippines
+</body>

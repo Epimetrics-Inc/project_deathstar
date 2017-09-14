@@ -1,0 +1,397 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>JUN 18, 2010</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2010 - 0017 </docnum>
+
+
+<subject>SUBJECT: GUIDELINES IN SURVEILLANCE AND RESPONSE TO ADVERSE EVENTS FOLLOWING IMMUNIZATION (AEFI)</subject>
+
+
+<body>
+I. BACKGROUND AND RATIONALE 
+
+The goal of immunization is to protect the individual and the public from vaccine- preventable diseases. Although modern vaccines are safe, no vaccine is entirely without risk. Some people experience events after immunization ranging from mild side effects to rare life- threatening, illnesses. In some cases, these reactions are caused by the vaccine; in others, they are caused by an error in the administration of the vaccine; and in the majority of cases, there is no relationship. 
+
+While most adverse events following immunization (AEFI) are mild and have no long-term consequences, serious adverse reaction can occur albeit, very rarely. Ultimately, any question from the public about the safety of vaccination is a cause for concern. They must be swiftly and effectively investigated and acted upon. Rumors and misinformation about vaccines and immunization sometimes occur because perceived or true adverse events following immunization are handled inappropriately. Incorrect information during media coverage on vaccine safety issues can further propagate and sensationalize misinformation. As a result, rumors about vaccines may spread, and lead to reduced immunization coverage and increased childhood illnesses and unnecessary deaths. 
+
+It is in this context that surveillance and management of AEFIs should be strengthened at all levels of the health system. Currently, AEFI is one of the immediately notiﬁable diseases/syndromes or events under the Philippine Integrated Disease Surveillance and Response (PIDSR) system of the Department of Health. However, the system provides only the reporting mechanisms of AEFIs with no provisions for the investigation and management of AEFIs. In October 2007, the DOH issued an Administrative Order (A.O. No. 2007—0028) for the implementation of “Bakuna ang Una sa Sangol at Ina” that provides guidelines on reporting, treatment of AEFIs and legal assistance for health workers. The AD. however, did not cover provisions on risk communications, organizational framework, causality assessment, laboratory investigation and other important aspects of surveillance and management of AEFIS. 
+
+It is in light of the above that a comprehensive and integrated set of guidelines for surveillance and response to AEFIS is hereby issued. 
+
+
+II. DECLARATION OF POLICIES 
+
+Surveillance and management of AEFIS shall be guided by the following legal mandates and policies: 
+
+Administrative Order No. 2007-0036, Guidelines on the Philippine Integrated Disease Surveillance and Response (PIDSR) Framework, Implementing Guidelines, Section A, includes AEFIS as one of the immediately notiﬁable diseases/syndromes or event under the Philippine Integrated Disease Surveillance and Response (PIDSR) system. 
+
+Administrative Order No. 2007—0028, Implementing Guidelines of the Executive Order No. 663: “Implementing the National Commitment for Bakuna ang Una sa Sangol at Ina”, attaining World Health Organization ’s goal to eliminate measles and Neonatal Tetanus, eradicate polio, control hepatitis B and other vaccine preventable diseases for the “Knock—out Tigdas”, General Guidelines, provides mechanisms for reporting, treatment of AEFIs and legal assistance for health workers. ' 
+
+Administrative Order 0023 series of 2008 — National Policy on Patient Safety - which calls for the prevention of harm to patients thru the prevention, avoidance and amelioration of risk, adverse outcomes or injuries stemming from the process of health care. 
+
+III. SCOPE AND COVERAGE 
+
+This issuance shall apply to health professionals from the public and private sectors who are providing vaccination nationwide, the Department of Health (DOH) concerned ofﬁces and attached agencies, epidemiology and surveillance units, private and government health facilities, local government units and the community involved in the surveillance and management of AEFIs. It shall cover all vaccines administered under the Expanded Program on Immunization (EPI) program and other vaccines given by DOH. 
+
+IV. OBJECTIVES 
+
+This Order aims to guide the concerned stakeholders on the early detection and appropriate and quick response to adverse events following immunization. 
+
+V. DEFINITION OF TERMS 
+
+1. Adverse event - A medical incident that takes place after an immunization, following causes concern, and is believed to be caused by immunization (AEFI) immunization. 
+
+2. AEFI Table - A list of AEFIs or conditions and the time frames in which they must occur after vaccine administration. It is used as a tool for “presumption of causation“ for all vaccines. 
+
+3. Causation-in—fact - Standard of proof which relies on a factual determination that a vaccine actually caused an injury or death. 
+
+4. Cluster - Two or more cases of the same or similar event related in time, geography, and/or vaccine administered. 
+
+5. Coincidental adverse event - A medical event that would have occurred whether or not the individual had received an immunization prior to the event. 
+
+6. Disease Reporting Unit (DRU) - Refers to any health facility where cases of notiﬁable diseases are identiﬁed and reported (e. g. hospitals, clinics, municipal health ofﬁces, city health ofﬁces, barangay health stations, community, and quarantine stations). 
+
+7. Disease Surveillance Coordinator (DSC) - Refers to staff of government and non—government health facilities (e.g. hospitals, clinics, RHUs) who have received training on PIDSR with an ofﬁcial designation as disease surveillance coordinator by the head of the facility 
+
+8. Immunization Safety - The public health practices and policies dealing with the various aspects of the correct administration of vaccines, focusing on minimizing the risk of transmission of disease with the injection and maximizing the effectiveness of the vaccine. The term encompasses the spectrum of events from proper manufacture to correct administration. 
+
+9. Immunization safety surveillance - A system for ensuring immunization safety through detecting, reporting, investigating, and responding to AEFIs. 
+ 
+10. Injection Reaction - Event from anxiety about vaccination, or pain from the injection itself rather than the vaccine. 
+
+11. Minor AEFIs - These are AEFIs that are not included or categorized as serious AEFIs. 
+
+12. Pharmacovigilance - The science and activities relating to the detection, assessment, understanding and prevention of adverse events and other possible drug-related problems. 
+
+13. Program—related AEFI or program error - A medical incident that was caused by some error in the transportation, storage, handling, or administration of vaccine. 
+
+14. Safe injection practice - Those public health practices and policies which ensure that the process of injection carries the minimum of risk, regardless of the reason for the injection or the product injected. 
+
+15. Serious AEFIS - These are AEFIs that are life threatening and those that result in hospitalization (or prolonged hospitalization), disability (or have the potential to result in disability) or death. 
+
+16. Vaccine reaction - An event caused or precipitated by the active component or one of the other components of the vaccine. This is due to the inherent properties of the vaccine. 
+
+
+VI. GUIDING PRINCIPLES 
+
+1. Vaccines used in national immunization programs are safe and effective. However, adverse events can occur following immunization. In addition to the vaccines themselves, the process of Immunization is a potential source of adverse events. 
+2. Surveillance of AEFIs is an effective means of monitoring immunization safety and contributes to the credibility of the immunization program. It shall allow proper management of AEFIs and avoid inappropriate responses to reports of AEFIS that can create a sense of crisis in the absence of such surveillance. 
+3. AEFI surveillance shall follow the basic principles for surveillance as stipulated in the implementing guidelines of the Philippine Integrated Surveillance and Response _ (PIDSR) system. See AO 2007-0036 
+4. AEFI reporting shall be encouraged at all levels. The aim is for early detection of AEFI so that appropriate measures can be instituted. 
+5. Rapid response to public concern about vaccines, as well as immediate and clear communication of explanations and actions, will preserve the integrity of the . immunization program. 
+
+VII. Implementing Guidelines 
+
+1. Surveillance 
+1.1 Detection 
+1.1.1 Reportable AEFIs 
+
+All serious AEFIs or unusual events believed to be caused by immunization shall be reported to the Immunization Safety Board (ISB) thru the National Epidemiology Center (NEC) as secretariat. Minor AEFIs shall be documented and reported to the Rural Health Unit (RHU) using the AEFI form. However, clustering of these cases shall be reported to the ISB. (Annex I: List of Serious AEFIs). 
+
+1.1.2 Responsibility of Reporting  
+The following are responsible for the detection and/or reporting of AEFIs: 
+
+a. All health workers in the government and private sectors providing immunization services and clinical treatment of AEFIs. 
+
+b. Individuals who received the vaccination can report AEFIs to any Health authority. In cases of minors, parents or guardians can report the same. 
+
+c. Researchers and research laboratories involved in clinical studies or ﬁeld trials that result to AEFIs. 
+
+d. Vaccine manufacturers or distributors should also report AEFIs. 
+
+1.2 Timing and Flow of Reporting 
+
+All serious AEFIS, deaths, and unusual events shall be reported to the NEC within 24 hours. The report shall be made promptly so that immediate decision on the. needed for action and investigation can be made. Initial report shall contain basic information (e.g., name, age, sex, address, onset of illness, vaccine administered and outcome of patient) and shall be transmitted through the fastest means of communication at these contact numbers: 743-8301 100. 1905—1906, fax: loc. 1903, e- mail address: episomdoh@yahoo.com ' 
+
+1.3 Investigation 
+
+1.3. Purpose 
+
+a. to validate the existence of the event 
+
+b. to establish the causality of the reported event 
+
+1.3.2 Causality Assessment 
+
+a. Preliminary investigation shall be made by the Disease Surveillance Coordinators in all private and public health facilities using a PIDSR AEFI Case investigation form as soon as possible within 48 hours. 
+
+b. All Serious AEFIs (Annex I .' List of Serious AEFIs) or clusters shall be thoroughly investigated by the AEFI team at the next higher level. 
+
+c. The Regional AEFI Committee (RAEFIC) shall conduct immediate preliminary causality assessment upon receipt of the complete AEFI case investigation reports from the ﬁeld. 
+
+d. The ﬁnal causality assessment of Serious AEFIs shall be conducted by the Immunization Safety Board (ISB). 
+
+e. Assessment should be completed within 48 hours after each investigation. 
+
+1.4 Data Management 
+
+1.4.1 Data management (collection, consolidation, analysis and interpretation) shall be done in all Epidemiology and Surveillance Units (ESUs) using PIDSR protocols. Data shall be shared with the Food and Drug Administration. 
+
+1.4.2 The PIDSR system shall be utilized to maintain a database (paper—based or electronic) of AEFIs that is easily accessible to all reporting units. 
+
+ 
+1.5 Feedback 
+
+1.5.1 The investigating teams from all levels shall provide feedback of the ﬁndings of the investigation to the AEFI committees. 
+
+1.5.2 The Immunization Safety Board shall immediately give feedback to NIC and the Secretary of health with ﬁnal recommendations. 
+
+2. Response 
+
+2.1 Case Management 
+
+2.1.1 If the AEFI is due to vaccine reaction, the FDA shall issue the necessary order within 24 hours after due process, to temporarily withdraw the implicated vaccine lot/ batch from the market pending ﬁnal recommendation from the ISB. Vaccination usingother lots/batches shall continue. Only the Secretary of Health can stop any vaccination activities. 
+
+2.1.2 If the AEFI is co-incidental, the priority action shall focus on developing and implementing risk communication plan directed to the affected family and the general public 
+
+2.1.3 If the AEFI is program related, the local health ofﬁce shall immediately implement corrective actions based on the investigation ﬁndings or recommendations of the regional AEFI committee or the ISB. The Centers for Health Development (CHD) and the PHO shall provide appropriate technical and logistical assistance to the Local Government Units (LGU). 
+
+2.1.4 Individuals who had injection reaction shall be provided with appropriate medical management. 
+
+2.1.5 If the cause of AEFI is Unknown, Disease Surveillance Coordinator (DSC) should conduct a follow up investigation and provide the patient with appropriate medical management. Once additional information is made available, the case shall be subjected for ISB review for ﬁnal classiﬁcation. 
+
+2.2 Program support 
+
+2.2.1 A continuing training program and advocacy for AEFI surveillance and response shall be developed and integrated in the PIDSR implementation. 
+
+2.2.2 A compilation of AEFI references and documents (e. g. Administrative Orders, guidelines, scientiﬁc literatures) shall be available in the health unit/facility and accessible at the DOH/N EC website. 
+
+3. Assistance to AEFI cases 
+
+The LGU shall ensure that all serious AEFI cases are provided immediate assistance (e.g. hospitalization, transport to medical facility). In case of serious AEFI, the LGU shall collaborate with the CHD to discuss appropriate assistance to the patient. If post mortem examination of the case is required, the DOH shall provide the necessary assistance. 
+
+3.1 Hospitalization of Cases 
+
+3.1.1 Government health facility - DOH retained and other government hospital 
+
+shall not charge any fee to patients with AEFI. 
+
+3.1.2 Private health facility "Should cases be managed in private hospitals (considering factors such as distance/accessibility, capability of MDs, availability of medical facility) assistance shall be provided primarily by the LGU, with support from the DOH (N ational/ CHD).AEFI cases who are employees of the said private health facilities shall be provided assistance by the facility in accordance with their facilities” rules and regulations. 
+
+4. Assistance to health worker 
+
+Concerned public health professionals shall not be held liable for any AEFI as long as DOH standard operating procedures on immunization safety practices are complied. 
+
+4.1 DOH shall collaborate with the Public Attorney’s Ofﬁce (PAO)/Ofﬁce of the Solicitor General (OSG)lIntegrated Bar of the Philippines (IBP) lLaw Schools/volunteer lawyers in providing appropriate legal assistance to public health professionals as necessary if any case is ﬁled against them for acts committed in the performance of their duty and in good faith. 
+
+4.2 Local police force shall provide assistance to any health worker/s for any threat received. 
+
+4.3 In case of physical injury, the health worker shall be provided with free medical assistance in DOH-retained and other government hospitals. In case referral to private hospital is required, the expenses incurred shall be reimbursed by the LGU/ DOH. 
+
+4.4 As mandated by ED. 663 and AG No 2007-0028, the concerned health worker/s shall be given due process for any administrative, civil or criminal sanctions ﬁeld against him/her. In addition, assistance shall be given to the concerned health workers by LGU (see Roles and Responsibilities p.10, 7.2) for any expenses incurred in the conduct of this activity. 
+
+4.5 The Department of Social Welfare and Development (DSWD) shall assess the affected family’s concerns and gather appropriate information which would facilitate provision of their needs for assistance. 
+
+5. Risk Communication 
+
+5.1 General Guidelines: 
+
+5.1.1 Risk communication for AEFI shall be the responsibility of the health sector at all levels. 
+
+5.1.2 Risk communication shall be comprehensive to cover the following target audiences: family, community, general public, media, and health workers. 
+
+5.1.3 All media coverage on AEFI shall be coursed through the OSEC-Media Relations Unit (MRU) at the national level and HEPO—PIO (Health Education Promotion Ofﬁce — Public Information Ofﬁce) at the regional level. The OSEC-MRU and the Regional HEPO-PIO shall refer those concerns to the appropriate ofﬁces. 
+
+5.1.4 Press releases shall be done when the AEFI incident has been publicized (by local, national or international media). Other AEFI incidents that had been investigated and resolved may not necessarily require press releases as determined by the Municipal Health Ofﬁce (MHO) or Local Chief Executives (LCE). 
+
+5.2 Local government unit 
+
+5.2.1 The local chief executive (LCE), or his duly designated ofﬁcial, shall be the spokesperson for inquiries related to AEFI. The MHO/CHO, in consultation with the regional AEFI committee, shall provide technical inputs to the LCE. 
+
+5.3 CHD level 
+
+5.3.1 The health promotion ofﬁcer, in coordination with the program coordinators shall formulate a health communication plan pertaining to AEFI and prepare key messages for advisories and press releases. 
+
+5.3.2 The Regional Director shall convene a meeting with the concerned LGU for synchronous press releases. 
+
+5.4 National level 
+
+5.4.1 The Secretary of Health or his duly designated ofﬁcial shall act as the spokesperson for matters related to AEFI. 
+
+5.4.2 The DOH through the National Center for Health Promotion (NCHP) in coordination with the National Center for Disease Prevention and Control (NCDPC) and National Epidemiology Center (NBC), shall prepare risk communication plan and key messages for advisories. 
+
+5.4.3 The MRU shall prepare and disseminate press releases and facilitate press conferences. 
+
+5.4.4 Upon clearance by the Secretary of Health, the NEC, being the International Health Regulation (IHR) focal point at the national level for the Philippines, shall notify the WHO and other concerned international organizations of the serious AEFI incidents and the response taken. 
+
+6. Post Incident Evaluation (PIE) 
+
+6.1 The Chair of the Regional AEFI Committee (RAEFIC) (see Roles and Functions of RAEFIC pg 9—10, 6.5, 65.1-65.4) shall facilitate the conduct of post incident evaluation for all serious AEFI incidents. This shall be attended by the members of the regional AEFI committee, provincial, city/municipal EPI coordinators, PHO, MHO/CHO, surveillance staff, and DOH representatives. 
+
+6.2 The focus of the PIE shall include critical examination on the elements of the AEFI surveillance and response and come up with constructive recommendations to improve AEFI surveillance and response and the immunization program. 
+
+6.3 The ISB and the LGU concerned shall be given feedback of the PIE results. 
+
+7. Documentation 
+
+7.1. Documentation of AEFI surveillance and response activities shall be done at all. levels. This includes compilation of all records of AEF I cases, minutes of the meeting, ISB reports, regional AEF I committee reports and other relevant documents (e.g. photographs, laboratory results and clinical abstracts. Information from these documents shall be accessible for purposes of research, program planning and evaluation, policy formulation and development as required and authorized by ISB or RAEFIC. 
+
+7.2. The NEC, RESU, and Local ESUs shall be the repositories of the documents mentioned in this section. 
+
+VIII. ROLES AND RESPONSIBILITIES 
+
+1. National level (DOH) 
+
+1.1 Immunization Safety Board (ISB) ._. group of experts that will review and make ﬁnal causality assessment on all AEFI referred by the Subcommittee on surveillance of the National Immunization Committee (NIC) (See DC. No. 286- Cs, 2002). ' 
+
+1.2 The Subcommittee on Surveillance of the NIC shall : 
+
+1.2.1 Review over—all patterns of reports and investigation of AEFIS. 
+
+1.2.2 Refer to ISB all serious and doubtful AEFI and validate all other AEFI public concerns. 
+
+1.2.3 Establish crisis management guidelines in handling AEFI cases and controversies. 
+
+1.2.4 Provide recommendations on the corrective actions related to the reported AEFI cases (i.e. withdrawal of implicated vaccines at regional level) (See Roles and Responsibilities of NCDPC pg 9, 2.3) 
+
+2. National Center for Disease Prevention and Control (NCDPC) 
+
+2.1 Modify policy and program based on ISB recommendation. 
+
+2.2 Coordinate with NBC for any reported AEFI cases. 
+
+2.3 Provide guidance to NIC Subcommittee on Surveillance on the formulation of recommendations for corrective actions related to the AEFI. 
+
+3. National Epidemiology Center (NEC) 
+
+3.1 Oversee the design and implementation of AEFI surveillance. 
+
+3.2 Convene meeting of the Subcommittee on Surveillance of the NIC at least semi- annually and ISB as necessary. 
+
+3.3 Provide AEFI surveillance information for policy and program use. 
+
+3.4 Coordinate AEFI surveillance activities with FDA both at the national and regional levels. 
+
+3.5 Provide quality control of the AEFI reporting system. 
+
+4. National Center for Health Promotion (NCHP) 
+
+4.1 Develop and implement the national AEFI risk communication plan.
+
+4.2 Capacitate sub—national levels to develop and implement their respective risk communication plans including Monitoring and Evaluation tools.
+
+4.3 Monitor and evaluate implementation of risk communication plan at all levels and provide feedback to all stakeholders 
+
+5 Food and Drug Administration (FDA) 
+
+5.3 Communicate international vaccine safety signals to NCDPC and other stakeholders. 
+
+5.4 Communicate all suspected vaccine reactions reported through the pharmacovigilance unit to NCDPC, NBC and other stakeholders. 
+
+5.5 Participate in the investigation of AEFIs through National and Regional Food and Drug Regulation Ofﬁcers (FDRO). 
+
+5.6 Facilitate independent analysis of implicated vaccines with possible collaboration with RITM and other accredited reference laboratories. 
+
+5.7 Impose the necessary regulatory actions in cases of AEFI such as requiring all hospitals and health facilities to submit pertinent clinical documents and medical records related to AEFI cases. 
+
+5.8 Actively participate in the Immunization Safety Board Meeting. 
+
+5.9 Provide feedback to all stakeholders on safety, quality and efﬁcacy of implicated vaccine/s. 
+
+5.10 Issue timely advisory to the public regarding use of AEFI implicated vaccine 
+
+6 Centers for Health Development (CHD) 
+
+6.3 Provide technical assistance (eg. training, policy advocacy), logistics, and laboratory analysis of samples as needed to supplement local AEFI investigations and appropriate response. 
+
+6.4 Validate reported AEFI from the ﬁeld and conduct further and thorough AEFI investigation when necessary within 48 hours through the RESU in coordination with program managers and FDRO. ' 
+
+6.5 Establish, operate and maintain a Regional AEFI Committee (RAEFIC) to be chaired by the Regional Director or Assistant Regional Director and composed of the following members: Legal Ofﬁcer, Health Promotion Ofﬁcer, HEMS coordinator, Regional Food and Drug Administration representative and ad hoc experts on infectious disease, injection safety and laboratory as necessary to respond to events that may constitute a public health emergency of local concern. RESU will be the secretariat of the committee. 
+
+Functions of the RAEFIC: 
+
+6.5.1 Conduct immediate preliminary causality assessment upon receipt of complete AEFI case investigation reports from the ﬁeld. 
+
+6.5.2 Provide immediate written report regarding the result of preliminary assessment to Secretary of Health and concerned LGU, copy furnish NEC, NCDPC and FDA. 
+
+6.5.3 Provide immediately the recommendations to the program/ofﬁce on the corrective actions related to the reported AEFI cases. 
+
+6.5.4 Ensure through monitoring/evaluation that the recommendations were carried out by the responsible program/ofﬁces 
+
+6.6 Prepare appropriate advisories/press releases when needed and provide copies to MRU-OSEC, local chief, and health executives 
+
+6.7 Provide a direct operational link with NBC, NCDPC, OSEC, HEMS and other concerned national ofﬁces and private sectors (eg. private medical practitioners, directors of private hospitals). 
+
+6.8 Facilitate submission of AEFI surveillance reports from public and private health facilities through the RESU. 
+
+6.9 Provide technical and logistical assistance in the establishment of Provincial/City AEFI Committee. 
+
+6.10 Track and monitor the compliance of public and private hospitals in the implementation of PIDSR, particularly AEFI surveillance as part of the requirements for renewals of license to operatethrough the Hospital Licensing Team. The regional director shall issue a regional order to enforce compliance. The team shall inform the CHDs/PHOs/LGUS of activities taken against non— complying hospital/institutions. 
+
+6.11 Develop, implement and monitor risk communication plan, and shall provide technical assistance in the development of the LGU risk communication plan through the HEPO/PIO. 
+
+7 Local Government Units 
+
+7.1 Provide timely feedback to the Local Chief Executives (governor/city mayor). 
+
+7.2 Provide assistance to the health worker in the form of technical, legal, social, financial assistance among others. 
+
+7.3 Assign LCE or duly designate ofﬁcial to be the spokesperson for press releases related to AEFI in consultation with the provincial AEFI committee. 
+
+7.4 Train/Orient/Disseminate AEFI policies/guidelines to all stakeholders (health ' facilities-government and private, schools, among others). 
+
+7.5 Report hospitals and related facilities that fail to comply with the PIDSR reporting requirements to the CHDs. 
+
+Provincial Health Ofﬁce/ City Health Ofﬁces of Highly Urbanize Cities (HUCs) 
+
+i. Establish provincial/city AEFI committee consisting of provincial/city health ofﬁcer, provincial/city program _ coordinator, PESU/CESU, provincial/city HEPO, provincial/city cold chain manager. 
+
+ii. Validate and investigate reported AEFIs (verbal or written) from the cities, municipalities and barangays both from public or private health service providers. 
+
+iii. Prepare and submit initial report to Centers for Health Development. 
+
+iv. Inform immediately the municipality/health center concerned for cases reported directly to the PHO. 
+
+v. Augment social and medical support to the AEFI case 
+
+vi. Follow—up implementation by the municipalities/cities of national/regional/ provincial level recommendations. 
+
+Municipal Health Ofﬁce/ Health Ofﬁces of Component City 
+
+i. Detect, investigate and report AEFI to next higher level. 
+
+ii. Provide initial management, social and medical support to the AEFI case (hospitalization, among others). 
+
+iii. Implement nationallregional/provincial level recommendations. 
+
+iv. Coordinate with other stakeholders (e. g. private MDs, hospitals, birthing centers, among others) regarding AEFI cases. 
+
+Barangay 
+
+i. Detect and report AEFI to next higher level. 
+
+ii. The midwife shall institute initial case management and refer to next higher level e. g. RHU/ health centers or referral hospital. 
+
+iii. The midwife shall organize community assembly and other health education activities. 
+
+iv. The barangay council shall provide assistance to the health worker (technical, legal, social, ﬁnancial, among others). 
+
+v. The barangay council shall provide support to the AEFI case — transportation, medicines, hospital referral, communication to family and communities, among others 
+
+8. Hospitals 
+
+8.1 Detect and report all AEFI cases to Epidemiological and Surveillance units. 
+
+8.2 Clinically manage AEFI cases. 
+
+8.3 Provide access to hospital/ medical records of AEFI cases to the AEFI investigation teams 
+
+IX. REPEALING CLAUSE 
+
+The provisions of previous Orders and other related issuances inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modiﬁed, repealed or rescinded accordingly. All other provisions of existing issuances which are not affected by this Order shall remain valid and in effect. 
+
+X. EFFECTIVITY 
+
+This order shall take effect immediately.
+</body>
+
+<sign>ESPERANZA I. CABRAL, MD</sign>
+<signtitle>Secretary of Health</signtitle> 
+
+
+<image>figure_1.png</image>
+<image>figure_2.png</image>
+<image>figure_3.png</image>

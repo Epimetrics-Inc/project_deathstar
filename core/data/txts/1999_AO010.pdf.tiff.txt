@@ -1,0 +1,99 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound
+Rizal Avenue, Sta. Cruz
+Manila, Philippines
+Tel No. 711-95-02, 711-95-03
+Fax 743-18-29  
+
+<date>03/08/1999</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 10 s. 1999</docnum>
+
+<subject>SUBJECT: Internet Management and Utilization Guideline</subject>
+
+<body>
+
+I. Rationale
+
+The computerisation of the management processes from the central to the regions in one of the priority activities that will be undertaken by DOH. A series of training is being conducted to orient DOH personnel on the use of internet.
+
+The internet is a tool that will improve efficiency and effectiveness of the Department of Health (DOH). The internet (e.g. e-mail, chat and surfing) is another medium of communication not meant to totally replace the conventional way of communication or data/information exchange such as telephone, radio message, mail, fax, telegram, others. Through the internet, decision making is improved because communication flow (data or voice) is faster and easier to access: traveling to the regions is minimised.
+
+This Administrative Order rationalised internet management and utilization in the DOH.
+
+
+II. Scope and Coverage
+
+This Order governs the use of the internet for e-mail, chat and surfing by all units of the DOH whether the internet connection is through the local area network, dial-up connection through the Management Advisory Service of through a private Internet Service Provider.
+
+
+III. Definition of Terms
+
+<image>table_1.png</image>
+
+
+IV. Guidelines on E-mail, Chat and Surfing
+
+A. E-mail
+
+1. Sending and checking of official DOH e-mails should be the 1st priority. Checking should be done at least once a day. Official DOH e-mails include all letters, invitations, endorsements and other documents that are marked as such.
+
+2. Unique identification system that shall distinguish electronic communication will be developed. The code should appear in the SUBJECT of all official documents. In this manner, the recipient would be able to prioritize documents of official nature.
+
+Subject should start with the word OFFICIAL followed by a “unique identification code” of the Office then the subject matter. For example,
+
+SUBJECT: OFFICIAL: NATIONAL STAFF MEETING
+
+3. When in doubt about the authenticity or official nature of a transmitted document, verification should be done at the document source.
+
+4. Memory-resident anti-virus programs should be installed in computers with e-mail connection to ensure on-line scanning of transmitted electronic documents.
+
+5. Administrative issuances such as Administrative Order, Department Order, Department Circular and Department Memorandum will be posted on the DOH Intranet website at http://home.doh.gov.ph.
+
+The Records Section will send e-mail to the different DOH units regarding the web posting of the administrative issuances.
+
+B. Chat
+1. Chatting should be used for conversing and exchanging ideas.
+2. Limit chatting to official business.
+
+C. Surf
+1. Surfing the internet should be for DOH official business.
+2. Surfing websites heavy in graphics, audio or video such as movie pages renders the whole system (e.g. DOH internet system) inefficient because of its huge requirement in memory, time and disk space. This should be avoided. 
+3. Random utilisation check of WWW sites visited will be conducted.
+
+
+V. Implementing Structure:
+
+A. Management Advisory Service
+
+The Management Advisory Service shall manage/oversee internet operations. It shall undertake the following activities:
+1. Contract Internet Service Provider (ISP)
+2. Draw/develop internet protocols
+3. Develop manuals
+4. Conduct training on internet, e-mail and chat
+5. Monitor internet utilization by conducting random utilization check (i.e. identify WWW sites visited, e-mails sent and received, chat, and the time and date of internet use)
+6. Conduct research and development
+7. Maintain servers and workstations including cleaning/deleting of e-mail every 2 months.
+
+B. Units/Programs
+
+The units or programs shall be responsible for the following:
+1. Provide required hardware: i. modem if using a dial-up connection, ii. computers and iii. printers
+2. Monitor internet utilisation in their respective workstations to assure that DOH official business is prioritised.
+3. Clean e-mails in their workstations at least every 2 months.
+
+C. Regional Health Offices
+1. Select an internet provider.
+2. Provide required hardware: i. modem if using a dial-up connection, ii. computers and iii. printers
+2. Monitor internet utilization in their respective workstations to assure that DOH official business is prioritised.
+3. Clean e-mails in their workstations at least every 2 months.
+
+This Order takes effect immediately.
+
+
+</body> 
+<sign>ALBERTO G. ROMUALDEZ, JR., M.D.</sign>
+<signtitle>Secretary of Health</signtitle>

@@ -1,0 +1,293 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>02/09/2015</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2015 - 0005 </docnum>
+<subject>SUBJECT: Guidelines on the Performance Evaluation of In-Vitro Diagnostic Reagents (Human Immuno Deﬁciency Virus (HIV), Hepatitis B Virus (HBV), Hepatitis C Virus (HCV) and Syphilis Screening, Conﬁrmatorv and Disease Monitoring Test Kits) </subject>
+<body>
+ 
+
+I. RATIONALE 
+
+The use of the best and quality kits is imperative in providing proper diagnosis and in ensuring blood products are safe from blood-borne transmissible infections. In order to support proper diagnosis and blood safety accurate and reliable laboratory results should be released by the different clinical laboratory testing centers in the country of which this regulation purposely aims to improve. Certain test kits perform differently in speciﬁc geographic locations and differences in test performance have been reported depending upon the origin of the samples. Thus, there is a need for assessment and evaluation by an“ independent organization to determine the appropriateness of these test kits in Our local setting. Assay evaluations indicate a “point—in—time” assessment of assay performance, therefore, continued monitoring of the assay’s ongoing performance should also be implemented. 
+
+Pursuant to the provisions of Republic Act (RA) No. 3720 as amended by Republic Act (RA) 9711, test kits and in-vitro diagnostic reagents must be registered with the Food and Drug Administration (FDA) of the Department of Health before release into the Philippine market. 
+
+In accordance to Department Order No. 393E 3.2000, (Designation of National Reference Laboratories and Transfer of Corresponding Equipment, Instruments, Supplies, Specimens, Records from the Bureau of Research and Laboratories), the National Reference Laboratory- STD AIDS Cooperative Central Laboratory (NRL-SLH/SACCL) of San Lazaro Hospital has been mandated to perform evaluation, validation and continuous monitoring of test kits in the diagnosis of HIV and other STIs to ensure their quality and good performance in local setting. 
+
+II. SCOPE/COVERAGE 
+
+These guidelines shall apply to all manufacturers, traders and distributors (importers/exporters/wholesalers) of all test kits and in Vitro reagents used to screen, conﬁrm and monitor HIV (antibody and/or antigen), HBV (HBsAg and other markers), HCV (antibody and antigen) and syphilis (Treponemal and non-treponemal) infections using serum, plasma or whole blood and other body ﬂuid samples? 
+
+
+III. DEFINITION OF TERMS 
+
+The following deﬁnitions shall apply: 
+
+1. Applicant — refers to a natural or juridical person that seeks to distribute HIV, HBV, HCV and Syphilis test kits/in-vitro reagents. 
+
+2. Center for Device Regulation, Radiation Health and Research (CDRRHR) — refers to one of the four centers of the Food and Drug Administration (FDA), mandated to regulate the manufacture, importation, exportation, distribution, sale, offer for sale, transfer, promotion, advertisement, sponsorship of and/or, where appropriate, the use and testing of medical devices including in-vitro diagnostic kits and reagents 
+
+3. Confirmatory test -— refers to tests performed on samples that are reactive by screening tests to ensure that the screening test results were accurate. 
+
+4. Distributor-Exporter — refers to any establishment that exports raw materials, active ingredients and/or ﬁnished products of screening test kits/reagents to another country. 
+
+5. Distributor-Importer - refers to any establishment that imports raw materials, active ingredients and/or ﬁnished products screening test kits/reagents for its own use or for wholesale distribution to other establishments or outlets within the country. 
+
+6. Initial registration ~ refers to company’s application to register test kits that has never been registered locally. 
+
+7. Point-in-time assessment— an assessment done for a test system at that particular point in time when evaluation was performed, done by a technologist, using a pre-determined set of panel sera and reagent lot for testing. As such, results of succeeding evaluation done at a different time on the same or different panel may not necessarily produce identical results. 
+
+8. Manufacturer — refers to any establishment involved in the production of an in— vitro diagnostic medical device including processing, formulating, packing, re- packing, ﬁnishing and labeling with the ends in View of its storage, sale or distribution. 
+
+9. Renewal registration — refers to company’s application to renew their registration on or before the expiration of their Certiﬁcate of Product Registration. 
+
+10. Reactive — refers to the reported test result from a screening test that indicates presumptive evidence of infection 
+
+11. Sensitivity — means the ability of a test to detect very small amounts of analyte, or the ability of a test to detect infected individuals. 
+
+12. Seroconversion — the point at which speciﬁc antigen/antibody can ﬁrst be detected in an infected individual who was previously found negative of HBV, HCV, HIV and Syphilis 
+
+13. Speciﬁcity — means the ability of the test to identify negative samples. 
+
+14. Trader — any establishment which is a registered owner of a health product and procures the raw materials and packing components, and provides the production monographs, quality control standards and procedures, but subcontracts the manufacture of such product to a licensed manufacturer. In addition, a trader may also engage in the distribution and or marketing of its products. 
+
+15. Validation — a process done to monitor the performance of previously approved screening test kits and verify performance of other special test systems 
+
+16. Screening test system — an initial test used in a population to identify a disease in individuals with or without signs or symptoms 
+
+17. Other test system -— test other than screening test, used to monitor/stage infection 
+
+a. Conﬁrmatory/ Supplemental tests 
+
+b. Nucleic Ampliﬁcation test systems for in vitro diagnostic use 
+
+c. Tests to monitor disease activity (e. g. Viral load tests, other serologic markers for Hepatitis B). 
+
+IV. GENERAL GUIDELINES 
+
+1. Only applicant company whose application has been reviewed by the CDRRHR and endorsed to NRL-SLH/SACCL shall be considered for performance evaluation. 
+
+2. NRL-SLH/SACCL reserves the right to ask any other requirements not indicated in this order but deemed necessary to support the reliability and authenticity of the submitted documents. 
+
+3. The validity of the initial performance evaluation of all screening test systems shall be two years and it shall undergo validation every two years upon approval of the initial certiﬁcate of product registration. 
+
+4. The validity of the initial performance evaluation of all other test systems shall be ﬁve(5) years and it shall undergo validation every ﬁve years upon approval of the initial certiﬁcate of product registration. 
+
+5. The application for the validation shall be applied at the CDRRHR and the CDRRHR shall endorse the application to NRL-SLH/SACCL. 
+
+6. A copy of the Assay Evaluation report shall be issued directly to FDA by NRL- SLH/SACCL. The NRL—SLH/SACCL shall neither be obliged to convey statements nor entertain follow-ups of test results by applicant companies prior to the completion of evaluation. 
+
+7. Donated reagents from International Donors that are not included in the list of FDA registered kits cannot be used for diagnostic testing of patients.  
+
+
+8. If a test kit fails 1% below of the passing criteria, re-evaluation maybe done depending upon the discretion of applicant company and must submit requirements within a month to NRL-SLH/SACCL. 
+
+9. If a test kit fails >1% below of the passing criteria, evaluation result will be submitted to FDA without re-evaluation. Applicant company may re-apply for initial registration to FDA after improvement on the kit has been made. 
+
+POLICIES AND PROCEDURES 
+
+A. Documentary Requirements: 
+
+The applicant company shall submit the following documents: 
+
+A.1 Initial Evaluation — Screening Test Systems 
+
+a. Preliminary Evaluation Requirements 
+
+1. All or any one of the following (certiﬁed true copy): 
+
+- US FDA Approval 
+
+- Europe EC Design Examination Certiﬁcate 
+
+- Australian Register of Therapeutic Goods recommendation 
+
+- Canada HPFB recommendation 
+
+- Japan NIID evaluation 
+
+- WHO Prequaliﬁcation evaluation 
+
+- Certiﬁcate of Registration issued by the Health authority of the country where the product is being sold 
+
+2. Assay Package Inserts 
+
+3. Good Manufacturer Practice Certiﬁcate, certiﬁed true copy 
+
+4. Certiﬁcate of distributorship from manufacturer source authenticated by the Philippine Consulate from the country of origin; 
+
+5. Clinical Trial data (Multi-centre studies); international publications; 
+
+6. Description of antigen and or antibody component; 
+
+7. Product speciﬁcations and physical description of the kit for evaluation 
+
+b. Performance Evaluation Requirements: 
+
+1. Submission of test systems intended for evaluation; 
+
+a. A minimum of 1000 tests equally divided into two production lots; 
+
+b. Kits submitted for evaluation should have an expiration date at least 6 months from the date of submission; 
+
+c. Must be transported according to the manufacturer’s recommendation; 
+
+d. Submission of seroconversion or performance panel, details of these panel can be obtained at NRL-SLH/SACCL. 
+
+
+2. Payment of performance evaluation fee to defray cost of supplies and reagents used for the preparation of serum panels and actual conduct of evaluation subject to change as maybe deemed necessary. 
+
+A Notice for Submission of Samples will be provided by NRL/SLH/SACCL to the applicant company upon completion of above requirements. Result of evaluation and recommendation of NRL-SLH/SACCL will be forwarded to FDA within two (2) months after submission of all requirements 
+
+A.2 Renewal/Re—Evaluation for Screening Test System 
+
+a. Preliminary Evaluation Requirements; 
+
+The applicant company shall submit the following requirements 
+
+1. Latest Certiﬁcate of Product Registration 
+2. Assay Package Inserts 
+3. List of raw materials used as components of the kit; 
+4. Product speciﬁcations and physical description of the kit for evaluation. 
+
+b. Performance Evaluation Requirements: 
+
+1. Submission of test systems intended for evaluation; 
+
+a. A minimum of 1000 tests; 
+b. Kits submitted for evaluation should have an expiration date at least 6 months from the date of submission; 
+c. Must be transported according to the manufacturer’s recommendation; 
+
+2. Payment of performance evaluation fee to defray cost of supplies and reagents used for the preparation of serum panels and actual conduct of evaluation. 
+
+A Notice for Submission of Samples will be provided by NRL/SLH/SACCL to the applicant company upon completion of above requirements. Result of evaluation and recommendation of NRL-SLH/SACCL will be forwarded to FDA within two (2) months after submission of all requirements 
+
+A.3 Initial/Renewal/Re-Evaluation for other test systems 
+
+The applicant company shall submit the following requirements: 
+
+a. Preliminary Evaluation Requirements 
+
+1. All or any one of the following (certiﬁed true copy): 
+
+- US FDA Approval 
+— Europe EC Design Examination Certiﬁcate 
+- Australia TGA recommendation 
+- Canada HPFB recommendation 
+— Japan NIID evaluation 
+- WHO Prequaliﬁcation evaluation 
+
+2. Assay Package Inserts 
+
+3. Good Manufacturer Practice Certiﬁcate, certiﬁed true copy 
+
+4. Certiﬁcate of distributorship from manufacturer source authenticated by the Philippine Consulate from the country of origin 
+
+5. Clinical Trial data (Multi-centre studies); international publications; 
+
+6. Description of antigen and or antibody component; 
+
+7. Product speciﬁcations and physical description of the kit for evaluation 
+
+b. Performance Evaluation Requirements: 
+
+1. Submission of test systems intended for evaluation; 
+
+a. A minimum of 1 kit or as needed;
+b. Submission of seroconversion or performance panel, details of these panel can be obtained at NRL-SLH/SACCL;  
+c. Kits submitted for evaluation should have an expiration date at least 6 months from the date of submission 
+d. Must be transported according to the manufacturer’s recommendation. 
+
+
+2. Payment of performance evaluation fee to San Lazaro Hospital to defray cost of supplies and reagents used for the preparation of serum panels and actual conduct of evaluation ; 
+
+A Notice for Submission of Samples will be provided by NRL/SLH/SACCL to the applicant company upon completion of above requirements. Result of evaluation and recommendation of NRL-SLH/SACCL will be forwarded to FDA within two (2) months after submission of all requirements 
+
+B. Procedural Guidelines 
+
+Technical Procedures and Implementing Guidelines in-Performing the Assay Evaluation for Hepatitis B (HBsAg), Hepatitis C (anti-HCV) HIV (anti-HIV), Syphilis and Other Test Systems 
+
+1. Review of preliminary evaluation requirements 
+The applicant company are required to submit all requirements as stated in the Policies and Procedures and allow the NRL-SLH/SACCL to review the documents and other pertinent data related to the test systems to be evaluated. 
+
+2. Performance procedures and conditions 
+2.1 Test kits will be accepted only after all requirements were completed and the following must be strictly adhered to: 
+
+a. A total of 1000 test for each test systems are to be submitted to be used for the entire evaluation procedure including repeat tests whenever necessary. Unused test kits will be returned to the applicant company after the evaluation has been completed; 
+
+Table 1: Performance Panel Component 
+
+ 
+ <image>table_1.png</image>
+
+
+
+b. Expiration of test kits should be at least 6 months onwards from the date of submission; 
+
+c. Two different production lot numbers should be submitted for every test system to determine lot variability of the kit; 
+
+d. Proper transport of test kits according to the manufacturer’s recommendation must be strictly observed so as not to compromise the result of the evaluation. 
+
+e. Submission of seroconversion or performance panels based on NRL— SLH/SACCL speciﬁcations. Details of acquiring such panels shall be coordinated to NRL-SLH/SACCLH
+
+f. Payment for the performance evaluation of the test system shall be required to defray cost of supplies and reagents used in the preparation of panel sera and actual conduct of evaluation subject to change upon notice. 
+
+2.2 Test results will be analyzed by NRL-SLH/SACCL and released to FDA- CDRRHR 1-2 months after submission of all requirements. 
+
+For a screening test system to be considered acceptable for registration, it must meet the following recommended requirements set by NRL- SLH/SACCL; 
+
+a. Sensitivity (in performance assay) 
+- the ability of a test system to give a positive result in the presence of the target marker; 
+- the ability of a test system to detect the smallest amount of the target marker that can be precisely detected 
+
+b. Specificity (in performance assay) 
+- the ability of a test system to give a negative result in the absence of the target marker 
+- the ability of the method to determine solely the target marker 
+
+Table 2: Criteria for passing of screening test systems 
+
+
+  <image>table_2.png</image>
+
+c. Time interval obtained with seroconversion panel (Sensitivity) -— results should be comparable or more sensitive than the benchmark assay used. 
+
+d. Delta value — a means of comparing the efﬁcacy of immunoassays in separating the negative and positive serum populations. 
+
+e. Reproducibility — the percentage of concordance on any sample tested on duplicate runs. Reproducibility should not be &lt 90%. 
+
+For other test formats to be considered acceptable for registration, it must meet the performance as claimed by the manufacturer and/or comparable with other test systems already available in the market. 
+
+2.3 Results of test systems that did not meet the NRL-SACCL criteria will be forwarded directly to FDA-CDRRHR. Follow-ups won’t be entertained during the course of evaluation process. Any queries regarding the results of the evaluation should be directed to FDA—CDRRHR otherwise a formal discussion can be made ofﬁcially through the NRL-SLH/SACCL. 
+
+3. Flowchart 
+
+ 
+ <image>figure_1.png</image>
+
+
+VI. SEPARABILITY CLAUSE 
+
+If any part, term or provision of this Order shall be declared invalid or unenforceable, the validity or enforceability of the remaining portions or provisions hereof shall not be affected and this Order shall be construed as if it did not contain the particular invalid or unenforceable part, term, or portion. 
+
+VII. REPEALING CLAUSE 
+
+All administrative orders, administrative issuance, rules and regulations, bureau circulars and memoranda or any parts thereof inconsistent with the provisions of this Order are hereby modiﬁed, repealed and/or revoked accordingly. 
+
+VIII. EFFECTIVITY 
+
+This Administrative Order shall take effect ﬁfteen (15) days after publication to an ofﬁcial gazette or a newspaper of general circulation. 
+
+ </body>
+
+ <sign>JANETTE P. LORETO-GARIN, M.D., MBA-H</sign>
+<signtitle>Acting Secretary of Health</signtitle>
+ 
+
+
+
+
+
+
+

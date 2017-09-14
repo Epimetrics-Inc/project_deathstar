@@ -1,0 +1,23 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>15/3/1983</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 58,s. 1983</docnum>
+
+<subject>SUBJECT : Authority of Regional Health Directors to approve contracts involving subsidy of beds in private hospitals for indigent patients effective January 1, 1983</subject>
+<body>
+	Effective January 1, 1983, Regional Health Directors are hereby granted the authority to approve contracts involving the subsidy of beds in private hospitals for the use of indigent patients.
+	The guidelines set forth by this Office under Administrative Order No. 5-B dated August 31, 1981 shall be strictly observed before acting favorably on the contracts which terminate at the end of each calendar year to ensure availability of funds for the purpose.
+	Contracts thus approved shall beer the following words above that of the signing official:
+
+“By authority of the Minister of Health”
+
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>

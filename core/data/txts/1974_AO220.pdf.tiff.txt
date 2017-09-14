@@ -1,0 +1,279 @@
+﻿Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+<date>06/13/1974</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 220 S. 1974</docnum>
+ 
+<subject>SUBJECT: Drugs: Current Good Manufacturing Practice in Manufacture, Processing, Packing or Holding</subject>
+
+<body>
+1. Definitions - the definitions and interpretations contained in section 10 of the Food, Drug and Cosmetic Act (RA 3720) are applicable to such terms when used in this regulation. The following definitions shall also apply:
+
+a) "Component" (raw material) means any ingredient intended for use in the manufacturing of drugs, including those that may not appear in the finished product.
+
+b) "Batch" means a specific homogeneous quantity of a drug produced according to a single manufacturing order during the same cycle of manufacture.
+
+c) "Lot" means a batch or any portion of a batch of a drug or, in the case of a drug produced by a continuous process, an amount of drug produced in a unit of time or quantity in a manner that assures uniformity and in either case which is identified by a distinctive lot number and has uniform character and quality within specified limits.
+
+d) "Lot number" or "control number" means any distinctive combination of letters or numbers, or both, by which the complete history of the manufacture, control, packaging, and distribution of a batch or lot of a drug is determined.
+
+e) "Active ingredient" any substance of a drug which is intended to furnish pharmacological activity or other effect in the diagnosis, cure, mitigation, treatment, or prevention of disease or to affect the structure or any function of the body of man or other animals.
+
+f) "Inactive ingredient" means any substance other than as "active ingredient" present in a drug.
+
+g) "Materials approval unit" means an organizational element having the authority and responsibility to approve or reject raw materials, in-process material, packaging components, and final products.
+
+h) "Strength" means (i) the concentration of a known active drug substance in formulation (for example, w/w, w/v, or unit dose/volume basis) and/or (ii) potency, that is, the specific ability or capacity of the product as indicated by appropriate laboratory tests or by adequately controlled clinical data obtained through the administration of the product in the manner intended to effect a given result(s) expressed, for example, in terms of units by reference to a standard).
+
+2. Current good manufacturing practice.
+
+The criteria in paragraphs 3 to 14 inclusive, shall apply in determining whether the methods used in, or the facilities or controls used for,  the manufacture, processing, packing, or holding of a drug conform to or are operated or administered in conformity with current good manufacturing practice to assure that a drug meets the requirements of the act as to safety, and has the identity and strength and meets the quality and purity characteristics which it purports or is represented to possess, as required by section 18(a) of the Food, Drug and Cosmetic Act (Republic act No. 3720). The regulations permit the use of precision automatic, mechanical, or electronic equipment in the production and control of drugs when adequate inspection and checking procedures are used to assure proper performance.
+
+3. Buildings.
+
+Buildings shall be maintained in a clean and orderly manner and shall be of suitable size, construction, and location in relation to surroundings to facilitate adequate cleaning, maintenance, and proper operations for their intended purpose - the manufacturing, processing, packing, labeling, or holding of a drug. The buildings shall:
+
+a) Provide adequate space for:
+
+1) Orderly placement of equipment and materials to minimize any risk of mixups between different drugs, drug components, in—process materials, packaging, or labelling, and to minimize the possibility of cross contamination of one drug by another drug(s).
+
+2) The receipt, storage, and withholding from use of components pending sampling, identification, and testing prior to release by the materials approval unit for manufacturing or packaging.
+
+3) The holding of rejected components prior to disposition in such a way as to preclude the possibility of their use in any manufacturing or packaging procedure.
+
+4) The storage of components approved for use.
+
+5) Any manufacturing and processing operations performed on the drug.
+
+6) Any packaging and labeling operations.
+
+7) Storage of containers, packaging materials, labeling and finished products.
+
+8) Control and production—laboratory operations.
+
+b) Provide adequate lighting, ventilation, and when necessary for the intended production or control purposes, facilities for adequate air-pressure, microbiological, dust, screening, filtering, humidity, and temperature controls to
+
+1) Minimize contamination of products by extraneous adulterants (including cross-contamination of one product by dust or particles of ingredients arising from the manufacture, storage, or handling of another drug).
+
+2) Minimize dissemination of microorganisms from one area to another.
+
+c) Provide for adequate locker facilities and hot and cold water washing facilities including soap or detergent, air drier or single service towels, and clean toilet facilities near working areas.
+
+d) Provide as adequate supply of potable water (PHS standards) under continuous positive pressure in a plumbing system free of defects which could cause or contribute to contamination of the product. Drains shall be of adequate size and where connected directly to a sewer, shall be equipped with the traps to prevent back-siphonage.
+
+e) Provide suitable housing and space for the care of all laboratory animals.
+
+f) Provide for safe and sanitary disposal of sewage, trash and other refuse.
+
+4. Equipment
+
+Equipment used for the manufacture, processing, packing, labeling, holding, testing, or control of drugs shall be maintained in a clean and orderly manner and shall be of suitable design, size, construction and location in relation to surroundings to facilitate cleaning, maintenance, and operation for its intended purpose. The equipment shall:
+
+a) Be so constructed that all surfaces that come into contact with a drug shall not be reactive, additive, or absorptive so as to alter the safety, identity, strength, quality, or purity of the drug or its components, beyond the official or other established requirements.
+
+b) Be so constructed that any substances required for operation of the equipment, such as lubricants or coolants, do not contact drug products.
+
+c) Be constructed and installed to facilitate adjustment, disassembly, cleaning and maintenance as necessary to assure the reliability of control procedures, uniformity of production, and exclusion from drugs or contaminants (for example, pesticides, lubricants), including contaminants from previous and current operations (for example, cross contamination with penicillin or any other drug).
+
+d) Be of suitable type, size and accuracy for any intended testing, measuring, mixing, weighing, or other processing or storage operations.
+
+5. Personnel
+
+a) The personnel responsible for directing the manufacture and control of the drug shall be adequate in number and background of education and experience to assure that the drug has the safety, identity, strength, quality, and purity that it purports to possess, All personnel shall have capabilities commensurate with their assigned functions, a  thorough understanding of the manufacturing or control operations which they perform, the necessary training and experience relating to individual products, and adequate information concerning the reasons for and the application of the pertinent provisions of this part to their respective functions.
+
+b) Personnel having direct contact with drugs shall have periodic health checks, and shall be free from communicable disease and open lesions on the exposed surface of the body.
+
+6. Components (raw materials).
+
+Components used in the manufacture and processing of drugs (including those components that undergo chemical change or are eliminated in the process) shall be withheld from such use until they have been identified, sampled, and tested for conformance with established specifications that are appropriate and adequate, and are released by the materials approval unit. Control of components shall include the following:
+
+a) Each container of components shall be examined visually for damage or contamination in transit, including examination for breakage of seals when indicated.
+
+b) An adequate number of samples shall be taken from a representative number or component containers and shall be subjected to one or more identity tests, including at least one laboratory test for identity.
+
+c) Representative samples of all components shall be appropriately examined, including when indicated microscopic examination, for evidence of filth, insect infestation, or other extraneous contamination.
+
+d) Representative samples of components particularly liable to contamination with highly toxic substances (for example, heavy metals), as indicated by tests for such substances in monographs of the official compendia, shall be tested to assure that official compendia or other appropriate limits for such impurities are not exceeded.
+
+e) Representative samples of all components intended to be used as active ingredients shall be tested to determine their strength per unit of weight or measure to assure compliance with adequate specification for such strength.
+
+f) Representative samples of components subject to microbiological contamination (such as those of animal and botanical origin) shall be subjected to microbiological tests. Such samples shall contain no micro-organisms which are objectionable in view of the intended use at the components.
+
+g) Approved components shall be appropriately marked and retested as necessary to assure that they conform to appropriate specifications of identity, strength, quality, and purity at time of use. This requires the following:
+
+1) Approved components are so handled and stored as to guard against their contaminating other drugs by dust or other particles resulting from such handling and storing. Similarly, approved components are so handled and stored as to guard against their being contaminated by other preparations, substances, dust, or other particles resulting from such handling and storing.
+
+2) Approved components shall be rotated in such a manner that the oldest stock is used first.
+
+3) Rejected components shall be so marked. and held as to preclude the possibility of their use in any manufacturing or processing procedure.
+
+4) Appropriate records shall be maintained of the name of the supplier, lot number of each component, date and amount received, and examinations and tests performed. Said records shall also show any components rejected and their disposition. An individual inventory record shall be maintained for each component lot showing the amount of component used in each batch of drug manufactured or processed.
+
+h) A reserve sample of all active ingredients consisting of at least twice the quantity necessary for all required tests of identity, quality, purity, and strength shall be retained for at least 2 years after distribution of the last drug lot incorporating the active ingredient has been completed, or 1 year after the expiration date of this last drug lot incorporating the active ingredient, whichever is shortest.
+
+7. Master—formula and batch-production records.
+
+a) To assure drug batch uniformity, a master-formula record for each drug product and each batch size of such drug product shall be prepared, endorsed and dated by a competent and responsible individual and shall be independently checked, reconciled, endorsed, and dated by a second competent and responsible individual. Master—formula records shall be retained for a period of at least 2 years after distribution of the last drug batch produced using the master-formula record, or 1 year after the expiration date of this last drug batch, whichever is shortest. The master-formula record shall include:
+
+1) The name of the product, a description of the dosage form, and a specimen or copy of each label and all other labeling contained in a retail package of the drug. (In private formula production, upon receipt of a written order for a portion of the drug stored in bulk form of specimen or copy of the label to be used in filing that order shall be attached to the master-formula record prior to the reproduction of the batch records.) Also included shall be copies of the final draft of each label and all other labeling contained in a retail package of the drug and their printing authorization, dated and endorsed by the responsible person or persons approving the draft.
+
+2) The name and weight or measure of each ingredient per dosage unit or per unit of weight or measure of the finished drug, and a statement of the total weight or measure of any dosage unit.
+
+3) A complete list of ingredients designated by name or codes sufficiently specific to indicate any special quality characteristic: an accurate statement of the weight or measures of each ingredient regardless of whether it appears in the finished product, except that reasonable variations are stated in the master-formula; an appropriate statement concerning any calculated excess of an ingredient; and appropriate statements of theoretical weight or measure at various stages of processing and a statement of the theoretical yield.
+
+4) A description of the containers, closures, and packaging, and finishing materials.
+
+5)Manufacturing and control instructions, procedures, specifications, special notations, and precautions to be followed.
+
+b) Readily accessible records shall be prepared for each batch of drug produces and shall include complete information relating to the production and control of each such batch. Said records shall be retained for at least 2 years, after batch distribution is complete, or 1 year after the batch expiration date, whichever is shortest. The records relating to production, including packaging, labeling, and control of each batch, plus copies of the labeling bearing the lot or control numbers used on the batch, shall be readily available during such retention period. The batch records shall include:
+
+l) An accurate reproduction of the appropriate master-formula record checked and endorsed by a competent, responsible individual.
+
+2) Records of each step in the manufacturing, processing, packaging, labeling, testing, and controlling of the batch, including dates, individual major equipment and lines employed, specific identification of each batch of components used, weights or measures of components and products used in course of processing, in-process and laboratory-control results, and the endorsements of the individual actively performing and the individual actively supervising or checking each step in the operation.
+
+3) A batch number that permits determination of all laboratory-control procedures and results on the batch, and all lot or control numbers appearing on the labeling of drugs from that batch, including copies of the labeling bearing the lot or control numbers used on the final containers of the batch.
+
+4) A record with complete investigative history of any mix-ups, errors, and unsatisfactory drug products found during and after drug manufacturing, processing, packaging, labeling, testing, controlling, and distributing of the batch. This investigative history shall be evaluated by competent and responsible personnel and, where indicated, appropriate action shall be taken. Said record shall indicate the evaluation and action.
+
+8. Production and control procedures.
+
+Production and control procedures shall include all reasonable precautions, including the following, to assure that the drugs produced have the safety, identity, strength, quality, and purity they purport to possess:
+
+a) Each critical step in the process such as the selection, weighing, and measuring of components, the addition of active ingredients during the process, weighing and measuring during various stages of the processing, and the determination of the finished yield, shall be performed by a competent, responsible individual and checked by a second competent, responsible individual; or if such steps in the processing are controlled by precision automatic, mechanical, or electronic equipment, their proper performance is adequately checked by one or more competent, responsible individuals. The written record of the critical steps in the process shall be initialed by the individual performing the critical step and also initia1ed by the individual charged with checking each critical step.
+
+b) All containers, lines, and equipment used in producing a batch of drugs shall be distinctly labeled at all times to identify accurately and completely their contents, the stage of processing, and the batch. For equipment and lines, placement of this identification shall include, where applicable, input lines, output lines, and operator controls. All containers, lines, and equipment used in producing a batch of drugs shall be stored and handled in a manner adequate to prevent mixups or contamination with other drugs.
+
+c) Equipment, utensils, and containers shall be thoroughly cleaned and properly stored and have previous batch identification removed between batches, or at suitable intervals in continuous production operations, to minimize the hazard contamination with microorganisms and to prevent other contamination and mixups. Equipment being employed for consecutive identical product batches shall be thoroughly cleaned at suitable intervals. All equipment used in the handling of sterile products shall be appropriately cleaned and, when necessary, sterilized prior to use.
+
+d) Appropriate procedures, such as the following, shall be taken to minimize the hazard of contamination with microorganisms in the production of parenteral drugs, ophthalmic solutions, and any other drugs purporting to be sterile:
+
+1) Filling operations shall be performed with adequate physical segregation from similar operations on any other drugs to avoid cross-contamination.
+
+2) Proper control of air movement and air filtration prior to entry and discharge shall be provided in all sterile areas to minimize microbiological contamination, particulate matter, and cross-contamination of one drug with another.
+
+e) Appropriate procedures shall be taken to minimize the hazard of cross-contamination of non-penicillin products by penicillin in those establishment that manufacture, store, or handle penicillin as well as nonpenicillin products.
+
+f) To assure the uniformity and integrity of products, there shall be adequate in-process controls, such as checking the weights and disintegration time of tablets, the fill of liquids, the adequacy of mixing, the homogeneity of suspensions, and the clarity of solutions. Such in-process testing shall be done at appropriate intervals during each individual operations, when practicable, using readily accessible, adequate, and suitable equipment. A written record of all such tests shall be maintained, including the date and time of each test, the product name and batch number, the quantity tested, the results, and the initials of the person performing the test.
+
+g) Competent and responsible personnel shall check actual against theoretical yield of each batch of drug, or at appropriate intervals in continuous production operations, and in the event of any significant unexplained discrepancies shall prevent distribution of the batch in question and other associated batches of drugs that may have been involved. A satisfactory explanation for any significant discrepancy between theoretical and actual yields shall be entered on the batch record and signed by the person who investigated the discrepancy. This record shall also contain a statement on criteria used in accepting or rejecting such a batch.
+
+i) Certificate antibiotics and insulin are to be withheld from distribution until the certification certificate is actually received. All other drugs shall be withheld from distribution until released by the materials approval unit on the basis of satisfactory control tests.
+
+j) Returned goods shall be so identified and held. If the condition of the container, carton, or labeling is such as to cast doubt on the identity, strength, quality, or purity of the drug, the returned goods shall be destroyed or subjected to the complete protocol of testing (to assure that the will meet all appropriate standards and specifications) before being returned to stock for warehouse distribution or repacking, No returned goods shall be reprocessed unless they have been found by appropriate tests not to have undergone any significant physical, chemical, or microbiological degradation and not to have become contaminated with extraneous substances or filth. Records of returned goods shall be maintained and shall indicate the amount returned, date and actual disposition of the product, such as reprocessed, destroyed, or returned to stock.
+
+9. Product containers.
+
+Suitable specifications, test methods, cleaning procedures, and when indicated, sterilization procedures shall be used to assure that containers, closures, and other component parts of drug packages are suitable for their intended use. The container shall comply with applicable compendial requirements when used for an official product. Containers, closures, and other component parts of drug packages shall not be reactive, additive, or absorptive so as to alter the safety, identity, strength, quality, or purity of the drug or its components beyond the official or other established requirements, and shall provide adequate protection against deterioration or contamination of the drug. Containers, closures, and other component parts of drug packages shall be handled and stored in a manner to protect them from contamination and deterioration and to avoid mixups.
+
+10. Packaging and labeling.
+
+Packaging and labeling operations shall be adequately controlled:
+
+To assure that only those drug products that have met the standards and specifications established in the master-formula records shall be distributed; to prevent mixups between drugs during the filling, packaging, and labeling operations; to assure that correct labels and labeling are employed for the drugs; and to identify the finished product with a lot or control number that permits determination of the history of the manufacture and control of the batch. The lot or control number shall be identified as such on the label.  An hour, day, or shift code is appropriate as a lot or control number for the drug products manufactured or processed in continuous production equipment. packaging and labeling operations shall:
+
+a) Be separated (physically or spatially) from operations on any other drugs in a manner adequate to avoid mixups. Two or more packaging and/or labeling operations having drugs, containers, or labeling similar in appearance shall not be in process simultaneously on adjacent or nearby lines unless these operations are separated by a physical barrier.
+
+b) Provide for an inspection of the facilities prior to use to assure that all other drugs and previously used labeling have been removed.
+
+c) Include the following labeling controls:
+
+1) The holding of labels and package labeling upon receipt plus review and proofing against an approved final copy by a competent responsible individual to assure that they are accurate in respect to identity, content, and conformity with the approved copy before release to inventory.
+
+2) The maintenance and storage pf each type label and package labeling representing different products, strengths or dosage from in separate compartments, drawers, or containers suitably identified. Said compartments, drawers, or containers shall have prominently affixed to them a specimen of the label or labeling they contain or some other adequate means of identification to avoid mixups.
+
+3) A perpetual check of current labels and package labeling. Stocks of outdated and obsolete labels and other package labeling shall be destroyed.
+
+4) Restrict access to labels and package labeling storage areas to persons responsible for them.
+
+d) Provide strict control of the package labeling issued for use with the drug. Such issue shall be carefully checked by a competent, responsible person for identify and conformity to the labeling specified in the batch production records. Said records shall identify the labeling and the quantities issued and used and shall reasonably reconcile any discrepancy between the quantity of drug finished and the quantities of labeling issued. All excess package labeling bearing lot or control number shall be destroyed. In the event of any significant, unexplained discrepancy, distribution of the batch in questions and other associated batches of the drugs that may have been involved in such discrepancy shall be prevented. A statement regarding the discrepancy, the facts underlying the discrepancy, an explanation as determined by appropriate investigation, and the resultant action shall also be entered on the batch record of the batch or batches in question and shall be signed by a competent, responsible individual.
+
+e) Provide for adequate examination and laboratory testing of an adequate number of representative samples of finished products after packaging and labeling to safeguard against any error in the finishing operations and to prevent distribution of any batch until all specified tests have been met. Manufacturers, however, may perform adequate examination of an adequate number of representative samples of their finished drug products after packaging and labeling in lieu of laboratory testing in the case of,  and only in the case of, these tablet or capsule dosage forms of drugs which, in addition to having had all necessary laboratory tests on the bulk (but unpackaged drug), are not similar in physical appearance to any other final dosage form product found within that manufacturing establishment. Repackers who, in accordance with the practice of the trade, repack tablet or capsule dosage forms of drugs in substantial quantities at establishments other than those where originally processed or packed may meet these requirements of adequate examination and laboratory testing by complying with all of the following conditions:
+
+1) The drug received by the repacker in bulk containers is readily distinguishable visually from all other drugs in his possession and in the possession of the supplier of the drug.
+
+2) The repacker has in his possession, and in good faith relies on, a valid guarantee or undertaking (referred to in section 12(b)(2) of the Food, Drug & Cosmetic Act - R.A. 3720) from the manufacturer of the bulk drug setting forth that at the time of delivery to the repacker said drug complied with the act.
+
+3) A labeled sample package of the drug, for which the manufacturer furnishes protocol(s) of laboratory tests showing that the drug meets appropriate standards of identity, strength, quality, and purity, and which sample package bears a label identical (except for the quantity of contents statement) to the label on the bulk package of the capsules or tablets, is shipped by the manufacturer to the repacker for comparison with the appearance and labeling of the article in the bulk container. Such sample package contains at least twice the quantity of drug required to conduct all the tests performed on the batch of the drug. The sample package and a sufficient number of finished labeled containers of the repacked drug to contain at least as much drug as contained in the sample package are to be retained for at least 2 years after drug distribution has been completed, or 1 year after the drug's expiration date, which ever is shortest.
+
+4) Prior to repacking, a visual comparison is conducted by a competent, responsible person to assure that the drug to be repacked from bulk is identical in appearance that in the sample package and the labeling of the bulk package and the sample package show the same drug identity and composition.
+ 
+5) The repacker labels the drug with a suitable expiration date (in accordance with the stability requirements of No. 13) to assure that the drug meets appropriate standards of identity, strength, quality, and purity at time of use.
+
+6) The label of the repacked drug bears a lot or control number and the repacker maintains records for at least 2 years after drug distribution has been completed, or 1 year after the drug's expiration date, whichever is the shortest, from which the lot or control number of the bulk drug used in the repacking can be ascertained.
+
+f) Gang printing of cut labels or cartons should be avoided, especially when the labels or cartons for different products or different strengths of the same product are of same size and have identical or similar format and/or color schemes.
+
+11. Laboratory controls.
+
+Laboratory controls shall include the establishment of scientifically sound and appropriate specifications, standards, and test procedures (for example, identity, weight variation, disintegration, homogeneity) to assure that components, drug preparations in the course of processing, and finished products conform to appropriate standards of identity, strength, quality, and purity. Laboratory controls shall include:
+
+a) The establishment of master records containing appropriate specifications for the acceptance of each lot of components, containers, and closures used in drug production and packaging and description of the sampling and testing procedures used for them. Said samples shall be representative and adequately identified. Such records shall also provide for appropriate retesting of components, containers, and closures subject to deterioration.
+   
+b) A reserve sample of all active ingredients and all components which appear in significant quantities in the finished drug product. These reserve samples shall consist of at least twice the quantities necessary to perform all required tests. Said sample shall be retained for at least 2 years after distribution of the last drug lot incorporating such active ingredient or component has been completed, or 1 year after the expiration date of this last drug lot incorporating such active ingredient or component whichever is shortest.
+
+c) The establishment of master records, when needed, containing specifications and a description of sampling and testing procedures for in—process drug preparations. Such samples shall be adequately representative and properly marked.
+
+d) The establishment of master records containing of sampling procedures, testing procedures, and appropriate specifications for finished drug products. Such samples shall be adequately representative and properly marked.
+
+e) Adequate provision for checking the identity and strength for all active ingredients of drug products and for assuring.
+
+1) Compliance with satisfactory criteria for assuring sterility of drugs purporting to be sterile.
+
+2) Compliance with satisfactory of nonpyrogenicity as required by an official compendium or as indicated by the manner in which the drug is to be used.
+
+3) Freedom of ophthalmic ointments from foreign particles, such as metal, plastic, or other harsh and abrasive substances, to the extent possible under current good manufacturing practice.
+       
+4) That the drug release pattern of sustained release product is tested by laboratory methods used in establishing appropriate specifications related to clinical safety and effectiveness to assure conformance to such specification.
+
+5) That all components are adequately tested to conform to such specification, for example particle size, as are necessary to assure reasonably uniform rates of absorption, biological availability, and the stability of the drug products.
+
+f) Adequate provision for auditing the reliability, accuracy, precision, and performance of laboratory test procedures and laboratory instrument used.
+
+g) A properly identified reserve sample (including at least two labeled containers of the final dosage form) of at least twice the quantity of the finished drug lot required to conduct all appropriate tests performed shall be retained for at least 2 years after drug distribution has been completed, or 1 year after the drug's expiration date, whichever is shortest. The reserve sample need not contain units for sterility testing and pyrogens. Identification of this sample shall include the labeling used on the finished product.
+
+h) Provision for retaining complete records of all data, including analytical raw data, concerning laboratory tests performed, including the dates and endorsements of individuals obtaining the samples, making the tests, releasing lots (components and finished material) from storage, and provision of specifically relating the tests to each batch or lot of drug, component, and animal to which they apply. Such records shall be retained for at least 2 years after drug distribution has been completed, or 1 year after the drug's expiration date, whichever is shortest, except for stability data as provided for by paragraph 13f.
+
+i) Provision that firms which manufacture nonpenicillin products including certifiable antibiotic products, on the same premises or use the same equipment as that used for manufacturing penicillin products or that operate under any circumstances that may reasonably be regarded as conducive to contamination of other drugs by penicillin, shall test such nonpenicillin products to determine whether any have become shall not be marketed if intended for use by man and the product is contaminated with an amount of penicillin equivalent to 0.05 unit or more of penicillin G per maximum single dose recommended in the labeling of a drug intended for parenteral administration, or an amount of penicillin equivalent to 0.5 unit or more of penicillin G per maximum single dose recommended in the labeling of a drug intended for oral use.
+
+j) Provision that animals used in laboratory tests and procedures shall be adequately housed, fed, and maintained under suitable conditions of temperature and humidity. They shall be identified and records maintained as to use and date and time of use.
+
+k) Adequate regular retesting and recording of results on products and components subject to deterioration.
+
+12. Finished—goods warehouse control distribution records.
+
+Finished-goods warehouse control and distribution records shall include an adequate perpetual inventory control system or other suitable system for warehoused finished goods so that the distribution of each lot of drug, identified by lot or control number, can be readily determined to facilitate- its recall, if necessary, from all consignees of the manufacturer or repacker. Records within the system shall contain the name and the address of the consignee, date and quantity shipped, and lot or control number of the drug. Records shall be retained for at least 2 years after drug distribution has been completed, or 1 year after the drug's expiration date, whichever is shortest. Finished-goods warehouse control shall also include a system whereby the oldest approved stock is distributed first, whenever possible, to assure the quality of the product.
+
+13. Stability 
+
+There shall be assurance of the stability of components, drug preparations in the course of processing, and finished drugs. The stability shall be:
+
+a) Determined by reliable, meaningful and specific test methods.
+
+b) Determined on products in the containers in which they are marketed to assure, among other things, that the container is 13 not reactive, additive, or absorptive so as to alter the safety, identity, strength, quality, or purity of the product or its components beyond the official or other established requirements.
+
+c)Determined on any solution of a drug product which is to be prepared, as directed in its labeling, at the time of dispensing.
+
+d) Determined in relation to specifications necessary to assure reasonable uniform rates of absorption and the biological availability of the drug products as well as in relation to the specification for composition and physical characteristics of the drug product.
+
+e) Expressed as an expiration date with re1ated conditions of storage on the drug label. When the drug is marketed in the dry state for use in preparing a solution or suspension, the labeling shall hear an expiration period for such solution or suspension as well as an expiration date for the dry product. Expiration dates and periods shall be justified by (1) readily available data from stability studies or (2) readily available data showing that samples from each marketed batch of the drug are laboratory tested at appropriate intervals so that any batch of drug that falls below its professed standards of safety, identity, strength, quality, or purity prior to the expiration date is recalled from channels distribution. Expiration dates, including the redating of drug products, shall be calculated from the time of inception of the latest set of pertinent laboratory tests. An expiration date shall assure that the drug maintains its safety, identity, strength, quality, and purity, until that date if related conditions of storage are met.
+
+f) Records shall be maintained of the expirations dates and periods used in the labeling of each batch or lot of drug and said records shall be maintained for at least 2 years after drug distribution has been completed or 1 year after the drug's expiration date, whichever is shortest.
+
+14. Complaint files
+
+Records shall he maintain of all written or verbal complaints regarding each product. Complaints shall be evaluated by competent and responsible personnel and, where indicated, appropriate action shall be taken. The record shall indicate the evaluation and action. Said complaint files shall be maintained for at least 2 years after drug distribution has been completed, or 1 year after the drug's expiration date, which ever is shortest.
+
+This regulation shall take effect 30 days after publication in the Official Gazette.
+</body>
+
+<sign>CLEMENTE S. GATMAITAN, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+Recommended by:
+
+<sign>L. M. PESIGAN</sign>
+<signtitle>Food & Drug Administrator</signtitle>

@@ -1,0 +1,107 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+<date>10/1/1982</date>
+
+<doctype>ADMINISTRATIVE ORDER NO. 18 s. 1982</doctype>
+
+ 
+
+<subject>SUBJECT: Guidelines for the Implementation of the Metric System effective January 1, 1981.</subject>
+
+<body>	Pursuant to the provisions of Presidential Decree No. 187, as amended by P. D. No. 748 and Bates Pambansa Bilang 8, effective January 1, 1983,only the metric system, officially named the International System of Units or SI in brief, shall be used for measurements in the Philippines for a products, commodities, materials, services, utilities and commercial transactions and in all contracts, deeds and other official and legal instruments documents. Violations of the provisions of the decree are penalized by a fine of Pl,000 and/or imprisonment for not more than one year.
+       
+       In order that the officials and employees of the Ministry of Health will be prepared to implement the metric system, the following guidelines are hereby promulgated and disseminated for the information and guidance of all concerned:
+
+	I. Meaning of Metrication
+
+l. Metrication means: -
+		(a) conversion or change of measurement language to SI.
+		The seven units which have been selected to serve as basis of 		the system are listed below, together with their symbols and 		quantities they measure:
+       <image>table_1.png</image>
+       
+(b) conversion or change of product size to standard, national, metric sizes as prescribed by the Metric System Board (MSB. 
+
+2. The Metric System Board is authorized to draw up metric conversions program for all economic, social and other sectors of society and promulgate the necessary rules and regulations
+  
+
+3. A few non—SI units are so widely used that they are part of our everyday lives have been retained for general use with the SI:
+	<image>table_2.png</image>
+   
+4. A further group of non-SI units have been accepted for use with SI for a limited time:
+
+       1. nautical mile
+       2. knot
+       3. are
+       4. hectare
+       5. gal
+       6. “angstrom”
+       7. barn
+       8. bar
+       9. normal temperature
+       10. curie
+       11. roentgen
+       12. rad
+       
+5. Four non-SI units for use with the SI in specialized field have been retained:
+		
+		1. electrovolt
+2. unified atomic mass unit
+3. parsic
+4. astronomic unit
+
+6. For the time being, the use of millimeter of mercury for kilopascal for blood pressure measurement is retained.
+
+7. The use of the symbol “L” for liter has been authorized as well as the symbol “l” for general use.
+
+8. Miscellaneous (old) units that should no longer be used:
+<image>table_3.png</image>
+<image>table_4.png</image>
+    
+9. The degree Celsius (˚C) is an interval of one Kelvin (K) and
+the Celsius temperature 0 ˚C is defined as 275.15 K, 32˚F ,
+corresponds to 0 ˚C. The conversion factor to convert ˚F to ˚C is 5/9 (after subtracting 32) e. g. ˚F - 32 x 5/9 = 21.1 ˚C
+
+10. Common Conversion Table:
+<image>table_5.png</image>
+
+II. Course of action to be taken in General
+	1. All officials and employees shall familiarize themselves
+with the SI and the Rules and Guides for the Standard and Practical usage of SI as promulgated by the Metric System Board.
+
+2. To carry out the above, each head of bureau, office, agency or instrumentality should obtain a copy of the SI and the Rules and Guides for the Standard and Practical Usage of SI as promulgated by the Metric System Board for its official use.
+
+3. Each head of bureau, office, agency or instrumentality shall review the existing rules and regulations of the office and current measurements used therein which are not in accordance with SI should be converted to this equivalent in SI by appropriate amendments within one month after the issuance of this Administrative Order
+
+4. Each head of bureau, office, agency or instrumentality shall start to use and apply SI in all official documents, records, transactions, laboratory results, engineering and architectural drawings and designs, product specifications, letter of credit, bills of lading, public notices, rules and regulations, affidavits, contract, deeds and other legal instruments after one month from the issuance of this Order.
+
+III. Usage of SI in general
+1. Height and mass (weight) of persons shall be expressed in centimeters (cm) and kilograms (Kg) respectively, and shall be used in all personnel information sheets, application for positions, passport, driver’s license and other official records, documents and/or legal instruments
+
+2. The following English or Conventional and other non-SI Units are converted to SI as follows:
+<image>table_6.png</image>
+
+During the transition up to December 31, 1982, dual usage or markings using both SI and English or Conventional units maybe allowed but the English unit should be placed in parenthesis.
+<image>table_7.png</image>
+
+3. Requisition and procurement of supplies and equipment
+a. Only standard, national, metric size of products, commodities, and materials as prescribed by the Metric System Board or by the Philippine Bureau of Products Standard shall be requisitioned and procured effective immediately upon issuance of this Order. Inventories of stock already acquired or requisitioned as of the issuance of this Order which are not in accordance with the metric sizes may be used until exhausted. 
+<image>table_8.png</image>
+
+b. Procurement or importation of supplies and equipment shall be made in terms of SI units, that is, all measurements must be expressed in SI units. During the transition period the English equivalent may be indicated in parenthesis.
+
+IV. Usage of SI in health work more specially in health laboratory work.
+The following SI units shall be immediately applied in all laboratories of the Ministry of Health in particular and in All licensed clinical laboratories both government and private, in general.
+
+       <image>table_9.png</image>
+       <image>table_10.png</image>
+       
+All heads of bureaus, agencies, offices or instrumentalities of the Ministry of Health shall be responsible for the dissemination and implementation of the provisions of this Administrative Order.
+
+	A monthly report of the status of implementation and/or problems encountered in the implementation of this Order should be submitted by the head of the bureau, agency, office or instrumentality concerned of the Ministry of Health one month after the issuance of this Order.
+
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>

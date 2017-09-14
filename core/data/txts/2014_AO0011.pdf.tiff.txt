@@ -1,0 +1,344 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>03/14/2014</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2014 - 0011 </docnum>
+<subject>SUBJECT: Policies and Guidelines on the Implementation of Surveillance in Post Extreme Emergencies and Disasters (SPEED) </subject>
+<body>
+
+
+SUBJECT: Policies and Guidelines on the Implementation of Surveillance in Post Extreme Emergencies and Disasters (SPEED) 
+
+I. BACKGROUND 
+
+Decision-makers and program managers need timely, appropriate and quality information during emergencies to enable them to plan properly the most efﬁcient and effective health emergency response with the objective of reducing preventable deaths and morbidities related to disasters. 
+
+The Department of Health was challenged by the seemingly lack of available and immediate information in 2009 after the country was hit by Tropical Storm Ondoy, and Typhoons Pepeng and Santi. Thousands of leptospirosis cases resulting in hundreds of deaths were reported. In response to the leptospirosis outbreak in flood—affected areas, the Department of Health asked technical assistance from the Global Outbreak and Alert Response Network (GOARN) through the World Health Organization. 
+
+The need for a stronger information management system in emergencies and disasters was reinforced by recommendations from both the GOARN Team and the Health Sector 
+
+Response Post-Incident Evaluation to Tropical Storm Ondoy, and Typhoons Pepeng and Santi. The two reports identiﬁed the need for an effective early' warning system that shall provide the necessary inputs for appropriate and timely response. As a result, the Surveillance in Post Extreme Emergencies and Disasters (SPEED) system was conceptualized and developed. 
+
+Actual experiences where SPEED was activated also showed signiﬁcant data on health conditions that provided early warning to health emergency managers and decision makers. In September 2011, suspected measles cases, injuries, and diarrhea cases in the different evacuation centers in the aftermath of Typhoon Pedring and Tropical Storm Quiel were detected early, monitored, and immediately addressed. Likewise, during the response to Tropical Storm Sendong in December 2011, SPEED facilitated the timely consolidation and analysis of health conditions in the evacuation centers of Cagayan de-Oro and Iligan Cities —~ suspected leptospirosis cases were caught within the ﬁrst week prompting the conduct of appropriate interventions for the early containment of an outbreak. 
+
+SPEED is hereby adopted to address the aforementioned concerns during emergencies and disasters and meet other future challenges. This administrative order provides the framework and policy to guide the health sector in the implementation and sustainability of SPEED. 
+
+
+II. OBJECTIVES A. General To provide policy and guidelines in the institutionalization of SPEED at all levels of health emergency and management response. 
+
+B. Specific 
+
+1. To establish, integrate and sustain an early warning system through the use of SPEED in all health facilities at all levels and identiﬁed evacuation centers. 
+
+2. To capacitate health workers and other stakeholders involved in emergency management for the early detection of both physical and mental health conditions which will be used as inputs for appropriate interventions. 
+
+3. To deﬁne roles and functions of DOH ofﬁces, Local Government Units and partner agencies in the implementation of SPEED. 
+
+III. SCOPE AND COVERAGE 
+
+This Order shall cover DOH Ofﬁces and its attached agencies, government and private hospitals, other healthcare facilities, Local Government Units, Other Government Agencies, Now-Government Organizations, Professional Societies, Development Partners and other stakeholders. 
+
+IV. DECLARATION OF POLICIES 
+
+This order is guided by and based on the following existing issuances: 
+
+1. Republic Act 10121 “An Act strengthening the Philippine Disaster Risk Reduction and Management System, providing for the National Disaster Risk Reduction and Management framework and institutionalizing the National Disaster Risk Reduction and Management Plan, appropriating funds therefore and for other purposes.”
+
+2. Implementing Rules and Regulations of Republic Act 10121 Rule 7 Sec. 3 states that “there should be an established standard operating procedure on the communication system among provincial, city, municipal, and barangay disaster risk reduction and management councils for purposes of warning and'alerting them and for gathering information on disaster areas before, during and after « disasters.” 
+
+3. Republic Act No. 8185 “An Act Amending Section 324 (d) of Republic Act No. 7160 otherwise known as The Local Government Code of 1991” states that “Calamity shall be deﬁned as a state of extreme distress or misfortune, produced by some adverse circumstance or event or any great misfortune or cause or loss of misery caused by natural forces. 
+
+4. Administrative Order No.0036s. 2010 entitled “ Aquino Health Agenda: Achieving Universal Health Care for All Filipinos” under Speciﬁc Guidelines, Section C.4. “Ensuring public health measures to prevent and control of communicable diseases, and adequate surveillance and preparedness for emerging and re—emerging diseases. 
+
+5. Administrative Order No. 168 s. 2004 entitled “ National Policy on Health Emergency and Disasters” Section V.C on support Systems, identiﬁes information management system and surveillance as one of the strategies in ensuring an efﬁcient and effective system for managing emergencies and disasters in the Health Sector. 
+
+DEFINITION OF TERMS 
+
+1. Computer Literate - able to use basic computer applications including but not limited to commonly used word processors, spreadsheets, presentations, and internet browsers. 
+
+2. Clearing House — the ofﬁce that review, make recommendations and coordinating ofﬁce on all the activities of SPEED base on set standard. 
+
+3. Data Validation - is a simple process of ensuring the completeness of the data and accuracy of the information. 
+
+4. ExtremefMajor Emergency — any emergency where response is constrained by insufﬁcient resources to meet immediate needs and requires DOH intervention. 
+
+5. Health Facility — in SPEED are deﬁned as health centers, barangay health stations, hospitals and evacuation center where patients are provided health services after a disaster. 
+
+6. Immediate Notiﬁcation Alert - A short message sent out to notify the next reporting level that the threshold for such disease/event is breached so that further investigation will be done. It signals the potential of or beginning of an outbreak. 
+
+7. Post Disaster — refers to the time period immediately after the occurrence of the event. 
+
+8. SPEED - Surveillance in Post Extreme Emergencies and Disasters 
+
+9. SPEED Activation - is the process of setting the SPEED System in motion, based on the speciﬁc criteria, making it operational in all health facilities in affected or neighboring area(s) across all levels. 
+
+10. SPEED Deactivation - a process of rendering the active SPEED system inoperative and dormant across all levels with cautious consideration of the criteria set for deactivation. 
+
+11. SPEED Reporting Forms - two (2) standard forms (FORMS 1 and 2) used for SPEED reporting. 
+
+12. SPEED Team — group of local health workers with assigned tasks and responsibilities to undertake once SPEED is activated. . 
+
+13. START —— refers to the SPEED Technical Assistance and Response Team. It is a group ofselected and specially trained personnel who can provide assistance to the local SPEED Team in affected areas. They shall be selected from DOH Central, Centers for Health Development and Provincial Health Ofﬁces. 
+
+VI. GENERAL GUIDELINES 
+
+1. SPEED shall be established as an early warning system at all levels to detect health conditions or diseases with outbreak potential and to be able to access real time information that shall be made available to health emergency managers and decision makers for prompt and appropriate response. 
+
+2. All implementing agencies shall activate, utilize, and deactivate SPEED in times of emergencies and disasters in accordance to the set criteria. 
+
+3. SPEED shall be operationalized using the most current version of the SPEED Operations Manual for Managers that shall be regularly updated, amended and disseminated by HEMS. 
+
+4. All implementing agencies shall develop and continuously upgrade their strategies, mechanism, and innovation in the activation and implementation of SPEED. These may include but not limited to the necessary technical and logistical assistance that shall be extended by the next higher level to the affected areas needing support. 
+
+5. All implementing agencies shall include capacity building, development of internal mechanisms and protocols, provision of necessary operational requirements, and sustainability of SPEED in their respective plans of action/investment plans with corresponding fund allocation. This shall be addressed by, but is not limited to, continuous training, refresher courses, drill and exercises and other related activities. 
+
+6. All implementing agencies shall formulate strategies to prioritize island provinces and Geographically Isolated and Depressed Areas (GIDA) in terms of SPEED implementation. This shall be addressed by, but is not limited to, training of personnel and making sure that all logistics needed are in place. 
+
+7. SPEED Technical Assistance and Response Team (START) shall be created at the Provincial, Regional and Central Ofﬁce level which are composed of equipped and trained staff and ready with all necessary resources for deployment in areas affected as needed. 
+
+8. All partners from non-government or private organizations shall coordinate with the respective health ofﬁces or health facilities in areas where they operate SPEED in times of extreme emergencies and disasters and endeavor to secure the resource requirements, including HR support when necessary. 
+
+9. The Surveillance Ofﬁcers together with the Health Emergency Managers at all levels shall work together to provide technical assistance in data validation, analysis and interpretation, and report generation as inputs for timely and appropriate response. 
+
+10. All implementing agencies shall monitor and evaluate the implementation of SPEED to provide evidence-based inputs into systems improvement. 
+
+11. Health Emergency Management Staff (HEMS) shall serve as the clearing house of all the activities relative to SPEED in coordination with relevant ofﬁces. 
+
+VII. SPECIFIC GUIDELINES A. Components of SPEED System 1. Health Human Resource 
+
+a. The SPEED system shall be manned by competent and trained staff at all levels; 
+
+b. Selected health workers and other stakeholders shall be trained on the use of SPEED and shall be made ready to take part in the related preparedness and response activities. 
+
+c. SPEED Team members shall devote time during emergencies/ disasters to take the roles and functions of the team leader, data manager, hotline staff and runner or other functions expected by the higher authority; 
+
+d. Active participation of decision makers, policy makers, health emergency managers shall ensure the monitoring of the progress of implementation of SPEED. ' 
+
+e. All partners from non-government or private organizations shall work closely with the respective health facilities and health ofﬁces in areas where they operate in timesof extreme emergencies and disasters. 
+
+2. Procedures 
+
+a. SPEED shall be guided by the existing devolved set-up and the existing Management Information System (MIS) in the country; 
+
+b. Concerned health ofﬁces at all levels shall include SPEED capacity- building, operational requirements and sustainability in their respective plans of action and ensure allocation of funds for the same; 
+
+c. The reporting ﬂow shall follow the country’s health care system framework, wherein data are forwarded from municipalities and cities to MHO/CHO, then to PHO. All data collected by PHO, Regional and DOH Retained hospitals shall be reported to their respective CHD who shall direct all information to DOH-HEMS; 
+
+d. Community shall be empowered through education, promotions and advocacy to ensure public awareness of the importance of prevention and preparedness during emergencies and disasters. 
+
+3. Infrastructure 
+
+a. SPEED infrastructure shall be in placed at the different levels of health facilities (DOH Central, Regional, Provincial, and Municipal or City; public health and hospitals); 
+
+b. Reporting forms and other advocacy materials shall be updated as necessary and made available in all levels at all times; 
+
+c. Other forms of communication such as UHF/V HF radios, satellite phones, etc. shall be encouraged to ensure timely available information at all times; 
+
+d. Additional infrastructure and/or improvement shall be made available if the need arise  
+
+4. Software 
+
+a. The web-based software for SPEED system shall be made available in all levels of implementing units; 
+
+b. Updates on this software shall be disseminated to all concerned ofﬁces 
+
+c. Skilled and knowledgeable staff shall be aware of the processes, tools and data requirements for the technology being implemented by SPEED. 
+
+5. Data Management 
+
+a. Designated trained staff shall be liable in the exploitation of data collected to produce the needed information for dissemination through data collection, storage, validation, analysis and report generation. 
+
+b. All data reports shall be organized for the use by the decision makers and managers. 
+
+0. Access to real time information shall be made available to health emergency managers and decision makers for prompt and appropriate response. 
+
+B. Flow of Reporting 
+
+a. Existing reporting mechanisms used at the different ofﬁces at all levels are adopted using standard SPEED reporting forms. 
+
+b. Data from the grass roots (evacuation centers, clinics or Barangay Health Centers/Stations) are sent up to the different levels via two routes: a) those belonging to municipalities and cities are sent to the MHO/CHO, then to the PHO and ﬁnally to the CHD; b) for cities in the NCR and other chartered cities, data are sent directly to the CHD. 
+
+c. Data coming from all Regional and DOH Hospitals are reported to their respective CHDs. 
+
+d. All data from the various CHDs are sent to DOH-HEMS. 
+
+e. Though, in sending alert data it can be received in all levels simultaneously. (See Annex I) 
+
+C. Activation and Deactivation 
+
+a. Criteria for activation and deactivation shall be strictly followed by designated authorities; 
+
+b. All implementing agencies shall activate, utilize, deactivate SPEED in times of emergencies and disasters in accordance to the set criteria. (See Annex for Criteria in activation and deactivation) 
+
+c. SPEED shall be operationalized using the most current SPEED Operations Manual for Managers. 
+
+VIII. ROLES AND RESPONSIBILITIES 
+
+DEPARTMENT OF HEALTH 
+
+1. DOH CENTRAL OFFICE 
+
+Ensures that all concerned bureaus of the Department shall perform its respective roles and responsibility in the operationalization of SPEED in all phases of emergency management. 
+ 
+1. A. HEALTH EMERGENCY MANAGEMENT STAFF (HEMS) DOH HEMS shall " 
+
+a) provide over-all leadership and oversees the implementation of SPEED 
+
+b) Serve as the central repository for all SPEED data reported. 
+
+c) Organize and deploy SPEED Technical Assistance and Response Team (START) when necessary. 1. A. c.1. START is a specialized rapid deployment group equipped with technical skills and resources that can be mobilized in situations where RHU or the CH0 affected by the disaster to such a degree that it is unable to activate SPEED. Can be replicated in all level of response. 
+
+d) Provide technical support to its respective HEMS Ofﬁces at the regional level and likewise to the provincial health ofﬁces if deemed necessary. 
+
+e) Provide capability building through simulation and exercises and maintain knowledge and skills expected related to SPEED. 
+
+f) Perform data validation, analysis, report generation/writing and dissemination information to program managers and relevant partners 
+
+g) Conduct advocacy and monitoring activities at the national level. 
+
+1. B INFORMATION MANAGEMENT SYSTEM 
+
+DOH-IMS shall: 
+a) Ensure that the SPEED server is operational 
+
+b) Coordinate with DOH HEMS about SPEED- related Information and Communication Technology concerns 
+
+1. C NATIONAL EPIDEMIOLOGY CENTER (NEC) 
+
+DOH-NBC shall: 
+a) Provide technical assistance in the conduct of immediate investigations of any diseases that have breach an alert threshold or have reached signiﬁcant numbers. 
+
+b) Harmonize, together with DOH HEMS, SPEED with other surveillance systems of notiﬁable diseases in the Department of Health. 
+
+1.D NATIONAL CENTER FOR DISEASE PREVENTION AND CONTROL (NCDPC) DOH-NCDPC shall: 
+
+a) Provide technical guidelines and protocols in the management and response of any diseases related to post—extreme emergencies and disasters identiﬁed during monitoring.
+
+b) Provide technical assistance and logistics needed in response to the health conditions and diseases reported in SPEED. 
+
+
+
+1.E NATIONAL CENTER FOR HEALTH PROMOTION (NCHP) DOH—NCHP shall: 
+
+a) Provide technical assistance, advisories based on the prevailing health conditions monitored during post extreme emergencies in close coordination with concerned program managers. 
+ 
+b) Develop Risk communication materials and messages including the activation of speakers bureau 
+
+c) Ensure documentation of actions taken by the Department of Health 
+
+2. CENTER FORHEALTH DEVELOPMENT The CHDs shall: 
+
+a) Serve as the link of the HEMS-Central Ofﬁce to the Local Government Units, including health facilities and hospitals, whether government or private. 
+
+b) Ensure that SPEED system is in place and functional during emergencies and disasters at the regional health ofﬁce 
+
+c) Take the lead in ensuring continuous capability building for hospitals in coordination with the respective health ofﬁces. 
+
+d Ensure that responsibilities during preparedness as well as response phase are being carried out 
+
+e) Take the lead in advocating for regional and LGU support 
+
+f) Organize and deploy SPEED Technical Assistance and Response Team (START) when necessary. 
+
+g) Provide technical support to its respective HEMS Ofﬁces at the regional level and likewise to the provincial health ofﬁces if deemed necessary. 
+
+h) Provide capability building through simulation and exercises and maintain knowledge and skills expected related to SPEED. 
+
+i) Perform data validation, analysis, report generation and dissemination of information program managers and relevant partners for appropriate intervention. 
+
+3. LOCAL GOVERNMENT UNITS 3.A PROVINCIAL HEALTH OFFICE 
+
+The PHOs shall: 
+
+a) Ensure that SPEED system is in place and functional during emergencies and disasters 
+
+b) Lead SPEED related activities through their respective HEMS Coordinators 
+
+c) Take the lead in advocating LGU support 
+
+d) Deploy SPEED Technical and Response Team when necessary 
+
+e) Assist LGU in performing data collection, validation, analysis and report generation. 
+
+3.B CITY AND MUNICIPAL HEALTH OFFICE 
+
+The Municipal Health Ofﬁce or the City Health Ofﬁce in the affected areas shall serve the command post during emergencies and disasters. All orders for the evacuation centers, community and hospitals related to SPEED originates from the MHO or CHO. 
+
+The CHOs/MHOs shall: 
+
+a) Ensure that SPEED system is in place and functional during emergencies and disasters at the City/Municipal Health Ofﬁce 
+
+b) Activate SPEED when necessary based on the criteria of SPEED activation 
+
+c) Conduct facility-based SPEED training and orientation continuously to the rest of the staff or identified SPEED team members and other partners 
+
+d) Ensure that SPEED materials are readily available at the health facility especially when needed 
+
+e) Perform roles and responsibilities such as data validation, analysis, report generation, report writing and dissemination information to concerned LCEs and relevant partners for appropriate intervention 
+
+t) Assign health facility codes for newly established health facilities 
+
+4. HOSPITALS 
+
+Hospitals shall: 
+
+a) Comply with reporting SPEED data using SPEED Form 
+
+b) Designate a SPEED point person to carry out expected function and SPEED reporting during post extreme emergencies and disasters 
+
+c) Support and advocate for necessary preparedness activities to include trainings and orientations to other staff of the hospital. 
+
+d) Provide logistics support necessary to facilitate sending of data to the higher level of reporting 
+
+6) Promote coordination and integrated response activities with the concerned CHD or provincial and municipal health office. 
+
+5. GOVERNMENT, NON-GOVERNMENT ORGANIZATIONS/ AGENCIES, DEVELOPMENT PARTNERS, PRIVATE SECTORS, AND CIVIL SOCIETY GROUPS 
+
+a) Shall support initiative of the government on the establishing an early warning system in times of emergencies 
+
+b) Shall register with the MHO/CHO as SPEED reporter and shall report consultations through a SPEED reporter in-charge. 
+
+c) Shall coordinate for assistance in the implementation of this policy and with the respective government health facility in their respective area of coverage for services during response operations and the management of any health related conditions monitored in the ﬁeld. 
+
+d) Shall participate in information dissemination, advocacy activities and training 
+
+e) Shall provide support to development/technical assistance related to SPEED as necessary 
+
+IX. IMPLEMENTING MECHANISM 
+
+1. Coordination 
+
+Coordination mechanism shall be observed at all levels by all concerned agencies and stakeholders involve in during SPEED preparedness and implementation activities 
+
+2. Budgetary Requirements 
+
+Speciﬁc budget shall be incorporated by the different Ofﬁces in their Annual Operation Plan and when necessary shall update respective to ensure that the budgetary requirement for the implementation, sustainability of the program and maintenance of necessary equipment are evidently incorporated and utilized 
+
+3. Monitoring and Evaluation 
+
+For the continuous improvement of the SPEED system, regular monitoring and evaluation of its implementation shall be conducted at all levels. Technical reviews, drills, simulation exercises, and refresher activities are some strategies that can be utilized. 
+
+X. REPEALING CLAUSE 
+
+All orders, rules and regulations or any provision thereof inconsistent with this order are hereby deemed repealed and modiﬁed accordingly. 
+
+XI. EFFECTIVITY CLAUSE 
+
+This Order shall take effect immediately upon signing unless otherwise revoked and amended by the equivalent authority. 
+
+</body>
+
+<sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+
+<image>figure_1.png</image>
+<image>figure_2.png</image>
+<image>figure_3.png</image>
+<image>figure_4.png</image>
+<image>figure_5.png</image>
+<image>figure_6.png</image>
+
+
+

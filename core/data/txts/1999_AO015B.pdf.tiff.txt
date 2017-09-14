@@ -1,0 +1,118 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+MANILA
+
+San Lazaro Compound
+Rizal Avenue, Sta. Cruz
+Manila, Philippines
+Tel No. 711-80-80  
+
+<date>05/10/1999</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 15-B s.1999</docnum>
+
+<subject>SUBJECT: Implementation Guidelines for the conduct of Health and Management Information System (HAMIIS) activities within the Department of Health</subject>
+
+<body>
+
+I. BACKGROUND/RATIONALE
+
+The Health and Management Information System (HAMIS) Project is a technical cooperation project of the governments of the Federal Republic of Germany (FRG) and the Republic of the Philippines(GRP).
+
+Acting through the German Agency for Technical Cooperation (GTZ) and Department of Health (DOH), the two governments jointly implemented the Project in 1989  to improve the "effectiveness, efficiency and equity of information-based management of health and health-care in the Philippines". Under the terms of bilateral agreement, the final phase of the Project ended on May 31, 1998 after nine years of partnership between FRG/GTZ and GRP/DOH.
+
+On June 15, 1998, the DOH issued Administrative Order No. 21 s. 1998 to enable the Department to continue the Project. The objectives of the Order were:
+
+a. to improve the management of the health information system within the DOH,
+b. to ensure that the Management Information System (MIS) tools and technologies developed and used by the HAMIS Project are institutionalized or sustained; and
+c. to ensure the HAMIS Project components and activities found to be effective are implemented by the appropriate DOH Offices and Units.
+
+A.O. N. 21 s. 1998 also set June to December 1998 as the pre-institutionalization phase of the Project within DOH. Along this line, it prescribed the guidelines to govern process, identified the key project components and activities to be turned over to the various DOH Offices, and defined the functions and responsibilities of these offices that will take over the management of identified components and activities.
+
+II. PURPOSES
+
+This Administrative Order updates and supercedes A.O. No. 21 s. 1998 and is issued to effectively pursue and sustain the various HAMIS tools and modules that were developed through the Project with the end view of enhancing the management and utilization of relevant information for decision-making.
+
+III. OBJECTIVES
+
+A. General
+To institutionalize effective mechanisms for strengthening and improving the management information systems within DOH and its constituent units.
+
+B. Specific
+To set guidelines to: (1) implement the turnover of HAMIS activities to identified DOH Offices and Units; (2) facilitate the management of these activities; and (3) review, monitor, and sustain the application of the health information systems, tools, technologies, and processes developed by the HAMIS Project.
+
+IV. IMPLEMENTING GUIDELINES
+
+A. On Key HAMIS Project Components and Activities
+
+The following shall be turned over to the Department of Health:
+
+1. Program components and activities dealing with Health Information Systems, such as the installation and development of various HAMIS modules/tools and the conduct of appropriate training on their use or application;
+
+2. Activities conducted by or involving local communities, non-government organizations(NGOs) and other partners, including the
+
+(a.) Triennial HAMIS Contests aimed at discovering innovative, effective, efficient and equity-oriented health managers or health management practices;
+(b.) Federation of HAMIS Winners in the Philippines, Inc. (FHWPI); and
+(c.) HAMIS Winnners' Clubs and the HAMIS Academy, both of which constitute a source of innovative programs and policies arising from their combined experiences;
+
+3. Activities related to the establishment and development of an integrated Regional Information Center for Health (RICH) in each of the DIRFOs based on the experiences of the RICH that was organized in DIRFO 10;
+
+4. Activities related to Quality Assurance Process models/tools developed by HAMIS, including the LUCENA System, MARAMAG System, LEILA System, HOMISBOX, as well as the coordination of quarterly Quality Assurance Conferences (QACs) for the Visayas and Mindanao and a monthly QAC for Luzon hospitals being conducted in Lucena, Quezon Province; and
+
+5. Management of HAMIS assets and resources, including its budget.
+
+B. On IMPLEMENTING OFFICES, SERVICES, BUREAUS, UNITS
+
+The Offices, Services, or Program Units that will implement, coordinate, or manage the HAMIS Project components turned over to the DOH as provided herein shall be as follows:
+
+1. The Office for Public Health Services (OPHS) through the Health Intelligence Services (HIS);
+
+2. The Office of the Chief of Staff (OCS) through Community Health Service (CHS);
+
+3. The Office for Hospital Facilities Services (OFHS) through the Hospital Operations and Management Service (HOMS);
+
+4. The Office for Management Services (OMS) through the Management Advisory Service (MAS) and the Health Policy Development Staff (HPDS);
+
+5. The DOH Integrated Regional Field Offices (DIRFOs).
+
+C. On the ROLES AND RESPONSIBILITIES of Implementation Bodies
+
+1. Health Intelligence Service (HIS) - shall hold the major responsibility for the implementation, maintenance, and further development of the different HAMIS information systems in devolved hospitals and LGU health facilities in collaboration with the Management Advisory Service and concerned agencies.
+
+2. Management Advisory Service (MAS) - will assist the Regional Health Offices in developing the Regional Information Center for Health (RICH) following RHO 10 model. This will include the installation of computer hardware and software in the Regional Health Offices and Regional Hospitals.
+
+3. Hospital Operations and Management Service (HOMS) - shall manage (i.e., implement, coordinate, monitor and evaluate) the Quality Assurance Conferences (QACs) for both retained and devolved hospitals and health facilities. This is in line with the objectives of the Hospital Epidemiology Program (HEP).
+
+4. Health Policy Development Staff (HPDS)/ Essential National Health Research (ENHR) - shall have the main responsibility for commissioning researchers in the processing and development of health policies arising from or called for by the information generated from HAMIS information systems and from the experiences of the HAMIS-related entities.
+
+5. Community Health Services (CHS) - will coordinate with the Federation of HAMIS Winners in the Philippines in the implementation of community initiatives in health (NGO activities) like the triennial HAMIS Constests and the HAMIS Academy.
+
+D. On the former HAMIS Project Personnel
+
+1. The former HAMIS Project Personnel shall help facilitate the turn-over and integration of the HAMIS Project preparatory to its full institutionalization within the DOH.
+
+2. They shall be hired, or their contracts renewed, by the DOH as HIS-HAMIS Consultants subject to terms, conditions, accountabilities, and responsibilities that shall be mutually agreed upon.
+
+3. The different Services/Programs mentioned above shall appoint a point person to collaborate with HAMIS Consultants on their specific areas of concerns.
+
+4. DOH Services/Programs implementing HAMIS-related activities are encouraged to absorb HAMIS Consultants in available permanent items to help ensure continuity of the HAMIS vision.
+
+E. On the MANAGEMENT OF HAMIS Resources
+
+1. OPHS, through HIS shall manage all existing assets, facilities, and equipment of the HAMIS Project, including its remaining budget as may be allowed by pertinent DOH policies.
+
+2. HIS will also coordinate with all Offices, concerned regarding the budget allocations for DOH HAMIS Program activities for 1999. In the year 2000 and beyond the funding for the funding for the specific activities will be included in the budget of the respective Services/Programs.
+
+V. TRANSITORY GUIDELINES
+
+Transition Period - The transition period for the full institutionalization of the HAMIS Program within the DOH shall end by December 31, 1999, during which HIS shall do periodic assessments.
+
+VI. EFFECTIVITY
+
+This Order takes effect upon its approval and signing by the Secretary of Health.
+
+</body> 
+<sign>ALBERTO G. ROMUALDEZ</sign>
+<signtitle>Secretary of Health</signtitle>

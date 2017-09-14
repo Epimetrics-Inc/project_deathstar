@@ -1,0 +1,194 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<date>DEC 29 2009</date> 
+<docnum>No.2009— 0026</docnum>
+
+<subject>SUBJECT: Implementing Guidelines for Institutionalizing the Estimation and Use of Local Health Accounts (LHA)</subject> 
+
+<body>
+I. Rationale 
+
+The National Health Accounts or NHA is a system for examining and comprehensively estimating an entire country’s expenditures for health in a given period of time. The Philippine National Health Account (PNHA) provides the estimate of health expenditure for the Philippine Health Sector and tells us where money for health comes-from and where it is being spent. It is an important tool in planning, budgeting and policy development in the country, especially in the health sector. Beginning 1994, the National Statistical Coordination Board (N SCB) regularly produces and publishes the PNHA with data aggregates from the national level.  
+
+The Local Health Accounts (LHA) is a subset or component of the National Health Accounts; therefore, it basically follows the concepts, deﬁnitions and methods used in the NHA. In the same way, the LHA is a system for examining and comprehensively estimating expenditures for health but for a speciﬁc deﬁned sub-national geographic unit or a deﬁned local area of the country, such as the province. 
+
+Because of the changes in the health sector brought about by devolution, the need to properly manage health sector resources at the local level increasingly became an important concern. It is recognized that a necessary input to effective local governance, particularly on health resource management, is comprehensive information on the local health sector ﬁnancial situation - information that can be provided by estimating LHA. 
+
+Further, data from local health accounts are important inputs to the LGU scorecards and other indicators , being used to monitor progress of the ongoing health sector reforms. ' 
+
+II. Objectives 
+
+1.) To provide guidelines pertinent to the gathering of comprehensive and evidence-based information on the local health sector ﬁnancial situation as a necessary input to effective local governance for health; and 
+
+2.) To set evidence—based local health policy directions in support of the FOURmula One for Health Framework. 
+
+III. Scope 
+
+This Administrative Order shall apply to DOH Central Ofﬁce units, Centers for Health Development and Provinces who will be estimating their local health accounts. Other DOH partners are encouraged to use the same for their LHA estimation activities. 
+
+IV. Definition of Terms 
+
+1. Health Care Financing (HCF) — a system of various structures, methods and processes in which ﬁnancial resources are made available to fund health sector activities. 
+
+2. Local Health Accounts (LHA) — a system for examining and comprehensively estimating expenditures for health for a speciﬁc deﬁned sub—national geographic unit or a deﬁned “local” area of a country, such as a province. 
+
+3. National Health Accounts (N HA) — a system for examining and comprehensively estimating the entire country’s expenditures for health in a given time period. 
+
+4. Financing Source (FS) — institutions or entities that provide funds to the health system. 
+
+5. Financing Agent (FA) —— institutions or entities that channel funds provided by ﬁnancing sources and use these funds to pay for, or purchase, the activities inside the health accounts boundary; furthermore, these are entities that have control over how the funds are used or have programmatic responsibilities. 
+
+6. Health Providers (HP) ~— institutions or entities that receive money in exchange for or in anticipation of producing activities inside the health accounts boundary; or more speciﬁcally, these are entities that provide or deliver health care and health related services. 
+
+7. Health Care Function (HC) — the types of goods and services provided and activities performed within the health accounts boundary. 
+
+8. Resource Costs (RC) — the factors of production or inputs used by providers to produce goods and services consumed or the activities conducted within the health sector. 
+
+
+V. General Guidelines 
+
+1. LHA contributes to improved performance of local health systems, enables a health planning and policy development process that is evidence-based, and promotes transparency and accountability among local health stakeholders. 
+
+2. The Department of Health shall ensure that LHA estimation is integrated in the implementation of reform initiatives involving partnership with LGUs such as the Province-wide Investment Plan for Health (PIPH), Annual Operation Plan (ADP) and LGUscorecard implementation. 
+
+3. The LHA input data should be taken from regularly collected reports or records to make the production of LHA sustainable and inexpensive. 
+
+4. The DOH shall develop a system linking with other National Government Agencies (N GAS) for provision and collection of data needed for LGUs to conduct a regular LHA estimation. 
+
+5. The LHA estimation process shall involve multi-stakeholder participation and multi-level coordination across local, regional and national partners. 
+
+6. The provincial LHA estimation shall be guided by the LHA Manual and LHA Estimation T 001 endorsed by the DOH. 
+
+7. The DOH shall provide continuing technical assistance to LGUs in the estimation of their LHAs and capacitate the LGUs on the use of this tool for evidence—based decision-making process.
+
+8. The DOH shall ensure that any improvement in the manual will be disseminated to concerned partners and stakeholders as necessary. 
+
+9. The DOH shall be responsible for the development of a mechanism to disseminate provincial LHA outputs which shall include but which shall not be limited to the following: posting in DOH . websites, conduct of fora, meetings and discussion with stakeholders. 
+
+VI. LHA Development Process 
+
+A. Data Gathering. The LHA input data should, as much as possible, be taken from regularly collected reports or records to make the production of LHA sustainable and inexpensive to LGUs. LHA requires data from three levels of sources: provincial—based sources, regional level sources and national level sources. Provincial level data sources include ofﬁces of provincial and municipal/city governments. Regional level data sources primarily refer to offices of the DOH CHDs. National level data sources refer to DOH Central Ofﬁces, PhilHealth, National Statistics Ofﬁce (N SO) and National Statistical Coordination Board (N SCB). 
+
+B. Estimation by Financing Agent and Completion of LHA Tables. Similarly, the tasks of data processing and LHA estimation can be divided in the same manner as the data collection tasks. The province will be responsible for producing the portions of the LHA for the following ﬁnancing agents: Provincial Government, Municipal/City Government and any other private ﬁnancing agents as may be identiﬁed to be important or signiﬁcant in the province. The CHD and DOH CO will be responsible for producing portions of the LHA for the following ﬁnancing agents: National Government, PhilHealth and houSehold out-of—pocket. 
+
+Using the LHA Manual and LHA Estimation T 001, the province will consolidate the estimation results of the ﬁnancing agents and complete 3 basic LHA tables: Financing Agent by Financing Source (FAxF S), Financing Agent by Health Provider (FAxHP) and Financing Agent by Health Care Function (FAxHC). The province may also develop a fourth (advanced) table: Health Provider by Resource Costs (HPxRC). 
+
+C. Analyzing the LHA Tables. The contribution of LHA to improving local health systems performance comes in the form of information that when used can bring better local health sector management, decision-making and policy formulation. 
+
+LHA analysis should revolve on two general LHA uses: 1) proﬁling and monitoring patterns of health spending in a province (“What is”) and 2) identiﬁcation of areas for policy intervention (“What should be”) using results from the general proﬁle in combination with standards/targets or in combination with other related health sector statistics. 
+
+D. Publication and Dissemination. The timely dissemination and sharing of LHA results and analyses to key provincial stakeholders (i.e. Local Health Boards, Inter-Local Health Zone Boards) is critical so that it becomes an input to heath planning and decision-making processes. Wider and regular dissemination of LHA outputs beyond the province can be facilitated by publishing reports, posting on the DOH website, and sharing through the Resource Center for Health System Development (RCHSD), among others. 
+
+VII. Implementing Mechanisms The institutionalization of LHA estimation shall require the support of all levels of stakeholders to sustain the regular estimation of provincial LHA. LHA Teams shall be organized at the National, Regional and Provincial levels to ensure implementation of this issuance. 
+
+A. National LHA Team (DOH Bureaus, Attached Agencies and Partners) 
+
+- Representative/LHA Point Person from Health Policy Development and Planning Bureau (DOH~HPDPB) 
+- Representative/LHA Point Person from Bureau of Local Health Development (DOH- BLHD)  
+- Representative from Finance Service (DOH-FS) 
+- Other representatives from Central Ofﬁce Bureau’s, Ofﬁces, or Units may be included in the National LHA Team as the need arises 
+- Representative from the Philippine Health Insurance Corporation (PHIC) 
+- Representative from Department of Finance — Bureau of Local Government Finance (DOF- BLGF) 
+- Representative from National Statistical Coordination Board (NSCB) 
+- Representative from National Statistics Ofﬁce (N SO) 
+- Representative ﬁom Commission on Audit-(COA) 
+
+Each team member shall have the following speciﬁc roles and responsibilities: 
+
+1. Health Policy Development and Planning Bureau (HPDPB) 
+
+- Develop policies/guidelines/systems on LHA estimation and ensure these are effectively implemented 
+- Develop a system linking with other NGAs for provision] gathering of data needed for LGUs to conduct a regular estimation of their LHA 
+- Monitor and evaluate the implementation of this issuance 
+- Develop a monitoring and evaluation tool for LHA implementation 
+- Ensure the inclusion of LHA activities in CHD Work and Financial Plans and Operational Plans 
+- Include LHA presentation in fora and other information dissemination activities 
+- Provide technical assistance to CHDs and Provinces in LHA activities 
+
+2. Bureau of Local Health Development (BLHD) 
+
+- Provide support to Regional LHA Teams so that LHA is implemented in all provinces on an annual basis as part of the health care ﬁnancing component of their Province-wide Investment Plans for Health 
+- Coordinate the development of LHA goals and objectives with CHDs 
+- Coordinate the development of LHA workplans including national and CHD activities 
+- Coordinate with other institutions, i.e. other DOH bureaus and units, PhilHealth, NSCB, DILG, etc 
+- Provide technical assistance on LHA estimation activities to CHDs 
+- Provide overall coordination and guidance to CHDs in LHA Estimation 
+- Closely monitor all aspects of LHA development 
+- Propose an feedback/evaluatiOn process (ensure evaluation ﬁndings feed back into subsequent LHA planning) 
+- Propose a process to regularly exchange information with CHDs and all required stakeholders on LHA Estimation, i.e. e-groups, regular meetings, etc. 
+- Prepare proposalsfor funding LHA activities 
+- Establish strategic partnerships with organizations having similar or synergetic interests 
+
+3. Finance Service (FS) 
+- Provide ﬁnancial reports needed for the LHA estimation 
+- Coordinate with CHs in the regular submission of their ﬁnancial reports 
+
+4. Philippine Health Insurance Corporation (PHIC) 
+- Provide data needed for regular LHA estimation 
+- Participate in LHA activities at the provincial level (particularly for PhilHealth Regional Ofﬁces) 
+
+5. National Statistical Coordination Board (NSCB) 
+- Ensure on time publication of the Philippine National Health Accounts, as basis for estimation of out-of-pocket (OOP) expenditures for LHA 
+- Participate in LHA related activities when necessary 
+
+6. Other National Government Agencies such as the National Statistical Ofﬁce, Commission an Audit and Department of Finance-Bureau of Local Government Finance (DOF-BLGP) 
+- Provide or facilitate the provision of available data or information as data source for LHA estimation 
+- Support the implementation of LHA estimation 
+
+B. Regional LHA Team (CHD) 
+
+There shall be an LHA team in each region to be led by the Assistant Regional Director and comprised of the following members: 
+
+- Planning Ofﬁcer 
+- LHAD Coordinator or F1 Coordinator 
+- Accounting Personnel 
+- Health Care Financing System Coordinator Commission on Audit    (COA) Personnel 
+
+The regional LHA team shall: 
+
+- Provide support to Provincial LHA Teams so that LHA is implemented in all provinces on an annual basis as part of the health care ﬁnancing component of their Annual Operation Plans for Health. 
+- Ensure the deveIOpment of LHA with LGUs, by providing technical assistance and guidance on LHA data collection, estimation and analysis to LGUs 
+- Provide technical assistance to LGUs on the issuance of a Sangguniang Bayan Resolution for the organization of an LHA Team and institutionalization of LHA estimation in the provmce. 
+- Ensure integration of LHA workplans in the CHD Work and Financial Plans. and LGU PIPH and Annual Operational Plans 
+- Coordinate with other institutions, i.e. other DOH bureaus and units, PhilHealth, NSCB, DILG, etc at the regional level 
+- Closely monitor all aspects of LHA development among LGUs in the region 
+- Propose a feedback/evaluation process (ensure evaluation ﬁndings feed back into subsequent LHA planning), in coordination with concerned LGUs 
+- Create venues for the LGUs to exchange LHA estimation experiences and [earnings (e. g regional LHA congress/fora) 
+
+C. Provincial LHA Team (Province) 
+
+The provincial LHA team shall be led by the Provincial Planning and Development Ofﬁcer and shall be comprised, but shall not be limited to, the following members: 
+- Provincial Health Office Representative 
+- Accounting Ofﬁce Representative 
+- Commission on Audit (COA) Representative
+- DOH Representative 
+- PhilHealth Provincial Ofﬁce Representative 
+
+The provincial LHA team shall: 
+- Ensure the issuance of a Sangguniang Bayan Resolution for the organization of an LHA Team and institutionalization of LHA estimation in the province 
+- Coordinate with concerned offices (LGU and other agencies) for the regular data collection and gathering In preparation for LHA estimation 
+- Ensure the annual development of local health accounts as part of the HCF strategies of the province 
+- Integrate LHA into the PIPH and AOP 
+- Ensure that LHA results are analyzed and presented to local health boards as inputs and bases for sound decision making and local policies on health 
+- Disseminate LHA outputs and inform Local Chief Executives (LCEs) on the status of the province’s health expenditure 
+- Provide LHA output to DOH ofﬁces 
+- Provide recommendations to the LCEs based on LHA ﬁndings and analyses 
+- Participate in capacity development activities and knowledge exchange on LHA with other LGUs and health stakeholders 
+
+VIII. Repealing Clause 
+
+The provisions of previous Administrative Order and related issuances inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modiﬁed, repealed or rescinded acCordingly. All other provisions of existing issuances not affected by this Order shall remain valid and in effect. 
+
+IX. Effectivity 
+
+This Order shall take effect immediately. 
+</body>
+  
+<sign>FRANCISCO DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle> 
+
+ 
+

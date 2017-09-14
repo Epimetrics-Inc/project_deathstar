@@ -1,0 +1,924 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>10/11/2013</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2013 - 0031 </docnum>
+<subject>SUBJECT: Requirements for the Operation of a Therapeutic X—ray Facility Utilizing Medical Linear Accelerators </subject>
+<body>
+Republic of the Philippines 
+
+
+
+I. RATIONALE 
+
+Cancer is a leading cause of death in the Philippines and in the world. Cancer can be treated or cured when diagnoSed early. Radiation therapy IS one of the major modalities for cancer treatment in addition to surgery and chemotherapy. It is estimated that radiotherapy solely or in combination with the other modalities will be the choice of treatment that will account for at least 60 percent of known cancer diseases worldwide.
+
+Radiotherapy is the application of high doses of ionizing radiation. in the treatment of cancer diseases” Radiation therapy is the intentional delivery of accurate and precise amount of high radiation does to defined and localized cancer volumes at the same time minimizing the radiation doses to neighboring normal cells of the patients. 
+
+The increasing number and complexity associated with radiotherapy equipment, procedures, and techniques necessitate the regulation of radiotherapy practices in order to minimize the risks associated with the use of ionizing radiation and ensure the radiation protection and safety of the patients, workers, and members of the public from the operation of radiotherapy facilities in the Philippines. 
+
+There are two (2) government regulatory authorities in the Philippines. The Philippine Nuclear Research Institute (PNRI) regulates the use of radioactive materials such as those used in cobalt 60 radiotherapy facilities and brachytherapy units. The Center for Device Regulation, Radiation Health, and Research (CDRRHR), formerly named the Bureau of Health Devices and Technology, regulates the use of devices emitting radiation such as x-ray machines and linear accelerators (linacs). 
+
+There were only two linac facilities in the Philippines in 1995. However, since 2000 there has been an increase of about two linac facilities a year. Presently, there are 27 ' linac facilities operating in the country. The number of linacs is increasing while the number of cobalt 60 facilities has considerably decreased. 
+
+ 
+II. OBJECTIVES 
+
+These regulations are promulgated for the purpose of assuring safe, efficacious, and quality radiation treatment and of ensuring the protection and safety of the patients, the workers occupationally exposed to radiation, and the members of the general public from the hazards associated with the use of medical linear accelerators; 
+
+These regulations are hereby issued pursuant to Republic Act No. 9711 known as the Food and Drug Administration (FDA) Act of 2009 and its Implementing Rules and I Regulation. 
+
+III. SCOPE AND COVERAGE 
+
+These regulations shall apply to all uses of medical linear accelerators and other x-ray sources in the practice of radiotherapy, to the facilities where these devices are located and to the individuals involved in this practice. 
+
+DEFINITION OF TERMS 
+
+Acceptance testing— the activity where tests are carried cut after new equipment has been inStalled or after major modifications have been made to existing equipment, in order to verify compliance with Contractual specifications. 
+
+Ancillary Equipment — equipment such as Treatment Flaming system (TPS)— simulator, Quality Assurance (QA) tools, dosimetry, imaging equipment, information systems, radiation protection equipment, Uninterpretable Power Supply (UPS) and other equipment as may be classified as ancillary by the CDRRHR. 
+
+Assistant Radiation Protection Officer — an individual who has proper training and qualification in radiation protection and safety. 
+
+Center for Device Regulation, Radiation Health and Research (CDRRHR) - the national agency under the Food and Drug Administration of the Department of Health I. that regulates the production, import, export, distributiOn, sale, promotion, and use of electrical/electronic devices capable of emitting radiation. Its former name is the Bureau of Health Devices and Technology. 
+
+Certified-Medical Physicist in Radiation Oncology Medical Physics (CMP—ROMP) — a qualified expert in radiation oncology medical physics by virtue of certification of the Philippine Board of Medical Physics Section of ROMP. This also refers to the board certified ROMP in this Administrative Order (AO) ' 
+
+Commissioning — a process undertaken following the acceptance of the equipment, to fully characterize the performance of the equipment for a clinical use over the whole range of possible operation. 
+
+Compliance testing — the activity where test procedures are done on imaging equipment to verify its compliance to the performance specifications set by the CDRRHR. 
+
+Conventional radiotherapy — a basic radiation treatment delivery using simple beam arrangements, with or without custom blocks, as opposed to using multi-leaf collimators. 
+
+Controlled Area — an area in which speciﬁc protection measures and safety provisions are needed to control normal exposure and to prevent potential exposure. It includes all irradiation rooms for external beam therapy and the control panel area. 
+
+Corrective Maintenance - actions that restore, by repair, overhaul or replacement, the capability of a failed structure, system or component to function within acceptance criteria. 
+
+Full-time — refers to the standard number of working hours which 13 eight (8) hours a day for five (5) days a week. 
+
+Individual monitoring device — a radiation sensitive device [e. g. film badge, Thermoluminescence Dosimetry (TLD) badge, pocket dosimeter, Optically Stimulated Luminescence Dosimetry (OSLD) badge, etc. ] used to estimate the dose received by a perSon occupationally exposed to radiation. 
+
+Interlock - a device or system that automatically terminates the machine operation once the system detected any parts malfunctioning or functioning but not within the standard _ operation. I 
+
+International Atomic Energy Agency (IAEA) - an independent intergovernmental organization within the United Nations System that serves as the world’s central intergovernmental forum for scientific and technical co—operation in the nuclear field, and as the international inspectorate for the application of nuclear safeguards and verification measures covering civilian nuclear programs. 
+
+International Electro technical Commission (IEC) - an independent organization that ' prepares and publishes InternatiOnal Standards for all electrical, electronic and related technologies, collectively known as "electrotechnology”. 
+
+International Commission on Radiological Protection (ICRP)- an independent non- governmental organization of scientists that serves as an advisory body providing recommendations and guidance on radiation protection. 
+
+Maintenance/service personnel - persons certified by the equipment manufacturer to _ have completed a training program in the maintenance (preventive and corrective) and servicing of a particular brand and model of therapeutic x-ray equipment or its component spare parts, including the scope of the service/maintenance work. He/she shall have completed a training course in radiation protection for use of radiotherapy equipment conducted by an institute or organization recognized/accredited by the Manual — DOH Department Circular No. 323 s. 2004, Manual on Basic Radiation Protection and Safety of X-ray Sources 1n the Philippines. 
+
+Medical linear accelerator — a type of therapeutic radiation equipment which can be operated either in the x-ray or electron beam mode. It uses high frequency electromagnetic waves to accelerate electrons to high energies through a linear tube. 
+
+Philippine Nuclear Research Institute (PNRI) — a scientific institution under the Department of Science and Technology (DOST) dedicated to the promotion, research and regulation of the peaceful uses of atomic energy. 
+
+Preventive maintenance - the planned, scheduled, visual, mechanical, engineering, and functional evaluation of equipment conducted at speCiﬁed intervals throughout the equipment’s lifetime to maintain equipment performance within manufacturers guidelines and speciﬁcation. 
+
+Quality assurance program - a management tool which, through the development of policies and the establishment of review procedures, aims to ensure that every examination or treatment is necessary, appropriate and performed according to previously accepted clinical protocols by adequately trained personnel using properly selected and functioning equipment to the satisfaction of the patient and referring physicians safely and at minimum Cost. 
+
+Quality audit — a comprehensive review and evaluation of the quality of all the elements involved in radiatiOn therapy, including staff, equipment and procedures, patient protection and safety, and overall performance of the radiotherapy department, as well as its interaction with external service providers. 
+
+Quality control - a system where speciﬁc tests are required to ensure effective and safe equipment performance and/or measures that are taken to restore, maintain and/or improve the quality of treatment. 
+
+Qualified expert— an individual who, by virtue of certification by appropriate boards or societies, professional licenses or academic qualification and experience, is duly recognized as having expertise in radiation oncology. 
+
+Radiation accident - any unintended event, including operating errors, equipment failures or other mishaps, the consequences or potential consequences of ”which are not - negligible from the point of view of protection or safety. 
+
+Radiation incident - any event which has occurred and has been confirmed to have affected a specifically defined area in the radiation therapy department With actual or - projected radiation levels which are expected to be in significant quantities resulting in overexposure of a worker exceeding the annual dose limit based on ICRP _60. 
+
+Radiation Oncologist — a medical specialist certified in the practice of radiation oncology by the Philippine Board of RadiolOgy in Radiation Oncology (PBR-RO) and is at least responsible for consultations, dose prescriptions, on-treatment supervision and evaluations, treatment summary reports, follow-up monitoring and evaluation of treatment outcome and morbidity. 
+
+Radiation oncology - is the discipline of human medicine concerned with the generation and dissemination of knowledge concerning the causes, prevention and treatment of cancer and other diseases involving special expertise in the therapeutic applications of ionizing radiation. As a discipline at the juncture of physics, medicine and biology, radiation oncology addresses the therapeutic uses of ionizing radiation alone or in combination with other treatment modalities such as surgery, chemotherapy, oxygen, heat and drugs. 
+
+Radiation Oncology Medical Physicist (ROMP) — an individual who has a PhD or 7 Master’s Degree in Medical Physics with the appropriate clinical training in radiation oncology medical physics and is charged with speciﬁc duties and responsibilities indicated herein and in Appendix I of this A.O 
+
+Radiation I Protection Officer (RPO) ~ an individual who has proper training and qualiﬁcatiOns in radiation protection and safety and who is charged with speciﬁc duties and responsibilities indicated herein and-in Appendix II of this AO. 
+
+Radiation Therapy (Radiotherapy) — is a clinical modality dealing with the use of ionizing radiation in the treatment of patients with malignant (and occasionally non- malignant) neoplasms. The aim of radiation therapy is to deliver a precisely measured dose of irradiation to a defined tumor volume with as minimal damage as possible to surrounding healthy tissue, resulting in the eradication of the tumor, an improved quality of life and prolongation of survival. 
+
+Radiological emergency - a radiological incident that pose-s an actual, potential or _ perceived hazard to public health or Safety, loss of life, disability or damage to property. 
+
+Radiotherapy Equipment — linear accelerators, Cobalt 60 and Cesium 137 teletherapy equipment, and brachytherapy equipment. 
+
+Radiotherapy Technologist (RTT) — a radiologic technologist duly licensed by the Professional Regulation Commission (PRC), who is practicing radiotherapy technology - and is responsible for operating simulators, computed tomography (CT) scanners, treatment units, etc; for accurate patient set-up and delivery of a planned course of radiation therapy prescribed by a radiation oncologist; and for documentation of treatment. 
+
+Specialized radiotherapy services - refers to complex radiotherapy procedures and techniques which usually require equipment modifications, special quality assurance - procedures, and heavy involvement and support from medical physicists. These include image-guided radiotherapy (IGRT), stereotactic radiosurgery (SRS), stereotactic radiotherapy (SRT), stereotactic body radiotherapy (SBRT), total body irradiation (TBI), total skin electron irradiation (TSEI), intra-operative radiotherapy (IORT), intra- operative electron radiotherapy (IOERT), adaptive radiotherapy (ART), respiratory gated radiotherapy (4- -DRT), Tomotherapy, Cyber Knife and other techniques as may be classified as specialized by the CDRRHR. 
+
+Supervised areas - any area not already designated as a controlled area but where - occupational exposure conditions need to be kept under review even although speciﬁc protection measures and safety provisions are not normally needed. 
+
+Therapeutic x—ray equipment - medical linear accelerator equipment used for the treatment of patients with malignancies. 
+
+Therapeutic x—ray facility - a free standing or a hospital based radiotherapy center utilizing medical linear accelerator x-ray machine/s. 
+
+Worker — any person who works, whether full time, part time or temporarily, in a radiation oncology facility and who has recognized rights and duties in relation to ' occupational radiation protection. 
+
+World Health Organization (WHO) - a Specialized agency of the United Nations with primary responsibility for health matters and public health established on 7 April 1948, whose objective is the attainment by all peoples of the highest possible level of health that will lead them to a socially and economically productive life. 
+
+V. GENERAL GUIDELINES 
+
+A. Any legal person who intends to operate a therapeutic x-ray faCility shall notify the CDRRHR of his/her intention in writing. 
+
+B. All entities that plan to operate a therapeutic x-ray facility shall secure the appropriate authorizations from the CDRRHR following the two- stage process of authorization set by the CDRRHR. 
+
+C. The licensee shall allow the authorized representatives of the CDRRHR to . conduct radiation protection survey and evaluation (RPSE) of the radiation oncology facility prior to the Issuance of appropriate authorizations. 
+
+D. All personnel in therapeutic x- ray facility on whom protection and safety depend shall be appropriately trained and qualified. 
+
+E. The radiation protection requirements on justification of the practice, dose limitation, optimization of protection and the use of dose constraints shall apply. 
+
+F. The management/licensee shall be committed to an effective protection and safety policy, particularly at the senior level, and shall demonstrate support for those persons with responsibility for radiation protection. 
+
+G. The design of the radiation oncology facility, safety of equipment and sources shall comply with the requirements for optimization of radiation protection. 
+
+H. The licensee shall ensure that an individual radiation monitoring device is provided to each occupationally exposed person. 
+
+I. The licensee shall ensure that radiation doses to occupationally exposed person and members of the public do not eXceed the dose limits specified by the CDRRHR. 
+
+J. The licenSee shall establish a comprehensive quality assurance program for radiatiOn protection and safety to ensure that all necessary procedures are developed and implemented 1n order to comply with the regulations for radiation protection within the terms and conditions of the authorization. 
+
+VI. SPECIFIC GUIDELINES 
+
+A. Administrative Requirements 
+
+1. Authorization of the practice. The two - stage process of authorization Shall be as follows: 
+
+1.1 Stage 1: Pre-operational permit (POP) - an authorization prior to the construction of a therapeutic x-ray facility. The facility shall fulfill the requirements stated in Appendix III of this AD. before a pre-operational - permit is issued. 
+
+a) The licensee shall ensure that the shielding is compliant with the appropriate requirement during the construction of the therapeutic x- ray facility and that the construction engineer and arChitect had sought the approval of a certified radiation oncology medical physicist during _ the construction phase. 
+
+b) The construction phase must be inspected and supervised by aboard certified radiation oncology medical physicist (ROMP) in coordination with the architect and/or engineer. The ROMP shall document and submit to the CDRRHR a report (with photos if possible) of the said . inspection and supervision. 
+
+c) The licensee shall ensure that the selection and purchase of appropriate dosimetric and other QA test tools have undergone review and approval of a board certified ROMP.
+
+. d) The licensee shall ensure that the selection and purchase of appropriate ancillary equipment have undergone review and approval of the head radiation oncologist. I 
+
+1.2 Stage 2: License to operate (LTO) — an authorization prior to the clinical operation of 'a radiation oncology facility. The facility shall fulfill the requirements stated in Appendix III of this AD before a license to 
+
+' operate is issued. 
+
+a)  The initial license to operate shall be valid for the period of one year, _ and shall be renewed based on the criteria and guidelines established ' by the CDRRHR. b) Any plans for modification of the radiotherapy facility which may affect the conditions of the LTO must be reported and approved by the CDRRHR. The CDRRHR may conduCt veriﬁcation of compliance and may warrant amendment or revocation of the LTO. 
+
+2. Classification of radiotherapy facilities 
+
+Radiotherapy facilities shall be classified according to the following service category: 
+
+2.1 _ Level 1 — are facilities performing conventional 2-D radiotherapy only. 
+
+2.2 Level 2 — are facilities performing conventional 2-D and 3—D conformal radiotherapy only. 
+
+2.3 Level 3 — are facilities performing conventional 2-D, 3-D conformal and intensity modulated radiotherapy (IMRT) only. I 
+
+2.4 Level 4 — are facilities performing conventional 2-D, 3-D conformal, intensity modulated radiotherapy (IMRT) and specialized radiotherapy services. 
+
+3. Human Resources 
+
+3.1 Staffing 
+
+3.1.1 The licensee shall appoint professionals with qualification and/or accreditation for the tasks assigned to them sufficient to ensure that all activities relevant to protection and safety are carried out in accordance with these regulations. 
+
+3.1.2 The number of personnel should be reviewed as to adequacy as the workload increases or as new techniques and/or new or additional equipment are acquired by the facility. 
+
+3. 2 Education and Training 3.2.1 The licensee shall ensure that only personnel who are qualified in terms of training and experience shall work in the radiation oncology facility. 3.2.2 The licensee shall ensure that all personnel are aware of the conditions and limitations of the license: 
+
+a) institutional radiation protection policies and procedures (including practice drills for emergency responses) 
+
+b) review and analysis of lessons learned from incidents and accidents that have occurred in the facility or elsewhere 
+
+c) the local quality assurance program and quality control proCedures 
+
+d) use and operation of the equipment and other support devices 
+
+e) instruction procedures to patients, caregivers and . comforters 3.2.3 - The personnel shall be given instructions whenever significant changes occur in the duties and responsibilities, regulations, training including the conditions and limitations of the license or radiation safety procedures. 
+
+3.2.4 The licensee should establish a policy that encourages and provides continuing education and professional development of personnel. 
+
+3.2.5 The licensee shall ensure that all staff that do not belong to the radiotherapy department but need to. enter the controlled areas are provided with speciﬁc instructions on radiation protection. 
+
+3.2.6 For facilities performing "specialized radiotherapy procedures and teChniques, the licensee shall ensure that all radiotherapy personnel are given ' adequate training in the appropriate clinical use, OperatiOn, quality control, and safety of these procedures. 
+
+4. Personnel requirements 
+
+All radiation oncology/radiotherapy facilities shall have the following authorized personnel: 
+
+4.1 Radiation oncologist 
+
+4.1.1 One radiation oncologist, who is an active member in good standing of the Philippine Radiation OnCology Society (PROS) and the Philippine College of Radiology (PCR), shall be appointed for up to a maximum of 250 patients treated annually. 
+
+4.1.2 A chief radiation onCologist shall be appointed as head of the facility. 
+
+4.1.3 One additional staff radiation oncologist shall be hired for each 200 to 250 new patients treated annually. 
+
+4.1.4 Each radiation oncologist maybe affiliated with not more than 6 facilities. 
+
+
+4.2 Radiation oncology medical physicist (ROMP) :ROMPS who are active members in good standing of the Philippine Organization Of Medical Physicists (POMP) shall be hired and the required minimum number shall be satisfied as presented in the table below: 
+
+ 
+
+ <image>table_1.png</image>
+
+4.2.1 A board certified ROMP shall be allowed to train and Supervise ROMPs if he/she has at least five (5) years clinical experience in radiation oncology medical physics. 
+
+4.2.2 Each board certified ROMP may be affiliated with not more than 3 facilities. 
+
+4.3 Radiotherapy Technologist (RTT) 
+
+4.3.1 A radiotherapy technologist shall have undergone training in a therapeutic x-ray facility for at least six (6) months under the - supervision of a senior RTT and a board certified ROMP. 
+
+4.3.2 For initial facilities and/or any upgrades in the equipment, the RTT shall undergo at least one (1) week appropriate hands—on training under the supervision of the supplier’s application specialist.
+
+4.3.3 The CDRRHR shall recognize the specialty training certificate issued by the professional organizations of radiologic technologists or by a board certiﬁed radiation oncology medical physicist. The  training needed in Section VI-A—4.3.1 of this AO shall not be required anymore once the certifying: board for radiOlogic technologists specializing in radiotherapy technology shall have been established. 
+
+
+
+4.3.4 A minimum of four (4) full-time radiotherapy technologists " shall be. employed for each medical linear accelerator Operating for an 8- - hour shift. I 4.3.5 Among the four (4) RTTs, a chief radiotherapy technologist Shall be ' designated exclusively for the radiotherapy department. ' 4.3.6 Two (2) additional full-time radiotherapy technologists for every 1 additional therapeutic x-ray equipment installed shall be employed. 
+
+4.3.7 Two (2) additional full— time radiotherapy technologists for every additional 8- hour shift per linac shall be employed. 
+
+4.3.8 One (1) additional full- time radiotherapy technologist for every x- ray or CT simulation equipment in the radiation oncology facility shall be employed. 
+
+4.3.9 He/She may also be involved in undertaking daily quality control of treatment equipment in accordance with physics quality assurance procedures and protocols, treatment planning, and construction of immobilization devices all under the direct supervision of the medical physicist. I 
+
+4.4 Radiation Protection Ofﬁcer (RPO) 4.4.1 A qualified RPO Shall be a full— time employee of the facility and - appointed in writing as the RFC. 
+
+4.4.2 He/she shall be a medical physicist, designated as RPO by the licensee. He/she shall be responsible for radiatiOn safety and facility compliance with the relevant regulatory requirements as stated in Appendix II of this A0. The RPO shall ensure that radiation activities are performed according to approved safety policies and procedures and he/ she shall have the authority to stop any activity that may endanger health and safety. ' 
+
+4.4.3 He/she shall be assisted by an assistant RPO who shall have the same qualification in radiation protection and safety as the RFC. 
+
+4.4.4 A qualified ARPO can act as the temporary RPO in the absence of the RPO designated in the license. 
+
+B. Radiation Protection Requirements 
+
+The radiation protection requirements on justification of the practice, dose” limitation, and Optimization of protection and dose constraints as stated in Section IV Part A of A. O. 149 s. 2004 entitled “ Basic Standards on Radiation Protection and Safety Governing the Authorization for the Introduction and Conduct of Practices Involving X-ray Sources in the Philippines“ or as revised shall apply.
+
+
+VII. SAFETY OF X—RAY SOURCES 
+
+A. Defense in depth _ The requirement for defense in depth as described in DOH Administrative Order NO. 149 s 2004, specifically section IV— A subsection 3.1 shall be established in the radiation oncology facility. 
+
+B, Design of the X-ray Facility, Equipment and Sources 
+
+The design of the radiation oncology facility, equipment and sources shall comply with the requirements for Optimization-of radiation protection fOr medical exposures stated in the DOH A.O. No. 149 s. 2004 section 4-B subsection 1.2. 
+
+1. Equipment and Accessories 
+
+1.1 The radiotherapy facility shall be equipped with at least a single—photon- energy therapeutic x-ray unit, beam measurement and quality assurance and radiation protection physics equipment, a radiotherapy simulator or a computed tomography (CT) simulator, a computerized treatment planning system (TPS), image processing equipment, beam shaping devices, and patient immobilization devices. 
+
+1.2 X- -ray sources, equipment and accessories Should be purchased only from authorized manufacturers/suppliers and should have a valid type test issued by them. 
+
+1.3 Equipment compliance with the International Organization for standardization/ International Electro-technical Commission (IEC) or -equivalent national standard shall be demonstrated and supported by written evidence.
+
+1.4 Each therapeutic x-ray facility shall be provided with the appropriate equipment needed in the conduct of radiotherapy procedures as Shown in Appendix V of this AD. Depending on the complexities of radiotherapy procedures and emerging technologies, the CDRRHR may issue supplemental requirements for appropriate additional test tools and devices. 
+
+1.5 Written methods for the acceptance, commissioning, use, maintenance, quality control shall be developed with the involvement of the responsible staff and /or the radiation protection committee. 
+
+1.6 Licensees shall ensure that all therapeutic x— ray equipment conform to the- requirements stated in the Manual. 
+
+1.7 The performance and safety of the therapeutic x—ray equipment shall be certified by the original equipment manufacturer (OEM) before its importation to the Philippines. 
+
+1.8 All radiOtherapy equipment, whether brand new or previously used shall undergo performance testing, commissioning, and safety evaluation conducted by a board certified radiation oncology medical physicist.
+
+1.9 The licensee should perform a physical inventory of all equipment and accessories to conform that they are present and secure in their assigned locations.
+
+1.10 All x- ray equipment shall be provided with an appropriate protection and safety system capable of preventing its utilization by unauthorized personnel. 
+
+2. Facilities and Ancillary Equipment 
+
+2.1 The licensee Shall consider access control when determining the location of radiotherapy treatment rooms. 
+
+2.2 The design of the facility shall be in accordance with the techniCal Specifications of the radiotherapy equipment. It shall include provisions for safety systems or devices that are incorporated into the equipment or room such as emergency OFF switches, safety interlocks and warning signals intended to lower the probability of occurrence of abnormal situations. 
+
+2.3 The shielding design of the facility shall be calculated by a board certified radiation oncology medical physicist using the principle of optimization. The thickness of the primary and secondary barriers shall be Calculated in accordance with the National Council on Radiation Protection and . Measurements (NCRP) Report No.151' entitled “ Structural Shielding Design and Evaluation for Megavotage X- and Gamma-Ray Radiotherapy Facilities“ or as revised. 
+
+2.4 A standard warning sign and notice shall be installed on the door of the exposure room. 
+
+2.5 A red warning light Shall be installed at the top of the doOr leading to the exposure room. 
+
+C. Testing, Commissioning and Operation Acceptance testing, performance testing and commissioning shall be conducted for all therapeutic radiation emitting equipment including non-radiation emitting equipment/ systems which affect safety such as treatment planning systems, etc. 
+
+1. Acceptance AcCeptance tests should be conducted after equipment installation in the presence of the radiation oncology medical physicist of the facility and the authorized representative of the equipment manufacturer/ supplier in order to verify compliance with the safety requirements from the IEC standards. 
+
+2. Commissioning Commissioning of the therapeutic x-ray equipment shall be "conducted by the radiation oncology medical physicist of the facility after acceptance and before clinical operation of the facility.
+
+
+3. Operation 
+
+3.1 All equipment shall be Operated only in accordance with the technical - I I specifications, ensuring satisfactory and safe operation at all times. 
+
+3.2 Treatment of patients shall be done only when the machine is Operating in the clinical mode. 
+
+3.3 Periodic quality control checks using quality control procedures included in 7 the facility’s quality assurance program approved by the CDRRHR shall be undertaken regularly and after repairs or maintenance work that might alter the radiation beam output. 
+
+3.4 The imaging equipment (CT, C- Arm, X—ray Simulator) shall undergo and pass the compliance testing before using the equipment to patients. 
+
+3.5 For all existing facilities, a periodic external quality audit shall be conducted by a duly recognized entity that does quality audit in radiation oncology using the QUATRO methodology of the IAEA. 
+
+3.6 Survey meters and their warning devices shall be made available for daily operation of the facility. 
+
+3.7 An intercom shall be made available to allow a two-way voice communication between the patient being treated and the radiotherapy technOlogist at the control room and a CCTV camera to monitor the patient ' during the treatment process. ' 
+
+D. Maintenance 
+
+1. The licensee shall ensure that adequate preventive and corrective maintenance Of the equipment is performed as necessary to ensure that design specifications for radiation protection and safety is retained throughout their uSeful life. 
+
+2. The licensee shall ensure that the preventive and correctiVe maintenance of the equipment is performed only by qualified maintenance/service personnel authorized by the equipment manufacturer. 
+
+3. Records of preventive and corrective maintenance program shall be kept for reference. 
+
+4. The licensee shall ensure that records of removal from and return to clinical service Of therapeutic x-ray equipment for maintenance are properly kept. 
+
+5. When maintenance Of therapeutic x—ray equipment or treatment planning system may affect the accuracy of the physical or clinical dosimetry, tests and measurements shall be performed by or under the supervision Of a board certified radiation oncolOgy medical physicist in order to determine if the equipment is operating satisfactorily before it is used in the treatment of patients. 
+
+VIII. OCCUPATIONAL EXPOSURE 
+
+A. ReSponsibilities and conditions of service The requirements and recommendations stated in the IAEA/ILO Safety Guide RS-G— 1.1 (Occupational Radiation Protection) and RS-G-1.3 (Assessment of Occupational Exposure due to External Sources of Radiation) or as revised, shall be applicable to radiotherapy practices. 
+
+B. The use of dose constraints in radiotherapy 
+Radiotherapy practice Shall be subject to dose constraints in accordance with Section 1.4 Part IV of A. O. 149 S. 2004 and Chapter II of DOH Department Circular No. 323 s. 2004 
+
+C. Investigation levels In radiotherapy 
+Investigation levels Shall be established for every task of each staff member in radiotherapy and a review of existing procedures Shall be conducted 1n the event that - such levels have been exceeded. 
+
+D. Classification of areas 
+
+1. All irradiation rooms and radioactive source storage and handling areas in a radiotherapy department are controlled areas. Super-vised areas Should include all _ remaining areas in the department except the public area/waiting room. 
+
+2. The licensees Shall ensure that the Speciﬁc rules in the designation of controlled and supervised areas, as well as the Speciﬁc safety provisions and protective measures stated in Chapter IV of the Manual,-are implemented. ' 
+
+E. Local rules and supervision _ - Local rules and supervision as stated in Chapter IV of the Manual Shall apply to therapeutic x-ray facilities. 
+
+F. Protective equipment and tools 
+
+The licensee Shall ensure that workers are provided with suitable and adequate personal protective equipment which meet any relevant regulations such as: 
+
+1. protective aprons and gloves for use only during work on a Simulator or with a superficial x-ray unit 
+
+2. a radiation survey meter 
+
+G. Individual exposure monitoring 
+
+1. The licensee shall ensure that all personnel working in controlled areas are monitored using individual monitoring devices approved by the CDRRHR. 
+
+2. The RPO shall ensure that proper use of individual monitoring device is implemented. 
+
+3. The personnel dose monitoring period for each monitoring badge shall not  exceed 2 (two) months. Replacement of the badge Shall be immediate. 
+
+4. Individual monitoring devices Shall be part of a production batch that underwent calibration traceable to a standard dosimetry laboratory. 
+
+H. Investigation and follow-up 
+
+1. The licensee Shall notify the CDRRHR within twenty-four (24) hours Of any cases of overexposure of personnel, abnormal operating conditions, radiological accidents and incidents, and any other unusual event that has the potential to cause exposure in excess of the operational restrictiOnS imposed on the installation. 
+
+2. The licensee Shall initiate a formal investigation as soon as possible following the event, and a written report Shall be prepared concerning its cause, including determination or verification of any dose received, corrective or mitigating actions, instructions or recommendations to avoid recurrence and other information listed in Appendix VI of this AO. ‘ 
+
+3. The licensee Shall submit the written report to the CDRRHR within twenty five (25) days after the occurrence of the events mentioned in item (1). 
+
+I. Monitoring the workplace 
+
+1. The licensee Shall develop programs for initial and continuous monitoring of radiation levels in the workplace. 
+
+2. All survey meters used for workplace monitoring Shall be calibrated in a standard dosimetry laboratory annually and after any repair done. 
+
+3. Initial monitoring Shall be conducted by the licensee immediately after the installation of the new therapeutic x-ray equipment. I 
+
+J. Health surveillance 
+Medical supervision intended to ensure the initial and continuous ﬁtness of workers for their intended task is provided. 
+
+K. Records.
+
+The licensee Shall maintain and preserve exposure records for each worker. These records Shall be made available to the CDRRHR health physics team during the conduct of RPSE. 
+
+IX. MEDICAL EXPOSURE 
+
+A. General Responsibilities 
+
+1. The licensee Shall ensure that all responsibilities for medical exposure required in Chapter V of the Manual and in relevant sections of this AO. are observed and implemented at all times. 
+
+2. The licensee Shall ensure that there is a written protocol for each of the top ten clinical procedures of the facility.  
+
+3. All persons involved in the delivery of medical exposure Shall 
+
+3.1 follow the applicable rules and procedures for the protection and safety of patients as Specified by the licensee
+
+3.2 make sure that the prescription of treatment and the treatment plan Shall be made in writing and duly Signed by the radiation oncologist prior to initiation of the treatment
+
+ 
+
+ 
+
+B. Justification 
+
+1. All therapeutic x-ray exposures Shall be justified as required in AO. 14.9 S. 2004 entitled “Basic Standards on Radiation ProteCtion and Safety Governing the Authorization for the Introduction and Conduct of Practices Involving X-ray Sources in the Philippines” ' 
+
+The licensee should ensure that radiation oncologists follow a justification procedure that is documented and Signed. He/She should 'consider the efficacy, beneﬁts and risks of alternative treatment modalities such aS surgery and chemotherapy, either alone or in combination with radiation therapy. 
+
+Exposure to comforters and care givers Shall be in accordance with the dose constraints found in Appendix I of the Manual. 
+
+C. Optimization 
+
+Licensees shall ensure that all provisions for Optimization. of therapeutic x-ray exposures as required in Chapter V of the Manual are implemented. 
+
+D. Calibration of equipment and x-ray sources 
+
+The licensee Shall ensure that: 
+
+1. the machine output calibration of the equipment and Other radiation sources utilized in the practice of radiotherapy are traceable to a standard dosimetry laboratory. 
+
+2. the therapeutic x—ray equipment is calibrated using the IAEA Code of Practice for radiotherapy.
+
+3. beam calibrations are carried out at the time of commissioning, after any.  maintenance procedure that may have an effect on the dosimetry, and at intervals set in this Order. 
+
+4. records of beam calibration, measurements and associated calculations are maintained in accordance with the requirements of the CDRRHR for a period of at least two (2) years. 
+
+5. the facility implements the latest IAEA Code of Practice for absorbed dose determination in x—ray and electron beams or its equivalent national protOcol for radiotherapy. 
+
+E. Clinical Dosimetry 
+
+Registrants and licensees shall ensure that the following items are determined and documented: 
+
+1. For each patient treated with external beam radiotherapy equipment, the maximum and minimum absorbed doses to the planning target volume together with the absorbed dose to a relevant point such as the centre of the target volume, ' plus the dose to other relevant points selected by the medical practitioner - prescribing the treatment, and 
+
+2. In all radiotherapeutic treatments, the absorbed doses to relevant organs. 
+
+F. Quality Assurance for Medical Exposure I The licensee Shall ensure that: 
+
+1. A comprehensive quality assurance program for medical exposures is developed and implemented in the facility with the participation of appropriate qualified experts. 
+
+2. The quality assurance program includes all the items mentioned in Chapter V of the Manual. . 
+
+3. Upon the acceptance of new therapeutic x-ray equipment, sufficient physics data are measured during ”the commissioning to be used for 'clinical dOSimetry in treatment planning. I 
+
+4. The facility participates in independent "national or international postal dose verification program (e. g. IAEA/WHO). 
+
+G. Investigation of accidental medical exposure - The licensee Shall promptly conduct an investigation of even-ts invOlving accidental medical exposure and implement the actions required under Chapter V of the Manual. A list of identified causes and contributing factors of accidents in radiotherapy is giVen in the Manual. 
+
+x. PUBLIC EXPOSURE 
+
+A. General Responsibilities 
+
+1. The licensee shall be responsible for controlling public expOsure resulting from radiotherapy practice. 
+
+2. Therapeutic x—ray sources Shall be properly Shielded and secured e. g. located in a locked area, with interlocks functional and keys to the control panel properly secured to prevent unauthorized access or use. 
+
+
+3. Access by members of the public and by other members of the facility staff who may need to be in areas within and near the radiotherapy department shall be considered in designing the shielding and use of facilities.  
+
+4. Measures for ensuring the safety and security Of therapeutic x-ray sources to control public exposures Shall be ' in accordance with the requirements of the CDRRHR Shall-be developed and implemented.
+
+B. Control of access of visitors 
+Rules on the control of access of visitors as stated in Chapter VI of the Manual shall apply to all therapeutic x-ray facilities. 
+
+C. Therapeutic x—ray sources that are not in active use 
+
+The licensee Shall notify the CDRRHR of any intention to transfer, dispose or ' decommission any therapeutic x-ray equipment that are no longer in use priOr to initiating any action. 
+
+
+
+D. Monitoring of public exposure 
+
+1. The requirements for monitoring public exposure in Chapter VI of the Manual shall apply. 
+
+
+2. The licensee shall establish and implement a program for monitoring public exposure from radiotherapy which Shall include dose assessment in the surroundings of irradiation rooms for therapeutic x- ray equipment, stability check device storage room and waiting rooms.
+
+XI. POTENTIAL EXPOSURE AND EMERGENCY PLANS 
+
+A. Potential exposure 
+
+1. The licensee Shall prepare a safety assessment applied to all stages of design, construction, and operation of the radiotherapy facility and submit it to the CDRRHR. 
+
+The safety assessment shall be documented and revised by an independent expert when: 
+
+2.1 modiﬁcatiOns of the x-ray sources or its facilities are made 
+
+2.2 operational experience or information on accidents or errors indicates that the safety assessment should be reviewed  
+
+2.3 techniques are modified in such a way that safety may be compromised. 
+
+B. Accident Prevention and Mitigation 
+The rules on accident prevention and mitigation of their consequences stated in Chapter VII of the Manual shall apply to all therapeutic x- ray facilities. 
+
+C. Emergency plans 
+
+The licensee Shall develop emergency response plans based on the events identified by the safety assessment and Shall include the following: 
+
+
+
+1. list of predictable incidents and accidents and measures to deal with them 
+
+2. persons responsible to take action with complete information including phone numbers 
+
+3. responsibilities of individual personnel in emergency procedures (radiation oncologist, mediCal physicists, radiotherapy technologists, etc) 
+
+4. set of concise instructions posted in a visible area 
+
+5. availability of quick access to persons responsible for carrying out emergency response action 
+
+6. equipment and tools necessary to carry out the procedures 
+
+7. training and periodic rehearsal and recording and reporting system 
+
+Emergency procedures Should also include: 
+
+1. immediate measures to avoid unnecessary radiation doses to patients, staff and public (such as removal of patients from a therapeutic x—ray unit) 
+
+
+2. measures to prevent access Of persons to the affected area during the time that the. x-ray source exposure is still going on and normal conditions are not yet restored. 
+
+XII. ROLES AND RESPONSIBILITIES 
+
+A. The CDRRHR of the Food and Drug Administration, Department of Health shall be responsible for the enforcement of this administrative order (AG) and Other relevant regulatory standards pertaining to the operation of a therapeutic x—ray facility utilizing medical linear accelerators in the Philippines 
+
+B. The licensees and employers are the principal parties that are mainly responsible for the application of this A. O. ' 
+
+C. The other parties who shall have subsidiary responsibilities for the application of the regulations are: 
+
+1. Radiation protection officer 
+
+2. Assistant Radiation protection officer 
+
+3. Radiation oncologist 
+
+4. Radiation oncology medical physicist 
+
+5. Radiotherapy technologist 
+
+6. Suppliers 
+
+7. Workers 
+
+8. Maintenance Engineer 
+
+9. Ethical Review Committee 
+
+10. Any other party to whom the licensee has delegated speciﬁc responsibilities. 
+
+D. The management/licensee shall develop, implement, maintain and document a  radiation protection and safety program commensurate with the nature and extent of the risks associated with the practices in radiation oncology. NeceSsary resources to comply with this program shall be provided. 
+
+E. The management/licensee shall issue a written policy that Clearly assigns prime - importance to protection and safety in radiotherapy while recognizing that the treatment and well-being of the patient are the prime objectives of medical care. 
+
+F. The management/licensee Shall be committed to an effective protection and safety policy, particularly, at senior level and by clearly demonstrable support for those persons with direct responsibilities for radiation protection. 
+
+G. The radiation protection and safety program shall describe and include all, but not limited to, the-items stated in Appendix IV of this A.O. 
+
+H. A Radiation Protection Committee Shall be organized in the facility. The committee Shall consist of but Shall not be limited to, the radiation protection officer, assistant radiation protection officer, chief radiation oncologist, radiation oncology medical physicist, chief radiotherapy technologist, a maintenance engineer (or any person responsible for coordinating the maintenance of equipment), and an administrator (representing the management/licensee); 
+
+I. The licensee shall prepare an annual report indicating the workload of the facility, the radiotherapy procedures/techniques done, data on the manpower, and any accidental exposure of patient, staff or members of the general public, using the form provided. The report Shall be submitted to the CDRRHR together with the required renewal documents. 
+
+J. The licensee shall ensure that all responsibilities for occupational, medical and public exposure required in this AO. are observed and implemented at all times. 
+
+XIII. REPEALING CLAUSE 
+
+All administrative orders, rules or regulations inconsistent herewith are hereby repealed, superseded, amended or modified accordingly; 
+
+XIV. SEPARABILITY CLAUSE 
+
+The provisions Of this administrative order are hereby declared to be separable, and in the event any one or more such provisions are held unconstitutional, the validity of the other provisions shall not be affected. 
+
+XV. TRANSITORY PROVISIONS 
+
+A. All existing radiotherapy facilities shall be given ﬁve (5) years from the effectivity date of this AD. to comply with the requirements in Section VI.A.4.2 of this AO. 
+
+B. All existing radiotherapy facilities shall be given two (2) years from the effectivity date of this AD. to comply with the requirements in Section VII.B.1.4 of this AO. 
+
+C. Facilities that plan to put-up a therapeutic x- ray facility, within the transition period Shall satisfy the following manpower requirements for the radiation oncology medical physicist: 
+
+1. A minimum of 1 (one)full- time or part-time board certified ROMP shall be employed. 
+
+2. If the board certified ROMP is employed on a part time basis, an additional full time ROMP shall be employed with the following qualification: 
+
+a. Has a PhD or a Masters degree in MediCal Physics;
+
+b. Has undergone structured clinical training in ROMP and has done conventional radiotherapy procedures under the close supervision of a. board certified ROMP for a period of at least three (3) months, whether on site or at the board certified ROMP’S facility, as attested to by a certificate issued by the board certified ROMP. The training Shall cover the following activities: treatment planning, dose calculation, tumor localization and Simulation, generation of beam data, beam calibration, activities pertaining to radiation protection and safety, and quality control. and assurance of all equipment used in radiotherapy including treatment planning system. The training syllabus must be based on the Guidelines issued by the Philippine Board of Medical Physics Section of ROMP and the IAEA clinical training guide for ROMP, and 
+
+c. Shall work on Site under the supervision Of a board certified ROMP for at least two (2) more years, following the Guidelines issued by the Philippine Board of Medical Physics, Section of ROMP. This ROlVEP may have a viSiting consultant status to do review of treatment plans ' and other activities undertaken until the non-board certified ROMP Shall have been certified by the board. 
+
+3. For existing facilities that plan to upgrade their services to special procedures, an additional board certified ROMP shall be employed on a part- -time or full time basis.
+
+4. For level 3 and 4 facilities an additional ROMP Shall be employed depending on the workload for the IMRT and special procedures. 
+
+XVI. EFFECTIVITY 
+
+This administrative order shall take effect 15 days following the publication in the Official Gazette or in a newspaper of general circulation. 
+
+ </body>
+
+  <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+Appendix I 
+
+TASKS OF. A RADIATION ONCOLOGY MEDICAL PHYSICIST (References: AAPM REPORT NO. 38 and American College Of Medical Physics) 
+
+1. Flaming for resource allocation with radiation oncologists, administrators, and technologists, including: 
+
+a. Equipment usage, selection and replacement, 
+
+b. Staff requirements, assignments, and recruitment, 
+
+c. Budget preparation, 
+
+d. Program operation, and 
+
+e. Development and continuing review, in conjunction with the radiation oncologist, of policies and procedures related to the appropriate therapeutic use of radiation. 
+
+2. Physical aspects of all radiation sources (radioactive materials and radiation producing machines) used in a radiation oncology program, including: 
+
+a. Performance Speciﬁcation, acceptance testing, evaluation, and commissioning of new equipment, 
+
+b. Performance Speciﬁcation, acceptance testing, and evaluation of associated computer systems, algorithms, data, and output, 
+
+c. Calibration of the sources and maintenance of all information necessary for their appropriate use, 
+
+d. Development and management of a comprehensive quality assurance program- for all treatment modalities, localization procedures, and computational equipment andprograms to assure that patients receive prescribed doses and- dose distributions, within acceptable degrees of accuracy
+
+e. Maintenance of all instrumentation required for calibration of sources, measurement of radiation, and calculation of doses, 
+
+f. First-order maintenance of treatment units (in conjunction with any in-house electronic technician), and 
+
+g. Involvement in informatics development and direction. 
+
+3. The radiation safety program (possibly shared with an institution’s radiation safety officer, including: _ 
+
+a. Development and administration of the radiation safety program, including compliance With requirements of the CDRRHR, 
+
+b. Administration of a personnel radiation monitoring program, 
+
+c. Supervision of source preparation and handling during brachytherapy, and the continual maintenance of the brachytherapy source inventory,
+
+
+d. Participation in the institution’s Radiation Safety Committee, and other committees (e. g, General Safety) as needed, 
+
+e. Planning, calculation, and specification of thickness, material, and placement of Shielding needed to protect patients, workers, the general public and the environment from radiation, and 
+
+f. Assessment and evaluation of installed Shielding designed to protect patients, workers, and the general public from radiation.
+ 
+
+4. The physical aspects of patients treatments, including:
+
+a. Consultations with radiation oncologists on the physical and radiObiological aspects of patients’ treatments, and the development of treatment plans, 
+
+b. Acquisition, storage and use of data for treatment plans, 
+
+c. Calculation of dose distributions and machine settings for patient treatments, Design and fabrication of treatment aids and treatment—beam modifiers, 
+
+d. Assurance of the accuracy of treatment unit parameters and settings used for a patient’s treatment, including correct transfer of parameters between the simulator, treatment plan and the treatment unit, and periodic review of each patient’ s chart, 
+
+e. In-vivo measurement to verify the dose delivered to a patient, 
+
+f. Assisting the radiation oncologists in statistical analysis for evaluation Of treatment efficacy, and participation in clinical trials, 
+
+g. Review of radiation oncology dosimetry information noted in patient records, 
+
+h. Evaluation of radiation oncology technical procedures prior to clinical use, 
+
+i. Participation at patient-discussion conferences, 
+
+j. Development of techniques (hardware, software, or procedural) to improve the delivery of radiation treatments, 
+
+k. Direction of the Radiation Oncology Physics program to include the technical _ direction of staff responsible for treatment planning, machine maintenance and 
+
+l. repair and other physics support staff, and 
+
+m. Conduct of research. 
+
+
+I 5. Education and training: 
+
+a. Essential training of medical physics residents in radiation oncology medical physics, 
+
+
+b. Necessary training of radiation oncology residents, radiotherapy technologists, and other radiation oncology staff, and 
+
+c. Continuing education "of all radiation oncology staff. 
+
+
+
+Appendix II RESPONSIBILITIES OF A RADIATION PROTECTION OFFICER 
+
+1. Ensures that radiation exposures are kept as low as reasonably achievable (ALARA). 
+
+2. Stops all unsafe activities involving the operation of the therapeutic x-ray equipment. 
+
+3. Develops, reviews, and implements a Radiation Protection and Safety. Program and updates Operating and emergency procedures. 
+
+4. Ensures that personnel monitoring devices are provided, used and changed at the ' proper intervals as recommended by the CDRRHR, and maintains records of the results of such monitoring.
+
+5. Performs evaluations of doses received by occupationally exposed individuals to demonstrate that individuals are not likely to receive, in one year, a radiation dose in excess of the allowable limits and reports to the radiation safety committee. 
+
+6. Maintains documentation to demonstrate, by measurement or calculation, that the total effective equivalent-dose to the individual member of the public that is likely to receive the highest dose from the operation does not exceed the annual limit for members of the public. 
+
+7. Notifies proper authorities of incidents or aCcidents such as accidental exposure of patient, staff, or members of the public, etc. 
+
+8. Investigates unusual occurrences, identifies cause(s) and appropriate corrective action(s), and takes timely corrective action(s); 
+
+9. Performs and records radiation protection and safety program audits at least annually. 
+
+10. Maintains appropriate records that are necessary to support the authorizations and satisfy CDRRHR regulations. 
+
+11. Maintains up- -t-o date authorizations and submits amendment and renewal requests in a timely manner; 
+
+12. Performs monitoring and surveys of all areas in the radiation facility. 
+
+13. Implements personnel monitoring program, including determining the need for and evaluating bioassays, monitoring personnel exposure records, and developing corrective actions for those exposures approaching maximum dose limits. ' 
+
+14. Conducts training of personnel including hands-on and refresher training, annually and commensurate with the individual's duties and responsibilities and maintains the training records. 
+
+15. Conducts inventory of x-ray sources, equipment and accessories; 
+
+16. Liaises with the CDRRHR. 
+
+
+Appendix III 
+
+REQUIREMENTS FOR THE ISSUANCE OF AUTHORIZATIONS FOR PRACTICES INVOLVING THE USE OF MEDICAL LINEAR ACCELERATOR 
+
+For the issuance of a pre-operational permit; 
+
+1. Duly accomplished application for a pre-operational permit and payment Of corresponding fee. 
+
+2. A certified true copy of the SECXDTI registration. 
+
+3. The design of the medical linear accelerator facility indicating shielding details duly evaluated and verified by a board certified ROMP. 
+
+4. Technical description/ specifications of the following equipment: 
+
+a. Medical linear accelerator (linac). 
+
+b. Treatment planning system 
+
+c. Patient data management software if available. 
+
+d. Radiotherapy simulator or computed tomography simulator. 
+
+e. All other equipment listed in Appendix V. 
+
+
+5. Certiﬁcation issued by the equipment manufacturer 
+
+a. that the medical linac in its present condition is compliant with the performance and safety requirements of the International Atomic Energy Agency and the International Organization for Standardization/International Electrotechnical Commission (ISO/IEC).
+
+b. on the availability of spare parts, maintenance and repair services. 
+
+6. Personnel requirements: notarized contract of employment between the facility and 
+
+a. the radiation oncologist/s 
+
+b. the certified radiation oncology medical physicist 
+
+c. the radiation oncology medical physicist 
+d. the four (4) radiologic technologists 
+
+7. Radiation Protection and Safety Program. 
+
+8. Emergency procedures during testing, commissioning, internal and external quality audit and during clinical operation, including a system of reporting a radiological accident/incident. 
+
+9. Emergency preparedness and response plan in the event of radiological emergencies such as: 
+
+a. Accident medical exposure of a patient. 
+
+b. Accident exposure of a worker. 
+
+c. Accident exposure of a member of the public. 
+
+For the issuance of an initial license to operate; 
+
+1. Duly accomplished application for a license to operate and payment of corresponding fee. 
+
+2. PersOnnel documents: 
+
+a. PROS certificate/s and valid PRC ID/S of the radiation oncologist
+
+b.PRC Board certificates and valid PRC IDS of the radiotherapy technologists and certificates of training as specified in Section VI— A- 4. 3. 1-2 of this AO. 
+
+c. Notarized contract of employment between the facility and 
+
+i. the radiation oncologist/s . 
+
+ii. the radiation oncology medical physicists 
+
+iii. the radiotherapy technologists 
+
+3. Acceptance Test Certificate signed by the technical representative of the equipment manufacturer/ supplier and board certified ROMP. 
+
+4. Commissioning report of the equipment duly Signed by the facility’s Certified ROMP. 
+
+5. Conformance testing report of the x-ray units in the radiation oncology facility. 
+
+6. RPSE or safety assessment report of the CDRRHR health phySics team on the radiation oncology facility. 
+
+7. LINAC output calibration report of the DOH- SSDL or of a third-party board certified radiation oncology medical physicist. 
+
+
+Appendix IV 
+
+RADIATION PROTECTION AND SAFETY PROGRAMME 
+
+The Radiation Protection and Safety Program Shall inclUde the following information: 
+
+I. Organizational structure 
+
+-Describe the facility’s organizational and management contrOl systems, including assignment of responsibilities and clear lines of authority related to radiation safety. In particular, include staffing levels, equipment selection, other assignments of the radiation protection officer, authority of the radiation protection officer to stop unsafe operations, personnel training, maintenance of records, and how problems affecting safety are identified and corrected. 
+
+-Identify the qualified experts and radiation protection officer by name, and include their training, education, experience and qualification. 
+
+-Confirm that training will include explanation of radiation hazards and effects, explanation of written procedures, use of equipment (e. g. instrumentation), - meaning warning signals and method to confirm adequacy of t-raining (testing or demonstrations). 
+
+II. Workplace monitOring, area classification and individual monitoring: 
+
+Describe the program for monitoring of workplace, including the quantities to be measured, where and when the measurements are to be made, the measurement methods and procedures and reference levels and the actions to be taken if they are exceeded. ' 
+
+Describe the policies and procedures for classification of controlled and supervised areas. 
+
+Describe personal dOSimeters provided to workers and your policies for assigning dosimeters to individual workers. - 
+
+Describe the policy for reviewing individual doses, including reference levels and actions to be taken when exCeeded. 
+
+Name and address of dosimetry service provider: 
+
+ <image>figure_1.png</image>
+
+ 
+III.Local rules and supervision 
+
+Describe local rules and procedures regarding investigatiOn or authorized levels, protective measures and safety provision, providing adequate supervision, providing workers information regarding health risks due to occupational exposure and emergency planning instruction.
+
+Provide copies of operating and safety procedures including areas access control, entry procedures, product entry and exit. 
+ 
+Describe the training program to ensure all appropriate personnel are adequately trained in the operating procedures and how their actions may affect safety. 
+
+Describe the policies regarding female workers who become pregnant (notification, adoption of working conditions to protect fetus/embryo and the instruction provided to them. 
+
+Describe the program of health surveillance based on general principles of occupational health and designed to assess the initial and continuing ﬁtness of workers for their intended tasks. 
+
+IV. Quality Assurance 
+
+Describe the program for ensuring that regulatory radiation safety requirements are addressed and satisfied. 
+
+Describe the program to periodically review procedures, maintain procedures current and available and the procedure modification process. 
+
+Describe the program fOr optimizing occupational and public expoSures to levels as low as reasonably achievable. 
+
+Describe the program for periodic maintenance and testing (safety interlocks, radiation meters, etc.). Attach the manufacturer’s instructions. 
+
+Describe service arrangements with other organization and qualified experts. 
+
+V. Emergency procedures Provide your emergency procedures to address potential emergencies Such as ' potential x-ray exposure, loss of Shielding, and misadministration to patients. If other emergencies are envisaged, please proVide additional appropriate emergency procedures. 
+
+In all cases the magnitude of the hazard Should be evaluated. Any off-site consequences Should also be evaluated. Local emergency services (e.g. fire, police) may need to be provided with copies of the emergency procedures. 
+
+VI. System of records including 
+
+A. Personnel exposure 
+1. Current records 
+2. Prior work history 
+
+B. Area surveys (dose or dose rate) 
+C. Instruments tests and calibration 
+D. Audits and reviews of radiation safety program 
+E. Incident and accident investigation reports 
+F. Maintenance and repair work 
+G. Facility modiﬁcations 
+H. Training provided 
+I. Evidence of health surveillance of workers 
+J. Radioactive material license 
+K. Patient discharge surveys 
+L. Clinic dosimetry records 
+
+Adopted from:
+IAEA-TECDOC- 1113: “Safety assessment plans for authorization and inspection of radiation sources” Vienna, September 1999. 
+
+<image>table_2.png</image>
+
+
+
+Appendix VI 
+
+RADIATION ACCIDENT/INCIDENT REPORT 
+
+A. Name and address of facility 
+
+B. Name of radiation protection and safety officer 
+
+C. Brand/Model/Serial No. of radiotherapy equipment/beam energy 
+
+D. Vital information of the persons accidentally exposed such as name, age, sex, occupation and classification whether patient, worker or member of the general public 
+
+E. Identification and detailed description of the accident/incident 
+
+F. Cause of the incident/accident 
+
+G. Dose calculation or estimation 
+
+H. Corrective measures required to prevent recurrence of such accident/incident 
+
+I. Corrective measures implemented 
+
+J. Interventions taken by the institution on the accidentally exposed persons 
+
+
+ 
+
+ 
+

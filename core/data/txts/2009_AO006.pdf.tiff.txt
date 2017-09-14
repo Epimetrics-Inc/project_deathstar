@@ -1,0 +1,318 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Building 1, San Lazaro Compound, Rizal Avenue 
+Sta. Cruz, Manila, 1003 Philippines 
+Tel. No. (+63-2) 711-95-02/03: Trunk line: 743-83-01 loc. 1125 Fax: 743-1829 
+E-mail Address:osec@doh.gov.ph Website: http://www.doh.gov.ph
+
+
+<date>January 13, 2009</date>
+
+<doctype>Administrative Order</doctype> 
+<docnum>No. 2009 - 0006 </docnum>
+
+
+<subject>SUBJECT: Guidelines on Antiretroviral Therapy (ART) among Adults and Adolescents with Human Immunodeﬁciency Virus (HIV) Infection </subject>
+
+
+<body>
+I. RATIONALE 
+
+The World Health Organization projects that 45 million people will get infected with the Human Immunodeficiency Virus (HIV) between 2002 and 2010. Of this, 40% will come from Asia and Paciﬁc if current prevention efforts are not continued. Prevention efforts however, should be complemented with making treatment available to as many HIV positive and AIDS cases as possible. 
+
+In the Philippines, although the HIV and AIDS national prevalence is less than 0.1% of the population, the number of peOple affected by HIV and AIDS continues to grow. The National Epidemiology Center (NEC) AIDS registry reported that as of December 2008, 3,589 cases of HIV antibody seropositive individuals had been identified in the Philippines, and on the same month, there were 565 PLHIV on antiretroviral therapy (ART). 
+
+In line with the global initiative on Universal Access, the health sector has to facilitate access to antiretroviral drugs (ARVs) by People Living with HIV (PLHIV) in need of treatment. A major step of this endeavor is the provision of guidelines to health care providers on the proper use of ARVs in the management of PLHIV. According to WHO, evidence from many parts of the world indicates that introducing treatment in affected communities can reduce the fear, stigma, and discrimination that surround HIV/AIDS, increase uptake of HIV testing and counseling, and reinforce prevention efforts. 
+
+Signiﬁcant decrease in morbidity and mortality due to AIDS has been observed in countries where ARVs are widely used. To ensure safe and effective use of ARVs, there must be standardized treatment guidelines, continuous access to medicines and laboratory facilities for monitoring treatment response and toxicity associated with use of the ARVs, and availability of counseling services for patients to reinforce adherence to ART. 
+
+This guideline adapted the current recommendations of WHO for HIV Infection in Adults and Adolescents (2006) in its approach to the delivery ofa comprehensive HIV treatment and care, in harmony with current local practices and experiences in treating PLHIV for 3 years in Philippines. 
+
+II. OBJECTIVE 
+
+To provide standards for the use of ARVs among adults and adolescent living with HIV in the Philippines. 
+
+III. SCOPE AND LIMITATION 
+
+This guideline is intended for physicians from government and private health facilities managing PLHIVs with established referral networks to Department of Health (DOH) - designated treatment hubs. Management of HIV infections among pregnant women and children will be discussed in a separate guideline. 
+
+IV. DEFINITION OF TERMS 
+
+1. Adherence counseling — Includes provision of information on HIV, manifestations ofthe disease, and beneﬁts and side—effects of ARVs; discussion on how the medications should be taken stressing on the importance of not missing any doses as well as risks associated to poor adherence, assessment of adherence to include identifying obstacles to adherence, and treatment planning to enhance adherence. 
+
+2. Antiretrovirals (ARVs) — Drugs that are given to people living with HIV infection to improve or maintain their immune function. 
+
+3. HIV and AIDS Core Team (HACT) - A multi-disciplinary team composed of doctors, nurses, pharmacists, social workers, and other health care providers that implements prevention, treatment and care services for HIV and AIDS in the hospital setting. Its specific functions are described in the Administrative Order Number 18 s. 1995 (Revised Guidelines in the Management of HIV/AIDS Patients in the Hospital). 
+
+4. HIV Counseling and Testing — A conﬁdential process that enables individuals to examine their knowledge and behavior in relation to their personal risks of acquiring or transmitting HIV. Counseling helps an individual decide on whether or not to undergo HIV testing and provides support to an individual receiving his or her test result. 
+
+5. Immune reconstitution inﬂammatory syndrome (IRIS) — A spectrum of clinical signs and symptoms resulting from the restored ability of an individual’s immune system to mount an inﬂammatory response and this is associated with immune recovery during ART. Also deﬁned as paradoxical clinical worsening due to a subclinical and unrecognized opportunistic pathogen or previously known treated opportunistic pathogen in a setting of adequate response to ART. 
+
+6. Opportunistic infections - Illnesses caused by various organisms, some of which usually do not cause disease in persons with healthy immune systems. Persons living with advanced HIV infection may suffer opportunistic infections of the lungs, brain, eyes and other organs. 
+
+7. People Living with HIV (PLHIV) — Refers to people living with HIV infection. With proper management and provision of ART, these individuals can continue to live well and be productive for many years. 
+
+8. Treatment Hub — A hospital facility with an established HIV/AIDS Core Team (HACT) providing prevention, treatment, care and support services to People Living with HIV (PLHIV) including but not limited to HIV Counseling and Testing, clinical management, patient monitoring and other care and support services. ARVs can only be accessed through these facilities. Refer to annex for the complete list of treatment hubs in the country. 
+
+V. IMPLEMENTING GUIDELINES 
+
+A. Determine if Anti- Retroviral (ARV) is indicated The decision to start a patient on ARV will be based on the clinical ﬁndings and/or CD4 level determination as shown in table 1. The beneﬁts, toxicity, adherence issues and costs ofthe treatment must be a component of counseling. 
+
+Table 1. Criteria for Initiating Anti-retroviral Therapy (Adopted from WHO ART for HIV Infection in Adults and Adolescent 2006) 
+<image>table_1.png</image>
+
+ 
+B. Perform Adherence Counseling 
+
+HIV can develop resistance to ARVS. The success of ARV therapy largely depends on patient’s adherence to treatment. A 95% adherence rate is required to prevent the development of drug resistance. Adherence counseling should always be done prior to and while on treatment. 
+
+References and training on adherence counseling for anti—retroviral treatment (ART) will be provided by the DOH to participating physicians. 
+
+C. Get Laboratory tests prior to initiating ARV treatment 
+
+1. Complete Blood Count (CBC) 
+
+2. Chest x-ray, sputum Acid Fast Bacilli (AFB) and sputum culture to rule out active tuberculosis 
+
+3. Pregnancy test for females of reproductive age 
+
+4. Baseline urinalysis, fasting blood sugar, liver function tests, creatinine, and lipid proﬁle when indicated 
+
+D. Choose initial ARV Regimen 
+
+Recommended regimen (see annex for dosages) 
+
+a. First line regimen: NNRTI-based (2 NRTI + 1 NNRTI) 
+i. First line NRTIs : Zidovudine (AZT) + Lamivudine (3TC) 
+
+Alternative ﬁrst line NRTI : 
+a. Tenofovir (TDF) + Lamivudine (3TC) 
+b. Stavudine (d4T) + Lamivudine (3TC) - when TDF and AZT are contraindicated 
+
+
+ii. First line NNRTI: 
+Nevirapine (NVP) 
+
+Alternative first line NNR TI:
+Efavirenz (EFV) - for patients with hypersensitivity to nevirapine and/or taking rifampicin. EFV is contraindicated in pregnant patients. 
+
+ 
+
+b. Second line regimen: 2 NRTIs + Lopinavir/ritonavir (LPV/r) 
+- AZT + 3TC + LPV/r if previously on TDF 
+- TDF + 3TC + LPV/r if previously on AZT or d4T 
+
+E. Monitor for ARV toxicity 
+
+1. For AZT + 3TC + EFV/NVP 
+a. CBC — every month for the ﬁrst three months and every 4-6 months thereafter 
+b. SGPT, SGOT, alkaline phosphatase, amylase — after 1 month, after 6 months and every 12 months thereafter 
+
+2. For TDF + 3TC + EFV/NVP 
+a. annual creatinine and urinalysis 
+b. SGPT, SGOT, alkaline phosphatase, amylase — after 1 month, after 6 months and every 12 months thereafter 
+
+3. For d4T + 3TC + EFV/NVP 
+a. annual CBC 
+b. SGPT, SGOT, alkaline phosphatase, amylase — after 1 month, after 6 months and every 12 months thereafter 
+c. Total cholesterol, triglyceride, LDL- after 6 months and every 12 months thereafter  
+
+4. For PI-containing regimen (AZT/TDF + 3TC + (PI/r) 
+
+4.1 For TDF + 3TC + (LPV/r) 
+a. annual creatinine and urinalysis 
+b. Total cholesterol, triglyceride, LDL- after 6 months and every 12 months thereafter 
+c. FBS — after 6 months and every 12 months thereafter 
+
+4.2. For AZT + 3TC + (LPV/r) 
+a. CBC — after 1 month, after 6 months and every 12 months thereafter 
+b. Total cholesterol, triglyCeride, LDL- after 6 months and every 12 months thereafter 
+c. FBS — after 6 months and every 12 months thereafter 
+
+4.3. For d4T + 3TC + (LPV/r) 
+a. annual CBC 
+b. SGPT, SGOT, alkaline phosphatase, amylase — after 1 month, after 6 months and every 12 months thereafter 
+c. Total cholesterol, triglyceride, LDL- after 6 months and every 12 months thereafter 
+d. FBS - after 6 months and every 12 months thereafter 
+
+F. Monitor response to treatment. 
+
+1. Clinical Response 
+
+Frequency of clinical monitoring will depend on patient’s response to ART. Patients should be followed-up on the minimum, at 2, 4, 8, 12 and 24 weeks after starting ART and every six months once patient has been assessed to be stable. Evaluation for treatment failure, which includes reassessment of clinical stage, and assessment of symptoms of drug toxicities should be made during every visit. 
+
+Exacerbation of previously subclinical coexisting infections (e.g. TB) may occur, resulting in an apparent worsening of disease. This is not attributable to failure of the therapy but to its success and the resulting immune reconstitution. This is called Immune Reconstitution Inﬂammatory Syndrome (IRIS). In such cases, the switching of ART would be inappropriate. 
+
+Trial of therapy for at least 6 to 12 months should be given before concluding that an ARV regimen is failing. For patients with good compliance to ART, clinical response is recommended to be used together with CD4 count and viral load determination (whenever feasible) to detect treatment failure. 
+
+2. Immunologic Response 
+
+Patients who initiated therapy with very low baseline CD4 T cell count may have less response to therapy. As a general rule, new and progressive severe immunodeficiency as demonstrated by declining CD4 cell counts should trigger a switch in therapy. However, any measurement that may indicate the need to consider switching should be repeated and the low level confirmed before any change is implemented. Where resources are available, CD4 T cell count may be done every six months for monitoring. 
+
+Reasonable working definitions of immunological failure are: 
+
+(1) CD4 count below 100 cells/mm3 after six months of therapy 
+
+(2) a return to, or a fall below, the pre-therapy CD4 baseline after six months of therapy; or 
+
+(3) a 50% decline from the on—treatment peak CD4 value (if known). 
+
+3. Virologic Response 
+
+Since plasma viremia is a strong prognostic indicator of HIV disease progression, maximal suppression of viremia for as long as possible is a critical goal of antiretroviral therapy. One (1.0) log reduction is usually observed 4—8 weeks after initiation of therapy and falls below limit of assay detection after 4-6 months. Where resources are available, viral load assay may be done every 12 months. 
+
+G. Change of treatment regimen 
+
+1. Drug toxicity and side effects (see annex for speciﬁc side effects of ARVs) 
+
+Antiretroviral drugs are associated with side effects and long term toxicities. Although life threatening side effects had been reported, many side effects can be managed symptomatically. The ARV component causing toxicity should be identiﬁed and changed if necessary. The general principle is that single—drug substitution because of toxicity should involve drugs belonging to the same ARV class (eg. TDF or d4T for AZT where anemia occurs, or NVP for EFV for CNS toxicity or in pregnancy). 
+
+It is also important to ask patients of intake of other medicines because ARVs may interact with these medications. ' 
+
+2. Treatment failure 
+
+It is very important to regularly assess patients for treatment failure, determine the reasons for these and institute appropriate management immediately. If poor compliance is the cause of treatment failure, counseling for adherence must be intensiﬁed and the current regimen continued. Determination of CD4 count should be performed after three months to reassess response to treatment. 
+
+Patients who are candidates for second-line ARVs must be managed in close coordination with the Research Institute for Tropical Medicine or San Lazaro Hospital. 
+
+H. Manage HIV and TB Coinfection 
+
+Treatment of TB among HIV patients do not differ from treatment of TB among non-HIV patients. Diagnosis and treatment will follow the National Tuberculosis Program (N TP) Guidelines. 
+
+AR V3 for patients with active TB: 
+
+Recommended ARV Regimen First line regimen: 2 NRTIs + EFV 
+
+Due to potential hepatotoxic effects of both ARV and anti-TB drugs, it is recommended when possible, to commence ARV after the intensive phase of TB treatment. Patients should be monitored closely for signs and symptoms of hepatotoxicity. . 
+
+Initiating ART in HIV and TB Coinfection 
+
+1. If CD4 &lt 2000ellstmm3, ART may be initiated after 2 weeks of TB treatment, and after patient is stabilized on the TB regimen. 
+
+2. If CD4 200-350cells/mm3, ART should be started after 8 weeks of TB therapy. 
+
+3. If CD4>350cells/mm3, ART may be deferred until after TB therapy is complete. 
+
+Management of HIV patients who are taking nevirapine or protease inhibitors and diagnosed with active TB should be done in consultation with physicians experienced in the treatment of these two diseases. 
+
+1. Manage HIV and Hepatitis B Coinfection 
+
+In situations where both HIV and HBV (Hepatitis B virus) require treatment, it is preferable to use 3TC and TDF together as both drugs have anti-HIV and anti-HBV activity. The use of TDF or 3TC as the only anti-HBV drug can result in more rapid development of resistance. 
+
+J. Manage HIV and Hepatitis C Coinfection 
+
+The initiation of ART in HIV/HCV coinfected patients should follow the same principles and recommendations as for the initiation of ART among HIV patients without HCV infection. However, the patients should be followed up more closely because of the major risk of drug—related interactions of some ARVs with anti—HCV drugs. 
+
+Major drug-drug interactions have been observed for the following combinations anti HCV drugs and ARVs: 
+
+l. Ribavirin with didanosine (dd1)— pancreatitis and lactic acidosis; these drugs should not be given concomitantly 
+
+2. Ribavirin and zidovudine (AZT) a anemia; avoid combination if possible; needs close monitoring 
+
+3. Interferon and efavirenz (EFV) — severe depression; needs close monitoring 
+
+VI. ROLES AND RESPONSIBILITIES 
+
+1. National Center for Disease Prevention and Control (NCDPC) shall: 
+a. convene the technical working group for HIV and regularly review this guideline through wide consultation with clinicians, representatives from the treatment hubs and the PLHIV; 
+b. disseminate this guideline to the treatment hubs, private medical practitioners, professional medical societies thru the Centers for Health Development (CHD) NASPCP coordinators; 
+c. forecast centrally ARV needs of PLHIV and ensure timely procurement and distribution of ARV to treatment hubs; 
+d. develop manual of procedures for treatment of PLHIV, including monitoring tools, within six months upon approval ofthis A.O.; 
+e. create and support a monitoring team composed of STI coordinators, treatment hub staffs and PLHIV groups to ensure compliance to this guideline 
+
+2. Center for Health Development (CHD) shall: 
+a. disseminate this guideline and other related reference materials to DOH — retained hospitals and private DOH - accredited tertiary medical centers; 
+b. establish system of referrals from various health facilities to DOH — designated treatment hubs; 
+c. participate in the regular monitoring activities organized by NDCPC. 
+
+3. Treatment Hubs through its HIV AIDS Core Team (HACT) shall: 
+a. provide treatment and clinical monitoring of patients under ART; 
+b. provide technical assistance to other health facilities and community—based organizations in need of professional trainings on the clinical management of HIV infection; 
+c. respond accordingly to referrals from various health facilities d submit report to NCDPC for programme utilization. 
+
+4. Research Institute of Tropical Medicine shall: 
+a. act as the designated training center on clinical management of HIV infection in coordination with NCDPC and Health Human Resource Development Bureau; 
+b. provide NCPDC annual accomplishment reports. 
+
+5. Civil Society Organizations for Treatment, Care and Support — shall work in coordination with the members of HACT in treatment hubs in providing care and support for PLHIV especially those on ART. 
+
+VII. FINANCING 
+
+1. The Infectious Disease Ofﬁce shall allot funds for procurement of ARVs annually based on NASPCP — IDO forecasting. 
+
+2. The NCDPC along with the PNAC Secretariat and the PLHIV shall continuously advocate to the Philippine Health Insurance Corporation (PHIC) for the development of beneﬁt package for PLHIV in need of treatment and care. 
+
+VIII. REPEALING CLAUSE Provisions from previous issuances that are inconsistent or contrary to the provisions ofthis order are hereby rescinded and modiﬁed accordingly. 
+
+IX. EFFECTIVITY 
+
+This order shall take effect immediately upon approval. 
+</body>
+  
+<sign>FRANCISCO DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
+
+Annex 1. WHO Clinical Staging of HIV Disease in Adults and Adolescents (2006) 
+
+CLINICAL STAGE 1 
+
+Asymptomatic 
+Persistent generalized lymphadenopathy 
+
+CLINICAL STAGE 2 
+
+Unexplained moderate weight loss (under 10% of presumed or measures body weight) 
+Recurrent upper respiratory tract infections (sinusitis, tonsillitis, otitis media, pharyngitis) 
+Herpes zoster 
+Angular cheilitis 
+Recurrent oral ulceration 
+Papular pruritic eruptions 
+Seborrheic dernmatitis 
+Fungal nail infection 
+
+CLINICAL STAGE 3 
+
+Unexplained severe weight loss (over 10% of presumed or measured body weight) 
+Unexplained chronic diarrhea for longer than one month 
+Unexplained persistent fever (intermittent or constant for longer than one month) 
+Persistent oral candidiasis 
+Oral hairy leukoplakia 
+Pulmonary tuberculosis (current) 
+Severe bacterial infections (eg pneumonia, empyema, pyomyositis, bone or joint infection, meningitis, bacteremia, severe pelvic inﬂammatory disease) 
+Acute necrotizing ulcerative stomatitis, gingivitis or periodontitis 
+Unexplained anemia (below 8g/dl), neutropenia (below 0.5 x 109/ l ) and /or chronic thrombocytopenia (below 50 x 109 x 1) 
+
+CLINICAL STAGE 4 
+
+HIV wasting syndrome 
+Pneumocyctis pneumonia 
+Recurrent bacterial pneumonia 
+Chronic herpes simplex infection (orolabial, genital or anorectal or more than one month’s duration or visceral at any site) 
+Esophageal candidiasis (or candidiasis of trachea, bronchi or lungs) 
+Extrapulmonary tuberculosis 
+Kaposi sarcoma 
+Cytomegalovirus infection (retinitis or infection of other organs) 
+Central nervous system toxoplasmosis 
+HIV encephalopathy 
+Extrapulmonary cryptococcosis including meningitis 
+Disseminated non-tuberculous mycobacteria infection 
+Progressive multifocal leukoencephalopathy 
+Chronic cryptosporidiosis 
+Chronic isosporiasis 
+Disseminated mycosis (coccidiomycosis or histoplasmosis) 
+Recurrent septicemia (including non-typhoidal Salmonella) 
+Lymphoma (cerebral or B cell non—Hodgkin) 
+Invasive cervical carcinoma 
+Atypical disseminated leishmaniasis 
+Symptomatic HIV-associated nephropathy or HIV- associated cardiomyopathy 
+
+Annex 2. Antiretroviral Drugs and Doses, Instructions on Administration, and Important Adverse 
+
+<image>table_2.png</image>
+<image>table_3.png</image>
+<image>table_4.png</image>
+
+
+Annex 3. List of Treatment Hubs in the Philippines 
+<image>table_5.png</image>

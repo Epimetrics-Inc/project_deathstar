@@ -1,0 +1,275 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>Jul 20, 2011</date>
+<doctype>ADMINISTRATIVE</doctype>
+<docnum>No. 2011 - 0010 </docnum>
+
+
+<subject>SUBJECT: Implementing Procedures and Guidelines in Reporting Field Health Services Data to the DOH Central Ofﬁce </subject>
+
+
+<body>
+I. RATIONALE 
+
+The Field Health Services Information System (FHSIS) is a major component of the network of information sources developed by the Department of Health (DOH) to enable it to better manage its nationwide health service delivery activities and provide the desired management information. It focuses on the programs of the DOH public health services, namely Maternal and Child Health, Expanded Program on Immunization, Control of Diarrheal Diseases, Nutrition, Family Flaming, Maternal Care, Tuberculosis, -Malaria, Schistosomiasis, Leprosy, Dental Health and Environmental Health. ' 
+
+FHSIS was ﬁrst conceptualized in 1987 as a response to the need for streamlining an existing manual reporting system that was burdensome and time consuming. The computerization of the data entry and submission of data for FHSIS started in 1988, and in 2008 has undergone several improvements and/or simpliﬁcations to become responsive and relevant to the end users. Through consultative workshops, the weaknesses in the system have been recognized and addressed to further strengthen the FHSIS. The existing version of the FHSIS software is a stand-alone system, now named as AggreSys, that captures aggregated values or numbers which are totaled by the reporting health facilities, submitted to the next hierarchy of reporting system and consolidated accordingly. Thus, consolidated reports by municipality, provincial, regional and national can be generated from the system. 
+
+The use of internet in reporting data has provided several beneﬁts, e.g. improved accuracy or validity of data, timeliness in submission, ease of access, and availability. Thus, the Department of Health (DOH) has utilized the capabilities of internet to develop web- based systems to address the issues on accuracy, reliability or validity of data, and the timeliness of submission. Two (2) web-based systems were added to the existing FHSIS, I i.e. the OnlineSys and UploadSys. The OnlineSys is a web-based system of reporting ﬁeld health services data. On the other hand, data entered using AggreSys shall be electronically uploaded to the DOH Central Ofﬁce via the UploadSys. 
+
+These systems were added to increase the success rate of submission or reporting of data to the DOH Central Ofﬁce. Different situations exist in health facilities particularly on the availability of computers, internet connection, operating budget, and human resources. These problems on resources are also being addressed by the DOH in coordination with the local government units. Thus, it is targeted that in year 2012, all of these concerns are resolved accordingly. 
+
+This Order deﬁnes the procedures and guidelines in the reporting of ﬁeld health services data using AggreSys, UploadSys and OnlineSys to ensure that data are successfully submitted to the DOH Central Ofﬁce. 
+
+II. OBJECTIVES 
+
+The general objective of this Order is to provide clear guidance and direction in the implementation of AggreSys, UploadSys and OnlineSys. Detailed objectives are as follows: 
+
+1. Establish procedures on data reporting, data validation, report generation, data analysis, data utilization, and other relevant protocols. 
+
+2. Identify the roles - and responsibilities of the different agencies and stakeholders involved in the implementation of the system. 
+
+III. SCOPE 
+
+This Order shall apply to all DOH Central Ofﬁces, Centers for Health Development Ofﬁces, Provincial/District/City/Municipal Health Ofﬁces, DOH retained and Local Government Units with health facilities (barangay health stations and rural health units). 
+
+IV. DECLARATION OF POLICIES 
+
+This Order is guided by the following issuances: 
+
+1. Executive Order No. 352 (s. 1996) “Designation of Statistical Activities that will generate critical data for decision-making of the government and private sector. This mandates FHSIS for the Department of Health (DOH) to generate these critical data.  
+
+2. Joint Memorandum of Department of Interior and Local Government and Department of Health circular 3 (s. 1997) “enjoyed all Local Government Units to continuously submit health reports according to previously prescribed guidelines and format until modiﬁed and revised. The guidelines and format are governed by the system called the Field Health Services Information System”
+
+3. Republic Act 3573' (Law of Reporting of Communicable Diseases) requires all individuals and health facilities to report notiﬁable diseases to local and national health authorities. 
+
+4. Administrative Order No. 2005-0023 (Implementing Guidelines for Fourmula One for ' Health as Framework for Health Reforms), Section C2. c. iii, states that, “Disease surveillance shall be intensiﬁed to ensure that the targets for disease elimination, prevention and control are attained”. ‘ 
+
+V. DEFINITION OF TERMS 
+
+For purposes of this Order, the following terms and acronyms are deﬁned as follows: ' 
+<image>table_1.png</image>
+<image>table_2.png</image>
+<image>table_3.png</image> 
+
+VI. GUIDING PRINCIPLES The guiding principles in the creation of this Order are as follows: 
+
+1. Reforms in FHSIS shall be developed in an inclusive and consultative way, shall be nationally led, and shall build upon what exists and shall integrate into existing mechanisms. _ 
+
+2. The electronic F HSIS shall be guided by the principles of data for decision-making. 
+
+3. Data collection shall be responsive to the needs of users of health information. 
+
+4. The FHSIS should make broader efforts to improve generation and reporting of data for utilization. 
+
+5. Electronic FHSIS shall be developed through a stepwise approach and staged implementation. (Example, a few health centers in its ﬁrst year of implementation and considering all possible scenarios during its operation). 
+
+VII. GENERAL GUIDELINES 
+
+1. All health facilities shall report data based on monthly aggregates. 
+
+2. The NEC- shall identify and grant authorization access to reporting health facilities. 
+
+3. The DOH Central Ofﬁce shall protect the integrity of the data and impose discipline in data reporting. Health facilities shall electronically send their monthly reports within the ﬁrst seven calendar days of the month, and shall ensure that all reported data are true and correct. After the cut-off period, all submitted data Shall be considered as “OFFICIAL”. 
+
+4. Provincial Health Ofﬁces and CHD ofﬁces shall undertake validation to check the quality of data (e.g. reliability, completeness, and timeliness) being submitted by the health facilities prior to ofﬁcial release of reports. 
+
+5. The PHOs and CHOs can generate the required reports for their analysis after they have acknowledged that such data have been validated by them. Likewise, the NEC can also generate reports for their analysis at the national level. 
+
+6. Health Managers, health facilities, and concerned ofﬁces with internet connection shall view their respective data or reports. 
+
+7. CHD Ofﬁces shall conduct monitoring activities to assess compliance of reporting health facilities, strengthen quality assurance, and monitor the performance of the system. Further, the NEC may,.conduct monitoring to conﬁrm or validate the reports if deemed necessary. 
+
+VIII. SPECIFIC GUIDELINES 
+
+1. All health facilities shall report data based on monthly aggregates. 
+
+a. Systems for reporting data are as follows: 
+<image>table_4.png</image>
+ 
+b. A health facility can select the system which is appropriate to the current setting or situation in the facility. - 
+
+c. The standard recording forms at the barangay health stations and'rural health units are the Individual Treatment Records, Target Client Lists, Summary Tables and Monthly Consolidation Tables (Annex 4.0 — Standard Reporting Forms). 
+
+d. In a situation where a health facility cannot really use any of the systems, data can be manually totaled, written down on standard summary reports, and submitted to the next hierarchy of reporting (i.e. City Health Ofﬁce, Provincial Health Ofﬁce or Center for Health Development Ofﬁce). The CHO, PHO or CHD shall enter all the data submitted on standard summary reports. The monthly data consolidation shall be by barangay level. 
+
+e. Health facilities that are recording data manually and submitting this to the next higher level of reporting shall keep a printed copy of the reports for future reference. 
+
+f. The ofﬁcial website of the OnlineSys and UploadSys is http://fhsis.doh.gov.ph. 
+
+g. The standard format of the exported data is in XML and stored in a compressed .zip ﬁle format (i.e. zip ﬁle). (Annex 5.0 — Data Dictionary and Upload Instructions) 
+
+h. For health facilities with computers and internet connections, their own data shall be entered on a daily basis and uploaded between 4:00 — 5:00 in the afternoon. This method will lessen the burden of entering too much data during cut—off period and will give sufﬁcient time for the PHOs and CHDs to validate the data. 
+
+i. Cut-Off Period: For health facilities which are awaiting data from the BHSs and/or RHUs to be consolidated and submitted for data entry, frequency of reporting data to the DOH Central Ofﬁce shall be on the ﬁrst seven calendar days of the succeeding month. Example: To report the March data, it must be entered and/or uploaded from April 1 to 7. 
+
+2. The NEC Shall identify and grant authorization access to reporting health facilities. 
+
+a. The NEC, in coordination with BLHD, CHDs and LGUs, shall identify the reporting health facilities that are capable to use the systems. 
+
+b. The NEC shall assign and issue user names and passwords to the health facilities, CHOs, PHOs, CHD ofﬁces, DOH Central Ofﬁces, and DOH Management. Only ' one (1) user name and password shall be given to each facility to closely monitor accountability and compliance to the system. 
+
+c. Heads of concerned ofﬁces shall disseminate the user names and passwords to their authorized personnel, and shall be held liable or accountable to any misuse or abuse in the use of the user names and passwords. 
+
+d. Passwords may be changed by the concerned ofﬁces but the user names are permanent and shall not be modiﬁed. 
+
+e. The NEC shall suspend, terminate or lift the users’ accounts for the OnlineSys and UploadSys if any provisions of the procedures or guidelines are violated, or the security, conﬁdentiality or integrity of the system or data is compromised. 
+
+3. The DOH Central Ofﬁce shall protect the integrity of the data and impose discipline in data reporting. Health facilities shall electronically send their monthly reports within the ” ﬁrst seven calendar days of the month, and shall ensure that all reported data are true and correct. After the cut-off period, all submitted data shall be considered as “OFFICIAL”. 
+
+a. Health facilities shall be allowed to correct the data using the system within the cut- off period, i. e. ﬁrst seven calendar days of the month 
+
+b. For correction of data after the cut- off period, health facilities shall ﬁll up an Online - Incident Report (Annex 6.0). 
+
+c. The NEC shall review and evaluate the report, and correct the data if necessary. 
+
+4. Provincial Health Ofﬁces and CHD ofﬁces shall undertake validation to check the quality of data (e.g. reliability, completeness, and timeliness) being submitted by the health facilities prior to ofﬁcial release of reports. 
+
+a. The PHOs and CHD ofﬁces may at any time access and view the data of their respective health facilities using their authorized accounts. Further, they can also generate the initial consolidated reports. 
+
+b. Immediately aﬁer the cut-off period of data reporting, the PHOs shall be given seven (7) calendar days to validate the data. After the PHOs have validated the data, the CHD ofﬁces shall be given two (2) working days to do their own validation.
+
+b1. PHOs Data Validation: 8th up to the 14th calendar day of the month after the cut- off period (See Figure 1.0 —- Sample Schedule).
+
+b2. CHDs Data Validation: After the 14th calendar day of the month, two (2) working days for CHD validation (See Figure 1.0 —- Sample Schedule). 
+<image>figure_1.png</image>
+ 
+5. The PHOs and CHOs can generate the required reports for their analysis after they have acknowledged that such data have been validated by them. Likewise, the NEC can also generate reports for their analysis at the national level. 
+
+a. After the data has been validated by the PHOs and CHD ofﬁces, the NEC shall generate the reports every 22nd day of the month. If the 22nd day of the month falls on a Saturday, reports shall be generated on the 24th day of the month; If the 22nd day of the month falls on a Sunday, reports shall be generated on the 231"d day of the month. See Figure l. O for the sample schedule. Saidday shall always be a working day of the month. ' 
+
+b. The NEC shall analyze the reports and provide written analysis on a'quarterly basis. 
+
+c. The NEC shall post the ofﬁcial reports which can be distributed or disseminated accordingly. Routine processed reports are posted in the DOH website, whereas a yearly-FHSIS Annual Report shall be published on hard copy and disseminated. 
+
+6. Health Managers, health facilities, and concerned ofﬁces with internet cOnnection shall View their respective data or reports. 
+
+a. The PHOs, CHD ofﬁces, health facilities, and DOH Central Ofﬁce may print or save the reports in excel, word, xml, .and csv formats for use in other statistical software or packages for in-depth analysis. 
+
+b. In case of non-availability of internet connection, a request for a copy of their data or reports may be submitted to NBC. The NEC shall review the request and promptly - act on it. 
+
+7. CHD Ofﬁces shall conduct monitoring activities to assess compliance of reporting _ health facilities, strengthen quality assurance, and monitor the performance of the system. Further, the NEC may conduct monitoring to conﬁrm or validate the reports if deemed necessary. 
+
+a. The NEC in coordination with the BLHD, CHD Ofﬁces and IMS shall create and maintain a harmonized standard system monitoring tool and reporting form to be used during monitoring. 
+
+b. Monitoring activities shall be done on a quarterly basis. 
+
+c. Factors to consider in selecting the health facilities to monitor are as follows: 
+
+i. Non-compliance in reporting data 
+ii. Irregular reporting of data 
+iii. Delayed reporting of data 
+iv. With deﬁciency ﬁndings as validated or assessed by the PHOS, CHDs, or NEC. 
+v. With verbal or written complaints reported or ﬁled by concerned ofﬁces, individuals, or other organizations. 
+vi. Other factors that may identiﬁed during system implementation. 
+
+d. The monitoring team shall be composed of NEC, BLHD, CHDs, and/or IMS. Concerned CHDs shall assign personnel to assist the monitoring team. 
+
+IX. ROLES AND RESPONSIBILITIES 
+
+1. Reporting Health Facilities 
+
+i. Designate personnel tasked to promptly enter and upload data to the DOH Central Ofﬁce. 
+ii. Ensure the validity and/or integrity of data to be entered or uploaded. 
+iii. Report erroneous data to NBC for correction or editing. 
+iv. Report problems that are encountered during system operations. 
+
+2. Provincial Health Ofﬁces 
+
+a. FHSIS Coordinators 
+
+i. Train the reporting health facilities on 'how to use or operate the system. 
+ii. Validate the provincial data to correct possible errors, redundancies or questionable entries, and ensure completeness, and timeliness of reporting. 
+
+ii-1. Conﬁrm the data by calling or communicating with the health facilities to further check the quality of data being reported. 
+ii-2. Ensure that a substitute or alternate person is available to validate the data in case the assigned person is on ﬁeld work or absent. 
+
+iii. Ensure availability of all data collection, processing, monitoring and reporting forms or tools in each reporting health facility. 
+iv. Orient and give continuing education or training on data collection, processing and utilization. - 
+v. Oversee data collection, electronic submission, processing, dissemination, and/or feedback reporting at all levels of the reporting hierarchies. 
+vi. Ensure the use of reports or information to ascertain that the reporting system works and is beneﬁcial to the users. - 
+
+b. Information Technology Administrators 
+
+i. Train the reporting health facilities on how to use or operate the system. 
+ii. Orient and give continuing education or training on data collection, processing and utilization, and other information and communication technology trainings. 
+iii. Extend support in system troubleshooting, software installation, database administration, network administration, software enhancement, and other information and communication technology works for FHSIS. 
+
+3. Center for Health Development Ofﬁces 
+
+a. FHSIS Coordinators 
+
+i. Train the reporting health facilities on 'how to use or operate the system. 
+ii. Validate the provincial data to correct possible errors, redundancies or questionable entries, and ensure completeness, and timeliness of reporting. 
+
+ii-1. Conﬁrm the data by calling or communicating with the health facilities to further check the quality of data being reported. 
+ii-2. Ensure that a substitute or alternate person is available to validate the data in case the assigned person is on ﬁeld work or absent. 
+
+iii. Ensure availability of all data collection, processing, monitoring and reporting forms or tools in each reporting health facility. 
+iv. Orient and give continuing education or training on data collection, processing and utilization. - 
+v. Oversee data collection, electronic submission, processing, dissemination, and/or feedback reporting at all levels of the reporting hierarchies. 
+vi. Ensure the use of reports or information to ascertain that the reporting system works and is beneﬁcial to the users. - 
+
+b. Information Technology Administrators 
+
+i. Train the reporting health facilities on how to use or operate the system. 
+ii. Orient and give continuing education or training on data collection, processing and utilization, and other information and communication technology trainings. 
+iii. Extend support in system troubleshooting, software installation, database administration, network administration, software enhancement, and other information and communication technology works for FHSIS. 
+
+
+c. PHTL/DOHReps 
+
+a. Assist in the monitoring and implementation of the system. 
+b. Advocate the use of the system. 
+c. Assist or facilitate in data collection and submission of reports. 
+d. Provide regular feedback or reports to the local government units. 
+e. Provide assistance in addressing FHSIS problems as needed. 
+f. Coordinate with F HSIS Coordinators and/or Information Technology Administrators on the implementation of the system 
+
+
+4. National Epidemiology Center. The NEC is the system owner and overall System Coordinator of FHSIS and shall be responsible for the following: 
+
+a. Train the reporting health facilities on how to use or operate the system. 
+b. Manage and administer the production database where all FHSIS data shall be stored (E. g. database backup and recovery, optimization, ﬁne tuning and others) 
+c. Manage and administer the network to ensure that the system is up 24/7, and in acceptable level of performance. 
+d. Update or upgrade the software. 
+e. Receive incident reports and appropriately correct the data. 
+f. Generate and analyze reports or information 
+g. Release or post ofﬁcial reports to the Uniﬁed Health Management Information System website and other designated sites.
+h. Formulate or update standards, i.e. reporting forms, standard policies, procedures, guidelines and others relative to the implementation of the system. 
+i. Review for suspension, termination or lifting of users’ accounts. 
+j. Manage all users” authorization access and rights. _ 
+k. Formulate and implement standards to protect the integrity of the system, security and conﬁdentiality of the data. 
+
+5. Information Management Service. Provide technical support in the following areas: 
+
+a. Train NEC and/or CHD Developers in updating or upgrading the software. 
+b. Manage and administer the backup database. 
+c. Train programmers, trainors, and other technical personnel in the use of the system. 
+d. Extend support in troubleshooting system related problems. 
+e. Monitor and evaluate system implementation. 
+
+X. REPEALING CLAUSE 
+
+Provisions from previous issuances that are inconsistent or contrary to the provisions of this Order are hereby rescinded and modiﬁed accordingly. 
+
+XI. SEPARABILITY 
+
+If any provision of this Order 1s declared invalid, the other provisions not affected thereby shall remain valid and subsisting. 
+
+XII. EFFECTIVITY 
+
+This order shall be effective immediately
+</body>
+
+<sign>ENRIQUE T. ONA, MD, FPCS, FAC</sign>
+<signtitle>Secretary of Health</signtitle>
+
+
+<image>figure_2.png</image>
+<image>figure_3.png</image>
+<image>figure_4.png</image>
+
+*Look at PDF File for the rest

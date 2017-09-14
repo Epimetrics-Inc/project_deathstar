@@ -1,0 +1,26 @@
+﻿
+Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>1/2/1984</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 78, s. 1984</docnum>
+<subject>Subject: Direct supervision by the Office of the Minister over the Rizal Medical Center and the Quirino Memorial General Hospital effective January 1, 1984 per Section 10, E.O. 851</subject>
+
+<body>
+	In accordance with the provisions of Section 10, Executive order No. 851 dated December 2, 1982, the following hospitals previously under Regional Health Office No. 4 are hereby placed under the direct supervision and control of the Office of the Minister:
+	1. Rizal Medical Center – Pasig, Metro Manila
+	2. Quirino Memorial General Hospital – Quezon City
+
+	Accordingly, technical, financial and administrative matters previously acted upon by Regional Health Office No. 4, shall be transacted with the Office of the Minister.
+	This Order takes effect January 1, 1984.
+By authority of the Minister of Health
+
+</body>
+<sign>ANTONIO N. ACOSTA, M.D.</sign>
+<signtitle>Acting Deputy Minister, Officer-in-charge</signtitle>

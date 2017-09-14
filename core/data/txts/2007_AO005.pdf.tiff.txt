@@ -1,0 +1,154 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila, Philippines 1003
+Tel. No. (632) 743-8601 locals 1107, 1125; (632) 711—9502/03;
+TeleFax: (632) 743-1829 268-2
+Email Address: osec@doh.govph Website: http://www.doh.gov.ph
+
+
+<date>01/15/2007</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2007-0005</docnum>
+
+<subject>SUBJECT: Standard Requirements and Procedures of Treatment of Drinking Water at Household Level Usinq 1.25% Sodium Hypochlorite, Na(HOCl)2</subject>
+
+
+<body>
+
+I. RATIONALE
+
+Access to water that is safe to drink is vital to human health and development. To date, 8.5 out of every 10 Filipinos have access to safe or improved water supplies. However, keeping water free from bacteria or pathogenic organisms at the point of consumption/use at the household level remains a problem. In urban areas, water quality generally meets sanitary requirements when it enters the distribution network, but the water becomes contaminated by the time it reaches the consumers. Leaks in the network allow for the infiltration and cross-contamination between the water supply and sanitation pipes. The availability of continued water supply service makes the water supply less reliable and dependable. Access to or inadequate supply of safe water is also a major problem when disasters struck as a result from either blockage of open wells or reduce flow of piped water systems due to damage to pipe, pumping installations, reservoirs, etc.
+
+A DOH study under the Urban Health Nutrition Project in 1995, revealed that water collected in a community water system, about three—quarters will be free of contamination both at source and in the household, moreover, if contaminated the density of contamination is greater in the household than at the source. Over 50% of the specimens collected from tubed, piped or improved dug well were free of contamination at the source, but were contaminated at the point of consumption and over 50% were heavily contaminated.
+
+Providing water free of pathogenic organisms is the goal for water supply. This should be a priority target especially during emergencies, no matter how difficult to achieve. This highlights the need for appropriate disinfections. All water supplies particularly those of doubtful water quality should be disinfected. This is aimed both at inactivating remaining bacteria before distribution and providing disinfectant to inactivate bacteria introduced by any subsequent ingress of contaminated water during storage, or distribution.
+
+Chlorine is, by far, the most commonly used disinfectant in the drinking water treatment. It is reasonable efficient, cheap and easy to handle. Chlorine is added to water as either in aqueous solution (calcium or sodium hypochlorite) or chlorine gas. Smaller supplies may use tablets of hypochlorite.
+
+In the year 2004, an outbreak of diarrheal disease consistent with cholera involved a total of 9,164 cases in the Province of Pangasinan. The cause of which was established to be secondary to the use of unsafe water and contaminated water fro drinking. One of the alternative solutions was to undertake a household water treatment and safe water storage (HWTS) system. The system involves a point-source treatment of drinking water using 1.25% sodium hypochlorite solution and the use of safe water storage. The HWTS was piloted in two areas affected by the diarrhea outbreaks and the study revealed that there has been a significant improvement in bacteriological quality of drinking water after the chorine treatment. The study also showed a high level of acceptability among household users for HWTS in the study area. No diarrhea cases were recorded in the two intervention sites during the study period. The project was implemented by Centerfor Health Development - llocos Region thru the assistance of World Health Organization.
+
+Poor drinking- water quality had long been established as the main cause of diarrheal outbreaks in the country. The cholera outbreak of 385 cases In Tondo, Manila in 2003 was caused by contaminated drinking water from city water supply system due to leaking pipes, use of booster pumps and illegal water pipe connections. Water was contaminated with wastewater and poor sanitation.
+
+The Department of Health based on its implementing rules and regulations of Chapter II —Water Supply of the Code on Sanitation of the Philippines (PD. 856) recognized the use of chlorine solution for household container disinfection as an approved method of treatment of drinking water. The method, which requires preparation of chlorine stock solution, is a cumbersome procedure to households and produces more wastage. Hence, the use of 1.25 0/0 Sodium Hypochlorite shall be another approved method to directly treat drinking water at the household level, The method shall be part of the Household Water Treatment and Safe Storage Program (HWTS) of the DOH.
+
+These strategies and program interventions shall be pursued in order to attain the goals and Objectives set by the National Objectives for Health and the Millennium Development Goals of ensuring access to safe and improved water sources, by 2010 and 2015, respectively.
+
+There is a huge return in terms of lives saved and disease reduction from adoption of simple technique for disinfecting water used for drinking and cooking. The treatment technique can be cheap and the impact of improving water quality is dramatic, household water treatment using 1.25% Sodium Hypochlorite and safe storage can produce huge health and economic benefits.
+
+Household water treatment using chlorine solution and safe storage however, does nothing to improve access to water, reliability of supply or quantities of water available to hygiene purposes. The government should continue to provide or improve safe drinking-water supply facilities or community water systems.
+
+II. OBJECTIVE
+
+To set standards and procedures on household-based disinfection of drinking water with 1.25% Sodium Hypochlorite Solution ( Na (HOCI)2)
+
+lll. SCOPE AND COVERAGE
+
+The guidelines shall serve as a guide/reference for public health managers, health workers, communities and families for appropriate treatment of drinking water to effectively control an outbreak of diarrheal diseases. The LGUs and the private sector shall be encouraged to adapt this policy.
+
+IV. DEFINITION OF TERMS
+
+1. Chlorination - the act of disinfection using chlorine.
+
+2. Disinfection - the process of eliminating or reducing to safe levels the number of potentially infectious microorganisms either by physical or chemical means.
+
+3. Filtration - a treatment process for removing solid (particulate) matter from water by means of porous media such as sand or man-made filters, often used to remove particles that containing pathogens.
+
+4. NTU — means nephelometric turbidity unit
+
+5. pH —- measures of hydrogen ion concentration; below 7 is acid, above is alkaline. It also refers to unit of measure how water reacts with substances or impurities.
+
+6. Raw water —— refers to water coming from a source that is subject for treatment.
+
+7. Turbidity — is a measure of the water’s ability to scatter and absorb light. It also means a cloudy condition in water due to suspended silt or organic matter.
+
+GUIDELINES AND PROCEDURES
+
+A. Requirements for Water treatment
+
+1. Quality of Raw Water
+
+Chlorine solution works best if raw water is clear and free of suspended or floating materials. The water could be collected or sourced from any water sources primarily those from un-improved or doubtful sources (eg. open wells, springs, rivers, lakes) or shallow pump wells. Untreated water from communal faucet or waterworks system can also be treated by the chlorine solution.
+
+When raw water is turbid, households should clarify water by settling and/or filtration before treating with chlorine. If these are not available or not commonly practiced, contaminated turbid water should be treated with a double dose of sodium hypochlorite solution. Water with a turbidity of less than 5 NTU is usually acceptable, however, for effective disinfection turbidity should be 0.1 NTU. High levels of turbidity can protect microorganisms from the effects of disinfection, stimulate the growth of bacteria and give rise to a significant chlorine demand. It is a must that highly turbid water should be initially treated by filtration before chlorination.
+
+2. Water Container
+
+The water container should preferably have at least a volume of 5 gallons (20 liters) with lid cover and a faucet. It should be cleaned and washed with cleansing solution or soap and water before every refilling including the lid cover and faucet. The faucet must be covered with clean plastic wrap or cloth when not in used to prevent from possible contamination from flies or other insects.
+
+When smaller or bigger containers are used the chlorine dose should correspondingly be adjusted.
+
+3. On 1.25% Sodium Hypochlorite (Na(HOCl)2)
+
+Sodium hypochlorite (1.25% volume/volume solution) is clear green-yellow liquid chlorinated bleach. It is an alkaline chemical (pH &gt; = 11.5), which is lower in concentration than the usual household bleach (&lt;5% volume/volume solution). Higher concentrations are used for industrial purposes. The chlorite ion is formed by the reaction of chlorine dioxide with water, which is an effective disinfectant in killing bacteria and microorganisms in treatment water facilities. Sodium hypochlorite is less effective in highly turbid water and in pathogens like amoeba.
+
+Sodium hypochlorite at 1.25% concentration is mild to moderate irritant. It causes eye and skin irritation, however, since the solution is so dilute that it generally causes no symptoms when it touches skin or the eye.
+
+B. Water Treatment Procedures
+
+1. Fill the container with water. Allow a small air space to facilitate mixture of chlorine solution and water.
+
+2. Add 3.5 ml (approximately 3/4 teaspoon) of 1.25% Na(HOCI)2 to 20 liters of water.
+
+Ideally, the hypochlorite solution is packaged in a bottle with a 3.5 ml measuring lid or cap that can be used for closing. The amount of the chlorine solution should be proportioned to volume of water to be treated in case a 20-Iiter container is not available.
+
+3. Put back the container lid. Be sure the lid is properly placed.
+
+4. Shake the container to allow mixing. Let the water to stand for at  least 30 minutes before using the treated drinking water. The smell of chlorine will indicate the water is properly treated while it will slowly weaken as water is kept longer on storage.
+
+Use the container’s faucet when taking treated drinking water. Use clean glass or small container when getting treated water. Cover the faucet with plastic wrap or cloth when not in used.
+
+VI. IMPLEMENTING MECHANISMS
+
+A. Program Strategies
+
+1. Small Pilot Demonstration
+
+Small pilot demonstration projects will be conducted in areas with high incidence of diarrheal cases and with low coverage of households with safe water to determine the effectiveness and social acceptability of the 1.25% Sodium Hypochlorite. The Central Office will jointly implement the projects with CHDs and concerned LGUs.
+
+2. Health Education and Promotion
+
+Health education and promotion on the prevention of diarrheal diseases thru the proper use of chlorine solution shall be part of the program. Strategies for health education and promotion can be in form of social mobilization, interpersonal communication and use of mass media.
+
+3. Private — Public Sector Collaboration
+
+Local manufacturers of chlorine solution will be encouraged to make their products available in the market at a reasonable cost.
+
+4. Capacity Building
+
+Training on the guidelines shall be made available to field personnel.
+
+5. Provision of 1.25 % Sodium Hypochlorite
+
+Procurement of 1.25% Sodium Hypochlorite shall be done by DOH for distribution to the affected communities particularly during emergencies.
+
+B. Roles and Responsibilities
+
+1. Local Government Units (LGU)
+
+LGUs (provincial/city/municipal) will take the lead in the implementation of this A0. in partnership with the DOH. The LGUs can tap the barangay officials or health workers to train the residents on the proper use of the 1.25% Na(HOC|)2 solution in accordance to this AD.
+
+2. DOH
+
+The National Center for Disease Prevention and Control (NCDPC) thru the Environmental and Occupational Health Office (EOHO) shall provide technical assistance on the use of the solution and develop strategies to scale up the implementation of HWTS program. The Center should encourage private sector to invest on the local production of the solution to make it easily available in the market.
+
+The Centers for Health Development shall monitor LGUs on the implementation of this A.O. They shall provide necessary technical and logistic assistance to the LGUs.
+
+The National Center for Health Promotion shall develop a national campaign for the HWTS. Necessary IEC materials should be developed including health advisories.
+
+VII. MONITORING AND EVALUATION
+
+The NCDPC and CHDs shall conduct simple random sampling study every year in areas using the 1.25% Sodium hypochlorite to determine the factors that influence the effectiveness of the technology including its social impact.
+
+VIII. REPEALING CLAUSE
+
+The provisions of previous Orders and other related issuances inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modified, repealed or rescinded accordingly. All other provisions of existing issuances, which are not affected by this Order, shall remain valid and effect.
+
+IX. EFFECTIVITY
+
+This Order shall take effect immediately.
+
+ 
+</body>
+<sign>FRANCISCO T. DUQUE III, MD, MSc.</sign>
+<signtitle>Secretary of Health</signtitle>

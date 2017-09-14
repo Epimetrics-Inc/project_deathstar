@@ -1,0 +1,55 @@
+﻿Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+<date>28/7/1987</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 23-A s. 1987</docnum>
+<subject>SUBJECT: GUIDELINES IN THE USE OF THE ROUTING SLIP.</subject>
+
+ 
+<body>
+To monitor the flow of official transactions conducted in the
+Department Proper, a Routing Slip shall be used on all official transactions requiring action in the Department Proper.
+
+The following shall serve as guidelines for the use of the
+Routing Slip:
+
+1. For transactions initiated in the Department Proper, the unit initiating the transaction shall attach the Routing Slip to the document and accomplish applicable portion thereof.
+
+2. For transactions initiated from outside the Department Proper, the unit which first receives the document“ shall attach the Routing Slip and accomplish applicable portion thereof.
+
+3. The terms used in the Routing Slip are defined as follows:
+
+3.1 Office of Origin — The unit/office which attaches the Routing Slip.
+
+3.2 Nature — The type of transaction e.g. Voucher, Appointment, RIV, Purchase Order, Complaints, etc.
+
+3.3 In favor of - The name of the claimant, awardee, appointee, complainant which could be a person, unit or company.
+
+3.4 Prepared by — The personnel providing information described by 3.1 to 3.3 and 3.6.
+
+
+3.5 Date — The date of preparation,
+
+3.6 Supporting Documents — Papers attached upon preparation;
+Additional documents that may be attached by any unit acting on the transaction shall be properly noted.in the Remarks column, e.g. "ROA attached". The unit receiving the documents at any point in the flow shall check the completeness of documents .cited as attached_. The sending unit shall be immediately notified of any incompleteness; otherwise, attachments are considered complete.
+
+3.7 Remarks - Comments, incomplete documentation or any other cause of inaction e. g. ”No action taken due to lack of DTR”. Actions like indexed, signed, etc. need not be recorded in this column.
+
+The above definitions should be printed at the back of the Routing Slip for easy reference.
+
+4. It shall be the responsibility of the Unit Head to identify appropriate personnel who should sign on the Received and Released columns of the Routing Slip.
+
+5. No unit or personnel shall act on transaction not duly accompanied by a Routing Slip.
+
+6. Upon completion of transaction, the Routing Slip shall be attached to the copy of the document filed with the appropriate unit/office in the Department Proper
+
+For strict compliance and immediate implementation.
+
+ 
+
+</body>
+<sign>ALFREDO R. A. BENGZON, M.D.</sign>
+<signtitle>Secretary of Health</signtitle>

@@ -1,0 +1,323 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound
+Rizal Avenue, Sta. Cruz
+Manila, Philippines
+Tel No. 711-95-02, 711-95-03
+Fax 743-18-29  
+
+<date>03/04/1998</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 9-A s. 1998</docnum>
+
+<subject>SUBJECT: Guidelines on Safe Handling and Correct Application of Insecticides for Fogging During Dengue Epidemics</subject>
+
+<body>
+
+I INTRODUCTION
+
+The removal of the mosquito vector breeding sources through community wide and community participated cleanliness and sanitation programs is still considered as the most effective method of control for Dengue Fever and Dengue Hemorrhagic Fever. The use of chemicals (insecticide) has temporary effect and is an expensive way of controlling mosquito vectors.
+
+Community space spraying (fogging or Ultra Low Volume) of insecticides in the community is recommended only during outbreaks / epidemics and shall be carried out only under the supervision of a licensed or accredited pest control applicator as stated in Section 7.9 and 7.10 of the Implementing Rules and Regulations of Chapter XVI -"Vermin Control” or the Code of Sanitation of the Philippines (P.D. 856).In places where there are no available accredited pest control operators and in emergency cases it should be carried out only by a trained and knowledgeable pesticide applicator, authorized by the appropriate public health officer. The vital participation of community leaders and homeowners is a must. Indiscriminate and improper uses of insecticides often result in chemical-related accident among general public, applicators and the environment hence all precautionary measures should be observed before, during and after fogging operations.
+
+
+II. OBJECTIVE
+
+To set guidelines and procedures on safe handling and correct application of insecticides for dengue vector control during epidemics. 
+
+
+III. GENERAL CONSIDERATIONS
+
+A. On insecticides
+
+The following must be considered when choosing the insecticides for dengue vector control: 
+
+1. Toxicity and its safety to humans and environment. Use only public health grade insecticides duly registered with Fertilizer and Pesticide Authority and recommended for space spraying (fogging/ULV) 
+
+2. Effectiveness against the vector
+
+3. Cost of insecticide
+
+4. Residual odor of insecticide
+
+Organic insecticide groups that can be used for Dengue Vector control
+
+1. Pyrethroids
+These are synthetic compounds. The chemical structure is patterned after pyrethrins (extracted from the Chrysanthemum flower) which is a mixture of six esters. Generally, pyrethroids show low mammalian toxicity, but they have high biological activity against insects. Examples: Permethrin, Deltamethrin, Cyfluthrin
+
+2 Organophosphorous (OP)
+These comprise a large group of compounds and have two characteristics: generally acutely toxic to man and vertebrate animals and they are non persistent or have a short residual activity. OPs are nerve -poisons, acting through inhibition of the cholinesterase enzyme. Examples: Malathion, Pirimiphos methyl, Fefrnithrothion
+
+B. On Method of Chemical Application
+
+There are three methods of applying insecticides namely: (i) space spraying or space treatment, (ii) residual spraying or surface treatment and (iii) fumigation. Among the three methods, space spraying or space treatment is the recommended method and this is popularly known as "fogging”. This method is employed using a fogging, ULV, or misting machine. Liquid insecticides are broken down into minute droplets less than 5-100 microns so that it may be dispersed into the atmosphere. As a result the air is filled with a cloud of small droplets which will impact on flying insects as they ﬂy through the cloud or contact insects resting on surfaces. This method is the most effective for killing adult dengue mosquito e.g. Ae. aegypti and Ae. albopictus. Space treatment should not be confused with residual spraying and fumigation.
+
+
+Annex 1 - Insecticides For Space Spraying (Fogging / ULV) Currently In-Use and Available in the Market, Dec. 1997
+
+C. On Space Spray Equipment 
+
+The following must be considered when acquiring equipment for Dengue vector control:
+
+1. Size of the area to be treated
+(machine requirement = 1 machine : 1,400 hectares) 
+
+2. Machine weight (efficiency of the operator) and horsepower (at least 24 horsepower)
+
+3. Cost of the equipment
+
+4. Availability of spare parts and maintenance service from reputable dealer/distributor
+
+5. Safety of operation
+
+6. Size of particles emitted by the machine (optimal droplet size for the control of adult mosquito is in the range of 10-25 microns)
+
+7. Availability of trained staff
+
+Common Types of Space Spray Equipment
+
+1. Thermal fogging machine
+With the use of thermal foggers, hot gas is generated at high velocity such that a dense cloud of white smoke will definitely be seen if diesel or oil-based formulations are used. Water based formulations will produce a fine mist. The average aerosol droplets would be 15 microns in diameter. 
+
+<image>table_1.png</image>
+
+2. Cold fogging or ULV (ultra low volume) machine
+The droplets produced in ULV applications look like morning dew, and the size would be in the range of 10 to 25 microns in diameter depending on the type of machine.
+
+<image>table_2.png</image> 
+
+Space Spray Equipment can also be classified as : (a) hand-held and (b) vehicle mounted. In local Dengue Control Operations, hand-held equipment is preferred rather than vehicle-mounted machine for the following reasons: (i) Hand-held fogger/sprayer can reach even the narrowest area, inside houses or buildings where adult mosquitoes are resting/breeding/flying;(ii) in places where roads are not accessible and houses are thickly dense, hand held machines can be carried on foot; and (iii) it is generally much cheaper.
+
+Some fogging machines can be used only for oil—based solutions. However, there are machines that can be used for both water-based and oil—based solutions with or without the need to change some parts as appropriate. In general, ULV machine use water - based solutions. However, it is safest to always refer to the machine manual for proper guidance.
+
+
+IV. PROCEDURES
+
+A. Calculation of Solution
+
+1. Preparation of space spray (fogging/ulv) solution using any commercial concentration
+
+General Formula: X =(A/B)-1
+X = Parts of diesel or water (diluent) to be added to 1 part insecticide
+A = Commercial concentration of insecticide
+B = Required concentration of the final formulation (dilution rate)
+
+Example: A 1% solution of Permethrin is to be prepared from 17% commercial concentrate and to be used in hand carried thermal fogger.
+X = (17/1)-1 = 16
+
+Therefore 16 parts of diesel to 1 part of insecticide concentrate are required or 16 liters of diesel or water to 1 liter of insecticide concentrate. The total liquid volume should be minimized to reduce weight carried by the operator.
+
+2. Amount of diluted quantity needed
+
+2.1. For indoor
+
+Diluted quantity (li) = Space volume X recommended application rate
+
+Example: Determine the amount of diluted spray solution for 100 houses given that the approximate total space volume(LxWxH) of 100 houses is 40,000 cu.m.
+
+Recommended application rate for Permethrin 17% is 1 liter diluted solution to cover 2,000 cu.m. space
+<image>figure_1.png</image>
+
+or
+
+Computing for individual houses at recommended application rate of 0.2 li/house.
+<image>figure_2.png</image>
+
+* Based on manufacturer label’s recommendation
+
+2.2. For Outdoor
+
+Diluted quantity (li) = Area (ha) X recommended application rate
+
+Example: Determine the amount of diluted spraying solution for 1.5 ha. given that the recommended application rate for Permetrhin 17% is 10 li/ha.
+<image>figure_3.png</image>
+
+3. Amount of insecticide concentrate needed
+
+Concentrate quantity (li)= Amount of diluted solution X recommended dilution rate(%)*
+
+Example: Determine concentrate quantity for outdoor spraying for 1.5 ha requiring diluted quantity of 15 li.
+
+Concentrate quantity (li) = 15 li X 1% = 0.15 li
+
+* dilution rate should be based on manufacturer label‘s recommendation
+
+8. Mixing and loading of insecticide
+
+Materials/supplies needed: 20 li.-mixing-container; funnel with filter; mixing rod rubber gloves
+
+1. Read label carefully and follow exactly the stated directions and precautions
+
+2. Mix insecticides in a well ventilated area preferably outdoors
+
+3. Stand with the wind blowing from behind when mixing insecticides
+
+4. Mix fogging solution in separate container. Stir very well before pouring into the machine and use funnel with filter
+
+5. Do not overfill solution tank, to avoid splashes
+
+6. Make sure that the spray solution does not leak; check all joints regularly
+
+7. Washing facilities must be accessible so that spills can be quickly washed
+
+C. Actual fogging
+
+For Indoor
+1. Wear adequate protective clothing. Do not wear unwashed protective clothing (see Annex 2- Protective Clothing/Gadgets for Dengue Vector Control Personnel)
+
+2. Select an appropriate and odorless diluent (diesel or water)
+
+3. An assistant should always be present during application
+
+4. Open doors and all possible hiding places of mosquitoes for easy penetration of aerosol/smoke
+
+5. Start fogging at the remotest corner of the room opposite the open door. In high buildings (with several floors), start treating on the top floor
+
+6. Apply not more than 2lii. spraying mixture per 1000 cu.m. to avoid over saturation of the air space
+
+7. Never direct equipment which is in operation towards easily flammable objects (e.g. cartons, paper, curtain). Observe a minimum distance of 3 m. from side objects
+
+8. If for some reason the machine stops working (e.g. lack of fuel), shut Insecticide and fuel control valve and leave the treated rooms immediately. Switch on the equipment outside before going back to the room. Never switch on a machine within a room which is filled with insecticide fog. This may cause explosion.
+
+9. Close the treated rooms at least one half (1/2) hour, after the treatment to obtain optimal distribution of the spray cloud. Never allow any body to enter the treated area except in extreme emergency and then only with adequate respiratory protection.
+
+For Outdoor
+1. Carry out fogging only at early morning (6:30-8:30AM) and late afternoon (4-8 PM) and when the wind speed is 0-13 km/hr. Never spray or fog
+during rains. Do not apply insecticide during the hottest period of the day.
+
+RIGHT WEATHER CONDITION
+<image>table_1.png</image>
+*Modified from: WHO Guidelines for Dengue Surveillance and Mosquito Control
+
+2. Carefully study street maps of the area
+
+3. Conduct the application at least 300 m. radius from the house where Dengue cases are located
+
+4. Spray from downwind to upwind going against the direction of the wind (see Annex 3 - Suggested Route for Space Spray Operation)
+
+5. Direct the fog at all possible mosquito resting sites, on hedges, covered drains, bushes, and tree shaded areas
+
+D. Post Fogging
+
+1. Decontamination and proper disposal of insecticide container
+
+a. Decontaminate used containers by rinsing two or three times with water
+b. Dispose by burying it away from water supply
+c. Never re-use insecticide containers for any purpose
+d. Do not throw containers or left over chemicals in gullies, streams or trash heaps
+
+2. Follow-up with second treatment after 7-10 days
+
+
+V. IMPLEMENTING MECHANISM
+
+A. Roles and Responsibilities
+
+1 For LGU and Community Leaders
+
+LGUs will take lead partnership with the DOH In the implementation of the A.O. and they will provide funding and logistic support for emergency control program. The cooperation and participation of the community are vital for the success of the dengue vector control operations. The following activities must be undertaken by the community leaders: Arrange a clean-up campaign before the treatment. Focus on the elimination of Aedes breeding habitats in and around houses; announce schedule and site of fogging operation and; institute and support Health Education activities
+
+2. For Homeowners/Residents
+
+* Extinguish all open ﬁres e.g. candles, gas lamps, LPG's
+
+* Turn off all air-conditioning units and water sprinkler/smoke detector
+
+* Cover aquariums and food stuffs 
+
+* Keep children and domestic animals away from the activity
+
+* Stay out of the house
+
+3. For Fogging / Spraying Team 
+
+* Prepare a plan in detail
+
+*Inspect the area to be fogged and study the building map or street map
+
+* Notify the Fire brigade, every tenants/residents and inform them of time and day of application
+
+* Get authority from the Local leaders and Health officials
+
+* Do not eat, drink, and smoke during preparation of mixture and application
+
+* Do not smell or inhale insecticides
+
+* Exposure to spraying normally should not exceed five hours a day
+
+* Keep all unconcerned people away from where the insecticides are being mixed
+
+* Prepare only enough insecticide mixture for each application. Insecticides concentrates may be subdivided to smaller suitable containers for mixing in the ﬁeld. Never use leaky container
+
+* All smaller containers should be secured and packed to withstand transport
+
+* Do not put insecticides in the compartment where office supplies or foods are placed
+
+* Ensure access to a fire extinguisher
+
+* Know the first aid measures and antidotes for the insecticides being used (refer to Annex 4)
+
+4. DOH concerned units
+
+* Communicable Disease Control Service as the lead service on National Dengue Prevention and Control Program will provide technical and consultative assistance, training and orientation necessary for the implementation of the Administrative Order in coordination with the Regional Health-Office to provincial, city, municipal and other ﬁeld health personnel. It may also assist and participate in Emergency Mosquito Control activities if deemed necessary.
+
+* Malaria Control Service will also provide technical and consultative expertise in mosquito control. Manpower and equipment requirement can also be coordinated with MCS for utilization.
+
+* Environmental Health Service will provide technical expertise in environmental management. It may also-participate in Emergency Mosquito Control and sanitation activities if deemed necesary.
+
+VI. EFFECTIVITY
+
+These Guidelines on Safe Handling and Correct Application of Insecticides for Fogging during Dengue Epidemics shall take effect immediately.
+
+</body> 
+<sign>CARMENCITA NORIEGA REODICA, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+ANNEX 1 : INSECTICIDES FOR SPACE SPRAYING (FOGGING/ULV) CURRENTLY IN-USE AND AVAILABLE IN THE MARKET, DEC. 1997
+<image>table_5.png</image>
+ 
+Note: Mention of commercial products does not constitute endorsement or recommendation by the Department of Health in preference to others of similar nature that are not mentioned. Neither does it imply Fertilizer and Pesticide Authority registration.
+
+
+ANNEX 2: PROTECTIVE CLOTHING/GADGETS FOR DENGUE VECTOR CONTROL PERSONNEL
+<image>table_6.png</image>
+Modified from : WHO 1984, Chemical Methods for the Control of Arthropod Vectors and Pests of Public Health Importance
+
+
+Annex 3 : SUGGESTED ROUTE FOR SPACE SPRAY (FOGGING/ULV) OPERATION
+(Adapted from WHO, Guidelines for Dengue Surveillance and Mosquito Control, 1995)
+<image>figure_4.png</image>
+
+
+Annex 4 : FIRST AID MEASURES AND ANTIDOTES FOR THE INSECTICIDES
+
+A. SYMPTOMS OF INSECTICIDE POISONING
+
+1. PYRETHROIDS e,g. Permethrin, Deltamethrin, Cyfluthrin
+These insecticides have very low mammalian toxicity and pose no serious hazard unless taken above 15 gm. Effective dosages of pyrethroids for vector control are much lower compared with other major groups of insecticides. Although pyrethroids may be absorbed by ingestion, significant skin penetration is unlikely. Some pyrethroids, such as deltamethrin and lamda-cyhalothrin can cause eye and skin irritation if inadequate precautions are taken. No cases of accidental poisoning from pyrethroids have been reported in humans.
+
+ 
+
+2. ORGANOPHOSPHATES e.g. Pirimiphos methyl, malathion
+Early symptoms include nausea, headache, excessive sweating, blurred vision, lacrimation (tears from eyes), giddines, hyper salivation, muscular weakness, excessive bronchial secretion, vomiting, stomach pains, slurred speech and muscular twitching. Later advanced symptoms may include diarrhea, convulsions, coma, loss of reflexes, and loss of sphincter control.
+
+3. FIRST AID MEASURES AND ANTIDOTES
+
+The following course of action must be taken in case of poisoning:
+1. Move the patient away from the source of contamination. Loosen his clothing to ease breathing.
+2. Remove contaminated clothing immediately
+3. Check to determine if the patient is breathing: If not, practice artificial respiration, while taking care not to contaminate yourself.
+4. If an insecticide is splashed into the eyes, immediately wash them with clean running water for at least 15 min.
+5. Eliminate the poison: 
+a. If the insecticide is dissolved in water emulsion, induce vomiting by finger or spoon down the throat
+b. If an insecticide is dissolved in a petroleum product have doctor or nurse perform gastric lavage
+c. Administer a laxative such as Epsom salt or milk of magnesia in water to eliminate
+insecticide from alimentary tract For Kerosene-based insecticide take 8 beaten egg albumin
+* Never give anything by mouth to an unconscious person
+d. Administer an antidote where possible.
+-If the insecticide is an organophosphorous, use atropine sulfate or 2-PAM chloride (Pralidoxime chloride) intravenously as an antidote (1 gm for adult; 0.25 gm for infant)
+-If the pesticide is not known, give activated charcoal (3 tbsps of fine powder in a half glass of water) which can absorb almost all kinds of poisons except cyanide. Activated charcoal is available at medical supply and drugstore
+
+6. Transport to the nearest hospital and obtain medical attention and bring the product label

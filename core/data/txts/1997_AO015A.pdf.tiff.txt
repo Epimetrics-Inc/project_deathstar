@@ -1,0 +1,211 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound
+Rizal Avenue, Sta. Cruz
+Manila, Philippines
+Tel No. 711-95-02, 711-95-03
+Fax 743-18-29  
+
+<date>08/15/1997</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 15-A, s. 1997</docnum>
+
+<subject>SUBJECT: Revised Guidelines on Management of Animal Bite Patients</subject>
+
+<body> 
+
+RATIONALE: 
+
+In view of the 100% case fatality rate of human rabies, the prevention of rabies infection after exposure is of utmost importance. The Department of Health, having committed itself to the prevention of human deaths due to rabies, provides post-exposure treatment (PET) to high risk animal bite patients.
+
+To ensure uniformity in the management of animal bite patients, government doctors at all levels as well as private practitioners in the country are hereby advised to follow these Guidelines.
+
+
+1. GENERAL CONSIDERATIONS
+
+1.1 Factors that should be considered in deciding whether or not to initiate post-exposure treatment are:
+
+a. nature of bite exposure (Please see Annex A) 
+b. presence of animal rabies 111 the area where the bite exposure occurred
+c. vaccination/clinical status of the animal involved
+d. availability of biting animal for observation; and
+e. availability of results of laboratory examination
+
+1.2 An apparently healthy dog or cat that bites a person may or may not justify the initiation of post—exposure treatment depending on the risk of exposure. 
+
+a. If the animal involved is known to be rabid, initiation of treatment should not wait for the results of laboratory examination. Rabid biting animal should be sacrificed as soon as possible and the head should be sent to the Animal Disease Diagnostic Laboratory (ADDL) for rabies diagnosis. A laboratory report indicating a negative result justifies cessation of treatment.
+
+b. Apparently healthy biting animals (dog/cat) should be kept under observation for  fourteen (14) days. Category II and III patients may start treatment and may be discontinued if the dog or cat remains to be healthy within the observation period.
+
+1.3 Persons who present themselves for treatment even months or years after having been bitten should be evaluated in the same manner as if the bite exposure occurred recently.
+
+1.4 Local wound treatment should be practiced in all types of exposure.
+
+1.5 The combination of local wound treatment with active and passive immunization is recommended for all high risk bite patients (Category III ).
+
+1.6 Pregnancy and infancy are not contraindications for PET.
+
+1.7 Tissue culture vaccines of different brands for active vaccination maybe used interchangeably, depending on the availability of said vaccine.
+
+
+2. POST-EXPOSURE TREATMENT
+
+2.1 LOCAL WOUND TREATMENT
+
+2.1.1 Wounds should be immediately and thoroughly washed with soap and water, preferably for 10 minutes.
+
+2.1.2 If possible, suturing of wounds should be avoided; however, if suturing is necessary, anti—rabies immunoglobulin should be infiltrated around the wound.
+
+2.1.3 Antitetanus immunization and antimicrobials maybe given, if indicated.
+
+2.2 ACTIVE IMMUNIZATION
+
+VACCINE ADMINISTRATION
+
+2.2.1 INTRAMUSCULAR SCHEDULE
+
+2-1-1 REGIMEN (0-7-21)
+
+1. Two (2) doses are given on Day 0. One dose is given in the right arm and the other dose in the left arm. The remaining 2 doses are administered on days 7 and 21.
+
+Day 0) 	- 2 doses IM
+Day 1) 	— 1 dose IM
+Day 21)	- 1 dose IM
+
+2. This schedule induces an early antibody response; however, it should be used in combination with rabies immunoglobulin for Category III exposure.
+
+3. This regimen should be used in health facilities where only one (1) or less high risk animal bite patient is seen per day.
+
+4. The schedule of treatment regimen should be strictly followed to prevent treatment failures.
+
+2.2.2. INTRADERMAL SCHEDULE
+
+2-SITE INTRADERMAL METHOD (2—2—2—0-1-1) '
+
+A. USING VEROCELL (0.5 ml. preparation)
+
+1. One dose of 0.1 ml. should be given at each of two sites, left and right forearm or the upper arm on Days 0, 3 and 7 and one dose of 0.1 ml. at one site of either arm on Days 30 and 90.
+
+<image>table_1.png</image>
+
+2. Use one (1) ml syringe (preferably insulin syringe) with Gauge 25 or 26 needle for intradermal injection.
+
+3. Vaccine should be stored between 4°C and 8°C and after reconstitution, should be used within 8 hours, particularly for those without preservative. 
+
+4. This regimen should be used in health facilities where health workers have undergone skills training on Intradermal Administration of Vaccine and where two (2) or more high risk bite patients are seen per day.
+
+5. The schedule of treatment regimen should be strictly followed to prevent treatment failures.
+
+B. USING PURIFIED DUCK EMBRYO VACCINE (1.0 ml. preparation)
+
+Follow the same schedule and procedure as in Verocell, but instead of 0.1 ml. use 0.2 ml.
+
+2.3 PASSIVE IMMUNIZATION
+
+ADMINISTRATION OF RABIES IMMUNOGLOBULIN (RIG) 
+
+2.3.1 Two kinds of rabies immunoglobulin preparation may be used:
+
+a. Human Rabies Immunoglobulin (HRIG) at 20 IU/kg body weight (150 IU/ml).
+
+b. Equine Rabies Immunoglobulin (ERIG) at 40 III/kg body weight (200 IU/ml).
+
+2.3.2 Rabies immunoglobulin (RIG) should be given as a single dose for all Category III exposure.
+
+2.3.3 If anatomically feasible, RIG should be infiltrated around and into the wound, even if the lesion has begun to heal. Any remaining RIG should be administered IM at the site distant from the site of vaccine injection.
+
+2.3.4 RIG should be administered at the same time as the first dose of vaccine. However, if RIG Is unavailable when the first dose of vaccine is given, it may be given up to Day 7. 
+
+2.3.5 The RIG should not exceed the calculated dose as it may reduce the efficacy of the vaccine. If the calculated dose of RIG is insufficient to infiltrate bite wounds, it may be diluted with sterile saline 2 or 3 fold for thorough infiltration. 
+
+2.3.6 A skin test must be performed prior to ERIG administration. However, hypersensitivity to ERIG may not be predicted by skin test. Always be ready with adrenaline and antihistamines for treatment of hypersensiitivity reactions.
+
+
+3. POST-EXPOSURE TREATMENT OF PREVIOUSLY VACCINATED PERSONS
+
+3.1 Local treatment of wounds should always be carried out. 
+
+3.2 Persons who have previously received complete pre-exposure prophylaxis or post-exposure treatment with tissue culture vaccine should be vaccinated as follows:
+
+
+If Post-Exposure Treatment (PET) was previously given at:
+
+a) less than 6 months 		: no booster dose 1
+b) 6 months - 1 year 		: one booster dose (D0) 
+c) more than 1 year - 3 years	: two booster doses (D0D3)
+d) more than 3 years 		: another full course of active immunization.
+
+Booster doses may be given intramuscularly ( 0.5 ml. for Verocell or 1.0 ml. for duck embryo vaccine ) or intradermally ( 0.1 ml. for Verocell or 0.2 ml. for duck embryo vaccine). There is no need to give rabies immunoglobulin (RIG).
+
+3.3 Persons who have previously received full PET with nerve tissue vaccine should be given a full course of immunization, including RIG, if indicated.
+
+
+4. PRE—EXPOSURE PROPHYLAXIS
+
+4.1 This is recommended for veterinarians, laboratory staff working with rabies infected materials of tissues and animal handlers.
+
+4.2 Initial pre-exposure prophylaxis consists of giving three doses of tissue culture vaccine on Days 0, 7 and 21. The dose is 1.0 ml. for duck embryo or 0.5 ml. for  verocell vaccine given intramuscularly (IM) or 0.1 ml. intradermally (ID) for all vaccine types. For succeeding pre-exposure vaccination, one booster dose should be given every two or three years depending on risk of work exposure.
+
+
+5. PROGRAM POLICIES
+
+5.1 VACCINE ALLOCATION AND DISTRIBUTION 
+
+5.1.1 All Regional Health Offices shall be given their vaccine allocation every quarter, subject to availability of vaccines.
+
+5.1.2 Distribution of vaccines to the Provincial/City. Health Office shall be the  responsibility of the Regional Health Office through the Regional Health  Director and the Rabies Control Program Coordinator. 
+
+5.1.3 The Provincial Rabies Control Coordinator shall distribute the vaccines to established referral Animal Bite Centers at the province or any designated  strategic center. 
+
+5.2 DISPENSING OF HUMAN ANTI-RABIES IMMUNIZING GENTS
+
+5.2.1 Patients needing post—exposure treatment shall be referred to the Animal BiteCenter where free human anti-rabies immunizing agents (vaccines and RIG) are administered.
+
+5.2.2 The following procedures shall be observed when assessing animal bite patients and dispensing anti-rabies immunizing agents (vaccine and RIG):
+
+a. Assess the victim thoroughly and record inthe Municipal/City/Hospital Rabies Surveillance Form (facility-based form).
+
+b. Decide whether or not to initiate treatment using the Guide for Rabies Post-Exposure Treatment as reference. 
+
+c. If the situation warrants an immunization (Category II and Category III) the patient shall be provided the initial 2 doses of tissue culture vaccine for  the 2-1-1 schedule. Succeeding doses shall be the responsibility of the patient. However, if intradermal regimen is used, complete course of active immunization is given for free.
+
+d. If indicated, the patient shall be provided the required dose of rabies immunoglobulin (RIG), if available. BRIG is preferably the first RIG of choice. 
+
+e. Explain your decision to the patient with particular emphasis on adherence to treatment schedules, if immunization is indicated.
+
+f. Observe courtesy and tactfulness when dealing with patients particularly among individuals who need not be immunized.
+
+g. Give advice on the practice of Responsible Pet Ownership.
+
+5.3 PROVISION OF FREE ANTI-RABIES IMMUNIZING AGENTS
+
+5.3.1 Dispensing free anti-rabies immunizing agents shall be the sole responsibility of government health agencies
+
+5.3.2 Category III patients who do not have the capacity to buy the succeeding  vaccine doses shall be provided the vaccine requirement for free, if available.
+
+5.3.3 Only animal bite patients who have been properly assessed and are physically present can avail of the vaccine. No vaccine shall be given to non-patients. 
+
+5.3.4 The following shall be the program’s order of priority for free vaccine assistance:
+
+a. Patients bitten by animals found to be positive for “negri bodies” regardless of type of bite exposure. 
+
+b. Patients with Category III exposure. 
+
+c. Individuals exposed to human rabies patients through bite/non- bite exposure (mouth-to-mouth resuscitation, licking of intact mucosa such as eyes, lips and vulva). 
+
+d. Patients bitten by animals that are not available for observation (Stray/Slaughtered).
+
+e. Patients with Category II exposure.
+
+5.3.5 Government veterinarians and laboratory technicians working for rabies diagnosis, prevention and control shall be provided free pre—exposure prophylaxis, using the intradermal technique of vaccine administration.
+
+
+Administrative Order No. 27 s. 1996 dated July 26,1996 and any other order inconsistent herewith are hereby rescinded.
+
+This order shall take effect immediately.
+
+</body> 
+<sign>CARMENCITA NORIEGA REODICA, MD, MPH, CESO II</sign>
+<signtitle>Secretary of Health</signtitle>

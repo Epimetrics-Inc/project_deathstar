@@ -1,0 +1,397 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+<date>06/14/2004</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 163, s.2004</docnum>
+
+<subject>SUBJECT: Revised Rules aid Regulations Governing Registration, Licensure and Operation of Dialysis Clinics in the Philippines</subject>
+
+<body>
+I. RATIONALE
+
+Every year the number of patients undergoing dialysis is continually increasing. Based on the Renal Disease Control Program (REDCOP) report in 2001, 11,250 Filipinos nationwide was estimated to develop End Stage Renal Disease annually. In 2003, there were 5,070 patients who were started on dialysis, of which 83% were on hemodialysis and 17% were on peritoneal dialysis. Compared to 2002 data, there was an increase of 15% in the number of patients undergoing dialysis.
+
+Based on the 2003 data, there were 210 hemodialysis and 51 peritoneal dialysis centers nationwide. These dialysis clinics were either free-standing or institution-based. Pursuant to Executive Order No. 5, s. 1986 and Administrative Order No. 33-A s. 1994 entitled "Rules and Regulations Governing the Licensure and Regulation of Dialysis Clinics", the Department of Health (DOH) is mandated to license dialysis clinics in the country. However, majority of those dialysis centers were operating without a license.
+
+Patients have the right to receive quality health service and this can only be achieved by having all the dialysis clinics comply with the licensing requirements set by the DOH. With the mandate of the Bureau of Health Facilities and Services to set and review regulatory policies and standards, A.O. No. 33-A, s. 1994 shall be amended to ensure the general public of quality service of the dialysis clinics and guide the facility owners with regards to the new licensing requirements.
+
+II. SCOPE
+
+These rules and regulations shall apply to all government and private, free-standing and institution-based dialysis clinics nationwide and describes the technical standards and requirements including the procedural guidelines leading to the licensure of these facilities.
+
+III. DEFINITION OF TERMS
+
+Bureau - refers to the Bureau of Health Facilities and Services
+
+Board Certified Nephrologist - diplomate or fellow of the Philippine Society of Nephrology.
+
+Board Qualified/Eligible Physician - a physician who is a fellow/diplomate of the Philippine College of Physicians and has completed an accredited fellowship-training program in nephrology.
+
+Dialysis - a process by which dissolved substances are removed from a patient's body by diffusion from one fluid compartment to another across a semi-permeable membrane. Currently, the two types of dialysis that are commonly in use are hemodialysis and peritoneal dialysis.
+
+Dialysis Station - a designated portion of the dialysis patient treatment area that accommodates the equipment necessary to provide a hemodialysis and/or peritoneal dialysis treatment. This station must have sufficient area to house a chair or bed, the dialysis equipment, and emergency equipment if needed.
+
+Dialysis Clinic - a health facility performing both peritoneal and/or hemodialysis to patients with kidney failure on an outpatient basis. It shall be referred to in this issuance as "clinic".
+
+Dialysis Technician - a person who, under the direct supervision of a licensed physician or a registered nurse, provides assistance in the treatment of patients who receive dialysis treatment for end stage renal disease.
+
+License to Operate - a formal authority issued by the DOH to an individual, agency, partnership, corporation to operate a dialysis clinic.
+
+Patient - a person admitted to and receiving care in the dialysis clinic.
+
+Permit to Construct - requirement for construction, alteration, expansion or renovation of an existing dialysis clinic. It is a pre-requisite for the issuance of a license to operate.
+
+Water Treatment - the process of treating water used for dialysis purposes in order to maintain a continuous water supply that meets the provisions of the Association for the Advancement of Medical Instrumentation (AAMI) - "Standards for Water for Hemodialysis".
+
+Secondary Care hospital (as defined in Administrative Order No. 147, s. 2004) - a departmentalized hospital that provides clinical care and management on the prevalent diseases in the locality, as well as particular forms of treatment, surgical procedure and intensive care.
+
+IV. POLICIES AND GUIDELINES
+
+A. CLASSIFICATION
+
+A.1 According to ownership
+
+A.1.1 Government - operated and maintained partially or wholly by the national, provincial, city or municipal government, or other political unit, or by any department, division, board or agency thereof
+
+A.1.2 Private - privately owned, established and operated with funds through donation, principal, investment, or other means, by any individual, corporation, association or organization
+
+A.2 According to institutional character
+
+A.2.1 Institution-based - a clinic that operates as part of a health institution (e.g. hospital, multi-specialty clinic, etc.) and is located within its premises
+
+A.2.2 Free-standing - a clinic that operates independently. It may be located outside or inside the premises of a health institution
+
+B. TECHNICAL REQUIREMENTS
+
+B.1 Personnel - There shall be a sufficient number of qualified personnel to carry out the functions of the clinic, which are as follows:
+
+B.1.1 A Board Certified Nephrologist shall be the head of the clinic. In areas where there is no Board Certified Nephrologist, as certified by the Philippine Society of Nephrology, a board-qualified physician shall be the head of the clinic for a maximum period of three (3) years. After this three-year period, a Board Certified Nephrologist must head the clinic.
+
+The head of clinic or at least one of the clinic's medical staff shall be a member of at least a secondary care hospital medical staff in the locality to facilitate referral of complications that may arise from the dialysis procedure.
+
+B.1.2 A Duty Physician who must meet the following requirements:
+
+• Completed an accredited Internal Medicine Residency Program
+• Experience in the care of patients with end stage renal disease
+• Certificate of training on Basic and Advanced Life Support
+
+He shall be physically available to patients during hours of operation. The ratio of duty physician to patient bed shall be 1:15.
+
+B.1.3 Dialysis Nurse must meet the following requirements:
+
+• Duly licensed
+• Current member of Renal Nursing Association of the Philippines (ReNAP) or its equivalent
+• Certified IV therapy nurse
+• hospital/clinical work experience for one (1) year
+• Certificates of special training on dialysis for not less than thirty (30) days and on Basic and Advanced Life Support
+
+The ratio of nurse to patient bed shall be 1:4.
+
+In cases where there is more than one (1) nurse, headship shall be by a chief nurse. The qualifications shall be based on the provisions of Republic Act 9173 known as the Philippine Nursing Act of 1992.
+
+B.1.4 Technician shall have certificate of dialysis training and at least one (1) year experience in same field.
+
+B.1.5 There shall be adequate number of administrative personnel to facilitate non-medical work in the facility.
+
+B.1.6 A personnel record folder shall be maintained for each employee. The folder shall contain physical examination, laboratory test results, resume, and current job. description that reflect the employee's responsibilities and work assignments.
+
+B.2 Physical Plant
+
+B.2.1 To provide adequate facilities for the care and comfort of patients, watchers and personnel, each clinic must be planned and designed in a way that the clinic has the following areas listed below. The plan shall be prepared and signed by a licensed engineer or architect, and conforms to applicable laws.
+
+B.2.1.1 Dialysis Service Complex
+
+• Dialysis Station shall be designed to provide adequate space area and safe treatment as well as to ensure the privacy of patients. The area shall not be less than 8 meter^2 to accommodate a chair or bed, the dialysis equipment and emergency equipment if needed. Separate dialysis machine shall be designated solely for use of Hepatitis B and C patients.
+
+• Nursing Station shall be located in an area that allows adequate surveillance of patients on dialysis machines. It shall also be the releasing area for post-hemodialysis patients.
+
+• Storage area for sterile instrument/supplies and other materials
+
+• Work area that contains a work counter, hand washing sink, storage cabinets
+
+• Toilet facility for the staff/patients with urinal, water closet, and lavatory.
+
+• Water treatment area
+
+• Designated area for central sterilization
+
+• Pro-treatment area and consultation area
+
+B.2.1.2 Non-Treatment Area
+
+• Business area for information service, admitting section, cashier
+• Waiting area with sufficient seats for patients and visitors
+• Pantry for hygienic purposes.
+
+B.2.2 The facility shall be kept in good operating condition.
+
+B.2.3 Water supply for all purposes shall be adequate in volume and pressure. Water used for dialysis purposes must be analyzed for bacteria at least monthly, for chemicals at least every six months and treated as necessary in accordance with the provisions of Association of Advancement of Medical Instrumentation (AAMI) to maintain a continuous water supply that is biologically and chemically compatible with acceptable dialysis techniques.
+
+B.2.4 All plumbing shall be installed in such a manner as to prevent back flow or cross-contaminations between potable and non-potable water supplies.
+
+B.2.5 The facility shall be provided with effective and suitable ventilation to maintain comfortable room temperature.
+
+B.2.6 The facility shall be provided with sufficient intensity of illumination to provide effective nursing care.
+
+B.3 Equipment/Supplies
+
+B.3.1 The clinic shall be adequately equipped with the following to provide quality service to the patients and personnel:
+
+• Stethoscope - 3 units *
+• Sphygmomanometer - 3 units *
+* One each for regular, Hepatitis B+, and Hepatitis C+ patients
+• Examining light
+• Oxygen unit with gauge
+• Minor surgical instrument set
+• Instrument table
+• Dialysis machine(s)
+Note: At least one of the dialysis machines uses bicarbonate as dialysate buffer.
+• Dialysis chair(s) (capable of full recline and the trendelenberg position) or patient bed(s) with guard rails (90 cm X 70 cm) or its equivalent
+
+• E-cart with the following supplies:
+
+IV fluids
+IV line
+Insyte/abbocath
+Intubation set (endotracheal tubes, laryngoscope, ambu bag)
+Emergency drugs such as:
+
+• Dopamine 1V infusion
+• Isosorbide dinitrate tablets
+• Diazepam (tablets and IV)
+• Hydrocortisone IV
+• Diphenhydramine maleate 50 mg/amp
+• Sodium chloride 20% in 50cc polyampule
+• D50W 50cc vial
+• Parenteral antihypertensive medications
+• Others (Clonidine, Furosemide IV, Calcium Gluconate, Epinephine, Lidocaine, Salbutamol, Nifedipine, Sodium Bicarbonate)
+
+• Goose neck lamp
+• Standby rechargeable light
+• Sterilizer
+• ECG machine
+• Suction machine
+• Defibrillator with cardiac monitor
+• Stretcher
+• Wheelchair
+• Others
+
+Standby generator (at least 20kva)
+Fire Extinguisher
+Ambulance or transport vehicle or contract with providers such as ambulance services
+Water treatment equipment
+
+• Multi-media filter
+• Bulk filters
+• Carbon filter
+• Softener
+• Reverse Osmosis machine
+• Storage tank for Reverse Osmosis
+
+• Acceptable Disinfectant for re-use procedure
+• Formalin (4%)
+• Paracetic Acid (hydrogen peroxide + acetic acid)
+
+B.4 Transfer Agreement/Referrals
+
+Each clinic shall have a Memorandum of Agreement with one or more hospitals, with service capability of at least a secondary care hospital, for the provision of inpatient care especially during emergencies and other hospital services. However, the patients of their relatives should be allowed to choose which hospital to patronize.
+
+B.5 Records
+
+The clinic shall maintain a record system to provide readily available information on the following:
+
+B.5.1 Patient care
+
+• Dialysis charts
+• Standing order for hemodialysis - updated quarterly
+• Physician's order
+• Completed consent form - update annually
+• Patient's monitoring sheet
+• Standing order for medication
+• Laboratory results
+• Confinements with corresponding date and name of hospital
+• History and physical examination
+• Problem list
+• Transfer/referral slip
+
+B.5.2 Incident and accident (in logbooks)
+
+• Complications related to dialysis procedure
+• Complications related to vascular access
+• Complications related to disease process
+• Dialysis adequacy of each patient
+• Outcomes
+• Staff/patient's hepatitis status
+
+B.5.3 Staff and patient vaccination
+
+• Hepatitis B (double dose) - 0, 1, 2, 6 months
+• Influenza annually
+• Pneumococcal - every 5 years
+
+B.5.4 Water treatment
+
+• Bacteriological
+• Chemical
+
+B.5.5 Administrative
+
+• Minutes of the facility's staff meetings
+• Reports of inspections
+
+B.5.6 Facility and equipment maintenance schedule
+
+• Preventive maintenance
+• Corrective measures
+
+B.6 Recording and Reporting
+
+The clinic shall register their patients to the Renal Disease Registry in support to the REDCOP of the DOH and in coordination with the Philippine Society of Nephrology. Likewise, an annual statistical report shall be submitted to REDCOP.
+
+B.7 Policies and Procedures
+
+The clinic shall provide a policy and procedure manual, which is designed to ensure professional and safe care for the patients.
+
+B.8 Quality Assurance Program
+
+The clinic shall provide a quality assurance program to evaluate the provisions of patient care. The program shall have a written plan and implementation shall be continuous with periodic reviews.
+
+B.9 Waste Management Program
+
+The clinic shall have a written and established waste management program with Special treatment on infectious/pathological waste. Waste management shall be in accordance with the revised Manual on Health Care Waste Management.
+
+B.10 Exhibition of License
+
+The license to Operate of the clinic shall be posted in a conspicuous space readily seen by the public. A copy of these rules and regulations shall be readily available for reference and guidance of the clinic staff and personnel.
+
+V. PROCEDURAL GUIDELINES
+
+All clinics whether private or government, free-standing or institution-based shall secure a license to Operate from the DOH. However, for hospital-based clinics, compliance to the prescribed technical requirements shall be determined during the survey for the issuance of the hospital license. Hence, there is no need to secure a separate license for the clinic.
+
+A. Application for Permit to Construct (a pre-requisite for a License to Operate)
+
+A.1 Applicant requests relevant information and prescribe form from the Bureau in person, or through mail, email or internet.
+
+A.2 Applicant accomplishes required documents listed below and submits them to the Bureau:
+
+• BHFS Form - Application for Permit to Construct duly notarized.
+• Letter of application to the Director of the Bureau.
+• Letter of Endorsement to the Director of the Bureau if application is submitted to the CHD
+• Four sets of floor plans/layout (excluding plumbing, electrical, etc. layouts)
+
+Upon filing of application, the applicant pays the corresponding fees to the Cashier of the DOH, in cash, or through postal money order.
+
+A.3 The Bureau reviews the documents and approves or disapproves the issuance of permit to construct.
+
+If approved - the Bureau issues the permit to construct.
+
+If disapproved - the Bureau sends the findings and recommendations to the applicant for compliance. Upon receipt, the applicant is given a maximum of fifteen (15) calendar days to make necessary revisions on the documents and submits the revised documents to the Bureau for another review. Otherwise, the applicant pays again the corresponding application fee.
+
+B. Application Procedure for License to Operate
+
+B.1 Applicant requests relevant information and prescribed form from the Bureau, in person or through mail, e-mail, fax transmittal (781-4189) or internet (www.doh.gov.ph).
+
+B.2 Applicant accomplishes required documents listed below and submits them to the Bureau. Upon filing of application, the applicant pays the correSponding fees to the Cashier of the DOH in cash, or through postal money order.
+
+Documentary Requirements:
+
+<image>table_1.png</image>
+
+If the clinic has not applied for a renewal within thirty (30) calendar days after the expiration, it shall stop its operation and apply for a new license.
+
+B.3 The Bureau conducts survey on site to determine compliance with standards and technical requirements for licensing.
+
+B.4 The Bureau approves or disapproves the issuance of LTD.
+
+If approved, the Bureau registers the clinic and issues the LTO to the applicant.
+
+If disapproved, the Bureau sends the findings and recommendations to the applicant for compliance. Upon receipt of the findings, the applicant is given a maximum of fifteen (15) calendar days to address the deficiencies. Failure to comply shall be a ground for denial of the application. Hence, the applicant has to re-apply and pays again the required licensing fee.
+
+VI. PAYMENT OF FEES
+
+A. A non-refundable fee shall be charged for the issuance of Permit to Construct, registration, License to Operate (initial or renewal), and it's re-filing.
+
+B. A surcharge shall be collected in addition to the renewal fee if the application is filed within thirty (30) days after the expiry date of the license.
+
+C. All fees shall be paid to the Cashier Office of the DOH
+
+D. All fees shall follow the current prescribed schedule of fees of the DOH.
+
+VII. MONITORING
+
+All clinics shall be monitored unannounced and records shall be made available to determine compliance with these rules and regulations.
+
+VIII. VALIDITY
+
+The License to Operate shall have a two-year period of validity from the date of issuance.
+
+IX. TERMS AND CONDITIONS
+
+A. The license to operate is not transferable.
+B. A separate license shall be required for extensions or branches.
+C. The clinic shall report in writing to the Bureau any of the following circumstances fifteen (15) calendar days prior to the change. The report shall be acknowledged by the Bureau:
+
+1. Change of name
+2. Addition of dialysis stations
+
+D. In the case of change in ownership or location, the facility shall be considered new and the owner needs to apply for a new license to operate.
+
+X. PENALTIES
+
+The Bureau may suspend or revoke the license to Operate a clinic if, upon investigation, the latter shall be found guilty of violation of the provisions under these rules or any law or rule related to the Operation of such clinics in the Philippines.
+
+Any clinic operating without a license from the DOH shall be fined not less than ten thousand (Php 10,000.00) pesos but not more than fifty thousand (Php 50,000.00) pesos.
+
+XI. INVESTIGATION OF CHARGES AND COMPLAINTS
+
+The Bureau on its own, or upon receipt of complaints or charges against an accredited clinic by any person or interested party, shall investigate the complaints or charges.
+
+If upon fact finding or monitoring visits the clinic is found to be violating the rules and regulations or any law or rules related to the operation of such clinic, the Bureau may preventively suspend the operation of said clinic. Preventive suSpension shall not be more than sixty (60) days.
+
+All clinics operating without a valid license duly issued by the Bureau shall be immediately closed.
+
+XII. APPEAL
+
+Any clinic, or any of its personnel aggrieved by the decision of the Director of the Bureau may, within ten (10) days after receipt of the notice of decision, file a notice of appeal in the Office of the Secretary of Health and furnish the Bureau a copy of the notice of appeal. Thereupon, the Bureau shall promptly certify and file a copy of the decision, including the transcript of the hearings on which the decision is based, with the Office of the Secretary, for review. The decision of the Office of the Secretary shall be final and executory.
+
+XIII. IMPLEMENTING MECHANISM
+
+A. Bureau of Health Facilities and Services
+
+The Bureau shall regulate health and health related facilities engaged in the conduct of kidney dialysis. The Bureau shall be primarily responsible for the issuance, suspension or revocation of the license to operate.
+
+B. Center for Health Development
+
+The Centers for Health Development shall report to the Bureau any information regarding illegal operation of clinics in their respective areas.
+
+C. Philippine Health Insurance Corporation (PhilHealth)
+
+In support of regulation, Philhealth shall be responsible for:
+
+a.) Accrediting health facilities and providers that meet the accreditation requirements subject to the conditions stipulated in the National Health Insurance Act of 1995 and other related Philhealth reimbursement guidelines and directives.
+
+b.) Conducting utilization reviews and performance monitoring in relation not only to cost efficiency measures and programs but also in support of accreditation standards with the end-view of institutionalizing best quality clinical and medical practices in kidney dialysis service.
+
+To effectively undertake their functions, the Bureau and PhilHealth shall regularly coordinate and synchronize their efforts to regulate health and other health related facilities involved in kidney dialysis service.
+
+XIV. MORATORIUM
+
+Any clinic which is in Operation at the time of promulgation of these rules and regulations shall be given a period of one (1) year from the date of such promulgation within which to comply with such rules and regulations. But during this period all existing clinics must apply for a license with the Bureau. Clinics without proper application shall be immediately closed.
+
+XV. SEPARABILITY/REPEALING CLAUSE
+
+In the event that any rule, section, paragraph, sentence, clause or words of these rules and regulations is declared not valid for any reason, the other provisions thereof shall not be affected thereby.
+
+These Rules and Regulations shall repeal and supercede all administrative orders and previous issuances inconsistent thereof.
+
+XVI. EFFECTIVITY
+
+This order shall take effect upon signing and approval and fifteen (15) days after publication in a newspaper of general circulation.
+</body>
+
+<sign>MANUEL M. DAYRIT, M.D., MSc</sign>
+<signtitle>Secretary of Health</signtitle>
