@@ -87,6 +87,8 @@ def process_xml(dir: str) -> dict:
         final[i]['images'] = final[i].pop('image')
         final[i]['title'] = i
         final[i]['raw_json'] = data[i]
+        if final[i]['body'] == None:
+            raise AttributeError('Body error for ' + final[i]['title'])
 
     logfn.close()
 
