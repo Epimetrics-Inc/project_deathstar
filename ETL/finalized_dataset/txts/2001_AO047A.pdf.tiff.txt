@@ -1,0 +1,462 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound. Rizal Avenue, Manila
+Telephone No: 743-83-01 to 23 loc. 1125-1126
+
+<date>08/30/2001</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 47-A series of 2001</docnum>
+
+<subject>SUBJECT: RULES AND REGULATIONS ON THE REGISTRATION, INCLUDING APPROVAL AND CONDUCT OF CLINICAL TRIALS, AND LOT OR BATCH RELEASE CERTIFICATION OF VACCINES AND BIOLOGIC PRODUCTS</subject>
+
+<body>
+Republic Act 3720, otherwise known as the "Food, Drugs and Devices, and Cosmetic Act", as amended by the Executive Order 175, states that it is the policy of the state to ensure the safety, efficacy and quality of drug supply to protect the health of the people. The following rules and regulations of imported and locally produced vaccines and biologic products are hereby adopted and promulgated for the information, guidance and compliance of all concerned.
+
+SECTION I. DEFINITION OF TERMS
+
+The following definitions are adopted:
+
+1.1. "Biologic" or "Biologic Product" means any attenuated or inactivated virus or bacteria, or sub—components attached to adjuvants, toxoids, hyperimmune serum and analogous products applicable to diagnosis, prevention, treatment or cure of disease or injuries to man, obtained or derived from living matter - animals, plants or microorganisms, or parts thereof. It includes preparations primarily designed to develop a type of immunity or preparations that are concerned with immunity.
+
+1.2. "Certificate of Product Registration (CPR)" is a document issued by the Bureau of Food and Drugs (BFAD) for the purpose of marketing, use or free distribution of a product in the Philippines.
+
+1.3. "Permit for Clinical Investigational Use (PCIU)" is a registration document issued by the BFAD for the purpose of allowing the conduct of Phase I, Phase II and Phase III clinical trials of developmental or investigational biologic products in the country.
+
+1.4. "Developmental or Investigational Vaccine or Biologic" refers to a vaccine or biologic product that needs or is undergoing pre-clinical and clinical studies to determine its safety, potency, efficacy, and therapeutic/prophylactic value. It refers to a vaccine or biologic product which has never been registered or licensed by any National Regulatory Authorities.
+
+1.5. "National Regulatory Authority (NRA)" is the designated national control authority of vaccines and biological products of the exporting country or country of origin that meets the criteria established by the World Health Organization (WHO), such as having a documented licensing system and GMP guidelines, GMP inspectors, and the administrative capacity to validate and issue the required certificates to other national regulatory authorities. It sets the standards and requirements to which all manufacturers of vaccines and biological products are required to conform.
+
+1.6. "New Vaccine or Biologic" refers to a vaccine or biologic product which has undergone adequate Phases I, II, and III clinical studies, but which requires a Phase IV clinical studies. It refers to a vaccine or biologic product which has never been registered or licensed by any NRA for general use.
+
+1.7. "Established Vaccine or Biologic" refers to a vaccine or biologic product which has undergone adequate Phase I, II, III and IV clinical studies. In addition, it has been reviewed by the WHO Expert Committee on Biological Standardization and has recommended sets of general and specific guidelines and requirements for the manufacture, control, and product evaluation for registration or licensing by a national regulatory authority.
+
+1.8. "Shared Product" refers to a finished product whose final phase of production, including labeling, is done by a local manufacturer using biological materials, including naked or bulk biologic products, produced by another manufacturer. It also refers to a finished product whereby some of the active components, as in mixed vaccines, were processed by another manufacturer or laboratory. A shared product is a locally produced or manufactured biologic product.
+
+1.9. "Specifications of Product" are the values and conditions of a product based on submitted documents and information that have been accepted by the BFAD.
+
+1.10. "Locally Manufactured Product" refers to biologic products, as bulk or finished products, that were produced or manufactured in the Philippines.
+
+1.11. "Reevaluation" means the reexamination of the quality, efficacy, safety, therapeutic/prophylactic value, and rational use of all vaccines and biological products during the renewal of the CPR.
+
+1.12. "Applicant for Clinical Trial Protocol Approval" - The applicant for clinical trial protocol approval shall mean the sponsor of the clinical trial as defined by the International Committee on Harmonization (ICH) or the WHO Code of GOP. The sponsor or applicant may be any person connected with a licensed drug establishment or any institution, such as hospitals and research institutes.
+
+1.13. "Good Laboratory Practice (GLP)" - Good Laboratory Practice are standards and procedures whereby the laboratory achieves a defined, consistent and reliable standard in performing laboratory test and activities.
+
+1.14. "Good Manufacturing Practice (GMP) - Good Manufacturing Practice is that part of quality assurance which ensures that products, including vaccines and biologics, are consistently produced and controlled to the quality standards appropriate for their intended use, including all phases of vaccine clinical trials, and as required by registration and marketing authorization. For supplementary guidelines for the manufacture of investigational pharmaceutical products for human studies, refer to WHO/PHARM/94.571.
+
+1.15. "Good Clinical Practice (GCP)" - Good Clinical Practice are standards and procedures for clinical trials that encompass the design, protocol approval, conduct, monitoring, termination, audit, analyses, reporting, and documentation of human studies. It defines the responsibilities and activities of the sponsor, principal investigator and monitor involved in clinical trials. The Code of GCP ensures that the studies are scientifically and ethically sound, and all the clinical properties of the product under investigation are properly documented. For complete information, reference is made to the published WHO and the ICH Code of Good Clinical Practice.
+
+1.16. "Phase I Clinical Vaccine Trial " - Phase I clinical vaccine trial is an initial test of investigational vaccine in healthy adult volunteers and, occasionally, in actual patients. The number of subject is small. Safety evaluation, tolerability, immune response and dose findings are the primary objectives, and attempt is made to establish the approximate levels of patient tolerance for single or multiple dosing. The trial is done in the country of origin of the product. A comparison group may receive the adjuvant as a placebo.
+
+1.17. "Phase II Clinical Vaccine Trial" - Phase II clinical vaccine trial is a study designed to evaluate the efficacy and safety based on dose/response, tolerability and acceptance of the investigational vaccine or combination vaccine in a small number of a selected pOpulation for whom the vaccine or combined vaccine is intended. The trial consists of two parts. The first part, known as Phase II a, consists of a selected population that is artificially challenged. The second part, known as Phase II b, consists of a selected population that harbors natural infection. A larger subject is enrolled in the second part. The studies are randomized double-blind placebo—controlled.
+
+1.18. "Phase III Clinical Vaccine Trial" - Phase III clinical vaccine trial is a study for the population at risk. The primary objective is to evaluate the efficacy, safety, tolerability, and acceptance in a larger target population (community in situ) while monitoring for rare side effects or adverse events. Different clinical endpoints shall be determined and established. The number of subject required may vary, but are usually of larger sample size.
+
+An Extended Phase III Clinical Vaccine Trial may be considered. This involves larger number of participants and under normal conditions of use (open population). Assessment of additional endpoints to determine immune response vs. protection, efficacy in different subgroups, effects on mortality, efficacy under controlled trials vs. effectiveness under routine use, required information to recommend vaccination on a routine basis, logistics for mass vaccination and evaluation for alternatives, effects on severity relapses, rare side effects or events, and establish the duration of protection are usually undertaken.
+
+1.19. "Phase IV Clinical Vaccine Trial" - Phase IV clinical vaccine trial is a mandatory PMS study of newly registered biologic products or combined vaccines for a period of five years. The primary objective is to determine and establish the public health impact of the vaccine or combined vaccine - epidemiological impact on infectious and non-infectious disease(s) and the impact in terms of acceptance.
+
+In a Phase IV Clinical Vaccine Trial, which may include the extended phase III clinical trial as part of it, the following are some of the specific objectives: to determine and establish the efficacy of different vaccination schedules (doses and intervals), long-term antibody kinetics vs. protection, evaluation under different conditions, prediction/modeling in transmission/protection social acceptability if repeated vaccination is required, and surveillance strategies (e.g. before-after trend analysis vs. stepped wedge design).
+
+1.20. "Institutional Ethics Committee (IEC)" or "Institutional Ethics Review Board (IERB)" shall refer to the body formed by an establishment or institute which ensures that the activities of the researchers and support staff engaged in the conduct of research involving humans subjects are ethically and scientifically sound. The Department of Science and Technology has a national ethics committee or ethics review board.
+
+1.21. "Deviation Report" - Deviation report is a written document prepared by the principal investigator and submitted to the monitor, sponsor, IEC and the BFAD which details departures from protocol parameters which affect the results or outcome of a clinical trial or from the elements of GCP. The report shall contain the deviation made from established procedures, GCP and for established tolerance, and the reasons for making such deviation.
+
+1.22. "Incident Report" - An Incident report is a written document prepared by the principal investigator submitted to the monitor, sponsor, IEC and BFAD which details any unforeseen, unexpected, rare, unusual, and life-threatening adverse reactions or adverse events, or process and procedures performed incorrectly, such as injection of vaccines, which may affect the health of the subject or put the  health of the subject at risk. The report shall include the incident that happened, the action taken, justification of the action, significance to the result of the clinical study, and remedial actions, among others.
+
+1.23. "Amendment of Protocol" - Amendment of protocol means any changes in the protocol as approved by the BFAD, such as procedures, personnel, steps, process, equipment, facility, clinical trial site, and subject.
+
+1.24. "Summary Lot or Batch Protocol" is a document for each lot or batch of biologic and vaccine product that contains the following: a) the summary information on the final lot or batch, b) the detailed information of manufacture and control, c) the manufacturer's certification to release the lot or batch, and d) the Certificate of Lot or Batch Release issued by the National Regulatory Authority (NRA). The WHO EXpert Committee on Biological Standardization has published Technical Report Series which set out a pro forma of the summary lot or batch protocol for each vaccine.
+
+The Certificate of Lot or Batch Release or Lot or Batch Release Certificate is a document for each lot or batch of a vaccine or biologic product issued by the NRA of the exporting country or the country of origin. It is part and parcel of a Summary Lot or Batch Protocol, and is accompanied by the following: a) a label of the final container approved by the NRA of the exporting country or country of origin, and b) an instruction leaflet or product insert for users approved by the NRA of the exporting country or country of origin.
+
+1.25. "Batch" or "Lot" is a defined quantity of starting materials or product manufactured in a single process or series of processes into a final dispensed product having identical risks of contamination and expected to be homogenous. In the case of continuous manufacture, the batch or lot must correspond to a defined fraction of the production, characterized by its intended homogeneity. The batches or lot may be divided into a number of sub-batches or sub—lots, which are later brought together to form a final homogenous lot.
+
+SECTION II. REGISTRATION
+
+I. General Standards and Policies
+
+The following are the general standards and policies for registration of products:
+
+1.1. Only establishments with valid BFAD License to Operate (LTO) can apply for a Certificate of Product Registration (CPR).
+
+1.2. All sponsors of clinical trials of developmental or investigational biologic products shall apply for a Permit for Clinical Investigational Use (PCIU) before undertaking clinical trials.
+
+1.3. All applications of CPR and PCIU shall be based on per dosage. strength and form of the product.
+
+1.4. The WHO Technical Report Series (TRS) published by the WHO Expert Committee on Biological Standardization shall serve as the standard for evaluating applications for product registration. In the absence of a WHO standard, the BFAD shall use recognized pharmacopoeia or the manufacturer’s standards.
+
+1.5. All batches and lots of registered biologic products shall require BFAD Lot or Batch Release Certification, except batches and lots of UNICEF/WHO vaccines.
+
+1.6. All biologic products that are to be used for immunization, both private and government, shall be first registered at the BFAD.
+
+1.7. All investigational biologic products must undergo appropriate. local clinical trial before they can be classified as new biologic products.
+
+1.8. All new biologic products shall require local Phase IV clinical trial.
+
+1.9. All established biologic products that are manufactured locally shall require local Phase III and Phase IV clinical trials.
+
+1.10. All Adverse Event Following Immunization (AEFI) reports shall be prepared by the Medical Director of the drug establishment and the manufacturer.
+
+2. Initial Registration
+
+2.1. Application
+
+All applications for the initial registration of the product shall be made on a form promulgated by BFAD (Annex 1). The accomplished application form shall be accompanied by the requirements for CPR or PCIU as listed in Checklist of Requirements (Annex 2).
+
+2.2. Review of Documents and Requirements
+
+The BFAD shall evaluate the completeness of submitted documents based on the Checklist of Requirements.
+
+2.3. Evaluation
+
+2.3.1. The evaluation shall be done by the BFAD, and if necessary, with the BFAD consultant or the BFAD Advisory Committee on Biologic Products.
+
+2.3.2. The same evaluation procedure shall apply to both CPR and PCIU applications.
+
+2.4. Laboratory tests
+
+2.4.1. The BFAD may require laboratory testing for the following reasons: a.) to provide information on the controls to be applied by the BFAD for lot or batch release certification, b.) as direct evidence of consistency of production, c.) as evidence of the stability of the product, and d.) to verify the submitted documents and data.
+
+2.4.2.The applicant shall be informed about the Specific laboratory test(s) that will be required at the time of issuance of the CPR or PCIU. The independent laboratory that will conduct the specific test must meet all the criteria of a biological laboratory as listed in Annex 3.
+
+2.5. Action on Registration Application
+
+The BFAD action on the application for CPR may consist of the following:
+
+2.5.1. Issuance of a Certificate of Product Registration.
+
+Approval of the product for general use shall-be for a period of 5 years with a condition that all lots or batches, except UNICEF/WHO products, shall require BFAD lot or batch release certification
+
+2.5.2. Notice of Deficiencies
+
+A. notice of deficiencies shall be sent to the applicant and a period of 30 days shall be given in order for the applicant to comply, and after which the applicant shall reapply for initial registration.
+
+2.5.3. Denial of Application
+
+The following, among others, are grounds for disapproval of product registration:
+
+2.5.3.1. Failure to satisfy the standards and requirements for safety, efficacy, quality, and therapeutic/prophylactic value or rational use
+
+2.5.3.2. Failure to settle unresolved problems regarding safety, efficacy and quality
+
+2.5.3.3. Failure to respond to the letter of abeyance after 6 months
+
+2.5.3.4. Failure to disclose other information relevant to the safety, efficacy, quality, and therapeutic/prophylactic value of the product
+
+2.5.3.5. The label of the biologic product is false and misleading or does not conform with the labeling requirements
+
+2.6. Action on PCIU Application
+
+The BFAD action on the PCIU application may consist of the following:
+
+2.6.1. Issuance of a Permit for Clinical Investigational Use.
+
+Approval of the product for investigational use for a specific period depending on the clinical trial protocol. All lots or batches shall require BFAD lot or batch release certification.
+
+2.6.2. Notice of Deficiencies
+
+A notice of deficiencies shall be sent to the applicant and a period of 30 days shall be given in order for the applicant to comply, and after which the applicant shall reapply for a PCIU.
+
+2.6.3. Denial of Application
+
+The same grounds for denial of application as enumerated in Section 2.5.3. shall apply.
+
+3. Renewal of Registration
+
+3.1. Application for the renewal of registration shall be made on a form promulgated by the BFAD (Annex 1). The application form shall be accompanied by the requirements for renewal of registration as Specified in the Checklist of Requirements (Annex 2).
+
+3.2. Biologic products for renewal of registration shall be subjected to reevaluation. Determination of the following, among others, shall be the basis for renewal of registration
+
+3.2.1. Evidence of consistency and reproducibility of production on a lot to lot basis.
+
+3.2.2. Post Marketing Surveillance, Adverse Drug Reaction or Adverse Event Following Immunization report in the country or other countries.
+
+3.2.3. Maintenance of cGMP status of the manufacturer
+
+3.2.4. Unresolved problems regarding the safety, efficacy and quality of the product in the country or other countries.
+
+3.2.5. Failure to apply for lot or batch release certificates in the past.
+
+4. Post-Registration Obligations of the Applicants
+
+The following post—registration obligations of the applicants shall apply to both the CPR and PCIU:
+
+4.1. Submission of annual adverse events following immunization (AEFI) report.
+
+4.2. Prompt submission of report on any rare, unusual, unforeseen, and life-threatening AEFI
+
+4.3. For imported products, the drug establishment shall notify the BFAD in writing for any changes in the manufacturer, status of cGMP, and manufacturing process. The drug establishment shall submit a certificate of approval from the NRA of the exporting country or the country of origin. Any major changes in the manufacturing process shall need application for initial registration and submission of documentation and validation from the manufacturer. Any changes in the labeling materials, such as indication, safety information and shelf life, shall require BFAD prior approval.
+
+4.4. For locally produced products, the manufacturer shall seek prior approval from the BFAD before instituting any changes related to the following: manufacturer, indication, labeling, and manufacturing process, raw materials, starting materials, personnel, equipment, facilities, among others, after the issuance of the CPR or PCIU. The manufacturer shall submit documentation and validation plan for the proposed changes, among others.
+
+5. Schedule of Fees
+
+The applicant shall be guided by the latest Bureau Circular on the schedule of fees.
+
+The cost of the laboratory test, if any, shall be borne by the applicant and paid directly to the qualified laboratory.
+
+6. Appeal
+
+Denied applications may be appealed to the Secretary of the Department of Health.
+
+SECTION III. APPROVAL PROCESS AND CONDUCT OF CLINICAL TRIALS
+
+1. General Standards and Policies
+
+The following are the general standards and policies on the approval and conduct of clinical trials:
+
+1.1. All clinical trials of investigational, new or established. biologic products shall require clinical trial protocol approval by the BFAD.
+
+1.2. Application for protocol approval shall be on a per phase of the clinical trial per product basis.
+
+1.3. The applicants are required to fully disclose all pertinent documentation and information regarding the product, the subjects and disease process to be evaluated, the study endpoints, the clinical trial sites, existing resources and infrastructure at the proposed trial sites and other field site information, such as location, personnel, resources, equipment and facilities.
+
+1.4. The applicants shall ensure strict adherence to the codes of GCP, GLP and GMP.
+
+1.5. The specifications, preparation and composition of batches or lots of developmental biologic products shall be the same as the batches or lots to be registered and commercially produced in the future.
+
+2. Procedure for Application
+
+The procedure for application are as follows:
+
+2.1. Application
+
+2.1.1. The applicant shall file a letter of application addressed to the BFAD Director.
+
+2.1.2. All applications shall be supported by apprOpriate documents as Specified in the Checklist of Requirements (Annex 4).
+
+2.2. Review of the Completeness of Documents and Requirements
+
+The BFAD shall evaluate the completeness of submitted documents and requirements.
+
+2.3. Evaluation
+
+2.3.1. The BFAD shall consult appropriate clinical pharmacologists and consultants in evaluating the clinical trial protocols.
+
+2.3.2. The major points to be considered in the evaluation shall include the following: a. the disease or disease process, b. compliance of the product manufacturer with GMP and GLP, c. compliance to the code of GCP, d. therapeutic/prophylactic value of the product, e. track record of competence of the investigators, Sponsors and monitor, f. clinical endpoints, g. site of clinical trials, h. appropriateness of the IEC or IERB in place, i. Comprehensiveness and structure of the protocol, j. appropriateness of statistical analysis, k. objective of the study, 1. number and suitability of the subjects, m. resources and infrastructure at the trial site, n. result of previous clinical trial (Phase I, II, 111), o. experience of other countries conducting similar trials, if any, p. reports from the WHO and other NRA.
+
+2.3.3. The BFAD may request the presence of the sponsor or applicant, the principal investigator, the monitor, and the subjects for clarification and additional information.
+
+2.3.4. The BFAD may seek external expert advice and information from the WHO and other NRA’S.
+
+2.4. Action on the Application
+
+The BFAD action on the application shall be any one of the following:
+
+2.4.1 . Approval
+
+The applicant should obtain the approval of the appropriate IEC or IERB and the PCIU before proceeding to the actual clinical trial.
+
+2.4.2. Notice of Deficiencies
+
+A notice of deficiencies shall be sent to the applicant and a period of 30 days shall be given in order for the applicant to comply, and after which the applicant shall reapply for clinical trial protocol approval.
+
+2.4.3. Denial
+
+The applicant shall receive a letter of denial specifying the reasons for the disapproval of the clinical trial protocol. The applicant may reapply for clinical trial protocol approval.
+
+3. Obligations of the Sponsor or Applicant to the BFAD
+
+The following are the major responsibilities of the Sponsor or applicant to the BFAD:
+
+3.1. Prompt submission of incident report if any, prepared and signed by the principal investigator. The sponsor shall indicate if the same report was received by the monitor and IEC.
+
+3.2. Prompt submission of deviation report, if any, prepared and signed by the principal investigator. The sponsor shall indicate if the same report was received by the monitor and IEC.
+
+3.3. Prompt submission of an interim report after the completion of the actual clinical trial.
+
+3.4. Prompt submission of any information or findings on similar studies from other countries that may have bearing on the health of the subjects.
+
+3.5. Prompt notification of any amendments to the approved clinical trial protocols.
+
+3.6. Prompt notification of any changes in key personnel (such as the monitor and principal investigator, and associates) of the on-going clinical study.
+
+4. Termination of the Study.
+
+At any time, the BFAD may terminate all clinical trials that have failed to comply with the Codes of GCP, GLP and cGMP, or after careful evaluation of the incident report, deviation report, AEFI report, and information and findings from other NRA's and international bodies, like the WHO.
+
+5. Appeal
+
+Applications which were not approved may be appealed to the Secretary of Health.
+
+6. Schedule of Fees
+
+The applicant shall be guided by the latest Bureau Circular on the schedule of fees.
+
+SECTION IV. LOT OR BATCH RELEASE CERTIFICATION
+
+1. General Standards and Policies
+
+The following are the general Standards and policies for lot or batch release certification:
+
+2.1. All batches or lot of established, new and developmental biologic products, except UNICEF/WHO products, that are to be sold and used in the Philippines shall be lot or batch certified by the BFAD.
+
+2.2. Only establishment with valid BFAD LTO and CPR or PCIU can apply for BFAD Lot or Batch Release Certification.
+
+2.3. In the absence of a WHO proforma summary lot or batch protocol, the BFAD shall develop a pro forma in consultation with the manufacturer and/or the WHO.
+
+2.4. Evaluation of lots or batches shall be based on the product specifications and conditions approved by the BFAD at the time of the issuance of the CPR or PCIU.
+
+2.5. The batch or lot numbers shall appear on all the labels, batch records, in-process forms, and the certificate of analysis, among others, for the purpose of evaluation and verification.
+
+2. Application
+
+The following are the procedures for application:
+
+2.1.The applicant shall file a letter of application to the BFAD Director
+
+2.2. The following shall be submitted together with the letter of application:
+
+2.2.1. Original or certified true copy of summary lot or batch protocol
+
+2.2.2. Three samples of the lot or batch. The samples may be returned to the applicant upon request.
+
+2.3. Laboratory Test
+
+2.3.1. The requirement for submission of specific laboratory test result conducted by an independent laboratory shall be decided by the BFAD during the process of registration. The applicant shall be informed in writing of the specific test that will be required upon the issuance of the CPR or PCIU.
+
+2.3.2. Specific laboratory test may also be required based on new information and findings regarding the safety, efficacy and quality of the product.
+
+2.3.3. The independent laboratory that will conduct the tests must meet all the criteria of a biological laboratory as listed in Annex 3.
+
+3. Evaluation
+
+The following procedures shall be carried out by the BFAD in evaluating a product:
+
+3.1. Review of Submitted Documents and Requirements
+
+The BFAD shall evaluate the completeness of the submitted documents.
+
+3.2. Evaluation
+
+Evaluation shall be based on the assessment of the following:
+
+3.2.1. The summary or lot or batch protocol
+
+3.2.2. The specification of the product as approved by the BFAD at the time of the issuance of the CPR or PCIU
+
+3.2.3. The laboratory test result(s)
+
+3.2.4. The condition and appearance of the submitted samples 
+
+3.2.5. New information and findings regarding the safety, efficacy and quality of the product or batch from international bodies, like the WHO, and other NRA'S
+
+4. Action on the Application
+
+The BFAD action on the lot or batch release application may consist of the following:
+
+4.1. Approval.
+
+Issuance of the Certificate of Lot or Batch Release
+
+4.2. Denial.
+
+Issuance of a Letter of Denial
+
+5. Fees
+
+Upon application for the certificate of lot or batch release, a non-refundable fee of 1,000 PhP shall be paid in full by the applicant or the latest Bureau Circular on the schedule of fees.
+
+The cost of laboratory test shall be borne by the applicant and paid directly to the qualified laboratory. 
+
+7. Appeal
+
+Denied application may be appealed to the Secretary of Health.
+
+SECTION V. SEPARABILITY CLAUSE
+
+In case any provision of this administrative order is declared contrary to law or unconstitutional, other provisions which are not affected thereby shall continue to be in force and effect.
+
+SECTION VI. REPEALING CLAUSE
+
+All administrative orders, rules and regulations, and other administrative issuances or parts thereof inconsistent with the provisions of this Regulation are hereby repealed or modified accordingly.
+
+SECTION VII. EFFECTIVITY
+
+This Regulation shall take effect thirty (30) days after its publication in a newspaper of general circulation.
+</body>
+
+<sign>MANUEL M. DAYRIT, M.D., M.Sc.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<body>
+ANNEX 1
+
+APPLICATION FORM
+FOR CERTIFICATE OF PRODUCT REGISTRATION, PERMIT FOR CLINICAL INVESTIGATIONAL USE, DONATED AND UNICEF VACCINES AND BIOLOGIC PRODUCTS
+
+To be filled up by the applicant
+
+<image>table_1.png</image>
+
+<image>table_2.png</image>
+
+ANNEX 2
+
+CHECKLIST OF REQUIREMENTS FOR VACCINES AND BIOLOGIC PRODUCTS
+
+I. INITIAL REGISTRATION
+
+<image>table_3.png</image>
+
+<image>table_4.png</image>
+
+<image>table_5.png</image>
+
+II. RENEWAL REGISTRATION
+
+<image>table_6.png</image>
+
+III. PERMIT FOR CLINICAL INVESTIGATIONAL USE (PCIU)
+
+<image>table_7.png</image>
+
+ANNEX 3
+
+CRITERIA OF A BIOLOGICAL LABORATORY FOR TESTING
+
+Qualified and independent external laboratory shall meet the following criteria, among others:*
+
+I. Standardized and Validated Procedures
+
+1.1. Use of the following methods, as deemed appropriate
+
+1.1.1. WHO published methods
+1.1.2. Pharmacopoeia
+1.1.3. Methods developed in-house by the manufacturer
+
+1.2. Demonstration or evidence of the following:
+
+• Accuracy
+• Precision
+• Sensitivity
+• Reproducibility
+• Specificity
+• Robustness
+
+1.3. Use of international biological standards and reference reagents, and demonstration or evidence of the following:
+
+1.3.1. Monitored composition, stability, and quality
+
+1.3.2. Quality Control Chart
+
+1.4. Demonstration or evidence of the use of calibrated and validated equipment, instruments or facilities
+
+1.5. Demonstration or evidence of the availability of defined laboratory animals (environmentally controlled and monitored condition, microbiological quality, quality of nutrition, and genetic quality, as appropriate), if animal assay will be conducted.
+
+2. Clear and Written Biological Endpoints and Retest Policy
+
+* The WHO and/or the NRA shall be consulted by the BFAD in determining the suitability of the laboratory to carry out specific tests.
+
+* The cost of the laboratory test(s) shall be borne by the applicants and shall be paid directly to the laboratory.
+
+ANNEX 4
+
+CHEKLIST OF REQUIREMENTS FOR APPLICATIONS OF CLINICAL TRIAL PROTOCOL APPROVAL
+
+<image>table_8.png</image>
+
+</body>

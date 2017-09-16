@@ -1,0 +1,75 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+SAN LAZARO COMPOUND
+RIZAL AVENUE, STA. CRUZ
+MANILA, PHILIPPINES
+TEL. NO 771-95-02   
+
+<date>05/05/2000</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 47 s. 2000</docnum>
+
+<subject>SUBJECT: Amendment on Medical Records Service in all Categories of Hospitals [Guidelines for the implementation of International Classification of Diseases version 10 (ICD-10) for hospital licensing]</subject>
+
+<body>
+  
+The Department of Health (DOH) in its effort to improve the quality of morbidity and mortality statistics requires the adoption of the International Classification of Diseases version 10 (ICD-10) coding in all health facilities. International Classification of Diseases version 10 is a system of categorizing or grouping diseases, injuries, conditions and procedures wherein specific codes are assigned according to set criteria. Further, it translates diagnoses and other health related problems from text into an alphanumeric code that permits easy storage, retrieval and analysis of data.
+
+By January 2001, ICD-10 coding shall be fully implemented in all primary, secondary and tertiary hospitals, government and private. It shall be an additional vital requirement for initial processing and renewal of licenses.
+
+Henceforth, the Medical Record Service in all categories of hospitals(Primary, Secondary, Tertiary), government and private, is mandated to record all diagnoses, operations and/or procedures performed on patient using ICD-10 codes.
+
+The guidelines for all hospital categories, government and private, for ICD-10 adoption and implementation are as follows:
+
+1. Medical Records Officers(MROs)/Clinical Coders of all hospitals shall be trained on ICD-10 by accredited trainers of the Department of Health. Duly authorized personnel of the Department of Health shall sign certificates of training.
+
+2. For proper coding, hospitals are required to acquire ICD-10 books (3 volumes). These books shall be used as a reference for coding criteria guidelines and specific coding of a particular disease.
+
+3. The Government Regulatory Officers/Licensing Officers from the Bureau of Licensing and Regulations - DOH, in addition to the routine checklists for inspection of medical records services shall strictly verify/check coding outputs done by MROs/Clinical Coders Including the ICD-10 beaks during the period of inspection.
+
+4. Hospital Statistics Summaries and Reports like Ten Leading Causes of Discharges and Consultations, Morbidities and Mortalities, etc., submitted to the BLR shall be coded in ICD-10.
+
+For strict compliance of all concerned.
+
+</body> 
+<sign>ALBERTO G. ROMUALDEZ, JR., MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+The following members of the ICD-10 Technical Working Group hereby recommend the approval of the “GUIDELINES FOR THE IMPLEMENTATION OF THE INTERNATIONAL CLASSIFICATION OF DISEASES version 10 (ICD-10) for Hospital Licensing:
+
+
+<sign>DR. MA. CONCEPCION R. ROCES</sign>
+<signtitle>Vice-Chairperson, ICD-10 TWG</signtitle>
+
+<sign>MS. FE BENEDICTA M. DELA CRUZ</sign>
+<signtitle>Bureau of Licensing and Regulations</signtitle>
+
+<sign>MR. EMMANUEL L. LAGUSTAN</sign>
+<signtitle>Hospital Operations and Management Service</signtitle>
+
+<sign>MS. FLORINDA TUVILLO</sign>
+<signtitle>RITM/League of Gov’t. Information Practitioners of the Phils.</signtitle>
+
+<sign>DR. MADELEINE VALERA</sign>
+<signtitle>Philippine Health Insurance Corp.</signtitle>
+
+<sign>DR. LEDESMA MORANTE</sign>
+<signtitle>National Statistics Office</signtitle>
+
+<sign>MS. MARGARITA SALUTAN</sign>
+<signtitle>National Statistics Coordination Board</signtitle>
+
+<sign>DR. RODOLFO GREGORIO</sign>
+<signtitle>Philippine Hospital Association</signtitle>
+
+<sign>DR. ELEANOR SANTIAGO</sign>
+<signtitle>Phil. Assoc. of Managed Health Care Systems, Inc.</signtitle>
+
+<sign>DR. MARIO FESTIN</sign>
+<signtitle>Association of Philippine Medical Colleges Foundation, Inc</signtitle>
+
+<sign>MS. SALVA LIMBO</sign>
+<signtitle>Association of Health Maintenance Organizations of the Phils.</signtitle>

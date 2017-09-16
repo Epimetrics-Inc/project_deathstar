@@ -1,0 +1,252 @@
+
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Bldg. No. 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila 1003
+Tel. Nos. (632) 711-95-02, 711-95-03; Telefax No. (632) 743-18-29
+
+<date>04/11/2007</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2007 - 0019</docnum>
+
+<subject>SUBJECT: Guidelines for the Implementation of the Quality Assurance System on Direct Sputum Smear Microscopy (DSSM)</subject>
+
+<body>
+I. RATIONALE
+
+Tuberculosis (TB) is one of the deadliest infectious diseases affecting the world today; it is the sixth leading cause of morbidity and mortality in the Philippines (DOH, 2004). The Philippines ranks eighth among the 22 high-TB burden countries in the world, and third in the Western Pacific Region (WHO, 2005). The estimated number of TB cases in the country is over 241,000 (WHO, 2005), and the majority of these cases come from the economically productive age groups. In 2006, the Philippines reached the TB control global targets of 85% treatment success rate, and 70% case detection rate at 90% and 75%, respectively.
+
+The strategy endorsed by the World Health Organization (WHO) to control TB in countries with a high TB burden is called Directly Observed Treatment Short Course (DOTS). A key element of DOTS is the availability of, and access to, quality microscopy services provided through a laboratory network within the National TB Control Program (NTP). Direct sputum smear microscopy (DSSM) is the primary tool for case detection and for follow-up of cases under treatment. The TB laboratory service is an essential, but less supported, part of the National Tuberculosis Control Program (NTP). Poorly functioning laboratories can give rise to erroneous microscopy results and to undetected TB cases that would remain infectious and further fuel the TB epidemic. Hence, the quality of TB laboratory services must be ensured to protect the public from misdiagnosis.
+
+The Quality Assurance System (QAS) for DSSM using blinded rechecking was established under the NTP in 1989 to ensure accuracy and reliability of results. In 1996, the QAS was strengthened with the adoption of DOTS in the Philippines. In 2002, the QAS was modified based on the general methods and guidelines developed in 2001 by experts from the International Union Against Tuberculosis and Lung Disease (IUATLD), World Health Organization (WHO), Japan Anti Tuberculosis Association (JATA), Royal Netherlands Tuberculosis Foundation (KNCV), Centers for Disease Control and Prevention (CDC), and the Association of Public Health Laboratories (APHL). The modified QAS was pilot tested in Cebu province with the assistance of the Japan International Cooperation Agency (JICA). In 2003, the i‘Manual of Quality Assurance for Sputum Smear Microscopy" was developed by the NTP through the National Tuberculosis Reference Laboratory (NTRL) of the Department of Health (DOH), with technical support from JICA and WHO, to serve as the guide in implementing the new QAS. The system was officially adopted by the country in 2004 and was then implemented in phases. Capability building for the nationwide implementation of QAS started in 2004 and completed in December 2006. Observations made from monitoring visits and program reviews during the phased implementation of QAS revealed several problems including the (1) variable manner of implementation; (2) constraints related to organization, infrastructure, funds, and human resources; and (3) limited coverage of QAS policies and guidelines.
+
+This administrative order is being issued to (1) clearly define the policies and guidelines on QAS of DSSM including the functions of different organizational levels of the NTP laboratory network based on experiences gained during the initial phase of implementation, and (2) broaden the coverage of QAS to include private TB laboratories.
+
+II. POLICY STATEMENTS
+
+A. The National Objectives for Health, 2005 - 2010 aims to reduce morbidity and mortality from Tuberculosis in support of the attainment of the MDGs, of which, one of the strategic thrusts is the "Implementation of quality assurance measures in the implementation of DOTS and DOTS PLUS, with emphasis on laboratory diagnosis, to improve TB control program efficiency".
+
+B. Tuberculosis is one of the diseases included under the Programs Projects and Activities (PPA) intensified disease prevention and control under the Health Service Delivery component of the FOURmula One for Health strategy for implementing health reforms. DOH is mandated to ensure that public health services and goods are of good quality including TB laboratory services.
+
+C. A national Quality Assurance System (QAS) for TB sputum microscopy services must be established in accordance to international standards and practices to ensure that services are of acceptable quality to support the pursuit of the goals of the NTP.
+
+D. All public and private TB microscopy laboratories in the country shall be covered by the national QAS for TB sputum microscopy; the National Tuberculosis Reference Laboratory (NTRL) shall lead in the development and overall management of the QAS.
+
+E. Local government units (provincial or chartered city), in collaboration with NTRL and Regional TB Laboratories, shall establish a QA center in their areas of jurisdiction and shall ensure the continuous implementation of QAS in their respective localities. The implementation of QAS shall be according to the operating guidelines contained in the Manual of Quality Assurance for Sputum Smear Microscopy (2003).
+
+F. DOH offices, particularly the National Center for Disease Prevention and Control, the NTRL, and the Centers for Health Development, shall provide technical and financial support for the sustained implementation of QAS.
+
+G. Trainings on basic sputum smear microscopy shall be performed only by trainers certified by NTRL, and shall be conducted only in NTRL certified training facilities to ensure that such‘trainings are in accordance to national and international standards.
+
+III. OBJECTIVES
+
+A. To define policies, and broadly describe the implementation of QAS for DSSM;
+
+B. To define the roles and functions of each level of the TB laboratory network, health facilities including health personnel;
+
+C. To describe the system for. participation of other TB laboratories including the private sector; and
+
+D. To describe policies governing trainings on QAS.
+
+IV. SCOPE
+
+This issuance shall cover all agencies/units, whether public, particularly the local government units, private, including non-government organizations, that are supporting and implementing the QAS, performing DSSM, and involved with the implementation of the NTP.
+
+V. DEFINITION OF TERMS
+
+A. Directly observed treatment short course (DOTS) - refers to the main strategy to control TB and is one of the most cost-effective health strategies. It has five elements namely (1) diagnosis by quality assured bacteriology (including OA DSSM), (2) supply of anti-TB drugs with efficient drug management, (3) supervised intake of short course chemotherapy and patient support, (4) monitoring and evaluation including impact measurement, and (5) political commitment with sustained financing.
+
+B. Quality Assurance System (QAS) - refers to the system designed to continuously improve the proficiency of laboratory services.
+
+C. External Quality Assessment (EQA) - refers to the process of periodic and independent measurement of laboratory performance in collaboration with a competent external laboratory; its components include on-site evaluation to review quality control procedures and on-site re-reading of smears, blinded slide re-checking, and panel testing.
+
+D. Quality Control (QC) - refers to the systematic internal monitoring of working practices, technical procedures, equipment and materials including quality of stains.
+
+E. Quality improvement (QI) - refers to the process by which the various components of the sputum microscopy services are analyzed to find ways to permanently remove obstacles to success. The elements of OI include data collection, data analysis, and problem solving. The process involves continuous monitoring and identification of problems followed by remedial action to prevent a recurrence of the problem. It often relies on effective supervisory visits.
+
+F. Laboratory Network - refers to the different levels of TB laboratories under the NTP and includes the central, intermediate, and peripheral; each level with their respective functions and working in close coordination with each other.
+
+G. Central Laboratory - refers to the National TB Reference Laboratory (NTRL)
+
+H. Intermediate Laboratory - refers to the Regional TB Laboratory and Provincial TB Laboratory or Quality Assurance Centers, located in the level of administrative regions and provinces.
+
+I. Peripheral Laboratory - refers to the microscopy centers or laboratories located in primary care rural health units (RHU), city health centers (CHC), government and private hospitals, and private clinics that provide TB sputum smear microscopy services.
+
+VI. THE QUALITY ASSURANCE SYSTEM FOR TB LABORATORIES
+
+Quality Assurance System (QAS) for TB sputum microscopy is a system designed to continuously improve and maintain the proficiency of the laboratory services. The QAS aims to ensure the reliability of the laboratory services by detecting deficiencies in microscopy work that can be attributed to events within or outside the laboratory. The objectives of QAS are to:
+
+(1) Ensure the accuracy of sputum microscopy results,
+(2) Identify practices that could be potential sources of error, and
+(3) Ensure that corrective actions are initiated within a reasonably short period of time.
+
+QAS has three components, namely: quality control (QC), external quality assessment (EQA), and quality improvement (QI). The activities of these components are implemented by the NTP's network of laboratories through its three organizational levels, namely: central (NTRL), intermediate (Regional TB laboratories; Provincial/City Quality Assurance centers), and peripheral (microscopy laboratories). The QAS will cover all TB microscopy laboratories in public primary care units (RHU/HC), private clinics and laboratories, government and private hospitals, as well as those in non-government organizations. Ensuring the quality of the microscopy services requires a well functioning QAS that monitors all aspects of laboratory operations. The commitment and support of all stakeholders are required to sustain its implementation.
+
+VII. GUIDELINES AND PROCEDURES
+
+A. Establishment of the NTP Laboratory Network
+
+A country requires a network of TB laboratories to meet the global targets of TB control. International experts recommend that the TB laboratory network in populous countries like the Philippines should have a tri-level organizational structure namely: central, intermediate and peripheral. In general, the central laboratory (NTRL) develops policies and standards and fulfills the overall manager's role; the intermediate level laboratories (regional and provincial TB laboratories) work with the central level in implementing the policies, while the peripheral level (microscopy laboratories) provides the sputum microscopy services.
+
+The functions of each laboratory level are the following:
+
+1. Central Laboratory
+
+The central TB laboratory is the National Tuberculosis Reference Laboratory (NTRL) located at the Research Institute of Tropical Medicine in Alabang, Muntinlupa City. The main functions of the NTRL include the development of policies, technical guidelines and standards that are in consonance with existing NTP policies; exercise overall technical supervision of the TB laboratory services; provide technical advice; research; and surveillance. A number of AFB sputum microscopy examinations, cultures, and drug susceptibility testing (DST) shall be performed at the NTRL to maintain the central staff's skills on training, supervision, and quality assurance. The specific functions of the NTRL are the following:
+
+■ Develop, update, and disseminate policies, standards, and guidelines on laboratory procedures for quality assured TB bacteriologic diagnosis;
+
+■ Develop a national strategic plan for TB laboratory services in collaboration with the NTP;
+
+■ Provide technical advice to the NTP on laboratory matters including requirements of laboratory supplies and equipment;
+
+■ Develop technical specifications or standards for TB laboratory equipment and facilities, reagents, consumables, and other laboratory supplies; and monitor compliance to the standards;
+
+■ Develop and disseminate guidelines on the care and maintenance of microscopes and other laboratory equipment;
+
+■ Monitor, supervise, and evaluate the nationwide implementation of QAS and overall laboratory performance, especially in areas where there are no Regional NTP Medical Technologist Coordinators;
+
+■ Provide technical and managerial support to intermediate level laboratories;
+
+■ Conduct training on quality assurance and other laboratory support activities (training, supervision, laboratory safety, and equipment maintenance) for intermediate level staff i.e. regional laboratory staff, provincial / city controllers, and NTP coordinators;
+
+■ Perform EQA for microscopy examinations done at regional TB laboratories, PTSI Central Laboratory, and specialty hospitals in the National Capital Region;
+
+■ In special situations, designate a OA center for TB Laboratories in collaboration with NTP to fill any gaps in QAS; and
+
+■ Conduct operational researches related to laboratory services and QAS.
+
+2. Intermediate Laboratories
+
+a. Regional TB Laboratory
+
+The Regional TB Laboratory covers an administrative region in the country and is administratively under the DOH Centers for Health Development, with technical supervision from the Regional NTP Medical Coordinator. A number of sputum microscopy examinations may be done at the regional TB laboratories to maintain the regional staff's skills in training, supervision, and quality control.
+
+The functions of the Regional TB Laboratory are:
+
+■ Prepare a strategic plan for the region's TB laboratory services in collaboration with the Regional NTP Coordinators;
+
+■ Assist the central laboratory in the development and dissemination of TB laboratory policies;
+
+■ Provide advocacy, and technical, and administrative support for the establishment and operation of QA centers in each province/city;
+
+■ Monitor, supervise, and evaluate the implementation of QAS in the region;
+
+■ Perform as necessary, EQA on microscopy examinations done at the provincial/city TB laboratories and QA centers;
+
+■ Collate and analyze data on EQA and laboratory activities from the provincial and peripheral laboratories;
+
+■ Submit quarterly and annual reports on EQA and laboratory activities to NTRL within the prescribed timeline;
+
+■ Conduct training on DSSM as endorsed by NTRL; and
+
+■ Assess the quality of reagents that were distributed in the field.
+
+b. Provincial and City TB Laboratory (QA Centers)
+
+The Provincial or City TB Laboratory under the local government serves as the Quality Assurance (QA) center for the province or chartered city respectively under the technical supervision of. the NTP Coordinator. The provincial / city laboratory (QA Center) will cover the TB microscopy laboratories located in their corresponding area. This will include the RHU/CHC; Public-Private Mix DOTS clinics; provincial and district hospitals; private hospitals and clinics; DOH-retained, specialty, and regional hospitals; and the PTSI microscopy laboratories. A number of microscopy examinations may be done at the provincial laboratory to maintain the provincial staff's skills on training, supervision, and quality assurance.
+
+The principal functions of the QA Centers are the following:
+
+■ Implement QAS activities including determination of sample size, collection of sample slides (Note: collection of sample slides should not be done by the Controller to ensure blindedness), blinded re-checking of slides, provide feedback to microscopists, perform on-site assessment of laboratory activities (supervisory visits), and provide technical or managerial support to the peripheral microscopy laboratories in implementing corrective actions for quality improvement;
+
+■ Collate and analyze data on EQA and laboratory activities to identify problematic microscopy centers;
+
+■ Submit quarterly and annual reports on EQA and laboratory activities to the Regional TB laboratory within the prescribed timeline; and
+
+■ Provide technical advice to LGUs on procurement of laboratory equipment and supplies to ensure that these conform to NTP standards.
+
+3. Peripheral Laboratory
+
+The Peripheral Laboratories are TB microscopy laboratories located in rural health units and city health centers (RHU/HC), those in PPMD units, and in public and private hospitals under the supervision of the head of the clinic/unit. The laboratory should have at least one binocular microscope, and at least one NTP trained microscopist covering a population of about 100,000 or less, provided that the daily workload is adequate to maintain the staff's proficiency.
+
+The principal functions include:
+
+■ Perform sputum smear microscopy for diagnosis, and for follow up of TB patients on therapy using the Ziehl-Neelsen technique.
+
+■ Ensure quality control in the laboratory
+
+■ Store sputum slides for EQA
+
+■ Receive feedback from QA center and take corrective action as needed
+
+■ File EQA results and feedback sheets from the QA center;
+
+■ Record and report TB laboratory data
+
+B. TRAINING
+
+1. Categories of Staff for Training on Quality Assurance
+
+The following staff must undergo the standard training on QAS at the NTRL and/or its designated laboratory, e.g. Cebu Tuberculosis Reference Laboratory (CTRL), prior to their involvement in the implementation of QAS.
+
+1. Controllers at QA center
+2. Provincial / City NTP Coordinators
+3. Regional NTP Coordinators
+4. Regional NTP Medical Technologists
+
+Controllers at the QA center and the Regional Medical Technologists should also have been trained in DSSM.
+
+The Provincial / City NTP Team and QA staff must conduct an orientation on the new QAS for the staff of Rural Health Units / Health Centers, PPMD units, and other TB Laboratories. They should also ensure that each health unit or laboratory has a copy of the Manual on Quality Assurance for Sputum Smear Microscopy (DOH, 2004).
+
+VIII. QUALITY ASSURANCE (QA) CENTER:
+
+The provincial or city government, with assistance from the regional TB laboratory and/or NTRL, shall be responsible for the establishment of the OA center and to start and manage its operations. The OA center is under the administrative supervision of the provincial or city government; it is responsible for the effective implementation of QAS in the area. The requirements for a QA center to perform its functions are:
+
+A. Location
+
+There must be at least one QA center per province or city preferably located in sufficient proximity to the Provincial/City NTP office. If the local NTP Coordinators deem that one QA center is insufficient for reasons of workload and/or accessibility to the peripheral microscopy laboratories, another one may be established after consultation with the provincial/city and regional NTP teams, and the NTRL.
+
+B. Staffing
+
+There should be at least one, preferably two, Controller(s) in the QA center. The Controller should be a Registered Medical Technologist who has completed the basic and/or refresher course on sputum microscopy, and QAS training provided by the NTRL or CTRL.
+
+C. Facilities and Necessary Equipment / Supplies
+
+The QA center ideally should have a quiet and comfortable working environment with the necessary laboratory and office equipment and supplies to allow the efficient conduct of its functions. For the specific requirements and physical set-up of a QA Center, refer to the Manual on Quality Assurance for Sputum Smear Microscopy.
+
+D. Funding and Logistical Support
+
+The establishment, operation, and maintenance of the OA center is the responsibility of the respective LGUs (province/city). This also includes providing adequate funds for salaries and benefits of staff, equipment, forms, supplies, and funds for field supervisory visits for on-site evaluation and feedback to the peripheral laboratories. Assistance from DOH, international and local partners, may be mobilized to strengthen the OA center. In addition, OA centers may develop and implement financing schemes to sustain the implementation of QAS in accordance to existing laws and policies, and without jeopardizing access to TB laboratory services especially for the poor.
+
+E. Specific Activities
+
+The following are the major activities performed by the QA centers; these are described in detail in the Manual for Quality Assurance for Sputum Smear Microscopy
+
+■ The specific activities to implement EQA are:
+
+a. Determine sample size per microscopy center using the LQAS,
+b. Collect sample slides from peripheral laboratories on a quarterly basis (in some situations as approved by the Provincial/City NTP Coordinators, peripheral laboratories may bring the slides to the QA center)
+c. Perform blind re-checking and smear assessment of slides,
+d. Analyze and interpret results of blind rechecking,
+e. Perform on-site assessment of laboratory activities using the standard checklist,
+f. Provide feedback of EQA results to the peripheral laboratories, and 
+g. Monitor compliance to recommendations.
+
+■ Consolidate, analyze, and report data on EQA and other TB laboratory activities
+■ Perform on-the-job training and/or re-training of microscopists in collaboration with the regional TB laboratory and/or NTRL.
+
+F. Reporting and Feedback Schedule
+
+Quarterly reports of OA activities must be submitted to the provincial/city health office through the NTP Coordinators, and to the Regional TB Medical Technologist Coordinator. Regional TB laboratories should then send the collated reports with a corresponding analysis to NTRL on a quarterly basis. Timelines will be as follows:
+
+■ Feedback from the OA center to the microscopy center should be done within 10 days after detecting a major error.
+
+■ Report from Provincial /City TB Laboratories to Regional TB Laboratory: end of the second month following the assessed quarter
+
+■ Report from Regional TB Laboratory to NTRL: end of the third month following the assessed quarter
+
+■ Report from NTRL to the NTP (NCDPC) during the semi-annual NTP Laboratory Management Workshop
+
+IX. SPECIFIC PROCEDURES FOR QAS
+
+The detailed procedures to implement QAS are contained in the Manual for Quality Assurance for Sputum Smear Microscopy (DOH, 2004). The manual has been disseminated to different end-users to serve as the Standard Operating Procedures in the implementation of QAS at each level of the laboratory network.
+
+X. EFFECTIVITY
+
+This AdminiStrative Order shall take effect immediately.
+</body>
+
+<sign>FRANCISCO T. DUQUE, MD, MSc.</sign>
+<signtitle>Secretary of Health</signtitle>

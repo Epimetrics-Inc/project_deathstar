@@ -1,0 +1,371 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>09/29/2014</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2014 - 0032 </docnum>
+<subject>SUBJECT: Guidelines for the Scaling up and Use of Xpert MTB/RIF as Rapid TB Diagnostic Tool under the National TB Control Program </subject>
+<body>
+ 
+
+I. RATIONALE 
+
+One of the three strategic directions of the Universal Health Care is the attainment of the Millennium Development Goals (MDG). MDG 6 calls to combat HIV/AIDS, malaria, and other diseases, including TB. Consistent with the MDGs, the goal of the 2010 - 2016 ' Philippine Plan of Action to Control Tuberculosis (PhilPACT) is to reduce TB prevalence . and mortality rates by half compared to 1990 ﬁgures. The National TB Control Program (NTP) targets are 90% Case Detection Rate and at least 90% Treatment Success Rate. Accurate and prompt diagnosis of TB both susceptible and drug- -resistant TB (DRTB), is critical in achieving these targets. As such, one of the 8 strategies of PhilPACT IS to regulate and make available quality TB diagnostic tests and drugs. Performance targets under this strategy include: ensuring that 90% of participating diagnostic services are within quality standard; TB microscopy expanded to improve access; and, Culture, Drug Susceptibility Test (DST) and new technologies are scaled up. 
+
+The bacteriologic diagnosis of TB currently relies on Direct Sputum Smear Microscopy (DSSM). The test has an acceptable level of sensitivity and speciﬁcity in high TB-burden settings. It 15 relatively cheap, easy to perform by trained and proﬁcient health workers, and can be easily set up even in remote areas However, in patients with pauci- -bacillary disease (smear negative pulmonary TB) particularly among persons living with HIV (PLHIV) with TB co-infection, children, and the immune-compromised, the test has inadequate sensitivity and can easily miss the diagnosis. 
+
+Culture for AFB, including DST, is utilized by the NTP to detect patients with drug- resistant TB The test is available only in a limited number of specialized laboratories Moreover, turnaround time for the results takes several months which contributes to patients being lost even before diagnosis is made and treatment is started. 
+
+Chest X—ray is still used to complement bacteriologic testing to make a diagnosis but this has low accuracy in diagnosing active PTB and does not differentiate drug-susceptible - 
+
+from drug- resistant disease. Histologic examination of specimens other than sputum is occasionally resorted to for detection of extra-pulmonary TB. However, these tests are not readily accessible for most presumptive TB patients. 
+
+New diagnostic technologies for TB, such as the nucleic acid ampliﬁcation test (NAAT), have been introduced and endorsed by the World Health Organization (WHO) for use by country TB control programs. In 2010, WHO endorsed Xpert MTB/RIF, a NAAT that operates on a fully automated platform that can detect Mycobacterium tuberculosis 1n sputum specimens including strains that are resistant to Rifampicin. Xpert MTB/RIF can produce results in about two hours. This is critical especially for patients in need of immediate treatment including advanced TB disease, and TB/HIV patients. Many countries have adopted this technology. 
+
+The Philippines started using the Xpert MTB/RIF machines in 2011 in a phased manner and currently has 30 machines in use. For 2014, international partners will assist the country procure more Xpert MTB/RIF machines. Under the 2013 — 2016 Laboratory Network Strategic Plan (LNSP), the country targets to have at least 155 in operation to ensure that all provinces and cities have access to this rapid diagnostic tool. Furthermore, some private laboratories are also using this diagnostic test. It is imperative that this machine be effectively and efﬁciently used to support the efforts of the country to control TB. Thus, this issuance has been formulated. 
+
+II. OBJECTIVES 
+
+A. To deﬁne policies and guidelines in the use of Xpert MTB/RIF by laboratories. 
+
+B. To describe the country’s systematic approach in scaling up Xpert MTB/RIF as diagnostic tool of the National TB Control Program. 
+
+C. To describe the roles and responsibilities of each stakeholders in providing Xpert MTB/RIF. 
+
+III. SCOPE AND COVERAGE 
+
+This issuance shall cover all concerned ofﬁces / units of the Department of Health, both at the central and regional levels, local government units, and all public and private health facilities and laboratories using Xpert MTB/RIF within the NTP network. 
+
+IV. DEFINITION OF TERMS 
+
+A. Drug-Susceptible TB — any person whether adult or child who shows sensitivity to ﬁrst line anti-TB drugs. 
+
+B. PMDT — Programmatic Management of Drug-resistant TB is a component of NTP that ensures comprehensive management of drug-resistant TB. 
+
+C. Presumptive TB — any person whether adult or child with signs and/or symptoms suggestive of TB whether pulmonary or extra-pulmonary, or those with chest X-ray ﬁndings suggestive of active TB. 
+
+D. Presumptive DRTB - any person (whether adult, adolescent, or child) who belongs to any of the DRTB high-risk groups, such as: re-treatment cases, new TB cases that are contacts of conﬁrmed DRTB cases or non—converter of Category 1, and PLHIV with signs and symptoms of TB. 
+
+E. Multi-drug Resistant TB - any person whether adult or child who shows resistance to at least both Isoniazid and Rifampicin. 
+
+F. QA center — facility that conducts the quality assurance (QA) program which involves a series of regular activities carried out to monitor the laboratory’s overall performance towards maintaining high quality results. 
+
+G. Quality Assurance System — it is a system designed to continuously improve the reliability and efﬁciency of laboratory services. 
+
+H. Xpert MTB/RIF Assay - a rapid test that detects Mycobacterium tuberculosis and rif mpicin resistance. 
+
+I. Xpert MTB/RIF Site —- any health facility that provides Xpert MTB/RIF services. 
+
+V. GENERAL GUIDELINES 
+
+A. Xpert MTB/RIF shall be used in TB diagnosis among presumptive DR-TB, PLHIV with signs and symptoms of TB, children, extrapulmonary and smear negative patients with chest X-ray ﬁndings suggestive of TB following the caseﬁnding algorithm of the revised Manual of Procedures (MOP) for NTP, 5th edition. 
+
+B. Use of Xpert MTB/RIF shall be scaled—up, maintained and sustained within the strategic plan, structure and policy of the NTP laboratory network. Geographical expansion of Xpert MTB/RIF shall be harmonized with the PMDT expansion plan to ensure that detected DRTB patients are provided prompt treatment. 
+
+C. Quality control measures, based on current international recommendations for the use of Xpert MTB/RIF, shall be strictly followed. 
+
+D. Capability building on Xpert MTB/RIF shall be performed only by trainers authorized by NTRL and shall be conducted in accordance to national policies. 
+
+E. Recording and reporting system on Xpert MTB/RIF shall be consistent with the NTP information system policies and procedures. 
+
+F. The National TB Reference Laboratory (NTRL) shall oversee the management of Xpert MTB/RIF and ensure its proper use in accordance with the direction of NTP. 
+
+G. Both public and private health facilities and laboratories shall be engaged to be part of NTP laboratory network to ensure standardization of TB diagnostic services. 
+
+H. For the diagnostic services to be fully functional and sustainable, the following support systems shall be in place: Human Resource, Facility & Equipment Management, Supply Management, Laboratory Information, Monitoring and Evaluation, and Financing. 
+
+VI. IMPLEMENTING MECHANISM 
+
+A. Scaling up of Xpert MTB/RIF 
+
+1. Prior to implementation the following preparatory activities shall be conducted.  
+
+a. DOH— Regional Ofﬁces (DOH — ROs) shall select facilities based on the following criteria: 
+
+i. Strategically located to ensure accessibility to a critical mass of clients based on population and notiﬁed TB patients. 
+
+ii. With at least one (1) staff graduate of any health-related ﬁeld with basic computer literacy and can be trained to perform the testing and equipment maintenance, logistics management, and other necessary health systems. 
+
+iii. With high workload for TB diagnosis (at least 8 examinations per day for a four-placer module of Xpert MTB/RIF machine). 
+
+iv. Ensured stable power supply in the area to avoid wastage. - 
+
+v. Adequate and secured storage space of the machine and supplies. 
+
+vi. With capacity to treat detected TB cases or with referral system in place to ensure provision of treatment in accordance with NTP protocol. 
+
+b. DOH - ROs, under the guidance of NTRL, shall conduct site assessment through a checklist and advocacy of proposed. facilities. 
+
+c. Memorandum of Understanding between DOH and the receiving institution shall be signed to signify commitment of both parties on TB Xpert implementation. 
+
+d. The facility shall designate 1-2 health staff to undergo training and be responsible for the running of TB Xpert. 
+
+e. All levels (national, regional, LGU) shall ensure that necessary logistics are in place. 
+
+2. The following procurement, distribution and installation activities shall be done: 
+
+a. NTRL shall provide the technical speciﬁcations of . the Xpert MTB/RIF machine and supplies. 
+
+b. The Xpert MTB/RIF machine and supplies shall be procured and distributed according to existing policies and agreements among stakeholders. 
+
+c. The Xpert MTB/RIF machine shall be installed by a service provider authorized by NTRL. 
+
+3. NTRL and DOH — RO shall provide technical assistance to selected Xpert MTB/RIF sites through mentoring, monitoring/supervision and consultative meetings. 
+
+B. Use of Xpert MTB/RIF by the facility 
+
+1. The Xpert MTB/RIF shall be used for the following cases: 
+
+a. as diagnostic test for presumptive DR-TB; 
+
+b. as primary diagnostic test for PLHIV with signs and symptoms of TB; 
+
+c. as diagnostic test for PTB in smear negative patients with chest X-ray ﬁndings suggestive of TB; 
+
+d. as primary diagnostic test for children with presumptive TB; 
+
+e. as diagnostic test for selected types of extrapulmonary TB based on WHO recommendations (Xpert MTB/RIF Implementation Manual, WHO 2014). 
+
+2. Xpert MTB/RIF shall be used for the following specimens: 
+
+a. Pulmonary specimens including expectorated, or induced, sputum; broncho- alveolar lavage ﬂuid; bronchial washings; and bronchial biopsy specimens and gastric aspirates. 
+
+b. Extra- -pulmonary specimens such as Cerebrospinal Fluid (CSF).
+
+
+c. Tissue samples obtained through biopsies such as lymph nodes, pleura, and others. 
+
+(Note: Pleural ﬂuid is a suboptimal sample for the bacterial conﬁrmation of pleural TB, using any method. A pleural biopsy specimen is the preferred sample.) 
+
+3. Xpert MTB/RIF shall not be used for blood, urine, stool, or sputum containing food particles. 
+
+4. Receipt of specimens: 
+
+a. Patients for diagnosis can be directly referred to an accessible Xpert MTB/RIF site with duly accomplished Form 2a. N T P Laboratory Request Form (see Annex 1) and Form 7. NTP Referral Form (see Annex 2) 
+
+b. Alternatively, specimens can be collected by the health facility, which shall ensure that specimens are securely packed and sent to the Xpert MTB/RIF site together with the request form; 
+
+c. Request coming from the private sector shall be accommodated as long as they are eligible for testing per NTP policy. 
+
+5. Results shall be released within two (2) working days at most, from receipt of the specimen. For referrals, results shall be sent to the referring facility/health care provider through any available means (fax, email, postal or courier service). 
+
+6. Referring physician shall diagnose and manage the patient in accordance with I MOP policies and procedures. 
+
+7. Standard MOP recording and reporting policies shall apply: 
+
+a. All specimens shall be accompanied by a duly accomplished Form 2a. N TP Laboratory Request F arm (see Annex I). 
+
+b. All results shall be recorded in the Form 3a. NTP Laboratory Register (Microscopy and GX) (see Annex 3) as follows: ' 
+
+T - MTB detected, Rifampicin resistance not detected 
+RR — MTB detected, Rifampicin resistance detected 
+TI - MTB detected, Rifampicin resistance indeterminate 
+N - MTB not detected 
+I - Invalid/No Result/Error 
+
+c. Accomplishments in Xpert MTB/RIF testing shall be reported using the Report 1. Quarterly Report on TB Microscopy and GX Laboratory Examinations (see Annex 4). This shall be submitted to the next higher level following NTP procedures. The DOH - ROS shall submit all laboratory reports to NTRL who will consolidate and analyze the reports and submit to NTP. All ofﬁcial reports shall be issued by NTP. 
+
+C. Infection Control / Biosafety / Waste Management 
+
+1. All facilities using Xpert MTB/RIF shall observe infection control / biosafety / waste management practices based on national standards and guidelines 3 prescribed by MOP. 
+ 
+2. Biosafety requirements for Xpert MTB/RIF Assay for sputum specimens are similar to Sputum Smear Microscopy such that it may be performed on an open bench, provided that adequate ventilation can be assured. A biosafety cabinet is not a requirement for the performance of Xpert MTB/RIF Assay for sputum specimens. 
+
+3. Preferably, tissue samples must be processed within the biological safety cabinet, given the risk of producing aerosols while grinding and homogenizing samples. However, meticulous observance of good microbiological process, sound infection control, risk assessment and biosafety needs to be in place in the absence of BSC (source: NTL Standard Operating Procedure for Xpert MT B/RIF Assay for Extrapulmonary Specimen). 
+
+D. Logistics and Equipment Management 
+
+1. Xpert MTB/RIF sites shall forecast and request for quarterly needs based on expected demands and period of implementation. 
+
+2. Facilities shall request supplies from the DOH - ROs using the Report 4. Quarterly report on drug and supply inventory and requirement (see Annex 5). 
+
+3. Xpert MTB/RIF cartridges shall be stored in a cool, dry place (2-28 °C), in a secure and clean area not exposed to direct Sunlight. 
+
+4. The facility shall practice First Expiring, First Out (FEFO) in using Xpert MTB/RIF cartridges. The facility shall inform DOH - ROS of cartridges expiring in the next 3 months as soon as possible. DOH - RO shall notify NTRL of quarterly allocation and pending nearly expiring cartridges as reported by the facility. 
+
+5. Maintenance and calibration of Xpert MTB/RIF machines shall follow current WHO and manufacturer’s recommendations. Xpert MTB/RIF machine calibration shall be coordinated by NTRL and shall be done annually by an NTRL-approved service provider. 
+
+6. The-facility shall immediately report machine—related problems, which are beyond the troubleshooting capability of the operator to the DOH - ROs for appropriate action by NTRL and/or the authorized service provider. 
+
+E. Health facilities / laboratories providing Xpert MTBIRIF test outside the NTP laboratory network 
+
+In accordance with the NTP Public Private Mix (PPM) framework, NTRL and DOH- ROS shall encourage facilities offering TB Xpert services outside the NTP to join the NTP laboratory network. They shall refer detected TB/DRTB to DOTS facilities for free treatment following MOP policies. 
+
+VII. ROLES AND RESPONSIBILITIES OF KEY AGENCIES / OFFICES AND PARTNERS 
+
+A. Infectious Disease Prevention and Control Division (IDPCD) shall: 
+
+1. Provide policy and strategic direction pertinent to the utilization of Xpert MTB/RIF in NTP implementation in the country and initiate policy revisions as necessary; 
+
+2. Participate in the monitoring and evaluation of the use of Xpert MTB/RIF; 
+
+3. Ensure availability of Xpert MTB/RIF equipment and needed supplies/ logistics; 
+
+4. Analyze laboratory data as part of comprehensive assessment of program management. 
+
+5. Provide funding support for training, monitoring and other related activities; 
+
+6. Mobilize resources to ensure sustainability of Xpert MTB/RIF implementation; 
+
+7. Facilitate signing of the Memorandum of Understanding (MOU) between DOH and recipient facility. 
+
+
+B. National Tuberculosis Reference Laboratory (N TRL) shall: 
+
+1. Develop, update and disseminate policies, standards and guidelines on Xpert MTBHUF in coordination with NTP; 
+
+2. Select the site/facility that will use Xpert MTB/RIF in coordination with NTP, DOH — RO and partners; 
+
+3. Determine the appropriate technical speciﬁcations and standards for the equipment and related supplies; 
+
+4. Formulate, disseminate, and implement an Xpert MTB/RIF implementation plan; 
+
+5. Develop and implement a training program and plan for Xpert implementation including the training of trainers, post—training supportive supervision, and training evaluation. 
+
+6. Develop and implement a technical assistance and supervisory plan for Xpert MTB/RIF operations in coordination and collaboration with the DOH-Regional Ofﬁces and Provincial/City Health Ofﬁces. 
+
+7. Collect, consolidate and ensure analysis and utilization of quarterly laboratory reports; 
+
+8. Oversee management of supplies for Xpert MTB/RIF implementation at all levels which shall include forecasting, allocation, storage and distribution; 
+
+9. Develop the quality assurance system and ensure implementation thereof; 
+
+10. Advocate for the participation of the private sector; 
+
+11. Ensure the proper maintenance of Xpert MTB/RIF machines and facilities based on a facility and equipment maintenance program and plan developed by NTRL. 
+
+12. Lead monitoring and evaluation of Xpert implementation and report M&E results to NTP and WG; 
+
+13. Coordinate conduct of operational researches with NTP and partners; 
+
+C. Material Management Division (MMD) shall: 
+
+1. Store the cartridges, calibration kits and ether supplies according to the standard handling and storage systems; 
+
+2. Distribute supplies based on the allocation list provided by NTRL and participate in monitoring logistics management as needed; 
+
+3. Submit distribution report to NTP/NTRL on quarterly basis and give feedback thereof of related logistical issues, if any. 
+
+D. DOH - Regional Ofﬁces (DOH - ROS) shall: 
+
+1. Recommend sites/facilities for strategic placement of Xpert MTB/RIF; 
+
+2. Advocate for the adOption of Xpert MTB/RIF by the identiﬁed sites; 
+
+3. Conduct site/ facility assessment in coordination with NTRL; 
+
+4. Assist in the dissemination and enforcement of policies and guidelines, and implementation of plans for Xpert MTB/RIF implementation; 
+
+5. Conduct training of implementers; 
+
+6. Manage the logistics within the region; 
+
+7. Monitor and evaluate Xpert MTB/RIF implementation in coordination and collaboration with NTRL and the Provincial / City Health Ofﬁces; 
+
+8. Collaborate and coordinate with NTRL, Provincial/City Health Ofﬁces, and partners to develop and implement a technical assistance and supervisory plan. 
+
+9. Collect, consolidate, analyze and submit quarterly reports to NTRL; 
+
+10. Coordinate partners’ activities related to Xpert MTB/RIF implementation in the region. 
+
+
+B. Provincial Health Ofﬁce (PHO) / City Health Ofﬁce (CHO) shall: 
+
+
+1. Assist in advocating for the adoption of Xpert MTB/RIF by the identiﬁed sites; 
+
+2. Conduct QA of Xpert MTB/RIF sites; 
+
+3. Collect, consolidate, analyze and submit to DOH regional ofﬁce quarterly reports 
+
+4. Assist DOH - R) in the monitoring and evaluation of Xpert MTB/RIF implementation. 
+
+
+F. Xpert MTB/RIF site shall: 
+
+1. Perform Xpert MTB/RIF testing in accordance with standard policies, diagnostic guidelines, and operating procedures; 
+
+2. Ensure timely release of results to the requesting clinic or health provider; 
+
+3. Implement proper procedures (i.e. receiving, storage, and rational use of laboratory supplies; for inventory recording and reporting; and for calculating, and the timely request) in the management of laboratory supplies to avoid stock— outs; 
+
+4. Provide a secure space for equipment and supplies; 
+
+5. Maintain records and submit reports in accordance with NTP policies and procedures; 
+
+6. Implement standard laboratory quality control measures to ensure reliable test results; 
+
+7. Implement maintenance measures to optimize machine performance.
+
+G. Partners shall: 
+
+1. Provide technical assistance as needed;
+
+2. Participate in the planning, monitoring, and evaluation;
+
+3. Assist in the procurement and distribution of Xpert MTB/RIF equipment and supplies as needed. 
+
+
+
+VIII. MONITORING AND EVALUATION 
+
+A. NTRL shall lead the monitoring and evaluation of Xpert MTB/RIF implementation. NTRL, in collaboration with the IDPCD, DOH-RO and PHO/CHO, shall ensure the timely collection and analysis of quality data; the submission of reports within the prescribed schedule; and feedback to program managers, service providers, requesting facilities, and other stakeholders. 
+
+B. DOH -— RO and provincial/city laboratory coordinators shall conduct monitoring and supervisory visits to Xpert MTB/RIF sites in coordination with NTRL utilizing standard checklists. 
+
+C. DOH - RO, under the supervision of NTRL, shall ensure that the Xpert MTB/RIF sites regularly submit necessary data and information to monitor TB Xpert implementation. The key data requirements per WHO recommendations are: 
+
+1. Assist in the procurement and distribution of Xpert MTB/RIF equipment and supplies as needed. 
+
+
+a. the number of Xpert MTB/RIF tests performed, disaggregated by reason for testing (that is, by group of either TB patients or individuals suspected of having TB)  
+
+b. the number of tests with MTB DETECTED, Rif resistance NOT DETECTED 
+
+c. the number of tests with MTB DETECTED, Rif resistance DETECTED 
+
+d. the number of tests with MTB DETECTED, Rif resistance INDETERMINATE 
+
+e. the number of tests with MTB NOT DETECTED 
+
+f. the number of tests that had invalid results, no results or other errors. 
+
+
+2. Supply management (source: stock cards, inventory records, Report 4. Quarterly report on drug and supply inventory and requirement) 
+
+a. the number of cartridges in stock at the beginning of the reporting period 
+
+b. the number of cartridges received during the reporting period 
+
+c. the number of cartridges used during the reporting period 
+
+d. the number of cartridges at were lost or damaged  
+
+e. the number of cartridges that were in stock at the end of the reporting period f. whether there were any stock-outs during the reporting period, the duration of the stock (in days) 
+
+g. number of cartridges that expired before being used FUNDING 
+
+The DOH, through NTP, shall ensure that adequate funding is available to support the implementation of these policies and guidelines. 
+
+X. REPEALING CLAUSE 
+
+No existing policies to be repealed/rescinded/amended by this administrative order. 
+
+XI. EFFECTIVITY 
+
+This Order shall take effect immediately upon approval. 
+
+</body>
+
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle> 
+
+<image>figure_1.png</image>
+<image>figure_2.png</image>
+<image>figure_3.png</image>
+<image>figure_4.png</image>
+<image>figure_5.png</image>
+<image>figure_6.png</image>
+ 
+

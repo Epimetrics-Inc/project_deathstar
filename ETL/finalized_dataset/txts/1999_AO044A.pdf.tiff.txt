@@ -1,0 +1,481 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+   
+
+SAN LAZARO COMPOUND 
+RIZAL AVENUE, STA. CRUZ
+MANILA, PHILIPPINES
+TEL NO. 711-60-80  
+
+<date>10/18/1999</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 44-A s. 1999</docnum>
+
+<subject>SUBJECT: Guidelines for the implementation of the INTEGRATED HOSPITAL OPERATIONS AND MANAGEMENT PROGRAM (IHOMP) within the Philippine Hospital System</subject>
+
+<body>
+
+I. INTRODUCTION
+
+The Integrated Hospital Operations and Management Program (IHOMP) formerly Hospital Epidemiology Program (HEP) serves as a hospital based information system designed to provide relevant and timely information for decision making. The program was re-conceptualized in 1995 and expanded in 1997, in response to present information needs and evolving requirements among hospitals.
+
+This set of guidelines is hereby prescribed to improve hospital performance through sound and efficient clinical care and management systems with the end-view of providing quality health services.
+
+
+II. PROGRAM GOALS AND STRATEGIES
+
+A. Goals
+
+Enhance the preventive and promotive role of hospitals (both government and private) through the improvement of management systems and procedures within the hospital.
+
+B. Objectives
+
+B.1. General Objective
+
+To institutionalize the Integrated Hospital Operations and Management Program (IHOMP) within the hospitals. 
+
+B.2. Specific Objectives
+
+1. To implement the [HOMP preferably within a computer-based environment.
+2. To build on and integrate existing hospital information systems.
+3. To standardize the flow of information within and among hospitals.
+4. To fully utilize hospital data/information for evidence-based decision making.
+5. To develop computer software for the program based on the Department of Health standards and the International Classification of Diseases.
+
+C. Strategies
+
+1. Program Planning
+
+This shall cover the development of policy guidelines and implementing mechanisms such as : organizing working committees.
+
+2. Logistic Support
+
+This concerns the development of software, distribution of IEC materials for hospital.
+
+3. Capability Building
+
+This shall cover the upgrading of the human resource skills and capabilities and provision of technical assistance.
+
+4. Social Mobilization
+
+This shall cover the orientation of the program linkages of the different hospital service components and networking.
+
+5. Monitoring and Evaluation
+
+This shall refer to the initial assessment of existing hospital operation and management systems and also monitoring of the compliance to the requirements of IHOMP.
+
+D. Key Activities
+
+In support to the strategies, the following activities shall be undertaken:
+
+1. Development of a national quality management program e.g. quality assurance program.
+2. Accreditation of all hospitals by the DOH and Philippine Health Insurance Program.
+3. Provision of regular annual budget for the implementation and sustenance of the Integrated Hospital Operations and Management Program (IHOMP) by the hospitals.
+4. Regular reporting on hospital performance including comparison with national performance standards
+5. Providing name for technology updates
+6. Conduct of annual consultative workshop
+7. Holding of Integrated Hospital Operations and Management Program (IHOMP)-Activities Updates.
+8. Networking at all levels of the hospital system. 
+9. Sharing of technical information and expertise.
+
+E. KEY RESULT AREAS
+
+The following are the key result areas to be able to sustain/maintain the IHOMP:
+
+1. Availability of adequate hardware and appropriate software.
+2. Timely analysis of data. 
+3. Well timed availability of information.
+4. Appropriate, valid and reliable information are produced by the program.
+5. Qualified and trained staff with a plantilla position assigned to implement the program.
+6. Trained, competent and readily available system administrator or equivalent.
+7. Adequate space and facilities are available for program operations.
+8. Compliance to IHOMP guidelines and procedure. 
+9. Utilization of information by hospital management and clinical staff as reflected in their plans and programs. 
+10. Monitoring and evaluation results are used to continuously improve the quality of information generation.
+
+
+III. IMPLEMENTING GUIDELINES.
+
+1. The IHOMP shall be implemented by phases; phase I shall include the identified forty four (44) pilot hospitals (Annex A); phase II shall cover the government and private tertiary hospitals; phase III shall include all secondary and primary hospitals. 
+
+2. IHOMP implementation shall be fully supported by various committees, working groups and several services and units in the Department of Health per attached organizational structure and their function under Annex B.
+
+3. Specific Activities as listed in Annex C shall be undertaken for the IHOMP implementation on the basis of set guidelines. 
+
+
+IV. FUNDING
+
+The expenses for Software Development shall be charged against the funds of the Hospital Management Information System (HMIS) component of the Integrated Community Health Service Project (ICHSP). The expenses for the Human Resource Development shall be charged against the Hospital Operations and Management Service (HOMS), DOH and the Hospital Regulation and Management System component (HRMS) of ICHSP.
+
+ 
+V. EFFECTIVITY
+
+This Order shall take immediately.
+
+</body> 
+<sign>ALBERTO G. ROMUALDEZ, JR.,M.D.</sign>
+<signtitle>Secretary of Health</signtitle> 
+
+
+ANNEX A
+<image>table_1.png</image>
+<image>table_2.png</image>
+
+ANNEX B
+
+IMPLEMENTING STRUCTURE AND THEIR FUNCTIONS, ROLES, AND RESPONSIBILITIES: 
+
+A. OFFICES, SERVICES, BUREAUS, UNITS, COMMITTEES
+
+1. National Level/Advisory Committee
+
+1.1. The IHOMP Advisory Committee (IHOMAC)
+
+a) Composition 
+
+The IHOMP Advisory Committee shall be composed of regular representative of Offices mandated in Department Order Nos. 352—C s. 1996, 388—B s. 1997 and 595-I s. 1997. 
+
+b) List of Function 
+
+The IHOMP Advisory Committee shall have the following functions:
+
+* Review and evaluate existing programs related to IHOMP and recommend appropriate policies, guidelines and standards related to Integrated Hospital Operations and Management Program (IHOMP).
+* Review the findings of the assessment and monitoring team and recommend appropriate action to the Hospital Director for improvement of the program. 
+* Provide directional plans to the technical working group on the budgetary allocations of the program
+* Initiate linkages with the other health care facilities, private hospitals and local government units and integrated public health programs to support and cooperate with the program.
+
+1.2 The Integrated Hospital Operations and Management Technical Working Group (IHOMTWG)
+
+a) Composition
+
+The Integrated Hospital Operations and Management Program Technical Working Group (IHOMTWG) shall be composed of members as stated in Department Order No. 278-k s. 1999 dated July 8, 1999. 
+
+b) List of Function 
+
+The National Technical Working Group shall:
+
+* Prepare and recommend guidelines and procedures to IHOMAC regarding human resources capability, assessment and monitoring of
+Integrated Hospital Operations and Management Program (IHOMP) implementation.
+* Organize, plan and evaluate integrated hospital operations and management activities.
+* Monitor the effective implementation of the integrated hospital operations and management policy guidelines.
+* Coordinate with IHOMAC regarding issues and concerns encountered during the implementation.
+* Act as Secretariat to Integrated Hospital Operations and Management Advisory Committee meeting.
+* Provide regular updates regarding the status of the Integrated Hospital Operations and Management Program (IHOMP).
+* Provide technical and other necessary support to all hospitals participating / implementing the program. 
+
+2. DOH Central
+
+2.1 Bureau/Services/Program
+
+a.) The following DOH Bureau/Services/Program and Non-Government Organization shall be involved in IHOMP:
+
+1. Hospital Operations and Management Service (HOMS)
+2. Management Advisory Service (MAS)
+3. Health Intelligence Service (HIS)/Field Epidemiology Training Program (FETP) 
+4. Bureau of Licensing and Regulations (BLR)
+5. Philippine Health Insurance Corporation (PHIC)
+6. Integrated Community Health Service Project (ICHSP)
+7. Philippine Hospital Association (PHA)
+
+b.) List of Functions
+
+1. HOMS
+
+* Lead office in the implementation of IHOMP.
+* Coordinate with the different offices of the DOH involved in IHOMP.
+* Initiate plans and programs relative to the implementation of IHOMP.
+* Monitoring and evaluation hospital performance.
+* Coordinate with ICHSP for funding requirements.
+* Coordinate with PHIC in the preparation of IHOMP software to come up with an applicable and appropriate system which can be shared by both agencies.
+* Plan for the establishment of the IHOMP Support Unit to directly oversee the operationalization of the program.
+* Plan for the marketing of IHOMP software in coordination with MAS and other identified agencies e.g. PHA, other.
+* Conceptualize policy guidelines on patent and ownership issue of Hospital Operation Management Information System (HOMIS) software in coordination with other concerned offices.
+* Standardize technical hospital data elements and upgrade systems in coordination with MAS. 
+* Develop a software maintenance and upgrading scheme for future activities. 
+* Provide HIS/FETP data/information from HOMIS for consolidation with the public health data/information to come up with national health picture.
+* Conceptualize and conduct required trainings relative to IHOMP.
+* Ensure quality control and protocols.
+* Coordinate issuances of the information system and synthesizing the data
+
+2. MAS
+
+* Provide technical support in the software development of a computerized hospital information system.
+* Provide assistance in the inStallation of the HOMIS computerized software.
+* Conduct orientation and in-house training on the use of the installed system.
+* Assist HOMS in the monitoring and evaluation of HOMIS for the first two years of implementation and in customizing modules developed by the hospital to be compatible with the HOMP software.
+* Render technical assistance in the maintenance of the system to hospitals using IHOMP/UHOMP software.
+* Training of hospital staff involved in software operation.
+* Coordinate with HOMS in the Information Technology (IT) standardization of data elements and systems upgrading.
+* Define IT configuration for each hospital. 
+* Develop software maintenance and upgrading scheme for future activities.
+* Formulate functional/technical design of the system.
+
+3. HIS/FETP
+
+* Coordinate with HOMS in the identification of data elements of public health significance to be incorporated in the IHOMP.
+* Assist HOMS in monitoring the implementation of the IHOMP for the first two years.
+* Coordinate with HOMS in data/information of epidemiological significance for feedback of public health and hospitals.
+* Assist HOMS and other offices involved in the program activities in evaluating the capability of the prioritize hospital to implement IHOMP.
+
+* Assist in monitoring and evaluation on the initial implementation of IHOMP for the first two years.
+* Formulate functional/technical design of the system.
+
+4. BLR
+
+* Assist HOMS and other offices involved in assessing the capability of the priority hospitals to implement Integrated Hospital Operations and Management Program (IHOMP)
+* Assist HOMS in monitoring the implementation of the Integrated Hospital Operations and Management Program (IHOMP) for the first two years.
+* Coordinate with HOMS relative to the status of pilot hospitals
+
+5. PHIC
+
+* Coordinate with HOMS during the preparation of IHOMP software to be able to input required information from the different private and government hospitals which are significant to PHIC criteria.
+
+* Coordinate with MAS and HOMS on the planned integration of the IHOMP and PHIC information system at the national level.
+
+6. ICHSP
+
+* Ensure the proper utilization of funds in the developmental phases of IHOMP software.
+* Monitor the different pilot hospitals in coordination with HOMS and MAS.
+* Disseminate information about IHOMP to the different pilot hospitals.
+* Provide HOMS status report on the IHOMP pilot implementation.
+
+7. PHA
+
+* Coordinate with HOMS and MAS in order to input data/ information needs of the private hospitals as-stakeholder in the IHOMP Software.
+* Render technical assistance to private hospitals for them to meet the IHOMP/UHOMP requirements to facilitate its implementation.
+* Work out plans for the marketing of the IHOMP Software in coordination with HOMS and MAS.
+* Recommend policy guidelines requiring IHOMP pilot hospitals to furnish HOMS generated data/information from the system.
+
+2.2 IHOMP Consultants
+
+The Program local technical consultants shall be availed until the IHOMP is established. 
+
+Functions:
+
+* Shall provide assistance in the conceptualization and direction of the planned activities for the IHOMP.
+* Shall coordinate with the other program consultants, program managers and HOMS Staff regarding the expected output of IHOMP.
+* Shall assist the drafting of policy guidelines for the IHOMP implementation.
+* Shall provide advice to the Program Manager and to the different committees relative to the effective and efficient implementation of the program.
+* Shall be available for consultation relative to the formulated policies/guidelines on the program implementation.
+* Shall participate in the conduct of the evaluation / assessment of the existing Hospital Information System and data base software for its relevance to the proposed data base for the Integrated Hospital Operations and Management Program (IHOMP).
+* Shall be available upon proper scheduling for assessment / evaluation of the existing Integrated Hospital Operations and Management Program (IHOMP) in identified hospitals.
+* Shall attend and make presentations as necessary in meetings and workshops relative to the conduct of the program.
+
+3. Regional Health Office
+
+Function:
+
+* Assist in the assessment and monitoring of hospitals regarding IHOMP implementation.
+* Establish Regional Integrated/Unified Hospital Operations and Management Program (IHOMP) Unit
+
+4. Regional IHOMP Unit:
+
+Function:
+
+* Assist and provide technical assistance, data/information relative to Integrated Hospital Operations and Management Program (IHOMP) when available.
+* Coordinate with pilot hospitals and HOMS regarding Integrated Hospital Operations and Management Program (IHOMP) implementation.
+
+5. Hospitals
+
+5.1 The Hospital Epidemiology Units (HEU) or Integrated Hospital Operations and Management Program Unit (IHOMPU/) as mandated in Department Circular No. 124 s. 1995, and thoSe that shall create similar units be directly under the Chief of Hospital / Medical Center Chief (Annex B) to ensure the utilization of the data / information In planning and decision-making.
+
+5.2 The HEU/ IHOMP manpower requirement of Record Officers/Designates, Statisticians and Clerk/Computer Operator shall be lodged in the Medical Record Service in addition to their regular function, within the first two (2) years of IHOMP implementation.
+
+5.3 The Integrated Hospital Operations and Management Program (IHOMP) Shall have the following functions:
+
+* Assume the over-all supervision, control and monitoring of the unit.
+* Facilitate the accurate and timely collection and submission of data.
+* Formulate appropriate guidelines for the collectiOn, analysis interpretation and use of information.
+* Provide information to the management committee for planning and decision—making.
+
+5.4 Integrated Hospital Operations and Management Program Unit (IHOMPU) Composition and Functions
+
+5.4.1 Decision Makers
+
+Composition
+* Chief of Hospital / Medical Center Chief or its equivalent for private hospitals or corporation
+* Administrative Officers or its Equivalent
+* Chief Nurses or its Equivalent 
+
+Functions 
+* Proper utilization of data/ information generated by the system to ensure effective hospital operations and management.
+* Data/ Information to be utilized in quality improvement.
+* Quality data from the system can be used for effective and sensible planning and decision making. 
+* Ensure the sustainability of the program.
+
+5.4.2 Implementors 
+
+Composition and Functions
+
+* Chief of Clinics or its Equivalent
+
+- to act as the head and coordinator of the program.
+
+* Epidemiologist / Designate / RESU Head
+
+- coordinate with the other members of the team in the interpretation of data
+— ensure the accuracy of inputs and utilization of the administrative and financial
+- assist the chairman in the collection and utilization of the clinical data
+- interpret clinical data, incidence and prevalence
+- coordinate with the Regional Epidemiology Surveillance Unit
+
+* Nurse III
+
+- Coordinate with the epidemiologist in the interpretation of clinical data.
+- Ensure the collation and utilization of data from the Nursing Service.
+- Ensure the accuracy, completeness and timeliness reports from the different units.
+
+* Records Officer/Designates 
+— ensure the completeness of clinical data
+- synthesize data collected and assures quality of data
+
+* Statistician
+- collection, processing and presentation of data in an acceptable format.
+
+* Clerk/ Computer Operator
+— encode/ input of data.
+
+
+ORGANIZATIONAL STRUCTURE OF THE INTEGRATED HOSPITAL OPERATIONS AND MANAGEMENT PROGRAM (IHOMP)
+<image>figure_1.png</image>
+
+
+ANNEX C
+
+SPECIFIC ACTIVITIES:
+
+The following activities shall be employed / established for the Integrated Hospital Operations and Management Program (IHOMP) Implementation
+
+1. Assessment of Hospitals:
+
+1.1. Assessment teams shall be composed of IHOMAC, IHOMTWG and Consultants, when available. 
+1.2 HOMS technical staff, in coordination with the selected members of the National Technical Working Group, shall perform assessment of the non—pilot hospitals.
+
+2. Logistic Support:
+2.1 DOH National, Regional Offices and targeted hospitals, shall include budget allocation (MOOE, Personal Services and Capital Outlay for Hardware), for the Integrated Hospital Operations and Management Program (IHOMP) activities.
+2.2. Development of information, education campaign materials, e.g. printer.
+2.3. DOH Central Office and Regional Health Offices shall provide a transport service for the assessment and monitoring activities. 
+2.4. Software / Program, shall be provided by HOMS / MAS.
+2.5. The following positions shall be incorporated in the standard hoSpital staffing pattern and shall be created within three (3) years:
+*Staff Unit (IHOMPU):
+- Epidemiologist (MS III)
+- Nurse (N III)
+- Records Officer (RO II)
+- Statistician (Stat. II)
+- Computer Operator (CO II)
+
+However, appropriate parallel positions shall be created in smaller hospitals.
+
+3. Capability Building (Human Resource Development)
+
+3.1 The San Lazaro Hospital, Research Institute for Tropical Medicine and Rizal Medical Center shall be developed as Training Centers
+3.2 The Training Centers shall have the following functions:
+* Formulate Institutional Epidemiology Program, in coordination with the Epidemiology Societies and Health Manpower Development and Training Service (HMDTS).
+* Implement Epidemiology Training Program on a regular basis.
+* Conduct the accreditation of prospective epidemiologists.
+* Provide feedback / report to the Hospital Operations and Management Service (HOMS), through the Integrated Hospital Operations and Management Advisory Committee (IHOMAC), regarding the performance / accomplishment of the trainees.
+3.3 Training programs shall be initiated and implemented together with the HMDTS. 
+3.4 Targeted hospitals shall send appropriate / specified staff required for the training.
+
+4. Computer Training
+
+Training of computerized Systems shall be conducted by Management Advisory Service (MAS).
+
+5. Planning and Research
+
+5.1 Planning for HEP activities Shall include meeting of the IHOMAC, IHOMTWG and consultative workshops with the Chiefs of Hospitals / Medical Center Chiefs. 
+5.2 Research activities shall include studies, program evaluation on strategies and other methods on the eStabliShment and institutionalization of Integrated Hospital Operations and Management Program (IHOMP).
+5.3 Establish a basis for evaluating the appropriateness and timeliness of medical care.
+5.4 Plan health care delivery systems.
+5.5 Conduct epidemiological and clinical research.
+
+6. Recording and Reporting
+
+Establish system for recording and reporting. The following levels of reporting shall be followed to ensure the timely availability of data / information:
+
+6.1 Levels of reporting
+
+A. National Level
+
+The Central-DOH (HOMS) Shall perform the following functions:
+
+* Collation and processing of Integrated Hospital Operations and Management Program (IHOMP) Data by the Data Management Unit of HOMS.
+* Interpretation of processed data by a Committee formed by HOMS.
+* Proper utilization of processed data by the identified clients / users.
+
+B. Hospital Level
+
+The hospital Shall perform the following functions:
+
+* Submission of Integrated Hospital Operations and Management Program (IHOMP) Report every semester on or before the 1st week of the succeeding semester.
+* Collation, processing of EPI—data by the Medical Record service.
+* Processing of significant collected data by the hospital epidemiology committee.
+* Utilization of the propoSed data institutionally.
+
+7. Quality Control
+
+Development of Quality and Control Protocol.
+
+Indicators for this quality and control protocol will be developed.
+
+The following measures shall be observed in hospitals: 
+
+7.1 Complete, accurate, reliable and prompt patient discharge diagnosis.
+7.2 Accurate and prompt billing records. 
+7.3 Complete, accurate, reliable and prompt financial and managerial records.
+7.4 Accurate ICD—1O Coding.
+
+8. Monitoring and Evaluation
+
+8.1 IHOMAC / IHOMTWG / Consultant Shall be responsible in monitoring of targeted hospital.
+8.2 Hospitals found not implementing and sustaining the program shall be assisted in their particular problem area by HOMS. 
+8.3 HOMS technical staff in coordination with selected members of the Integrated Hospital Operations and Management Technical Working Group (IHOMTWG) shall continue monitoring and evaluating the program.
+8.4 Evaluation of the program shall be conducted twice (per semester) a year for at least two (2) years then yearly thereafter. 
+
+9. Government Health and other, Insurance Reimbursement
+
+9.1 Serve as basis of medicare and health insurance reimbursement.
+
+10. Utilization of Hospital Information System Output
+
+10.1 Serve as basis in the formulation of standards of health care.
+10.2 Serve as basis in the formulation of national hospital performance standards.
+
+
+SPECIFIC GUIDELINES:
+
+Resource Requirements:
+
+1. Human Resource
+
+1.1 The staff to be trained shall have the commitment and dedication to perform the task after the training.
+
+Equipment
+
+2.1 Computer
+2.2 Software
+2.3 Back-up
+2.4 Server
+
+3. Software
+
+3.1 Licensed Software
+3.2 Modular Design
+
+* Module I (Basic) — includes the medical records, admitting section, social service and billing.
+
+* Module II (Regular) - includes the laboratory, radiology, central supply section, pharmacy and operating room, emergency room, out-patient department and wards.
+
+* Module III (De Luxe) - includes the financial and administrative services
+
+4. Space
+
+The hospital shall provide a minimum space/room for the Integrated Hospital Operations and Management Program Unit (IHOMPU) to accommodate 3 computers, back up, server, tables and chairs.
+
+5. Budget (PS, MOOE and CO)
+
+5.1 Budget for Personal Service, MOOE and Capital Outlay Shall be allocated by each
+hospital for the program. '
+

@@ -1,0 +1,34 @@
+TANGGAPAN NG KALIHIM
+MAYNILA
+
+<date>08/06/1970</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 126 s. 1970</docnum>
+
+<subject>SUBJECT: Regulation Part C-10: Drugs: Statement of Lot Number, Expiration Date, Registration Number and Storage Conditions of Pharmaceutical Specialties.</subject>
+
+<body>
+C - 10.0 Section 19(h) of the Food, Drug and Cosmetic Act provides that a drug or device shall be deemed to be misbranded, if it has been found by the Secretary of Health to be a drug liable to deterioration, unless it is packaged in such form and manner, and its label bears a statement of such precautions. Under authority of this section and Sec. 26(a) of R.A. 3720, this regulation is hereby prescribed.
+
+C - 10.1 All pharmaceutical specialities shall include on the package label the lot, batch or control number and expiration date.
+
+As used in this regulation, the terms:
+
+a. "batch" means a specific homogenous quantity of a drug produced according to a singel manufacturing order during the same cycle of manufacture.
+
+b. "lot" means a batch or any portion of a batch of a drug or, in the case of a drug produced by a continuous process, an amount of drug produced in a unit of time or quantity in a manner that assures its uniformity, and quality within specified limits.
+
+c. "lot number", "batch number" or "control number" mean any distinctive combination of letters or numbers, or both, by which the complete history of the manufacture, control, packaging, and distribution of a batch or lot of a drug is determined.
+
+C - 10.2 The expiration date <missingtext> </missingtext> the month and year. An expiration date shall assure that the pharmaceutical speciality maintains its safety, identity, strength, quality, and purity until that date, if related conditions of storage are met.
+
+C - 10.3 Any pharmaceutical specialty, the stability of which is affected by the storage condition, shall include on the package label the adequate direction as to storage conditions.
+
+C - 10.4 The foreoing does not apply to prescriptions dispensed by a pharmacist in retail drug store.
+
+C - 10.5 This regulation shall take effect thirty (30) days after publication in the Official Gazette.
+</body>
+
+<sign>AMADEO H. CRUZ, M.D., C.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>

@@ -1,0 +1,251 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound. Rizal Avenue
+Sta. Cruz, Manila. Philippines
+Tel. No. 711-9502/711-9503
+
+<date>02/10/2003</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 17-B s. 2003</docnum>
+
+<subject>SUBJECT: Philippine Quality in Health Program 2003-2007: Five Year Strategic Plan</subject>
+
+<body>
+I. Background/Rationale
+
+The quality of health services in the Philippines varies markedly in different parts of the country depending on various factors such as leadership, training, experience, available resources and networks, among others. In urban centers like Metro Manila where tertiary level hospitals increasingly utilize new technology, there is corresponding rise in costs but not necessarily in quality of healthcare. The myriad efforts by various agencies at defining safety standards, clinical practice standards and health care delivery systems standards need to be organized into an integrated plan in order to create the envisioned impact and lasting benefit to the citizens.
+
+Global initiatives in continuous quality improvement (CQI) have generated valuable experiences that favor the faster integration of quality improvement efforts in this country. Other countries have also embarked on nationwide quality improvement in health programs like family planning. International and local professional societies have responded to the challenges by organizing quality focused associations. Industries, health facilities and various agencies including government have infused resources towards clearer and more specific quality goals and standards. In the Philippines, demand for better quality services not only comes from specific programs but also from various stakeholders, including the general public.
+
+In 1998, the Department of Health (DOH) formulated a Five Year Strategic Plan on a Quality Assurance Program (QAP) with two major strategies: (a) certification or recognition of public health facilities using DOH criteria; and (b) capability building to install knowledge, attitude and skills in the same public health facilities on continuous quality improvement. While the certification strategy, now known as Sentrong Sigla, took off and is currently actively developing, the CQI strategy needed further focus and more concrete interventions. This Philippine Quality in Health (QIH) Program Plan builds on the previous plan and gives more concrete direction to the broad initial CQI effort by using the currently available instruments to drive quality towards higher levels in a phased manner. Since quality is a "moving target", planning and programming for CQI in health care is expected to be dynamic. involving many sectors and needing continuing and endless processing.
+
+In 1999. the DOH organized a national committee to revise the Quality Improvement framework. This committee was reconstituted in 2001 as the National Quality in Health Committee. This plan is the output of that committee based on consultations with many groups such as the Philippine Council on Accreditation of Healthcare Organizations (PCAHO), the Philippine Society for Quality in Health Care (PSQUA), the Philippine Health Insurance Corporation, the Management Sciences for Health, and other agencies. The plan formulation was assisted by the USAID through the Johns Hopkins University project.
+
+II. Title
+
+This quality improvement program shall be called the Philippine Quality in Health Program or QIH Program.
+
+III. Coverage and Scope
+
+This plan covers all health services in the country, not only government health services. and is intended to guide all health providers, both public and private, such as those working in public health facilities, private clinics, hospitals and communities. The plan is also intended to guide all other members of the health sector who interact with health care providers such as drug manufacturers and distributors, managers of health insurance and health maintenance organizations and other stakeholders. Long term strategies for community level providers such as traditional birth attendants, herbolarios and volunteer health workers are also considered in this plan.
+
+IV. Definition of Terms and Basic Concepts
+
+The following definitions and basic concepts are hereby adopted as the standard terms that will be used in the QIH Program:
+
+A. Quality - degree of excellence or desirability of a product, usually measured in relation to conformity with a given standard.
+
+B. Quality Control (QC) - set of functions designed to insure quality in manufactured products by relying on periodic inspection of finished products, analysis of results of inspection to determine causes of defects and systematic removal of such causes.
+
+C. Quality Assurance (QA) - set of functions designed to insure quality in manufactured products by preventive or pre-emptive removal of potential sources of defects through constant improvement of production technology, engineering design, materials, processes, equipment and workmanship.
+
+D. Quality Management (QM) - the organization-wide pursuit of quality
+
+E. Quality Improvement (QI) - the broad all-encompassing generic term for processes involved in the continuing pursuit to improve quality.
+
+F. Performance Improvement - a type of QI focused on the systematic and continuing improvement of organizational performance in order to achieve total quality
+
+G. Total Quality Management (TQM) - the pursuit of quality that involves not just the production organization but also its clients and customers, suppliers and sub-contractors, competitors and oversight agencies in the market, and all other stakeholders in the community.
+
+H. Total Quality - the ultimate goal in quality improvement which involves doing the right thing right the first time and all the time while meeting the needs of internal and extremal stakeholders and customers.
+
+The above concepts and definitions are adapted to health care as follows:
+
+1. Quality in Health Care (from US Institute of Medicine) - the degree to which use of health services by individuals (i.e., clinical care to patients) and populations (i.e., public health service to communities) increase the likelihood of obtaining desired health outcomes and where the provision and use of such services are consistent with current professional knowledge.
+
+2. Quality in Health Care (Alternative Definition from JCAHO) - the degree to which health care needs (i.e., educational, preventive, promotive, curative, rehabilitative, maintenance) of an individual or group are identified in a complete and timely manner and the resources (human and other) necessary to meet these needs are provided as effectively as the practical state of the art allows.
+
+3. Quality in Health Care (MI Roemer and C. Montoya Aguilar, WHO 1988) - proper performance according to standards of intervention that are known to be effective and safe, affordable and have the ability to produce an impact on mortality, morbidity, disability and malnutrition.
+
+4. Quality in Health Care (WONCA QIFM) - best health outcomes that are possible, given available resources, and that are consistent with patient values and preferences
+
+5. Dimensions of Health Care Quality - quality in health is evaluated from the standpoints of structure (i.e., inputs and capacities for delivering health care), process (i.e., activities that providers do to deliver care to patients and communities), outcome (i.e., effects of health care on patients and communities, and costs (i.e. the expenses involved in providing both structure and process of health care in order to attain the outcome). The structure, process and outcome of quality health care includes both technical and interpersonal elements.
+
+6. Quality Assessment - measurement of those aspects of health care that cause a patient's or community's health to deviate from its expected natural course without the health care intervention. The measurement of structure and process dimensions should focus only on those aspects that relate to outcome. The measurement of outcome should link outcome differences to structure or process dimensions, holding patient conditions and disease severity constant.
+
+7. Efficacy - the benefit achieved from a medical or public health procedure when applied to a given medical condition or public health problem under ideal conditions of use by the best practitioners with the best facilities.
+
+8. Effectiveness - the benefit achieved as reflected under ordinary conditions by the average practitioner for the typical patient. Differences between efficacy and effectiveness may come from any or all of the following: random error or chance; bias for or against certain circumstances of provision or use; quality of care dimensions; or other factors not under the control of the health care provider such as non-compliance by the patient or the delivery system.
+
+9. Quality Assurance in Health - the process used to define and measure clinical performance so that (i) high-quality care is maintained where it exists; (ii) quality of care is improved where it is wanting; (iii) advances in state-of-the-art care are incorporated in day-to-day practice.
+
+V. Goals and Objectives
+
+The overall long-term goal is to institutionalize within the health sector the leadership, processes, knowledge, attitudes, skills and organizations that will generate Continuous Quality Improvement in health care in order to create health impact in terms of health promotion and disease prevention and control.
+
+The intermediate goal for 2003-2007 is to improve the quality of health care in outpatient health facilities, hospitals and the public health services in the communities. Quality improvements in the health delivery systems across these providers could be incorporated when the immediate goals for 2003-2007 are achieved.
+
+It is also expected to have a stronger and more consistent linkage between quality of care, on one side, and prestige, utilization of the services, and rewards (financial and others), on the other. This means that health facilities with better quality could be distinguished by the consumers of the health care from facilities with poorer quality, and that the consumers would prefer to use higher quality facilities and would be willing to pay for better quality services. Community recognition would bring prestige to the facilities with higher quality care.
+
+It is quite difficult to set very specific objectives similar to other health programs because of the difficulty in quantifying quality. Thus, using a baseline "average quality" measured upon quality standards developed specifically for each quality areas to be covered - the specific objectives of the QIH Program are:
+
+By 2007,
+
+1. To raise the average quality of out-patient care, hospital care and community / public health care; and
+2. To reduce the variation around the average quality of care among these different categories of providers and services.
+
+Any increase in average quality health care and any reduction in variation around the average quality care, no matter how small, will be deemed successful.
+
+VI. General Quality Framework
+
+The Quality Improvement Effort involves the mobilization of each of the main instruments to influence specific priority groups of target provider. This is to to improve the linkage between patterns of actual quality, on one hand, and, on the other hand, with the corresponding distributions of levels of prestige, utilization and financial rewards in the health system. This involves the following tasks:
+
+A. Making the licensing, instrument of the DOH into an effective quality-improving mechanism focused on hospitals, out-patient clinics, laboratories and diagnostic clinics, and suppliers to providers
+
+B. Making the accreditation and the provider payment instrument of the PHIC and the accreditation system of other professional organizations into effective quality-improving mechanism focused on hospitals, laboratories and diagnostic clinics
+
+C. Making the Sentrong Sigla certification an effective quality-improving mechanism focused on public health facilities and government providers, out-patient clinics, and community providers such as traditional healers and other home-based non-professional providers
+
+D. Making the accreditation instrument of the DOH into an effective quality-improving mechanism focused on suppliers to providers
+
+E. Applying the advocacy instrument to all providers (except suppliers to providers) with priority on public health units, government providers and non-profit providers
+
+F. Applying the researches, training, data and evaluation instrument to support the other mechanisms covering all target groups, with priority attention to hospitals, out-patient clinics and government providers
+
+The diagram below illustrates the Quality Framework. Mandatory licensing as the DOH's first quality-improving mechanism setting the quality standards based on safety considerations, and voluntary accreditation and certification through PHIC and Sentrong Sigla raising health care to ever improving quality standards beyond the basic safety levels through advocacy and appropriate incentives schemes. Research, training, data and evaluation will be needed to install and maintain the quality improving mechanisms.
+
+<image>figure_1.png</image>
+
+VII. Components and Strategies
+
+A. Mandatory Licensing: This covers all legally mandated licensing instruments such as licensing of hospitals, health professionals, drug and pharmaceutical enterprises and products, radiation-emitting instruments, medical devices, laboratories and diagnostic clinics. DOH licensing offices and activities should be strengthened to ensure that licensing becomes the first layer of quality standards that would weed out unsafe providers, facilities, equipment, devices and other health-related providers and inputs to health services. Improvements in licensing should focus at this stage on these areas: (a) development of better and research-based safety standards and basic information and documentation standards to ensure sufficient disclosure of the quality of services, and generally-accepted practice standards; (b) improving monitoring, analysis and provision of feedback on its activities and the quality of health services according to this standards; (c) improving capability and networks for enforcement of its rules and regulations; and (d) improving communication with target groups, consumers and the general public on licensing standards, policies, and updated rules and regulations.
+
+Licensing standards should also move forward in quality over time to be constantly attuned to global licensing standards as well as consonant with developments in accreditation standards.
+
+The coverage of licensing should be broadened to cover primary health care units, outpatient clinics and other health facilities. DOH should issue regulations that attach licensing standards to business permits and LGUs should adapt these standards in giving business permits.
+
+DOH monitoring and enforcement units should be able to identify, locate and regulate establishments that operate without DOH license, are using only business permits issued by local government units (LGUS) and rely solely on the license of the professional running the facility. Partnership with the LGU can be strengthened to use business permits as a mechanism to screen entry into licensing. Linkage with professional regulation bodies should be established. Methods to improve the efficiency and coverage of licensing efforts, including ways to delegate or involve LGUs without losing control of the instrument and methods to raise and maintain integrity among the implementers, national, regional and local government levels should also be pursued. Strengthening monitoring should include updating and developing appropriate survey tools with new and appropriate parameters to safety, newly developed indicators of health outcomes related to safety, updated requirements for licensing and strengthening monitoring activities such as spot inspections.
+
+Licensing efforts also need information technology for monitoring and periodic surveys. Data is needed for self-assessment, and pooled data is needed for
+
+• Item analysis for compliance for each parameter of assessment
+• Remedial measures, feedback and trainings
+• Data for standards development, education and compliance
+• Regular database updates
+
+The education of clients and providers of health care on licensing-related information and better communication is an important instrument to more effective enforcement. Education should include information on IT designs and other management tools. There should be innovative modes of communicating licensing standards, policies, rules and regulations such as hotline website, info desks and print
+
+Licensing efforts should also shift from the punitive or distrust approach to a more trusting and incentives-based approach. A system of rewards should be installed for good compliance to licensing standards such as discounted fees,express lane treatment, lower PHIC premiums, or safety and hall of fame awards
+
+B. Voluntary Accreditation through PHIC and other professional associations:
+
+As the next layer of quality effort, healthcare providers must be accredited before receiving any payment or support front any government sector. This should be strengthened by regulation and should also move forward in quality overtime, with standards that have graduated incremental to comply with additional licensing standards. Accreditation should be developmental and facilitative rather than punitive.
+
+The current provider payment schemes of PHIC, such as capitation, favor clinical services. PHIC is currently reimbursement-driven rather than quality-driven. PHIC should review its paradigm and packages to develop in the following directions:
+
+• Promotion of values such as equity and cross subsidy (not for profit hospitals). PHIC should conduct its business with hospitals with the same values (hopefully will create critical mass to change the whole hospital system)
+• Promotion of prevention such as infection control
+• Partner with other stakeholders: DOH, (esp. NCHFD and BHFS) to complete the strategy for developing hospitals (both private and public) for loans and packages, TA, etc. and establish an independent body to promote integrity and objectivity
+
+In the implementation of its activities, PHIC should also consider:
+
+• working with other stakeholders to promote acceptance, efficiency and better coverage such as strengthening its peer review efforts, subcontracting selected activities to professional societies, among others
+• analysis of facilities who did not avail of the accreditation services, where these are and why they did not participate
+• reviewing its incentives scheme, especially in establishing a hierarchy of incentives after accreditation
+• fast track the formulation of its IRR for the adoption of the new quality standards (to include advanced implementation areas and training of assessors and transition plan to phase out old standards
+• development of software for claims and quality standards,
+• training of analysts
+• development of indicators for quality standards
+• advanced implementation of new standards
+• advocacy and IEC (social-political-cultural support) addressed to payers, providers and consumers especially on how to use PHIC and to encourage internalization of quality goals, concepts, principles and simple but effective mechanisms
+
+DOH, on the other hand, should also shift its paradigm to include development of private hospitals for the total health sector approach to hospital development. DOH should be more aggressive in (a) development of the necessary Management Information System/Hospital Information System for monitoring such as installation of ICD 10 that is configured to Philippine needs. Parallel to this, PHIC should continue to implement and monitor use of ICD10; and (b) the development and adoption of Clinical Practice Guidelines; and (c) Conduct research/ survey - package review and development/ evaluation (long-term packages vs. reactive, short term packages); payer, provider and consumer satisfaction; economic and other impact of PHIC packages and activities
+
+Professional societies and the academe need to be more closely linked with activities and initiatives of PHIC and DOH in their quality improvement efforts.
+
+C. Sentrong Sigla (SS) Certification: The Sentrong Sigla, the certification component of the former QAP of the DOH, is also hereby included as an important component of the Philippine QIH Program, as a variation of the voluntary accreditation strategy. To ensure the uniformity and consistency of quality standards for hospital services, the SS under this plan shall again focus on the accreditation/ certification of primary health care units (to include public and private units). In time, with the full development of the PHIC accreditation standards for hospitals, SS would adopt the PHIC quality standards for hospitals as its own certification standards.
+
+SS certification will continue to consist of the granting of SS seals and other incentives to outpatient health facilities that meet established quality standards, which currently consist of total systems criteria (input, process and output indicators) that emphasize integrated public health services and basic facility systems. SS certification will continue to include self-assessment by the health facilities and provision of technical assistance and packages to assist the facilities meet the quality standards. The DOH Representatives shall play a more active role in the self-assessment and technical assistance phase of the certification scheme. Technical assistance, however, would he separate from the formal assessment and certification to ensure that the certification process remains objective. The participation of other partners in health care, such as other government organization (GOs) like the Department of Interior and Local Government (DILG) and the Department of Social Welfare and Development (DSWD), non-government organizations (NGOs) and the academe will also ensure objectivity. The standards, levels and incentives scheme of SS should be periodically updated and upgraded to incorporate new programs, higher quality standards and incentives that are appropriate.
+
+In the future, a community-based accreditation assessment tool should be developed to eventually install a "participatory accreditation scheme".
+
+SS should be phased to achieve the following:
+
+• 7th year: 3rd Level: should include area-wide network (both public and private)
+• 5th year: 2nd level: LGU network level (public and private) e.g. at least 80% of outlets complying with standards
+• 1st-4th year: 1st level: Outlet/facility level (RHU, BHS and private facilities)
+
+SS should maintain a sustainable incentives scheme that is attractive enough to motivate health facilities to change and strong enough to counteract political obstacles to the certification program. SS should avoid incentives that are heavily cash-based to maintain the focus on quality improvement. SS assessment should also he more systematic and uniform to ensure attainment of its objectives. This can be done through better selection and training of SS assessors.
+
+SS certification of private outpatient health providers shall be included in special schemes and procedures.
+
+1. Socio-political and cultural advocacy and support: Advocacy should be planned to raise awareness and cooperation in the various quality improvement instruments, targeted at the general public and health care providers. Public awareness should be high enough so that they can quickly identify the high quality facilities giving high prestige to high quality. Public opinion should lead to higher use of better quality facilities and should facilitate increased resources to he channeled to these facilities.
+
+2. Capability building, education, research and dissemination: Training, research and other capability-building strategies will be necessary in managing all the efforts and in developing new standards, new approaches and refining methods. This should have multi-sector involvement.
+
+3. Data and information systems, surveillance, monitoring and evaluation: Quality has a dimension that is directly observable and another that is professional consensus. Scientific standards in health care and actual patterns of practice relative to the standards and health outcomes that can be measured scientifically should be selected and translated into monitoring indicators. The desired health outcome should include a consideration of continuum of care so that quality is attained all throughout the process of care
+
+Other indicators should also be monitored such as:
+
+• client perceptions of standards including their perception of physical standards that may affect client satisfaction, patient participation and ownership of health outcome i.e. involve the patient so same satisfaction as professional standards
+
+Other considerations in monitoring and evaluation can include:
+
+• how the instruments, for instance PHIC accreditation, prevented rising cost of health care, and avoided too much variation on quality of patient care
+
+• the narrowed gap between efficacy and effectiveness
+
+VIII. Organization and Management
+
+A multi-sector National QIH Committee (NQIHC) under the Office of the Secretary of Health shall coordinate the Philippine QIH Program. The NQIHC shall oversee implementation of this Strategic Plan. At this time, the members of the National QIH Committee shall be individuals trained and committed to quality improvement and not representatives of specific organizations or DOH units. The NQIHC will gradually include other individuals in key positions in crucial agencies such as the DOH, PHIC, academe and professional societies, among others, when they are trained in CQI.
+
+The role of the national body should be to ensure a coherent direction where each stakeholder has well-defined yet closely woven complementary roles, with clear timetables of targets and activities. Management of the entire quality effort should also involve top managers of the DOH, PHIC and other stakeholders.
+
+Below is the structure of the NQIHC. Resource persons from relevant units of the DOH (e.g. BLHD), PHIC, professional societies and the academe shall attend committee meetings when necessary.
+
+Figure 2: National QIH Committee
+
+<image>figure_2.png</image>
+
+The NQIHC shall be assisted by a Secretariat from the Health Policy Development and Planning Bureau. An appropriate Department Order shall be issued detailing the functions and composition of the NQIHC.
+
+IX . Timetable and Budget
+
+A line item for the program shall be included in the DOH budget for 2004. In the meantime, the program shall charge its funds from the Bureau of Policy and Development. The National QIH Committee shall organize meetings to prepare detailed operational budgets for each year, following the general directions below:
+
+YEAR 1 Awareness-raising anti basic technical capability building and networking
+YEAR 2 Monitoring of progress, expansion of services and networks, sustenance of awareness-raising and capability building activities
+YEAR 3 Mid-term evaluation and redirection (if needed)
+YEAR 4 Expansion of coverage and higher quality improvement of services
+YEAR 5 End of term evaluation and phase out or strategic planning for next 5 years
+
+X. Reporting, Monitoring and Evaluation
+
+The most important desirable attributes of high-quality care that a conscientious provider
+or reasonable patient would wish to have in health are the following:
+
+A. Health improvement outcomes- measurement of observable improvement in health status.
+
+B. Compliance with best practice technical processes - performing the technical processes required of a given procedure as indicated by professional consensus, available evidence and recent research.
+
+C. Ease of access - degree with which the patient is able to access the service in accordance with need
+
+D. Interpersonal sensitivity - measures of patient satisfaction and positive attitudes.
+
+E. Integration - measures of integration of various elements of care towards comprehensiveness and coherence
+
+F.Physical environment - safety, functionality and convenience of physical space and environment where care is provided
+
+G. Staff attitudes - measures of attitudes of professional and other staff involved in patient care or in support of patient care.
+
+H. Reliability - degree of variability in performance along with mean performance in all the above attributes of outcomes. technical processes, access, interpersonal sensitivity, integration, physical environment, and staff attitudes. Reliability means delivering high quality on average with little variation around that average. As health care profession is usually risk averse, providers are sometimes willing to lower their expected average performance in order to reduce the risk of deviation from that average performance.
+
+Success in the Quality Improvement Effort would be observed in terms of the following three inter-related indicators of attaining the goal:
+
+■ Variations in quality among individual services and providers around a rising average quality for each category of service or provider are correctly reflected in the judgments of professional entities and official oversight bodies (Quality is recognized.)
+
+■ Variations in quality among individual services and providers around a rising average quality for each category of service or provider are properly matched by patterns of actual utilization (Quality is utilized.)
+
+■ Variations in quality among individual services and providers around a rising average quality for each category of service or provider are correspondingly accorded their appropriate financial rewards (Quality is rewarded.)
+
+The National QIH Committee shall propose a monitoring scheme and evaluation timetable. The National QIH Committee shall regularly update the DOH Executive Committee at least every quarter.
+
+XI. Effectivity
+
+This order shall take effect immediately.
+</body>
+
+<sign>MANUEL M. DAYRIT, M.D., MSc.</sign>
+<signtitle>Secretary of Health</signtitle>

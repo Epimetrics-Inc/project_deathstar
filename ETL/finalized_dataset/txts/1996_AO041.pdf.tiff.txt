@@ -1,0 +1,295 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+   
+
+SAN LAZARO COMPOUND 
+RIZAL AVENUE, STA. CRUZ
+MANILA, PHILIPPINES
+TEL NO. 711-60-80  
+
+<date>03/30/1996</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 41 s. 1996</docnum>
+
+<subject>SUBJECT: REQUIREMENTS FOR THE CONTROL OF RADIATION HAZARDS FROM X-RAY EQUIPMENT USED IN VETERINARY MEDICINE</subject>
+
+<body>
+
+Pursuant to the authority vested in me as Secretary of Health under Section 3, Chapter I, Title IX, Book IV of the Administrative Code of 1987 and in the interest of service, the following requirements for the control of radiation hazards from x-ray equipment used in veterinary medicine are hereby issued.
+
+I. STATEMENT OF POLICY
+
+These requirements are promulgated for the purpose of ensuring the safety of the radiological personnel concerned, operator and the general public from the hazards associated with x-ray machines used in veterinary medicine pursuant to PD 480 (Creation of the Radiation Health Office in the Department of Health) as amended by PD 1372 and consistent with EO 119 (Reorganization Act of the Ministry of Health) and AO 124 , s.1992 (Rules and Regulation Governing the Establishment, Operation and Maintenance of X-ray Facility in the Philippines.) These requirements shall apply to all x-ray facilities used in veterinary clinics, hospitals, schools and research institutes.
+
+
+II. DEFINITION OF TERMS
+
+1. Shall and shall not are used to indicate that adherence to the requirement is considered mandatory to meet accepted standards of protection.
+
+2. Should and should not are used to indicate a prudent practice to which exceptions may occasionally be made in appropriate circumstances.
+
+3. Absorbed dose means the energy of ionizing radiation imparted to matter per unit mass of the irradiated specie at the area of interest.
+
+4. Aluminum equivalent means the thickness of aluminum which affords the same attenuation as the material in question under specified conditions.
+
+5. Attenuation means the reduction in intensity of x-rays passing through a given material.
+
+6. Concrete equivalent means the thickness of concrete of density equal to 2.35 g/cc affording the same attenuation as the material in question under specified conditions.
+
+7. Controlled area is one that requires control of access, occupancy and working conditions for radiation protection purposes.
+
+8. Collimator is a device used to limit the size of the primary beam to the required cross-sectional area at the point of interest.
+
+9. Contact therapy is a mode of radiation treatment of animal diseases of the skin surface which utilizes 10 kV to 20 kV x-ray therapy units.
+
+10. Dead-man switch means a switch so constructed that a circuit closing contact can be maintained only by continuous pressure on the switch.
+
+11. Filter means a material in the useful beam which preferentially absorbs the less penetrating radiation
+
+12. Inherent filter refers to the x-ray tube window and any other permanent enclosure of the tube within the path of the beam.
+
+13. Added filter means an aluminum or its equivalent material of specific thickness that is mounted on to the porthole of the tube housing for the purpose of beam filtration.
+
+14. Total filter means the sum of the inherent and added filter.
+
+15. Interlock means a device which automatically shields the primary beam of x-rays and de-energizes the x-ray tube.
+
+16. Lead equivalence means the thickness of lead affording the same attenuation as the material in question under specified conditions.
+
+17. Leakage radiation means radiation coming from within the source assembly except the useful beam.
+
+18. Mobile x-ray equipment means an x-ray machine that is mounted on wheels and can be pushed by human power or motor driven so that it can be moved with reasonable ease.
+
+19. Personal monitor means an appropriately sensitive device used to measure the radiation dose received by an individual.
+
+20. Portable x-ray equipment means an x-ray machine that can be carried by a single capable individual with reasonable ease using bare hands.
+
+21. Protective barrier is physical barrier or shielding material used to reduce radiation exposure.
+
+22. Protective clothings are gloves, aprons, gowns etc made of radiation absorbing materials to reduce radiation exposure.
+
+23. Radiation safety officer is a person responsible for the conduct of radiation safety program.
+
+24. Radiation safety program is a planned and organized set of rules, policies and activities which aims to ensure that the specified design and operational requirements of a particular x-ray facility related to protection and safety are satisﬁed.
+
+25. Radiation protection survey means an evaluation of the x-ray facility for the purpose of
+radiation safety.
+
+26. User is any individual who personally utilizes or manipulates a source of radiation.
+
+27. Veterinary x—ray facility is a facility using x-ray devices for the treatment and diagnosis of animal diseases.
+
+
+III. MANPOWER REQUIREMENTS
+
+3.1 Veterinary medical x—ray facilities shall be staffed by the following personnel:
+
+3.1.1 A licensed veterinarian who shall be the head of the x-ray facility and has successfully completed training in radiation protection in veterinary medicine conducted by the Radiation Health Service (RHS). He/she shall be authorized to operate the x-ray machine and interpret radiographs.
+
+3.1.2 Licensed x-ray/radiologic technologists or any BS graduate with a license in any affiliated medical ﬁeld recommended by the head of the facility and has sucessfully completed training in radiation protection in veterinary medicine conducted by the Radiation Health Sevice. He/she shall be allowed to operate the x-ray machine and process x-ray films.
+
+3.1.3 A Radiation Safety Officer who may be the person described in 3.1.1 and 3.1.2 who shall be responsible for the conduct of radiation safety.
+
+
+IV. X—RAY MACHINE REQUIREMENTS
+
+4.1 Requirements For Fixed Diagnostic Radiographic Equipment
+
+4.1.1 The x-ray tube shall be enclosed in a housing such that the exposure from leakage radiation does not exceed 25.8 microcoulomb per kilogram (100 mR) in 1 hour at 1 meter distance over 100 sq cm normalized to maximum current for continuous operation.
+
+4.1.2 The aluminum equivalent of the total filtration in the useful beam shall not be less
+than the following values:
+<image>table_1.png</image>
+
+4.1.3 A beam-on indicator shall be provided at the control panel to show whether or not radiation is being generated. It shall be functional at all times.
+
+4.1.4 A device shall be provided which terminates the exposure at a preset time interval or exposure. The operator shall be able to terminate the exposure at any time.
+
+4.1.5 No radiation shall be detected when the timer is set at zero.
+
+4.1.6 A beam defining device or collimator shall be provided to limit the size of the useful beam to the organ of interest. A device which will allow the centering of the useful beam and outline the collimator by illumination is strongly recommended.
+
+4.2 Requirements For Portable and Mobile Diagnostic Equipment
+
+4.2.1 The relevant parts of 4.1 shall apply.
+
+4.2.2 The tube housing should be supported by a rigid and stable portable stand.
+
+4.2.3 The exposure control switch shall be of the dead man type and arranged so that the operator may stand at least 2 meters from the tube housing and away from the direction of the primary beam in the absence of a protective barrier.
+
+4.2.4 The cord length of the exposure control switch shall not be less than 2 meters.
+
+4.3 Requirements For Fluoroscopic X-ray Equipment
+
+4.3.1 A diagnostic type protective tube housing described in 4.1 shall be used.
+
+4.3.2 The total filtration permanently in the useful beam shall be at least 2.5 mm Al equivalent inclusive of the panel surface that is interposed between the source and the animal patient.
+
+4.3.3 Conventional fluoroscopic screen shall be covered with a lead glass of 1.5 mm Pb equivalence for equipment capable of operating up to 125 KVp and at least 2.0 mm Pb equivalence for equipment operating above 125 KVp.
+
+4.3.4 Image intensifiers shall be properly shielded so that neither the useful beam nor the scatter radiation from the intensifier itself or from the patient will produce significant radiation exposure to the operator or other personnel.
+
+4.3.5 For image intensifiers, the useful beam should be centered on the input phosphor and should not exceed its diameter.
+
+4.3.6 For spot film radiography with image intensifiers, the shutters should automatically open or close to the required field size before each exposure.
+
+4.3.7 The source-tabletop distance shall be at least 30 cm and should not be less than 38 cm. The source—skin distance of image intensified equipment should not be less than 38 cm.
+
+4.3.10. A shield of at least 0.25 mm lead equivalent thickness such as overlapping protective drapes or sliding panels, should be provided to intercept scatter radiation which would otherwise reach the fluoroscopist and others near the machine.
+
+4.3.11 Image intensification shall always be provided on mobile fluoroscopic equipment.
+
+4.3.12 The exposure switch shall be of the dead man type.
+
+4.3.13 A cumulative timer, activated by the fluoroscopic exposure switch, should be provided to indicate the passage of a pre—determined period of irradiation either by an audible signal or by temporary interruption of the irradiation when the increment of exposure time exceeds a predetermined limit not exceeding 5 minutes.
+
+4.4 Requirements For X-ray Therapy Equipment (Up to 500 KVp)
+
+4.4.1 The x-ray tube shall be enclosed in a therapeutic type protective tube housing so constructed that the leakage radiation at a distance of 1 meter from the source does not exceed 0.258 millicoulomb per kilogram (10 mR) in 1 hour when the tube is operated at its maximum rated continuous current for the maximum rated tube potential.
+
+4.4.2 Contact therapy machines shall be constructed such that the leakage radiation at 5 cm from the surface shall not exceed 25.8 microcoulomb per kilogram (100 mR) in 1 hour.
+
+4.4.3 Permanent diaphragms or cones used for collimating the useful beam shall afford the same degree of attenuation as is required of the housing.
+
+4.4.4 Adjustable or removable beam defining diaphragms or cones shall transmit not more than 5% of the useful beam as determined at the maximum tube potential and with maximum treatment filter.
+
+4.4.5 Therapy should be conducted within an adequately shielded x-ray room box which provides at least the same degree of attenuation as is required of the tube housing.
+
+4.4.6 Interlocks shall be provided for x-ray therapy equipment capable of operating above 150 KVp so that when any door to the treatment area is opened, the machine will be shut off automatically. After such a shut-off, it shall be possible to restore the machine to full operation only from the control panel.
+
+4.4.7 The x-ray tube shall be so mounted that it cannot turn or slide with respect to the aperture.
+
+4.4.8 A suitable exposure control device shall be provided to terminate the exposure after a preset time interval.
+
+4.4.9 An easily discernible indicator which shows whether or not x-ray are being produced shall be provided on the control panel.
+
+
+V. PHYSICAL REQUIREMENTS
+
+5.1 All new installations or proposed changes in existing installations of veterinary x-ray facilities should be reviewed and approved by the RHS at the design from the point of view of restricting the resulting occupational and general exposure.
+
+5.2 A well ventilated,well lit, clean and safe x—ray room sufficient to accommodate its activities shall be provided.
+
+5.3 The walls and doors of the x-ray room shall be made of materials which will reduce radiation level to at least 2.5 microsievert per hour.
+
+5.4 Lead barriers shall be mounted in such a way that they will not sag or cold ﬂow because of their own weight. They shall be protected against mechanical damage. Surfaces of lead sheets at joints in the barrier should be in contact with a lap of at least 1.5 cm.
+
+5.5 When materials such as concrete are intended to provide radiation shielding, care shall be exercised to ensure that they are sufficiently homogeneous and have the specified composition and density. The density of concrete material shall be 2.35 9/00.
+
+5.6 Care should be taken to ensure that space beyond shielding walls is actually unoccupied if possible but there is no objection to direct the useful beam at occupied areas provided there is adequate shielding.
+
+5.7 Protection for each occupied area shall be computed based on the maximum kilovoltages, workloads, use factors and occupancy factors affecting it.
+
+5.8 Special attention should be given to the protection of areas used for the storage of undeveloped ﬁlm.
+
+5.9 A separate darkroom shall be constructed near or inside the x—ray room. It shall be well ventilated, light tight, clean with a space sufficient to accommodate its activities.
+
+5.10 A safelight with 10-l5 watt light bulb encased in a suitable receptacle with an appropriate filter shall be mounted on the wall of the darkroom at a height of not less than 120 cm. from the working table.
+
+
+VI. WORKING PROCEDURES
+
+6.1 A radiological examination should only be undertaken if there is a deﬁnite clinical indication for the use of the procedure.
+
+6.2 The use of fluoroscopy in veterinary radiology should be conﬁned to examinations which cannot satisfactorily be performed by radiography.
+
+6.3 Whenever practicable, diagnostic procedures should be undertaken in a room that satisfies the recommendation in 4.2 and 4.3 of this Administrative Order.
+
+6.4 When the size of an animal makes it impracticable for it to be examined in the x—ray room, the examination should take place in a special controlled area which has been selected for the purpose from which no persons are unnecessarily exposed to radiation.
+
+6.5 Whenever practicable, a table should be used for radiography. Unless the table is specially equipped for radiographic purposes, the ﬁlm or ﬁlm cassettes shall be placed on a sheet of lead at least 1 mm. thick and of sufficient area fully to intercept the x-ray beam.
+
+6.6 Whenever radiography with an angulated or horizontal beam is necessary, the ﬁlm or ﬁlm cassette shall be supported by mechanical means. Long handled cassette holders should be used for this type of work particularly when large animals are the subjects of radiographic examinations.
+
+6.7 The installation shall be operated within the safety limitations of the equipment and structure.
+
+6.8 Personnel monitoring device shall be worn by each occupationally exposed individual during the entire period of their work. It shall be removed and stored in a designated rack every after use at the end of a working period.
+
+6.9 Only persons whose presence is necessary shall stay in the x-ray room during exposure.
+
+6.10 Protective lead rubber apron of least 0.25 mm Pb equivalence shall be provided and shall be worn by all individuals required to be in the x-ray room except when the individuals are entirely behind a protective barrier during exposure.
+
+6.11 No individual shall be used routinely to support or hold animals or ﬁlm during radiation exposures. If an animal patient must be held or positioned manually, the individual holding the animal shall wear protective gloves having at least 0.5 mm Pb equivalence and a lead rubber apron of at least 0.25 mm Pb equivalence. He/She shall keep all parts of his/her body out of the useful beam.
+
+6.12 Pregnant and potentially pregnant women and individuals under 18 years of age, shall not support or hold animal patient during radiation exposure.
+
+6.13 Sandbags, slings or other appropriate ancillary devices should be used to assist in positioning animals for x-ray. General anaesthesia, sedation or tranquilization should be used on animal patients if necessary to facilitate radiography with minimal human exposure.
+
+6.14 Whenever possible, consistent with appropriate diagnostic criteria, fast films and high speed screens should be used to minimize exposure time.
+
+6.15 A log or equivalent records of the use of the x-ray machine shall be kept to indicate the date of exposure, exposure time, operator and identification of animal patient.
+
+6.16 Neither the tubehead of portable diagnostic equipment nor the cassette itself shall not be held by hand.
+
+6.17 During each x-ray examination, the operator shall stand behind a movable or permanent protective barrier lined with at least 1.5mm lead sheet.
+
+6.18 A lead glass viewing window with at least 1.5mm lead equivalence shall be mounted on the protective barrier at eye level of the operator in order to view the animal patient during x-ray examination. 
+
+6.19 A red warning light shall be installed above the door leading to the x-ray examination room, to be illuminated during x—ray exposure. A warning notice which reads "DO NOT ENTER WHEN THE RED LIGHT IS ON" shall be posted on the wall outside the x—ray room.
+
+6.20 The door of the x-ray room shall always be kept closed during exposure.
+
+
+VII. ADMINISTRATIVE REQUIREMENTS
+
+7.1 Any person applying for a license to Operate a veterinary x-ray facility shall comply with he administrative requirements of AO 124, s. 1992.
+
+7.2 The ownwr/licensee shall ensure that the facility complies with the requirements set herein and other relevant standards, rules, regulations and policies issued by the Department of Health.
+
+7.3 The owner/licensee shall provide radiation dose monitors to all radiation workers in the facility. He/she shall ensure that no radiation workers in the facility exceed the dose limit of 20 mSv per year.
+
+7.4 The head of the x-ray facility shall establish a quality control program for the x—ray facility following the RHS - DOH protocol on quality control. He has the responsibility to control all aspects of the conduct of x-ray examination.
+
+7.5 The Radiation Safety Officer shall be responsible for the conduct of radiation safety programs in the facility. He/she shall keep a record of occupational radiation doses received by the radiation workers in the facility. He/she shall assists the owner/licensee in the compliance of the requirements set herein and other relevant standards, rules, regulations and policies issued by the Department of Health. 
+
+
+VII. INSPECTION REQUIREMENTS
+
+7.1 Each owner of an x-ray facility shall allow the RHS RPSE team at all reasonable times to inspect his/her x-ray facility.
+
+7.2 Each facility shall make available to the RHS RPSE team for inspection, upon reasonable notice, records kept by the facility relevant to the conduct of x-ray examination for the purpose of determining its workload.
+
+7.3 Whenever necessary, the RHS RPSE team shall be allowed by the licensee to conduct investigation even without prior notice on certain occasions in response to complaints that are related to the operation of the licensee's facility.
+
+
+VIII. ENFORCEMENT
+
+8.1 The terms and conditions of each license shall be subject to amendments, revision or modiﬁcation by reason of amendments to this standard or by reason of rules, regulation and orders by the RHS.
+
+8.2 Any license may be revoked or suspended for any material false statement in the application or for violation of, or failure to observe by the licensee any of the requirements and provisions of the standard.
+
+8.3 Except in cases of willful violation or those in which the public health, interest or safety requires otherwise no license shall be modiﬁed, suspended or revoked until the licensee shall have been accorded an opportunity to demonstrate or achieve compliance with the standard.
+
+
+IX. VIOLATIONS
+
+9.1 Any license may be revoked or suspended for any material false statement in the application or for violation of, or failure to observe by the licensee any of the requirements and provisions of this standard.
+
+9.2 Except in cases of willful violations or those in Which the public health, interest or safety requires otherwise, no license shall be modiﬁed, suspended or revoked until the licensee shall have been accorded an opportunity to demonstrate or achieve compliance with the standard.
+
+
+X. PENALTIES
+
+Any person who shall willfully violate, attempts to violate or conspires to violate any requirements issued hereunder, may be guilty of a crime and upon conviction, may be punished by a fine or imprisonment or both as provided in the penalty clause of PD 480.
+
+
+XI. REPEALING CLAUSE
+
+All administrative orders, rules or regulations, inconsistent herewith are hereby repealed, amended or modiﬁed accordingly.
+
+
+XII. SEPARABILITY CLAUSE
+
+The provisions of this administrative order are hereby declared to be separable and in the event of any one or more such provisions are held unconstitutional, the validity of the other provisions shall not be affected.
+
+
+XIII. EFFECTIVITY
+
+This administrative order shall take effect 15 days following the publication in the Official Gazette or in a newspaper or general circulation and shall supersede all issuances inconsistent herewith. 
+
+ 
+</body> 
+<sign>CARMENCITA NORIEGA REODICA, M.D., M.H.A.</sign>
+<signtitle>Secretary of Health</signtitle>

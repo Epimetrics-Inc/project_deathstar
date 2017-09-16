@@ -1,0 +1,955 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Building 1, San Lazaro Compound, Rizal Avenue
+Sta. Cruz, Manila, 1003 Philippines
+Tel# 743-83-01 local 1125, Direct Line: 711-9501; Fax: 743 1829; 711-9502 / 03
+URL: http://www.doh.gov.ph; e-mail osec@doh.gov.ph
+
+<date>03/14/2007</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 2007 - 0014</docnum> 
+
+<subject>SUBJECT: Guidelines on the Issuance of Certificate of Product Registration for Equipment or Devices Used for Treating Sharps, Pathological and Infectious Waste.</subject>
+
+<body>
+I. RATIONALE / BACKGROUND
+
+The safety of the public against the adverse health and environmental effects of the improper treatment and disposal of health care waste in the Philippines has always been a concern of the society. In order to address this issue, the Department of Health included the regulation of such in Chapter XVIII "Refuse Disposal" of Code of Sanitation of the Philippines (PD. 856) in April 1998.
+
+In line with 7.10.1 of section 7 of the implementing rules and regulations of Chapter XVIII, "Other types of or methods of solid waste processing and disposal such as incineration technology, microwave technology, autoclave technology and others shall be subject to compliance with pertinent laws and the rules, regulations and standards set by appropriate government agencies".
+
+Pursuant to Joint Department of Environment and Natural Resources - Department of Health (DENR-DOH) Administrative Order No. 02 series of 2005 dated August 24, 2005 entitled "Policies and Guidelines on effective and proper handling, collection, transport, treatment, storage, and disposal of health care wastes" Section V, item b.7, the Department of Health (DOH) shall require all health care waste treatment, storage, disposal (TSD) facility operators and health care waste generators with on-site waste treatment facilities to use DOH registered equipment or devices used for the treatment of health care wastes.
+
+The Bureau of Health Devices and Technology (BHDT) of the DOH is hereby mandated to implement these guidelines for the issuance of Certificate of Product Registration for equipment and devices used to treat sharps, pathological and infectious waste in accordance with the existing rules and regulations of laws relevant to the management of sharps, pathological and infectious waste.
+
+II. SCOPE
+
+These guidelines shall apply to all manufacturers, importers, distributors and users of equipment and devices for treating sharps, pathological and infectious waste in the Philippines.
+
+III. OBJECTIVE
+
+This Administrative Order is developed to establish a guideline with respect to the registration, monitoring and evaluation of devices and equipment used in the treatment of sharps, pathological and infectious wastes with DOH-BHDT to ensure safety and efficiency of said equipment/devices.
+
+IV. DEFINITION OF TERMS
+
+For purposes of this order, the terms below are defined as follows:
+
+1. APPLICANT - shall refer to health care waste TSD facility operator, waste generator with TSD facility, local or foreign individual/establishment that seeks to include its equipment or devices used in treating health care wastes in the BHDT list of registered devices;
+
+2. AUTOCLAVE - shall refer to the treatment process using steam sterilization to render waste harmless;
+
+3. BHDT - shall refer to the Bureau of Health Devices and Technology of the Department of Health;
+
+4. CERTIFICATE OF PRODUCT REGISTRATION (CPR) - shall refer to a certification issued by the Secretary of Health through his duly authorized representative, the Director of BHDT, attesting to the safety and efficacy of the equipment/device;
+
+S. CHD - shall refer to the Center for Health Development of the Department of Health.
+
+6. CHD CERTIFICATION - shall refer to the certification issued by the CHD regional office attesting the validity of the CPR issued by the BHDT upon request of the client.
+
+7. CHEMICAL DISINFECTION - shall refer to the treatment process where chemicals like aldehydes, chlorine compounds, phenolic compounds, etc. are added to waste in order to kill or inactivate pathogens present in health care waste;
+
+8. DOH - shall refer to the Department of Health;
+
+9. DEVICE - shall refer to a piece of equipment including its accessories and appurtenances, used in the treatment of health care wastes;
+
+10. DISTRIBUTOR - shall refer to a person or establishment to where a device is delivered or sold for the purpose of selling to waste treater, TSD facility operators and health care waste generators;
+
+11. HEALTH CARE WASTE GENERATORS - shall refer to health care facilities, institutions, business establishments and other similar health care services with activities or work processes that generate health care waste (Please see Annex A);
+
+12. HRDRD - shall refer to the Health Related Device Regulation Division of the Bureau of Health Devices and Technology (BHDT) of the Department of Health;
+
+13. HYDROCLAVE - shall refer to a treatment process similar to the autoclave where steam, heat and pressure are used;
+
+14. IMPORTER - shall refer to any person or establishment that receives devices used in the treatment of health care wastes from a foreign manufacturer for the purpose of offering them for sale and/or distribution in the Philippines;
+
+15. INFECTIOUS WASTE - shall refer to type of waste suspected to contain pathogens (bacteria, viruses, parasites or fungi) in sufficient concentration or quantity to cause disease in susceptible hosts;
+
+16. ITDI-DOST - shall refer to the Industrial Technology Development Institute of the Department of Science and Technology;
+
+17. MANUFACTURER - shall refer to any maker or assembler of equipment or devices used in treating health care wastes provided that if such a device is manufactured or assembled for another person/ establishment who/which attaches his/its own brand name to the product, such shall be deemed the manufacturer;
+
+18. MATERIAL SAFETY DATA SHEET (MSDS) - shall refer to a form containing general information on the properties, safety and potential hazards of a particular chemical;
+
+19. MICROWAVE - shall refer to a technology that typically incorporates some type of size reduction device. Shredding of wastes is being done before disinfection or after disinfection. In this process, waste is exposed to microwaves that raise the temperature to 100°C (237.6°F) for at least 30 minutes. Microorganisms are destroyed by moist heat that irreversibly coagulates and denatures enzymes and structural proteins;
+
+20. NRL-EAMC - shall refer to the National Reference Laboratory for Environmental and Occupational Health, Toxicology and Micronutrient Assay - East Avenue Medical Center in East Avenue, Quezon City;
+
+21. PATHOLOGICAL WASTE - consists of tissues, organs, body parts, human fetus and animal carcasses, blood and body fluids. This category should be considered as a subcategory of infectious waste, even though it may also include healthy parts;
+
+22. PYROLYSIS - shall refer to the thermal decomposition of substance and materials in the absence of supplied molecular oxygen in the destruction chamber in which the said material is converted into gaseous, liquid or solid form;
+
+23. SHARPS - shall include needles, syringes, scalpels, saws, blades, broken glass, infusion sets, knives, nails and any other items that can cause a cut or puncture wounds;
+
+24. TREATMENT, STORAGE AND DISPOSAL (TSD) FACILITIES - shall refer to facilities where hazardous wastes are stored, treated, recycled, reprocessed and/or disposed of, as prescribed under DENR AO No. 2004-36, Chapter 6-2 (Categories of TSD Facilities) (as defined in section IV "Definition of Terms" in the Joint DENR-DOH Administrative Order No. 02 Series of 2005);
+
+25. HEALTHCARE WASTES - shall include all wastes generated as a result of the following:
+
+a. Diagnosis, treatment, management and immunization of humans or animals;
+b. Research pertaining to the above activities;
+c. Producing or testing of biological products; and
+d. Waste originating from minor or scattered sources (i.e. dental clinics, alternative medicine clinics, etc.).
+
+V. POLICIES AND GUIDELINES
+
+A. General Guidelines
+
+1. All local manufacturers, importers and distributors, including generators of healthcare wastes that sell and/or use equipment and devices in treating sharps, pathological and infectious wastes shall apply for a Certificate of Product Registration to the Department of Health through the Bureau of Health Devices and Technology if their product falls under any of the following conditions:
+
+a. Equipment and devices that are already installed and in operation prior to the publication of this guideline;
+
+b. New devices and/or equipment (refer to Article X: Transitory Provisions) that shall be used to treat sharps, pathological and infectious waste either for commercial or exclusive use by an institution and/or business entity in the Philippines;
+
+c. Devices or equipment using new technology to treat sharps, pathological and infectious wastes into commercial distribution for the first time in the Philippines;
+
+d. Equipment / device that has undergone significant change in design that could affect safety and efficiency.
+
+The registration shall be applied on a per device per model basis.
+
+2. The following shall be exempted from registration requirements:
+
+a. Manufacturers / distributors and suppliers of equipment and devices used to treat sharps, pathological and infectious waste that are not being marketed or commercially distributed and being used in the Philippines.
+
+b. Autoclaves and sterilizers in hospital laboratories, dermatology and dental clinics that are used only to sterilize surgical instruments, needles, hand pieces and the like.
+
+3. The National Reference Laboratory-East Avenue Medical Center (NRL-EAMC) and the designated laboratories of the DOH shall conduct the performance evaluation tests for wastes samples collected after the treatments that used equipment or devices with reference to regulated reduction levels for different  technologies. For the guideline limits for microbiological testing, please see Annex B (NRL-EAMC Guidelines on Microbiological Efficacy Testing).
+
+The results of the performance evaluation shall be valid for three (3) years subject to monitoring by the BHDT. Tests other than microbiological test may be required subject to compliance with the applicable standards such as but not limited to air quality sampling, leachate toxicity characteristics test.
+
+4. The following are the approved technologies or processes that maybe used in the treatment of sharps, pathological and infectious wastes:
+
+a. Autoclave
+b. Hydroclave
+c. Pyrolysis
+d. Microwave
+e. Chemical disinfections
+
+Technologies or processes not listed above that have been given a technology approval by the DOST-ITDI are likewise required to secure a Certificate of Product Registration upon review by the BHDT.
+
+5. The Certificate of Product Registration (CPR) to be issued by the BHDT Director shall be valid for one (1) year from the date of issuance and subject to annual renewal unless sooner suspended or revoked in accordance with the rules of the Department of Health.
+
+6. The following shall be grounds for disapproval or revocation of CPR:
+
+a. Material misrepresentation or concealment of significant data or information about the product sought for certification;
+b. Submission of falsified documents by the applicant;
+c. Failure of device;
+d. Failure to meet the required standards; and
+e. Non-reporting of the failure of the device during operation.
+
+B. Specific Guidelines
+
+1. All fees are payable to the Bureau of Health Devices and Technology (BHDT) in accordance with the following schedule. Fees for initial applications shall be based on the total cost of the equipment.
+
+a. The registration fee for initial applications of TSD Facilities, manufacturers / distributors of equipment / device used for the treatment of sharps, infectious and pathological wastes are the following:
+
+<image>table_1.png</image>
+
+b. The registration fee for the renewal of the CPR for manufacturers, distributors and TSD facility operators shall be Php 3,000.00 per equipment per device.
+
+c. The registration fee for initial and renewal applications of healthcare waste generators shall be PhP 3,000.00 and PhP 2,000.00 per equipment/device respectively.
+
+2. The registration fee is exclusive of the performance evaluation fee.
+
+3. Fees arid charges are subject to change, as maybe deemed necessary.
+
+4. Filing of renewal for CPR shall be made within two months before the expiration date. A penalty of fifty (50%) percent of the registration fee shall be paid by the applicant for late filing of CPR renewal.
+
+VI. PROCEDURAL GUIDELINES
+
+A. Documentary Requirements
+
+1. Initial CPR Applications of Manufacturers and Distributors
+
+a. Properly filled up application form;
+b. Copy of SEC Articles of Incorporation or DTI Certificate of Business Registration (original copy should be presented for verification);
+c. Technology Approval from DOST-ITDI for new technologies (original copy should be presented for verification);
+d. Certificate of Technical Evaluation from NRL-EAMC or any designated laboratory;
+e. Technical Report that includes the following data:
+
+i. Company Profile including the office address and manufacturing plant;
+ii. Characteristics and Sources of generated waste;
+iii. Detailed description of treatment equipment to be tested including manufacturer's instructions and technical specifications;
+iv. Operating procedures and conditions including as applicable treatment time, pressure, temperature, chemical concentration, doses, feed rates and waste load composition;
+v. Storage, handling and volume capacity;
+vi. Applicable emission controls for suspected emissions;
+vii. Potential hazards/toxicities of waste residues;
+viii. Energy efficiency;
+ix. Occupational safety and health assurance.
+
+f. Copy of Operation Manual of the device / equipment including the Pollution Control Installations, and additional components;
+g. Layout / Plans;
+
+i. Location of installation;
+ii. Design / Drawing or picture of the device / equipment applied for;
+
+h. Supplementary requirements for equipment / devices used for:
+
+i. Thermal Process (Pyrolysis, Plasma Pyrolysis etc.)
+a) Results of Leachate Toxicity Characteristics Tests.
+b) Operation / Maintenance Logbook (for healthcare waste generators and TSD Facility only)
+
+ii. Chemical Disinfections
+a) Material Safety Data Sheet (MSDS) of the chemicals to be used for disinfections
+b) Results of Microbiological Tests. 
+c) The chemical to be used should be registered with the DENR-EMB or must be compliant with the WHO guidelines for hazardous wastes.
+d) Operations Logbook
+
+iii. Wet and Dry Thermal Treatment (Autoclave, Microwave, Hydroclave)
+a) Results of Microbiological Tests.
+b) Operations / Maintenance Logbook
+
+For healthcare waste generators (e.g. hospitals, clinics) and TSD Facilities, the Environmental Compliance Certificate (ECC) issued by the Environmental Management Bureau-Department of Environment and Natural Resources (EMB-DENR) and the License to Operate issued by the Department of Health shall be submitted together with the above documentary requirements.
+
+2. Renewal applications for CPR of Manufacturers, Distributors, TSD Facility Operators and Healthcare waste generators.
+
+a. Properly filled up application form.
+b. Photocopy of issued CPR
+c. Results of valid Microbiological Tests/Leachate Characteristic Toxicity Tests
+d. Location of Installation.
+
+B. Specific Procedures
+
+1. The applicant shall submit all the documentary requirements to the Health Related Device Regulation Division (HRDRD) Secretariat. All information must be submitted in English. When the material is not originally in English, an authenticated translation shall be submitted. BHDT may request the original material at any time.
+
+2. The Secretariat shall receive the documents submitted by the applicant and indicate the time and date the documentary requirements were received and issue the Order of Payment for the application.
+
+3. The applicant pays the required fees at the Cashier Section of the DOH, and then submits a photocopy of the receipts upon presentation of the original copy to the Secretariat for further processing of the application. The Secretariat forwards the application to the HRDRD Chief who then assigns an HRDRD technical staff to evaluate the documents
+
+4. The BHDT-HRDRD technical staff shall evaluate the documents forwarded by the Chief for review of all the requirements. If all the requirements are complete, an ocular inspection shall be undertaken and a report submitted to the HRDRD Chief.
+
+5. The HRDRD Chief shall recommend approval / disapproval of the application based on the following:
+
+a. Completeness of the documents and results of Microbiological Tests of the equipment and/or device
+b. Compliance of the devices / equipment used in health care waste treatment with the provisions of the Philippine Clean Air Act (RA 8749), Toxic and Hazardous Waste Act (RA 6969), Ecological Solid Waste Management Act (RA 9003), The Clean Water Act of 2004 (RA 9275), Sanitation Code of the Philippines (PD. 856) and other applicable laws.
+
+6. Applicants whose documents have deficiencies shall be notified and be given (30) thirty calendar days abeyance period to correct the deficiencies otherwise the application shall be discarded.
+
+VII. ROLES AND FUNCTIONS OF THE CENTERS FOR HEALTH DEVELOPMENT
+
+A. The Centers for Health Development nationwide shall assist the BHDT in the implementation of this Administrative Order in the following:
+
+1. Disseminate information to the stakeholders regarding the implementation of this Administrative Order (A.O.);
+
+2. Distribute application forms and set of requirements to the clients in remote areas applying for a CPR with the BHDT;
+
+3. Issue the CHD Certification indicating the validity of the issued CPR by BHDT to the clients in remote areas upon request;
+
+4. Coordinate with the BHDT and the local government units in their area of jurisdiction on the implementation of the A. O;
+
+B. The CHD may receive applications for CPR in remote areas provided that such shall be forwarded to the BHDT office in Manila for evaluation and issuance of CPR.
+
+Clients with valid CPR may opt to get a Certified True Copy (CTC) of the document from the BHDT record's office in lieu of the CHD Certification.
+
+VIII. TRANSITORY PROVISIONS
+
+Upon effectivity of this Order, healthcare waste generators / TSD facility with equipment / devices that are already installed and in operation shall be given six (6) months from the date of publication of this Order in leading newspaper to comply with the provisions of this guideline. A certificate of pending application shall be given upon request of the company.
+
+Likewise, manufacturers and distributors of new equipment or devices used in the treatment of sharps, pathogenic and infectious wastes that have been marketed or commercially distributed in the Philippines prior to the publication of this guideline shall be given a grace period of six (6) months upon publication of this guideline to comply with the above requirements.
+
+IX. SEPARABILITY CLAUSE
+
+In the event that any rule, section, paragraph, sentence, clause or words of these rules and regulations is declared invalid for any reason, the other provisions thereof shall not be affected thereby.
+
+X. REPEALING CLAUSE
+
+All administrative orders, rules and regulations and administrative issuances or parts thereof inconsistent with the provisions of this guideline are hereby repealed or amended accordingly.
+
+XI. EFFECTIVITY
+
+This order shall take effect fifteen (15) days after its publication in an official gazette or in a newspaper of general circulation.
+</body>
+
+<sign>FRANCISCO T. DUQUE III, MD. M.Sc.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<body>
+ANNEX A
+
+Healthcare Waste Generators
+
+1. Birthing Homes
+
+2. Clinics
+
+a. Alternative medicine
+b. Ambulatory
+c. Dental
+d. Dialysis
+e. Health care centers and dispensers
+f. Medical
+g. Surgical
+h. Tattooing and piercing establishments
+i. Veterinary
+
+3. Drug Manufacturers
+
+4. Hospitals (Primary Care, Secondary Care and Tertiary Care)
+
+5. Infirmaries
+
+6. Institutions
+
+a. Dental Schools
+b. Drug rehabilitation center
+c. Medical Schools
+d. Med-tech intern training centers
+e. Nursing Homes
+f. Schools of Radiologic Technology
+g. Training centers for embalmers
+
+7. Laboratories and Research Centers
+
+a. Animal research and testing
+b. Biotechnology laboratories
+c. Blood banks and blood collection services
+d. Dental prosthetic laboratories
+e. Drug testing laboratories
+f. HIV testing laboratories
+g. Medical and biomedical laboratories
+h. Medical research centers
+i. Nuclear medicine laboratories
+j. Water testing laboratories
+
+8. Mortuary and Autopsy Centers
+
+Annex B
+
+Republic of the Philippines
+Department of Health
+East Avenue Medical Center
+NATIONAL REFERENCE LABORATORY
+East Avenue, Diliman, Quezon City .
+Tel. No./Fax No.: 435-71-36; E-mail: NRL_or_its_designatedlaboratorieseamcdoh@yahoo.com
+
+January 23, 2007
+
+PROCEDURAL GUIDELINES RELATED TO PERFORMANCE EVALUATION OF EQUIPMENT/DEVICES USED IN TREATMENT OF HEALTH CARE WASTES AND MONITORING OF MICROBIAL TEST OF TREATED WASTES
+
+I. RATIONALE
+
+The purpose of treating heath care waste is to change its biological and chemical character, in order to reduce its potential to cause harm to the health workers, the public and the community. There are a number of ways in treating health care waste in order to render them harmless, some of which necessitates the use of treatment devices / equipment. As such, it is critical that criteria be established to determine the efficiency of microbial destruction thru the use of this medical equipment / device and that guidelines for the performance evaluation be formulated to quantitatively define the level of microbial destruction. The safety, efficiency and quality of these equipment/devices are major public health concerns.
+
+To guarantee the quality of the treatment of health care wastes, there is a need for strict regulation in compliance with the standards set by the Department of Health and Department of Environment and Natural Resources.
+
+The Bureau of Health Devices and Technology (BHDT) has been designated to be the agency within DOH to issue Certificate of Product Registration for equipment/devices used in technology treatment of health care waste.
+
+The National Reference Laboratory for Environmental and Occupational Health Toxicology and Micronutrient Assay-East Avenue Medical Center, being the reference and referral laboratory for Environmental Health as well as its designated laboratories shall assist BHDT as its technical arm to issue Certificate of Technical Evaluation. As part of its mandate, the NRL-EAMC and its designated laboratories are tasked to evaluate performance of products relative to environmental health for registration purposes to ensure that all products manufactured, sold and used in the Philippines are safe, of consistent quality and effective.
+
+II. PURPOSE
+
+These guidelines are promulgated to protect the health of the people by ensuring that all health care waste treatment equipment/device shall be validated through performance evaluation prior to commercial marketing.
+
+III. LEGAL MANDATE
+
+Pursuant to Joint DENR-DOH Administrative Order No. 02, s 2005; on subject regarding "Policies and Guideline on effective and proper handling, collection, transport, treatment, storage and disposal of health care waste.", all Treatment, Storage and Disposal (TSD) facility operators and health care waste generators shall with on-site-waste treatment facilities, shall use DOH-BHDT registered equipment or devices in the treatment of health care waste.
+
+Department Order No. 393-E s. 2000 created the National Reference Laboratory at East Avenue Medical Center and designated it to be the reference laboratory for Environmental and Occupational Health Toxicology and Micronutrient Assay. One of its mandates is to conduct technical validation and performance evaluation of reagents, medical equipment and devices. The joint DENR-DOH Administrative Order No 02, s 2005 also designated NRL-EAMC as the agency within DOH to issue Certificate of Technical Evaluation.
+
+IV. SCOPE
+
+The guidelines shall cover all equipment and devices used in treatment of health care waste for commercial marketing.
+
+V. DEFINITION OF TERMS
+
+The folloWing are the Operational definition of terms used particularly for this guideline.
+
+1. Applicant - refers to an establishment or a natural or juridical person that seeks to evaluate the equipment or device used In treatment of health care waste.
+
+2. Device - for the purpose of this guideline, this shall refer to any of the health care waste treatment equipment/device/system such as steam disinfector, autoclave or microwave
+
+3. Health care waste sample - refers to untreated waste product generated from health care facilities of infectious nature
+
+4. Level III inactivation - refers inactivation of vegetative bacteria, fungi, lipophilic / hydrophilic viruses, parasites and mycobacteria at a 6 log 10 reduction or greater; and inactivation of B. stearothermophillus spores and B. subtilis spores at a 4 log 10 reduction or greater
+
+5. Level IV inactivation - refers to inactivation of vegetative bacteria, fungi, lipophilic/hydrophilic viruses , parasites and mycobacteria and B, stearothermophillus spores at 6 log 10 reduction or greater.
+
+6. Manufacturer's Performance Claim - refers to the technical specifications and capability of the device as claimed by the manufacturer
+
+7. Performance Evaluation - refers to the process by which the device is subjected to a series of tests to validate the ability of a device to perform as intended and in accordance with associated labeling and in conformance with applicable technical specifications and relevant product standards.
+
+8. Recovery media - refers to culture stock solution containing reagents that ensures optimum growth and revival of organism
+
+9. Sample Device - refers to the device/equipment/water system submitted for performance evaluation.
+
+10. Steam autoclave - refers to a system of equipment / device that combines moisture, heat and pressure to inactivate microorganisms.
+
+11. Test organism indicators - refers to microbiologic organism with properties of resistance to thermal, mechanical and chemical inactivation and thus can serve as a gauge of effectiveness of waste treatment system. The recommended test organism indicators are the spores of Bacillus subtilis var. niger (BSN) and B. stearothermophilus (BTS)
+
+12. Treated health care waste - refers to health care waste collected and subjected to waste treatment technology
+
+VI. REQUIREMENTS
+
+1. Letter of endorsement from BHDT
+
+2. Manufacturer Data Submission
+
+To support claims with respect to the particular health care treatment equipment and devices; the applicant / manufacturer is required to submit the following data to NRL or to its designated laboratories.
+
+2.1 List of raw materials used as components of the equipment/device
+2.2 Manufacturer's performance claim
+2.3 Test Procedures and Manuals written in English
+2.4 Certificate of Analysis/Report of Analysis from the manufacturer, to present original copy
+2.5 Performance comparison studies of pre-treated to post treatment of health care waste*, to present original copy
+
+*Maybe performed by a DOH licensed / accredited tertiary clinical laboratory with capabilities for microbiologic / bacteriologic analysis and conducted at least one (1) year from the date of application
+
+3. Submission of Equipment / Device
+
+3.1 The applicant shall submit the equipment/device to NRL or its designated laboratories for performance evaluation purposes.
+
+3.2 The applicant shall install the device at NRL or its designated laboratories.
+
+3.3 If device is installed in a particular area and cannot be brought to NRL-EAMC or its designated laboratories, staff shall be allowed to go to the area where it is installed and shall carry out the performance evaluation procedure for health care waste sample treatment. Treated heath care waste sample shall be analyzed only at NRL or its designated laboratories.
+
+VII. REVIEW and PERFORMANCE EVALUATION
+
+1. Data Review
+
+Upon receipt of the data submitted from the manufacturer, NRL or its designated laboratories shall:
+
+1.1 Review the data submission for completeness and compliance, with the manufacturers specifications.
+1.2 The applicant shall be given an opportunity to correct any deficiencies and shall be allowed to submit the data a second time within two weeks in case of non compliance with the above requirements.
+
+2. Submission of Sample Device
+
+Upon submission of sample equipment / device the NRL or its designated laboratories shall:
+
+2.1 Inspect equipment / device submitted
+2.2 Observe protocols for handling and operation including specifications for cycle of time, temperature and pressure achieved by the equipment/device, size and composition of waste load
+
+3. Performance Evaluation
+
+3.1 The NRL or its designated laboratories shall conduct analysis for health care waste samples collected after the treatment using the equipment / device
+
+3.2 The NRL or its designated laboratories shall use mixture of health care waste samples comprising not less than 50 % of the expected volume capacity of the equipment/ device. These health care waste samples shall be composed of infectious waste made up cultures and stocks of infectious agents from laboratory work and waste from infected patients like soiled dressings, linen, gown, etc.
+
+3.3 The parameters to be analyzed shall be based on the manufacturer's claims of sterilization or decontamination.
+
+3.4 The NRL or its designated laboratories shall conduct organism recovery tests using appropriate recovery culture media in triplicates.
+
+3.5 Growth of test indicator organisms shall be evaluated thru serial dilution in appropriate medium and quantitation performed thru enumeration of colony forming units (CFU) / ml.
+
+3.6 Three triplicate analysis cycle using double test indicator organism shall be performed.
+
+4. Supplies/Equipment
+
+4.1 Untreated health care waste sample (raw waste)
+4.2 Test indicator organism for level IV and level III inactivation:
+4.2.1 Bacillus stearothermophilus ATCC 12980 - 10 6
+4.2.2 Bacillus subtilis var. niger ATCC 9372 - 10 4
+4.3 Recovery, differential media, inoculating media and reagents:
+4.3.1 Trypticase soy agar
+4.3.2 Nutrient agar
+4.3.3 FDA Bacteriostasis Agar (FDA)
+4.3.4 Beef Extract Glucose Agar (BEGA)
+4.3.5 Tyrosine Agar (TYR)
+4.3.6 Soybean-casein digest broth
+4.4 Colony counter
+4.5 Appropriate glassware, e.g. petri dish, test tubes, flask
+4.6 Microbiologic incubator
+4.7 Commercially prepared spore strips
+4.8 Paper disks or strips and brown paper envelopes
+4.9 Polypropylene plastic tubes
+
+5. Equipment / device operation and procedure:
+
+5.1 Use exact protocols established by the manufacturer/package insert/operating manual
+
+6. Health care waste sample:
+
+The health care waste sample shall be prepared as follows:
+
+6.1 Determine the composition and type of the waste load as specified in the manufacturer's manual. The waste sample shall be suitable for each specific medical waste treatment technology. Unsuitable waste samples, like body parts and animal carcasses, radioactive material and hazardous chemicals shall not be used.
+
+6.2 Determine the size of the waste load as specified in the manufacturer's manual. The size of the sample waste to be loaded shall not be less than 50 % of the expected volume capacity.
+
+6.3 The waste sample shall oriented and loaded as to density and weight with the heaviest placed at the bottom.
+
+7. Selection and preparation of test organism indicator:
+
+7.1 Bacillus stearothermophilus ATCC 12980 with concentration of 10 6 and Bacillus subtilis var. niger ATCC 9372 at concentration of 10 4 are the organism of choice for the verification of Level IV and III of microbial inactivation
+respectively. Quantification of spore concentration shall be done using serial dilution and platings of spore suspension prior to strip or disc inoculation.
+
+7.2 The organism shall be impregnated and placed in sterile paper strips or disks and enclosed and sealed in sterile paper envelopes
+
+8. Procedure for test pack preparation and loading
+
+8.1 Dried test spores enclosed in small paper envelopes shall be placed in thermally resistant and steam permeable containers (polypropylene screwcapped container) with lid tightened. A single hole not to exceed 1.0 mm diameter is made in the side of the tube.
+
+8.2 Two packaged test indicator organism shall be placed in the center of the waste load, with an attached string for easy retrieval and containing autoclave indicator tape.
+
+8.3 The test preparation and loading shall be done in triplicate test cycle.
+
+9. Procedure for performance evaluation:
+
+9.1 The equipment/ device is operated under normal conditions specified In the manufacturer's package insert/operating manual
+
+9.2 Duplicate health care waste test samples shall be run and treated in triplicate test run cycles.
+
+9.3 Organism recovery testing shall be done by inoculating aseptically into 5.0 ml soybean-casein digest broth or equivalent media and incubated for at least 72 hours and observed for characteristic visible colony growth. Perform turbidity testing and subculture in differential media for confirmation. Quantify colony number using colony counter and reported in CFU / ml if growth is observed
+
+8. Analysis of Results
+
+8.1 Results must be within 95%-100% of the manufacturer's claim.
+
+8.2 To establish level IV, complete inactivation of a minimum of 10 6 BTS spores must be consistently killed in triplicate analysis cycle.
+
+8.3 To establish Level III, microbial inactivation, 10 4 of BSN spores must be completely killed in triplicate analysis cycle
+
+9. Reporting of Results
+
+9.1 Results of performance evaluation shall be released only to Bureau of Health Devices and Technology
+
+9.2 Result of performance evaluation conducted by NRL or its designated laboratories is valid for one year but subject to monitoring.
+
+10. Failure to Comply with the Performance Evaluation
+
+10.1 The NRL or its designated laboratories shall inform BHDT for noncompliance of the device or system.
+
+10.2 BHDT shall issue a notice for re-evaluation to applicant whose device failed the performance evaluation as stipulated in items 8.1, 8.2, and 8.3.
+
+10.2 Upon receipt of the notice, the applicant shall be given an opportunity to submit another device of the same type within ten (10) working days
+
+10.3 A payment equivalent to 70% of the original fee shall be charged for re-evaluation.
+
+10.4 Failure to comply with the requirements within the prescribed period, the results and findings shall be forwarded to BHDT for appropriate action.
+
+10.5 The NRL or its designated laboratories shall conduct re-evaluation of the device of a particular brand thrice. In the event that the third performance evaluation failed, the results shall be forwarded to BHDT for appropriate action.
+
+VIII. PERFORMANCE EVALUATION FEE
+
+1. The fee shall be based on the approved validation testing fee of NRL-EAMC for:
+
+1.1 Health care waste sample preparation
+1.2 Sample collection
+1.3 Test pack preparation and loading
+1.4 Bacteriologic analysis of total six samples
+1.5 Safety protocol and requirements of handling hazardous and infectious material.
+
+2. Other incidental expenses (including airfare and accommodation) incurred during sample collection and treatment not conducted at NRL or at its designated laboratories-EAMC shall be borne by the applicant
+
+3. If there's a complain to the safety, quality and effectiveness of the device within the validity period, BHDT shall inform NRL or its designated laboratories to conduct special test, the testing fee shall be borne by the applicant.
+
+XI. NRL Designated DOH Regional Laboratories
+
+NRL-EAMC shall designate DOH Regional Laboratories (DOH-RL) to assist in the conduct of the evaluation of equipment/devices used in treatment of health care wastes installed in the hospitals/laboratories in their respective regions for a more effective and efficient annual monitoring process.
+
+1. The Designated DOH RL shall undergo training conducted by NRL
+2. The DOH-RL shall conduct performance evaluation submitted only by the users in their respective regions.
+3. The DOH-RL shall follow the gUidelines on performance evaluation set by NRL-EAMC
+
+Prepared by:
+
+SOCORRO C. YANEZ, M.D.
+Head NRL-EAMC
+
+Approved by:
+
+ROLAND L. CORTEZ, M.D., MHA, CESE
+Medical Center Chief II
+East Avenue Medical Center
+
+REPUBLIC OF THE PHILIPPINES
+DEPARTMENT OF ENVIRONMENT AND NATURAL RESOURCES
+DEPARTMENT OF HEALTH
+
+JOINT DENR-DOH
+ADMINISTRATIVE ORDER NO. 02
+Series of 2005
+
+AUG 24 2005
+
+SUBJECT: Policies and Guidelines on effective and proper handling, collection, transport, treatment, storage and disposal of health care wastes.
+
+I. RATIONALE
+
+The Department of Environment and Natural Resources (DENR) and the Department of Health (DOH) hereby jointly provide the following guidelines on the management of health care wastes pursuant to, among others, the following laws, rules and regulations:
+
+• Clean Air Act of 1999 (Republic Act 8749);
+• Toxic Substances, Hazardous Waste, and Nuclear Waste Control Act of 1990 (Republic Act 6969);
+• Ecological Solid Waste Management Act of 2000 (Republic Act 9003)
+• Refuse Disposal of the Sanitation Code of the Philippines (Chapter XVIII, Implementing Rules and Regulations, Presidential Decree 856);
+• Clean Water Act of 2004 (Republic Act 9275);
+• Environmental Impact Statement (EIS) System (Presidential Decree 1586);
+• Hospital Licensure Act (Republic Act 4226)
+
+II. OBJECTIVES
+
+A. To provide guidelines to generators, transporters and owners or operators of treatment, storage, disposal (TSD) facilities of health care waste on the proper handling, collection, transport, treatment, storage and disposal thereof;
+
+B. To clarify the jurisdiction, authority and responsibilities of the DENR and DOH with regard to health care waste management; and
+
+C. To harmonize efforts of the DENR and DOH on proper health care waste management.
+
+III. SCOPE AND COVERAGE
+
+These policies and guidelines shall apply to health care waste generators, transporters and owners or operators of TSD and final disposal facilities.
+
+IV. DEFINITION OF TERMS
+
+A. Health Care Wastes - include all wastes generated as a result of the following:
+
+1. Diagnosis, treatment, management and immunization of humans or animals;
+
+2. Research pertaining to the above activities;
+
+3. Producing or testing of biological products; and
+
+4. Waste originating from minor or scattered sources (i.e. dental clinics. alternative medicine clinics, etc.)
+
+The categories of health care wastes are enumerated in Annex "A".
+
+B. Health Care Waste Generators - include health care facilities, institutions, business establishments and other similar health care services with activities or work processes that generate health care waste.
+
+1. Hospitals (Primary Care, Secondary Care and Tertiary Care)
+2. Infirmaries
+3. Birthing homes
+4. Clinics
+
+[a] Medical
+[b] Ambulatory
+[c] Dialysis
+[d] Health care centers and dispensaries
+[e] Surgical
+[f] Alternative medicine
+[g] Dental
+[h] Veterinary
+
+
+5. Laboratories and Research Centers
+
+[a] Medical and biomedical laboratories
+[b] Medical research centers
+[c] Blood banks and blood collection services
+[d] Dental prosthetic laboratories
+[e] Nuclear medicine laboratories
+[f] Biotechnology laboratories
+[g] Animal research and testing
+[h] Drug testing laboratories
+[i] HIV testing laboratories
+
+6. Drug Manufacturers
+7. Institutions
+
+[a] Drug rehabilitation center
+[b] Training centers for embalmers
+[c] Med-tech intern training centers
+[d] Schools of Radiologic Technology
+[e] Medical Schools
+[f] Nursing Homes
+[g] Dental Schools
+
+8. Mortuary and Autopsy Centers
+
+C. Health Care Waste Transporter - a person licensed by the DENR Environmental Management Bureau to convey health care waste through air, water or land.
+
+D. Treatment, Storage and Disposal (TSD] Facilities - facilities where hazardous wastes are stored, treated, recycled, reprocessed and/or disposed of, as prescribed under DENR AO No. 2004-36, Chapter 6-2 (Categories of TSD Facilities).
+
+V. RESPONSIBILITIES OF IMPLEMENTING & COOPERATING AGENCIES
+
+This Joint Administrative Order shall be implemented by the DENR through the Environmental Management Bureau (EMB) and its Regional Offices, the National Solid Waste Management Commission (NSWMC), and by the DOH through its Centers for Health Development (CHD), Bureau of Health Facilities and Services (BHFS), Bureau of Health Devices and Technology (BHDT), Environmental and Occupational Health Office (EOHO) of the National Center for Disease Prevention and Control (NCDPC), the National Center for Health Facility Development (NCHFD), and the National Reference Laboratory (NRL)-East Avenue Medical Center, Quezon City.
+
+A. The DENR-EMB shall:
+
+1. Be the primary government agency responsible for implementing pertinent rules and regulations on the management of health care waste in the Philippines, particularly concerning the issuance of necessary permits and clearances for the Transport, Treatment, Storage, and Disposal of such wastes, as governed by RA 6969, RA 8749, RA 9275, RA 9003 and PD 1586;
+
+2. Formulate policies, standards, and guidelines on the transport, treatment, storage, and disposal of health care wastes.
+
+3. Oversee compliance by generators, transporters, TSD facility operators, and/or final disposal facility operators with the proper transport, treatment, storage, and disposal of health care wastes;
+
+4. Conduct regular sampling and monitoring of wastewater in health care and TSD facilities to determine compliance with the provisions of RA 9275;
+
+5. Require TSD facility operators and on-site treaters to present to the DENR copies of the results of microbiological tests on the health care waste treated using autoclave, microwave, hydroclave and other disinfection facilities prior to the renewal of their Permits under RA 6969;
+
+6. Provide technical assistance and support to the advocacy programs on health care waste management; and
+
+7. Notify DOH on cases of non-compliance or notice of violation issued to health care facilities, institutions and establishments licensed by the DOH.
+
+B. The DOH shall:
+
+1. Regulate all hospitals and other health facilities through licensure and accreditation under the Hospital Licensure Act (Republic Act No. 4226);
+
+2. Formulate policies, standards, guidelines, systems and procedures on the management of health care wastes;
+
+3. Develop training programs and corresponding modules on health care waste management;
+
+4. Provide technical assistance in the preparation of health care waste management plan as a requirement for licensing or the renewal thereof;
+
+5. Provide technical assistance to ensure an effective, and efficient implementation of health care waste management program;
+
+6. Require all health care waste TSD facility operators and health care waste generators with on-site waste treatment facilities to use DOH-BHDT registered equipment or devices used for the treatment of health care wastes;
+
+7. Conduct regular performance evaluation of equipment/devices used for the treatment of health care wastes by the DOH-BHDT;
+
+8. Monitor the microbiological test of treated wastes to ensure compliance with DOH standards;
+
+9. Evaluate DOH hospitals' compliance with proper health care waste management program;
+
+10. Issue Department Circulars to ensure that all environmental requirements are complied with; and
+
+11. Notify DENR on actions taken on cases of non-compliance or notice of violation issued to health care facilities, institutions, and business establishments.
+
+C. The DOH-Centers for Health Development shall:
+
+1. Advocate health care waste management (HCWM) practices to the Local Chief Executives, key leaders and other stakeholders;
+
+2. Monitor health care waste management practices in all hospitals and other health care facilities;
+
+3. Provide technical assistance on health care waste managements (HCWM) through:
+
+a. Training
+b. Advisory on the preparation of HCWM plans as a requirement for licensing or the renewal thereof
+c. Dissemination of policies, guidelines and information
+d. Monitoring and validation of the implementation of HCWM
+e. Develop, reproduce, and disseminate HCWM IEC materials Participation in any public hearings related to HCWM
+f. Ensure compliance by health care waste generators with all pertinent laws, rules and regulations on HCWM.
+
+VI. GUIDELINES AND PROCEDURES
+
+A. ENVIRONMENTAL COMPLIANCE REQUIREMENTS
+
+A.1 Documentary Requirements
+
+A.1.1 Health Care Waste Generators
+
+Health care waste generators are required, based on existing laws, rules and regulations, to register and secure the following permits:
+
+A.1.1.1 From the DENR-Environmental Management Bureau
+
+1. Environmental Compliance Certificate (ECC) - for the establishment of hospitals, health care facilities covered by the provisions of PD 1586 from the EMB Central Office or its Regional Offices.
+
+2. Permit to Operate (P/O) - for Air Pollution Source and Control Installation from the EMB Regional Office.
+
+3. Discharge Permit will be issued by the EMB Regional Office and the Laguna Lake Development Authority (LLDA) based on RA 9275 or the Clean Water Act of 2004 (See Annex "B" LLDA Jurisdiction).
+
+4. Hazardous Waste Generator's Registration in compliance with the implementing rules and regulations of RA 6969 (DAO 29 series of 1992 and DAO 36 series of 2004) from the EMB Regional Office.
+
+A.1.1.2 From the DOH-Bureau of Health Facilities and Services:
+
+1. Licenses for hospitals, laboratories, dialysis clinics, birthing homes, infirmaries, psychiatric hospitals, dental prosthetic laboratories, blood banks, ambulatory clinics, and drug treatment and rehabilitation centers.
+
+2. Certificate of Accreditation for Overseas Filipino Workers (OFW) medical clinics, surgical clinics, drug testing laboratories, HIV testing laboratories, water testing laboratories, medical technologist intern training centers and training centers for embalmers.
+
+A.1.2 Health Care Waste Transporters
+
+Health care waste transporters are required, based on existing laws, rules, and regulations, to undertake the following:
+
+1. Register with EMB Central Office as healthcare waste transporter;
+
+2. Secure Transport Permit from the DENR-EMB Regional Office;
+
+3. Comply with the DENR Manifest System; and
+
+4. Comply with other requirements specified in the Implementing Rules and Regulations of RA 6969.
+
+A.1.3 TSD Facilities
+
+Owners or Operators of TSD facilities are required based on existing rules and regulations to secure the following permits and clearances from DENR-EMB and DOH:
+
+
+1. Environmental Compliance Certificate (ECC) for the Sanitary Landfill (SLF) and TSD Facility from the EMB Central Office or Regional Office
+
+2. Notice to Proceed for controlled dump facility to be used as repository of health care waste from the EMB Regional Office
+
+3. Registration as TSD facility based on the Implementing Rules and Regulations of RA 6969 from the EMB Central Office
+
+4. Technology Approval for non-burn technologies from the EMB Central Office prior to the issuance of Permit to Operate.
+
+5. Permit to Operate (P/O) Air Pollution Source and Control Installation from EMB Regional Office
+
+6. Discharge Permit from the EMB Regional Office or LLDA
+
+7. Certificate of Product Registration for equipment or devices used for treating health care wastes from the DOH-BHDT
+
+8. Certificate of Technical Evaluation for equipment or devices used for treating health care wastes from the NRL-EAMC
+
+B. PROCEDURES FOR SECURING PERMITS AND LICENSES
+
+Permits and licenses shall be secured following the established procedures of the DENR and DOH.
+
+C. SPECIFIC CRITERIA, STANDARDS, AND GUIDELINES
+
+C.1 Handling, Collection, Storage and Transport
+
+Handling, collection, storage and transport of health care wastes shall be in accordance with the provisions of RA 8749, RA 6969, and RA 9003, and the DOH Health Care Waste Management Manual. (Chapter 5).
+
+C.2 Treatment
+
+1. Facilities shall consider technologies and processes used in health care waste treatment such as (1) thermal, (2) chemical, (3) irradiation, (4) biological processes, (5) encapsulation, and (6) inertization, as outlined in the DOH Health Care Waste Management Manual and subject to compliance with the provisions of RA 8749, RA 6969, and RA 9003.
+
+2. Autoclave, microwave and hydroclave facilities shall use microbiological test to determine the treatment efficiency of the units. The results of the microbiological test shall be recorded and reported to DENR under RA 6969 and RA 9003.
+
+3. Health care waste generators and TSD facilities shall observe a level of microbial inactivation of 6 log 10 reduction or greater than the most resistant microorganism of concern in a given process.
+
+4. Treated wastes and inert residues from TSD facilities must be disposed in controlled disposal or sanitary landfill facilities duly licensed by the DENR to handle the same.
+
+5. Inertization is a suitable treatment for pharmaceutical wastes while encapsulation and other immobilization techniques are treatment methods considered for sharps, chemicals and pharmaceutical wastes and should therefore be placed in final disposal facilities indicated under the subsequent Section.
+
+C.3 Final Waste Disposal Systems and Facilities
+
+The use of the proceeding disposal facilities should only be limited to health care wastes which have undergone the necessary treatment provided under the prescribed standards stipulated in the DOH Health Care Waste Management Manual.
+
+C.3.1 Controlled Dump Facility
+
+1. A Controlled Dump Facility (CDF) is an interim disposal facility for municipal solid waste or those that are considered as non-hazardous and non-toxic substances. In the absence of a sanitary landfill, a controlled dumpsite could accept health care waste after the indicative treatment thereof.
+
+2. In addition to the operational guidelines stipulated under Section 2 of Rule XIII of the Implementing Rules and Regulations of RA 9003 or as indicated in the conditions stipulated in the issuance of the NTP, a CDF that is commissioned to accept treated health care waste should also be operated in accordance with the following specific requirements:
+
+a. Identify a particular cell within the facility to serve as a site for the disposal of treated health care waste. The capacity of the alloted cell/cell(s) should be measured in order to determine the actual volume of wastes that can be accommodated in the facility.
+
+b. Adequate signage should be placed in the health care waste disposition area.
+
+c. The cell should be lined with a material of low permeability, such as clay or a geo-membrane such as a high-density polyurethane (HDPE) plastic liner to contain the leachate and prevent contamination of groundwater sources within the area.
+
+d. Ensure that adequate soil cover is placed on the cells right after each waste spreading.
+
+e. Basic record keeping of the incoming wastes indicating the time of receipt, volume or weight, source identification (i.e. name of generator or source), certification of treatment (or any similar form indicating that the waste have undergone the necessary treatment) and the general condition of the waste to be disposed.
+
+C.3.2 Sanitary Landfill Facility
+
+1. A Sanitary Landfill Facility (SLF) is a disposal site designed, constructed, operated and maintained in a manner that exerts engineering control over significant potential environmental impacts arising from the development and operation thereof.
+
+2. The required dedicated cells for treated health care wastes should be built or developed prior to its operation to prevent the mixing thereof with municipal solid wastes and other wastes.
+
+3. Aside from the ECC, which is required for such facility, the construction and development of an SLF must conform to RA 9003 and its Implementing Rules and Regulations, particularly Sections 1 and 2, Rule XIV.
+
+4. Existing sanitary landfill with approved ECC for the disposal of municipal solid waste must secure an amendment of their ECC before accepting health care waste for disposal thereat.
+
+C.3.3 Safe Burial on Healthcare Facility Premises
+
+1. Safe burial within the premises of healthcare facilities shall be allowed in remote locations and rural areas where no TSD facilities are available. In such activity of safe burial, the health care facility must ensure that the load or capacity of the on-site burial pit is not exceeded.
+
+2. Chemical treatment or disinfection is required prior to safe burial on hospital premises.
+
+3. The standards for safe burial within the healthcare facility premises shall follow the guidelines specified in the DOH Health Care Waste Management Manual (See Annex "C").
+
+4. Relative to the guidelines provided by the DOH, the operation of safe burial should be in accordance with the minimum requirements for landfill.
+
+C.3.4 Sharps and Syringes Disposal Through Concrete Vault
+
+1. Disposal using concrete vault shall be allowed only as an alternative means of disposal of used sharps and syringes.
+
+2. Concrete vault shall be marked with proper signage: CAUTION: HAZARDOUS WASTE OR SHARPS DISPOSAL AREA - UNAUTHORIZED PERSONS KEEP OUT.
+
+3. Concrete vault should be watertight, and must be constructed at least 1.5 meters above the groundwater level.
+
+4. The procedures for the safe burial of sharps and syringes through concrete vault shall follow the guidelines in the DOH Health Care Waste Management Manual (See Annex "D").
+
+C.4 Wastewater Treatment Facility
+
+Healthcare facilities shall have their own Wastewater Treatment Facilities (WTF) or may be connected into a sewage treatment plant. However, facilities with laboratories shall be required to pre-treat their wastewater prior to discharge into a sewage treatment plant.
+
+VII. REPEALING CLAUSE
+
+All other issuances whose provisions of DENR and DOH Administrative Order, Memorandum Circulars or other issuances inconsistent herewith are hereby repealed or modified accordingly.
+
+VIII. PENALTY CLAUSE
+
+Failure to comply with the policies/guidelines shall be subject to the penalty provision(s) of the applicable laws stated herein.
+
+IX. EFFECTIVITY
+
+This Order shall take effect immediately.
+
+<sign>MICHAEL T. DEFENSOR</sign>
+<signtitle>Secretary
+Department of Environment and Natural Resources</signtitle>
+
+<sign>FRANCISCO T. DUQUE III, MD, MSc</sign>
+<signtitle>Secretary
+Department of Health</signtitle>
+
+ANNEX "A" - Categories of Health Care Waste
+
+1. General Waste - Comparable to domestic waste, this type of waste does not pose special handling problem or hazard to human health or to the environment. It comes mostly from the administrative and housekeeping functions of health care establishments and may also include waste generated during maintenance of health care premises. General waste should be dealt with by the municipal waste disposal system.
+
+2. Infectious Waste - This type of waste is suspected to contain pathogens (bacteria, viruses, parasites, or fungi) in sufficient concentration or quantity to cause disease in susceptible hosts. This includes:
+
+2.1 Cultures and stocks of infectious agents from laboratory work;
+2.2 Waste from surgery and autopsies on patients with infectious diseases (e.g. tissues, materials or equipment that have been in contact with blood or other body fluids);
+2.3 Waste from infected patients in isolation wards (e.g. excreta, dressings from infected or surgical wounds, clothes heavily soiled with human blood or other body fluids);
+2.4 Waste that has been in contact with infected patients undergoing hemodialysis (e.g. dialysis equipment such as tubing and filters, disposable towels, gowns, aprons, gloves, and laboratory coats);
+2.5 Infected animals from laboratories; and
+2.6 Any other instruments or materials that have been in contact with infected persons or animals.
+
+3. Pathological Waste - Pathological waste consists of tissues, organs, body parts, human fetus and animal carcasses, blood and body fluids. Within this category, recognizable human or animal body parts are also called anatomical waste. This category should be considered as a subcategory of infectious waste, even though it may also include healthy body parts.
+
+4. Sharps - Include needles, syringes, scalpels, saws, blades, broken glass, infusion sets, knives, nails and any other items that can cause a cut or puncture wounds. Whether or not they are infected, such items are usually considered as highly hazardous health care waste.
+
+5. Pharmaceutical waste - Includes expired, unused, split and contaminated pharmaceutical products, drugs, vaccines, and sera that are no longer required and need to be disposed of appropriately. This category also includes discarded items used in handling of pharmaceuticals such as bottles or boxes with residues, gloves, masks, connecting tubing and drug vials.
+
+6. Genotoxic Waste - Genotoxic waste may include certain cytostatic drugs, vomit, urine, or feces from patients treated with cytostatic drugs, chemicals, and radioactive materials. This type of waste is highly hazardous and may have mutagenic, teratogenic, or carcinogenic properties.
+
+6.1 Harmful cytostatic drugs can be categorized as follows:
+
+6.1.1 Alkylating agents: cause alkylation of DNA nucleotides, which leads to cross-linking and miscoding of the genetic stock;
+
+6.1.2 Anti metabolites: inhibit the biosynthesis of nucleic acids in the cell; mitotic inhibitors: prevent cell replication
+
+6.2 Cytotoxic wastes are generated from several sources and include the following:
+
+6.2.1 Contaminated materials from drug preparation and administration, such as syringes, needles, gauges, vials, packaging; outdated drugs, excess (left over) solutions, and drugs returned from the wards;
+
+6.2.2 Urine, feces, and vomit from patients which may contain potentially hazardous amounts of the administered cytotoxic drugs or of their metabolites and which should be considered genotoxic for at least 48 hours and sometimes up to 1 week after drug administration.
+
+7. Chemical Waste - Chemical waste consists of discarded solid, liquid, and gaseous chemicals, for example from diagnostic and experimental work and from cleaning, housekeeping, and disinfecting procedures. Chemical waste from health care may be hazardous or non-hazardous.
+
+7.1 Chemical waste is considered hazardous if it has at least one of the following properties:
+
+7.1.1 Toxic
+7.1.2 Corrosive (e.g. acids of pH &lt;2 and bases of pH &gt;12)
+7.1.3 Flammable
+7.1.4 Reactive (explosive, water-reactive, shock-sensitive)
+7.1.5 Genotoxic (e.g. cytostatic drugs)
+
+7.2 Non-hazardous chemical waste consists of chemicals with none of the above properties, such as sugars, amino acids, and certain organic and inorganic salts.
+
+8. Waste with high content of heavy metals - Wastes with a high heavy-metal content represent a subcategory of hazardous chemical waste, and are usually highly toxic. Mercury wastes are typically generated by spillage from broken clinical equipment (thermometers, blood pressure gauges, etc.). Whenever possible, spilled drops of mercury should be recovered. Residues from dentistry have high mercury content. Cadmium waste comes mainly from discarded batteries. Certain "reinforced wood panels" containing lead is still being used in radiation proofing of X-ray and diagnostic departments. A number of drugs contain arsenic but these are treated here as pharmaceutical waste.
+
+9. Pressurized Containers - Many types of gas are used in health care and are often stored in pressurized cylinders, cartridges, and aerosol cans. Many of these, once empty or of no further use (although they may still contain residues), are reusable, but certain types notably aerosol cans, must be disposed of. Whether inert or potentially harmful; gases in pressurized containers should always be handled with care; containers may explode if incinerated or accidentally punctured.
+
+10. Radioactive Waste - includes disused sealed radiation sources, liquid and gaseous materials contaminated with radioactivity, excreta of patients who underwent radio-nuclide diagnostic and therapeutic applications, paper cups, straws, needles and syringes, test tubes, and tap water washings of such paraphernalia. It is produced as a result of procedures such as in vitro analysis of body tissues and fluids, in vivo organ imaging, tumor localization and treatment, and various clinical studies involving the use of radioisotopes. Radioactive health care wastes generally contain radionucleides with short half-lives, which lose their activity in a shorter time. However, certain radionucleides e.g. C-14 contaminated wastes have much longer half-life, more than a thousand years, which need to be specially managed in a centralized treatment facility for radioactive wastes. The same is required for the management of disused sealed radiation sources used for cancer treatment.
+
+ANNEX "B" - Laguna Lake Development Authority Jurisdiction
+
+The Laguna Lake jurisdiction is limited to the water shed of the Laguna Lake which is consist of the following: Rizal Provinces (13 towns); Laguna Provinces (27 towns); chartered cities of San Pablo, Antipolo, Tagaytay, Tanauan, Calamba, Sta. Rosa; Sto. Tomas and Malvar, Batangas; Silang, Carmona and GMA, Cavite; Lucban, Quezon; Taguig and Pateros, Metro Manila; chartered cities of Pasay, Caloocan, Quezon, Manila, Muntinlupa, Marikina and Pasig.
+
+ANNEX "C" - Guidelines for Safe Burial within Hospital Premises
+
+Safe burial within the hospital premises shall be in accordance with the guidelines specified in the DOH Health Care Waste Management Manual as follows:
+
+1. Access to the disposal site should be restricted to authorized personnel only.
+
+2. The burial site should be lined with a material of low permeability, such as clay or a geo-membrane such as a high-density polyethylene (HDPE) plastic liner at the bottom of the pit to prevent contaminating groundwater and avoid pollution.
+
+3. Only hazardous health care waste should be buried. If general health care waste were also buried on the premises, available space would be quickly filled up.
+
+4. Large quantities (>1 kg) of chemical/pharmaceutical wastes should not be buried.
+
+5. The burial site should be managed as a landfill, with each layer of waste covered with a layer of earth to prevent odor, as well as to prevent proliferation of rodents and insects.
+
+6. Burial site should not be located in flood prone areas.
+
+7. Hospital ground should be secured. (e.g. fenced with warning signs).
+
+8. The location of waste burial pit should be downhill or down-gradient from any nearby wells and about 50 meters away from any water body such as rivers or lakes to prevent contaminating sources of water.
+
+9. Health care facilities should keep a permanent record of the size and location of all their on-site burial pits to prevent construction workers, builders, and others from digging in those areas in the future.
+
+10. The safe burial of waste depends critically on rational operational practices. The bottom of the pit should be at least 1.50 meters higher than the ground water level.
+
+11. It should be noted that safe on-site burial is practicable only for relatively limited period, say 1 to 2 years, and for relatively small quantities of waste, say up to 5 to 10 tons in total. Where these conditions are exceeded, a longer-term solution will be needed.
+
+ANNEX "D" - Procedures for the Safe Burial of Sharps and Syringes through Concrete Vault
+
+The procedures for the safe burial of sharps and syringes through concrete vault shall be in accordance with the guidelines in the DOH Health Care Waste Management Manual as follows:
+
+1. Dig a pit (minimum size of 1 m x 1 m x 1.8 m depth), enough to accommodate sharps and syringes for an estimated period of time without reaching the groundwater level. The site must be isolated and at least 152 meters away from the groundwater supply sources and dwelling units.
+
+2. Construct concrete walls and slabs on the pit. Provide slab with opening or manhole for easy deposition of collected sharps and syringes. The manhole should be extended a few centimeters above the soil surface to overcome infiltration of surface water.
+
+3. Deposit the collected safety boxes filled with used sharps and needles inside the concrete vault.
+
+4. Install a security fence around the site.
+</body>

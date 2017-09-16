@@ -1,0 +1,280 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>08/17/2012</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2012 - 0014</docnum>
+<subject> 
+SUBJECT: Policy and Implementing Guidelines on Reporting and Documentation in Emergencies and Disasters
+</subject>
+<body>
+I. BACKGROUND AND RATIONALE
+
+In emergencies and disasters, timely, accurate and sufﬁcient health information is critical to any event to facilitate judicious decision-making, appropriate interventions, proper coordination, and determination of the necessary logistical requirements. Through the timely reporting of available information, decision makers can thus make evidence-based appropriate actions during emergencies in order to ultimately reduce preventable deaths and morbidities. As such, methods used for reporting data should be standardized, ﬂexible and simple to accommodate frequent updates on rapidly changing situations, yet sensitive enough to detect potential health issues.
+
+The Health Emergency Management Staff (HEMS), being the repository of information in relation to health emergencies and disasters at all levels (i.e., national, regional, local, and hospital), is mandated to monitor, coordinate, and respond to
+emergencies and disasters. It takes advantage of all available sources in getting reports or gathering information and utilizes a reporting system to alert DOH at every level to the possible need for implementing emergency response measures,
+particularly those events with public health impact. In this regard, reports coming from the ﬁeld and other relevant agencies are deemed highly valuable and essential in determining next steps for action.
+
+Despite the existence of a reporting mechanism across all levels, the limitations in resources, varying standards in information management, difﬁculties in coordination, and varying magnitudes of an emergency and disaster can all pose a great challenge to emergency response. There were times when such vital information from the ﬁeld was delayed or inadequate causing setbacks in critical response activities. Thus, strategies and standards in ensuring an efﬁcient and effective system for managing emergencies and disasters are necessary to enable the health sector to respond properly through appropriate, timely, and relevant information.
+
+This AO, however, does not seek to establish a new reporting system. Rather, it will complement and further reinforce existing systems across all levels and provide support in ensuring that all the information necessary for effectively responding to emergencies and disasters are adequately and accurately obtained on time.
+
+
+
+II. OBJECTIVES
+A. General Objective
+
+To provide guidance in ensuring an effective and efficient reporting mechanism for a responsive evidence-based decision making process during emergencles and disasters.
+
+B. Specific Objectives
+
+1. To enable all reporting units at all levels of the health sector to submit timely, reliable and continuous reports of all health-related events
+
+2. To standardize reporting mechanisms in all levels for emergencies/disasters
+
+3. To ensure consistency and compliance of all reporting units with the reporting mechanisms in emergencies and disasters
+
+III. SCOPE AND COVERAGE
+
+This Order is issued for the compliance of all DOH ofﬁces, Bureaus, National Centers, Centers for Health Development, DOH Health Facilities, Attached Agencies, Local Governement Units, Other Government Agencies, Non-Government Organizations, Professional Societies, Private Sectors Development Partners and others concerned.
+
+IV. DEFINITION OF TERMS
+
+1. Casualties — describe both deaths (mortalities) and injuries (morbidities) directly or indirectly occurring as a result of emergency and disaster events.
+
+2. Cases — number of persons/individuals ofﬁcially diagnosed with a particular condition or illness relevant to the event. Affected persons could be either dead or physically and/or psychologically injured.
+
+3.Data facts, observations and experiences that serve as the foundation of information
+
+4. Direct Morbidity — refer to casualties who incurred illnesses or injuries caused by the
+physical forces of the disaster during the time of impact of the event. Examples
+include trauma injuries.
+
+5. Direct Mortality — refer to casualties who died resulting directly from the physical forces caused by the disaster. Examples of these are those who drowned in ﬂoods, buried in landslides, etc.
+
+6.Disaster — any event in which local emergency management measures are insufficient to cope with a hazard, whether due to lack of time, capacity or resources, resultmg 1n unacceptable levels of damage or number of casualties.
+
+7. Emergency — any event endangering the life or health of a signiﬁcant number of people and demanding immediate action. An emergency situation may result from a natural, human-generated, technological or societal hazard.
+
+8. Health Event - an incident or occurrence based on a particular hazard with the potential to cause a direct negative health impact or indirect administrative concerns that might affect health operations.
+
+9.Health Emergency Management— a comprehensive, integrated, and efﬁcient mechanism of managing health and health related disasters in all three phases of the disaster cycle— pre disaster, emergency and post disaster
+
+10.Health-Related Event — any incident that has impact on public health and safety. Information — data that have been collected and processed in a meaningful form
+
+11.Indirect Morbidity — refer to illnesses that can be attributed to unsafe and unhealthy conditions that developed due to the disaster. Examples include infectious and communicable diseases acquired in evacuation centers, psychological conditions developed from the traumatic experience, and other stress—related illnesses.
+
+12.Indirect Mortality — refer to deaths that can be attributed to causes that gradually developed due to the consequences brought on by the effects of the disaster. They also include deaths caused by unsafe and unhealthy conditions that occur because of the disaster. Examples include deaths secondary to event-related trauma, due to infectious diseases (e.g., leptospirosis secondary to exposure to ﬂoods), psychological conditions, and other related causes.
+
+13.Major Event -— any reportable event wherein at least two of the following criteria are present: a) 10 or more individuals affected; b) cannot be handled by the LGU; c) affects critical infrastructure; d) DOH assistance/intervention is needed; and e) declaration of a calamity/disaster
+
+14.Mass Casualty Incident — an event in which the number of casualties (dead and injured) is of sufﬁcient magnitude as to overwhelm the available resources of the facility or community.
+
+15.Minor event -— any reportable event which meets the following criteria: a) less than 10 individuals affected; b) situation can be handled by LGU alone; 0) DOH intervention not needed; d) no declaration of calamity/disaster
+
+Zero reporting — the process of reporting to the next level at a speciﬁed frequency (e. g., weekly or monthly) even if there are no (zero) cases.
+
+V. DECLARATION OF POLICIES
+This order is guided by the following issuances:
+
+1. Republic Act 10121 “An Act strengthening the Philippine Disaster Risk Reduction and Management system, providing for the National Disaster Risk Reduction and Management Framework and institutionalizing the National Disaster Risk
+
+Reduction and Management Plan, appropriating funds therefore and for other purposes.”
+
+2. Implementing Rules and Regulations of Republic Act 10121 Rule 7 Sec 3 states that “There should be an established standard operating procedure on the communication system among provincial, city, municipal, and barangay disaster risk reduction and management councils for purposes of warning and alerting them and for gathering information on disaster areas before, during and after disasters.”
+
+3. Administrative Order No. 168 s. 2004 entitled “National Policy on Health Emergencies and Disasters” Section V.C on Support Systems, identiﬁes information management system and surveillance as one of the strategies in ensuring an efﬁcient and effective system for managing emergencies and disasters in the Health Sector.
+
+4. Administrative Order No. FAE 64-A, s.1998 pertains to “Health Emergency Alert Reporting System (HEARS)”- a system specifying that all Chiefs of Hospitals and designated Ofﬁcers of the Day are directed to report any abnormal increase in admission of communicable diseases (i.e. typhoid, measles, dengue, cholera, etc), emergency, disaster, or related health events occurring in DOH facilities to the HEMS every 24 hours or as directed by the Ofﬁce of the Secretary.
+
+POLICIES AND GENERAL GUIDELINES
+
+1. All data and information are important in health emergency management. All reporting units at all levels shall devise mechanisms to obtain, review, analyze, and use the information gathered to determine the best possible actions and interventions for their level at any given time.
+
+2. The'Health Emergency Management Staff (HEMS) Ofﬁce or designate at all levels shall be the repository of information in relation to health emergencies and disasters.
+
+3. All reports for emergencies and disasters shall follow templates officially released by DOH-HEMS. As such, DOH-HEMS shall regularly review, amend the existing, and develop new forms and guides as needed for this purpose. The ofﬁce shall also be responsible for ensuring that these documents are appropriately disseminated to all potential users and agencies concerned.
+
+4. All reporting ﬁeld units shall develop strategies and corresponding mechanisms to ensure that the needed information are obtained accurately and on time from theirareas of jurisdiction. These shall include, but are not limited to, network expansion, designation of focal persons, and others.
+
+5. Reporting units shall utilize any of the available forms of information and communication technology (ICT) to ensure the timeliness of reports. These include, but are not limited to, short messaging service (SMS)ftext, telephone call, electronic mail (e-mail), two—way radio transceiver, facsimile, and others.
+
+VII.
+
+6. When information is urgently needed and vital to operations required by rapidly evolving conditions secondary to an emergency or disaster of a signiﬁcant magnitude, reports may be obtained or relayed directly across any level (national, regional, local), outside of the normal protocols (see ﬁgure in Section VII-3, Flow of Reporting Health Information during Emergencies and Disasters).
+
+SPECIFIC GUIDELINES
+1. Criteria for a Reportable Health and Health-Related Event
+
+1.1 Based on Hazards
+There are four (4) types of hazards that can qualify an event as reportable:
+
+a. Natural Hazard — a physical force that may cause a disaster when it affects a populated area such as typhoon, ﬂood, landslide, earthquake, and other similar events.
+
+b. Biological Hazard — a process or phenomenon of organic origin or conveyed by biological vectors, including exposure to pathogernc mlcro-organisms, toxins and bioactive substances.
+
+c. Technological Hazard — a hazard originating from technological or industrial conditions, including accidents, dangerous procedures, infrastructure failures or speciﬁc human activities.
+
+d. Societal Hazard — a hazard that arises from the interaction of varying political, social, economic factors which may have a negative impact on a community
+
+Examples of Hazards
+
+
+
+ <image>table_1.png</image>
+
+ 
+1.2 Based on Special Events
+
+For this purpose, special events are events that cannot be classiﬁed under any of the four types of hazards but have the potential of developing into a mass casualty incident.
+
+Special events include the following:
+
+a. National and local holidays
+b. Events of national importance (e.g., elections, State of the Nation Address, etc)
+Events involving ﬁgures/personalities of national importance (e.g., President, Ambassador, etc)
+c. Events with security implications
+International events
+i. International emergencies/disaster that have a potential public health effect in the Philippines (e. g. Fukushima nuclear
+radiation, pandemics)
+ii. International events hosted by the Philippines that have threat of MCI needing DOH participation/intervention
+iii. International disasters warranting humanitarian assistance from other countries.
+
+2. Types of Reports and Corresponding Frequency
+
+2.1. The following table shows the different types of reports and the frequency when each should be submitted:
+
+ 
+
+ 
+<image>table_2.png</image>
+
+
+2.2. When the consequences of a major health emergency or disaster call for extensive response efforts (i.e., prolonged operations, multi—agency/multi-sectoral response needed, massive devastation and destruction, etc.), the folloWing information may also be regularly requested from the ﬁeld:
+
+<image>table_3.png</image>
+<image>table_4.png</image>
+
+ 
+3. Flow of Reporting Health Information during Emergencies and Disasters
+
+<image>figure_1.png</image>
+ 
+
+When information is urgently needed and vital to operations required by rapidly evolving conditions secondary to the emergency or disaster, reports may be obtained or relayed across all levels - via telephone, SMS, email, radio, or any other means of communication. However, it is essential that copies of such reports and other supporting documents are still coursed through the normal reporting routes as soon as time allows.
+
+4. Reporting of Mortalities and Morbidities during emergencies/disasters
+
+The Department of Health is the sole authorized agency to provide ofﬁcial ﬁgures on mortalities and morbidities to the National Disaster Risk Reduction and Management Council (NDRRMC). Partner agencies are encouraged to use these ﬁgures in their reports to ensure consistency of data and avoid confusion, especially of the general public. In addition, this report is the basis for ﬁnancial assistance provided for the casualties/cases (for morbidities) or their families (for mortalities), hence, it is necessary that all deaths and injuries relevant to the disaster event be reported accurately and on time.
+
+4.1 Mortalities
+Mortalities secondary to the emergency or disaster may be classiﬁed as direct or indirect.
+
+All deaths directly or indirectly related to the disaster, i.e. with body and death certiﬁcate, shall be reported using the prescribed form for the purpose. In the absence of a death certiﬁcate, the death shall still be reported as long as initial means of validation through interview with the relative and certiﬁcation from the barangay ofﬁcial have been conducted.
+
+A death is considered conﬁrmed when the actual dead body of an individual is physically seen, his or her name determined, and the corresponding cause ofthe particular individual’s death is related to the disaster event.
+
+When dismembered body parts from the dead persons are found, each body part shall be counted as one (i.e. one arm = one dead person) to facilitate reporting.
+
+4.2 Morbidities
+Morbidities may be classiﬁed as direct or indirect. All sick individuals monitored in the evacuation centers, health facilities (including, but not limited to, hospitals, rural health units, medical clinics [both private and public], barangay health stations, etc.) conﬁned or out-patient, related to or as consequence of a particular emergency/ disaster or displacement shall be included in the report.
+
+
+VIII. IMPLEMENTING MECHANISMS
+
+ROLES AND RESPONSIBILITIES
+
+A. DOH Central Ofﬁce
+
+The Department of Health shall serve as the leader and policy-making body for reporting mechanism in the Health Sector. It shall formulate guidelines, standards, procedures and protocols and ensure compliance to the implementation of the reporting mechanism in emergencies and disasters. It shall also provide technical assistance to all implementing agencies.
+
+1. Health Emergency Management Staff (HEMS)
+
+a. Shall be the national repository of information in relation to health emergencies and disasters
+
+b. Shall be responsible for reviewing and consolidating reports for the purpose of determining necessary national intervention Shall be responsible for developing, updating and disseminating report templates to be used by all reporting ofﬁces
+
+c. Shall consolidate information gathered and develop appropriate reports for
+
+d. the Secretary of Health, NDRRMC, other partner agencies, and the general public, in accordance with existing protocols
+
+e. Shall maintain a database of all health emergencies and disasters as reported
+
+2. Information Management Service (IMS)
+
+a. Shall maintain and upgrade information and communication technologies (ICT) necessary for data collection and report generation.
+
+B. Centers for Health Development (CHD)
+
+a. Shall be the regional repository of information in relation to health emergencies and disasters  
+
+b. Shall be responsible for reviewing and consolidating reports for the purpose of determining necessary regional interventions
+
+c. Formulate plans, procedures and protocols to implement the policy and guidelines.
+
+d. Establish reporting mechanisms appropriate for their respective regions.
+
+e. Provide and implement a mechanism of coordination and collaboration with LGUs, partners and other stakeholders, to ensure the timely reporting of events monitored during emergencies and disasters.
+
+f. Shall immediately report to HEMS all major emergencies/disasters occurring within their catchment areas
+
+g. Shall prepare and submit all the necessary reports and regular updates based on the prescribed templates and timelines to concerned local government units and to DOH on all major emergencies/disasters occurring within their catchment areas within the prescribed deadline and frequency
+
+h. Shall provide technical assistance to their respective LGUs in the use of reporting templates
+
+i. Shall identify/designate a focal person authorized to send the reports
+
+j. Shall ensure that the actions undertaken by LGUs, organizations, and other agencies/partners in the ﬁeld (N GOs, 10s and members of the private sector) responding to a particular event under their jurisdiction are included in their
+report
+
+k. Shall devise mechanisms and strategies to submit reports on time through other means when communication Systems are disrupted"
+
+C. Hospitals (DOH, Private, and Local Government Unit Hospitals)
+
+a. Shall prepare and submit all the necessary reports based on the prescribed templates and timelines to the respective next level of reporting on all major and minor emergencies/disasters occurring within their catchment areas within the prescribed deadline and frequency.
+
+b. Shall continuously submit updated reports of events occurring in their area of jurisdiction.
+
+c. Shall identify/designate a focal person authorized to send the reports
+
+d. Shall devise mechanisms and strategies to submit reports on time through other means when communication systems are disrupted
+
+D. Local Government Units
+
+3. Shall prepare and submit all the necessary reports based on the prescribed templates and timelines to the respective next level of reporting on all minor and major emergencies/disasters occurring within their catchment areas within the prescribed deadline and frequency.
+
+b. Shall continuously submit update reports of events occurring in their area of jurisdiction.
+
+c. Shall identify/designate a focal person authorized to send the reports
+
+d. Shall devise mechanisms and strategies to submit reports on time through other means when communication systems are disrupted
+
+E. Other Government Agencies
+a. Shall adhere to and observe all requirements and standards needed to report emergencies and disasters in accordance to the thrust of the Department of Health.
+b. Shall coordinate and participate in inter-agency activities with the Department of Health in emergencies and disasters to facilitate information sharing and gathering
+
+F. Non—Government Organization/Agencies, Private Sector and Civil Society Groups '
+
+a. Shall adhere to and observe all requirements and standards needed to report emergencies and disasters in accordance to the thrust of the Department of Health
+
+b. Shall coordinate and participate in inter—agency activities with the Department of Health in emergencies and disasters to facilitate information sharing and gathering
+
+c. Shall support the DOH/CHDs/LGUs/Hospitals in providing reports of activities undertaken in emergencies and disasters.
+
+IX. REPEALING CLAUSE
+
+All orders, rules and regulations or any provisions thereof inconsistent with this Order are hereby repealed and modiﬁed accordingly.
+
+All ofﬁces should develop mechanisms to implement the policy
+
+EFFECTIVITY CLAUSE:
+
+This Administrative Order shall take effect immediately after signing.
+
+</body>
+
+
+<sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+

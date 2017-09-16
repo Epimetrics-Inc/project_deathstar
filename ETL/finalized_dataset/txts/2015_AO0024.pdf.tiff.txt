@@ -1,0 +1,270 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>06/05/2015</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2015 - 0024 </docnum>
+<subject>SUBJECT: Implementing Guidelines on Integrated Tuberculosis Information System (ITIS) </subject>
+<body>
+
+I. RATIONALE 
+
+The National Tuberculosis Control Program (NTP) is the government's commitment to address the tuberculosis (TB) problem in the country. TB Services are implemented based on NTP policies and guidelines nationwide in all government health centers, selected government hospitals and Public-Private Mix DOTS (PPMD) units to detect all TB cases and ensure that they are treated successfully.
+
+Recording and reporting are important in the implementation of a successful TB control program. Data generated from these reports serve as the basis for creating appropriate and effective implementation plans and strategies for the NTP. Thus, there is a need for records to be complete, accurate and up to date. 
+
+Different information systems were established to address the needs of the TB program. These are the following: 1.) The Electronic Tuberculosis Registry (ETR) Which was implemented by the National Epidemiology Center (N EC) of the Department of Health (DOH) in 2007 - 2011 in Regions III and National Capital Region (N CR). ETR collects information for Drug—Susceptible Tuberculosis (DSTB) from the TB Registry, and is installed and used by the City Health Ofﬁces (CHOS), Provincial Health Ofﬁces (PHOs), and Regional Ofﬁces (R03). 2.) The e-TB Manager is a web-based system developed by Management Sciences for Health (MSH) in 2009. It was introduced in the Treatment Centers (TCs), Culture Centers (CCs) and Warehouses in the 2nd Quarter of 2010 and collects information for Drug—Resistant Tuberculosis (DRTB) from the TB Symptomatic Masterlist, Category I V Register, Laboratory Results, Order and Delivery List of first and second-line anti-T B drugs. 3.) The Electronic Field Health Services Information System (eFHSIS) routinely collects pertinent data on all DOH programs including NT P from Rural Health Units (RH Us) and Barangay Health Stations (BHS) in the country with the several information system, the NT P decided to have just information system, the ITIS which is the electronic information system of the NTP. The objective of ITIS is to establish an efﬁcient data management system for health facilities providing TB service at both public and private sectors. This will also address the objective of the program as stipulated in Strategy 2 of the 2010-2016 Philippine Plan of Action (PhilPACT) which is to monitor health system performance by a) tracking the trend of TB burden, b) generation TB information on time and integrated TB information system with the national M&E & FHSIS and lastly, (C) TB information system integrated with national monitoring and evaluation (M&E) and Field Health Services Information System (FHSIS). 
+
+
+Further, health information is one of the strategic instruments to attain Universal Health Care (UHC) that shall provide evidence for policy and program development, and support for immediate and efﬁcient provision of health care and management of province wide health systems. 
+
+The objectives of the NTP, current thrusts and instruments of the UHC, and the need to harmonize existing information systems in the DOH are key drivers towards the development of an integrated information system for tuberculosis to strengthen the health information aspect of attaining UHC. 
+
+II. OBJECTIVES 
+
+General Objective: To provide guidelines and direction in the adoption, implementation, maintenance and monitoring of the ITIS. 
+
+Speciﬁc Objectives: 1. To provide guidelines on the implementation of ITIS being the electronic recording and reporting tool of NTP. 
+
+2. To stipulate the roles and responsibilities of the different agencies and stakeholders involved in the implementation and sustainability of ITIS. 
+
+III. SCOPE 
+
+This Order applies to all Department of Health (DOH) Central and Regional Ofﬁces (ROS) and attached agencies, Local Government Units (LGUs) at the Provincial; City and Municipal levels, Private Public Mixed DOTS (PPMD), Treatment and Satellite Treatment Centers, Laboratories and other facilities provides TB services within the NTP networks. 
+
+IV. DECLARATION OF POLICIES 
+
+This Order is guided by the following issuance.
+
+1. Executive Order No. 187, series of 2003 “Instituting a Comprehensive and Uniﬁed Policy for the Tuberculosis Control in the Philippines”. This Order has adopted the standardized tuberculosis management protocols and guidelines to facilitate effective program implementation in all parts of the country. 
+
+V. DEFINITION OF TERMS  
+For purposes of this Order, the following terms are deﬁned as follows: 
+
+1. Access Level - the type of access given to a user such as encoder, validator and viewer. 
+
+2. Culture Center (CC) - a TB laboratory specializing in performing TB Culture (TBC). 
+
+3. Data Migration - the process of transferring from other storage, types, andlor formats to be able to consider system implementation, upgrade or consolidation. 
+
+4. Data Validation - the process of checking the correctness, accuracy and completeness of data. 
+
+5. Data Downloading — the process of creating ITIS dispatch ﬁle from the local database. It usually done by the ofﬂine users. 
+
+6. External Users - the agencies, ofﬁces, facilities, organizations, associations, institutions, foundations and/or individuals that also need TB data for whatever purpose it may serve. (e.i. research, analysis) 
+
+7. Health Enterprise Architecture (HEA) — the conceptual blueprint that deﬁnes the structure and operations of the organization. 
+
+8. Implementing site/Implementer - a facility or agency that implements the ITIS. 
+
+9. Integrated TB Information System (ITIS) — an electronic information system that will be used to collect, consolidate and report TB data coming from all health facilities managing TB cases under NTP. 
+
+10. ITIS Trainers - a person/s speciﬁcally from RO, PHO and CH0, who attended the ITIS Training of Trainers conducted by KMITS. 
+
+11. Knowledge Management and Information Technology Service (KMITS) the ofﬁce within DOH that is responsible in development and management of health information system like ITIS. 
+
+12. Local Government Unit (LGU) - a territorial and political subdivision of the Republic of the Philippines as deﬁned in the Local Government Code. 
+
+13. Municipal Health Office (MHO) / City Health Office (CHO) - a local government ofﬁce that has direct health care and oversees effective administration to the Rural Health Units/Health Centers. 
+
+14. Disease Prevention & Control Bureau (DPCB) - the ofﬁce within DOH that is responsible in implementing and formulation of policies related to the NTP. 
+
+15. National Tuberculosis Control Program (NTP) - the program of the government that addresses the TB problem of the country by ensuring that TB diagnostic, treatment and information services are available and accessible to the communities in collaboration with the LGUS and other partners. 
+
+16. National TB Reference Laboratory (NTRL) - the central laboratory arm of the NTP that takes the lead of TB laboratory operations. 
+
+17. Private-Public Mixed DOTS (PPMD) - the strategy of NTP designed to increase case detection and to synchronize the management of TB both in the public and private sectors. 
+
+18. Rural Health Unit (RHU) / Health Center (HC) - the primary government health care facility at the municipal/city level wherein health services are delivered. 
+
+19. Service Request Form (SRF) - a standard form accomplished by a client to request speciﬁc IT services from KMITS. A requirement for the issuance of ITIS user account. 
+
+20. System Administrator - a person responsible for the maintenance, conﬁguration and operation management of a system. 
+
+21. Treatment Center (TC) / Satellite Treatment Center (STC) — a DOTS facility, public or private providing comprehensive management of more than ten (10) MDR-TB patients and coordinating with MDR-TB treatment sites for the supervision and management of patients endorsed for supervised treatment. 
+
+22. User Account - the information of the user such as name and password 
+
+23. Version Type - the online and ofﬂine version of ITIS use by the implementing sites. 
+
+VI. GUIDING PRINCIPLES 
+
+The guiding principles in the creation of this Order are as follows: 
+
+1. Development and modiﬁcation in ITIS shall be developed in an inclusive and consultative manner in coordination with the NTP and shall build upon and integrate with the existing TB information systems. It shall also be designed to be compatible and integrated with the current DOH information systems. 
+
+2. The ITIS will be the ofﬁcial information system to collect, consolidate, TB information under the NTP. 
+
+3. All public and private health facilities within the NTP network shall adapt and participate in the implementation of ITIS. 
+
+4. The ITIS shall make broader efforts to provide data for case management and to improve generation and reporting of data for program utilization. 
+
+5. The ITIS shall be implemented in a stepwise approach. 
+
+6. The ITIS shall link and include all components of the TB Program including case management, laboratory, stock inventory and NTP reports. 
+
+
+VII. GENERAL GUIDELINES 
+
+1. The Regional ofﬁce shall develop a region-wide implementation plan for ITIS. 
+
+2. All staff shall be trained prior to software utilization. 
+
+3. ITIS implementation shall take place within one (1) month (maximum) after a facility representative/s have attended the training. 
+
+4. A monitoring team composed of personnel from DPCB and KMITS shall be organized and authorized to conduct monitoring visits to ITIS implementing sites to assess compliance of the workstations and the performance of the ITIS. 
+
+5. Sites with existing TB Information System other than the system developed by KMITS shall provide data sets based on the Health Enterprise Architecture (HEA) of the DOH. 
+
+6. For external users, NTP shall review, deﬁne and approve requests to access the ITIS. 
+
+VIII. SPECIFIC GUIDELINES 
+
+1. To be able to develop a region-wide implementation plan: 
+
+a. A Consultative Meeting with RO, PHO, CH0 and PMDT facilities per region shall be conducted prior to ITIS implementation. 
+
+b. The plan shall include activities that will promote the sustainability of ITIS. 
+
+2. Attendance to training conducted by KMITS or by authorized ITIS trainers of at least one (1) personnel per agency/facility shall be required prior to use of ITIS to ensure proper utilization of the system. Trained personnel who attended the training in the facility shall transfer the knowledge 1n using the system. 
+
+a. With the technical support from KMITS and NTP Staff, the ITIS Trainers shall conduct users” training to their respective health facilities under their catchment area. 
+
+3. To start the implementation: 
+
+a. An accomplished Service Request Form (SRF) for user account management request duly signed by the head of their respective unit shall be submitted to KMITS before the issuance of user account. 
+
+b. ITIS is a DOH-developed information system, thus computers provided by DOH through KMITS shall be used for ITIS operations. 
+
+c. ITIS is available both online and ofﬂine versions for drug susceptible TB only. Sites without an internet connection shall install an ofﬂine version of the system. Assigned ITIS point person shall be responsible in data encoding, updating and downloading of the data to ROS on the agreed schedules of submission. KMITS shall be responsible in appending the downloaded data to the production database. Sites using the ofﬂine version has the option to use the online version in the event that they have internet connectivity. However, both versions cannot be used simultaneously. A service request shall be required between changing of versions. 
+
+d. Trained personnel shall regularly encode, validate and/or update data in the system based on his access level. 
+
+e. ROS, PHOs and CHOS shall undertake validation to check the quality of data according to factors such as reliability, completeness, accuracy and timeliness being encoded at their respective units prior to reporting deadline of the ofﬁcial release of report set by NTP. 
+
+i. The RO, PHO, and CH0 shall be given access level and rights to view and validate the data of implementing sites within their catchment area. As such, the R0, PHO and CHO, head of units shall assign or designate person(s) to check or verify the quality of data that has been encoded. 
+
+ii. The RO, PHO and CHO shall be given ﬁve (5) working days to check and verify the data prior to the ofﬁcial release of NTP report. If problems are found, R0, PHO or CHO shall immediately call the attention of concerned unit to review and revise their reports for resubmission within ﬁve (5) working days. 
+
+iii. All issues, concerns and/or problems in the validation of data shall be properly elevated to the NTP and/or National TB Reference Laboratory (NTRL) which shall address these accordingly. 
+
+f. All ITIS implementing sites shall regularly submit reports on a quarterly and annual basis and as needed by the NTP. Likewise, the NTP shall generate the reports for data analysis and ofﬁcially release the validated NTP reports. 
+
+i. The NTP shall generate, evaluate and ofﬁcially release the reports only after the R0, PHO and CHO have validated the data
+
+ii. The NTP shall generate the Quarterly NTP report every 1St month of the following quarter. Likewise, the NTP shall generate 
+
+the Annual NTP report every 1St month of the following year. 
+
+4. For the effective implementation of this Order, monitoring activities to assess compliance of reporting facilities and the performance of the ITIS shall be conducted. The NTP, KMITS, R0 and NTRL are hereby authorized to conduct monitoring activities which shall be done quarterly or as the need arises. 
+
+a. The NTP in coordination with KMITS shall incorporate ITIS to their existing standard monitoring and assessment tools used during their monitoring visits. 
+
+b. A conduct of interview and cross—veriﬁcation between the paper-based and the electronic records shall be the scope of the monitoring and evaluation of NTP while performance and maintenance of the ITIS is the focus of KMITS. 
+
+5. As part of standardization of DOH information systems, sites that are using other system can still use their existing information system; however, they must provide the data sets based on the HEA of the DOH such that migration of data can be made possible and software sustainability can be addressed. 
+
+6. For external users, upon approval and endorsement of NTP, the KMITS shall process the in requests to have access to the system. 
+
+IX. ROLES AND RESPONSIBILITIES 
+
+1. The JDPCB, as the system owner and over-all lead ofﬁce in managing the implementation of the ITIS, shall: 
+
+a. Formulate policies, procedures and guidelines in data collection, reporting, processing, analysis and dissemination of information. 
+
+b. Provide direction and guidance in the implementation of the ITIS. 
+
+c. Review analyze and interpret reports and provide information to stakeholders. 
+
+d. Address program issues and concerns related to ITIS implementation. 
+
+e. Conduct monitoring and evaluation on ITIS implementers. 
+
+f. Coordinate with KMITS the enhancement needed on ITIS including update in program implementation. 
+
+2. The KMITS shall: 
+
+a. Provide technical support in software maintenance, implementation, deployment and operations, such as but not limited to the following software enhancement, system troubleshooting, debugging, database backup and recovery, network administration, database administration, and others. 
+
+b. Train the trainers at the regional level on how to operate the software and be able to train the implementers. 
+
+c. Train the System Administrators on the mechanics of technical assistance, database administration, and other relevant technical support. 
+
+d. Monitor and evaluate the operations and performance of the ITIS together with the DPCB. 
+
+3. The NTRL shall: 
+
+a. Oversee the implementation of ITIS among all TB laboratories within the NTP network. 
+
+b. Monitor and validate accuracy of TB laboratory results that are being encoded in the ITIS. 
+
+c. Coordinate with NTP and KMITS all laboratory data requirements for the enhancement of ITIS laboratory module. 
+
+d. Conduct monitoring of ITIS implementation. 
+
+e. Provide feedback to KMITS on the improvement of the ITIS. 
+
+4. The RO shall: 
+
+a. Advocate to the LGUs to adopt the ITIS. 
+
+b. Provide budget for the maintenance of the functionality of ITIS 
+
+c. Provide assistance on the implementation of the ITIS including training personnel from public and private facilities. 
+
+d. Conduct monitoring and evaluation on ITIS implementers. 
+
+e. Validate the NTP reports generated in the ITIS. 
+
+f. Provide feedback to KMITS on the improvement of the ITIS. 
+
+g. Provide technical assistance to ITIS implementers. 
+
+5. The PHO and CHO of highly urbanized city shall: 
+
+a. Adopt the Administrative Order for the effective use of ITIS implementation in their area from PHO/CHO down to the lowest level of the health system. 
+
+b. Provide administrative and operational support such as human resource, hardware and/or internet connection to PHO/CHO down to the lowest level of health system to ensure ITIS sustainability. 
+
+c. Advocate the use of ITIS software to the municipality, rural health units and other health facilities in their area. 
+
+d. Identify point person for ITIS management. 
+
+e. Allow their staff to attend in the TOT and conduct training for its RHUs on ITIS software. 
+
+f. Analyze report and validate based on the encoded data of RHU and other health facilities. 
+
+g. Monitor and evaluate the operations and performance of the ITIS. 
+
+h. Integrate ITIS monitoring in their site visits. 
+
+i. Provide feedback to R0 on the improvement of the ITIS. 
+
+6. The RHU/component CHO/DOTS providing facility! PMDT TC l STC (but not limited to PPMD units, hospitals, public jails and prisons) shall: 
+
+a. Attend training on ITIS software 
+
+b. Use the system as the recording and reporting tool of TB data. 
+
+c. Encode TB data daily. 
+
+d. Ofﬂine version users shall forward updated ITIS dispatch ﬁle to KMITS on a regular basis. 
+
+e. Request to KMITS the updated data stored in the central database as necessary. 
+
+f. Participate to M & E activities conducted by the NTP monitoring team. 
+
+
+7. The Health Facilities and Agency with existing TB Information System shall: a. Coordinate with KMITS for the data requirement related to ITIS for those facilities with existing information system. b. Adapt the HEA of DOH in case they want to develop their own TB system or system that needs to be linked to ITIS. 
+
+X. SEPARABILITY CLAUSE 
+
+If any provision of this Order is declared invalid by any court of law or any competent authority, those provisions not affected thereby shall remain valid and effective. 
+
+VI. EFFECTIVITY 
+
+This order shall take effect immediately after publication in a newspaper of general circulation. 
+</body>
+<sign>JANETTE P. LORETO-GARIN, M.D., MBA-H</sign>
+<signtitle>Acting Secretary of Health</signtitle>
+

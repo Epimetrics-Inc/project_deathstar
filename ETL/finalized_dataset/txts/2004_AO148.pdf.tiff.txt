@@ -1,0 +1,976 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>05/21/2004</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 148 s. 2004</docnum>
+
+<subject>SUBJECT : Document Tracking Information System (DTIS) Implementing Guidelines</subject>
+
+<body>
+I. Rationale
+
+The overarching effect of information and communication technology has permeated to the variegated processes that the government is undertaking.
+
+The need to have a clear picture on the status of governmental activities as palpably manifested on documents it processes gives impetus to the development of tools that would enhance its evidence-based decision capability.
+
+This need is buttressed by administrative and ethical requirements as prescribed in Republic Act 6713 also known as Code of Conduct and Ethical Standards for Public Officials and Employees from which the following provisions are underscored:
+
+"SECTION 5. Duties of Public Officials and Employees...
+
+...(a) Act promptly on letters and requests. - All public officials and employees shall, within fifteen (15) working days from receipt thereof. respond to letters, telegrams or other means of communications sent by the public. The reply must contain the action taken on the request.
+
+...(c) Process documents and papers expeditiously - All official papers and documents must be processed and completed within a reasonable time from the preparation thereof and must contain as far as practicable not more than three (3) signatories therein. In the absence of duly authorized signatories the official next-in-rank or officer in charge shall sign for and in their behalf.
+
+...(e) Make documents accessible to the public. - All public documents must be made accessible to, and readily available for inspection by. the public within reasonable working hours"; and
+
+"SECTION 7. Prohibited Acts and Transactions...
+
+...(c) Disclosure and/or misuse of confidential information. - Public officials and employees shall not use or divulge, confidential or classified information officially known to them by reason of their office and not made available to the public, either:
+
+(1) To further their private interests, or give undue advantage to anyone; or
+
+(2) To prejudice the public interest."
+
+Republic Act No. 8792 also known as the E-Commerce Act of 2000, has provided a framework and legal basis for recognizing electronically transmitted messages and documents and electronic signatures which were particularly reflected on sections 7 and 8 of the said Law.
+
+The Department of Health, through its Information Management Service, has developed its own Document Tracking Information System in order to attain the end-states designed by the requirements.
+
+II. Objectives
+
+The implementing guidelines for the DTIS are created in order to:
+
+1. Actualize the intentions set forth by pertinent laws and statutes relating to the custodial fidelity of documents and the required processing time for actions to be taken on Official Documents;
+
+2. Provide clear procedures and mechanisms on the use of the DTIS;
+
+3. Enhance accountability and transparency by providing a window for
+documents processed and timelines for requested action; and
+
+4. Define duties and responsibilities of Officials and Personnel of the
+DOH relative to the use of DTIS.
+
+III. Scope
+
+The use of the DTIS shall at the outset include at! Offices and Units of the DOH at the level of Service, Bureau, Program/Project Management Offices within the confines of the DOH Central Office Compound.
+
+Other Services/Bureaus including Centers for Health Development, and DOH Hospitals may use the DTIS provided that minimum requirements are met. The subject Offices must therefore coordinate with IMS for customization of the software to meet each peculiar needs.
+
+All official documents, which are not confidential in nature shall be entered into the DTIS.
+
+IV. Guidelines
+
+1. All Offices within the DOH Central Office Compound shall be required to use theJDTIS in all documents, except for those documents, which are security classified as restricted, confidential or secret.
+
+2. Each Office shall identify a key personnel and an alternate who shall be trained on and be responsible to posting of entries in the DTIS. A corresponding Service/Bureau/Office or Unit Order shall be issued to identify and provide authority to said Personnel. Copy furnished with the said Order will be the DOH Systems Administrator for DTIS who will update the corresponding record and access authority of users.
+
+3. The Head of each Office/Unit shall assume over-all responsibility on the veracity of the content that shall be posted on the DTIS by their assigned Personnel or by the authorized Action Officers themselves. The content of the entries made on the DTIS shall be therefore deemed approved and signed by the concerned Action Officers which may be used for legal purposes in accordance with the appropriate provisions of the Republic Act No. 8792 also known as the "Electronic Commerce Law of 2000,".
+
+4. A DTIS Systems Administrator from the IMS or from any other Office that shall be explicitly identified and an alternate shall be identified by the DOH through a Department Order who shall maintain the DTIS database server, issue access to users at assigned level of security, revise the DTIS library, maintains back-up files, and authenticates audit trails and data content integrity.
+
+5. Each Head of Office/Service/Bureau/Program or Unit shall issue an appropriate Office/Service/Bureau/Program or Unit Order identifying and designating Officials and Personnel who will serve as action officer(s) for every type of document that is processed by that Office. A line of succession, (i.e. at most three action officers, one principal and two alternates), identifying the alternate action officers in case of non-availability of the principal action officer shall likewise be contained in the said order to assure sustained services (See Annex A for Pro-Forma Order).
+
+6. The IMS shall be the principal unit that shall be responsible in maintaining the DTIS and the setting-up of standards for its application in coordination with all Offices. It shall likewise be responsible in providing training and technical assistance to identified personnel and offices in the DOH who will be beneficiaries of the DTIS. All concerns and issues therefore regarding its usage shall be directed to IMS.
+
+7. The Specific procedures that shall be followed on the use of the DTIS are written in the Manual of Operation, which is marked as Annex B and is an integral part of these guidelines.
+
+8. Each Office/Service/Bureau/Program or Unit is directed to harmonize their peculiar document coding system to that provided by DTIS. Likewise the same are directed to still maintain logbooks for Incoming and out-going documents, as back-up mechanism. Albeit, Office/Service/Bureau/Program or Unit may opt not to maintain such logbooks provided that it makes a daily print of Report of records it receives from and forwards to other Offices.
+
+The logbooks for incoming documents shall reflect the following data fields:
+a. DTIS System Generated Control No.;
+b. Assigned Office Control No.;
+c. Source of the document;
+d. Date and Time of receipt of documents;
+e. The subject matter;
+f. Action Requested; and
+g. A column where the imprimatur of the receiving personnel is to be reflected.
+
+The logbooks for outgoing documents shall reflect the following data fields:
+a. DTIS System Generated Control No.;
+b. Assigned Office Control No.;
+c. Source of the document;
+d. Date and Time of receipt of the forwarded documents;
+e. The subject matter;
+f. Action Requested, and
+g. A column where the imprimatur of the receiving personnel is to be reflected.
+
+9. Routing slips will no longer be required as cover or transmittal documents from one Office (i.e. at the level of Office/Service/Bureau/Program or Unit) to another (inter-office communication), in order to actualize a "paperless environment" and create an atmosphere of "guarded" transparency. However, the key personnel, of each OfficefService/Bureau/Program or Unit, assigned to man the DTIS shall at every transaction document received, advise the Principal Action Officer, which is usually the Head or Deputy (Division Chiefs) of that Office/Service/Bureau/Program or Unit regarding the action requested for such documents. It shall be part of the work ethos and hygiene of the usual Action Officers to verify entries made in the DTIS. In cases where there is power (brown-out) or systems (e.g. proliferation of virus, bog-down of server etc) failure, the usual Action Officers are directed to just verify the entries made in the logbook for both the incoming and outgoing documents to monitor the action requested and the status of the document. Albeit, routing slips may be used to give instructions to personnel within or internal to a specific Office/Service/Bureau/Program or Unit or as an advise note from one subordinate to a superior within an office (intra-office communication).
+
+10. The Records Section of the Information Management Service shall be the central unit that shall be issuing pre-printed barcode stickers, which shall be pasted on Official Documents that are to be released to external parties. The Records Section shall maintain a database file of the barcodes issued to every office. It shall assure that inventory of the barcode stickers is conducted and that supply is at optimum level.
+
+11. Barcodes shall be used by all Office/Service/Bureau/Program or Unit in all official documents that are to be released to external parties, is operationally defined hereon as those outside the compound of the DOH Central Office. The same Office/Service/Bureau/Program or Unit shall be entitled to a barcode reader subject to availability.
+
+12. The use of barcodes shall be applied but will not be limited to the following documents which require the imprimatur of Officials from level of Director and up:
+
+a. Official Response to written inquiries;
+b. Official Correspondences addressed to external parties;
+c. Press Release Statements;
+d. Administrative Issuances requested from the Records Section;
+e. Sub-allotments from DOH Central Office to CHD or DOH Hospitals;
+f. Contracts;
+g. Purchase Orders;
+h. Notice of Award; and
+i. Notice to Proceed.
+
+Other documents not reflected in the preceding may be given barcodes as shall later be determined by the IMS in consultation with all Office/Service/Bureau/Program or Unit.
+
+V. Deployment and Implementation Schedule Directive
+
+1. For the month of June 2004, all Offices within the DOH Central Office Compound are directed to assign personnel who shall be trained by IMS per IV number 2, within the said month and shall coordinate with the IMS to assure final harmonization of standards per IV number 9.
+
+2. Effective July 2004, all routine documents of the DOH shall be posted in the DTIS except for other documents as depicted in IV number 1. No Routing Slips shall be used effective from the 1st day of July 2004 and onwards.
+
+3. Other Offices who are not previously considered for initial deployment of the DTIS must request the IMS Director in writing the deployment of said system to their respective offices which schedule shall be mutually agreeable to both parties.
+
+Section VI. Separability Clause
+
+If any provision in these Guidelines, or application of such provision to any circumstance, is held invalid, the remainder of these Guidelines shall not be affected thereby.
+
+Section VII. Repealing Clause
+
+The provisions of previous issuances, which are inconsistent with those provided in this Order, are hereby rescinded and modified accordingly.
+
+Section IX. Effectivity
+
+This Order shall be effective immediately.
+</body>
+
+<sign>MANUEL M. DAYRIT, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<image>table_1.png</image>
+
+<body>
+Republic of the Philippines
+
+DEPARTMENT OF HEALTH
+
+DOCUMENT TRACKING INFORMATION SYSTEM
+(DTIS)
+
+USER'S MANUAL
+
+Version 1.0
+
+<image>figure_1.png</image>
+
+This manual is for use of personnel who shall be responsible for encoding
+and tracking the document. This teaches the users on how to operate the
+Document Tracking Information System (DTIS) Software.
+
+INTRODUCTION TO DTIS
+
+The DTIS is a menu-driven and user-friendly system that provides fast access to each module. It is a computer-based system developed for document tracking.
+
+Provides simple and easy to use tools for managing document flow and status from registry, action taken, and filing of documents. It conveniently sorts, searches data, queries data for flexible reporting. In this manner, retrieval of information is fast and inquiry on status of document is made easier. DTIS includes the following features:
+
+* Graphical User Interface Interactive and menu-driven program
+* Systematic maintenance and computerized registry and tracking of documents
+* Flexibility (provides set-up of libraries and parameters specific to the users)
+* Security Features - password, uneditable saved data for submission, transaction log verification, and system generated document no., audit trails.
+
+1.0 PROCESS AND DATA FLOW DIAGRAM
+
+The figure below reveals to us the relationships and the flow of the data using the DTIS. The diagram. gives us a bird's eye view on what DTIS is in a nutshell.
+
+DOCUMENT TRACKING INFORMATION SYSTEM
+NETWORK VERSION
+
+SCREEN DESIGN AND FLOW
+
+RECEIVING OF DOCUMENTS
+
+<image>figure_2.png</image>
+
+DOCUMENT TRACKING INFORMATION SYSTEM
+NETWORK VERSION
+
+SCREEN DESIGN AND FLOW
+
+FORWARDING OF DOCUMENTS
+
+<image>figure_3.png</image>
+
+DOCUMENT TRACKING INFORMATION SYSTEM
+
+SCREEN DESIGN AND FLOW
+
+IV-A RECEIVE DOCUMENT ENTERED BY OTHER OFFICES VIA NETWORK
+
+<image>figure_4.png</image>
+
+For document entered from other offices via network:
+a. Enable entry of Document Control # AND/OR Office Control No.
+b. Retrieve document based on the following criteria:
+i. = Document Control # OR
+ii. = Office Control # CR
+iii. = (Document Control # AND Office Control #)
+c. Has existing document, i.e. with Document Control #:
+i. Proceed with the data entry (see layout).
+ii. Go to #d.
+d. For "Received a Release Later" button:
+i. Update Internal Record Status that document is received and will be released later. Assign code ???.
+ii. Clear entries.
+iii. Go back to #1.
+e. For "Received a Forward" button:
+i. Update Internal Record Status that document is received and forwarded. Assign code ???.
+ii. Go to item V-C.
+iii. Clear entries.
+iv. Go back to #1.
+t. For "Received a File" button:
+i. Update Internal Record Status that document is received and filed/terminated. Assign code ???.
+ii. Clear entries.
+iii. Go back to #1.
+g. For "Cancel" button:
+i. Clear entries entered by the user.
+ii. Go to #1.
+
+DOCUMENT TRACKING INFORMATION SYSTEM
+
+SCREEN DESIGN AND FLOW
+
+IV-B EXTERNAL DOCUMENT AND DOCUMENT NOT ENTERED FROM OTHER OFFICES (STAND-ALONE OR NONE AT ALL)
+
+<image>figure_5.png</image>
+
+DOCUMENT TRACKING INFORMATION SYSTEM
+
+SCREEN DESIGN AND FLOW
+
+IV-C RECEIVED DOCUMENT AND FORWARD
+
+<image>figure_6.png</image>
+
+DOCUMENT TRACKING INFORMATION SYSTEM
+
+SCREEN DESIGN AND FLOW
+
+V-A FORWARD NEW DOCUMENT
+
+<image>figure_7.png</image>
+
+1. Enable selection of New Document OR Received Document.
+2. For New Document:
+
+a. Assign system-generated number for the document control if, non-editable.
+b. Enable data entry. (see layout)
+c. For "Forward Document":
+i. Create internal record of the document.
+ii. Clear entries entered by the user.
+iii. Enable another document to be forwarded by the user.
+d. For "Cancel":
+i. Clear entries entered by the user.
+ii. Enable another document to be forwarded by the user.
+
+DOCUMENT TRACKING INFORMATION SYSTEM
+
+SCREEN DESIGN AND FLOW
+
+V-B FORWARD RECEIVED DOCUMENT
+
+<image>figure_8.png</image>
+
+1. Enable selection of New Document 0R Received Document.
+2. For Received Document:
+a. Enable entry of document control # to retrieve document.
+
+i. Document Exists.
+i-a. Proceed to enter other data. (see layout)
+i-b. Go to #b or #c.
+
+ii. No Document Exists.
+ii-a. Display message "No Document on File to forward. Click OK to continue.‘
+ii-b. Clear entries entered by the user.
+ii-c. Go to #a.
+
+b. For "Forward Document":
+i. Update internal record of the document, i.e. document has been forwarded to another office.
+ii. Clear entries entered by the user.
+iii. Enable another document to be forwarded by the user, go to #a.
+
+C. For "Cancel":
+
+i. Clear entries entered by the user.
+ii. Go to #a.
+
+2.0 TYPES OF SCREEN
+
+2.1 LOG-ON SCREEN
+
+The Log-On Screen is used to enter the user identification and password. Each user is assigned a user identification and password for security purpose.
+
+<image>figure_9.png</image>
+
+After logging-in, the next screen will then be viewed as shown below.
+
+2.2 MAIN MENU SCREEN
+
+The Main Menu Screen displays the major functions included in the DTIS.
+
+<image>figure_10.png</image>
+
+The Main Menu Screen consists of five (5) selections.
+
+a. FILE - enables data entry of documents from the Inbox/Outbox and Exit to leave the system.
+
+b. LIBRARY - allows entry of master data like Action Officer, Action Required, Action Taken, Document Type, Office, Time Required, System Administration (user account and user password) and Translog.
+
+c. REPORT - allows generation of customized reports for Document Tracking.
+
+Search Specific Document Report field or sub-menu under the menu report has the following options:
+
+* By Document Control No. - unified system generated no. for all documents. (Note: this should be reflected manually on the obverse side of the document at the lower left portion)
+
+* By Office Control No. - This may be generated by the system using a unified no. or can be edited by the office itself using its own numbering system. (Note: this should be reflected manually on the obverse side of the document at the lower left portion after the DTIS system document control number, and must be separated by a semi-colon)
+
+* By Subject - This may be generated by simply typing/entering the subject on the space provided for or by just clicking the drop down arrow to. select the subject of the document. The topic, the date, the signatory, the addressee reflected on the document should be written in this box. In case the document is previously entered in the DTIS and a covering new document is used, say an endorsement letter, which now turns the originally DTIS entered document into an attachment, one must also reflect the DTIS generated number of the attached document in the subject box. The transmittal letter will then possess a separate DTIS system generated number.
+
+* By Document Type - Type of document/predetermined typology of the documents based on the usual documents handled by the Office, editing this requires permission from the system administrator.
+
+* By Report Status - This may be generated by clicking the drop down arrow to select the status of the document.
+
+* By Audit Trail - This may be generated by clicking the drop down arrow to select the audit trail of the document.
+
+The following report may be generated by entering the date range of the document ex. 01/01/2003 - 01/01/2004
+
+* Documents Released
+* Received Documents (External)
+* Received Documents
+* Released Documents
+* Inbox
+
+d. WINDOW - allows user to arrange the window display in tile, layer, or cascade format
+
+2.3 SUB-MENU SCREEN
+
+The Sub-Menu Screen displays option available for each function or item selected. Examples are:
+
+2.3.1 REPORT SUB-MENU SELECTION
+
+If the user selects REPORT, the following sub-menu options are available:
+
+<image>figure_11.png</image>
+
+2.3.2 LIBRARY SUB-MENU SELECTIONS
+
+If the user selects LIBRARY, the following sub-menu options are available:
+
+<image>figure_12.png</image>
+
+2.4 DATA WINDOW SCREEN
+
+A Data Window Screen displays data retrieved from a storage or table. Examples are:
+
+2.4.1 ACTION OFFICER FROM THE LIBRARY MAIN MENU
+
+<image>figure_13.png</image> 
+
+2.4.2 DATA WINDOW FOR ENTRY OF ACTION OFFICER IN THE LIBRARY TABLE
+
+<image>figure_14.png</image> 
+
+3.0 DTIS SYSTEM OPERATIONS
+
+3.1 ENTERING THE SYSTEM
+
+a. Go to the <image>figure_15.png</image> icon on you Windows Desktop and double click the icon.
+
+b. The Logon screen of the DTIS appears as shown below.
+
+<image>figure_16.png</image>
+
+c. Enter now your User ID and Password. Click OK button.
+
+d. The Main Menu Screen appears as shown below.
+
+<image>figure_17.png</image>
+
+The succeeding portion of this manual will discuss in detail the operations of DTIS as divided according to the fields found in the main menu screen. For the end-user it is important that you read the details depicting the transactional activity starting from page 28.
+
+LIBRARY
+
+3.2 LIBRARY
+
+This library is needed to enter data that remains at least permanent in nature like the action Officer, action required, action taken, document type, office, and time required data of the office. Only System Administrator (SA) can effect changes on the data elements reflected in the library. Offices should therefore ask permission from the SA in order to effect the alteration on the data elements. The SA shall accordingly record any change/alteration made on the library.
+
+3.2.1 ACTION OFFICER
+
+Should have proper authorization supported by a department order or whose role and function is intrinsic to the mandate of his office.
+
+3.2.1.1 Click Library from the Main Menu. Click Action Officer and the window for action Officer appear in your screen.
+
+<image>figure_18.png</image> 
+
+3.2.1.2 How to add and save data:
+
+* Click on the Add icon
+* Enter Code and name data
+* Click on the Save icon. The data entry screen is automatically closed.
+
+To edit a record, click on the row or record to modify click Edit button.
+
+3.2.1.3 How to edit and save the data:
+
+* Click the row or record to be edited.
+* Click on the Edit icon
+* Enter and/or modify the data.
+* Click on the Save icon. The entry screen is automatically closed.
+
+3.2.1.4 How to cancel the Add or Edit Process:
+
+* When the Add or Edit icon is clicked and the data has been entered or edited, click on the Cancel icon to disregard the entries.
+
+3.2.1.5 How to delete a record
+
+* Click on the row or record to be deleted.
+* Click on the delete icon. The message confirmation box appears on the screen.
+* Click the Yes button to delete the record.
+* Click the No button to cancel the delete process.
+
+3.2.2 ACTION REQUIRED
+
+Action required on the document, as of now actions are categorically divided into the following based on the usual government transaction
+
+* for action
+* for information
+* for initial
+* for process
+* for release
+* for review
+* for signature
+
+3.2.2.1 Click Library from the Main Menu. Click Action Required and the window for action required appear in your screen.
+
+<image>figure_19.png</image> 
+
+3.2.2.2 How to add and save data:
+
+* Click on the Add icon
+* Enter Code and name date
+* Click on the Save icon. The data entry screen is automatically closed.
+
+To edit a record, click on the row or record to modify click Edit button.
+
+3.2.2.3 How to edit and save the data:
+
+* Click the row or record to be edited.
+* Click on the Edit icon
+* Enter and/or modify the data.
+* Click on the Save icon. The entry screen is automatically closed.
+
+3.2.2.4 How to cancel the Add or Edit Process:
+
+* When the Add or Edit icon is clicked and the data has been entered or edited, click on the Cancel icon to disregard the entries.
+
+3.2.2.5 How to delete a record
+
+* Click on the row or record to be deleted.
+* Click on the delete icon. The message confirmation box appears on the screen.
+* Click the Yes button to delete the record.
+* Click the No button to cancel the delete process.
+
+3.2.3 ACTION TAKEN
+
+Action taken on the document, as of now actions are categorically divided into the following based on the usual government transaction.
+
+* changed
+* commented
+* informed
+* initialed
+* processed
+* released
+* return to sender
+* reviewed
+* signed
+
+3.2.3.1 Click Library from the Main Menu. Click Action Taken and the window for action taken appear in your screen.
+
+<image>figure_20.png</image>
+
+3.2.3.2 How to add and save data:
+
+* Click on the Add icon
+* Enter Code and name data
+* Click on the Save icon. The data entry screen is automatically closed.
+
+To edit a record, click on the row or record to modify click Edit button.
+
+3.2.3.3 How to edit and save the data:
+
+* Click the row or record to be edited.
+* Click on the Edit icon
+* Enter and/or modify the data.
+* Click on the Save icon. The entry screen is automatically closed.
+
+3.2.3.4 How to cancel the Add or Edit Process:
+
+* When the Add or Edit icon is clicked and the data has been entered or edited, click on the Cancel icon to disregard the entries.
+
+3.2.3.5 How to delete a record
+
+* Click on the row or record to be deleted.
+* Click on the delete icon. The message confirmation box appears on the screen.
+* Click the Yes button to delete the record.
+* Click the No button to cancel the delete process.
+
+3.2.4 DOCUMENT TYPE
+
+Type of document, - as of now actions are categorically divided into the following based on the usual government transaction.
+
+* Administrative Order
+* Agency Procurement Request
+* Agency Procurement Plan
+* Clearance
+* Contract
+* Delivery Receipt
+* Department Circular
+* Department Memorandum
+* Department Order
+* Disbursement Voucher
+* Endorsement Letter
+* Inspection & Acceptance Report
+* Inspection Report
+* Invoice Receipt of Property
+* Job Order
+* Letter
+* Memorandum
+* Memorandum Receipt
+* Official Receipt
+* Payroll
+* Petty Cash Voucher
+* PLDT
+* Purchase Order
+* Requisition and Issue Slip
+* Purchase Receipt
+* Reports
+* Sales Invoice
+* Service/Office Order
+* Supplies Availability Inquiry
+* Other Documents
+
+3.2.4.1 Click Library from the Main Menu. Click Document Type and the window for document type appear in your screen.
+
+<image>figure_21.png</image>
+
+3.2.4.2 How to add and save data:
+
+* Click on the Add icon
+* Enter Code and name data
+* Click on the Save icon. The data entry screen is automatically closed.
+
+To edit a record, click on the row or record to modify click Edit button.
+
+3.2.4.3 How to edit and save the data:
+
+* Click the row or record to be edited.
+* Click on the Edit icon
+* Enter and/or modify the data.
+* Click on the Save icon. The entry screen is automatically closed.
+
+3.2.4.4 How to cancel the Add or Edit Process:
+
+* When the Add or Edit icon is clicked and the data has been entered or edited, click on the Canoe! icon to disregard the entries.
+
+3.2.4.5 How to delete a record
+
+* Click on the row or record to be deleted.
+* Click on the delete icon. The message confirmation box appears on the screen.
+* Click the Yes button to delete the record.
+* Click the No button to cancel the delete process.
+
+3.2.5 OFFICE
+
+Name of office - see separate sheet for the list of offices.
+
+3.2.5.1 Click Library from the Main Menu. Click Office and the window for office appear in your screen.
+
+<image>figure_22.png</image>
+
+3.2.5.2 How to add and save data:
+
+* Click on the Add icon
+* Enter Code and name data
+* Click on the Save icon. The data entry screen is automatically closed.
+
+To edit a record, click on the row or record to modify click Edit button.
+
+3.2.5.3 How to edit and save the data:
+
+* Click the row or record to be edited.
+* Click on the Edit icon
+* Enter and/or modify the data.
+* Click on the Save icon. The entry screen is automatically closed.
+
+3.2.5.4 How to cancel the Add or Edit Process:
+
+* When the Add or Edit icon is clicked and the data has been entered or edited, click on the Cancel icon to disregard the entries.
+
+3.2.5.5 How to delete a record
+
+* Click on the row or record to be deleted.
+* Click on the delete icon. The message confirmation box appears on the screen.
+* Click the Yes button to delete the record.
+* Click the No button to cancel the delete process.
+
+<image>figure_23.png</image>
+
+<image>figure_24.png</image>
+
+<image>figure_25.png</image>
+
+<image>figure_26.png</image>
+
+3.2.6 TIME REQUIRED
+
+Time required of the document, as of now actions are categorically divided into the following based on the usual government transaction
+
+* after 2 days
+* code of ethics (>= 15 days)
+* within 1 hour from the receipt
+* within 24 hours from the receipt
+* within 4 hours from the receipt
+
+3.2.6.1 Click Library from the Main Menu. Click Time Required and the window for time required appear in your screen.
+
+<image>figure_27.png</image>
+
+3.2.6.2 How to add and save data:
+
+* Click on the Add icon
+* Enter Code and name data
+* Click on the Save icon. The data entry screen is automatically closed.
+
+To edit a record, click on the row or record to modify click Edit button.
+
+3.2.6.3 How to edit and save the data:
+
+* Click the row or record to be edited.
+* Click on the Edit icon
+* Enter and/or modify the data.
+* Click on the Save icon. The entry screen is automatically closed.
+
+3.2.6.4 How to cancel the Add or Edit Process:
+
+* When the Add or Edit icon is clicked and the data has been entered or edited, click on the Cancel icon to disregard the entries.
+
+3.2.5.6 How to delete a record
+
+* Click on the row or record to be deleted.
+* Click on the delete icon. The message confirmation box appears on the screen.
+* Click the Yes button to delete the record.
+
+SYSTEM ADMINISTRATION
+
+4.0 SYSTEM ADMINISTRATION
+
+The System Administration function includes features to administer and/or manage the system in terms of security.
+
+4.1 USER ACCOUNT
+
+This is where the System Administrator enters the user name and password of all users who will be operating the software and have access to the system. The user level determines the access rights given to the users.
+
+4.1.1 From the Main Menu, click on Library click on the System Administration then User Account. The window for User Account appears on the screen.
+
+<image>figure_28.png</image> 
+
+4.1.2 To add a user account, click on Add icon. Enter the User Name, Password, User Level and User Expire. Click Save to write the entries.
+
+4.1.3 To edit a record, click on the row or record to modify/change. Click on the Edit icon. Enter changes/modifications.
+
+4.1.4 To delete a record, click on row or record to delete and click on Delete icon. The confirmation message to delete the record appears on the screen. Click on the Yes button to delete or no button to cancel the operation.
+
+4.2 TRANSACTION LOG
+
+A transaction log records all users who have entered into the system and monitors actions done. This serves as a monitoring tool to trace users who have log on to the system.
+
+4.3.1 From the Main Menu, click on Library, click on Transaction Log. The window for Transaction Log appears on the screen.
+
+<image>figure_29.png</image>
+
+TRANSACTION
+
+5. TRANSACTION
+
+Refers to activities usually performed by the direct end-users of DTIS. One can transact within the framework of DTIS once you created, receive, and release a document. This can transpire when one click or goes to the Menu File.
+
+5.1 INBOX
+
+This allows the users to enter/encode documents received from other offices.
+
+5.1.1 From the Main Menu, click on File, click on Inbox.
+
+5.1.2 The Inbox screen appears as shown below.
+
+<image>figure_30.png</image>
+
+5.3 To receive document in the inbox, double click on the row or record to be received. Please verify the arrow pointer directed onto a record as shown above. In receiving the document, the receiving officer must enter the following:
+
+Date Received - date receive
+
+Time Received - time receive
+
+Actual No. of pages - number of pages of the document
+
+Action Taken on the Document - is signed, initialed, commented, changed etc.
+
+Remarks - comments
+
+Document Received By - name of employee who receive the document
+
+<image>figure_31.png</image>
+
+5.3 Select any of the following buttons applicable to the document.
+
+* Received and Release Later - This option is chosen when an action is yet to be accomplished by the receiving office.
+* Received and Forward - Pressing this button will transfer the record to the outfox and can no longer be edited.
+* Received and File - This option is chosen when final action on the document will rest on the receiving office.
+* Cancel
+
+5.2 OUTBOX
+
+5.2.1 To forward document in outbox, click forward document button.
+
+<image>figure_32.png</image>
+
+5.2.2 Click New Document or Received Document
+
+5.2.2.1 New Document - if the document originates from the office that will forward it. This is editable
+
+5.2.2.2 Received Document - if the document is received by the office and will forward it to another office.
+
+The following fields are not editable since they are inherited.
+
+<image>figure_33.png</image>
+
+5.3 Destination Offices - if the document is to be forwarded to other offices at the same time.
+
+5.4 Click forward document to forward it to another office.
+
+REPORTS
+
+6.0 REPORTS
+
+These are the customized outputs that can be generated by the system:
+
+1. Search Specific Document - By Document Control No., By Office Control No., By Subject, By Document Type, Report Status, Audit Trail Report 
+2. New Document Released
+3. Received Document (External)
+4. Received Document
+5. Released Document
+6. Inbox
+
+6.1 SEARCH SPECIFIC DOCUMENT- BY DOCUMENT CONTROL NO.
+
+This displays/prints the report of document by control number
+
+6.1.1 From the Main Menu, click on Report, click on Search Specific Document - By Document Control No.
+
+6.1.2 From the drop down arrow, select the Document Control No., and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+<image>figure_34.png</image>
+
+6.1.3 The report for By Document Control No. automatically displays on screen.
+
+<image>figure_35.png</image>
+
+6.1.4 Click on the Print button to generate hard copy of the report.
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the Ok button to print or Cancel button to go back to the previous. Screen.
+
+6.1.5 Click on the Close button to go back to the Main Menu.
+
+6.2 SEARCH SPECIFIC DOCUMENT BY OFFICE CONTROL NO.
+
+This displays or prints the report of document By Office Control No.
+
+6.2.1 From the Main Menu, click on Report, click on Search Specific Document - By Office Control No.
+
+6.2.2 From the drop down arrow, select the Office Control No., and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+<image>figure_36.png</image>
+
+6.2.3 The report for By Office Control No. automatically displays on screen.
+
+<image>figure_37.png</image>
+
+6.2.4 Click on the Print button to generate hard copy of the report.
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the Ok button to print or Cancel button to go back to the previous. Screen.
+
+6.2.5 Click on the Close button to go back to the Main Menu.
+
+6.3 SEARCH SPECIFIC DOCUMENT BY SUBJECT
+
+This displays or prints the report of document By Subject
+
+6.3.1 From the Main Menu, click on Report, click on Search Specific Document - By Subject
+
+6.3.2 From the drop down arrow, select Subject and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+<image>figure_38.png</image>
+
+6.3.3 The report for By Subject automatically displays on screen.
+
+<image>figure_39.png</image>
+
+6.3.4 Click on the Print button to generate hard copy of the report. 
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the OK button to print or Cancel button to go back to the previous. Screen.
+
+6.3.5 Click on the Close button to go back to the Main Menu.
+
+6.4 SEARCH SPECIFIC DOCUMENT BY TYPE
+
+This displays or prints the report of document By Type
+
+6.4.1 From the Main Menu, click on Report, click on Search Specific Document - By Type
+
+6.4.2 From the drop down arrow, select Type and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+<image>figure_40.png</image>
+
+6.4.3 The report for By Type automatically displays on screen.
+
+<image>figure_41.png</image>
+
+6.4.4 Click on the Print button to generate hard copy of the report.
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the OK button to print or Cancel button to go back to the previous. Screen.
+
+6.4.5 Click on the Close button to go back to the Main Menu.
+
+6.5 SEARCH SPECIFIC DOCUMENT BY REPORT STATUS
+
+This displays or prints the report of document By Report Status
+
+6.5.1 From the Main Menu, click on Report, click on Search Specific Document - By Report Status
+
+6.5.2 From the drop down arrow, select Status and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+<image>figure_42.png</image>
+
+6.5.3 The report for By Status automatically displays on screen.
+
+<image>figure_43.png</image>
+
+6.5.4 Click on the Print button to generate hard copy of the report.
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the OK button to print or Cancel button to go back to the previous. Screen.
+
+6.5.5 Click on the Close button to go back to the Main Menu.
+
+6.6 SEARCH SPECIFIC DOCUMENT BY AUDIT TRAIL
+
+This displays or prints the report of document By Report Status
+
+6.6.1 From the Main Menu, click on Report, click on Search Specific Document - By Audit Trail
+
+6.6.2 From the drop down arrow, select Audit Trail and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+<image>figure_44.png</image>
+
+6.6.3 The report for By Audit Trail automatically displays on screen.
+
+<image>figure_45.png</image>
+
+6.6.4 Click on the Print button to generate hard copy of the report.
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the Ok button to print or Cancel button to go back to the previous. Screen.
+
+6.6.5 Click on the Close button to go back to the Main Menu.
+
+6.7 NEW DOCUMENTS RELEASED
+
+This displays or prints the report of NEW DOCUMENTS RELEASED
+
+6.7.1 From the Main Menu, click on Report, click on New Documents Released
+
+6.7.2 Enter the date range when the new documents released and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+6.7.3 The report for New Documents Released automatically displays on screen.
+
+<image>figure_46.png</image>
+
+6.7.4 Click on the Print button to generate hard copy of the report.
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the Ok button to print or Cancel button to go back to the previous. Screen.
+
+6.7.5 Click on the Close button to go back to the Main Menu.
+
+6.8 RECEIVED DOCUMENTS (EXTERNAL)
+
+This displays or prints the report of RECEIVED DOCUMENTS (EXTERNAL)
+
+6.8.1 From the Main Menu, click on Report, click on Received Documents (External).
+
+6.8.2 Enter the date range when the documents received (external) and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+6.8.3 The report for Received Documents (External) automatically displays on screen.
+
+<image>figure_47.png</image>
+
+6.8.4 Click on the Print button to generate hard copy of the report.
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the Ok button to print or Cancel button to go back to the previous. Screen.
+
+6.8.5 Click on the Close button to go back to the Main Menu.
+
+6.9 RECEIVED DOCUMENTS
+
+This displays or prints the report of RECEIVED DOCUMENTS
+
+6.9.1 From the Main Menu, click on Report, click on Received Documents
+
+6.9.2 Enter the date range when the documents received and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+6.9.3 The report for Received Documents automatically displays on screen.
+
+<image>figure_48.png</image>
+
+6.9.4 Click on the Print button to generate hard copy of the report.
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the OK button to print or Cancel button to go back to the previous. Screen.
+
+6.9.5 Click on the Close button to go back to the Main Menu.
+
+6.10 RELEASED DOCUMENTS
+
+This displays or prints the report of RELEASED DOCUMENTS
+
+6.10.1 From the Main Menu, click on Report, click on Released Documents
+
+6.10.2 Enter the date range when the documents released and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+6.10.3 The report for Released Documents automatically displays on screen.
+
+<image>figure_49.png</image>
+
+6.10.4 Click on the Print button to generate hard copy of the report.
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the Ok button to print or Cancel button to go back to the previous. Screen.
+
+6.10.5 Click on the Close button to go back to the Main Menu.
+
+6.11 INBOX
+
+This displays or prints the report of INBOX
+
+6.11.1 From the Main Menu, click on Report, click on Inbox
+
+6.11.2 Enter the date range when the documents released and click on the Retrieve button to access the report or Close Form button to go back to the previous screen.
+
+6.11.3 The report for Inbox automatically displays on screen.
+
+<image>figure_50.png</image>
+
+6.11.4 Click on the Print button to generate hard copy of the report.
+
+Click all or pages (enter the page number) for the page range, number of copies and Print Setup. Click on the Ok button to print or Cancel button to go back to the previous. Screen.
+
+6.11.5 Click on the Close button to go back to the Main Menu.
+
+<image>figure_51.png</image>
+
+</body>

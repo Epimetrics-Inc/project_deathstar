@@ -1,0 +1,365 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila, Philippines
+Tel Nos. 711-95-02, 711-95-02, Fax No. 743-18-29
+
+ 
+<date>10/11/2004</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 175 s., 2004</docnum>
+
+<subject>SUBJECT: Radiation Protection Standards for Radiofrequencv Radiation in the Frequency Range 3 kHz to 300 GHz.</subject>
+
+
+<body>
+
+I. Rationale
+
+Pursuant to Presidential Decree (PD) 480 issued in 1974 which created the Radiation Health Office now named the Bureau of Health Devices and Technology (BHDT), the Department of Health through the BHDT shall exercise its regulatory powers to protect the population from the hazards posed by radiation from electrical/electronic devices and facilities.
+
+In 1978, PD. 480 was amended by PD. 1372 which expanded the functions and responsibilities of the Radiation Health Office (RHO). lt mandated the RHO to establish basic requirements for non-ionizing and ionizing radiation emitting apparatus.
+
+II. Scope/Coverage
+
+These standards are based on the 1998 Guidelines of the International Commission for Non-Ionizing Radiation Protection (ICNIRP). It specifies limits of human exposure to electromagnetic fields in the frequency range 3 kHz to 300 GHz, to prevent adverse health effects. These limits are defined in terms of basic restrictions for exposure of all or part of the human body. Relevant derived reference levels are also provided as a practical means of showing compliance with the basic restrictions The limits specified in these standards are intended to be used as a basis for planning work procedures, designing protective facilities the assessment of the efficacy of the protective measures and practices, and guidance on health surveillance. These standards also specify the levels to which the operators of the equipment and members of the general public may be exposed However, they do not specify levels of electromagnetic fields to which patients may be exposed for medical reasons by a qualified person.
+
+These standards are applicable whenever people are exposed to radicfrequency (RF) electromagnetic fields as a result of their employment and when the general public has access to equipment emitting radicfrequency radiation (RFR) to which they may be exposed. This standard is applicable to continuous wave (CW), pulsed and modulated electromagnetic fields at single or multiple frequencies within the range 3 kHz to 300 GHz.
+
+These standards apply to all operators of RFR facilities, manufacturers, importers, distributors, retailers, installers and users of RFR emitting devices, and managers of health facilities who use electronic medical equipment that are sensitive to interference from RFR equipment.
+
+These standards apply to all devices that produce and radiate (either deliberately or incidentally) radiofrequency energy during the course of their operation. it is the responsibility of the manufacturer, supplier, installer and user to ensure that all devices are operated in such a way as to achieve compliance with the requirements of this Administrative Order.
+
+These standards do not apply to other potential hazards of RF fields such as the ignition of explosives or flammable gases or to interference with electronic equipment.
+
+III. Definition of Terms
+
+For the purpose of these Standards-the following definitions apply:
+
+1. Antenna - a device for radiating (transmitting) or absorbing (receiving) radicfrequency (RF) energy.
+
+2. Bureau of Health Devices and Technology (BHDT) of the Department of Health (DOH) - the national regulatory agency with responsibility for radiation protection from electrical/electronic devices capable of emitting radiation. Its former name was Radiation Health Service.
+
+3. Continuous Wave (CW) - successive oscillations which are identical under steady state conditions (an unmodulated electromagnetic wave). Example is a radicfrequency heater.
+
+4. Effective Radiated Power (ERP) — the product of the power supplied to the antenna and its gain relative to a half-Wave dipole in a given direction.
+
+5. Electromagnetic Field — a physical field that specifies the electric and magnetic states of a medium or of-free space, quantified by vectors representing the electric field strength and the magnetic field strength.
+
+6. Electric Field Strength e the force per unit' electric charge at any point in an electric field: symbol E; (unit of measurement: volts per meter [V/m]).
+
+7. Electromagnetic Radiation — the propagation of electromagnetic energy through a medium or space in the form of an electromagnetic wave.
+
+8. Electromagnetic Wave 4 a wave characterized by variations of the electric and magnetic field vectors.
+
+9. Far-Field Region — that region of the field of an antenna where the angular field distribution is essentially independent of the distance from the antenna. if the antenna has a maximum overall dimension D which is large compared to the wavelength, the far-field region is commonly taken to exist at distances greater than (2D^2)/λ from the antenna, λ being the wavelength.
+
+The distance where the far field begins is
+
+=(2D^2)/λ ( large antenna, 1> wavelength)
+= λ/2 (small antenna ,1 wavelength)
+
+10. Field strength - the magnitude of the electric or magnetic field, normally a root-mean square value.
+
+11. Frequency — the number of cycles per unit time made by electromagnetic waves (one cycle per second); usually expressed in units of hertz (Hz).
+
+12. Gain (antenna) e ratio of the radiation intensity, in a speciﬁed direction, to the radiation intensity that would be obtained if the power accepted by the antenna were isotropically radiated. Gain does not include reflection losses arising from mismatch of impedance. The radiation intensity (power {unit soiid angle) due to the isotropically radiated power is equal to the power accepted by the antenna divided by 41: steradians. If an antenna is without dissipative lose, its gain is equal to its directivity. The term “the gain of an antenna” is commonly used to designate the maximum gain (as here defined).
+
+13. International Commission on Non-ionizing Radiation Protection (ICNIRP) — an independent scientific organization of experts in non- ionizing radiation (NIR), tasked to investigate the hazards that may be associated with different forms of NIR, develop international guidelines on NIR exposure limits, and deal with all aspects of MR protection.
+
+14. Isotropic Antenna — hypothetical antenna radiating or receiving equally in all directions. In the case of electromagnetic waves, isotropic antennas do not exist physically but represent convenient reference antennas for expressing directional properties of actual antennas.
+
+15. Magnetic Field Strength — an axial vector quantity, which, together with magnetic flux density, specifies a magnetic ' field at any point in space: symbol H (Unit of measurement: amperes per meters [A/m]).
+
+16. Magnetic Flux Density — a vector field—quantity, that results in a force that acts on a moving charge or charges: symbol B (Unit of measurement: tesla [T]).
+
+17.Members of the General Public or Non Occupationally Exposed Population — comprise of individuals from all ages and of varying health status, and may include particularly susceptible groups or individuals who may be or are unaware of their exposure to RFR.
+
+18. Modulated wave — an electromagnetic wave which is modified by pulsing, or by varying its amplitude, frequency or phase. Such a wave is called, respectively, pulse -, amplitude -, frequency-, or phase-modulated. Examples are modulated fields from a radio transmitter or-modulated intermittent ﬁelds such as from a radar transmitter which regularly scans a fixed path.
+
+19. National Telecommunications Commission, (NTC) — is the national government agency that licenses and regulates the operation of the telecommunication facilities.
+
+20. Near- field region, radiating — that region of the field of an antenna between the reactive near-ﬁeld region wherein the radiation fields predominate. The electromagnetic wave structure is generally complicated and the radiation pattern is dependent on the distance.
+
+The distance to the boundary of the near ﬁeld—radiating region = (2D^2)/λ
+
+Note: If the antenna has a maximum overall dimension which is not large compared to the wavelength, this field region may not exist.
+
+21. Near-field region, reactive — that region of the field immediately surrounding the antenna wherein the reactive field predominates. The reactive energy is periodically interchanged between the antenna and the near field, it is not radiated and it is considered as stored energy.
+
+The distance to the boundary of the near ﬁeld reactive region = λ/2π
+
+22. Non-Ionizing Radiation (NlR) — radiation incapable of producing ions directly or indirectly. RF waves are classified as non-ionizing electromagnetic radiation. Ultrasound, a form of mechanical energy and is not electromagnetic in nature, is also classified as non—ionizing radiation. 
+
+23. Occupational Exposure* — all exposure to RFR experienced by individuals in the course of performing their work.
+
+24. Power Density — the rate of flow of electromagnetic energy per unit surface area (Unit of measurement: watts per squaremeter [W/m^2].
+
+25. Radiation - the emission or transfer of energy in the form of electromagnetic waves or in the form of ultrasound waves.
+
+*Reproduced from New Zealand Standard NZS 2772. 1:1999 Radiofrequency Fields Part 1 - Maximum Exposure Levels - 3kHz to 300 GHz. with permission from Standards New Zealand.
+
+26. Radiation Protection Survey and Evaluation (RPSE) — an on site evaluation including measurement of the actual RFR ﬁeld levels in any area, speciﬁcally in the vicinity of RFR equipment. It includes evaluation of compliance with the appropriate requirements of these standards.
+
+27. Radiofrequency Radiation (RFR) Evaluation Report —- a desk top evaluation of the RFR facility based on the technical documents submitted regarding the RFR emitting device, nature of installation, location and site conﬁguration of the facility. It contains the calculated minimum safe distances from the transmitting RFR equipment that a person must maintain without exceeding the exposure limits for occupational and non-occupational. It also includes a list of requirements that must be complied with by the facility.
+
+28. Radiofrequency radiation (RFR) — for the purpose of this Administrative Order, refers to radiation with frequency range of 3 kHz to 300 GHz.
+
+29. Reference Level of Exposure — level of exposure which is more practical to measure and which has been derived from the basic restrictions. The reference levels have been conservatively formulated such that compliance with the reference levels given in these standards will ensure compliance with the basic restrictions.
+
+30. Restrictions — restrictions on the effects of exposure are based on established health effects. Depending on frequency, the physical quantities used to specify the basic restrictions on exposure to electromagnetic field are current density, specific absorption rate (SAR), and power density.
+
+31. RFR Device — a piece of equipment which emits RF radiation.
+
+32. RFR Facility — a facility using RFR devices.
+
+33. RF Radiation Worker - a person, who in the course of performing his/her work could possibly be exposed to RFR. He/she is trained to be aware of potential risk and to take appropriate precautions.
+
+34. RF Radiation Safety Officer (RFRSO) - a person in charge of ensuring safety within an RF facility who has successfully completed the radicfrequency radiation safety seminar conducted by the Bureau of Health Devices 8: Technology (BHDT), Department of Health (DOH)-or by an organization accredited by the BHDT and has undergone regular updating of knowledge and skills in RFR safety.
+
+35. Root Mean Square (rms) - mathematically, it is the square root of the average of the square of the instantaneous ﬁeld or current taken throughout one period.
+
+36. Specific Absorption Rate (SAR) - the rate of radiofrequency energy absorbed in body tissues per unit mass, in watts per kilogram (W/kg)
+
+IV. General Guidelines
+
+A. Basic Restrictions and Reference Levels
+
+Mandatory limits on exposure to RF fields are based on established health effects and are termed “basic restrictions”. Protection against adverse health effects requires that the basic restrictions shall not be exceeded. Depending 'on the frequency, the physical quantities used to specify the basic restrictions are current density, mA/m^2 (rms), specific absorption rate (SAR), W/kg and power density (S), W/m^2.
+
+However, these mandatory basic restrictions are specified as quantities that are often impractical to measure. Therefore, reference levels utilizing quantities that are more practical to measure are provided as an alternative means of showing compliance with the mandatory basic restrictions. Compliance with the reference levels given in these standards will ensure compliance with the basic restrictions.
+
+A.1 Basic Restrictions
+
+Different scientific bases were used in the develOpment of basic exposure restrictions for various frequency ranges:
+
+- Between 1 Hz and 10 MHz, basic restrictions are provided for current density to prevent effects on nervous system functions.
+
+- Between 100 kHz and 10 GHz, basic restrictions on SAR are provided to prevent whole-body heat stress and excessive localized tissue heating; in the 100 kHz — 10 MHz range,'restrictions are provided on both current density and SAR.
+
+- Between 10 and 300 GHz, basic restrictions are provided for power density to prevent excessive heating in tissue at or near the body surface.
+
+In the frequency range from a few Hz to 1 kHz, for levels of induced current density above 100 mA/m^2, the thresholds for acute changes in central nervous system excitability and other acute effects such as reversal of the visually evoked potential are exceeded. in view of the above safety considerations, it was decided that, for frequencies in the range 4 Hz to 1 KHz, occupational exposure should be limited to fields that induce current densities less than 10 mA/m^2, is to use a safety factor of 10. For the members of the general public an additional factor of 5 is applied, giving a basic exposure restriction of 2 mA/m^2. Below 4 Hz and above 1 kHz, the basic restriction on induced current density increases progressively, corresponding to the increase in the threshold for nerve stimulation for these frequency ranges.
+
+Established biological and health) effects in the frequency range from 10 MHz to a few GHz are consistent with responses to a body temperature rise of more than 1°C. This level of average SAR of 0.4 W/kg has therefore been chosen as the restriction that provides adequate protection for occupational exposure. An additional safety factor of 5 is introduced for exposure of the members of the general public, giving an average whole-body SAR limit of 0.08 W/kg.
+
+The lower basic restrictions for exposure of the members of the general public take into account the fact that their age and health status may differ from those of workers. 
+
+In the low-frequency range, there are currently few data relating transient currents to health effects. The ICNIRP therefore recommends that the restrictions on current densities induced by transient or very shortterm peak ﬁelds be regarded as instantaneous values which should not be time averaged.
+
+The basic restriCtions for current densities, whole-body average SAR, and localized SAR for frequencies, between 3 KHz and 10 GHz are presented in Table 1, and those for power densities for frequencies of 10 - 300 GHz are presented in Table 2.
+
+Table 1. Basic restrictions for time varying electric and magnetic fields for frequencies up to 10 GHz**
+
+<image>table_1.png</image>
+
+Note:
+
+1. f is the frequency in hertz
+
+2. Because of electrical inhomogeneity of the body, current densities should be averaged over a cross—section of 1 cm^2 perpendicular to the current direction
+
+3. For frequencies up to 100 kHz, peak current density values can be obtained by multiplying the rms value by √2 (-1.414). For pulses of duration In the equivalent frequency to apply in the
+basic restrictions should be calculated as f = 1/(2 tp).
+
+4. For frequencies up to 100 kHz and for pulsed magnetic fields, the maximum current density associated with pulses can be calculated from the rise/fall times and the maximum rate of change of magnetic flux density. The indticed current density can then be compared with the appropriate basic restrictions.
+
+5. All SAR values are to be averaged over any 6 minute period
+
+6. Localized SAR averaging mass is any 10 g of contiguous tissue in the shape of a cube; the maximum SAR so obtained should be the value used for the estimation of exposure
+
+7. For pulses of.dtrration 1,, the equivalent frequency to apply in the basic restrictions should be calculated as f = 1/(2 tp). Additionally, for pulsed exposures, in the frequency range 0.3 to 10 GHz and for localized exposure of the head, in order to limit or avoid auditory effects caused by thermoelastic expansion, an additional basic restriction is recommended. This is that the SA should not exceed 10 erkg for workers and 2 mJ/kg for the general public averaged over 10 g tissue.
+
+** Based on lnternationai Commission for Non-Ionizing Radiation Protection (ICNIRP) Guidelines
+
+Table 2. Basic restrictions for power density for frequencies between10 and 300 GHz **
+
+<image>table_2.png</image>
+ 
+Note:
+
+1. Power densities are to be averaged over any 20 cm^2 of exposed area and any ,68/f^1.05 — minute period (where f is in GHz) to compensate for progressively shorter penetration depth as the frequency increases.
+
+2. Spatial maximum power densities, averaged over 1 cm^2 should not exceed 20 times the values above. 
+
+** Based on International Commission for Non-Ionizing Radiation Protection (ICNIRP) Guidelines
+
+A.2 Reference Levels
+
+The reference levels have been conservatively formulated such that compliance with the reference levels given in this rules and regulations will ensure compliance with the basic restrictions.
+
+For the purpose of demonstrating compliance with the basic restrictions, the reference levels for the electric and magnetic fields should be considered separately and not additively. This is because, for protection purposes, the currents induced by electric and magnetic fields are not additive.
+
+A.2.1 Reference Levels of Exposure — Occupational
+
+The provisions of this section apply to RF radiation workers wholly or partiatly exposed to radicfrequency electromagnetic fields in the frequency range 3 kHz to 300 GHz.
+
+Where exposure of RF radiationworkers to electromagnetic field may occur, the reference levels shall not exceed theappropriate limits given in Table 3.
+
+Table 3. Reference levels for occupational exposure to time varying electric and magnetic fields [unperturbed root mean square (rms) values]. **
+
+<image>table_2.png</image> 
+
+Note:
+1. f as indicated in the frequency range column
+2. Provided that basic restrictions are met and adverse indirect effects can be excluded, ﬁeld strength values can be exceeded.
+3. For frequencies between 100 kHz and 10 GHz, Seq, E2 , H2, and B2 are to be averaged over any 6—minute period
+4. For peak values at frequencies up to 100 kHz see Table 1, note 3.
+5. Between 100 kHz and 10 MHz, peak values for the ﬁeld strengths are obtained by interpolation from the 1.5-fold peak at 100 kHz to the 32-fold peak at 10 MHz. For frequencies exceeding 10 MHz it is suggested that the peak equivalent plane wave power density, as averaged over the pulse width does not exceed 1000 times the Seq restrictions, or that the ﬁeld strength does not exceed 32 times the field strength exposure levels given in the table.
+6. For frequencies exceeding 10 GHz, Seq, E^2, H^2, and B^2 are to be averaged over any 68/f^1.05 - minute period (f in GHz).
+7. 1 milligaus = 0.1 microtesla
+
+** Based on International Commission for Non-Ionizing Radiation Protection (ICNIRP) Guidelines
+
+A.2.2 Reference Levels of Exposure—‘Non-Occupationally Exposed Population or Members of the General Public
+
+Where exposure of the general public to electromagnetic field may occur, the reference levels shall not exceed the appropriate limits given in Table 4.
+
+Table 4. Reference levels for general public exposure to time varying electric and magnetic fields [unperturbed root mean square (rms) values]. **
+
+<image>table_4.png</image> 
+
+Note:
+1. f as indicated in the frequency range column
+2. Provided that-basic restrictions are met and adverse indirect effects can be excluded, field strength values can be exceeded.
+3. For frequencies between 100 kHz and 10 GHz, Seq, E^2 , H^2, and B^2 are to be averaged over
+any 6-minute period .
+4. For peak values at frequencies up to 100 kHz see Table 1, note 3
+5. Between 100 kHz and 10 MHz, peak values for the field strengths are obtained by interpolation from the 1.5-fold peak at 100 kHz to the 32-fold peak at 10 MHz. For frequencies exceeding 10 MHz it is suggested that the peak equivalent plane wave power density, as averaged over the pulse width does not exceed 1000 times the Seq restrictions, or that the field strength does not exceed 32 times the field strength exposure levels given in the tabie.
+6. For fre uencies exbeeding 10 GHz, Seq, E^2, H^2, and B^2 are to be averaged over any 68/f^1.05 — minute period (f in GHz).
+7. 1 milligaus = 0.1 microtesla
+
+** Based on international Commission for Non-ionizing Radiation Protection (ICNIRP) Guidelines
+
+A.2.3 Reference Levels For Contact and Induced Currents
+
+Up to 110 MHz, which includes the FM radio transmission frequency band, reference levels for contact current are given. These must not be exceeded in order to avoid shock and burn hazards. The point contactreference levels are presented in Table 5. Since these threshold contact currents that elicit biological responses in children and adult women are approximately one-half and two—thirds, respectively, of those for adult men, the reference levels for contact currents for the members of the general public are set lower by a factor of 2 than the values for occupational.
+
+Table 5. Reference levels for time varying contact currents from conductive objects.**
+
+<image>table_5.png</image>
+ 
+Note : f is the frequency in kHz
+
+For the frequency range 10 - 110 MHz, reference levels from Table 6 are provided for limb currents that are below the basic restrictions on localized SAR.
+
+Table 6. Reference Levels for current induced in any limb at frequencies between 10 and 110 MHz **.
+
+<image>table_6.png</image> 
+
+Note:
+1.The public reference level is equal to the occupational reference level divided by √15.
+2. For compliance with the basic restriction on localized SAR, the square root of the time — averaged value of the square of the induced current over any 6-minute period forms the basis of the reference levels:
+
+B. Simultaneous Exposure to Multiple-Frequency Fields
+
+3.1 In situations of simultaneous exposures to fields of different frequencies, these exposures are additive in their effects. Additivity shall be examined Separately for the effects of thermal and electrical stimulation, and the basic restrictions given in this clause shall be'met. The formulae given shalt apply to relevant frequencies under. practical exposure situations.
+
+B.2 For electrical stimulation, relevant for frequencies up to 10 MHz, induced current densities shall be added according to the following equation:
+
+<image>figure_1.png</image>
+
+** Based on International Commission for Non-Ionizing Radiation Protection (ICNIRP) Guidelines
+
+3.3 For thermal effects, relevant above 100 kHz, SAR and power density values shall be added according to the following equation:
+
+<image>figure_2.png</image>
+
+B.4 For practical application of the basic restrictions, the following criteria regarding reference levels of field strengths shall be applied.
+
+B.5 For induced current density and electrical stimulation effects, relevant up to 10 MHz, the following two equations shall be applied to the ﬁeld levels:
+
+<image>figure_3.png</image>
+
+The constant values or and b are-used above 1 MHz for the electric field and above 65 kHz for the magnetic field because the summation is based on induced current densities and Should not be mixed with thermal considerations. The latter forms the basis for ELi and HLij above 1 MHz and 65 kHz, respectively, found in Tables 3 and 4.
+
+3.6 For thermal considerations, relevant above 100 kHz, the following two equations shall be applied to the field levels:
+
+<image>figure_4.png</image>
+
+3.7 For limb current and contact current, respectively, the following equations shall be applied
+
+<image>figure_5.png</image>
+
+3.8 The summation formulae of Section IV-B assume worst-case conditions among the
+fields from the multiple sources. As a result, typical exposure situations may, in practice,
+require less restrictive exposure levels than indicated by the above formulas for the
+reference levels. '
+
+V. Verification of Compliance with the Basic Restrictions and Reference Levels
+
+The mandatory basicrestrictions in these standards are specified through quantities that are often difﬁcult and, in many cases, impractical to measure. Therefore, reference Ievels of exposure, which are much simpler to measure, are provided as an alternative means of showing compliance with the mandatory basic restrictions. The reference levels have been conservatively formulated such that compliance with the reference levels given in these standards will ensure compliance with the basic restrictions.
+
+All fixed RFR facilities shall secure a Radiofrequency Radiation (RFR) Evaluation Report from the Bureau of Health Devices and Technology prior to installation of all RFR equipment to determine the minimum safe distances from the transmitting RFR equipment that a person must maintain without exceeding the limits for occupational and non—occupationalexposure. This initial RFR report shall be a desk-top evaluation based on calculations using the technical data provided by the facility concerned and by the National Telecommunication Commission (NTC). Compliance with Section IV shall be verified by direct field measurements through the conduct of a Radiation Protection Survey and Evaluation (RPSE) by a team composed of health physicists from the BHDT andlor technical staff from the NTC.
+
+Verification of compliance must be based on the conditions leading to the highest RF field levels emitted under normal operating conditions. Further assessment must be made after any modificati0n that may increase the level of human exposure.
+
+VI. Radiation Protection Responsibilities of RFR Facility-Occupational Exposure
+
+A. For each RFR facility, there shall be a written radiation safety policy identifying responsibility and expressing commitment by all parties to a protection program. The policy shall be brodght to the attention of all affected workers with the requirement that they are to familiarize themselves with all relevant procedures.
+
+B. Reduction of exposure shall be through a hierarchy of controls including*:
+
+B.1 Elimination or control of hazards at their source by correct design and layout of plan, correct working methods and training of personnel in safety procedures.
+
+B.2 Appropriate engineering: controls. For example: shielding, fail-safe interlocks, built-in leakage detectors and, alarms, and physical barriers.
+
+B.3 Administrative controls such as the definition of occupational field level boundaries of existing RF equipment.
+
+B.4 Where other measures are impractical, the provision of RF protective clothing or individual protective equipment, or both, which is effective at the frequencies of interest and has no potential for arcing or fire.
+
+C. Areas where occupational limits are exceeded or where protective clothing or equipment is required to be worn shall be identified by appropriate provision of signs or notices.
+
+D. There shall be a yearly review of procedures.
+
+E. The BHDT shall be notified in the event of an exposure exceeding the relevant limits.
+
+F. Where applicable, work practices such as the earthing of large metallic objects exposed to the field and the wearing of leather gloves for protection against shocks and burns shall be observed*.
+
+G. Only authorized personnel shall be allowed to have access to the RFR equipment. The RFR equipment must be-turned off whenever service personnel are working in areas where the power density levels are greater than the reference level in Table 3.
+
+* Reproduced from New Zealand Standard NZs 2772.1 : 1999 Radiofrequency Fields Part 1- Maximum Exposure Levels — 3 kHz to 300 GHz, With permission from Standards New Zealand
+
+VII. Radiation Protection Responsibilities of RFR Facility— Non-Occupational EXposure
+
+A. Members of the general public shall not be allowed access to areas where levels exceed those specified In Section IV.
+
+B. Warning signs shall be posted at the entrance to any location containing equipment capable of producing RFR.
+
+C. Where applicable, a perimeter fence or any appropriate locked structure must be constructed to prevent access of the members of the general public to the antenna.
+
+D. The BHDT shall be notified in the event of an exposure exceeding the relevant limits*.
+
+VIII. Duties and Responsibilities of the RF Radiation Safety Officer (RFRSO)
+
+An RF Radiation Safety Officer (RFRSO) shall be designated for each facility.
+The RFRSO shall have the following duties:
+
+A. Develop, implement and document a radiation safety policy and radiation safety program in the RFR facility. Where applicable, the RFR radiation safety program shall include established rules to be implemented that will prevent detonation of electro-explosives devices and the occurrence of ﬁres and explosions resulting from ignition of flammable materials by sparks cadsed by induced fields, contact currents, or spark discharges.
+
+B. Conduct training'and retraining of all workers operating, using or maintaining RFR equipment.
+
+C. Measure RFR levels to generate an RFR map of areas surrounding the equipment.
+
+D. Undertake immediate notification, investigation and documentation of all activities in the facility concerning accidents/incidents involving human exposure to radio frequency radiation.
+
+E. Maintain a radiation site folder which shall be made available at all times and which shall contain among others data on the RFR equipment and the RFR map.
+
+F. Ensure maintenance and calibration of the RFR measuring instrument of the facility.
+
+G. Immediately report to the BHDT and the NTC any incident occurring in the facility that may lead to violation of any of the provisions of this A0
+
+H. Report to the BHDT and the NTC any modification in the RFR equipment or transmission system that could affect the power density levels in the facility.
+
+IX. Repealing Clause
+
+All administrative orders, rulesand regulations, inconsistent herewith are hereby repealed, amended or modified accordingly.
+
+X. Effectivity
+
+This Administrative Order shall take effect after fifteen (15) days following its complete publication in an official gazette or in a newspaper of general circulation and shall supersede all issuances inconsistent therewith.
+
+
+</body>
+<sign>MANUEL M. DAYRIT, M.D., M.Sc.</sign>
+<signtitle>Secretary of Health</signtitle> 

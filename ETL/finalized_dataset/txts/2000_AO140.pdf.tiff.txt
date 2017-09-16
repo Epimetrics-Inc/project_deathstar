@@ -1,0 +1,171 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+Department of Health, 2/F Bldg. 1
+San Lazaro Compound, Sta. Cruz, 1003 Manila
+(632) 743-83-01 loc. 1126
+
+<date>10/24/2000</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 140 s. 2000</docnum>
+
+<subject>SUBJECT: Procedures for Legalizing Use of Computer Softwares Within the Department of Health (DOH)</subject>
+
+<body>
+
+I. BACKGROUND/RATIONALE
+
+This Administrative Order (AO) implements the following issuances, laws and commitments related to Intellectual Property Rights (IPR) relative to use of computer programs or software.
+
+* Presidential Decree No. 49s. 1972 provided copyright protection of Philippine original creation including computer programs. 
+
+* Philippines is a member of the Berne Convention for the protection of Literary and Artistic Works.
+
+* The Department of Trade and Industry issued Department Order No. 6s. 1991 including PD No. 49s. 1972 in the list of trade and industry laws thereby affording copyright owners access to administrative proceedings under Executive Order 913 or “Unfair Trade Practices Law”. 
+
+* Presidential Decree 115s. 1995 directed all department and agencies and instrumentalities to legalize their computer software which was circularized by DOH under DC 85s. 1995.
+
+* Republic Act 8293s. 1997 prescribes the intellectual property code and establish the intellectual property office, providing for its powers and functions and for other purposes was implemented in January 1998.
+
+This AO also when implemented by various units protects the DOH from legal and administrative sanctions and payment of fines or imprisonment resulting from copyright infringement imposed by government and/or Business Software Alliance (BSA) and/or copyright owners as described below:
+
+1st offense - minimum mandatory sentence of 1 year imprisonment AND at least P50,000 fine; 
+
+2nd offense- minimum mandatory sentence of 3-6 years imprisonment AND a fine between P150,000 to P500,000, and
+
+3rd offense - minimum mandatory sentence of 6-9 years imprisonment AND a fine between P500,000 to P1.5M. 
+
+Likewise, this AO describes guidelines to prevent breaking the law; ensure that DOH do not compromise its credibility of the organization due to copy infringement; guarantee technical support and software documentation, distribution upgrades; and avoid lost of data and virus problems brought about by use of illegal software.
+
+
+II. COVERAGE
+
+All DOH personnel/staff at the Central Office (CO), Regional Centers for Health Development (RCHD), Hospitals/Medical Centers are covered by this Order. This AO decentralizes responsibilities of enforcing the IPR Law to the respective various administrative units. 
+
+
+III. PROCEDURES FOR LEGALIZING OF COMPUTER SOFTWARE
+
+1. Procurement of Computer Software
+
+1.1 Ensure that software procurement request is in accordance with the DOH Information Systems Strategic Plan (ISSP);
+
+1.2 Legalize the software needed on all computer units by procuring a licensed copy or full product with complete sets of original CDs and manuals. If you have one (1) full product already, you shall only procure an additional license for succeeding procurement to save money. Likewise, if a full product is already available in DOH like the Information Management Service (IMS), your office will only need to procure a license;
+
+1.3 Include software procurement request in the Annual Procurement Plan (APP); 
+
+1.4 Prepare and fill-up Request Invoice Voucher (RIV) Form indicating computer software and include corresponding and updated specification; 
+
+1.5 When procuring a new set of computers, always include a legal or licensed copy of the software in the APP and RIV;
+
+1.6 Submit the accomplished RIV to IMS or to your respective IT units for clearance, as per AO 14-Bs, 1997 or succeeding AO relevant to this. RCHD and hospitals shall also refer to the intranet site for standard
+specification (http://home.doh.gov.ph);
+
+1.7 Indorse or forward approved RIV request to Procurement and Logistics Service (PLS) or to your respective procurement units to facilitate processing of computer software purchase;
+
+1.8 Buy software from reputable suppliers only; 
+
+1.9 Make sure Dealer explains in detail the software licensing agreements. This is different for every software developed
+
+1.10 Get original installation disks/CDs, manuals and license/license agreement for all the software being acquired.
+
+2. Installation of Computer Software
+
+2.1 Load and use the licensed software on one computer unit at a time. 
+
+2.2 Read and understand the license agreement, software terms and conditions very carefully.
+
+2.3 Ensure that use of software is in accordance with the license agreements especially Client/Server and network applications.
+
+2.4 Make only one copy of the program for back-up purposes.
+
+2.5 Do not let other office borrow or counterfeit your procured software.
+
+2.6 Remove/uninstall illegal copies of software.
+
+2.7 Avoid downloading or uploading unauthorized software over the Internet.
+
+2.8 Prohibit staff in loading any software that is not acquired by the office.
+
+2.9 Do not allow personnel to install pirated copies of software.
+
+3. Conduct of Regular Audit
+
+3.1 Conduct regular annual audit of all existing computer software and hardware every 10th of February and 10th of July using IPR Compliance Audit Form (please see attached).
+
+Below are procedures to follow in accomplishing the form:
+
+3.1.1 Check all softwares installed in each computer unit, and determine whether your office has original CD or diskettes, manuals, and the license to use the software.
+
+3.1.2 Fill-up properly the IPR Compliance Audit Form; Declare all programs that are installed in the said unit. Identify whether it is an original, pre-loaded, licensed or pirated copy. 
+
+3.1.3 Submit IPR Compliance Audit Forms to the following designated offices: 
+
+a. For DOH Central Office to IMS,DOH,2ng Flr. Bldg 9, San Lazaro Compound; 
+
+b. For RCHD to Administrative Officer or Computer Operator then to IMS; and,
+
+c. For Regional Hospitals and Medical Centers to the Administrative Officer or Computer Operator and will be forwarded to the RCHDs for consolidation. 
+
+3.2 Delete all pirated copies of software when discovered. Provide sanction to erring staff.
+
+3.3 Initiate procurement of softwares your office needs after annual inventory is done.
+
+
+IV. ROLES AND RESPONSIBILITIES
+
+1. ALL Central Offices/Bureaus/Services/Unit/RCHDs/Hospitals and Medical Centers
+
+1.1 Conduct inventory as provided under Article III, Section 3. (Conduct of Regular Audit).
+
+1.2 Develop a Software Management Plan.
+
+1.3 Enforce IPR Law in area of jurisdiction.
+
+1.4 Resolve and attend to all IPR non-compliance civil damages and, criminal penalties incurred by the unit.-
+
+In addition to the above, the following offices will have specific functions to undertake:
+
+2. Central Office - IMS
+
+2.1 Manages software inventory at Central Office.
+
+2.2 Reviews and evaluate results of consolidated data.
+
+2.3 Provides feedback to concerned offices.
+
+2.4 Provides advise and recommend the necessary software to use to ensure original diskettes/CDs, manuals, licenses, certificate of authenticity and other documentation exist in each program.
+
+Submit Central Office Software Declaration to Business Software Alliance (BSA) and National Information Technology Council (NITC).
+
+3. Regional Centers for Health Development
+
+3.1 Manage RCHD compliance and assist hospitals and medical centers compliance to the copyright law.
+
+3.2 submit to IMS, the consolidated data of RCHD hospitals and medical centers in the regions.
+
+4. Hospitals
+
+Submit directly the Regional Centers for Health Development (RCHD), Hospitals/Medical Centers Software Declaration to BSA and NITC. 
+
+
+V. EFFECTIVITY
+
+This Administrative Order shall take effect immediately.
+
+</body> 
+<sign>ALBERTO G. ROMUALDEZ, JR. M.D.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+
+Attachment
+
+IPR COMPLIANCE AUDIT FORM
+INVENTORY OF EXISTING COMPUTER SOFTWARE
+
+Department of Health
+Office	:	IMS
+Date	:	6/8/00
+
+<image>table_1.png</image>

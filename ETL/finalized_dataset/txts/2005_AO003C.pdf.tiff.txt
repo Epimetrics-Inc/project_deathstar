@@ -1,0 +1,110 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>June 8, 2009</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2005, 0003 - C</docnum>
+
+<subject>SUBJECT: Addendum to Administrative Order No. 2005-0003 "Guidelines on the Issuance of Certificate of Product Registration for Water Purification Equipment and Device."</subject>
+
+<body>
+Administrative Order (AO) No. 3 series of 2005, Section V, C. Validity/Expiration states that "the certificate of Product Registration to be issued by the BHDT Director shall be valid for (3) years from the date of issuance." Further, Section V, E. Renewal of Certificate of Product Registration of the same Administrative Order states that "the filing for renewal of CPR shall be made at least two (2) months before the expiration date". However, the requirements needed for the renewal of the CPR were not indicated in Administrative Order No. 2005-0003.
+
+To ensure the effective implementation of the said AO, the following guidelines for the renewal of the CPR are hereby issued:
+
+The applicant shall submit the following documentary requirements to the BHDT for evaluation:
+
+a. an affidavit of continuous compliance; (see Annex A);
+b. test reports from laboratories accredited by the DOH.
+
+The procedure will be as follows:
+
+1. BHDT shall give the applicant the list of the laboratories accredited by the DOH and the endorsement form for laboratory testing. The accredited laboratory chosen by the applicant shall fill up the endorsement form and submit the same to BHDT together with the test reports. The laboratory chosen by the applicant to conduct the tests should not be in anyway affiliated with the applicant. The BHDT shall evaluate all the test reports submitted by the client and verify its authenticity.
+
+2. The test reports shall contain the results of physical, chemical and bacteriological analyses of the product water coming from the device based on the Philippine National Standards for Drinking Water (PNSDW) (see Annex B).
+
+3. BHDT staff members may accompany the chemist / laboratory personnel of the third party laboratory to observe the sampling. The applicant shall inform BHDT of the date of the sampling as well as the location of the sampling point well ahead of the date of sampling to enable the processing of the Department Personnel Order.
+
+This order shall take effect immediately.
+</body>
+
+<sign>FRANCISCO T. DUQUE III, MD. M.Sc.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<body>
+Annex A
+
+<image>figure_1.png</image>
+
+Annex B
+
+Minimum Parameters for Purified Drinking Water
+
+Physical
+
+Color
+Turbidity
+Odor
+Taste
+
+Chemical
+
+Alkalinity (as CaCO3)
+Acidity
+Chloride
+Total Hardness
+Iron (Fe), Total
+pH
+Total Solids
+Total Dissolved Solids
+Total Suspended Solids
+Fluoride
+Nitrite (NO2)
+Calcium (Ca)
+Magnesium (Mg)
+Manganese (Mn)
+Sulfate
+Silica
+Copper (Cu)
+Lead (Pb)
+Chromium (Cr)
+
+Bacteriological
+
+HPC (cfu/ml)
+Total Coliforms
+Fecal Coliforms
+
+Minimum Parameters for Safe Drinking Water
+
+Physical
+
+Color
+Turbidity
+Odor
+Taste
+
+Chemical
+
+Chloride
+Total Hardness
+Iron (Fe), Total
+pH
+Total Dissolved Solids
+Fluoride
+Nitrite (NO2)
+Manganese (Mn)
+Sulfate
+Silica
+Copper (Cu)
+Lead (Pb)
+Chromium (Cr)
+
+Bacteriological
+
+HPC (cfu/ml)
+Total Coliforms
+Fecal Coliforms
+</body>

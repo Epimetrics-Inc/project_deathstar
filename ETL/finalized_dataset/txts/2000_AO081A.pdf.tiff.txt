@@ -1,0 +1,55 @@
+Republic of the Philippines
+DEPARTMENT OF HEALTH
+OFFICE OF THE SECRETARY
+2/F Building 1, San Lazaro Compound, Rizal Avenue
+Sta. Cruz, Manila 1003 Tel No.: 743-8301
+e-mail: osec@doh.gov.ph  
+
+<date>07/12/2000</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 81-A s. 2000</docnum>
+
+<subject>SUBJECT: Policies and Procedures for the Acquisition, Operations and Maintenance of Various Telecommunication Services at the Central Offices</subject>
+
+<body>
+
+To rationalize use and reduce expenses incurred on telecommunication services, and to avoid unpaid bills disconnection and legal litigation, the following policies and procedures are hereby instituted for the acquisition, operations and maintenance of various telecommunication services at the central office:
+
+1. Only Management Advisory Service (MAS) registered PLDT and Eastern Telecoms telephones, cell phones, pagers, beepers and internet service provider shall be paid by the Department of Health through the Finance Service (FS). The list is based on a series of surveys conducted from November 1999 to May 2000. Updating of the list shall be based on procedure No. 2 of this Order.
+
+2. All new acquisition of telephone land lines, phones, beepers and pagers including internet service providers (ISP) shall pass through the MAS for clearance and endorsement to the Office for Management Services (OMS) and when necessary to the
+Executive Committee (EXECOM). New acquisition shall be based on office functions, existing number of communication systems, history of telephone management which may include number of cut telephone lines with unpaid personal calls.
+
+3. International distance dialing (DDD/IDD)) feature shall be limited to the major Offices. For Bureaus/Services, only one telephone unit shall have national distance dialing (NDD) feature. A security code should be installed on phones With IDD/DDD/NDD feature. Exception to this shall require EXECOM approval.
+
+4. For internet services, all offices with in the San Lazaro compound shall use the DOH corporate account either through the local area network or through dial-up. All offices outside of the compound should as much as possible use also the corporate account. In
+case a new ISP is needed for these offices, preparation for request for proposal and selection of ISP shall involve the MAS.
+
+5. The following are authorized to use an official cell phone but limited to the following maximum amount. The amount expended beyond the allowable limit shall be borne by official concerned.
+
+<image>table_1.png</image>
+
+6. Billing shall be on a per office/service basis but payment shall be processed corporately through MAS, Administrative Service (AS) and FS. Only one voucher per telephone company shall be prepared each month starting August 2000.
+
+6.1 AS shall distribute the bills to the respective offices/services as soon as these are received. 
+6.2 Each office shall submit to MAS not later than 20th of each month the necessary documents for payment processing. These are the telephone bill, certification of official calls for all long distance calls, and official receipt of all personal ca lie or excess expended amount of all official cell phones. All bills not received by the 20th of the month shall be processed on the succeeding month.
+6.3 MAS shall check phone number whether the phone is DOH registered based on the bill and the telecommunications registry.
+6.4 MAS shall prepare the monthly summary of bills and with in 2 days, and shall submit the summary not later than the 23rd of each month to the General Services, AS. 
+6.5 General Services, AS shall prepare the voucher and endorse it for payment.
+6.6 The OMS shall finally approve voucher for payment.
+6? FS shall process the voucher and shall deduct the charges per offices from their respective budget. FS shall ensure that payment of bills shall be undertaken as soon as possible to avoid disconnection.
+
+7. Reconnection of telephones due to delays in the submission of required documents by office concerned, and consequently payment shall have to go through procedure No.2.
+
+8. Personal calls charged to the office are not allowed and should not be tolerated especially for long distance calls. It is the responsibility of the administrative officer in each office/service to ensure that government phones are for official use only. In cases of unavoidable personal calls, payment of these personal calls shall be governed by Administrative Order 32 dated August 26, 1999. All personal calls shall be recorded and reported so that personnel liable shall pay on salary deduction basis per AO 32. Management shall endorse all notices, demand letters and legal action taken by the telecommunication company against the DOH to the office/service Concerned and likewise notify telecommunications company of erring personnel/offices/services.
+
+9. Proper use, maintenance and initiation of payment processing are responsibilities of offices and services concerned.
+
+10. Maintenance such as the transfer of telephone handsets, cabling and electrical work shall be coordinated with the General Services, AS. 
+
+For compliance.
+
+</body> 
+<sign>ALBERTO G. ROMUALDEZ, JR. M.D.</sign>
+<signtitle>Secretary of Health</signtitle>

@@ -1,0 +1,190 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound
+Rizal Avenue, Sta. Cruz
+1003 Manila, Philippines
+Trunk Line 743-83-01
+Direct Line 711-95-02 to 03
+Fax Line 743-18-29
+
+<date>08/05/2002</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 142 s. 2002</docnum>
+
+<subject>SUBJECT: Implementing Guidelines for the Full Operationalization of the Contract Distribution System (CDS) for DOH Procured Drugs</subject>
+
+<body>
+
+I. Rationale
+
+One, of the problems hampering the efficient management of health services by the Department of Health (DOH) and consequently, the delivery of basic health care by the local government units is the poor drug distribution system. Poor drug distribution, in particular, results in a host of other problems such as deterioration, expiration, misallocation, out of stocking and overstocking of drugs.
+
+One of the explicit solutions in response to this problem, is the development of a Contract Distribution System (CDS) for Core Essential Drugs with the assistance of John Snow, Inc. and with funding from the Women's Health and Safe Motherhood Project. The CDS' goal is to ensure that available stocks of drugs and medicines are timely distributed to health facilities in proportion to the health facilities' drug requirements and actual use. The system likewise enhances other aspects of drug distribution which includes ordering, allocation, recording, storage and management of information.
+
+The CDS has been tested at the Center for Health Development, Western Visayas. With their experience, the distribution of drugs has improved and can now be implemented in all CHDs nationwide.
+
+This Administrative Order prescribes the guidelines for the full implementation of the CDS in all the CHDs.
+
+II. Scope
+
+The CDS has the following main components:
+
+• Ordering system that allows direct quarterly drug ordering by health facilities to the CHDs using Facility Stock Status/Order Form.
+• Delivery system that allows quarterly delivery from the DOH central office and the CHDs to health facilities utilizing the services of a private contracted distributor.
+• Drug authorized stock level setting for service outlet based on actual recent past consumption
+• Accounting for drugs dispensed
+• A CDS logistics management information system (CDS LMIS) which provides an automated data entry and feed-back generation and semi-on-line data processing. The CDS LMIS supports rationalized drug allocation, distribution performance assessment, drug cost monitoring, procurement and budget levels monitoring and management reports generation and access.
+
+The CDS shall cover initially the distribution of the following ten (10) core essential drugs which have been selected due to their impact to child and maternal mortality and morbidity but not limited to the following:
+
+1. Oral Rehydration Salts (sachets)
+2. Co-trimoxazole (tablets)
+3. Vitamin A (capsules)
+4. Ferrous Sulfate (tablets)
+5. TB SCC I (blister packs)
+6. TB SCC II (blister packs)
+7. Ethambutol (tablets)
+8. Streptomycin (vials)
+9. Chloroquine Phosphate (tablets)
+10. Primaquine (tablets)
+
+III. General Guidelines
+
+1. All CHDs shall adept the Contract Distribution System as the distribution system for the DOH procured core essential drugs initially.
+
+2. A regular annual bidding for the private Contract Distributor (CD) shall be conducted at Central Office (CO) to determine the private CD. The bidding and contracting shall be done in accordance with existing rules and procedures.
+
+3. The CHDs shall make an agreement with the representative/branch of the selected private contract distributor based on the agreements reached at CO level. The CHDs may use another distributor as long as it is proven to be more advantageous to DOH and shall take the responsibility of establishing and implementing the CDS standard operating procedures with the its selected contractor and in fulfilling reporting requirements of the DOH.
+
+4. As the distribution system is dependent on other logistics management components particularly the procurement component, an appropriate/ rational budget shall be allocated for the regular procurement of core essential drugs considering drug requirement and actual use by health facilities.
+
+5. The CO and CHD shall also ensure the allocation of budget to adequately meet the cost of drug distribution;
+
+6. The CO and/or CHDs shall ensure that management, and organizational support are established and made operational at their level.
+
+7. The CO and CHDs shall ensure that infrastructure support are available such equipment used for the system are properly maintained and supplies such as forms and manuals are continuously provided.
+
+8. The CO and CHDs shall also ensure that there is regular feedback on the operationalization of the CDS to the DOH management through the Assistant Secretary of the Office for Management Support Services.
+
+IV. Implementation Arrangements: Roles and Functions of DOH Offices
+
+A. DOH Central Office
+
+1. Office for Management Support Services (OMSS) shall :
+
+a. Establish the DOH management structure to support the CDS terms of:
+
+i. Day-to-day management of CDS
+ii. Reviewing and suggesting CDS design revision as necessary
+iii. Identifying and serving as a forum to resolve problems and issues identified during the testing and subsequent implementation
+iv. Maintaining skills level requirements for staff assigned to operate and use the system
+v. Using and maintaining the CDS LMIS
+vi. Conducting field monitoring and evaluating the effectiveness of the system and reporting the findings to the Secretary of Health.
+
+This structure shall at the minimum be composed of Procurement & Logistics Service (PLS), Information Management Service (IMS), Health Human Resource Development Bureau (HHRDB) and the National Center for Disease Prevention and Control (NCDPC). They shall report directly to the Assistant Secretary for Management ServiCes with regards to this project.
+
+b. Provide oversight function in the implementation of CDS.
+
+c. Allocate funds for drug procurement and distribution cost upon the recommendation of the NCHFD and PLS respectively.
+
+2. The Procurement and Logistics Service, particularly the Material Management Division (MMD) in close coordination With other appropriate units such as the IMS and HHRDB on pertinent activities shall be primarily responsible for the following.
+
+a. Conduct the day-to-day operations of the CDS at central level.
+b. Conduct training needs assessment and train personnel at all levels of the public health system in implementing the CDS, using approved CDS curricula/manuals in coordination with HHRDB and CHDs.
+c. Update as necessary the CDS Systems Operations manuals.
+d. Encode DOH CO CDS related information.
+e. Analyze CDS data and provide periodic reports on CDS performance to the CHDs, OMSS and to DOH top management.
+f. Manage the implementation and use of the CDS Logistics Management Information System (CDS LMIS) in partnership with IMS. to include the following activities :
+
+i. Installing hardware and software systems
+ii. Developing, testing and integrating the customized LMIS software
+iii. Applying the different LMIS manuals and training curricula for implementing the CDS LMIS trainings
+iv. Maintaining, monitoring, revising, enhancing and troubleshooting the CDS LMIS
+v. Training DOH information technology. staff and users on the CDS LMIS
+vi. System and database administration
+vii. Warehousing of CDS data at central office
+viii. Internet connection
+ix. Recommend revisions to the system as necessary.
+
+g. Initiate conduct of annual bidding for and contracting of the private distributor in coordination with the CO Bids and Awards Committee, and provide the CHDs a copy of the agreement to serve as basis for CHDs' in forging a contract with the selected of private distributor.
+h. Manage DOH contract with the distributor.
+i. Allocate the DOH CO procured core essential drugs by preparing the CDS Allocation Worksheet for the different Centers for Health Development in coordination with NCHFD.
+j. Prepare the following documents prior to drug distribution:
+
+1.) Invoice Receipts for Property and Bills of tuning to be signed by the Chief of Materials and Management Division of the PLS.
+2.) Transmittal letter to CD with attached Heel Core Essential Drugs Distribution Summary to be signed by the PLS Director/Director-in-Charge of MMD.
+
+k. Require the Contract Distributor(CD) to sign the,Supply Officers copy of the CO transmittal letter and the Final Core Essential Drugs Distribution Summary upon withdrawal and receipt of drugs by the CD from the Central warehouse.
+l. Coordinate with the CD on the distribution of core: essential drugs to the CHDs and the billing and payment for the distribution services.
+m. Prepare and process the Disbursement voucher for payment.
+n. Assess the performance of the CD in terms of timeliness and quality of delivery, quantity of drugs delivered and correctness of delivery documents by preparing the CDS Distribution Performance Exception Report.
+o. Store the core essential drugs procured at Central Office in the central warehouse following proper storage guidelines.
+p. Monitor warehouse practices and storage of core essential drugs at the CHD warehouses.
+
+B. Centers for Health Development
+
+a. Establish the CHD CDS management structure under the most appropriate official of the CHD to ensure implementation of the CDS and to guarantee check and balance. The CDS Team shall have the following functions:
+
+i. Implement or conduct the day-to-day operation of the CDS
+ii. Resolve problems identified during the testing and subsequent implementation of the CDS
+iii. Coordinate the timely inputs of all the program coordinators involved in the CDS.
+iv. Operate and use the CDS LMIS
+v. Update and maintain skill level to use CDS
+vi. Evaluate the effectiveness of the system and submit the reports to the CHD Director.
+vii. Recommend revisions to the system as necessary.
+
+b. Allocate budget to pay for freight charges incurred with the Contract Distributor (CD)
+
+c. Negotiate and execute contract at CHD level with the CO selected Contract Distributor using the centrally forged agreement as basis.
+
+d. In coordination with the OMSS and PLS, the CHD shall conduct the following as needed:
+
+i. CDS training for LGU personnel assigned to implement CDS.
+ii. Field monitoring of the CDS implementation in the different provinces and municipalities and provide trouble shooting as appropriate.
+
+e. Provide access to the internet to the staff operating the CDS LMIS for uploading and downloading of CDS data and make CDS LMIS implementation, maintenance and troubleshooting easier, and faster.
+
+f. Implement the CHD CDS LMIS by:
+
+i. Encoding CHD CDS related data
+ii. Maintaining and upgrading computer systems
+iii. Synchronizing of the CHD LMIS with the DOH central LMIS
+iv. Testing and integrating the customized LMIS software
+v. Monitoring and troubleshooting the LMIS
+vi. Analyzing CDS data and provide periodic management reports such as the Health Facility Consumption/Drug losses Report, Facility Order Update Report, LGU CDS Operations Summary Report to the local government executives and/or Chiefs of Hospitals in the different municipalities, cities, and provinces.
+
+g. Receive and process the CDS Quarterly Facility Stock Status/Order Forms (SSOF) from the health facilities under the jurisdiction of the CHD.
+
+h. For local health facilities which were late or did not submit a SSOF, automatically print and issue after 10 days from the end of every semester a letter to the Mayor reminding among others that drug allocation can not be made In the absence of a SSOF.
+
+i. Allocate the drugs to the health facilities by preparing the CDS Allocation Worksheets.
+
+j. Prepare the following documents prior to drug distribution:
+
+i. invoice Receipts for Property and Bills of lasing to be signed by the CHD Director.
+ii. Transmittal letter to the Contract Distributor (CD) with attached Final Core Essential Drugs Distribution Summary to be signed by the CHD Director.
+iii. Notice to the concerned Mayor and/or Governor of a health facility which submitted a SSOF regarding pending delivery through the DOH representative or other means.
+
+k. Require the Contract Distributor (CD) to sign the Supply Officer's copy of the CHD transmittal letter and the final Core Essential Drugs Distribution Summary upon withdrawal and receipt of drugs by the CD from the CHD warehouse.
+
+l. Coordinate with the CD on the distribution of the core essential drugs to the health facilities and the billing and payment of the CD services.
+
+m. Receive delivery documents from the CD and subsequently verify the signatures on the delivery documents using the authorized health facility signatures which have been scanned into the computer.
+
+n. Prepare and process the Disbursement Voucher for payment.
+
+o. Generate and provide quarterly report to the Mayor and the Governor regarding a status of deliveries (Refer to Section IV.B.f.vi, LGU CDS Operations Summary Report, Facility Order Update Report, etc.)
+
+p. Provide DOH Management through the OMSS quarterly update on the status of Contract Distributor's implementation at regional level.
+
+V. Effectivity
+
+This Order takes effect this August 12, 2002.
+
+For compliance.
+</body>
+
+<sign>MANUEL M. DAYRIT, M.D., M.Sc.</sign>
+<signtitle>Secretary Of Health</signtitle>

@@ -1,0 +1,21 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>9/11/1984</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 104-A, s. 1984</docnum>
+<subject>Subject: Amendment to Administrative Order No. 54 s. 1983 to exempt participants in the NOH residency training program on Psychiatry, Radiology, EENT and Tropical Medicine from the provisions thereof.</subject>
+
+<body>
+ 
+	In view of the need to have more medical specialists in Psychiatry, Radiology, EENT and Tropical Medicine (Infectious Diseases) in MOH hospitals, those participants for residency training in above-mentioned specialties are exempted from the provisions of Administrative Order No. 54 s. 1983.	
+       As thus amended, the provisions of Administrative Order No. 54 s. 1983 stands in effect.
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>
+

@@ -1,0 +1,240 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>09/10/2015</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2015 - 039 </docnum>
+<subject>Subject: Guidelines for Managing Tuberculosis Control Program During "Emergencies and Disasters"</subject>
+<body>
+
+I. BACKGROUND 
+
+The Philippines is a disaster-prone country and is listed as No. 4 among countries with reported events, and among those that appear prominently in the list of countries experiencing the highest number of natural disaster events. .In the 2013 Annual Statistical Disaster Review published by the WHO—Collaborating Center for Research on the Epidemiology of Disasters (CRED), it ranked no. 1 in terms of disaster mortality and affected population. for the same year. According to the Philippine Atmospheric, Geophysical and Astronomical Services Administration (PAGASA), the country lies within the Ring of Fire, making it vulnerable to volcanic eruptions and earthquakes. It is also visited by an average of 22 typhoons annually that result in ﬂoods and landslides. The devastation from Typhoons 0ndoy (International name: Ketsana, 2009) and Pablo (International name: Bopha, 2012), as well as the recent 7.2 magnitude earthquake that hit the Visayas just before Super Typhoon Yolanda (International name: Haiyan, 2013) wreaked havoc in the same region, highlighting the disaster-proneness of the country. It also suffers from human-made emergencies like ﬁres and civic conﬂicts, such as the siege of Zamboanga City in 2013. 
+
+Disasters cause population displacements and disruptions in the delivery of basic services, including health. Population displacements, crowded and poorly-ventilated evacuation centers, limited access to water, sanitation facilities and optimum nutrition — all these increase the risk for transmission and worsening of diseases under these conditions, including tuberculosis. Disasters also make health workers victims themselves, thereby hampering the delivery of services. For this reason, the Department of Health (DOH) issued a series of Administrative Orders promulgating policies and guidelines on how to manage disease control in general in times of emergencies and disasters from preparedness, response and recovery. 
+
+These include Administrative Order No. 168- -s..2004 known. as the National Policy on Health Emergencies and Disasters which states that the National Center for Disease Prevention and Control (NCDPC) is tasked to develop guidelines on the management of infectious diseases in times of emergencies and disasters. Examples of these are the “Philippine Preparedness and Response Plan for Pandemic and Avian Inﬂuenza” and the “Interim Guidelines for Preparedness and Response to MERS—CoV.” Furthermore, the ofﬁce of the President issued Executive Order 168 creating the inter—agency task force for the management of emerging infectious diseases in the Philippines; one of these is the Multi-Drug Resistant Tuberculosis (MDRTB). 
+
+Following the occurrence of the Typhoon Yolanda in November 2013, the National Tuberculosis Control Program (N TP) of the DOH facilitated the issuance of Department Memorandum No. 2013-0347 entitled “Guidelines in the Provision of TB services to Post-disaster Areas affected by Super Typhoon Yolanda.” However, these guidelines focused only on the response phase and did not elaborate on how the guidelines relate with the overall DOH policies and implementing structures in terms of human resources, coordination, recording and reporting, logistics management, resource mobilization, information and education and communication (IEC) and advocacy campaigns. Neither did they reﬂect how they would be related with the country” 5 National Disaster Risk Reduction and Management Framework (NDRRMF). 
+
+Persons affected by disasters are one of the priority vulnerable groups of the NTP as enunciated in the updated 2010-2016 Philippine Plan to Control Tuberculosis (PhilPACT) and the 5th edition of the NTP Manual of Procedures (MOP). Thus, there is a need for new guidelines on ensuring the provision of TB services to reduce TB morbidity and mortality in times of emergencies and disasters. 
+
+II. OBJECTIVES 
+
+A. To provide policies and guidelines for TB control before, during and after emergencies especially for the ﬁ'ontline health service providers at the LGU level. 
+
+B. To deﬁne the roles and responsibilities of the various organizations/agencies involved in the provision of TB services in the various phases of disaster risk reduction and management. 
+
+C. To describe the monitoring and evaluation mechanism of this guideline. 
+
+III. SCOPE AND COVERAGE 
+
+This Order is issued to provide guidelines to all DOH ofﬁces, bureaus, national centers, regional ofﬁces, DOH health facilities, attached agencies, local government units, other government agencies, non-government organizations, professional societies, private sector, non-government organizations, and development partners in managing tuberculosis during disaster and emergencies. 
+
+IV. DEFINITION OF TERMS 
+
+Case Finding — is the identiﬁcation and diagnosis of TB cases among individuals with signs and symptoms presumptive of tuberculosis 
+
+Case Holding — is the set of procedures which ensures that patients complete their treatment 
+
+Disaster — any event in which local emergency management measures were insufﬁcient to cope with a hazard, whether due to lack of time, capacity or resources, resulting in unacceptable levels of damage or numbers of casualties. 
+
+Directly Observed Treatment Short-course (DOTS) Facility —— a health care facility, whether public or private, that provides TB DOTS services in accordance with the policies and guidelines of the NTP. 
+
+Emergency —— any public health situation endangering the life or health of a signiﬁcant number of people and demanding immediate action. An emergency situation may result from a natural, human- generated, technological or societal hazard. 
+
+Preparedness — measures taken to strengthen the capacity of the emergency services to respond in an emergency. Emergency preparedness is done at all levels while disaster preparedness is focused mostly at the national level. 
+
+Presumptive TB — any person whether adult or child with signs and/or symptoms suggestive of TB whether pulmonary or extra—pulmonary, or those with CXR ﬁndings suggestive of active TB. 
+
+Recovery — refers to the coordinated process of supporting disaster—affected communities in reconstruction of physical infrastructure and restoration of emotional, social, economic and physical well—being. 
+
+Response — the provisions of emergency services and public assistance during or immediately after a disaster to save lives, reduce health impacts, ensure public safety and meet the basic subsistence needs of the people affected. Disaster response is predominantly focused on immediate and short— term needs and is sometimes called “disaster relief”. 
+
+Risk — the level of loss or damage that can be predicted to result from a particular hazard affecting a particular place at a particular time. 
+
+Risk Management —— a comprehensive strategy for reducing risks to public safety by preventing exposure to hazards, reducing vulnerabilities and enhancing preparedness i.e. response capacities. 
+
+V. GENERAL GUIDELINES 
+
+A. Prevention and control of TB in disasters shall be a component of the National Tuberculosis Control Program (NTP) with a resource allocation for all phases—-preparedness, response, and recovery. 
+
+B. NTP implementation during disaster situations shall be managed within the framework of the Philippines National Disaster Risk Reduction and Management Framework (NDRRMF) and the DOH Health Emergency Management Preparedness and Response Framework. 
+
+C. All plans for TB in disasters shall be integrated into the overall plan at all levels (national, regional, local) and health facilities. The plans shall have provisions for the health system building blocks - ﬁnancing, information management, leadership and governance, competent health workforce, medical products and technologies, and a defined package of TB services in disaster situations.  
+ 
+D. TB facilities shall adhere to standards on Safe Hospitals in Emergencies and Disasters as deﬁned by the DOH Health Emergency Management Bureau (HEMB). 
+
+E. Protocols for NTP implementation in all phases of Disaster Risk Reduction and Management (DRRM) shall be integrated in the Manual of Procedures of the NTP. 
+
+F. NTP disaster response shall be activated upon declaration of code red by the HEMB. 
+
+G. During disasters, the priority is to trace registered TB patients who are ongoing treatment to ensure continuity of treatment. While case-ﬁnding is considered second priority, efforts shall still be taken to resume case—finding activities at the soonest possible time. 
+
+H. TB Infection control shall be observed in all DOTS facilities, emergency TB service delivery points and evacuation centers. 
+
+I. Upon declaration of the recovery phase by the Disaster Risk Reduction Management Council (DRRMC), or when pre-disaster conditions in terms of TB services have almost been restored, the DOTS facility shall revert back to routine procedures as prescribed by the NTP Manual of Procedures while developing plans for “building back better.” 
+
+VI. SPECIFIC GUIDELINES/IMPLEMENTING MECHANISMS Phases of Disaster Management 
+
+1. PHASE 1: DISASTER PREPAREDNESS The following activities shall be conducted during disaster preparedness by NTP core team at regional and provincial level in partnership with the HEMB coordinator at respective level: 
+
+a. Regularly conduct NTP risk assessments (See Annex I) and update existing emergency preparedness, response, and recovery plan using standard NTP tools as necessary. Ensure integration with assessments and plans at corresponding levels. Input information to GIS to inform future actions. The comprehensive risk assessment shall be the basis of the plans. 
+
+b. Identify where one’s particular unit is in relation to the larger organizational or command structure that will be followed in times of emergencies and disasters. 
+
+c. Coordinate with the respective I-[EMB level regarding preparedness of the NTP core team of the at risk units. - 
+
+d. Develop/disseminate guidelines and tools for TB prevention and control during disasters for use in pro-deployment orientations. 
+
+e. Provide for capacity-building on TB prevention and control during disasters to all NTP staff and stakeholders. 
+
+f. Secure contingency fund for emergency response with corresponding rules and regulations/ guidelines on use of the fund. 
+
+g. Establish referral networks within and across boundaries and levels for tracing patients, diagnosis and treatment in disaster situations. 
+
+h. Develop IEC and other risk communication materials for use in disaster situations as part of advocacy, communication and social mobilization (ACSM) activities. 
+
+i. Include in routine TB patient counseling information on what to do before, during and after disasters. 
+
+j. Employ appropriate Information and Communication Technology (GIS, cloud storage, social media, etc.) 
+
+k. Ensure that NTP records and reports have back-ups, electronic or hard copies, and stored in disaster-safe areas. 
+
+l. Ensure availability at all levels of at least one quarter buffer of TB drugs and laboratory supplies and store in disaster-safe areas. Develop the emergency distribution management system at all levels. 
+
+m. Ensure easy access to TB Facility Disaster Package which may contain TB patient kits, laboratory supplies, NTP recording and reporting forms, special disaster-related recording forms, and IEC materials. 
+
+PHASE 2: DISASTER RESPONSE 
+
+a. The NTP shall coordinate with the HEMB disaster team within the ﬁrst 72 hours of declaration of code red alert. 
+
+b.The next upper level NTP core team not affected by the disaster shall conduct rapid assessment of TB services in coordination with HEMB using the appropriate Rapid Health Assessment form of the HEMB and gather available information from other partners. 
+
+c.Based on assessment results and other available information, and in coordination with government and private NTP service providers and partners, revise the NTP response plan, if necessary, and disseminate. 
+
+d.TB DOTS services shall be re-established in service-providing facilities (health centers, hospitals, clinics, evacuation centers, emergency health-service delivery points, etc.) at the soonest possible time and activate the emergency referral system in coordination with the respective HEMB level. 
+
+e. Shall ensure availability of: a) TB care kits for patients, b) TB facility disaster package, c) area or space for TB services, (1) trained staff to provide TB services 
+
+f. Orientation or re-orientation for emergency responders on NTP guidelines in disasters, including those from partner agencies and volunteers whether domestic or foreign shall be provided as needed. 
+
+g.Shall review TB registry or back—up records and trace registered TB patients who are ongoing treatment through a) phone calls or SMS to patients; b) home visits; c) inquiries at health service delivery points; d) review of information from SPEED; e) review of master list of evacuation centers, f) radio announcements; g) review of list of casualties, whichever is applicable. 
+
+h.Shall resume treatment of TB cases following NTP treatment protocol. Manage as shown in the algorithm in DM 013 -- 0397 (See Annex 3) 
+
+i. Shall provide TB diagnostic services to all presumptive TB or refer to diagnostic facilities when feasible A ‘~ 
+
+j. Shall re-establish TB laboratory services by facilitating the availability of microscopes, and Xpert RIF/MTB, and activating the referral system for diagnostic services, including transport of sputum specimens and delivery of results. 
+
+k.Shall observe Infection Control Guidelines in temporary congregate settings by ensuring compliance with cough etiquette, segregating potentially infectious TB patients, ensuring cross ventilation within shelters, and providing personal protective equipment to patients and health workers. 
+
+3. PHASE 3: RECOVERY 
+
+a. In coordination with other offices / agencies, shall review assessment reports and mobilize resources if necessary to ﬁll remaining gaps in human resources, services, systems and supplies, and hasten full recovery. These may include: 
+
+- Replenishment of buffer stock of drugs and laboratory supplies 
+- Training/retraining of staff on TB DOTS 
+- Repair or construction of health facilities, laboratories and warehouses 
+- Replacement of lost or damaged equipment 
+- Reconstruction of NTP records 
+
+b. Shall document lessons learned and disseminate to stakeholders. 
+
+c. Shall recommend measures in terms of ﬁnancing, information management, governance, human resources, technology and service provision to further enhance the TB component in DRRM policies and plans at all levels. 
+
+B. ROLES AND RESPONSIBILITIES 
+
+1. The Department of Health shall be responsible for the dissemination implementation and adoption of these guidelines. Through proper channels and protocols, it shall ensure the inclusion of TB care in the national and local disaster risk reduction and management plans. Pursuant to AO No. 168 5.2004, it shall mobilize its various ofﬁces to do as required and as appropriate during emergencies and disasters. Likewise, it shall solicit and coordinate the assistance of other national government agencies and development partners (including donors, non-government organizations and community—based organizations). Speciﬁcally, the following ofﬁces shall perform these respective responsibilities: 
+
+a. Infectious Disease Office (IDO) — National Center for Disease Prevention and Control (NCDPC) shall: 
+- Develop plans, policies and protocols in NTP implementation during disaster to include the minimum TB service package. 
+- Develop NTP-related emergency management systems - logistics, Early Warning and Response System (EWARS), communication, coordination, etc. — consistent with the overall health emergency management system. 
+- Develop and disseminate appropriate tools for various types of assessments: risk assessment, rapid health assessment, surveillance and monitoring, post-incident evaluation 
+- Provide technical support to regional ofﬁces and local government units during emergencies and disasters. 
+- Provide logistics support to regional ofﬁces and local government units during emergencies and disasters through the Materials Management Division (MMD). 
+- Ensure proper coordination and information sharing with other relevant central office units. 
+- Monitor and evaluate policies and guidelines on TB control in relation to emergencies and disasters. 
+
+b. National TB Reference Laboratory (NTRL) —- Research Institute for Tropical Medicine (RITM) shall:
+
+-Assist the DOH R0 and PHO/CHO assess the TB laboratory capacity of the affected areas and prepare a plan to respond to identiﬁed gaps. 
+-Facilitate the availability and functionality of TB diagnostic services at microscopy centers and Xpert RIF/MTB sites 
+-Provide support to develop and implement a referral system for laboratory and diagnostic examination. 
+-Ensure proper coordination and information sharing with other relevant ofﬁces and partners. 
+-Participate in the monitoring of the affected areas. 
+
+c. DOH Regional Offices (RO) shall: 
+
+-Ensure that prevention and control of TB are integrated in the local DRRM plans and policies. 
+-In coordination with IDO—NCDPC and other relevant ofﬁces, provide technical support to local staff. 
+-Maintain an updated hazard and vulnerability assessment of the catchment areas in coordination with the RDRRMC. 
+-Ensure availability of buffer stock of TB drugs and other supplies at Provincial/City and DOTS facility levels. A 
+-Coordinate with NTRL and LGUs to develop and implement a referral system for laboratory and diagnostic examination. 
+-Ensure proper coordination and information sharing with other relevant offices and partners including data on tracking of TB patients. 
+-Ensure that infection control measures are in place. 
+-Participate in the overall monitoring of the affected areas. 
+
+2. The Provincial/Citnyunicipal Government Units shall: 
+
+a. Prepare their own TB in Disasters management plans in sync with their respective Provincial Disaster Risk Reduction and Management Plans and in coordination with the DOH Regional Ofﬁces. 
+
+b. Conduct the pro-disaster preparedness assessment and post-disaster rapid assessment of TB services. 
+
+c. Ensure implementation of NTP guidelines during the response phase of the disaSter. 
+
+d. Ensure immediate restoration of TB DOTS services in accordance with the policies and guidelines of the NTP-DOH. 
+
+e. Ensure proper coordination and information sharing with other relevant ofﬁces and partners including data on tracking of TB patients. 
+
+f. Collect and submit data to guide the DOH in the provision of assistance. 
+
+g. Monitor the affected areas for status/appropriateness/effectiveness/progress of implementation. 
+
+C. MONITORING AND EVALUATION 
+The effectiveness of interventions done during the three phases of disaster management shall be monitored and evaluated. It should be integrated within the over-all assessment of the health situation of the disaster affected areas and in coordination with different agencies. Different methodologies could be used such as (a) review of reports, (b) monitoring visit and (c) post- incident assessment. 
+
+The initial report shall be submitted within 2 weeks after the disaster and then monthly thereafter. Monthly reports (see Annex 4) containing data for the following indicators shall be submitted until advised by the Regional Ofﬁce. 
+
+1. Process/Output Indicators 
+
+a. No. and Percent of functional DOTS facilities 
+b. No. and Percent of functional PMDT treatment facilities 
+c. Number of temporary DOTS facilities 
+d. No. and Percent of functional microscopy centers 
+e. No. and Percent of functional Xpert RIF/MTB sites 
+
+2. Outcome Indicators 
+
+a. Outcome of tracking of disaster-affected TB patients 
+b. Number of presumptive TB/DR-TB examined 
+c. Number of newly diagnosed TB cases initiated treatment 
+d. Treatment outcome of patients registered prior to and during the disaster. 
+
+D. FUNDING 
+
+Logistics support for the implementation of this Order shall be provided by the NTP, DPCB, HEMB, regional offices thru NTP sub allotment and local government units. 
+
+VII. REPEALING CLAUSE 
+
+This Order hereby amends provision of AO No.168 3.2004 known as the National Policy on Health Emergencies and Disasters Department Memorandum No. 2013-0347 entitled “Guidelines in the Provision of TB services to Post—disaster Areas affected by Super Typhoon Yolanda” and other issuances that are inconsistent with this Order. 
+
+VIII. EFFECTIVITY 
+
+This Order shall take effect immediately. 
+
+</body>
+<sign>JANETTE P. LORETO-GARIN, M.D., MBA-H</sign>
+<signtitle>Secretary of Health</signtitle> 
+
+ 
+  <image>table_1.png</image>
+  <image>table_2.png</image>
+  <image>table_3.png</image>
+  <image>figure_1.png</image>
+  <image>table_4.png</image>
+ 
+
+ 
+ 
+

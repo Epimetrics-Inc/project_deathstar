@@ -1,0 +1,119 @@
+Republic of. the. Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound
+Rizal Avenue, Sta. Cruz
+1003 Manila, Philippines
+Trunk Line 743—83-01
+Direct Line 711-95-02 to 03
+Fax Line 743-18-29
+ 
+<date>04/27/2001</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 11 s. 2001</docnum>
+
+<subject>SUBJECT: Supplemental Guidelines for the Processing of Clearance for Information Technology Materials and Equipment for Repair</subject>
+
+<body>
+
+I. Rationale
+
+It has been observed that difficulties in the payment processing of repaired Information Technology materials and equipment arise because of the lack of explicit procedural guidelines with which to traverse in granting pre- and post-repair inspection clearance. Further, operational delays and the issuance of notice of suspensions/disallowances by the Commission on Audit to seemingly anomalous repairs were ascribed to such mere procedural ﬂaw.
+
+Considering that it is embodied in provision 9.1 of the Administrative Order No. 14-b. s.1997 that two units within the DOH are jointly reSponsible in theprocessing of the said clearance, namely the Management Advisory Service-the precursor of the InformationManagement Service (IMS), and the General Services Division, Administrative Service (GSD-AS), the scope and limitation of the units in their procedural involvement should be clearly defined and established to avoid the said predicament.
+
+II. Objective
+
+This Order is hereby created for the following objectives:
+
+1. To provide supplemental guidelines and procedural ﬂow for the Pre— and Pest—Repair Inspection of IT Materials/Services;
+2. To provide a well defined authority and responsibility for units concerned;
+3. To adhere and implement existing accounting and auditing rules and regulations; and
+4. To pre-empt the occurrence of delays and the iSsuance of Notice of Suspensions/Disallowances.
+
+III. Guidelines
+
+1. All Information Technology equipment for repair shall be subjected. to inspection and testing that shall be jointly conducted by the Information Management Service and the General Services Division before and after their repair. The report emanating from such process shall be noted by the Chief of GSD.
+2. No payment processing shall ensue for repairs done without the appropriate attachment of Pre- and Post repair Inspection Report.
+3. The Chief of the GSD shall act as the ex officio Head of the Inspection Unit for IT materials intended for Outside repair. The staff of GSD and selected technical experts from the IMS shall assist in the Conduct of the inspection and the preparation of the corresponding report.
+
+IV. Specific Unit Responsibilities
+
+A. Information Management Service
+
+1. Receives and logs all request for IT equipment/materials for diagnoses whether the request may be verbal or written for Offices within the DOH Central Office Compound using an appropriate form designed by the same;
+2. Conducts diagnoses of IT equipment at the requesting party’s site if applicable or informs the requesting party to send the IT equipment/material at IMS for diagnoses;
+3. Checks from the list of DOH IT equiﬂpment if the subjeCt material is registered as a DOH property. In case the item is not registered the appropriate Memorandum Receipt (MR) shall be requested from the End User in order to register the same; 
+4. Prepares diagnoses or Pre—repair report indicating therein four conditions-a)the item could be repaired in—house but without available spare parts, b) the item(s) can be repaired and there are available spare parts, c). the item(s) should be repaired through Outside services and d). the item(s) is beyond repair, obsolete or its spare parts are not available in the market or the cost of possible outside repair would exceed the 30% of the item’s current market value and should thus be condemned as prescribed by the appropriate provision in Commission on Audit Memorandum Circular 85-55A. Also, indicated in the said report are items or spare parts that must be replaced, in case the damaged equipment can be repaired but that there are no available spare parts;
+5. In cases where spare parts are available at IMS, the same shall issue the needed spare parts to the End-User, which shall be covered with corresponding Memorandum Receipt;
+6. Forwards the pre-repair report to the end-user for sourcing of materials needed as replacements or for facilitation of outside repair;
+7. Performs in-house repair services for IT equipment/materials as much as possible;
+8. Maintains database of IT procured materials and those subjected to repair;
+9. Informs End-User to pick-up the duly repaired (in—house) IT equipment and the corresponding waste materials together with the post repair report and issues the corresponding MR to cover-the replacement materials sourced from the available stocks in IMS. In case, the, replacement materials are sourced outside of IMS the corresponding Post Repair Inspection Report shall be forwarded to the GSD so that the same shall be noted by its Chief; and
+10. Clears RIVs for IT acquisition and repairs.
+
+B. General Services Division, Administrative Service
+
+1. Invariably receives, logs and notes all Pre-repair inspection report of IT equipment for Outside repair accomplished by the MS. Such pre-inspection reports should be explicitly noted by the Chief of General SerVices Division;
+2. Receives duly approved Requisition and Issue Voucher (RIV) for canvassing from the End-User with the specific kind cf services required and/or the specific materials for procurement with the corresponding quantity;
+3. Prepares the corresponding serialized Job Order for repair services and sends the same to End-User for approval and subsequent release to the responsive Contractor;
+4. Receives and stores waste materials of repaired IT equipment from the End-User and prepares the corresponding Report of Waste Materials;
+5. Sends the original copies of the Pre- and Post-Repair Inspection Reports, Abstract of Canvass, RIVs, Waste Material Report to the End-User as attachments for liquidation processing;
+6. Monitors the status of IT materials being repaired jointly with the end-user;
+7. Maintains a backup copy of all pertinent documents like Pre and Post Repair Inspection Report, Report of Waste Materials, Abstract of Canvass with attachments, Inventory and Inspectinn Report, that may be sought by the End-User or other authorities conduCting audit functions; and
+8. Performs appropriate procedure for items to be condemned/disposed.
+
+C. Finance Service
+
+1. Screens whether vouchers for payment of serVices and material replacements for repaired IT materials are covered with the necessary P1e- and Post-repair inspection reports; and
+2. Books up Report of Waste Materials and other pertinent reports as needed.
+
+D. Procurement and Logistics Service
+
+1. Conducts the purchasing of spare parts required for IT repairs, which can not be covered by cash advances of the different units in the DOH Central Office;
+2. Promptly informs the end~user of spare parts and the MS of the invariable receipt of delivery of the required spare parts procured through PLS;
+3. Jointly conducts inspection of the spare parts together with the representative of the end—user and MS;
+4. Promptly releases duly inspected and accepted goods to the end-user for immediate installation of the spare parts by the IMS, which shall be covered with the corresPonding Requisition and Issue Voucher (RIV) and Memorandum Receipt (MR);
+5. Reports the Receipt and Issuance of the duly accepted goods to the Finance Service using the Monthly Report of Deliveries Received and the Monthly Report of Supplies and Materials Issued;
+6. Issues the appropriate Inspection Form for the spare parts as an attachment for the Disbursement Voucher and the PLS Acceptance Report Form which shall be submitted to the Commission on Audit;
+7. Maintains a database of IT spare parts procured though PLS, that can be easily accessed by the End-User, IMS, FS, COA and others cencerned.
+
+E. End-User
+
+1. Fills the necessary IMS request form for repair of IT Materials;
+2. Approves the RIV with corresponding fund source and endorses the same to the IMS for clearance prior to the conduct of procurement procedures;
+3. Conducts own canvass for IT items that shall be bought through their cash advance or through Procurement and Logistics Service. The suggested list of IT Service Center that' is provided by IMS can be used as a guide;
+4. Monitors procurement of replacement spare parts procured through PLS and retrieves the duly inspected and accepted procured items from PLS for immediate installation by IMS technical experts;
+5. Monitors the procurement of spare parts that are being procured through their Cash Advance and fOrwards the same to the IMS for installation once delivered by the supplier;
+6. Concurs in the post-repair inspection report if the unit repaired and is found acceptable;
+7. Concurs on the IMS acceptance slip if the item repaired in-house is found to be acceptable;
+8. Accomplishes first part of the Inventory and Inspection Report for items to be disposed and forwards the same report to the GSD for further processing;
+9. Signs on the Request for Canvass Form;
+10. Approves Job Order and corresponding Disbursement Voucher;
+11. Accomplishes Acceptance Certificate/Form;
+12. Monitors the status of the equipment being repaired;
+13. Collates back-up copies of all pertinent documents like Pre and Post Repair Inspection Reports, Report of Waste Materials, Abstract of Canvass, Request for Quotations/Canvassfor Post auditing purposes.
+14. Facilitate purchase of Spare parts that can be bought through cash advance
+
+V1. Procedural flow
+
+In order to visualize the foregoing guides to action a schematic ﬂow is herein appended as Annex A.
+
+VI. Effectivity
+
+This Order shall be effective immediately and all specific provisions from previous issuances inconsistent with those prescribed hereon are deemed modified and repealed accordingly.
+
+    
+
+MANUEL M. DAYRIT, MD,
+Secretary of Health
+
+</body>
+<sign>MANUEL M. DAYRIT, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle> 
+
+<image>figure_5.png</image>
+<image>figure_6.png</image>
+<image>figure_7.png</image>
+<image>figure_8.png</image>
+<image>figure_9.png</image>

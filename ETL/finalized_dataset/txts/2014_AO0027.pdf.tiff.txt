@@ -1,0 +1,310 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>11/02/2014</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2014 - 0027 </docnum>
+<subject>SUBJECT: National Poligy on Water Safety Plan (WSP) for All Drinking-Water Service Providers </subject>
+<body>
+
+I. RATIONALE 
+
+Water is a core element of life. Every human being needs water in order to survive and remain healthy. Because of this need, it is proper to provide everyone with access to clean and safe water- In the Philippines, access to clean and safe water is around 82% as reported in the 2011 Field Health Service Information System (FHSIS) of the Department of Health (DOH). In the same annual FHSIS report, around 21% of the total households have access to improved safe water supply thru Level I water systems, while around 13% of the total households depend on Level 11 water systems, and almost half of the households (45%) are dependent of Level III water systems. 
+
+Despite this high coverage of water supply, a lot of Filipinos are still exposed to unsafe water- The current environmental changes and uncontrolled risks due to human activities and natural events are threats to the safe quality of water. Vulnerability to contamination of water supply systems becomes higher due to extreme weather events brought by global warming and climate change and the occurrence of emergencies and disasters- As a result, outbreaks of waterborne diseases in different parts of the country have occurred in the last ten (10) years as reported in the Field Epidemiology Training Programme Outbreak Investigation Reports of the National Epidemiology Center of the DOH- Prominent incidences were the suspect cholera cases outbreak in the whole province of Catanduanes (2012) with 2,321 cases, typhoid fever outbreak in Tuburan, Cebu (2012) with 480 cases, the diarrhea outbreak in Pangasinan Province (2006) that affected more than 12,000 peeple, the diarrhea outbreak in Virac, Catanduanes (2005) with nearly 700 cases and the cholera outbreak in Bataraza, Palawan (2005) which victimized more than 1,400 people. Similar outbreaks of water-home diseases were reported in Maydolong, Eastern Samar (2011) and Sibulan, Negros Oriental (2005). Based on the investigation conducted by the Department of Health on such outbreaks, there were ﬁndings of the presence of contamination at different points of the water systems. With the impact of anthropogenic and environmental factors to water quality and waterborne diseases, the DOH, in accordance with its mandate of being primarily responsible for the formulation, planning, implementation and coordination of policies and programs in the ﬁeld of health, strongly supports the application of a risk management approach, known as water safety plan (W SP), by all water service providers. 
+
+The WSP is a management tool that can be applied in all types of water systems to ensure the safe quality of supplied water. The WSP uses a comprehensive risk assessment and risk management approach encompassing all steps in water supply from water source (catchment) to consumer. The traditional approach of monitori ng water quality at the tap is found to be ineffective because notiﬁcation comes too late whenever there is contamination. Consumers have already ingested the water before an action could be made. WSP can address this gap by ensuring that notiﬁcation will come on time while addressing the risks by appropriate control measures. WSPs objectives are to prevent or minimize contamination of water source, remove contamination thru treatment and prevent re-contamination during storage, distribution and handling of drinking-water. 
+
+
+WSPs are increasingly recognized as a cost-effective, management-oriented, preventive approach 1 to drinking—water safety. Water safety planning has been a key recommendation in the World Health Organization (WHO) Guidelines for Drinking~water Quality (3“ and 4th edition). There are quantiﬁable beneﬁcial effects of WSP on water quality and public health as well as on operation of water utilities (Gunnarsdottir, 2012). Other Asian countries (e.g. Vietnam, Laos, China, Singapore, Bhutan, Bangladesh and Nepal) have started adopting water safety plans. In the Philippines, the WSP approach was introduced by the WHO in 2006 and its scale up is currently supported by WHO and AusAID. 
+
+With the current issues on global warming, climate change, and natural disasters that impact on water quality and health of the Filipino people, an innovative strategy like water safety plan has to be supported by a policy in order that all drinking—water service providers will exert efforts in coming up with the most effective means of dealing with risks that threaten the safe Quality of drinking—water and public health- 
+
+II. POLICY STATENIENT 
+
+The Department of Health hereby declares the development and implementation of Water Safety Plan by all drinking—water service providers as a national policy for drinking-water quality management. 
+
+This policy supports the goals of the following international and local initiatives related to drinking-water supply: 
+
+1. The United Nations General Assembly Resolution AlRESlS 5/2 of 2000 endorsed and affirmed the Millennium Development Goals (MDG) on safe water which states, “to halve the proportion of people who are unable to reach or to afford safe thinking water”. To track the progress of this target, the WHO/UNICEF Joint Monitoring Programme for Water Supply and Sanitation. was established and has been recognized as the official United Nations mechanism for monitoring accomplishments towards the MDG for drinking-water and sanitation, 
+
+2. The United Nations General Assembly Resolution A/64/292 of 2010 recognized the right to safe and clean drinking~water and sanitation as a human right that is essential for the 11111 enjoyment of life and all human rights. It called upon Member States (including the Philippines) and international organizations to provide ﬁnancial resources, capacity— building and technology transfer, through international assistance and cooperation, in particular to developing countries, in order to scale up efforts to provide safe, clean, accessible and affordable drinking water and sanitation for all, 
+
+3. The 64th World Health Assembly Resolution 64.24 of 201 1 urged Member States (including the Philippines) of the World Health Organization to work to strengthen, as necessary, the establishment, implementation and quality control of water safety plans; 
+
+4. The United Nations General Assembly Resolution AlRESl66l288 of 2012 affirmed the Rio +20 Summit declarations which recognized that water is at the core of sustainable development. It highlighted the commitment of Member States (including the Philippines) to the progressive realization of access to safe and affordable drinking-water and basic sanitation for all, 
+
+5. Drinking-water safety concerns are covered by Section 15 of the 1987 Philippine Constitution which stipulates that, “The state shall protect and promote the right to health of the people and instill health consciousness among them”
+
+
+6. The primary function of the Department of Health is the promotion, protection, preservation and restoration of the health of the people through the provision and delivery of health services and through the regulation and encouragement of providers of health goods and services. The Code on Sanitation of the Philippines of 1975 (PD. 856) mandates the DOH to promulgate rules and regulations for the proper implementation and enforcement of the Code, including provisions on drinking—water supply, among others. 
+
+Sections 3a, 3.61 and 9 contain provisions on drinking water safety which states that: “The Department of Health shall have the following powers and functions: 
+
+a. Undertake the promotion and preservation of the health of the people and raise the health standards of individuals and commnni ties throughout the Philippines; 
+
+b. Upgrade the standards of medical practice, the quality of health services and programs to assure the people of better health services; 
+
+c. Standards for drinking water and their bacteriological and chemical examinations, together with the evaluation of results shall conform to the criteria set by the National Drinking Water Standards. The treatment of water to render it safe for drinking and the disinfection of the contaminated water sources together with their distribution systems shall he in accordance with procedures set by the Department of Health. ”; 
+
+7. The Philippine Clean Water Act of 2004 (R- A- 9275, Sec. 22d) designates the DOH as the agency primarily responsible for the promulgation, revision and enforcement of drinking water quality standards; 
+
+8. Pursuant to the Provincial Water Utilities Act of 1973 (PD 198, as amended) and Executive Order No. 124 (1987), the Local Water Utilities Administration (LWUA) exercises regulatory powers over local water districts and Rural Waterworks and Sanitation Associations (RWSA), respectively. LWUA has the power and duty to establish standards for local water districts and RWSA, and adopt rules and regulations for its enforcement, 
+
+9. The 2007 Philippine National Standards for Drinking-Water (DOH AO No. 2007-0012) recognizes the importance of water safety plans and encourages all drinking-water service providers to prepare such plans; and 
+
+10. The Aquino Administration Health Agenda (2010—2016) contains the Universal Health Care (Kalusugang Pangkalahatan) strategy as embodied in Administrative Order No. 2010-0036. It aims to address the gaps and challenges on inequity in health. One of the goals of this strategy is to have better health outcomes through the attainment of health-related MDGs which include safe water and sanitation. 
+
+III. OBJECTIVES 
+
+This Order shall set a national policy to require all drinking-water service providers to develop and implement water safety plan 
+
+Further, this Order shall aim to increase the awareness of stakeholders on WSP approach as a management tool; develop, adopt and implement systems and procedures for WSP; and eventually strengthen the capacity of drinking—water service providers and partners in the development and implementation of WSP. 
+
+ 
+
+ 
+
+IV. SCOPE AND COVERAGE 
+
+This Administrative Order, hereafter referred to as ‘this Order”, shall apply to the development and implementation of WSP by all public and private drinking-water service providers managing or operating the following water supply systems: 
+
+ 
+ <image>table_1.png</image>
+
+
+ 
+V. DEFINITION OF TERMS 
+
+For purposes of this Order, the following terms are deﬁned as follows: 
+
+A. Drinking-water service provider ~— any of the following company, agency or institution in-charge of operating a potable water supply system: 
+
+1. Water District (WD) — a local corporate entity that operates and maintains a water supply system in one or more provincial cities or municipalities. It is classiﬁed as a government-owned and controlled corporation, existing under the authority of The Provincial Water Utilities Act of 1973 (PD. 198, as amended); 
+
+2. Rural Waterworks and Sanitation Association (RWSA) — Cooperative, non—profit, non-stock association operating a rural water supply and sanitation system by virtue ofE.O. 577 (1930), ED. 869 (l 983) and EC). 124 (1937); 
+
+3. Barangay Waterworks and Sanitation Association (BWSA) -- composed of member-consumers who administers, operates and maintains a barangay water supply system. The BWSA is registered with the municipal or city council and formed and organized by virtue of RA. 6716 (1989); 
+
+4. Concessionaire -— a private company with concession or franchise agreement to manage and operate water supply facilities owned by the Metropolitan Waterworks and Sewerage System (MW SS) under RA- 8041 (1995) and E0. 311 (1996), or any similar water supply operator; or 
+
+5. Water service cooperative —- a cooperative duly registered with the Cooperative Development Authority under RA. 9520 (2008) whose main purpose or one of its purposes is to own, Operate, and manage water supply systems for the provision and distribution of potable water to its members and other customers; 
+
+B. Local Drinking Water Quality Monitoring Committee (LDWQMC) - an entity formed at the city or municipal level whose mandate is to monitor the safe quality of drinking- water per Code on Sanitation of the Philippines (PD. 856); 
+
+C. Resource center — any accredited institution which can be a repository of WSP materials and can conduct trainings on water safety plan; 
+
+D. Special Economic Zone (ECOZONE) — a selected area with highly developed or which have the potential to be developed into agro-industrial, industrial, tourist/recreational, commercial, banking, investment and ﬁnancial center. .An ECOZONE may contain any or all of the following enterprises: Industrial Estates, Export Processing Zones, Free Trade Zones and Touristhecreational Centers. Enterprises in an ECOZONE established by virtue of RA. 7916 (1995) as amended by RA. 8748 (1999) are registered and regulated by the Philippine Economic Zone Authority (PEZ A). ECOZONE enterprises formed under the authority of R. A. 7227 (1992) are registered and regulated by the Bases Conversion and Development Authority (BCDA); 
+
+E. Stakeholders —~ institutions, agencies, or group of people that are inﬂuenced by, or may have inﬂuence to, the quality of water source and product water; 
+
+F. Water safety plan (WSP) — the use of a comprehensive risk assessment and risk management approach that encompasses all steps in water supply from catchment to consumer to consistently ensure the safety of drinking water. The following are WSP associated terms: 
+
+1- WSP elements — the major contents of a WSP document include (a) preparation of the WSP Team (b) water supply system assessment (c) operational monitoring ((1) management and communication (e) feedback and improvement- Its template contains 11 steps: (1) Assemble the WSP team; (2) Describe the water supply system; (3) Identify the hazardous events and assess the risk; (4) Determine and validate control measures reassess and prioritize risks; (5) Develop, implement and maintain an improvementfupgrade plan; (6) Deﬁne monitoring of the control measures; (7) Verify the effectiveness of the WSP; (8) Prepare management procedures; (9) Develop supporting programs; (10) Plan and carry out periodic review of the WSP; and (11) Revise the WSP following an incident; 
+
+2. WSP processes — activities in the development and implementation of water safety plan such as preparation, review, assessment, approval, monitoring of implementation, and auditing; 
+
+3. WSP guidelines — a set of standards, rules or regulations issued, in accordance with this Order, by the DOH or a deputized agency to ensure the proper preparation, review, assessment, approval, implementation, monitoring of implementation, and auditing of water safety plans; 
+
+4. WSP assessor —~ a person certiﬁed to review and assess the development and implementation of water safety plan in conformity with WSP guidelines; and 
+
+S. WSP auditor — a person certiﬁed to verify the effectiveness of WSP implementation and its compliance to WSP guidelines; 
+
+G. Water supply Operator — the owner of the facilities of a water supply system; 
+
+H. Water supply system - a combination of different components of a water system from source to consumer classiﬁed as follows: 
+
+1. Bulk Water System — a system of a water service provider extracting water from a source and delivering it to a drinking—water service provider; 
+
+2. Level I (point source) — a protected well or a developed Spring with an outlet but without distribution system, generally adaptable for rural areas where the houses are thinly scattered. A level I facility normally serves around 15 households; 
+
+3. Level II (communal faucet system or stand posts) ~— a system composed of a source, a reservoir, a piped distribution network and communal faucets, generally suitable for rural and urban fringe areas where houses are clustered densely to justify a simple piped system. Usually, one faucet serves 4 to 6 households; 
+
+4. Level III (waterworks system or individual house connections) A a system with source, a reservoir, a piped distribution network and communal faucets, generally suited for densely populated urban areas; 
+
+5. Mobile Water System — use of ambulant water containers by a water service provider in delivering potable water; and 
+
+6. Retail Water System (or Refelling Station) —reﬁlled water being sold and placed in the reﬁlled water container or in customer’s containers in a reﬁlling station. 
+
+ 
+VI. GENERAL GUIDELINES 
+
+A. All drinking-water service providers shall develop water safety plans for their water supply systems within three years after the issuance of this Order and ensure its implementation after its approval; 
+
+B. DOH shall develop standards, systems and procedures to guide water supply operators in the development and implementation of WSPs; 
+
+C. DOH shall allocate funds to support the WSP program. 
+
+VII. SPECIFIC GUIDELINES 
+
+To achieve the objectives of this Order, the following strategies shall be carried out: 
+
+A. Advocacy, partnership and networking 
+
+1. Advocacy 
+
+To disseminate information on the requirements of this Order to key stakeholders such as water supply operators, relevant national government agencies, local government units (LGUs), consumers, academe, and development partners, an advocacy and orientation program for WSP shall be developed by the DOH. The program shall also include advocacy on integrating WSP to existing water supply programs as a requirement by lending institutions in borrowing money for water supply systems; and as part of water supply subject curricula in academic institutions- 
+
+To promote best practices and lessons learned of WSP implementation, all venues of information sharing through conferences, seminars, and forums at international, national or local levels shall be pursued by DOH with key partners; 
+
+2. Partnership 
+
+All potential partners for the institutionalization of WSP shall be engaged by DOH. These shall include the Local Water Utilities Administration (LWUA), the Department of Interior and Local Government (DILG), Department of Environment and Natural Resources (DENR), Department of Science and Technology (DOST), Metropolitan Waterworks and Sewerage System (MWSS), National Water Resources Board (NWRB), Philippine Economic Zone Authority (PEZA), Bases Conversion and Development Authority (BCDA), Local Government Units (LGUs), development partners, professional associations, water industry groups, academic institutions, associations of drinking—water service providers and Non-Government Organizations '(NGO), among others; and 
+
+3. Networking 
+
+A national network on water safety plan involving drinking-water service providers and key partners shall be established by the DOH as a platform for coordination of WSP activities, source of WSP references and a venue for securing technical assistance. To further strengthen the services of the national network, its linkages with local and international institutions shall be established. 
+
+B. Capacity building for WSP processes A program to increase the number and capacity of experts on WSP processes shall be developed by the DOH- This program shall include, among others, training of trainers, mentors and coaches, and training for speciﬁc WSP processes at international, national, regional and local levels. 
+
+Resource centers at national, regional and local levels shall be accredited by DOH as training institutions to serve as repository of WSP references and tools; training materials; research; information, education and communication (IEC) materials; directory of experts; and provider of training activities for WSP. The academe, training institutions, water utilities, professional association, and association of water services with functions on capacity building can apply to DOH as resource centers
+
+C. Development of systems and procedures for WSP processes To ensure the consistent quality of water safety plans as part of regulation, the DOH shall establish standards, systems and procedures for the following: 
+
+1. Development of WSP models per classiﬁcation of water supply systems; 
+
+2. Accreditation of training institutions; 
+
+3. Certiﬁcation of trainers, assessors and auditors; 
+
+4. Preparation of WSP; 
+
+5. Review, assessment and approval of WSP; 
+
+6. Monitoring and evaluation of WSP; 
+
+7. Auditing of WSP; and 
+
+8. Other concerns related to WSP development and implementation such as climate change, gender, and emergency, among others. 
+
+
+D. Research and development A research and development agenda shall be developed and implemented by the DOH to ﬁll information gaps and continually improve the activities for water safety planning. 
+
+VII. INSTITUTIONAL ARRANGEMENTS 
+
+The DOH shall. lead all the activities related to WSP development and implementation and shall establish coordination mechanism with. concerned agencies, institutions and partners for WSP program. 
+
+IX. ROLES AND RESPONSIBLITIES 
+
+A. Department of Health (DOH) shall 
+
+1. Require all drinking- water service providers to submit water safety plans; 
+
+2. Designate, deputize, coordinate or call other agencies that can assist in the implementation of this Order; 
+
+3. Develop tools, standards, and guidelines for WSP processes and support services; 
+
+4. Develop and implement advocacy plan for mainstreaming WSP into all water supply systems; 
+
+5. Accredit and certify institutions and experts for undertaking WSP processes; 
+
+6. Conduct and regulate WSP trainings; 
+
+7. Review, approve and monitor all WSPs; 
+
+8. Stimulate, support and, when appropriate, conduct necessary research on WSP; 
+
+9- Develop project proposals for potential funding support from development 
+
+10. Provide technical assistance to DOH Regional Ofﬁces, LGUs and other key partners- 
+
+B. DOH Regional Ofﬁce shall 
+
+1. Advocate to the local government units (LGUs) for the enactment of ordinances on drinking water safety and for the preparation and implementation of WSP; 
+
+2. Monitor and evaluate the implementation of approved WSP; 
+
+3. Provide technical assistance to LGUs on WSP development and implementation; and 
+
+4. Participate in the review and assessment of draft WSP- 
+
+C. Local Water Utilities Administration (LWUA) shall 
+
+1. Develop guidelines for WSP processes for local water districts and RWSAs in accordance with this Order; 
+
+2. Direct the local water districts and RWSAs to develop and implement WSP; 
+
+3. Extend technical assistance to local water districts and RWSA on the development and implementation of WSP; 
+
+4. Review and recommend approval of draft WSP of local water districts and RWSAs; and 
+
+5. Monitor and evaluate the implementation of WSP of Water Districts and RWSA. 
+
+D. Department of Interior and Local Government (DILG) shall 
+
+1. Conduct advocacy for the institutionalization of WSP and the enactment of LGU ordinances on drinking water safety; and- 
+
+2. Coordinate with Local Drinking Water Quality Monitoring Committee (LDWQMC) the monitoring of the implementation of the WSP for LGU—rnanaged water supply systems. 
+
+E. Department of Environment and Natural Resources (DENR) shall 
+
+1. Enforce regulations on water pollution control in all commercial and industrial establishments that may affect the implementation of water safety plan; 
+
+2. Ensure that information on the latest classification of water bodies per DENR AO No. 34, series of 1990 and its corresponding water quality are available for the use of drinking- water service providers; and 
+
+3. Advocate to LGUs in the Water Quality Management Area ordinances relevant to the protection. of water bodies- 
+
+F. Department of Science and Technology (DOST) shall 
+
+1. Provide available information to water supply stakeholders on the latest technologies on water quality management. 
+
+G. Metropolitan Waterworks and Sewerage System (MW S S) shall 
+
+1. Issue guidelines for WSP development and implementation for concessionaires under its regulation; and 
+
+2. Conduct associated WSP monitoring and auditing. 
+
+H. National Water Resources Board (NWRB) shall 
+
+1. Issue guidelines for WSP development and implementation for drinking—water service providers under its regulation; and  
+
+2. Conduct associated WSP monitoring and auditing- 
+
+ 
+
+I. Philippine Economic Zone Authority (PEZA) and Bases Conversion and Development Authority (BCDA) shall 
+
+1. Direct the drinking-water service providers within their jurisdiction to develop and implement WSP; and 
+
+2. Monitor the implementation of WSP of the drinking water service providers within their jurisdiction. 
+
+1. Local Government Units (LGUs) shall 
+
+1. Advocate and create awareness to the general population and drinking-water service providers on the importance of water safety plan; 
+
+2. Extend assistance to the operators of community—managed water supply systems in the development and implementation of WSP; 
+
+3- Establish and make operational the LDWQMC as required by the Code of Sanitation of the Philippines; 
+
+4. Monitor the WSP implementation of drinking-water service providers thru the LDWQMC; and 
+
+5. Enforce the provisions of the Code on Sanitation and its Implementing Rules and Regulations (RR) on water supply and this Order. 
+
+K- Non Government Organization (NGO) and Civil Society shall 
+
+1. Provide assistance to LGUs in creating awareness on drinking-water safety; and 2. Lobby for the enactment of LGUs ordinances on drinking water safety and water source protection. 
+
+L. Drinking-water service provider shall 
+
+1. Comply with the provisions of this Order and the applicable implementing rules and regulations of the Sanitation Code of the Philippines (PD 856). 
+
+X. REPEALING CLAUSE 
+
+All administrative orders, rules and regulations and administrative issuances or parts thereof inconsistent with the provisions of this Order are hereby repealed or amended accordingly. 
+
+XI. EFFECTIVITY 
+
+This Order shall take effect immediately. 
+
+Approved by: 
+
+</body>
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+
+
+
+ 
+

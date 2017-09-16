@@ -1,0 +1,329 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+2/F Building 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila
+Trunk Line 743-83-01 Direct Line: 711-9501; Fax: 743-1829; 743-1829; 743-1736
+URL: http://www.doh.gov.ph: e-mail: osec@doh.gov.ph
+
+<date>01/10/2005</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2005- 0002</docnum>
+
+<subject>SUBJECT : RULES AND REGULATIONS FOR THE ESTABLISHMENT OF THE PHILIPPINE NATIONAL BLOOD SERVICES AMENDING PERTINENT PROVISIONS OF ADMIN. ORDER NO. 9, S. 1995 (RULES AND REGULATIONS IMPLEMENTING R. A. 7719 OTHERWISE KNOWN AS THE NATIONAL BLOOD SERVICES ACT OF 1994)</subject>
+
+<body>
+SECTION I. RATIONALE
+
+Republic Act 7719 otherwise known as the "National Blood Services Act of 1994" provides that the following are policies of the state:
+
+"a) To promote and encourage voluntary blood donation by the citizenry.
+b) To provide for adequate, safe, affordable and equitable distribution of blood and blood products;
+c) To mandate the Department of Health to establish and organize a National Blood Transfusion Network in order to rationalize and improve the promotion of adequate and safe supply of blood;"
+
+Pursuant to Section 5. National Voluntary Services Program (NVBSP), of RA 7719, the Department of Health, in cooperation. with the PNRC and PBCC and other agencies and organizations have planned and implemented a NVBSP to meet in an evolutionary manner, the needs for blood transfusion in all regions of the country. One of the goals of the NVBSP Strategic Plan for 2004-2008 is: "2. Strengthening of a nationally coordinated network of Blood Service Facilities to increase efficiency by Centralized Testing and Blood Component Processing as well as improved blood collection and distribution systems."
+
+The Centralization of collection, testing and processing of blood and its components is a global strategy advocated by the WHO in the provision of an adequate supply of safe blood. The high volume of activities, especially in testing and processing of blood promotes efficiency and competency, thus ensuring the quality of the blood products. Furthermore, the high volume blood banking procedures make automation cost-effective and can take advantage of discounts in the bulk purchasing of reagents, glassware and supplies.
+
+These Rules and Regulations are promulgated for the establishment of the Philippine National Blood Services (PNBS) pursuant to Section 5. National Voluntary Services Program and Section 6. Upgrading of Services and Facilities, of RA 7719 and amending pertinent provisions of Administrative Order No. 9, s. 1995 entitled the "Rules and Regulations Implementing Republic Act No. 7719 otherwise known as the National Blood Services Act of 1994" specifically the following sections:
+
+Section 4. Definition of Terms
+Section 5. National Program Committee
+Section 6. Field Representative of National Committee
+Section 7. DOH Program Management
+Section 8. Program Funding
+Section 12. Establishment of Blood Services Network
+Section 14. Monitoring and Evaluation Sub-Committee
+Section 15. DOH Regional Hospitals and Medical Centers
+Section 16. Provincial and District Hospitals
+Section 17. Blood Banks/Centers with Special Functions
+Section 25. Operation and Maintenance of Blood Service Facilities
+Section 35. Allowable Service Fees
+Section 38. Standard Operating Manual
+Section 39. Quality Assurance Officer
+Section 40. Confirmation of Voluntary Donors
+Section 41. Emergency Blood Transfusion
+Section 42. Certification of Importation Privileges
+Section 43. Equipment and Materials Covered
+Section 44. Application for Tax Exemption.
+
+Section II. SCOPE/COVERAGE
+
+These Rules and Regulations shall cover all facilities, both government and private, all over the country that provide blood services.
+
+SECTION III. DEFINITION OF TERMS
+
+A. BLOOD SERVICE, FACILITY (BSF) - a unit, agency or institution providing blood products. The types of BSF, i.e., Blood Station, Blood Collection Unit, Hospital Blood Bank and Blood Center (Regional, Subnational and National) are defined below.
+
+B. BLOOD STATION (BS) - a blood service facility duly authorized by the Department of Health (DOH) Center for Health Development (CHD) pursuant to A.O. 101-A s. 2003 with the following service capabilities:
+
+1. Provision of whole blood and packed red cells;
+2. Storage, issuance of whole blood and packed red cells;
+3. Compatibility testing of red cell units, if hospital-based.
+
+C. BLOOD COLLECTION UNIT (BCU) - a blood service facility duly authorized by the DOH CHD pursuant to A.O. 101-A s. 2003 with the following service capabilities:
+
+1. Recruitment and retention of voluntary blood donors;
+2. Screening and selection of qualified voluntary blood donors;
+3. Conduct of health education and counseling services;
+4. Collection of blood from qualified voluntary blood donors;
+5. Transport of blood units collected to blood center for testing, processing and distribution to hospitals and other health facilities.
+
+D. APHERESIS FACILITY - a blood service facility where blood collection procedure is done in which whole blood is removed, a selected component separated and the remainder returned to the donor.
+
+E. HOSPITAL BLOOD BANK - a blood service facility in a hospital duly licensed by the DOH Bureau of Health Facilities and Services (BHFS) with the following service capabilities:
+
+1. Storage of whole blood & blood components obtained from a blood center or another hospital
+2. Compatibility testing of red cell units
+3. Direct Coombs Test
+4. Red cell antibody screening
+5. Investigation of transfusion reactions
+6. Assist the Hospital Blood Transfusion Committee (HBTC) in the conduct of post-transfusion surveillance (hemovigilance)
+
+F. BLOOD CENTER - a blood service facility licensed by the DOH BHFS with the following service capabilities:
+
+1. Donor recruitment/retention and care of voluntary blood donors,
+2. Collection of blood (mobile or facility-based) from qualified voluntary blood donors,
+3. Processing and provision of blood components
+4. Storage, issuance, transport and distribution of units of whole blood and/or blood products to hospitals and other health facilities.
+5. For National and Subnational and selected Regional Blood Centers only: testing of units of blood for 5 infectious disease markers (Anti- HIV 1/2, Anti-HCV, HBsAg, Syphilis, Malaria)
+
+The Blood Centers shall be classified into Regional, Subnational and National whose service capabilities will be determined by the National Council for Blood Services (NCBS).
+
+G. END-USER HOSPITAL (EU) - a hospital with a licensed clinical laboratory capable of red cell typing and cross-matching and which does not have any blood service facility but which only receives blood and blood components for blood transfusion as needed.
+
+H. END-USER NON-HOSPITAL HEALTH FACILITY - a licensed/accredited non-hospital health facility without a licensed clinical laboratory but which administers blood-transfusion.
+
+I. BLOOD SERVICES NETWORK - an informal organization composed of the designated blood centers and hospital blood banks, blood stations and end-user hospitals established to provide for the blood needs of a specific geographical area.
+
+Section IV. STRUCTURAL ORGANIZATION AND MANAGEMENT OF THE PHILIPPINE NATIONAL BLOOD SERVICES
+
+A. The Blood Services Network shall consist of:
+
+1. National Council for Blood Services and its various committees
+2. Philippine National Blood Services (National, Subnational & Regional Blood Centers)
+3. Authorized Blood Collection Units and Apheresis Facilities
+4. Hospital Blood Banks and Blood Stations, both government and private
+5. End-User Hospitals and Non-Hospital Health Facilities, both government and private
+6. National Reference Laboratories for Immunology and Immunohematology
+
+B. National Council for Blood Services
+
+1. The National Council for Blood Services shall be the governing body of the Philippine National Blood Services.
+
+2. Composition:
+
+The National Council for Blood Services shall be chaired by the Secretary of Health. It shall be composed of, but not limited to the Heads or Representatives of the following Offices and Associations subject to qualifications:
+
+2.1 Philippine National Red Cross
+2.2 Philippine Blood Coordinating Council
+2.3 Philippine Society of Pathologists
+2.4 Philippine Society of Hematology & Blood Transfusion
+2.5 Director (or Chief Executive Officer) of the Philippine Blood Center
+
+3. The National Council for Blood Services shall establish the following Committees; the functions of which shall be defined in a separate administrative issuance:
+
+3.1 Executive Committee
+3.2 Technical Committee
+3.3 Committee on Public Education and Advocacy
+3.4 Committee on Professional Education
+3.5 Committee on Curriculum Development
+3.6 Committee on Finance
+3.7 Committee on Information Technology
+3.8 Other Committees to be created as necessary
+
+**Annex A: Organizational Structure
+
+4. The National Council for Blood Services shall establish a Secretariat composed of staff from either the Philippine Blood Center or the DOH National Center for Health Facility Development (NCHFD).
+
+5. The National Council for Blood Services shall meet at least quarterly or as necessary depending upon the discretion of the chairperson. Non-DOH members shall be entitled to per diems for meetings attended.
+
+6. Functions of the National Council for Blood Services:
+
+6.1 Approval of Policies governing the operation of the Philippine National Blood Services and the utilization of blood products by hospitals and other health services;
+
+6.2 Approval of the Standards, Standard Operating Procedures and Guidelines for the Recruitment of Donors, Collection, Transport, Testing & Processing of Blood, Issuance and Administration of Blood Components and Monitoring of Blood Transfusion Practices;
+
+6.3 Approval of Directional/Strategic Plan of the National Voluntary Blood Services Program (NVBSP) from time to time;
+
+6.4 Approval of allocation of finds and monitoring of fund utilization;
+
+6.5 Develop the capabilities of the Philippines National Blood Services and Blood Services Network as the need arises;
+
+6.6 Creation of other standing and special committees as appropriate; 
+
+6.7 Approval of certification of importation privileges.
+
+C. The Philippine National Blood Services (PNBS) shall operate under the supervision of National Council for Blood Services (NCBS). Under the PNBS are the following Blood Centers:
+
+1. Philippine Blood Center in Metro Manila, shall be designated by the National Council for Blood Services.
+
+1.1 The functions of the Philippine Blood Center are:
+
+a. Recruitment, retention and care of voluntary blood donors,
+b. Collection of blood (whole blood or component) from qualified voluntary blood donors,
+c. Testing of units of blood for infectious disease markers (HIV1/2-Ab, HBsAg, HCVAb, Syphilis reagin, & Malarial parasites).
+d. Processing of whole blood into blood components.
+e. Pheresis of blood components
+f. Storage, issuance, transport and distribution of whole blood & blood components to end-user hospitals and non-hospital health facilities;
+g. Quality Assurance of Sub-national Blood Centers and selected Regional Blood Centers
+h. Conduct of Training and Research
+i. Performance of special confirmatory and reference immuno-hematologic examinations such as:
+
+- Resolution of incompatible red cell crossmatches
+- Identification of red cell alloantibodies and autoantibodies
+- Phenotyping of patients and donors
+- Provision of antigen-negative red cell units
+
+j. Manufacture and provision of Typing Sera and Panel of reagent red cells
+k. Preparation of special plasma derivatives.
+l. Ensure that safe supply of blood and blood products to all hospitals and other health facilities are adequate in terms of distribution and delivery.
+m. Other functions as may be assigned by the National Council for Blood Services (NCBS).
+
+2. Subnational and Regional Blood Centers forLuzon, Visayas and Mindanao
+
+2.1 The functions are:
+
+a. Recruitment, retention and care of voluntary blood donors,
+b. Collection of blood from qualified voluntary blood donors,
+c. Testing of units of blood for infectious disease markers (HIV1/2-Ab,HBsAg, HCVAb, Syphilis reagin, & Malarial parasites) for Subnational Blood Centers and selected Regional Blood Centers.
+d. Processing of whole blood into blood components.
+e. Pheresis of blood components
+f. Storage, issuance, transport and distribution of whole blood & blood components;
+g. Quality Assurance and supervision by Sub-national Blood Centers of Regional Blood Centers according to specific geographical areas.
+h. Conduct of Training and Research
+i. Performance of Special confirmatory and reference immuno-hematologic examinations such as: (Subnational & selected Regional Blood Centers)
+
+- Resolution of incompatible red cell crossmatches.
+- Identification of red cell alloantibodies and autoantibodies
+- Phenotyping of patients and donors
+- Provision of antigen-negative red cell units
+
+j. Ensure that safe supply of blood and blood products to all hospitals and other health facilities are adequate in terms of distribution and delivery.
+
+2.2 Develop other capabilities as the need arises, in the respective regions based on the evaluation of the National Council for Blood Services.
+
+3. Authorized Blood Collection Units and Apheresis Facilities
+
+3.1. Every Authorized Blood Collection Unit and Apheresis Facility shall be under the supervision of the National, a Subnational or Regional Blood Center.
+
+3.2. The functions of Authorized Blood Collection Units and Apheresis Facilities are as follows:
+
+3.2.1. Recruitment, retention and care of voluntary blood donors
+3.2.2. Screening and selection of qualified voluntary blood donors.
+3.2.3. Conduct of health education and counseling services.
+3.2.4. Collection of whole blood or components from qualified voluntary blood donors.
+3.2.5. Transport of units of blood to the Blood Center for testing and processing
+
+4. Hospitals
+
+4.1. Depending on the size and complexity of services provided, Hospitals shall establish one of the following:
+
+5.1.1. Hospital Blood Bank
+5.1.2. Hospital Blood Station
+5.1.3. End-User Hospital
+
+4.2. Their service capabilities are set forth in the Definition of terms.
+
+4.3. Each hospital shall establish and maintain a proper audit and inventory system of blood and blood products to ensure adequate, safe supply of blood including emergencies to patients.
+
+5. End-User non-Hospital Health Facilities
+
+5.1. End-User Licensed/Accredited Non-Hospital Health Facilities include renal dialysis centers, ambulatory surgical clinics, birthing centers which provide transfusion of blood or blood components
+
+5.2. Each health facility shall establish and maintain a proper audit and inventory system of blood and blood products to ensure adequate, safe supply of blood to patients.
+
+6. National Reference Laboratories (NRL) for Immunology and Immunohematology consistent with the provisions of Department Order 301-1 s. 1999.
+
+6.1. The NRL for Immunology for the confirmatory testing of blood donors and blood units shall be at the Research Institute for Tropical Medicine (RITM) while the NRL for Immunohematology shall be at the National Kidney and Transplant Institute (NKTI).
+
+6.2.The NCBS has the authority to transfer or change the designation of health facilities as the National Reference Laboratories for Immunohematology and for Immunology for the confirmatory testing of blood donors and blood units as need arises.
+
+D. Funding Provisions
+
+1. The National Council for Blood Services shall be supported by funds from:
+
+1.1. Main Source:
+1.1.1. Budgetary allocation from the National Government
+1.1.2. National Government Financing Agencies Philippine Charity Sweepstakes Office (PCSO), Philippine Amusement and Gaming Corporation (PAGCOR).
+1.1.3. Reimbursement from Philippine Health Insurance Corporation (PhilHealth) directly or through the Hospitals
+1.1.4. Blood Service Fees from Government and Private Hospitals for units of blood provided and for services rendered.
+
+1.2. Collaborative support:
+1.2.1. National Donor Agencies and Foundations
+1.2.2. International Development and Donor Organizations
+1.2.3. Contributions from Local Government Units
+
+2. A trust fund shall be established for the National Voluntary Blood Services Program and the operations of the Philippine National Blood Services out of the blood service fees, donations and revenues generated by the blood service facilities.
+
+3. The Department of Health shall allocate an annual budget for personnel, capital outlay, infrastructure, maintenance, operating and other expenses to be used for the implementation of the National Voluntary Blood Services Program and the operations of the Philippine National Blood Services.
+
+4. The National Council for Blood Services shall work out a plan for the continued funding and material support from the National Government and National Government Financing Agencies like PCSO and PAGCOR. Likewise, the NCBS shall work out a plan for finding from National Donor Agencies/Foundations and International Development and Donor Organizations.
+
+5 The Blood Centers, i.e., National, Subnational and Regional Blood Centers shall be paid service fees for. blood products and services to reimburse the actual cost of providing the blood products and services. A Memorandum of Agreement (MOA) shall be signed between the Blood Centers and the hospitals/health facilities.
+
+6. The Philippine Health Insurance Corporation (PhilHealth) shall reimburse the PBC, Subnational and Regional Blood Centers for services and blood products provided by them. PhilHealth reimbursement for blood transfusion expenses to hospitals/patients shall be based on the following criteria:
+
+6.1 Blood unit is collected from a voluntary blood donor only;
+6.2 Blood unit is tested at the Philippine Blood Center, Subnational Blood Centers and selected Regional Blood Centers only;
+6.3 Blood unit is transfused in accordance with the indications for rational blood use.
+
+Section V. GENERAL GUIDELINES
+
+1. Voluntary blood donations, Mobile and health facility-based, shall be aggressively promoted. Blood shall be collected from qualified healthy voluntary blood donors only.
+
+2. The PNBS shall ensure the availability of quality health care to its clients through the establishment of appropriate capabilities and competencies in their respective units.
+
+3. All units of blood issued by the Philippine Blood Center, Sub-national Blood Centers and Regional Blood Centers under the Philippine National Blood, Services Network, need not be retested for Transfusion-Transmitted infections (TTIs) by the hospitals (government or private) and other health facilities. It is the responsibility of the issuing blood centers to ensure that all units of blood issued have been tested and found to be negative for TTIs. However, in the event that retesting of blood is deemed warranted by the attending physician, said tests shall be performed using the reagents as recommended by the NVBSP Technical Committee and charged corresponding laboratory fees.
+
+4. Hospitals and other Health Facilities shall only use blood and blood products for transfusion to patients from licensed and authorized blood centers.
+
+Section VI: OPERATIONALIZATION AND MANAGEMENT OF PHILIPPINE NATIONAL BLOOD SERVICES
+
+1. Personnel/staffing
+
+1.1 The Organizational Structure and Staffing of the Philippine Blood Center (Metro Manila), Subnational and Regional Blood Centers (for Luzon, Visayas and Mindanao) shall be created and approved by the NCBS.
+1.2 NVBSP personnel may be reassigned to the National and Subnational Blood Centers, and if necessary, to selected Regional Blood Centers.
+1.3 New personnel shall be hired as needed.
+
+2. Procurement/Equipment
+
+2.1 NVBSP-procured equipment and vehicles shall be centralized in the National, Subnational and Regional Blood Centers
+2.2 A Bids and Awards Committee (BAC) of the Philippine Blood Center shall be created whose composition and functions shall follow the existing Procurement Law.
+2.3 The Philippine Blood Center, in consultation with the Department of Finance. and Bureau of Customs, shall prepare the detailed list of equipment, blood bags and reagents and complete specifications as necessary, which may be allowed to be imported tax- and duty-free under the provisions of RA 7719. The list shall be modified by the Philippine Blood Center periodically as necessary. This list together with the application for exemption from customs, duties and taxes shall be filed with the Revenue Office, Department of Finance, Manila by authorized participants who can avail of this privilege.
+
+Section VII. SEPARABILITY CLAUSE
+
+Should any of the provisions herein be declared invalid or unconstitutional by an appropriate authority or court of law, the same shall not affect the validity of other provisions unless otherwise so specified.
+
+Section VII. EFFECTIVITY.
+
+These Rules and Regulations shall take infect immediately. All other orders and issuances inconsistent with these Rules and Regulations including but not limited to the following provisions of Administrative Order No. 9, s.1995 entitled the "Rules and Regulations Implementing Republic Act No. 7719 otherwise known as the National Blood Services Act of 1994", specifically the following sections:
+
+Section 4. Definition of Terms
+Section 5. National Program Committee
+Section 6. Field Representative of National Committee
+Section 7. DOH Program Management
+Section 8. Program Funding
+Section 12. Establishment of Blood Services Network
+Section 14. Monitoring and Evaluation Sub-Committee
+Section 15. DOH Regional Hospitals and Medical Centers
+Section 16. Provincial and District Hospitals
+Section 17. Blood BanksJCenters with Special Functions
+Section 25. Operation and Maintenance of Blood Service Facilities
+Section 35. Allowable Service Fees
+Section 38. Standard Operating Manual
+Section 39. Quality Assurance Officer
+Section 40. Confirmation of Voluntary Donors
+Section 41. Emergency Blood Transfusion
+Section 42. Certification of Importation Privileges
+Section 43. Equipment and Materials Covered
+Section 44. Application for Tax Exemption
+
+are hereby rescinded, repealed and modified accordingly.
+</body>
+
+<sign>MANUEL M. DAYRIT, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<image>figure_1.png</image>

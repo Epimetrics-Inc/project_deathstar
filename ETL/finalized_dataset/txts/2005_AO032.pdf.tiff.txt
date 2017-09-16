@@ -1,0 +1,420 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+2/F Building 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila
+Trunk Line 743-83-01 Direct Line: 711-9501; Fax: 743-1829; 743-1829; 743-1786
+URL: http://www.doh.gov.ph: e-mail: osec©doh.gov.ph
+
+<date>11/18/2005</date>
+
+<doctype>Administrative Order</doctype>
+<docnum>No. 2005 - 0032</docnum>
+
+<subject>SUBJECT: Guidelines on Quality Assurance Program (QAP) for all HIV Testing Laboratories</subject>
+
+<body>
+
+I. RATIONALE/ BACKGROUND:
+
+HIV/AIDS is one of the diseases that have to be combated as reflected in the Millennium Development Goal, proposed issuance attuned to the said international commitment. This is also being addressed in the Medium Term Development Plan and the national directions/thrust. To sustain this goal, HIV testing laboratories have to be standardized to maintain quality results for proper diagnosis of HIV/AIDS. The STD/AIDS Cooperative Central Laboratories/ San Lazaro Hospital (SACCL) was designated as the National Reference Laboratory (NRL) for HIV/AIDS, Hepatitis and STIs. Pursuant to the Department Order no. 393-E s.2000 of the Department of Health, the functions of the NRL-SACCL/SLH are the following: to maintain Quality Assurance Program (QAP) for laboratory tests - in coordination with the Bureau of Health Facilities and Services, Department of Health (DOH); to provide laboratory referrals services, e.g. for confirmatory testing, surveillance, research; to train laboratory personnel; and to evaluate kits and reagents in coordination with the Bureau of Food and Drugs (BFAD) and the Bureau of Health Devices and Technology (BHDT), DOH. The NRL-SACCL/SLH has fully developed their service capabilities including QAP for HIV, Hepatitis B, Hepatitis C and other Sexually Transmitted Infections. NRL-SACCL/SLH is responsible for all referrals from private and government laboratories for confirmatory tests and for resolution of discrepant and conflicting HIV test results.
+
+The Quality Assurance Program (QAP) guarantees the accuracy of the final results reported by a laboratory. It involves proper training of laboratory personnel in handling specimens, reviewing transcriptional measures, verifying final results, and using most reliable assays. The External Quality Assessment Scheme (EQAS) is established to evaluate the effectiveness of the GAP. EQAS is an external evaluation of a laboratory’s performance using a proficiency panels. Failure of the HIV testing center to obtain satisfactory rating indicates deficiencies with the Quality Assurance/ Quality Control (QA/QC) procedures in the laboratory.
+
+All HIV testing laboratories need to be fully established and monitored through the QAP to assess, and improve the quality of testing and performance of these laboratories.
+
+II. STATEMENT OF POLICY
+
+It is the policy of the DOH to initiate health reforms to ensure quality health services. NRL-SACCL/SLH is responsible in the establishment of a QAP in support to the Bureau of Health Facilities and Services (BHFS) requirements in order to upgrade, assess and monitor the quality of performance of all HIV testing laboratories.
+
+III. SCOPE
+
+These guidelines shall apply to all HIV testing laboratories.
+
+IV. OBJECTIVES:
+
+1. To establish and promote Quality Assurance Program for all HIV testing laboratories.
+2. To provide training for medical technologists performing HIV testing.
+3. To strengthen coordination thru networking among HIV testing laboratories.
+
+V. DEFINITION OF TERMS
+
+Quality Assurance - an overall program that ensures that the final results reported by the laboratory are correct as accurate as possible.
+
+Quality Assessment - is a means to determine the quality of results. It is usually an external evaluation of a laboratory's performance that relies on incorporating proficiency panels of well-characterized sera into the testing routine. It challenges the effectiveness of the quality assurance program.
+
+External Quality Assessment (EQAs) Panels u a set of serum samples that is used to validate the performance of laboratories which are sent in support of the external proficiency program designed to determine the ability of the laboratories to accurately test samples and report results.
+
+External Quality Assessment Scheme (EQAS) - an external evaluation of a laboratory's performance using proficiency panels and assessed by the National Reference Laboratory for HIV/AIDS, Hepatitis and STIs . Failure of the HIV testing center to obtain satisfactory rating indicates deficiencies with the Quality Assurance/ Quality Control (QA/QC) procedures in the laboratory. Further, failure to participate in an authorized EQAs shall be grounds for suspension, non-renewal or revocation of the HIV accreditation of the laboratory.
+
+EQAS Participants - laboratories participating in the External Quality Assessment Scheme conducted by the NRL-SACCL/SLH.
+
+Training Participants - medical technologists who are undergoing HIV proficiency training either for initial HIV accreditation or renewal of HIV proficiency licenses.
+
+Proficiency Certificate - refers to the citation received by the medical technologist after they have undergone initial and renewal of HIV proficiency training.
+
+Certificate of Qualification - refers to the certification issued after the clinical laboratory has achieved satisfactory results in EQAS.
+
+Certificate of Participation - refers to the certification issued after the clinical laboratory has participated in EQAS.
+
+VI. QUALITY ASSURANCE GUIDELINES
+
+A. Requirements for Quality Results
+
+A.1. Recording
+
+A.1.1. Record keeping. An efficient HIV laboratory shall be able to monitor the records of specimens from the time the samples are received until the time the results are released. Appropriate logbooks are essential step in recording. It must be kept confidential and must include the following:
+
+a. Name and/or specimen identification
+b. Address or source of specimen
+c. The date of sample collection
+d. The name of requesting physician
+e. The specific test required
+f. Adequacy of samples received
+
+A.1.2. Worksheets. This serves as a work map for each test run. This should be filled up before the test is performed and must be kept for a permanent record. The results after each test run should be reflected in the worksheets and should also contain the following:
+
+a. Kit lot number
+b. Expiration date
+c. Date of performance
+d. Medical technologists initial
+e. Supervisor's signature
+
+A.1.3. Daily log sheets. This includes the daily records of temperature of water baths, incubators, refrigerators and freezers or any documents to show that the operating conditions of these equipment are maintained appropriately.
+
+A.1.4. Reviewing of transcriptional measures
+
+Transcriptional or clerical error includes mistakes made during the transfer of information from the test readout to the worksheet, and from the worksheet to the computer or report form. System must be developed to re-check results in each of these steps. The following mechanism shall be observed:
+
+a. Have a second proficient medical technologist read the results from the instrument/ worksheet/ computer to another technologist who will check the final result; and/or
+b. Have a supervisor check all results at the end of the day, before releasing the results of the laboratory.
+
+A.2. Testing
+
+A.2.1. Testing algorithm for HIV testing
+
+All HIV testing laboratories must establish their own testing algorithm patterned on the NRL-SACCL/SLH algorithm depending on the service capability they have. The NRL-SACCL/SLH testing algorithm is indicated in Annex 1 for both screening and confirmatory tests. This will serve as a guide for the laboratory personnel in the proper interpretation and management of HIV diagnosis.
+
+A.2.2. Verification of true positive and true negative
+
+For samples found to be "reactive" by screening test, an aliquot from the initial specimen should be retested. Whenever possible, a second specimen should be collected from the individual and be retested. These specimen can be retested using an assay based on an alternative principle, or supplemental test.
+
+Samples are labeled as "reactive" when results show such by screening methods. These are labeled "POSITIVE" only after verifying the result through testing with a confirmatory assay.
+
+Repeatedly reactive results by a screening assay supported by a positive confirmatory assay are sufficient to verify positivity. However, any confirmatory-assays performed shall be validated by the NRL-SACCL/SLH using the same and/or other confirmatory assays before the final result is released Annex 2. Laboratories other than NRL can perform confirmatory test only if deputized by the Philippine National AIDS Council upon recommendation of NRL-SACCL/SLH.
+
+Verification of negative results is also important in screening blood for transfusion. A representative sample (10%) of initially nonreactive specimens may be retested by the National Reference Laboratory -RITM for confirmatory testing of blood donors and blood units.
+
+A.2.3. Parallel testing of resubmitted specimen
+
+Parallel testing should be done on specimen which yielded indeterminate results. The first specimen must be withheld until the resubmitted specimen is received some time later, and then, both specimens are retested in parallel during the same run, observing changes in reactivity. Specimens with indeterminate results shall be retested and validated by the NRL-SACCL/SLH for verification and confirmation prior to the release of the final results.
+
+A.3. Requirements for Reporting of Results
+
+Handling of results must be controlled in order to maintain confidentiality and the rights of the tested individual upheld. Positive HIV test results are reported to the submitting physician, who in turn will recommend further appropriate counseling of the tested individual. A policy decision on the handling and reporting of results must be enforced according to Sec 43 of the IRR of RA 8504.
+
+In the HIV diagnostic system, causes of incorrect and misleading reports are the following:
+a. Reporting of reactive screening assay results without confirmatory testing;
+b. Use of obsolete western blot interpretive criteria;
+c. Reporting "HIV ANTIBODY POSITIVE" or the like without specifying the method/s used in the assay.
+
+Indeterminate result shall be reported with care indicating the importance of resubmission of follow-up specimen to ensure that the clinician understands the significance of such results. Results should be clearly indicated on the report form and should provide comments as necessary.
+
+Referral of reactive samples must indicate the following information to NRL-SACCL/SLH:
+
+a. Name/ Laboratory code of patient
+b. Age/sex
+c. Date of specimen received
+d. Address
+e. Requesting physician
+f. Screening Assay results (name of kit & lot number used, COV and patients Absorbance for EIA)
+g. Remarks and comments
+h. Signature of the proficient medical technologist
+i. Signature of the pathologist
+
+Reporting of confirmatory results and/or validation of test results must indicate the following information:
+
+a. Name/ Laboratory code of patient
+b. Age/sex
+c. Date of specimen received
+d. Address or source of specimen
+e Requesting physician
+f. Screening Assay results (name of kit & lot number used, COV and patients Absorbance for EIA)
+g. Confirmatory Assay results (name of kit & lot number used, bands present and/or of reactivity of IF results, if any)
+h. Remarks and comments
+i. Signature of the proficient medical technologist
+j. Signature of the pathologist
+
+A.4. Storage of reactive and indeterminate specimen for follow-up testing
+
+Reactive serum specimen must be stored in -20 C for follow-up testing containing a minimum of 500 ul volume, and placed in a plastic screw capped vial. A log book containing all the pertinent information should be capable of identifying stored samples. To preserve the integrity of samples, aliquot into several vials is recommended. This avoids repeat freeze thawing.
+
+Stored serum specimen must be labeled property using water proof fine point marking pens.
+
+A.5. Specimen transport for referrals to NRL-SACCL/SLH
+
+Reactive specimen subject for confirmatory and/or validation of test results must be submitted and transported with care. The specimen must be packed with the following instruction indicated in Annex 3 to ensure the safety of the personnel handling the specimen during transport. A written communication must be attached independently outside the package where the serum specimen are kept. It is appropriate to declare that the samples are potentially infectious and written clearly in the package. Transport of specimen by air freight should follow the aircraft's rules and regulations.
+
+B. Standard Operating Procedure (SOP).
+
+Standard Operating Procedures (SOPs) should be adhered to in the laboratory at all times. It includes the detailed protocols, principles and explanations of all the procedures performed within the laboratory. The laboratory manager shall monitor the performance of the proficient medical technologists to ensure that the SOPs are being followed. Package inserts can be used as a reference but not as substitute for the SOPs.
+
+C. Monitoring of Laboratory Personnel
+
+Known samples (or samples already tested) must be provided by the laboratory manager to monitor the performance of the proficient medical technologists. These known samples are resubmitted discreetly along with the routine workload. The proficient medical technologist should not be aware when these samples are submitted to prevent preferential treatment.
+
+D. QUALITY CONTROL (QC)
+
+D.1. Internal Controls.
+
+The internal controls provided inside the test kit shall be used only with the lot number of the corresponding test kit during the assay. A full set of controls recommended with the manufacturer's instructions must be included in every test run. Validity of test runs must be observed based on the criteria of the test kit performance. Results of the controls that are out of range invalidates the entire test and repeat test. In such instances, repeat test runs are needed.
+
+D.2. External Controls.
+
+These should be included on each HIV test run to monitor consistent performance, lot-to-lot variation between kits and to serve as an indicator of assay performance on samples that are borderline reactors.
+
+D.2.1. Criteria for external controls:
+
+a. Strong known positive and negative samples (pooled from daily samples or from kit controls) which are properly filtered with 0.8 um filter or inactivated at 56 C for 30 mins.;
+b. Borderline reactor (near the cut-off 0.0.) which has the ability to determine out of range samples.
+
+Any tests that are rejected due to out-of-range control values may likely be attributed to true systematic error. However, if a dramatic shift is noted in the external control value when changing lot numbers, the manufacturer should be notified to resolve the problem. A second external control can be run in parallel to determine if the change is significant enough to affect both external controls.
+
+E. PREVENTIVE MAINTENANCE AND CALIBRATION
+
+Individualized maintenance schedules should be set up for each laboratory depending on the equipment utilized. Preventive maintenance schedules should be included in the operating instructions of laboratory instruments for use of ELISA readers and washers. Maintenance and calibration procedures should be done regularly for optimal performance of equipment. Performance of scheduled maintenance activities should be documented for future reference.
+
+VII. GUIDELINES 0N EXTERNAL QUALITY ASSESSEMENT SCHEME (EQAS)
+
+It is an external evaluation of laboratory performance that relies on incorporating proficiency panels of well characterized sera into the testing routine. The NRL-SACCL/SLH shall conduct external quality assessment to all accredited HIV testing laboratories once a year to determine the quality of results delivered.
+
+External quality assurance shall be diligently practiced to be able to meet the need and expectations of the medical community by producing highly reliable results. The NRL-SACCL/SLH shall conduct the External Quality Assessment Scheme (EQAS) on HIV as well as other STIs such as Hepatitis B, Hepatitis C and Syphilis in support to the National AIDS Prevention and Control Program of the Department of Health. EQAS Participation of other blood borne Sexually Transmitted Infections (STIs) shall depend on the service capabilities of a certain HIV testing laboratory.
+
+A. Participation to EQAS
+
+A.1. Requirements for the participation
+
+a. Duly accomplished application form to register for participation in EQAS which (a prototype of the referral forms are posted at the DOH website www.doh.gov.ph/saccl ). Application fee to defray the cost of preparation and freight of sending unknown samples.
+
+A.2. Procedure for the EQAS participation
+
+a. EQAS participants shall accomplish application forms provided by the NRL-SACCL/SLH for the EQAS;
+b. Qualified participants shall receive the EQAS panels after application fee has been paid directly to San Lazaro Hospital.
+c. Participants shall perform the test in their respective facilities within 7 working days upon receiving of the panel as part of their daily routine of HIV testing as well as HBV and HCV. Report forms are provided by the NRL-SACCL/SLH.
+d. Submission of EQAS original results must be done within 30 days.
+e. Unknown panels must be kept in freezer until results of EQAS are released. In cases of discordant results, the panels will be retested by the participants during the monitoring process.
+f. Summary of EQAS results on nationwide coverage will be disseminated to all participants after the analysis of the results.
+
+B. Conditions of Satisfactory and Unsatisfactory Results
+
+a. Participants obtaining satisfactory results in all HIV, HBV and HCV testing will be considered as garnering a passing score of 100% and will receive a certificate of qualification.
+b. Participants obtaining an unsatisfactory result below 100% to HIV panels will be subject for supervisory visit. Any discordant results obtained on the said panels will be monitored by repeat testing or will be given another set of panels as the case may be.
+c. Certificate of participation shall be granted to participants obtaining unsatisfactory results alts; the supervisory visit. A recommendation to BHFS shall be forwarded to address the problem for further evaluation and appropriate action.
+
+VIII. TRAINING
+
+All HIV testing laboratories are dependent on the quality of work generated as part of the Quality Assurance Program by the proficiency of the medical technologist. HIV proficiency training of medical technologist shall be provided by the NRL-SACCL/SLH to maintain the effectiveness of the quality assurance and for accreditation purposes.
+
+A. Requirements of initial HIV proficiency training
+
+a. Accomplished application form provided by the NRL-SACCL/SLH (a prototype of the application forms are posted at the DOH website www.doh.gov.ph/saccl).
+b. Photocopy of PRC ID;
+c. Letter of endorsement from the pathologist or head of agency and certification that he/she is a practicing technologist in laboratory work;
+d. Registration fee to be paid directly to San Lazaro Hospital to defray the cost of the training materials, reagents and serum panel preparations.
+
+B. Scope of the Proficiency training
+
+a. Laboratory safely and precautions and waste management
+b. Laboratory screening methods for HIV and HCV antibody, HBsAg and Syphilis including principles involved, methodology and technical trouble shooting, QC/QA Program
+c. Nature of HIV infection, Epidemiology, clinical manifestation and laboratory diagnosis Social, ethical and legal aspects of HIV infection
+d. Pre-post donation/test counseling
+e. HIV accreditation for clinical laboratory
+
+C. HIV Proficiency Training shall be based in the following:
+
+a. Lectures/discussion
+b. Practicum/hands-on
+c. Demonstration
+d. Discussion of problem cases
+e. Pre and post written exams, quizzes and practical examinations
+
+D. Duration of HIV proficiency training
+
+The training shall be conducted in a maximum of 7 working days.
+
+E. Requirements for renewal of HIV Proficiency Certificate at the NRL-SACCL/SLH.
+
+a. Accomplished application form for the renewal of HIV proficiency certificate provided by the NRL-SACCL/SLH (a prototype of the application forms are posted at the DOH website www.doh.gov.ph/saccl) and such must be signed by the pathologist of the sending agency;
+b. Photocopy of previous HIV proficiency certificate;
+c. Quarterly census form for HIV and other blood-borne infections;
+d. Certificate of performance signed by pathologist or chief medical technologist;
+e. Certificate of training, seminar or convention (related to HIV and other blood-borne infection);
+f. 2 copies of 2x2 colored ID picture with white background;
+g. Renewal fee (depending on the category of the applicant) to be paid directly at the San Lazaro Hospital.
+
+F. Exemptions for Non-Renewal of HIV Proficiency Certificate.
+
+Any three (3) of the following will be qualified for the exemption in the renewal of HIV proficiency certificate:
+
+a. Those who are consistently practicing HIV testing serology certified by the current head of the laboratory;
+b. Trainers of HIV proficiency workshops;
+c. Those HIV proficient medical technologist currently in the service of any NRLs designated by the DOH
+d. HIV Proficient Medical Technologists who have been engaged in research involving HIV, Hepatitis B & C and Syphilis.
+
+Anybody who qualifies for exemption are required to submit the minimum requirements as stated in section E except for the renewal fee.
+
+G. Categories of Proficient Medical Technologist requiring renewal of certificate
+
+a. Category I - Medical technologists performing HIV test with proficiency certificate acquired after year CY 2001 shall undergo training seminar update.
+b. Category II - Medical technologists performing HIV test with proficiency certificate acquired before CY 2000 shall undergo refresher course.
+c. Category III - Non-performing HIV proficient medical technologist and those with expired proficiency certificates shall undergo initial HIV proficiency training for reinstatement.
+
+Issuance and content of certificate of proficiency and EQAS qualification
+
+a. The initial HIV proficiency certificate shall state the name of the medical technologist, the name of the laboratory he/she is currently connected, certificate number and validity period of the certificate.
+
+b. The certificate for renewal of HIV proficiency shall state the name of the medical technologist, name of the laboratories he/she is connected, certificate number and validity period of the certificate.
+
+c. Issuance of certificate of qualification signed by the head of the NRL-SACCL/SLH will be given after the laboratory has complied with the necessary requirements for EQAS participation stating the name of the participating laboratory, satisfactory result and validity period.
+
+d. Issuance of the certificate of participation will be given after the laboratory has complied with the necessary requirements for EQAS participation after supervisory visit {monitoring activities stating the name of the participating laboratory.
+
+I. Limitation and the use of proficiency certificate in handling HIV testing laboratories:
+
+In order to sustain the quality performance of a proficient medical technologist, his/her services must be limited into two (2) HIV testing laboratories only. Any necessary amendments concerning the content of the proficiency certificate for HIV, Hepatitis and ST! shall be reviewed and amended by the NRL-SACCL/SLH.
+
+IX. Monitoring
+
+Monitoring of EQAS participants shall be conducted to facilities who obtain unsatisfactory results. Participants will be subjected to strict observation during the performance of test panels. The spontaneous monitoring shall document the overall quality performance of the laboratory tests and shall recommend proper resolution of errors observed during monitoring by the NRL-SACCL/SLH.
+
+X. Validity
+
+1. EQAS certificate of participation shall be valid only for one (1) year;
+2. EQAS certificate of qualification shall be valid for two (2) years, provided that the participant obtained two consecutive satisfactory EQAS results;
+3. HIV proficiency certificate shall be valid only for three (3) years.
+
+XI. Grounds for non issuance of certificate of participation
+
+The following violations shall be grounds for non issuance of certificate of participation:
+
+1. The use of unregistered for expired certificate of product registration for HIV test kits and reagents;
+2. Performance of HIV testing without valid proficiency training certificate;
+3. Unauthorized use of proficiency certificate by non proficient medical technologist performing the test.
+4. Switching of EQAS panels to and from other HIV facilities;
+5. Falsification of documents pertinent to EQAS results.
+
+XII. Separability / Repealing Clause
+
+In the event that any section, paragraph, sentence, clause or word of this order is declared invalid for whatever, any reason, other provisions thereof shall not be affected thereby.
+
+These guidelines shall repeal and supersede all administrative orders and previous issuances inconsistent thereof.
+
+XIII. Effectivity
+
+These guidelines shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
+
+<sign>FRANCISCO T. DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
+
+ANNEX 1
+
+National Reference Laboratory for HIV, Hepatitis and other STIs
+STD/AIDS Cooperative Central Laboratory
+San Lazaro Hospital Compound, Quiricada St, Sta. Cruz, Manila
+Tel Nos: 309-9528/29 Telefax: 711-4117 email:saccl@compass.com.ph
+
+<image>figure_1.png</image>
+
+ANNEX 2a
+
+<image>figure_2.png</image>
+
+ANNEX 2b
+
+INFORMED CONSENT AND PRE-TEST COUNSELING DETAILS FOR LABORATORY RETROVIRAL DISEASE TESTING
+
+A. Explanation about the test
+
+1. What is HIV antibody testing?
+
+HIV antibody is a blood test. It will show if you have antibodies to HIV- the virus that causes AIDS A SAMPLE OF BLOOD WILL BE TAKEN FROM YOUR ARM. If the first rest (screening) shows a positive reaction, another test (confirmatory) will be done to make sure that the first test is really positive. A positive antibody test means you have been infected with HIV. A negative test means you are probably not infected. But it takes time for the body to produce antibodies, so if you have been exposed recently, you need to be retested after several months to make sure you are not infected.
+
+2. What are the benefits of taking the test?
+
+If you are test negative, you can learn how to protect yourself from getting infected by practicing safe sex (e.g. monogamous relationship, condom use).
+
+If you test positive, you can learn how to avoid transmitting the virus to others like your partner or child and how to take good care of your health properly by adhering to your doctor's advice. You can also seek assistance from SLH (San Lazaro Hospital) or RITM (Research Institute for Tropical Medicine) fro proper medical evaluation and care.
+
+3. Voluntary testing
+
+Taking an HIV antibody test is voluntary. If you do not want to be tested, you have the right to refuse the test. If you want to have the test but don’t want to reveal your identity, you can use a code name.
+
+4. Confidentiality of Test Results
+
+Your test results are confidential. It will only be given to you personally or to those authorized to know about the result.
+
+B. HIV Risk Status
+
+<image>table_1.png</image>
+
+2. Major Risk Factors: ( ) yes, specify ( ) No
+
+( ) Heterosexual with multiple sex partners
+( ) Heterosexual partner of a HIVr infected
+( ) Homosexual w/ multiple sex partner
+( ) Homosexual partner of a HIV infected
+( ) Bisexual
+( ) Intravenous drug user
+( ) Blood transfusion
+( ) Perinatal
+( ) Others, specify
+
+3. Purpose of HIV testing:
+( ) High risk activity
+( ) Employment requirement: ( ) local ( ) abroad
+( ) History of STD in the past, specify date/s _____
+( ) Others, please specify _____
+
+4. Have you been tested in other laboratories for HIV? ( ) Yes ( ) No
+
+<image>table_2.png</image>
+ 
+<image>figure_3.png</image>
+
+Prepared and Distributed by : National Reference Laboratory for STDs, HIV and Hepatitis
+STD/AIDS COOPERATIVE CENTRAL LABORATORY
+San Lazaro Hospital Compound, Sta. Cruz, Manila
+Tel: 309-95-28/29; Telefax: 711-41-17
+
+ANNEX 3
+
+SPECIMEN TRANSPORT FOR REFERRAL TO NRL-SACCL/SLH
+
+Steps of packaging and sending of samples:
+
+1. Dispense at least 500 ul of serum specimen to a screw cap (1.0 ml) cryovial.
+2. Clearly label specimen with patients name or code with water proof cryo marker pen.
+3. Sealed the cryovial with paraffin film and wrap with tissue or absorbent paper/material.
+4. Tie with rubber band around the absorbent tissue or paper material.
+5. Place in a re-sealable plastic bag
+6. Positioned the cryovial in a small canister or wide mouth container undisturbed.
+7. Transport specimen in a sealed styrobox with enough cold dog or refrigerants inside.
+8. Label the styrobox as potentially infectious.
+9. Write the name of the sender or the Pathologist and the name/address of the HIV accredited laboratory.
+10. Include in the package all pertinent documents sealed in plastic envelope such as:
+
+a. Filled up request form;
+b. Inform consent and pre-test counseling details;
+c. Laboratory test results of the particular specimen to be transported.
+
+11. Send specimen package to the:
+
+National Reference Laboratory for HIV, Hepatitis and Blood Borne STIs
+STD/AIDS Cooperative Central Laboratory
+San Lazaro Hospital Compound, DOH
+Sta. Cruz, Manila 1003
+
+ANNEX 4
+
+<image>table_3.png</image>
+
+</body>

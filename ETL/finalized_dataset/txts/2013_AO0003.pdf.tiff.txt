@@ -1,0 +1,283 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>02/05/2013</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2013 - 0003</docnum>
+<subject>
+SUBJECT: Implementing Guidelines in the Analysis, Monitoring and Maintenance of Water Used in Dialysis. Facilities Pursuant to Administrative Order No. 2012-0001 known as “New Rules and Regulations Governing the Licensure and Regulation of Dialysis Facilities in the Philippines” 
+</subject>
+<body>
+
+
+
+I. RATIONALE/ BACKGROUND 
+
+Water treatment systems used in dialysis are a critical factor in the overall care received by dialysis patients. They also provide one of the greatest hazards if not functioning properly. Water used in dialysis requires additional treatment to minimize patient exposure to potential microbiologic and chemical contaminants that may be present in drinking or tap water. Water puriﬁcation systems are designed to remove metals (e.g. "aluminum, copper, zinc, magnesium), electrolytes (e.g. calcium, sodium, ﬂuoride, chlorine, sulphate), bacteria and pyrogens from feed or raw water. 
+
+The potential adverseclinical effects of inadequate water purification include fever, anemia, bone disease, hemolysis, metabolic acidosis, nausea, vomiting, neurological deterioration, pyrogenic reactions and death. The desire to improve treatment outcomes has led to the application of more stringent standards for the microbiologic purity of dialysis ﬂuid and to the introduction of ultraclean dialysis ﬂuid into clinical practice. 
+
+In this regard, the Department of Health (DOH) through the Bureau of Health Facilities and Services (BF HS) formulated the following guidelines to ensure the safety of water treatment systems into each and every HDC which shall provide ultraclean dialysis ﬂuid in accordance with DOH Administrative Order (A.O.) No. 2012 — 0001 “New Rules and Regulations Governing the Licensure and Regulation of Dialysis Facilities in the Philippines”. 
+
+II. OBJECTIVE 
+
+This Order sets the guidelines to carry out the provisions of Section V. B. 2. c. 1. b. on ‘Water Treatment Area” and Section V. B. 2. g. 4. — 6. on ‘Environmental Management” pursuant to A0. No. 2012 -— 0001 entitled “New Rules and Regulations Governing the icensure and Regulation of Dialysis Facilities in the Philippines”. 
+
+III. SCOPE OF APPLICATION 
+
+This Order applies to all DOH licensed dialysis facilities, DOH accredited laboratories with capability for microbiological and chemical analyses of water in HDC, BHFS and CHD. 
+
+IV. DEFINITION OF TERMS 
+
+For purposes of this Order, the following terms and acronyms apply. 
+
+1. Association for the Advancement of Medical Instrumentation (AAMI) - refer to I A.O. No. 2012—0001. 
+
+2. Bureau of Health Facilities and Services (BHFS) — the regulatory agency of DOH charged with the implementation of the guidelines under this Order. 
+
+3. Center for Health Development (CHD) -— the regional health ofﬁce of DOH. 
+
+4. Contaminated — the state of having actual or potential contact with microorganisms. It generally refers to the presence of microorganisms that could produce disease or infection. Refer to Annex B of AD. No. 2012-0012 known as “Rules and Regulations Governing the New Classiﬁcation of hospitals and Other Health Facilities in the Philippines”. 
+
+5. Decontamination — the use of physical or chemical means to remove, inactivateor destroy blood borne pathogens on a surface of item to the point where they are no longer capable of transmitting infectious particles and the surface or item is rendered safe for handling, use, or disposal. Refer to Annex B of AD. No. 2012-0012. 
+
+6. Cleaning -- the removal, usually with detergent and water or enzyme cleaner and water, of adherent visible soil, blood, protein substances, microorganisms and other debris from the surfaces, crevices, serrations, joints, and lumens of instruments, devices, and equipment by a manual or physical process that prepares the items for safe handling and/or further decontamination. Refer to Annex B of AD. No. 2012-0012.
+
+7. Disinfectant - usually a chemical agent (but sometimes a physical agent) that destroys disease-causing pathogens or other harmful microorganisms. It might not kill bacterial spores. It refers to substances applied to inanimate objects. Refer to Annex B of AD. No. 2012-0012. 
+
+8. Disinfection —— the thermal or chemical destruction of pathogenic and other types of microorganisms. Disinfection is less lethal than sterilization because it does not destroyall microbial forms (e.g.bacterial spores). Refer to Annex B of AD. No. 2012-0012. ' 
+
+9. Hemodialysis Clinic (HDC) —— refer to A0. No. 2012-0001. 
+
+10. Heterotrophic Plate Count (HPC) «— approximate enumeratiOn of the total number of microorganisms that include pathogens, non—pathogens and opportunistic microorganisms that yield useful information about water quality, efﬁciency of the treatment process and microbial regrowth. 
+
+11. Total Coliform - aerobic and facultative anaerobic, gram-negative, non-sporeforming bacilli. This includes bacteria found in soil, in water and in human or” animal waste. They are not useful as an indicator of fecal pathogens, but they can be used to assess the adequacy of the treatment process and the potential presence of bioﬁlms. 
+
+12. Fecal (Coliform — a subset or group of the total coliforms that are considered to be present specifically in the gut and feces of warm-blooded animals. Escherichia col-i (E. coli) is the major species in the fecal coliform group that is the best indicator of fecal pollution and the possible presence of pathogens.
+
+13. License to Operate (LTO) — refer to AD. No. 2012-0001. 
+
+14. Reverse Osmosis (R0) — refer to AD. No. 2012—0001. 
+
+15. Total Dissolved Solids (TDS) — inorganic salts and small amounts of organic matter present in solution in water. It (TDS) provides information on the chemical quality of the water. The principal constitIients are usually calcium, magnesium, sodium, and potassium cations and carbonate, hydrogen Carbonate, chloride,sulfate, and nitrate anions. 
+
+
+V. IMPLEMENTING MECHANISMS 
+
+A. GENERAL GUIDELINES 
+
+1. All HDC, prior to issuance of LTO from DOH, shall be compliant with these guidelines at all times. 
+
+2. Only water laboratories accredited and recognized by DOH shall be allowed to conduct the tests for the presence of microbiological and chemical contaminants of Water in dialysis facilities. 
+
+3. All concerned water laboratories accredited by DOH shall send an INFO ”ALERT through text message, e—mail, fax and phone call to the concerned HDC and to the Licensing and Monitoring Divisions of BHFS/CHD with results of water analysis beyond AAMI standards of maximum allowable concentration/ limits. 
+
+4. All HDC shall have records showing that their RO water systems are being maintained and monitored by licensed and reputable companies serving this purpose. Major preventive maintenance shall be done at least monthly and whenever the need arises. 
+
+5. The Medical Director shall be responsible for the quality of water in HDC in accordance with Section V. B. 2. a. 1. of A0. No. 2012-0001 and that he/she shall assure water safety at all times. There shall be documentation that the Medical Director is involved in monitoring the quality of water like attendance to HDC meetings and afﬁxing initials to test results to indicate that he/she has reviewed them. 
+
+6. Stakeholders shall comply with the standards and requirements speciﬁed in AD. No. 2012—0001, its corresponding assessment tool for licensure of HDC, this Order and other policy guidelines and/or related issuances. 
+
+B. SPECIFIC GUIDELINES 
+
+1. Water samples shall be collected at three (3) points, namely: 
+
+a. Raw water 
+Samples for raw water shall be taken from the water before it enters any part of the water treatment system. It can be taken from a sink near the water treatment room so long as it has not been treated in any way. 
+
+b. Product water 
+Samples for product water shall be drawn from a sample port immediately after the RO system. Ensure that no contaminant levels exceed AAMI standards and that the results are compared to past test results. A trend analysis shall be done to determine if any levels are increasing. The sample shall” be taken from the product water distribution piping at any of the following locations: 
+
+1. At the point where the water leaves the R0 machine, before it enters the holding tank (Indirect System), or before it goes to the treatment room to provide water for dialysis machines (Direct System). 
+
+2. If an R0 water holding tank IS present, a sample shall be taken at the point where the water leaves the tank. 
+
+3. At the point where water enters into the dialyzer reprocessing ystemwhich may be manual or automated. 
+
+
+c. Point of use Samples for point of use water shall be drawn at a point where it is in close proximity to or approaching the dialysis equipment. 
+
+2. Periodic water analysis shall be done as follows. 
+
+a. Microbiological analysis at least every month at the three (3) sampling. points mentioned above. The bacterial limit shall be as follows: 1. HPC less than 200 CFU/ ml; 2. Fecal Coliform less than 1.1 MPN/ 100 ml. 
+
+b. Analysis of the 20 chemicals 
+
+Pursuant to A0. No. 2012-0001 “New Rules and Regulations Governing the Licensure and Regulation of Dialysis Facilities in the Philippines”, the following provisions are hereby amended: 
+
+Under Section V. B. Speciﬁc Policies 2.g, 4 and 5.c. 
+
+The water for HD purposes shall be treated accordingly to maintain a continuous water supply that is biologically and chemically compatible with acceptable HD techniques. Periodic water analysis (for microbiological and chemical tests) at three (3) sampling points shall be done.
+
+a. Raw water 
+b. Product water 
+c. Point of use 
+
+The aforementioned is hereby amended to read as follows: 
+
+The water for HD purposes shall be treated accordingly to maintain a continuous water supply that is biologically and chemically compatible with acceptable HD'techniques. Periodic water analysis for microbiological test at three (3) sampling points shall be done before the initial operation of HDC and at least every month thereafter. 
+
+a. Raw-water 
+b. Product water 
+c. Point of use 
+
+Periodic water analysis for chemical test at one (1) sampling point, namely point of use, shall be done before the initial operation of HDC and every six (6) months thereafter. 
+
+Under Section V. B. Speciﬁc Policies 2. g. 5.c. Chemical analysis of water at two (2) sampling points namely, product water and point of use, may be allowed in HDC applying for renewal of LTO, provided there is no change in location. The frequency of analysis shall be every six (6) months and as often as needed.
+
+The aforementioned IS hereby amended to read as follows: 
+Chemical analysis of the water at a minimum of one (1) sampling port of point of use shall be done before the initial operation of HDC and at least every six (6) months thereafter. 
+
+
+c. The TDS of product water shall be performed, monitored and recorded weekly in HDC logbook and when found above 10 mgm, corrective measures shall be done. 
+
+3. Sampling and Collection 
+
+a. Once the proper. logistics had been established, only staff from laboratories accredited by DOH shall be authorized to collect Water samples from dialysis facilities. The list of laboratories capable of performing microbiological and chemical analyses of water in HDC are posted at DOH website www.doh.gov. ph b.
+
+The sample ports used to collect the water samples shall be rinsed for at least one minute at normal pressure and ﬂow rate before drawing the samples. Samples shall be collected using a ‘clean catch’ technique to minimize potential contamination of the sample, leading to false positive results. (Note: If a sample port is not present, one should be installed.) 
+
+c. Collection of water samples for analysis 
+
+1. For HDC located within NCR and nearby provinces, water sampling. shall be conducted by staff from a laboratory accredited and recognized by DOH. This covers dialysis facilities located in Metro Manila and nearby provinces which includes, but is not limited to, Laguna, Cavite, Batangas, Bulacan, Pampanga, Rizal, and Bataan. 
+
+2. For HDC located outside of NCR, water samples may be sent by HDC staff through courier to a laboratory accredited and recognized by DOH. Water samples for microbiological analysis may be collected and sent by HDC staff to a local water laboratory accredited by DOH Within the vicinity of the dialysis facility. Water samples for chemical analysis may be sent by HDC staff through courier to a laboratory accredited and recognized by DOH “until such time that DOH has identiﬁed water laboratories outside of NCR capable of meeting AAMI chemical contaminant standards for water in hemodialysis. 
+
+3. The head of HDC shall supervise their staff in the sampling and collection of water samples for analyses.  
+
+4. In cases where a laboratory accredited by DOH cannot possibly conduct water sampling, the following items are suggested as means of handling 
+5. and transporting samples: 
+
+a. Water for microbial testing: The water sample shall be sent, within six (6) hours after collection, to any local DOH accredited water laboratory (within the said town or province) qualiﬁed to conduct microbial testing. 
+
+b. Water for chemical testing: The water sample may be sent through courier or transported to a laboratory accredited by DOH qualiﬁed to conduct chemical testing provided the samples are kept chilled inside an ice chest. 
+
+d. Instructions for Collection of Water in HDC 
+
+Clients requesting for analysis shall be provided with information/data on the following, but not limited to: 
+
+
+<image>table_1.png</image>
+<image>table_2.png</image>
+
+
+Sampling and collection of water in dialysis facilities: 
+
+1. Water for microbial testing shall be contained in a sterilized bottle properly marked and labeled. The volume of sample required is two hundred (200) m1. 
+
+2. Water for chemical testing shall be contained in a clean bottle(s) prOperly marked and labeled. The volume of sample required shall be at least one (1) gallon. 
+
+3. For collection of samples, ﬂush water from the sampling ports (where sample will be drawn). Let the water ﬂow for three (3) minutes (flush water) and take sample using a “clean catch” technique to minimize potential contamination. Cover the sample bottle immediately right after getting a representative sample for analysis. ' 
+
+4. Frequency of Sampling and Analysis of Water 
+
+ 
+
+ <image>table_3.png</image>
+
+ 
+ 
+5. Reporting 
+
+a. Laboratories accredited by DOH for analysis of water in HDC shall include the following in the test report: 
+
+1. Name of HDC and address where samples were taken; 
+
+2. Date and time samples were taken; 
+
+3. Person who conducted the sampling of water; 
+
+4. Identiﬁcation of samples including description and cOndition; 
+
+5. Date of sample received by the laboratory; 
+
+6. Date of sample analyzed; 
+
+7. Date of ﬁnal report. 
+
+b. The test result shall be reported using the format below. 
+
+ 
+
+<image>table_5.png</image>
+<image>table_6.png</image>
+
+ 
+
+c. The test report shall be signed by authorized signatories from the laboratory attesting to the accuracy of all entries in the ﬁnal report. 
+
+d. The ﬁnal report shall be submitted by the laboratory to HDC where samples were taken. INFO ALERT on this failing sample shall be forWarded by the water testing laboratory to the concerned HDC and DOH as cited on item V. A. 3. of this Order. 
+
+6. When Test Results Exceed AAMI Water Standard Limits 
+
+Water treatment systems and dialysis machines need to be decontaminated and disinfected periodically and whenever necessary. When test results exceed AAMI water standard limits, the concerned HDC shall temporarily cease its operations until the repeat test of the failing parameter(s) complies with the standards. 
+
+The concerned HDC shall perform the following necessary 
+
+corrective actions and notify their patients of the situation. 
+
+a. Review the following procedures to isolate the potential problem. 
+
+1. Level of bacteriaexiting R0 machine; 
+2. Product water distribution system disinfection procedures; 
+3. Examine the distribution piping system for dead spots that may ' contribute to bacterial contamination. 
+
+
+b. Corrective action shall be undertaken in the area of the suspected cause for results which exceed AAMI water standard limits and may include: 
+
+1. Cleaning and disinfection] replacement of R0 machine membranes; 
+
+2. Disinfection of the product water distribution system, including the entire loop; 
+
+3. Disinfection of the water hose on the dialysis machine. 0. Conduct a re—sampling and re-test of the affected parameter. 
+ 
+
+VI. SCHEDULE OF FEES 
+
+All laboratory fees charged for analyses of water in HDC shall be reasonable and enough to cover for the services rendered and shall be in accordance with the approved schedule of fees by BHFS. 
+
+VII. VIOLATIONS 
+
+Stakeholders found violating any provision of these guidelines and its related issuances, and/or commission/omission of acts by personnel operating the health facility under this Order shall be penalized and/or its LTO suspended or revoked. 
+
+A failed test is a failure of the water treatment system and may not neCessarily constitute a violation. However, failure of HDC to immediately revert the failing parameter is a violation. 
+
+VIII.INVESTIGATION OF CHARGES AND COMPLAINTS 
+
+A. The Bureau of Health Facilities and Services or the Director of CHD and/or his authorized representative(s) shall investigate the complaint and verify if the health _ facility concerned or any of its personnel is liable for an alleged violation. 
+
+B. The Bureau of Health Facilities and Services or the Director of CHD and/or his authorized representative(s), after investigation, may suspend, cancel or revoke the LTD/Certiﬁcate of Accreditation of licensees found violating the provisions of this Order and its related issuances, without prejudice to taking the case to judicial authority for criminal action. 
+
+IX. PENALTY 
+
+A. The imposable penalty for violations hereof shall be in accordance with A0. No. 2007 — 0022 on “Violations Under the One-Stop Shop Licensure System for Hospitals” and A.O. No. 2008 —0028 known as “Violations Under the One-Stop Shop Licensure System for Non-Hospital Based F acilities...”, its related issuances and this Order. 
+
+B. Preventive Suspension 
+
+If upon inspection or monitoring visits the HDC is found to be violating the standards or existing rules and regulations or committed prohibited acts stipulated in this Order, BHFS may immediately preventively suspend the operation of the said HDC for not more than sixty (60) days. During the preventive suspension of HDC, the same shall cease its operation and shall not accept patients for hemodialysis. Any violation of the preventive suspension shall be a ground for the revocation of LTO of HDC. 
+
+X. APPEAL 
+
+The management of the health facility aggrieved by the decision of the Director of BHFS or CHD may, within ten (10). days after receipt of the notice of decision, ﬁle a notice of appeal to the Ofﬁce of the Secretary of Health. Thereupon, BHFS shall promptly certify and ﬁle a copy of the decision, including all documents and transcript of hearings on which the decision is based, with the Ofﬁce of the Secretary for review. The decision of the Secretary of Health shall be ﬁnal and executory.  
+
+XI. REPEALING CLAUSE 
+
+Prov'sions from previous issuances that are inconsistent or contraryto the provisions of this Orde¢1re hereby repealed and modiﬁed accordingly. 
+
+XII. SEPARABILITY CLAUSE 
+
+In the event that any provision or part of this Order is declared unauthorized or rendered invalid by any court of law or competent authority, those provisions not affected by such declaration shall remain valid and in force. 
+
+XIII. EFFECTIVITY 
+
+This Order shall take effect ﬁfteen (15) days after its approval and publication in newspaper of general circulation.  
+
+
+</body>
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+
+
+

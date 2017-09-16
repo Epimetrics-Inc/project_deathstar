@@ -1,0 +1,127 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+SAN LAZARO COMPOUND
+RIZAL AVENUE, STA. CRUZ
+MANILA, PHILIPPINES
+TEL. NO. 711-60-80
+
+<date>07/31/2001</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 41 s. 2001</docnum>
+
+<subject>SUBJECT: Adoption of Approved List of Blood Testing Reagents for use of Blood Service Facilities.</subject>
+ 
+<body>
+I. Rationale:
+
+One of the thrusts of National Voluntary Services Program (NVBSP) is strengthening of the Blood Safety Management. Some diseases that affect lives of people are caused by viruses that can be transmitted through blood. These risks can be decreased by ensuring safe blood supplies through collection from low risk healthy voluntary blood donors, proper blood testing and processing and rational blood use.
+
+For quality assurance of blood testing reagent's, the goal is to identify specific methods/reagents for use in Blood Testing. The use of appropriate and effective screening tests is necessary to identify all possibly infected blood units and donors with the least wastage of precious donations.
+
+The NVBSP Technical Committee was formed to evaluate technical issues related to NVBSP. Foremost is the choice of reagents used by the Program and come up with a short list of reagents which will become the standard for all blood banks nationwide. Due to the number of reagent kits with limited data as basis for evaluation, the Technical Committee decided to recommend the following criteria:
+
+For HbsAg, HIV Ab and HCV Ab kits:
+Sensitivity ---- 100%
+Specificity -—-- at least 98%
+
+For Malaria and Syphilis reagents:
+Any available kit in the market
+
+As such, the NVBSP Technical Committee has recommended a list of reagents that can be used in testing of blood for transfusion — transmissible infections such as HBV, HCV, HIV, Malaria and Syphilis. The Blood Testing Reagents for HBV, HCV & HIV are categorized according to their sensitivity and specificity indicators as reflected in their BFAD registration.
+
+Moreover, due to the very limited number of HbsAg kits that met the above criteria, which might limit the ready availability of HbsAg kits particularly in the regions, the NVBSP Technical Committee recommended that all Blood Bank Heads shall have the discretion to purchase HbsAg kits with sensitivity of at least 98% and specificity of at least 96%.
+
+The approved list as recommended by the Technical Committee of the National Voluntary Blood Services Program will be updated based on the subsequent performance evaluation results and registration with Bureau Food and Drugs (BFAD), to enable the manufacturers to be included or upgraded.
+
+This order is hereby issued to provide the standards for identifying methods and purchasing blood testing reagents for the use of Blood Service Facilities. 
+
+II. Categories of Blood Testing Reagents:
+
+CATEGORY I - BFAD registered with a Sensitivity of 100% and a Specificity of 98% or above. Recommended for NVBSP Blood Banks/Centers for high volume or batch testing of blood samples.
+
+CATEGORY II - BFAD registered with a Sensitivity of 98% or above and Specificity of 96% or above. May be used for high volume or batch testing of blood samples upon the discretion of the Blood Bank Head.
+
+CATEGORY III - Rapid test; BFAD registered; with a sensitivity of 98% or above and a specificity of 96% and above. Recommended for emergency testing only of small volume blood samples (e.i. not more than ten samples).
+
+III. Recommended list for adoption of BFAD registered test kits for HbsAg screening, HIV Ab testing and HCV Ab screening
+
+A. CATEGORY I - BFAD registered with a Sensitivity of 100% and a Specificity of 98% or above. Recommended for NVBSP Blood Banks/Centers for cost effective and efficient high volume/batch testing of blood samples.
+
+1. HBsAg TEST KITS
+
+Enzymeimmunoassay (EIA) Kits and Variants
+
+<image>table_1.png</image>
+
+* with application for renewal.
+
+2. HIV TEST KITS
+
+Enzymeimmunoassay (EIA) Kits and Variants
+
+<image>table_2.png</image>
+
+Particle Agglutination (PA) TEST KITS
+
+<image>table_3.png</image>
+
+* with application for renewal.
+
+Enzymeimmunoassay (EIA) Kits and Variants
+
+<image>table_4.png</image>
+
+Particle Agglutination (PA) Test Kit
+
+<image>table_5.png</image>
+
+B. CATEGORY II - BFAD registered with a Sensitivity of 98% or above and Specificity of 96% or above. May be used for high volume or batch testing of blood samples upon the discretion of the Blood Bank Head.
+
+1. HBsAg TEST KITS
+
+<image>table_6.png</image>
+
+Particle Agglutination (PM/Passive Hemagglutination (PHA)/Reverse Passive Hemagglutination (RPHA) TEST KITS
+
+<image>table_7.png</image>
+
+* with application for renewal.
+
+2. HIV TEST KITS
+
+NONE LISTED
+
+3. Enzymeimmunoassay (EIA) TESTS & VARIANTS (HCV DETECTION)
+
+<image>table_8.png</image>
+
+C. CATEGORY III - Rapid test; BFAD registered; with a sensitivity of 98% or above and a specificity of 96% and above. Recommended for emergency testing only of small volume blood samples (e.i. not more than ten samples).
+
+I. HBsAg TEST KITS
+
+<image>table_9.png</image>
+
+* with application for renewal.
+
+2. HIV RAPID TEST KITS
+
+<image>table_10.png</image>
+
+3. HCV RAPID TEST KITS
+
+<image>table_10.png</image>
+
+* With application for renewal.
+
+All reagents that will be purchased by the end user must be in accordance with the approved list of reagents bearing the company’s name and place they were manufactured.
+
+IV. Effectivity
+
+This Order shall take effect immediately.
+</body>
+
+<sign>MANUEL M. DAYRIT, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>

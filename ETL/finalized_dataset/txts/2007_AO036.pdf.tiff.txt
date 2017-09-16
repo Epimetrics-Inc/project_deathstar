@@ -1,0 +1,422 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Bldg. 1, San Lazaro Compound, Rizal Ave., Sta. Cruz, Manila
+Telefax: (632) 743-1829 Trunkline; 743-8301 local 1125-32
+Direct line: 711-95-02 to 03
+E-mail: osec@doh.gov.ph
+
+<date>10/01/2007</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 2007 - 0036</docnum>
+
+<subject>SUBJECT: Guidelines on the Philippine Integrated Disease Surveillance and Response (PIDSR) framework</subject>
+
+<body>
+I. BACKGROUND AND RATIONALE
+
+The World Health Organization under the revised International Health Regulations (IHR) of 2005 requires all Member States to strengthen the core capacities for disease surveillance and response to avert occurrence and international spread of diseases and other public health threats. The new Regulations have a greatly expanded scope, which apply to diseases including those with new and unknown causes that present significant harm to humans irrespective of origin or source. Currently existing surveillance systems in the Philippines do not properly address such concerns.
+
+The National Epidemiology Center (NEC) is primarily responsible for assessing the health status of Filipinos, detecting or confirming disease outbreaks and implementing outbreak control measures including but not limited to rapid containment. The NEC is the designated National Focal Point for IHR.
+
+Four major disease surveillance systems exist in the country: 1) the Notifiable Disease Reporting System (NDRS) of the Field Heath Service Information System (FHSIS); 2) the National Epidemic Sentinel Surveillance System (NESSS); 3) the Expanded Programme on Immunization diseases targeted for eradication or, elimination Surveillance System (EPISurv); and 4) the Integrated HIV/AIDS Behavioral and Serologic Surveillance System (IHBSS) including the AIDS Registry. Altogether they provide vital information that guide policy and implementation of priority health programs and projects.
+
+These disease surveillance systems were established for specific purposes and each have their own individual data collection and reporting procedures, computer hardware and software requirements and, training and supervisory functions. For so many years now, numerous health programs and foreign-assisted projects also established parallel surveillance systems to complement existing surveillance systems. These may have resulted in inefficient surveillance systems characterized by redundancy and duplication of efforts, extra and sometimes prohibitive costs, a demoralized health workforce, inaccurate and delayed reporting and ultimately unrealized health outcomes. Effective disease control relies on a functional disease surveillance system. Clarity of purpose, simple and practical use, effective feedback and efficient organizational and management arrangements define the functionality of surveillance systems.
+
+A formal assessment of the existing surveillance system was done in 2006 and revealed the following:
+
+• Lack of manual of procedures that will serve as a guide to field staff in properly carrying out surveillance and response tasks and responsibilities;
+
+• Lack of capacity, especially at the local level, to perform the required epidemiological surveillance and response functions;
+
+• Lack of training and supervision; and
+
+• Inadequate funding support for equipment, travel, logistics and other supplies essential for the optimal operations of a disease surveillance system.
+
+The inadequacy of the current disease surveillance systems in the Philippines and the need to comply with the 2005 IHR call for an urgent need to adopt newer approaches that will address those gaps without placing undue strain into the system.
+
+The Philippine Integrated Disease Surveillance and Response (PIDSR) is hereby adopted to address these concerns and meet future challenges that were otherwise unforeseen. This Administrative Order provides the framework for PIDSR to guide its implementation at all levels of the health care delivery system as well as both the public and private sectors.
+
+II. DECLARATION OF POLICIES
+
+The PIDSR shall be guided by the following legal mandates and policies:
+
+A. Republic Act 3573 (Law of Reporting of Communicable Diseases) requires all individuals and health facilities to report notifiable diseases to local and national health authorities.
+
+B. Resolution WHA48.13 (1995) urges Member States to strengthen national and local programs of active surveillance for infectious diseases, ensuring that efforts were directed towards early detection of epidemics and prompt identification of new, emerging and re-emerging infectious diseases.
+
+C. International Health Regulations of 2005, Article 5-1 Surveillance, urges Member States to develop, strengthen and maintain, as soon as possible but no later than five years from the entry into force of these Regulations, the capacity to detect, assess, notify and report events in accordance with these Regulations.
+
+D. Administrative Order No. 2005-0023 (Implementing Guidelines for Fourmula One for Health as Framework for Health Reforms), Section C2.c.iii, states that, "Disease surveillance shall be intensified to ensure that the targets for disease elimination, prevention and control are attained".
+
+E. Department Personnel Order No. 205-1585 (Creation of a Management Committee on Prevention and Control of Emerging and Re-emerging Infectious Diseases or DOHMC-PCREID) creates the Epidemiology and Surveillance Sub-Committee (ESSC) in which one of its major functions is to "...formulate and recommend policies, standards, procedures, guidelines and systems on the early detection, contact tracing, surveillance, investigation and follow-up of emerging and re-emerging (EREID) suspects and the timely and accurate recording, reporting and collation of epidemiological data on EREID."
+
+III. GOAL AND OBJECTIVES
+
+A. Goal
+
+A functional integrated disease surveillance and response system that would result in considerable reduction in morbidity, disability and mortality caused by communicable diseases and other conditions
+
+B. General Objectives
+
+1. To provide continuous, timely and accurate disease surveillance information that will guide response or interventions for all stakeholders, particularly local government units and national programs; and
+
+2. To develop, improve and strengthen the capacity for an integrated surveillance and response at all levels of health system.
+
+C. Specific Objectives
+
+1. To list and prioritize notifiable diseases, syndromes or other conditions as specified in the IHR and according to consensus developed between local government units and national programs;
+
+2. To design and establish an integrated disease surveillance system that enhances the use of standard case definitions for notification and case-based or event-based reporting of priority diseases, syndromes, conditions, or risks;
+
+3. To establish or strengthen epidemiology and surveillance units (ESUs) at the regional and local levels that would serve as focal points for coordinating surveillance and response activities;
+
+4. To strengthen surveillance data management (collection, collation, analysis, interpretation and dissemination);
+
+5. To ensure use of information or knowledge for policy and decision-making at all levels;
+
+6. To strengthen the capacity and networking of laboratories at the national and local levels;
+
+7. To enforce the involvement of private health-care facilities in the surveillance system;
+
+8. To strengthen community participation in disease detection, notification and response to epidemics;
+
+9. To prepare national and local health staff to respond effectively to epidemics;
+
+10. To establish a national coordinating body that would provide overall coordination of surveillance operations and the authority to shift priorities and resources according to changes in surveillance needs; and
+
+11. To enhance the utilization of information and communication technology for prompt reporting and data management that would be appropriate at the national and local levels.
+
+IV. SCOPE AND COVERAGE
+
+This issuance shall apply to the entire health sector, to include public and private, national agencies and local government units, external development agencies, and the community involved in disease surveillance and response activities.
+
+This issuance shall cover routine surveillance of priority diseases and events identified by the Department of Health.
+
+V. DEFINITION OF TERMS
+
+A. Active Surveillance - refers to a system employing staff members to regularly contact health care providers or the population to seek information about health conditions. Active surveillance provides the most accurate and timely information, but it is also expensive.
+
+B. Alert threshold - refers to the level of disease that serves as an early warning for epidemics. An increase in the number of cases above the threshold level should trigger an epidemiologic investigation, assessment of epidemic preparedness and implementation of appropriate prevention and control measures.
+
+C. Disease - refers to a specific illness or medical condition, irrespective of origin or source that presents or could present significant harm to humans.
+
+D. Epidemic - refers to the occurrence in a community or region of cases of an illness, specific health-related behavior, or other health-related events clearly in excess of normal expectancy. The community or region and the period in which the cases occur are specified precisely. The number of cases indicating the presence of an epidemic varies according to the agent, size, and type of population exposed; previous experience or lacK of exposure to the disease; and time and place of occurrence. (Adapted from Last JM, ed. A Dictionary of Epidemiology, 1997). A community may refer to specific groups of people (e.g., those attending a social function and got in from food poisoning).
+
+Note: The terms epidemic and outbreak could be used interchangeably. For purposes of brevity and consistency, we used the term epidemic in this guideline.
+
+E. Epidemic threshold - refers to the level of disease above which an urgent response is required. The threshold is specific to each disease and depends on the infectiousness, other determinants of transmission and local endemicity levels. For some diseases, such as poliomyelitis or SARS, one case is sufficient to initiate a response.
+
+F. Epidemiology - refers to the study of the distribution and determinants of health-related states or events in specified populations, and the application of this study to the control of health problems.
+
+G. Epidemiology and Surveillance Unit (ESU) - refers to a unit established in the Centers for Health Development (RESU), Provincial Health Offices (PESU), City Health Offices (CESU) and Municipal Health Units (MESU) or Inter-local Health Zones (DESU) that provide services on public health surveillance and epidemiology
+
+H. Event-based Surveillance - refers to unstructured data gathered from sources of intelligence of any nature. These sources include scientific watch, direct notifications, media watch, international watch and intersectoral-events. It is a rapid reporting and response system that immediately alerts health authorities of public health events that require a timely response.
+
+I. Expanded Program on Immunization Surveillance (EPISurv) - refers to an intensive indicator-based, hospital-based surveillance of diseases targeted for eradication or, elimination. This includes acute flaccid paralysis or suspected polio, measles and neonatal tetanus and adverse events following immunization. Periodic reviews of individual cases may be required to ascertain correct diagnosis.
+
+J. Field Health Service Information System - refers to the health information system that provides the Department of Health (DOH) with field-based surveillance of notifiable diseases and syndromes and categorical surveillance of program management indicators from priority public health programs.
+
+K. HIV/AIDS Registry - refers to the registry of all HIV-AIDS cases in the Philippines that are reported from both public and private hospitals, laboratories, and other agencies.
+
+L. Integrated Disease Surveillance and Response - refers to a process of coordinating, prioritizing, and streamlining of core surveillance activities (e.g., data collection, reporting, laboratory and epidemiological confirmation, analysis, feedback), support functions (e.g., training, monitoring, financial and logistics) and response (e.g., epidemic investigation) with the aim of making the system more efficient and effective in providing timely, accurate and relevant information for action.
+
+M. International Health Regulations (IHR) of 2005 - refers to the international legal instrument that binds all WHO Member States to implement a set of international standards with the aim to prevent, protect against, control and provide a public health response to the international spread of disease in ways that are commensurate with and restricted to public health risks, and which avoid unnecessary interference with international traffic and trade.
+
+N. Laboratory-based surveillance system - refers to s systematic referral of laboratory samples from defined conditions or random cases to detect occurrence of unusual or new pathogens,
+
+O. National Epidemic Sentinel Surveillance System (NESSS) - refers to the surveillance system of a pre-arranged sample of hospital-based reporting sources that agreed to report all cases of 15 diseases that have potential to cause outbreaks and which might indicate trends in the entire target population. Standard case definitions are used and some require strict confirmation in the laboratory before they are included as cases.
+
+P. National IHR Focal Point- refers to the national center, designated by each State Party, which shall be accessible at all times for communications with WHO IHR Contact Points under the 2005 IHR. The National Epidemiology Center (NEC) was designated as theNational IHR Focal Point per Administrative Order No. 2007 - 0002 dated January 17, 2007.
+
+Q. Notifiable Disease Reporting System (NDRS) - refers to the reporting component of the Field Health Service Information System (FHSIS) that monitors 17 diseases and 7 syndromes. Data are generated from the barangay health stations, rural health units and municipal or city health centers on a periodic basis. Annual reports reflect annual incidence of notifiable diseases.
+
+R. Notifiable Disease - refers to a disease that, by legal requirements, must be reported to the public health or other authority in the pertinent jurisdiction when the diagnosis is made.
+
+S. Outbreak - see epidemic.
+
+T. Passive surveillance - refers to a system by which a health jurisdiction receives reports submitted from hospitals, clinics, public health units, or other sources. Passive surveillance is a relatively inexpensive strategy to cover large areas, and it provides critical information for monitoring a community's health. However, because passive surveillance depends on people in different institutions to provide data, data quality and timeliness are difficult to control.
+
+U. Point of Entry - refers to a passage for international entry or exit of travelers, baggage, cargo, containers, conveyances, goods and postal parcels as well as agencies and areas providing services to them on entry or exit.
+
+V. Public health surveillance - refers to the ongoing, systematic collection, analysis, interpretation and timely dissemination of health data for the planning, implementation and evaluation of public health program. The application of these data to disease prevention and health promotion program completes the surveillance cycle in public health.
+
+W. Public Health Emergency of International Concern (PHEIC) - refers to an extraordinary event which is determined, as provided in the 2005 IHR: 1) to constitute a public health risk to other states through the international spread of disease and 2) to potentially require a coordinated international response
+
+X. Quarantine - refers to the restriction of activities and/or separation from others of suspect persons who are not ill or of suspect baggage, containers, conveyances, or goods in such a manner as to prevent the possible spread of infection or contamination.
+
+Y. Surveillance report - refers to a regular publication with specific information on the disease under surveillance. It contains updates of standard tables and graphs as well as information on epidemics etc. In addition it may contain information on the performance of participants using agreed performance indicators.
+
+Z. Syndromic Surveillance - refers to a passive or active system that uses cases definitions of cases based on clinical features without accompanying clinical or laboratory diagnosis or, as it pertains to surveillance of bioterrorism, of syndromes attributable to use of potential agents by terrorists. Lacks specificity and often requires more investigations from higher levels.
+
+AA. Zero case reporting - refers to the reporting of "zero case" when no cases have been detected by the reporting unit so as to distinguish it from missed or delayed reporting.
+
+VI. GUIDING PRINCIPLES
+
+A. PIDSR shall be consistent with the technical leadership role of the DOH in health and shall contribute to the achievement of the National Health Objectives and the country's Millennium Development Goals.
+
+B. PIDSR shall respect and support priorities established under the Fourmula One framework for health reforms, particularly towards more responsive health systems.
+
+C. PIDSR shall be faithful to the spirit of decentralization and recognize the vital role of local government units on all matters related to health.
+
+D. PIDSR shall be adequately compatible with the 2005 IHR surveillance and response standards and be guided by the country's commitments and obligations.
+
+E. PIDSR shall build on the strength and learn from the weakness of what already exists.
+
+F. PIDSR shall comply with the overall guiding principles of usefulness, simplicity and flexibility of the system, orientation to a specific action, and integration.
+
+G. PIDSR shall recognize and adopt the principle of partnership and shared responsibility. A partnership is a voluntary agreement between two or more parties to work cooperatively toward a set of shared outcomes in disease surveillance. Partnership includes the public and private sectors, national agencies and local government units, external development agencies, and the community involved in disease surveillance and response activities. The principle of shared responsibility recognizes that disease surveillance and response is the responsibility of all sectors and governments at all levels.
+
+H. The privacy and confidentiality of patient's information should be maintained. Privacy is the right of patients to choose what information they will release about themselves and to whom. Confidentiality is the obligation of public health workers to keep information about individuals restricted only to those persons who absolutely need it for the health of the community. Patients have the right to know why they are providing information, to refuse to provide information, and to expect that information will be handled as confidential.
+
+I. Professionalism and the public trust should be maintained. To perform public health functions, including surveillance, it is essential that there is public support for professionalism among the ranks. Trust is an expression of confidence that public health workers will be fair, reliable, ethical, and competent.
+
+VII. FRAMEWORK
+
+The PIDSR Framework embodies an integrated functional disease surveillance and response system institutionalized from the national level down to the community level. Each level of the health care delivery system interacts with each other while performing their basic roles and responsibilities. Standard case definitions to detect priority diseases are to be used in all disease reporting units and a comprehensive flow of reporting is adopted. With the PIDSR, the local government units take an active role in disease detection and response in their respective localities while the regional and national levels will provide the necessary support. Policies, guidelines and trainings will also be provided by the national level. The interaction among all the levels of the health care delivery in the PIDSR system, the use of standard case definitions for priority diseases, and the adoption of a standard reporting flow will bring about harmonization and integration of disease surveillance and response in the country.
+
+<image>figure_1.png</image>
+
+VIII. IMPLEMENTING GUIDELINES
+
+The PIDSR shall be promoted at all levels in order to create well-informed groups with increased sense bf responsibility, urgency and ownership and to ensure maximum cooperation. This could be done through sensitization meetings, training workshops, advocacy campaigns using different media channels, including piggy-backing of integrated disease surveillance messages during intervention program activities. A technical assistance package that would strengthen the CHDs, PHOs, CHOs and MHOs perform their basic roles and responsibilities for surveillance and response shall be developed. The package shall be comprehensive to cover the requirements of a functional surveillance system and not just limited to skills development
+
+A. Core Surveillance Activities
+
+1. Case Detection, Notification, and Reporting
+
+a. Standard case definitions shall be developed for each of the notifiable disease/syndrome.
+
+b. Reporting of notifiable diseases/syndromes or events shall fall into two categories. These are:
+
+1) Immediately notifiable disease/syndrome or event
+
+Diseases under this category shall be reported within 24 hours of detections to the PHO, CHD and NEC by the fastest means possible.
+
+a) AFP
+b) Adverse Events Following Immunization (AEFI)
+c) Anthrax
+d) Human Avian Influenza
+e) Measles
+f) Meningococcal Disease
+g) Neonatal Tetanus
+h) Paralytic Shellfish Poisoning
+i) Rabies
+j) SARS
+
+2) Weekly notifiable disease/syndrome - All cases of notifiable diseases/syndromes seen within the week shall be reported to the next higher level.
+
+c. Zero case reporting of all notifiable diseases and syndromes shall be implemented in all levels. This means reporting of "zero case" when no cases have been detected by the reporting unit.
+
+d. PESUs and CESUs in chartered cities shall submit their surveillance data file weekly to the RESU through e-mail or by any other means. RESUs shall also submit their weekly surveillance data file to NEC through e-mail or by any other means.
+
+e. All government and private hospitals/clinics, MHOs and non-chartered CHOs shall designate a Disease Surveillance Coordinator (DSC).
+
+2. Laboratory and Epidemiological Confirmation
+
+a. Specimens collected during epidemics for laboratory confirmation may be submitted to the appropriate national reference laboratories as stipulated in the DOH Department Order No. 393-E s. 2000
+
+Other institutions like the UPPGH National Poison Control Center and BFAD may accept specific specimens for testing. Some Regional Public Health Laboratories and Regional Hospitals also have the capacity to do microbiological testing. Private tertiary hospitals may also offer laboratory support in cases of epidemics.
+
+b. Reference laboratories shall immediately inform NEC for any specimens received from the field for confirmation of suspected epidemics and vice versa. Reference laboratories shall process specimens and send timely results as required to each level.
+
+c. A standard protocol for specimen collection, preparation, storage, transport and interpretation of results shall be developed and available in all levels.
+
+d. Specimen collection kits for priority diseases (e.g., AFP, measles, and cholera) shall be available at the regional and provincial levels.
+
+e. A mechanism for building the capacity and networking of laboratories at the national and local levels and their involvement in disease surveillance shall be developed.
+
+f. Epidemiological confirmation involves intensive case-patient investigation in the field (e.g., household, hospital or workplace). The primary purpose is to examine the patient or patients to confirm that their signs and symptoms meet the case definition. Other epidemiological information is also obtained from the patient or a family member who can speak for the patient.
+
+3. Data Analysis and Interpretation
+
+a. Data management shall be strengthened at all levels, with focus on the health facility and local levels. This includes providing training in all aspects of information management (including data quality assurance) to relevant staff as required.
+
+b. Computerized data management shall be strengthened at the central, regional and provincial levels. CHOs and MHOs, who have voluminous surveillance data and have the capacity to procure, operate and maintain computer equipment may opt to computerize data management.
+
+4. Feedback
+
+a. Feedback to those who generated the information (e.g., local health-care providers) and those who transmitted the reports to the next higher level shall be strengthened.
+
+b. The MHOs and CHOs shall provide feedback to community members about reported cases and prevention activities.
+
+c. The PESUs and RESUs shall alert nearby areas and provinces about epidemics and give health facilities regular, periodic feedback about routine control and prevention activities.
+
+d. The National Epidemiology Center shall develop and periodically distribute disease surveillance bulletins to all levels of the surveillance system. In addition, NEC shall maintain a website that provides information on disease trends, progress towards achievement of goals and reports on investigation and control of epidemics.
+
+B. Epidemic Detection and Response
+
+1. Detection - All suspected epidemics, including unofficial reports, shall be assessed by the National Epidemiology Center in coordination with the CHD, local government units, government agencies and other parties directly or indirectly involved in the investigation and control of epidemics.
+
+2. Verification - Municipal and city health offices shall promptly verify reports of epidemics received from health facilities or through community rumors and notify the next higher level.
+
+3. Declaration of an Epidemic
+
+a. Declaration of an epidemic should be supported by sufficient scientific evidence. These include:
+
+1) Surveillance information
+2) Epidemiologic investigation (descriptive or analytic)
+3) Environmental investigation
+4) Laboratory investigation
+
+b. The municipal/city health office can declare an epidemic if it has a functional surveillance system, otherwise the next higher level may provide technical assistance in the declaration of an epidemic.
+
+c. The DOH Rules and Regulations Implementing the Local Government Code of 1991 (DOH RRILGC of 1991), Chapter 11, Section 44 c, specifies that the Department of Health has the final decision regarding the presence of epidemic, pestilence, or other widespread public health danger in a particular area or region. In compliance to this rule, the Secretary of Health shall have the sole authority to affirm or reverse any declaration of an epidemic.
+
+d. The Secretary of Health shall have the sole authority to declare epidemics of national and/or international importance. These include the following:
+
+1) Epidemic linked to nationally or internationally distributed product: Epidemic linked by investigation to a product that has national or international distribution, such as a manufactured food item, have the potential to affect individuals in municipalities and cities simultaneously.
+
+2) Case(s) of exotic disease acquired locally All cases of illness due to communicable diseases that are not endemic in the Philippines should be investigated rapidly to confirm whether the illness has been acquired locally or from overseas. Human avian influenza, SARS, Ebola, poliomyelitis are among the exotic diseases that are of national importance.
+
+3) Diseases with high pathogenicity: Epidemics of highly-virulent organisms (e.g., Ebola,) are likely to cause heightened public concern, and may require technical expertise and collaboration at the national level.
+
+4) Diseases with significant risk of international spread.
+
+5) Epidemics in tourist facilities, among foreign travelers or at national/international events.
+
+6) Epidemics associated with health service failure: Epidemics linked to breakdown in standards of health care delivery, such as infection control failure, blood product contamination or systematic immunization failure will require a strategic national approach.
+
+4. Containment
+
+a. Once the presence of an epidemic is verified, the MHO/CHO shall activate the epidemic response team. The team shall conduct a full epidemiologic investigation and implement appropriate control measures immediately.
+
+b. In instances where the MHO or CHO have no technical capacity to respond to an epidemic, the MHO or CHO shall immediately request for assistance either from the PHO, CHD or DOH central office.
+
+c. The Department of Health through the National Epidemiology Center in coordination with CHD-RESU shall provide immediate on-site technical assistance to the LGU in epidemic investigation in the following conditions:
+
+1) The epidemic is continuing (i.e., there is evidence of ongoing transmission).
+2) Similar epidemics have occurred before, or are expected in the future, and more information is needed to develop preventive measures.
+3) The epidemic is having, or likely to have, a very high impact on public health because of its size and/or the severity of illness.
+4) The epidemic has attracted public, media or political interest.
+5) The epidemic transmission route is new or unusual.
+6) The causative agent is unknown.
+7) Descriptive characteristics of the epidemic (time, place, person or organism subtype) suggest that a common source is highly likely.
+
+d. The National Epidemiology Center in coordination with the CHD, local government unit and other concerned agencies shall take the lead in the investigation of epidemics of national and international.
+
+C. Support to Surveillance
+
+1. Staffing
+
+a. City and Municipal Health offices shall designate one Medical or Nurse Disease Surveillance Officer and one Surveillance Assistant for surveillance activities.
+
+b. Provincial, Health Offices shall establish their Provincial Epidemiology and Surveillance Units and provide for one full-time Provincial Medical or Nurse Disease Surveillance Officer, one full-time Surveillance Assistant, and one full-time Surveillance Clerk.
+
+2. Training and Education
+
+a. The National Epidemiology Center shall develop PIDSR training modules. This modular training course, which will form part of the PIDSR Systems Development Technical Assistance Package, will have a specific module applicable to different types of surveillance staff at different levels.
+
+b.  The PIDSR training program shall be established and institutionalized at the regional and provincial levels. The training shall be offered on a regular basis to train new surveillance and response staff at the provincial and local levels.
+
+c. The National Epidemiology Center shall develop and implement advanced courses, training programs or seminars on specific areas of public health surveillance.
+
+d. Annual disease surveillance conferences shall be organized at the national and/or regional levels. This will be attended by ESU staff, DSCs, representatives from the public and private sectors.
+
+e. The National Epidemiology Center shall continue to operate the Field Epidemiology Training Program (FETP). Physicians employed in CHDs, PHOs and CHOs who will be designated to head the RESU, PESU or CESU shall be given priority for this 2-year course on field epidemiology.
+
+3. Supervision - Periodic technical supervision shall be conducted by the national and regional offices to track the progress in the implementation of the integrated disease surveillance and response system.
+
+4. Communication - Functional communication networks shall be established among all levels to strengthen the reporting and dissemination of information.
+
+5. Financing - It is highly recommended that PESUs, CESUs and RHUs shall be provided with a line item budget using appropriate local funds (e.g. calamity/disaster preparedness funds). The funds will be used to defray the operational costs of equipment, supplies, transportation, communications and logistics needed to support the ESU and response to epidemics.
+
+D. Infrastructure
+
+1. Epidemiology and Surveillance Units (ESU) shall be established/strengthened at the CHD, PHO, CHO-and RHU levels.
+
+IX. MONITORING AND EVALUATION
+
+A. A monitoring system shall be established to track the implementation of planned surveillance activities and of the overall performance of surveillance and response systems.
+
+B. The PIDSR system shall be evaluated every two years or as needed.
+
+X. IMPLEMENTING MECHANISM
+
+Roles and Responsibilities
+
+A. DOH
+
+1. National Epidemiology Center
+
+a. Assess all reported epidemics within 48 hours.
+b. Notify WHO when the assessment indicates that the event is a public health emergency of international concern (PHEIC).
+c. Determine rapidly the control measures required to prevent domestic and international spread of disease.
+d. Provide support through specialized staff and logistical assistance during epidemic investigation and response.
+e. Establish effective networking with other relevant government agencies at the national level and local level.
+f. Provide direct operational link with senior health and other officials at the national and local levels to approve rapidly and implement containment and control measures.
+g. Facilitate the dissemination of information and recommendations from DOH Central office and WHO regarding local and international public health events to the concerned agencies and institutions.
+h. Initiate the development and implementation of the integrated national epidemic preparedness and response plan.
+i. Facilitate the budget allocation for surveillance and response at the regional health offices.
+j. Oversee the design and implementation of PIDSR.
+
+2. Bureau of Quarantine
+
+a. Develops and ensures compliance to protocols and field operation guidelines on entry/exit management of persons, conveyances and goods in coordination with airport and port authorities.
+b. Conducts surveillance in ports and airports of entry and sub-ports as well as the airports and ports of origin of international flights and vessels
+c. Monitors public health threats in other countries
+d. Provides effective networking and collaboration among the Bureau of Quarantine stakeholders
+e. Assist in the development and implementation of the integrated national epidemic preparedness and response plan.
+
+3. National Center for Disease Prevention and Control
+
+a. Provides updates, technical advice and recommendations on the recognition, prevention and control of diseases
+b. Assist in the development and implementation of the integrated national epidemic preparedness and response plan.
+c. Organize the DOH Management Committee for the Prevention and Control of Emerging and Re-emerging Infectious Diseases
+
+4. Health Emergency Management Staff
+
+a. Acts as the DOH coordinating unit and operations center for all health emergencies, disasters and incidents with potential of becoming an emergency
+b. Assist in the development and implementation of the integrated national epidemic preparedness and response plan.
+
+5. Center for Health Development
+
+a. Provide on-site assistance (e.g., technical, logistics, and laboratory analysis of samples) as requested to supplement local epidemic investigations and control.
+b. Establish, operate and maintain a regional epidemic preparedness and response plan, including the creation of multidisciplinary/multisectoral teams to respond to events that may constitute a public health emergency of local and international concern;
+c. Assess reported epidemics immediately and report all essential information to DOH central office.
+d. Provide direct liaison with other regional government agencies
+e. Provide a direct operational link with senior health and other officials at the regional level
+f. Facilitate submission of weekly notifiable disease surveillance reports from public and private hospitals.
+g. Provide technical and logistical assistance in the establishment of ESUs at the provincial/city/municipal health offices.
+h. Ensure the functionality of the regional disease surveillance and response system.
+i. The Hospital Licensing Team at the CHDs shall track and monitor the compliance of public and private hospitals in the implementation of PIDSR as part of the requirements for renewals of license to operate. The team will inform the CHDs/PHOs/LGUS of activities taken against non-complying hospital institutions. Likewise, CHOs/MHOs/PHOs shall report to the CHDs hospitals and related facilities that fail to comply with the PIDSR reporting requirements. The regional director shall issue a regional order to enforce compliance.
+j. Create Epidemic Management Committee (EMC) at the regional level.
+
+B. LGUs
+
+1. Provincial Health Office
+
+a. Set up and maintain a functional provincial disease surveillance system equipped with the necessary resources and adequate local financial support. Financial support may come from the disaster, calamity or other appropriate funding sources as determined by the provincial government officials.
+b. Collect, organize, analyze and interpret surveillance data in their respective areas.
+c. Report all available essential information (e.g., clinical description, laboratory results, numbers of human cases and deaths, sources and type of risk) immediately to the next higher level.
+d. Assess reported epidemics immediately and report all essential information to CHD and DOH central office.
+e. Provide on-site assistance (e.g., technical, logistics, and laboratory analysis of samples) as requested to supplement local epidemic investigations and control.
+f. Facilitate submission of weekly notifiable disease surveillance reports from public and private hospitals.
+g. Establish, operate and maintain a provincial epidemic preparedness and response plan, including the creation of multidisciplinary/multisectoral teams to respond to events that may constitute a public health emergency of local and international concern
+h. Create Epidemic Management Committee (EMC) at the provincial level.
+
+2. Municipal/City Health Office
+
+a. Set up and maintain a functional municipal/city/community disease surveillance system equipped with the necessary resources and adequate local financial support. Financial support may come from the disaster, calamity or other appropriate funding sources as determined by the municipal/city government officials.
+b. Collect, organize, analyze and interpret surveillance data in their respective areas.
+c. Report all available essential information (e.g., clinical description, laboratory results, numbers of human cases and deaths, sources and type of risk) immediately to the next higher level.
+d. Implement appropriate epidemic control measures immediately.
+e. Establish, operate and maintain a municipal/city epidemic preparedness and response plan, including the creation of multidisciplinary/multisectoral teams to respond to events that may constitute a public health emergency.
+f. Facilitate submission of weekly notifiable disease surveillance reports from public and private hospitals.
+
+C. Philippine Health Insurance Corporation (PHIC)
+
+The Philippine Health Insurance Corporation shall support the implementation of PIDSR in hospitals and private practitioners by using its accreditation authority and reimbursement of claims as a leverage to encourage compliance. A letter or memorandum from PHIC shall be issued to this effect.
+
+XI. REPEALING CLAUSE
+
+The provisions of previous Orders and other related issuances inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modified, repealed or rescinded accordingly. All other provisions of existing issuances which are not affected by this Order shall remain valid and in effect.
+
+XII. EFFECTIVITY
+
+This order shall take effect immediately.
+</body>
+
+<sign>FRANCISCO T. DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>

@@ -1,0 +1,436 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>02/07/2013</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2013 - 0005 </docnum>
+<subject>SUBJECT: National Policy on the Ugified Registry Systems of the Department of Health (Chronic Non-Communicable Diseases, Injury Related Cases Persons with Disabilities and Violence Against Women and Children Registry System) </subject>
+<body>
+
+
+I. RATIONALE 
+
+Non-communicable diseases are the top causes of death worldwide, killing more than 36 million people in 2008. Cardiovascular diseases were responsible for 48% of these deaths, cancers 21%, chronic respiratory’diseases 12%, and diabetes 3% based on the World Health Organization report on Non-communicable Diseases Country Proﬁles 2011part. In the Philippines, cardiovascular diseases, cancers, chronic respiratory diseases and diabetes are among the top killers causing more than half of all deaths annually. Hypertension and diseases of the heart are among the ten leading causes of illnesses each year. These lifestyle related non-communicable diseases have common risk factors which are to a large extent related to unhealthy lifestyle particularly tobacco use, unhealthy diet, physical inactivity and alcohol use (National Objectives for Health 2005—2010). 
+
+These evident data have pushed international organizations to take actions and drive the entire world to prevent these kinds of diseases, which are long in duration and generally slow in progression. Recognizing the urgency of the situation, the Department of Health (DOH) as-the principal health agency in the Philippines, took on the lead in making policies and programs that could lessen these cases. In April 14, 2011, Administrative Order No. 2011-0003 or the National Policy on Strengthening the Prevention and Control of Chronic Lifestyle Related Non Communicable Disease was issued. The Order states that the Department of Health shall provide leader-ship in addressing lifestyle related non-communicable diseases and institute measures in ensuring that the programs for prevention are met and implemented. Section XI, Item No. 5 states that the National Epidemiology Center and the Information Management Service shall establish and sustain public health and hOSpital surveillance systems including registries, for lifestyle-related diseases and other non-communicable diseases. 
+
+On the other hand, in the Asia Paciﬁc Region, it is estimated that injuries caused about 2.7 million deaths in 2002, or over 7000 deaths daily, which constituted 52% of wOrldwide injury deaths. .111 response to the injury-related problems, the Department of Health has created Administrative Order No. 2007-0010, dated March 19, 2007, the National Policy on Violence and Injury Prevention. This established a national policy .and strategic framework for injury prevention activities for DOH and other government agencies, local government units, non—government organizations, communities and indiViduals. Related to injury is violence against women and children which is not merely a health concern and requires a whole range of medical, social, and non-medical interventions and services. Administrative Order No. LB, 3. 1997 established a Women and Children Protection Unit in All DOH Hospitals. Further, the DOH supports the program on persons with disabilities and has created Administrative Order N0.16-As.1999 which established the Guidelines on the issuance of Certiﬁcation of Disability to Persons with Disabilities. 
+
+
+
+To make available the data on chronic non-communicable diseases, injury, violence and disabilities, the Uniﬁed Registry Systems were developed by the DOH. These are the Integrated Chronic Non-Communicable Diseases, Online National Electronic Injury Surveillance System, Philippine Registry for Persons with Disabilities, and Violence Against Women and Children Registry System. This Order mandates all government and private clinics and hospitals to submit reportable cases of chronic non-communicable diseases, injuries, violence, and disabilities to the DOH Information Management Service, and deﬁnes the implementing procedures and guidelines related thereto. 
+
+II. DECLARATION OF POLICIES 
+
+1. This Order complements the following issuances or provisions: 
+
+2. The 1987 Philippine Constitution mandates the following: Article II Section 15 for the protection and promotion of the right to health of the people and instills health consciousness among them; and (2) Article 13, Section II, which specifies that the state shall adopt an integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services available to all the people at affordable cost. There shall be priority for the needs of the under—privileged, sick, elderly, disabled, women and children. The state shall endeavor to provide free medical care to paupers. 
+
+3. Republic Act No. 4921, extending the Scope of the Cancer Detection and Diagnostic Center of the Dr. Jose Reyes Memorial Hospital to include also Cancer Treatment and Research 
+
+4. Administrative Order No. 2011-0003 or the National Policy on Strengthening the Prevention and Control of Chronic Lifestyle Related Non Communicable Disease. 
+
+5. Administrative Order No. 2009-0012 on Guidelines Institutionalizing and Strengthening the Philippine Renal Disease Registry under the DOH. 
+
+6. Administrative Order No. 2007-0010, National Policy on Violence and Injury Prevention Administrative Order No. 16-A, s. 1999 Guidelines on the Issuance of Certiﬁcation of Disability to Persons with Disabilities 
+
+7. Administrative Order No.1-B,s.1997 Establishment of 3 Women and Children Protection Unit in All DOH Hospitals 
+
+8. Administrative Order No. 16-A s. 1995 on Diabetes Mellitus Prevention and Control Program in the Philippines. 
+
+9. Administrative Order No. 89-A s. 1990, amendment to A. O. No. 188-A s. 1973 on the Philippine National Cancer Control Program 
+
+10. Administrative order No.19 s.1987 transferring the funCtions of the Cancer Control Center to the Jose Reyes Memorial Hospital and to the Non Communicable Disease Control Services 
+
+11. Administrative Order No.188-A s. 19 73, Authority and Functions of the National Cancer Control Center of the DOH 
+
+12. Department Memorandum No. 2008-0204 on Collection and Submission of Philippine Renal Disease Registry Forms. 
+
+
+III. OBJECTIVES 
+
+The issuance of this Order aims to achieve the following objectives: 
+
+
+1. Provide standard recording and submission of reportable cases related to chronic non- communicable diseases, injuries, violence, and disabilities which are diagnosed or conﬁrmed accordingly to the DOH. 
+
+2. Collect data that are essential for public health planning, use, and/or implementation. 
+
+3. Establish clear operating guidelines and/or procedures in the implementation of he registry system
+
+4. Deﬁne rules to protect the conﬁdentiality of data.
+
+
+
+SCOPE OF APPLICATION 
+
+This Order shall apply to all DOH Central Ofﬁce, Centers for Health Development Ofﬁces, ProvinciaI/District/City/Municipality Health Ofﬁces, and government and private Clinics and hospitals including medical professional societies/associations. 
+
+DEFINITION OF TERMS 
+
+For purposes of this Order, the following terms are deﬁned as follows: 
+
+1. BHFS
+
+Bureau of Health Facilities and Services 
+
+2. CHD 
+
+Center for Health Development 
+
+3. Clinical Diagnosis  
+
+Diagnosis based on a study of the signs and symptoms of a disease. (The American Heritage® Medical Dictionary Copyright © 2007, 2004 by Houghton Mifﬂin Company. Published by Houghton Mifﬂin Company. All rights reserved http://medical-dictionary.thefreedictionary.com/clinical+diagnosis
+
+4. COPD 
+
+Chronic Obstructive Pulmonary 
+
+5. DOH 
+
+Diseases Department of Health
+
+6. ICNCDRS 
+
+Integrated Chronic Non-Communicable Disease Registry 
+
+7. Injury 
+An injury is the physical damage that results when a human body is suddenly or brieﬂy subjected to intolerable levels of energy. It can be a bodily lesion resulting from acute exposure to energy in amounts that exceed the threshold of physiological tolerance, or it can be an impairment of function resulting from a lack of one or more vital elements (i.e. air, water, warmth), as in drowning, strangulation or freezing. The time between exposure to the energy and the ppearance of an injury is short. (INJURY SURVEILLANCE GUIDELINES Published In conjunction with the Centers for Disease Control and Prevention, Atlanta, USA, by the World Health Organization, 2001) 
+
+8. IMS 
+
+Information Management Service 
+
+
+9. NCDPC 
+National Center for Disease Prevention and Control 
+
+10. NCHFD
+National Center for Health Facility Development 
+
+11. NEC 
+National Epidemiology Center 
+
+12. Medical Associations 
+Refer to associations like Medical Societies, Specialty Divisions and Specialty Societies, Afﬁliate Societies, and other related associations. 
+
+13. Reportable Case 
+Refers to diagnosed or conﬁrmed chronic Anon-communicable disease, injury, violence, or disability. 
+
+14. Reporting Health Facilities 
+Refer to government and private clinics, hospitals, medical societies and other professional organizations with existing information systems. 
+
+
+15. URS (Uniﬁed Registry Systems) 
+
+Collection of data related to patients with diagnosed/conﬁrmed cases on chronic non-communicable diseases, injuries, violence, and disabilities.
+
+
+VI. GENERAL GUIDELINES 
+
+1. The Uniﬁed Registry Systems shall serve as tools and mechanisms to collect information on reportable cases on chronic non-communicable diseases, injuries, violence, and disabilities that have been diagnosed or conﬁrmed as such in the country as basis for sound and rational planning, implementation, monitoring and evaluation of health programs; development of health services, health policies and programs, and inputs to studies and other related undertakings. 
+
+2. Professional societies and those with existing information systems shall upload the required data to the DOH Information Management Service to generate national data. 
+
+3. The security, conﬁdentiality, and integrity of data shall at all times be secured and/or protected.
+
+4. Monitoring shall be conducted by the NCDPC, NEC, and/or IMS in coordination with the NCHFD and BHFS, to evaluate compliance of reporting facilities, strengthen quality assurance, and monitor the performance of the uniﬁed registry systems. 
+
+SPECIFIC GUIDELINES 
+
+A. Uniﬁed Registry Systems” Reporting 
+
+The Uniﬁed Registry Systems shall serve as tools and mechanisms to collect information on reportable cases on chronic non-communicable diseases, injuries, violence, and disabilities that have been diagnosed or conﬁrmed as such in the country as basis for sound and rational planning, implementation, monitoring and evaluation of health programs; development of health services, health policies and programs, and inputs to studies and other related undertakings. 
+
+Data submitted through the Uniﬁed Registry Systems can be accessed by the Bureau of Health Facilities and Development and CHDs, and can be included in the required hospital statistical reports. 
+
+1. Reporting health facilities refer to government and private clinics and hospitals. All reporting health facilities shall report diagnosed or conﬁrmed cases of chronic non-communicable diseases like cancer, diabetes, stroke, COPD, renal diseases, blindness, mental health, cardiovascular and other chronic non-communicable diseases; injuries, violence, and disabilities on a regular basis to the URS. 
+
+2. Regular basis shall refer to the frequency of reporting, namely: 
+
+i Chronic Non-Communicable Diseases 
+Monthly 
+
+ii Injuries 
+Daily 
+
+iii Violence 
+Daily 
+
+iv Disabilities 
+Monthly 
+
+3. When there is a reportable case, the reporting health facility, through the concerned doctor or authorized personnel, shall ﬁll up the appropriate standard recording form. The standard recording forms are as follows: 
+
+1 Cancer Registry Form Annex 1.0 
+
+ii COPD Registry Form Annex 2.0 
+
+iii Diabetes Registry Form Annex 3.0 
+
+iv Stroke Registry Form Annex 4.0 
+
+v. Patient Injury Registry Form Annex 5.0 
+
+vi Fireworks Injury Surveillance Patient Annex 6.0 
+Information Sheet 
+
+vii Violence Against'Women and Children -- Annex 7.0 Patient Information Sheet 
+
+viii Persons with Disability Registration Form Annex 8.0 
+
+4. Reporting health facilities shall use the Online Data Entry or Data Uploading that is applicable to their current settings, situations, and/or capacities to submit their reportable case to the DOH IMS. The official website address is - http://uhmisl .dohgov.ph/UnifiedRegistryNC.
+
+
+5. For Chronic Non-Communicable Disease and Persons with Disability monthly reporting, the period for entering or uploading data shall be every ﬁrst ﬁve (5) working days of the month. The submitted data shall already be validated or checked by the reporting health facilities and considered as clean and oﬂicial. 
+
+6. The URS shall be available twenty-four (24) hours per day and seven (7) days a week. In any situation where the URS is unavailable due to problems in the DOH’s Internet Service Provider, database and application servers, and other concerns, an email message shall be sent to all reporting health facilities. Same _ users shall be notiﬁed by email once the URS becomes available. 
+
+7. Information Technology support shall be available during working days, i.e. Monday to Friday. Request for issuance of user names and passwords, and other system administration services shall be addressed on the following working day. 
+
+B. Data Uploading 
+
+Professional societies and those with existing information systems shall upload the required data to the DOH Information Management Service to generate national data. . 
+
+1. Ofﬁces with information systems being funded by the DOH like the Philippine Cancer Society, Renal Disease Control Program, and others shall upload data to the DOH IMS. 
+
+2. Medical Associations are encouraged to upload data to the DOH IMS to ensure a coordinated and systematic approach to data collection and analysis of data. 
+
+3. Data Dictionaries for Uploading shall be given to standardize the data to ensure interoperability and data sharing. 
+
+4. A Memorandum of Agreement between the DOH and those facilities with existing information systems shall be issued for systematic data uploading, conﬁrmation of roles, duties and responsibilities, and commitment to upload the data. 
+
+
+C. Security of Data 
+
+The security, conﬁdentiality, and integrity of data shall at all times be secured and/or protected
+
+
+1. Each reporting health facility shall only be given one (1) account, i.e. user name and password for close monitoring of . compliance and accountability. Heads of Reporting Health Facilities, i.e. Chiefs, Directors, or equivalent, shall disseminate accountable to any misuse or abuse in the use of the accounts. 
+
+2. Users of the URS shall be managed through the System Administration — Users’ Account Function of the system and to be administered by the IMS. 
+
+3. Passwords can be changed by the reporting health facilities but the user names are permanent and cannot be modiﬁed. 
+
+4. Reporting facilities shall ensure that the data are validated or checked before uploading. Submitted data cannot be edited or modiﬁed. Reporting health facilities shall undergo the following processes to request for editing:
+
+i. Fill up the Incident Report (Annex 9.0) with the approval signature of the head of the reporting health facility or duly authorized personnel. 
+
+ii. Submit the Incident Report to the NCDPC via personal delivery or mail. 
+
+iii. Wait for conﬁrmation that the changes or modiﬁcations have been done or entered. 
+
+5. Reporting health facilities can only access the data that they submitted, and shall not be able to view the data of other health facilities. A written request for an electronic copy of their submitted data in excel, word, xml, or csv formats shall be required from the Head of the Reporting Health Facilities or duly authorized personnel. 
+
+6. Information about the reportable cases shall be available at a consolidated, summary or statistical level. Personal details are restricted. 
+
+7. DOH personnel handling the URS shall not disclose the contents of the registry or any individually-identiﬁable information which may have come to his knowledge in the course of performing any duty or function under this Order or carrying any act in relation to this Order. Any person who fails to comply with this shall be guilty of an offense and shall be legally liable. 
+
+8. The NCDPC shall evaluate and approve request for data including individually-identiﬁable information. In determining whether to approve the request for data or disclosure, the following shall be critically considered: 
+
+
+i. Objectives of the national public health programs including public health safety and beneﬁts
+
+ii. Use of the data 
+
+iii. Identity of the ofﬁcers or persons to whom the data will be given or disclosed iv. Measures to protect the data 
+
+The URS shall keep an audit trail of all data accesses. The NCDPC shall suspend, terminate or lift the users’ accounts if any provisions of the procedures or guidelines are violated, or the security, conﬁdentiality or integrity of the systems andlor data is compromised. 
+
+Monitoring valuation of Registry System 
+
+Monitoring shall be conducted by the NCDPC, NEC, and/or IMS in coordination with the NCHFD and BHFS, to evaluate compliance of reporting facilities, strengthen quality assurance, and monitor the performance of the uniﬁed regisny systems 
+
+
+1. The NCDPC in coordination with the NBC and/or IMS shall create and maintain a harmonized standard system monitoring tool and reporting form to be used during monitoring. 
+
+2. Monitoring activities shall be done on a quarterly basis with the following factors to consider in selecting the health facilities to monitor: 
+
+i. Non-compliance in reporting data 
+
+ii. Irregular reporting of data 
+
+iii. Delayed reporting of data 
+
+iv. With deﬁciency ﬁndings as validated or assessed by the NCDPC, NBC, and/or IMS. 
+
+v. With verbal or written complaints reported or ﬁled by concerned ofﬁces, individuals, or other organizations. 
+
+vi. Other factors that may identiﬁed during system implementation. 
+
+3. An annual review of the system and its implementation issues shall be conducted to evaluate its performance based from the monitoring conducted quarterly. It shall be conducted with the concerned stakeholders in each registry system. 
+
+Sanctions for Non-compliance 
+
+Administrative Order No. 2011-0020, Section V. Guidelines, A. Streamlining of Licensure and Accreditation of Hospitals, Speciﬁc Guidelines, f. Reports, states that “an annual updated consolidated hospital statistical reports shall be prepared by DOH- CO/CHD in accordance with the format posted in at DOH website”. Failure to comply with any of these rules and regulations and its related issuances shall constitute a violation'and shall be penalized following Section IV. Guidelines A. Violations and B. Sanctions of A0. No. 2007-0022 re: “Violations Under the One—Stop Shop Licensure System for Hospitals.” 
+
+VIII. ROLES AND RESPONSIBILITIES 
+
+1. Reporting Health Facilities (Government Hospitals, Private Hospitals and Clinics and Professional Societies with existing registry) shall: 
+
+a. Designate full time and backup personnel who shall be responsible for entering or uploading data into the systems. A 
+
+b. Enter or upload quality data, i.e. accurate, valid, reliable, and/or timely on a regular basis. 
+
+c. Report erroneous submitted data to the NCDPC for proper correction or editing. 
+
+d. Report problems that are encountered during operations through the online reporting system. 
+
+National Center for Disease Prevention and Control shall: 
+
+a. Manage the overall implementation of the registry system including direction and guidance in the continuing operations, system enhancement, .and data management. 
+
+b. Formulate processes, procedures, policies and guidelines related to the registry system. 
+
+c. Address 1ssues, concerns, and/or problems accordingly like respond to queries about the forms, reports and standard operating procedures or processes. 
+
+d. Formulate policies, procedures, guidelines, and relevant protocols to ensure continuous operations, and develops program interventions as needed. 
+
+e. Validate data according to agreed level of validation to confirm its quality. 
+
+f. Review management, statistical, and other reports with the end objective of providing the necessary recommendations or comments. 
+
+g. Compile and publish reports on non-communicable diseases data. 
+
+h. Provide funds to support studies/researches as a result of data ﬁndings. 
+
+i. In collaboration with the concerned specialty societies shall analyze and interpret the data generated from the system. 
+
+j. Suspend, terminate or lift the user accounts if reporting facilities failed to comply with the reporting standards and/or divulged any form information without any prior authorization from the DOH. 
+
+k. Issue a Memorandum of Agreement between the DOH and those facilities with existing information systems for systematic data uploading, conﬁrmation of roles, duties and responsibilities, and commitment to upload the data. 
+
+National Epidemiology Center shall: 
+
+a. Support the development of processes, procedures, policies and guidelines related to the registry system. 
+
+b. Address issues, concerns, and/ or problems accordingly. 
+
+c. Assist in the formulation of policies, procedures, guidelines, and relevant protocols to ensure continuous operations, and develops program interventions as needed. 
+
+d. Review management, statistical, and other reports with the end objective of providing the necessary recommendations or comments. 
+
+e. Validate data according to agreed level of validation to conﬁrm its quality. 
+
+f. Provide funds to support studies/researches as a result of data ﬁndings. 
+
+g. Monitor the implementation of the system. 
+
+h. Supervise data management. 
+
+
+Information Management Service shall: 
+
+a. Maintain the registry software. 
+
+b. Address technical problems accordingly. 
+
+c. Train users on how to operate the registry system. 
+
+d. Assist 1n the formulation of policies, procedures, guidelines, and relevant protocols to ensure continuous operations, and develops program interventions as needed. 
+
+e. Perform database and network management activities. 
+
+f. Manage the help desk support to ensure continuous operations. 
+
+g. Provide funding on information and communication technology resources based on the DOH Information System Strategic Plan or other DOH directives or issuances. 
+
+National Center for Health Promotion shall: 
+
+a. Translate the salient ﬁndings into messages and materials that are appropriate for speciﬁc population segments. 
+
+b. Conduct communication activities through various media channels to elicit public opinion and generate public discussion favorable to disease prevention and control. 
+
+
+National Center for Health Facility Development shall: 
+
+a. Provide implementation support like deve10ping guidelines and policies to ensure continuous compliance of hospitals to this directive.
+
+b. Monitor the implementation of the system operation. 
+
+
+7. Bureau of Health Facilities and Services shall: 
+
+a. Provide implementation support like deve10ping guidelines and policies to ensure continuous compliance of hospitals to this directive.
+
+b. Monitor the implementation of the system operation. 
+
+8. Center for Health Development shall: 
+
+Ea. nsure timely entry or uploading of quality data into the registry system. 
+
+b. Report erroneous data for correction or editing using the Incident Report Form.
+
+c. Report problems that are encountered during operations. 
+
+d. Participate in the evaluation of the registry system to further improve the functionalities or performance of the system. 
+
+e. Provide technical assistance such as training and monitoring activities and lead the regions to ensure the implementation of all the systems. 
+
+9. Local Government Units (Provincial Health Office, District Health Ofﬁce and Municipal Health Ofﬁce) shall: 
+
+a. Provide implementation support to ensure continuous compliance of to this directive. 
+
+b. Ensure availability of all data collection, processing, monitoring and reporting forms or tools in each reporting facility. 
+
+c. Provide technical assistance such as training and monitoring activities to ensure the implementation of all the systems. 
+
+10. Professional Societies (Medical, Nursing, and other Paramedical Societies), Development Partners and Private Organizations 
+
+a. Professional societies with existing information systems shall upload the required data to the DOH Information Management Service to generate national data. 
+
+b. Shall provide expert inputs on the analysis and interpretation of the data gathered from the registries. 
+
+c. Shall participate in the evaluation of the registry system to further improve the functionalities or performance of the system. 
+
+IX. REPEALING CLAUSE
+
+Provisions from previous issuances that are inconsistent or contrary to the provisions of this Order are hereby rescinded and modiﬁed accordingly. 
+
+x. SEPARABILITY 
+
+If any provision of this Order is declared invalid, the other provisions not affected thereby shall remain valid and subsisting. 
+
+XI. EFFECTIVITY 
+
+This order shall be effective immediately. 
+
+</body>
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+ 
+<image>form_1.png</image>
+<image>form_2.png</image>
+<image>form_3.png</image>
+<image>form_4.png</image>
+<image>form_5.png</image>
+<image>form_6.png</image>
+<image>form_7.png</image>
+<image>form_8.png</image>
+<image>form_9.png</image>
+<image>form_10.png</image>
+<image>form_11.png</image>
+<image>form_12.png</image>
+<image>form_13.png</image>
+<image>form_14.png</image>
+<image>form_15.png</image>
+<image>form_16.png</image>
+<image>form_17.png</image>
+<image>form_18.png</image>
+<image>form_19.png</image>
+<image>form_20.png</image>
+<image>form_21.png</image>
+<image>form_22.png</image>
+<image>form_23.png</image>
+<image>form_24.png</image>
+<image>form_25.png</image>
+<image>form_26.png</image>
+<image>form_27.png</image>
+<image>form_28.png</image>
+<image>form_29.png</image>
+<image>form_30.png</image>
+<image>form_31.png</image>
+ 
+
+ 

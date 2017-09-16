@@ -1,0 +1,813 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+2nd Floor, Bldg. 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila
+Telefax: (0632)743-1829 Trunkline: 743-8301 loc 1125, 1127 & 1128
+
+<date>05/07/2007</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2007 - 0015</docnum>
+
+<subject>SUBJECT: Revised Guidelines in the Management and Prevention of Schistosomiasis</subject>
+
+<body>
+I. BACKGROUND / RATIONALE
+
+Schistosomiasis is an infection caused by Schistosoma japonicum a blood fluke endemic in the Philippines. It is the second most prevalent disease in the world after Malaria and remains to be a leading cause of morbidity in many parts of the world. Manifestation of the disease depends on the species a person is infected with, and the intensity of infection. Schistosoma japonicum species, which is found to be endemic in the Philippines, China and Indonesia, accounts for most of the transmission among the three major schistosome species, and one of the most difficult to control, due to its zoonotic nature. It has been controlled in some parts of the country such as Bohol, Zamboanga del Sur, Sultan Kudarat and Surigao del Sur and efforts have significantly reduced the transmission of the disease.
+
+Recent environmental changes, closely linked to water resources development and increase in population densities, have led to the spread of the disease to previously low or non-endemic areas. With the approval of Republic Act No. 8435, otherwise known as the Agricultural Fisheries and Modernization Act of 1997, communal and national irrigation systems have emerged especially in the Mindanao Mainland, almost all provinces of which are all endemic of the disease.
+
+Mass treatment strategy was first implemented in the Garage region to arrest dramatically high disease prevalence in the area due to constant flooding and heavy rainfall. This was implemented through Administrative Order No. 20-A, 3.1999, where mass treatment for schistosomiasis in endemic areas in Caraga Region was carried out in June 1999 and has successfully reduced the disease prevalence from 18% to 3%. Hence, Mass treatment as a strategy was promoted through Administrative Order No. 55-A s. 2000. In addition to the huge logistical requirements, achieving and sustaining high  coverage rates are major challenges. The community response is dependent on the intensity of advocacy and promotion prior to the actual conduct of mass treatment activity.
+
+Despite the progress achieved, schistosomiasis remains endemic in eleven (11) regions covering 28 provinces, 189 municipalities and 2,222 barangays of the country. Two additional municipalities of Gonzaga, Cagayan (Region 2) and Calatrava, Negros Occidental (Region 6) were positively confirmed in CY-2004 and CY- 2006 as endemic for schistosomiasis with the presence of indigenous cases, infected Oncomelania hupensis quadrasi snail vector. Existing active transmission was shown by positive cases at 10% disease prevalence for Cagayan (2004) and 69% disease prevalence for Calatrava, Negros Occidental (May 2006) during the conduct of epidemiological surveys.
+
+The total affected population approximates to 12 million and about 2.5 million among children from 5 to 15 years of age and the national mean prevalence for the past five years is 4.5 in 1997, which was programmed to be reduced to 1% by the end of CY-2010.
+
+The Fourmula One for Health intervention in service delivery aims to improve the accessibility and availability of basic and essential health care for all, particularly the poor. In line with this, efforts should be made to reduce public health threats by undertaking disease free zones initiatives, implementing intensified disease prevention and control strategies and enhancement of health promotion and disease surveillance. Pursuant to the Local Government Code of 1991, Section 17-Subsection c & d, the DOH is granted authority to determine standards and guidelines for the prevention and management of diseases. The involvement of the LGUs, NGOs and private health facilities in the prevention and control of schistosomiasis necessitates the issuance of an updated and evidence based protocol in the diagnosis, treatment, and prevention of schistosomiasis to sustain the efforts of stakeholders and to strengthen the public health system.
+
+With the recent evidence unfolding, there is a need to revise the existing guideline previously issued to determine the standards and guidelines for the prevention and management of schistosomiasis to include hospital management.
+
+II. OBJECTIVE
+
+This guideline aims to establish a standard in the screening & diagnosis, treatment, prevention and control of schistosomiasis for all public & private health facilities and other stakeholders.
+
+III. COVERAGE
+
+This order shall apply to all public and private health workers, LGUs, NGOs, academe and other stakeholders involved in the prevention and control of schistosomiasis.
+
+IV. DEFINITION OF TERMS
+
+A. History of Exposure ( Hx E ) - refers to actual water contact in natural or man-made waterways or bodies of water, contiguous or non-contiguous, in an endemic area.
+
+B. Schistosoma japonicum case (Sj)
+
+B.1 Suspected Case - With Clinical signs and with history of exposure to endemic area.
+
+B.2 Confirmed Case - Positive stool exam by Kato Katz or any diagnostic method.
+
+B.2.1. Complicated case - refers to manifestation of a seizure or signs of portal hypertension (edema, hepatosplenomegaly or ascites) or heart disease or complication of renal disease
+
+B.2.2. Uncomplicated case - refers to cases w/o complications.
+
+C. Prevalence Rate - Number of cases detected divided by the total number of persons examined multiplied by 100.
+
+C.1. Low Prevalence - Prevalence rate of 2% and below.
+
+C.2. Moderate Prevalence - Prevalence rate of 2.1% - 9.9%
+
+C.3. High Prevalence - Prevalence rate 10% and above
+
+D. Population - Number of residents living in a particular locality based on NSO survey.
+
+D.1. Exposed/ Endemic - Total number of persons residing in an endemic area.
+
+D.2. Eligible/ Target - Selected proportion of the endemic or exposed population.
+
+E. Global Positioning Satellite System - Device that uses measurements from an overhead satellite to plot the exact coordinates of a geographical area.
+
+V. GUIDELINES AND PROCEDURES
+
+A. Screening and Diagnosis
+
+1. Take clinical history & conduct physical examination by filling up the Individual Patient Record that includes past history of exposure to an endemic area, signs & symptoms ( Refer to Annex-A- Individual Patient Record).
+
+2. Do Clinical Rapid Assessment (CRAss) with the following criteria / indications for Schistosoma japonicum case:
+
+2.1 A history of exposure to endemic areas and any one (1) of the following signs/ symptoms (S/ S) with or without hepatomegaly:
+
+i) Headache
+ii) Weakness
+iii) Pallor
+iv) Seizure
+v) Bloody stool
+vi) dizziness
+vii) abdominal pain / epigastric pain
+
+3. Walk in patients with history of exposure to an endemic area who manifests any one of the above cited signs/symptoms maybe subjected to a laboratory confirmatory test; (Refer to Annex-B-Algorithm on Screening and Diagnosis).
+
+B. Laboratory Work-Up: For Out-Patient.
+
+1. Two stool examination using the Kato Katz technique; (Refer to Annex C - Procedure For Kato Katz Modified Thick Smear Technique). If first stool exam is negative, repeat the stool exam using another sample on another day within a week.
+
+a. Require the patient to submit adult-thumb size formed stool sample, preferably taken from the last portion or tail end of the stool. Place the specimen in a clean, leak proof container.
+
+b. Perform stool examination using two (2) aliquots per slide and determine Egg Per Gram (EPG). (See Annex D- EPG Index for Categorizing Intensity of Infection)
+
+c. Because persons with inactive infection (treated w/in 14 days) may continue to shed dead eggs into stool for months, tests for egg viability such as egg hatching or microscopic examination of eggs for movement of flame cells should be performed.
+
+2. Consider the following ancillary procedures, if negative for ova after two Kato-Katz thick smear, in patients with high index of suspicion: COPT, Rectal imprint/biopsy and Ultrasound (UTZ).
+
+3. In areas without laboratory facilities and medical technologists, and if patient clinically manifests the signs and symptoms of schistosomiasis as evidenced by the patients history and physical examination, the patient Should be treated, using the CRAss (See Section A,2.2.1- Screening and Diagnosis). Record all S. japonicum cases identified on the basis of S/S,
+
+C. Therapeutic Management
+
+1. Management Guidelines
+
+a. Primary Health Facilities for Outpatients
+
+a.1 Selective Treatment (Passive or Active Surveillance)
+
+Selective treatment is supported by a laboratory examination result positive for Schistosoma japonicum ova by stool exam and or rectal imprint.
+
+• Drug of choice is Praziquantel 600mg/tab.
+
+Dosage: Refer to Annex-E- Guideline on dose calculation.
+
+■ 60mg/kg body weight for one day
+■ Taken in two (2) divided doses at 4 to 6 hours interval with full stomach
+■ Observe patients for possible adverse reactions 1 to 3 hours such as headache, dizziness, abdominal discomfort, and less commonly, nausea, vomiting, diarrhea, fever and urticaria. Then instruct the patient to watch out for these reactions for 24 hours.
+
+• Supportive drugs maybe given to cases with adverse reactions as appropriate.
+• Follow up Repeat treatment of confirmed cases 2 months later because praziquantel does not kill developing worms.
+• Indications for hospital referral - such as presence of complications such as periportal fibrosis, splenomegaly with hypersplenism, development of portosystemic collateral blood vessels, cor pulmonale, glomerulonephritis, CNS schistosomiasis (patient with seizures, focal neurologic deficit), such as signs of increased intracranial pressure, diffuse encephalitis.
+
+a.2 Mass Treatment
+
+1. A trained health worker should supervise the conduct of mass treatment. Use the Master-list of the population in the barangay to determine the treatment target coverage.
+
+2. Praziquantel : Single dosage of 40mg/kg should be given with a full stomach; ( Refer to Annex-E, Guideline on the total dose calculation of Praziquantel, 600 mgs.)
+
+3. Observe adverse events and give symptomatic treatment as may be necessary. An existing referral system must be in place before the conduct of mass treatment.
+
+4. Ensure the availability of drugs for adverse reactions prior to the mass treatment.
+
+Treatment of Adverse Events
+
+Manage the adverse events of Praziquantel through symptomatic treatment: anti-spasmodics, anti-pyretics, analgesics, anti-histamines, antacids and anti-emetics. Adverse events should be recorded for purposes of determining drug supply for its management; (Refer to Annex-F Guide in the Management of Adverse Reactions)
+
+Severe adverse events must be managed in the hospital
+
+b. Secondary and Tertiary Health Facilities for Inpatients
+
+b.1 Criteria and Indications for Admission
+
+§ Jaundice
+§ Bleeding/ Anemia
+§ Large Ascites
+§ Grade 2 and above Pedal Edema
+§ Co-Morbid Conditions: CHF, CRF Etc.
+§ Cerebral Cases
+§ Hepato-splenomegaly (by UTZ)
+§ Liver Fibrosis (By liver biopsy)
+
+Grading Severity of Chronic Schistosomiasis with Portal Hypertension.
+
+<image>table_1.png</image>
+
+Child's Class A: Score of 5-6
+Child's Class B: Score of 7-9
+Child's Class C: Score of &gt;10
+
+b.2 Laboratory Procedures
+
+Routine Examinations
+
+■ CBC
+■ Stool Exam using Kato Katz
+■ Urinalysis
+■ Liver Function Tests (total protein, serum albumin, PT)
+■ Partial thromboplastin time (PTT)
+
+Ancillary Examinations:
+
+■ BUN
+■ Creatinine
+■ Blood Chemistry
+■ Hepatitis Markers - (HbsAg, Anti-HCV)
+■ Blood CS
+
+Other Exams conditional on case at hand
+
+■ Rectal biopsy / imprint / proctoscopic snip test
+■ COPT; ELISA
+■ EEG
+■ CT Scan; MRI
+■ UTZ
+■ X-ray
+■ Cerebrospinal fluid test
+
+b.3. Case Definition for Final Diagnosis:
+
+Definitive Diagnosis: A case with a (+) laboratory result from any of the following:
+
+■ Schistosoma egg in stool
+■ Rectal Biopsy/Imprint / Proctoscopic Snip Test with actual demonstration of viable egg or miracidial shadow
+■ Serologic Test: COPT if no previous history of a positive test result
+■ Immunodiagnostic Test : ELISA
+■ Ultrasound of HBT showing pipe-stem fibrosis
+■ EEG ; CT SCAN; MRI with exposure history to schistosomiasis
+
+b.4 Treatment
+
+b.4.1 Hepato-intestinal cases of schistosomiasis and/ or pulmonary cases of schistosomiasis
+
+Praziquantel dose of 60 mg/kg given in 2-3 divided doses on the same day, preferably after a meal.
+
+Symptomatic/Supportive Treatment
+
+Laxative: Lactulose 30 - 60 cc TID (Adult dose) to make 4 -5 BMs/day or do fleet enema if still without bowel movement.
+
+Diuretics:
+
+■ If with pedal edema: Furosemide (adult dose) 40 mg OD/BID PO or 20 mg IV every 8 hours; Pedia dose: oral 2 mg/kg/dose q 6-8 hours pm; 1 mg/kg/dose q 8- 121M, IV
+
+■ If with ascites: Spirinolactone 50 mg BID/QID P.O. up to a maximum of 400mg/day;
+
+■ Furosemide & Spironolactone (ratio of 100:40 to maintain normokalemia; maximum doses: 160/400)
+
+INDICATIONS TO STOP DIURETICS
+
+§ Encephalopathy
+§ Serum Sodium &lt; 120 mml/L despite fluid restriction
+§ Serum Creatinine &gt; 2.0 mg/dL
+§ Hyperkalemia & metabolic acidosis (Spironolactone usage)
+
+• Therapeutic Paracentesis:
+Small Volume (up to 1 liter/tap)
+Large Volume (up to 4-6 l/tap): Albumin infusion is recommended
+For Refractory ascites: Intermittent large volume paracentesis (up to a total of 10L) with Sodium restriction and IV colloid replacement, preferably albumin.
+
+■ Portal hypertension : Propranolol (adult dose) 10 mg TID or ISDN 20 mg BID; Pedia: 0.5- 1 mg/kg/24 hours divided into q 6-12 hours with a maximum of 2 mg/kg/24 hours.
+
+■ Bleeding Esophageal Varices:
+§ Sclerotherapy
+§ Rubber Band Ligation
+§ Trans-jugular Intra-hepatic Shunt (TIPS)
+
+■ Bleeding due to decrease in clotting factors: give 4-5 units of fresh frozen plasma or a pediatric dose of 10 cc/kg/dose plus 1-2 doses Vitamin K1 (phytomenadione or aquamephytone) at 10mg/ml amp. Q8Hrs; media dose of Vitamin K1 is 1-2 mg/dose IV once or 2-5 mg/24 ours, orally and PO.
+
+■ Epigastric Discomfort: Proton Pump Inhibitors for adult patients OD or BID ; Pediatric dose: 0.5 ml/kg/dose or 40 mg/kg/dose p.o.; Ranitidine: p.o. 2-4 mg/kg/24 hours divided into q 12 hours. IV
+
+■ Gastrointestinal bleeding:
+* IV Proton Pump Inhibitors BID
+■ H2-blockers: Ranitidine IV/IM 50 mg every 8 hours or
+§ Nasogastric tube insertion
+
+■ Renal Failure: Cautious fluid management with CVP insertion and monitoring and refer to Intensive Care Unit.
+
+■ Hypoglycemia: Hypertonic Glucose D50-50 IV (adult dose); Pediatric dose: 1 gm/kg glucose IV
+
+■ Nutritional Therapy:
+
+Multivitamins
+Fluid: restricted to 1- 1.5 liters / day if with hyponatremia (Na&lt;l 30)
+Dietary Recommendations:
+
+§ Full High Fiber Diet
+§ Sodium restriction for ascitic cases
+§ Protein restriction for renal compromise Egg whites may be used instead for dietary protein supplement.
+
+• Pediatric computation: formula for energy requirements for catch-up growth:
+
+<image>figure_1.png</image>
+
+* Weight-age is age at which patient's current weight would be in the 50th percentile.
+
+■ Antispasmodic for abdominal pain: Hyoscine-N-butyl bromide 1 amp IV q 8 hrs PRN (adult dose) Pediatric dose: 0.3-0.6 mg/kg body weight by slow IV, IM OR SC several times daily up to a maximum of 1.5 mg/kg body weight/day
+
+■ Contraindicated drugs if liver is severely compromised: hepatotoxic drugs, diazepam, phenytoin
+
+■ Fluid Replacement
+
+Mild DHN - Oresol
+Moderate DHN - Oresol
+Severe DHN - Plain NSS and D5NSS
+
+■ Fever -Paracetamol
+
+■ Antihistamine for allergy: Chlorpheniramine Pediatric dose: 2-6 years old: 1mg/dose p.o. q 4-6 hours prn; maximum of 4 mg/24 hours; 6-12 years old: 2 mg/dose p.o. q 4-6 hours maximum of 12 mg/24 hours; Diphenhydramine Pediatric dose: 5 mg/kg/24 hours divided into q 6 hours p.o./IM/IV (maximum of 300 mg/24 hours)
+
+b.4.2 CNS Involvement in Schistosomiasis
+
+Pathogenesis:
+
+Symptomatic Cerebral Schistosomiasis occur in approximately 2-4% of individuals infected with S. Japonicum. In Symptomatic NS, the eggs reach the CNS through retrograde venous flow into the Batson Vertebral-epidural venous plexus which connects the portal venous flow and the vena cava to the spinal cord and cerebral veins.
+
+Cerebral NS often presents as a slow expanding intracranial lesion. The clinical presentations are variable and depend mainly on the site of the lesion and on the increase in the intracranial pressure caused by the mass effect. Headaches, seizures, papilledema, visual abnormalities, speech disturbances, sensory impairment, hemiparesis, nystagmus and ataxia are common presentation with the symptoms varying from a few weeks to more than a year.
+
+■ Anti-convulsant Phenytoin (Dilantin) should be given as follows:
+
+§ Loading dose of 18 - 20 mg /kg; do EEG after 6 months, if normal, taper the dose every 2 weeks;Adult dose: 5 mg/kg/24 hours divided into OD or q 12 hours p.o./IV; Pediatric dose: 6 months to 3 years: 8-10 mg/kg/24 hours; 4-9 years old: 7-8 mg/kg/24 hours; 10-16 years old: 6-7 mg/kg/24 hours. Doses are divided into q 8-12 hours.
+
+PHENOBARBITAL: Loading: 15-20mg/kg slow IV at &lt; or = 50mg/min
+
+Maintenance: 3-5mg/kg/day
+
+Watch out for signs of respiratory Depression.
+
+Phenytoin Dosage as per Neurology suggestion:
+Loading Dose: Also 18-20mg/kg slow IV at &lt; or =50mg/min
+
+Maintenance: 3-5mg/kg/day
+
+With Hypotension & cardiac arrhythmia precaution
+
+Diazepam: 0.3-0.5mg for pediatric patients w/ frank seizures. For adult cases, 5mg IV( not to exceed 30mg/day)
+
+§ If no EEG is available, the recommendation is to taper the dose after 2 years of being seizure free.
+§ Request EEG at 6 months of anti-convulsant treatment:
+
+Normal EEG: Taper the dose of the anti-convulsant every 1-2 weeks then discontinue.
+Abnormal EEG: Continue anti-convulsant treatment and repeat EEG another 6 mos. Then advise regular OPD follow-up for seizure monitoring.
+
+Note: Other anti-convulsant may be used at the discretion of the attending physician.
+
+■ Praziquantel Dosage :
+
+Dosage for NS caused by S. japonicum is 60mg/kg divided BID-TID for 3 days.
+Pediatric Dose: Less than 4 years is not established.
+For 4 years and older, treat as adult.
+Dosage for S. mansoni & S. haematobium has a range of 40-60mg/kg divided BID-TID for 3 days
+
+■ Corticosteroids
+
+PREDNISONE: 1.5-2.0mg/kg/d administered in 3 daily doses.
+
+METHYLPREDNISOLONE: 500mg every 12 hours for 5 days followed by Prednisone as described above.
+
+NOTE: This high dose prednisone is maintained for about 3- 4 weeks followed by tapering over several weeks.
+
+SURGICAL APPROACH: Due to the risk of additional damage to the involved nervous tissue, this approach should be reserved for specific cases such as A) Those w/ evidence of medullary compression. B) Those who deteriorate despite adequate medical treatment, and C) When there is considerable uncertainty in diagnosis.
+
+b.4.3 SURGICAL APPROACH: To relieve Portal Hypertension and Symptoms of bleeding Esophageal Varices
+
+Around 70% of patients with liver cirrhosis who had an initial variceal hemorrhage will rebleed (1). The risk of rebleeding is lower in patients with presinusoidal obstruction (e.g. portal vein thrombosis or schistosomiasis) and in patients with compensated cirrhosis (Child A) as compared to patients with decompensated cirrhosis (Child B and C) (2). Furthermore it strongly depends on the portal pressure and the variceal pressure (3), Mortality of rebleeding mainly depends on liver function (2,4). It varies between 15 and 50% (4) Concomitant infection is an important risk factor of failure to control bleeding (5) and early rebleeding (4) and therefore worsens prognosis. See Annex «I- Algorithm for Rebleeding Prophylaxis and Annex J- Therapeutic Options for Prevention of Rebleeding.
+
+NOTE: good surgical candidate for above procedures are Child's A to Child's B.
+
+b.5 Precautions in giving Praziquantel
+
+• Administration of Praziquantel is not recommended during the first trimester of pregnancy, to those with severe HPN and /or those with on going TB. Can praziquantel be given to very young children (i.e what is the youngest age group that the drug can be given?
+
+• Precautions in giving praziquantel to those undergoing chemotherapy, severely ill, patients with liver or kidney disease, malnourished, hypersensitivity to the drug and elderly patients and if possible with clearance from an internist.
+
+• Praziquantel may be given to lactating mothers but breastfeeding should be withheld 48 hours after the intake of praziquantel.
+
+• Ocular Cysticercosis is a contraindication to giving praziquantel due to the destruction of parasites within the eye can cause irreparable lesions.
+
+• Praziquantel, likewise, minimally increases the liver enzymes.(Alanine Aminotransferase or ALT) and if possible monitoring of the level of enzymes should be conducted.
+
+b.6 Criteria for Patients Discharge
+
+Improvement of clinical condition : Afebrile for 72 hours; Resolution of signs and symptoms; and at least 50% improvement in values of monitored laboratory parameters.
+
+b.7 Follow up advice upon discharge - Patients are advised to follow-up after 6 months at the OPD or RHU
+
+V. Program Strategies
+
+1. Case Finding
+
+• Case finding should be done (service coverage - active surveillance done in moderate to high endemic areas & priority barangays in low endemic areas) among individuals one year old and above in endemic barangays covering at least 85 % of eligible population. Perform two stool examinations using two (2) aliquots per slide done in different days within a week and determine Egg per Gram using Kato Katz Technique. Compute the total EPG, arithmetic and geometric mean EPG of the total population examined for program evaluation. Fill up the Master-list of Stool Examination.
+
+• Alternatively, when case finding is not feasible, covering less than 85% of the exposed population, the following can be done:
+
+a. Passive case detection or parasitologic exam of walk-in patients in all Government health facilities, and ensure the availability of Praziquantel and lab supplies.
+
+b. Use of a Clinical Rapid Assessment (CRAss) as follows:
+
+b.1 Elicit a history of exposure, defined as water contact or contact with water possibly contaminated with cercaria;
+
+b.2 Review of signs / symptomatology as follows:
+
+■ Headache
+■ Weakness
+■ Pallor
+■ Seizure
+■ Bloody Stool
+■ Abdominal / Epigastric Pain
+■ Dizziness
+
+b.3 Criteria for treatment after doing P.E.:
+
+• Exposure history and S/S
+• This criteria (HxE and S/S) can be enhanced by a finding of hepatosplenomegaly.
+
+2. Treatment
+
+a. Selective Treatment
+
+■ In areas with a prevalence rate less than 10%, that is, in moderate prevalence rate (2.1 -9.9%) and low (&lt;2%) prevalence rate areas, conduct selective treatment only in positive cases.
+
+b. Mass Treatment
+
+■ Treat with Praziquantel (40mg/kg as single dose with full stomach) all 5-65 years of age in a highly endemic barangay (PR&gt;10%) without the benefit of a stool exam.
+
+■ Conduct mass treatment (at least 85% coverage) in high prevalence barangays (PR&gt;10%) for three (3) consecutive years after which evaluation should be done using the following parasitologic & process indicators (See Annex N-List of Parasitological & Process-Indicators)
+
+■ Observable adverse events after intake of Praziquantel should be treated symptomatically.
+
+3. Environmental Sanitation
+
+Promote good sanitation and hygiene practices in endemic communities and encourage the people to reduce environmental health risks, including the safe disposal and hygienic management of human & animal excreta, refuse and waste water.
+
+Specifically, campaign the following:
+
+• Use of sanitary toilets and avoid defecation in the rice fields, rivers, streams-or elsewhere; promote the construction of sanitary toilets in all endemic barangays and monitor the toilet utilization.
+
+• Use water obtained from safe sources for bathing, laundering, cleaning; and drinking;
+
+• Control all the stray and domesticated animals (also agents of disease transmission) to prevent them from wading or polluting the bodies of  water inhabited by snail vectors. Prevent the working animals like the carabaos from bathing/swimming or crossing in infested streams & rivers;
+
+• Use of footbridges or construction of wooden or cemented footbridges as waterway crossings in irrigation canals, dams, rivers, streams and creeks infested with schistosome snail vectors.
+
+4. Snail mapping & control
+
+• Conduct a time searched semi-quantitative survey to map out all disease transmission sites or potential disease transmission sites in all the endemic areas using malacological survey tools including GPS.
+
+• Snail population can be reduced through:
+
+■ Physical snail control by engineering of hydraulic infrastructures such as the concrete lining of canals, ensuring high water velocity, weed control, periodic flushing and emptying of canals.
+
+■ Environmental modification methods such as clearing the vegetation in swampy areas to expose the vector snails to sunlight; construction of fish ponds when water cannot be drained; practice of scientific farming that promotes improved rice culture (e.g. constant plowing & periodic weeding of the fields).
+
+• Chemical Control through Molluscicides
+
+The use of chemicals to control snails is only recommended in areas with low prevalence(&lt;1%) as a final phase of elimination. A comprehensive mapping of snail colonies in the area should be done prior to such measure.
+
+The use of molluscicides for snail control is restricted due to acute inhalation toxicity, aquatic organism toxicity and ground water contamination. Evidences on the health hazards to chemical applicators, death of aquatic organisms, contamination of food chain & ground water have been documented in other countries.
+
+5. Health Promotion
+
+• Prevention and control is optimal when it is part of the general health care "system and when the Primary Health Care System performs specific control tasks for:
+
+■ Social Mobilization & Advocacy
+■ Linkage & Networking
+■ Formation of Task Forces
+
+• The Department of Education school curriculum is encouraged to integrate health education among children on disease infection, transmission, prevention and control of endemic parasitic diseases.
+
+• Community organizations and peoples participation are enjoined in combating the disease to effect change in the attitudes and practices of the people who are exposed and at risk to schistosomiasis infection
+
+• The use of tri-media is recommended as an effective tool to create awareness, to advocate, promote and educate the people on disease transmission, diagnosis, treatment, prevention & control of schistosomiasis.
+
+6. Health Impact Assessment:
+
+Health Impact Assessment should be carried out in close association with, but distinct from, environmental assessment, because it considers changes in both environmental and social determinants of health
+
+• Schistosomiasis is a multifaceted problem that approaches to control must be multisectoral; the involvement of DepEd, DA-BAI & NIA, DPWH, DENR, DILG-LGUS, PIA, Academe, International Aid Organizations, NGOs, Professional Organizations and all stakeholders will strengthen & enhance the efforts of disease control & elimination.
+
+7. Surveillance and Monitoring
+
+• The DOH shall provide technical assistance in the conduct of Surveillance & Monitoring of Schistosomiasis in partnership with the LGUs and other stakeholders.
+
+• Areas with large population coverage (&gt;120,000 population / province) may select Index barangay schools as sentinel sites. for surveillance of human cases. The selection shall follow the areas of snail sentinel sites.
+
+• Human cases will be monitored using a sentinel group of public school children, grades 1-3. Annual Parasitologic examination should be done on these children and will be used for purposes of determining trends in human infection, using the Kato Katz technique. The EPG will be likewise obtained in parasitologic examinations.
+
+• Conduct rapid epidemiological surveys in response to suspected new areas.
+
+• Monitor households in the endemic areas as to the existing sanitary toilets facilities, safe water supply facilities and the utilization of these facilities.
+
+• Conduct a prevalence survey every 5 years to determine the status of prevalence per endemic barangay / municipality / province for program evaluation. A random selection (multi-stage sampling) of endemic barangays shall be done.
+
+• Sentinel surveillance (snail vectors) of disease transmission sites (at least 3-5 municipalities per province) should be done to determine the snail density and snail infection rate in areas of low prevalence.
+
+8. Quality Control (QC):
+
+• Ten percent of the total slides examined randomly, should be subjected to a blind validation by a Certified Validator for Schistosomiasis, other Helminths & Protozoans from another province ; ( see Algorithm in Annex-G, Quality Control for Validation ). This random validation shall be done in all slides examined.
+
+• Slides examined by the RHUs and other health facilities shall be validated by a certified provincial validator. Refer to Algorithm for QC of RHUs in Annex-L.
+
+• A discordance of 15% of the total slides validated shall be sent to Central Office for inter validation by UPM-CPH or RITM.
+
+• Proficiency training or retraining of Med Techs shall be based. on the result of inter validation.
+
+9. Networking and Linkages
+
+A multi-sectoral approach is encouraged in. the implementation of schistosomiaSis project initiatives with. the involvement of all stakeholders, collaborating Institutions, and. local community organizations.
+
+VII. IMPLEMENTING - GUIDELINES
+
+A. Phased Implementation
+
+a. The CHDs should provide technical assistance to LGUs to build its capacity for implementation.
+
+b. Piloting / Operationalization of Sentinel Surveillance for human disease and snail vector.
+
+Year 2007-2010
+
+• Development of Surveillance System in coordination with National Epidemiology Center
+• Pilot implementation of different sites for sentinel surveillance
+• Operationalization of Surveillance system
+• Training and Human Resource development of CHDs/ LGUs / RHUs/ government & private hospitals.
+• Resource Generation / Sharing
+• Joint Program Implementation Review (PIR) and Planning with the Local Government
+
+c. Reporting
+
+• Forms to be used with the narrative summary are Annex D , L & M . Form. L. with narrative-summary should be submitted
+
+• Observe reporting flow as follows:
+From RHU to PHO monthly: From PHO to CHD quarterly, From CHD to CO quarterly.
+
+All stakeholders should develop strategies for schistosomiasis control including early and prompt treatment. Integration with other health care services provided by the different levels of care in endemic areas should be done.
+
+B. Roles and Responsibilities
+
+1. Department of Health ( DOH )
+
+a. National Center For Disease Prevention and Control (NCDPC)
+
+• Formulation of the Schistosomiasis Program Investment Plan.
+• Formulates evidence based policies to improve/enhance the program implementation
+• Conduct Training of Trainers and provision of support for capacity development at all levels of health care.
+• Put in place a "system" for Health Human Resource Development, Logistics Management , Reporting and Surveillance Systems.
+• Conduct regular Monitoring and Evaluation activities.
+• Provide technical assistance in research development & implementation
+• Augment the requirement for schistosomicide drug PRAZIQUANTEL
+• Generate external resources through Project's development & Public investment packages to support program implementation.
+
+b. Center For Health Development ( CHD )
+
+• Incorporate Schistosomiasis Plan Targets and Strategies in the Regional Plans.
+• Include in the Investment Plan] Annual Work & Financial Plan, a substantial amount for the control, prevention and treatment of schistosomiasis. (See Annex H - Guidelines For Operations Costing)
+• Develop the capacity of health providers to implement the Revised Guidelines in the Management and Prevention of Schistosomiasis at the Provincial/Municipal/Barangay levels.
+• Conduct of Inventory of Relevant Competencies and Assessment of Needs for Resources as may be required in the implementation on the Revised Guidelines in the Management and Prevention of Schistosomiasis.
+• Formulate and implement Advocacy Plans to gain political commitment and community support.
+• Implement "systems" on Health Human Resource Development, Logistics Management, Reporting and Surveillance Systems.
+• Allocate drugs, laboratory supplies and IEC materials to augment the logistics of the LGUs
+• Establish Quality Assurance and Control System.
+• Collect, analyze and submit report to NCDPC. & FICO
+• Provide technical assistance to other LG-Us, NGAs and other stakeholders in determining the health impact during the planning stage of the construction and/or rehabilitation of irrigation structures, dams or any water development projects.
+• Monitor activities related to schistosomiasis control and prevention.
+• Advocate the Schistosomiasis Control Program to the Local Health Board through the DOH Representatives for funding requirements, human resource needs and inclusion in the local development plan
+• Advise/assist in the Policy formulation, legislation and local execution of legislative issuances.
+• Recommend to the DOH Central Office the technical assistance requested and identified by the LGUs
+
+2. Local Government Units (LGUs)
+
+a. Provincial Health Office (PHO)
+
+• Conduct Orientation/Training for private and public health workers on the implementation of the Revised Guidelines in the Management and Prevention of Schistosomiasis.
+• Provide funding support for training, drugs and laboratory supplies.
+• Collaborate with other LGUs and other stakeholders in the implementation of the Revised Guideline in the Management and  Prevention of Schistosomiasis.
+• Monitor implementation of the revised guidelines in the Rural Health Units and Hospitals (private and government).
+• Ensure the effective implementation of the systems on Health Human Resource Development, Logistics Management and Reporting and Surveillance System.
+• Collect, analyze and submit report to CHD
+• Include in the Investment Plan/ Annual Work & Financial Plan, a substantial amount for the control, prevention and treatment of schistosomiasis. (See Annex H - Guidelines For Operations Costing)
+• Secure/initiate drafting of local legislations necessary to eliminate schistosomiasis in their area.
+
+b. Rural Health Unit (RHU)
+
+• Implement the Revised Guideline in the Management and Prevention of Schistosomiasis
+• Provide Praziquantel & anti-reaction drugs for schistosomiasis treatment.
+• Provide laboratory services and supplies in the diagnosis of schistosomiasis
+• Conduct orientation for BHWs and volunteers on the Revised Guideline in the Management and Prevention of Schistosomiasis.
+• Conduct advocacy to ensure awareness and active community participation
+• Supervise and monitor activities in the control & prevention of schistosomiasis.
+• Collect, analyze and submit reports to the PHO.
+• Include in the Investment Plan/Annual Work & Financial Plan, a substantial amount for the prevention and control of schistosomiasis. (See Annex H - Guidelines For Operations Costing)
+• Conduct regular surveillance, monitoring and evaluation.
+• Submit regular accomplishment report to the PHO and CHD.
+
+3. NGO/NGA/GO, International Aid Organizations & Other Stakeholders
+
+• Support the implementation of The Revised Guidelines in the Management and Prevention of Schistosomiasis.
+• Coordinate and collaborate with the DOH and LGUs specially in planning of water resources development, irrigation structure, construction or rehabilitation to determine / assess its impact on health prior to implementation.
+
+VIII. REPEALING CLAUSE
+
+Provisions of Administrative Order 55 s 2000, Guidelines in the Implementation of Mass Treatment Strategy for Schistosomiasis Control Elimination still in effect. All other previous related issuances found inconsistent with this issuance shall be repealed.
+
+IX. EFFECTIVITY
+
+This Order takes effect immediately upon posting and publication in the DOH intranet or fifteen days upon filing with UP Law Center.
+</body>
+
+<sign>FRANCISCO T. DUQUE III, MD, MSc.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<image>figure_2.png</image>
+
+<image>figure_2.png</image>
+
+<body>
+Annex -C
+
+PROCEDURE for KATO-KATZ MODIFIED THICK SMEAR TECHNIQUE *
+
+Materials:
+
+Templates made either of plastic or cardboard (3x 4 x 1.37 cm) with a 6mm hole in the center.
+Scraper, either made of plastic or wood
+Wire net (105 mesh )
+Filter paper or news paper
+Glass slides
+Cellophane cut into 1 square inch, previously soaked in 50% glycerin-malachite green solution (same as in Kato-Thick Smear)
+
+Procedure:
+
+a. Place about haft a gram of fecal sample on filter paper or newspaper
+b. Place the wire net on top of the feces and press it down so the sieve feces will pass through the wire net.
+c. With the aid of the scraper, scrape the feces that passed through the wire net and transfer it to the center hole of the template which is lying over the glass slide.
+d. Fill up the hole with feces, scrape the top of the hole to level the feces and lift the template, leaving the feces on the slide.
+e. Place the cellophane over the feces.
+f. Invert the slide face down over another sheet of paper or newspaper and press the slide gently to spread the feces.
+g. Let the specimen stand for about 20 minutes and examine under the microscope. Count all the eggs seen in the whole preparation.
+h. Multiply the total eggs counted by the factor "24" to express the count as Egg Per Gram Feces (EPG)
+
+* Study Guide in Medical Parasitology, 1997, Department of Parasitology -UPCPH,UPM
+
+PROCEDURE FOR CIRCUMOVAL PRECIPITIN TEST ( COPT ) *
+
+MATERIALS:
+
+Light microscope
+Microscope glass slides
+Glass cover slip
+Pasteur pipette
+Rubber bulb
+Paraffin
+Lyophilized Schistosoma japonicum egg
+
+PROCEDURE:
+
+1. Blood is extracted from the patient by venipuncture and the serum collected after separation from the blood clot.
+2. Two drops of serum is added to lyophilized (freeze- dried) S. japonicum eggs that had earlier been placed on a previously prepared glass slide. The glass slide is prepared by gluing small broken pieces of cover glass on the four corners where the cover glass is to rest.
+3. Mix the serum and the eggs with the comer of the cover slip and place it on top of the slide.
+4. Seal the sides of the cover slip with the paraffin.
+5. The slide is incubated at 37 C (or at room temperature) for 24 to 49 hours before examination under the microscope.
+6. A serum positive patient with anti- S. japonicum antibodies would produce either or both COPT reaction/s, the bleb and the segmented.
+7. Blood sample collection can be carried out using the filter paper method. A finger prick is made and the blood is absorbed onto apiece of filter paper. Antibodies are subsequently eluded with saline and used in the COPT as described above.
+
+* Study Guide in Medical Parasitology. 1997, Department of Parasitology-UPCPH,UPM
+
+Annex - D
+
+EPG Index For Categorizing Intensity of Infection*
+
+<image>table_2.png</image> 
+
+* Guidelines for the evaluation of soil transmitted helminthiasis and schistosomiasis at community levels, World Health Organization
+
+** schistosome species from other countries found occasionally among OFWs and other travelers
+
+<image>table_3.png</image>
+
+<image>table_4.png</image>
+
+<image>table_5.png</image>
+
+<image>figure_4.png</image>
+
+<image>table_6.png</image>
+
+<image>figure_5.png</image>
+
+ANNEX J
+
+THERAPEUTIC OPTIONS FOR PREVENTION OF REBLEEDING
+
+Two different approaches for the prevention of variceal bleeding exist; first, interruption of variceal blood flow in those collateral that mainly tend to bleed, i.e. submucosal varices at the gastroesophageal juntion and the lower third of the esophagus and, second, decrease of the portal pressure and therefore the variceal pressure. Both therapeutic strategies may be combined. The first option comprises endoscopic therapy (sclerotherapy and ligation) and transsection, which has been abandoned in most centers. The second option includes pharmacological therapy, mainly propranolol, and shunt procedures such as an open surgical shunt like a portacaval or distal splenorenal shunt (or transjugular intrahepatic stent shunts (TIPS)
+
+I. MEDICAL MANAGEMENT
+
+A. ENDOSCOPIC THERAPY
+
+Endoscopic therapy has become an important tool for prevention of rebleeding due to the development of flexible endoscopes.
+
+1. Sclerotherapy
+
+Sclerotherapy induces thrombosis and fibrosis through repeat injection into and adjacent to varices. Complete eradiction of varices requires on average 5 sessions or around two months. The rebleeding rate, especially during the initial phase, is rather high (around 30%), however, it decreases considerably after therapy is completed (2,10).
+
+2. Ligation
+
+Band ligation has replaced sclerotherapy in most centers, because it is more standardized, easier to learn and - most importantly - because it carries less complications (11). Regression of varices is achieved faster than with sclerotherapy; however, varices recur more often than in sclerosed patients (12). Thus, periodic endoscopic surveillance is probably even more important than with sclerotherapy.
+
+B. PHARMACOLOGICAL THERAPY
+
+The non-selective beta-adrenergic blocker propranolol remains the mainstay drug that prevents rebleeding. It reduces portal pressure on average by 15-25% (13,14). 30 to 40% of patients do not respond adequately (defined by a reduction of baseline hepatic venous pressure gradient (HVPG) by &lt;20%) (3,14). The decrease of portal pressure induced by propranolol is neither dependent on liver function nor on the degree of initial portal hypertension or other systemic hemodynamic parameters. Ideally, therapy with propranolol should be monitored by determining the portal pressure as assessed by HVPG or - possibly - variceal pressure, since it has been shown that a continuous reduction of portal pressure by more than 20% is a highlyt significant predictor for a low  risk of rebleeding (3). This goal may be achieved by adding further portal pressure-lowering drugs such as nitrates (15) to propranolol. However, it has not convincingly been shown in a larger series that combination is superior to monotherapy with respect to rebleeding. If propranolol is used for prevention of recurrent bleeding it must be taken continuously and life-long. Discontinuation on intake may cause bleeding (16)
+
+II. SURGICAL MANAGEMENT
+
+A. SHUNTS
+
+Shunts procedures are the most effective measure for prevention of rebleeding, but they carry a higher risk of encephalopathy than any other method for prevention of rebleeding (1) TIPS has replaced the open surgical shunt In most centers, although the openf shunt may still be important, especially In Child A patients (17).
+
+B. OPEN SURGICAL SHUNTS
+
+All types of shunts (total or partial portal systemic or selective distal splenorenal shunts) reduce the bleeding risk to less than 20% (8). It has not convincing been shown that a selective shunt is superior to a total shunt with respect to rebleeding, survival or encephalopathy rate. Shunt occlusions occurs in less than 5% of patients with portacaval shunts (18) and in 5-10% of patients with selective shunts (19).
+
+C. TIPS
+
+TIPS reduces portal pressure less thoroughly than surgical shunts, i.e. only by 50% of initial pressure. Although the technical success rate is high (&gt;90%), stenosis of TIPS requiring revision of the tract occurs in 50-70% of patients within the first year, and the shunt stenosis rate per year is aroung 15 % thereafter. According to a meta-analysis (20), rebleeding occurs in around 20% of patients during a median follow up of around 550 days after TIPS insertion. Thus, the rebleeding rate is probably not higher than with surgical shunts during this time. However, especially in Child B and C patients, the rebleeding rate is increases during long-term follow up after TIPS insertion (Figure 1), which could be considered a potential disadvantage compared to surgical shunts. All elective shunt procedures should not be performed in patients with highly decompensated cirrhosis (e.g. bilirubin higher than 5 mg/dl).
+
+III. COMBINATION THERAPIES
+
+Ligation therapy may be combined with sclerotherapy in order to reduce the rate of recurrent varices, but it probably has no impact on the rebleeding rate and may increase the complicaton rate of endoscopic therapy (21). Several studies added propranolol to endoscopic therapy, which reduced the rebleeding risk by approximately further 10% (1). Combination of propranolol with nitrates is superior to monotherapy with propranolol with respect to portal pressure reduction and rebleeding, but the studies are small (15). According to own observations (22), adding propranolol  to TIPS can further reduce the portal pressure by up to 20%. However, it is not yet clear whether this translates into a clinical benefit.
+
+A. PROPHYLAXIS OF REBLEEDING AND ASCITES
+
+In patients with initial variceal bleeding and tense ascites TIPS may be the procedure of choice, since TIPS prevents the formation of ascites in addition to the rebleeding prophylaxis (23).
+
+B. META-ANALYSES
+
+Several meta-analyses have shown that:
+
+- surgical-shunts are superior to no prophylaxis with respect to rebleeding risk but not with respect to survival (1),
+- sclerotherapy is superior to no prophylaxis with respect to rebleeding (1) - a trend with borderline significance favors sclerotherapy versus no prophylaxis with respect to survival (1),
+- propranolol is superior to no prophylaxis with respect to rebleeding - again there is only a borderline positive effect on survival (1),
+- sclerotherapy is superior to propranolol with respect to rebleeding but not with respect to survival (24)
+- ligation is superior to sclerotherapy with respect to rebleeding, complications and survival (11).
+- shunt procedures are superior to all other rebleeding prophylactic measures with respect to rebleeding but not with respect to survival (1,20),
+- all shunt procedures have a higher risk of encephalopathy than any other method for the prevention of rebleeding (1,21).
+
+FAILURE OF REBLEEDING PROPHYLAXIS
+
+There is no general consensus on the definition of long-term failure of rebleeding prophylaxis, requiring cross-over to another treatment. For surgical shunts it is shunt occlusion with rebledding, for TIPS it is probably shunt stenosis or occlusion with more than two significant rebleeding episodes, and for endoscopic therapy or propranolol it may be defined as two or three significant rebleeds despite treatment.
+
+ACRONYMS
+ALT - Alanine AminoTransferase
+Anti HCV - Anti Hepatitis C-Virus
+BAI - Bureau of Animal Industry
+BHW - Barangay Health Worker
+BID - Two Times a Day
+BUN - Basal Urinary Nitrogen
+CBC - Complete Blood Count
+CHD - Center for Health Development
+CHF - Congestive Heart Failure
+CNS - Central Nervous System
+COPT - Circumoval Precipitin Test
+CO - Central Office
+CRAss - Clinical Rapid Assessment
+CRF - Chronic Renal Failure
+CS - Culture and Sensitivity
+CTscan - Computerized Tomography
+CVP - Central Venous Pressure
+CY - Calendar Year
+DA - Department of Agriculture
+DepEd - Department of Education
+DENR - Department of Environment and Natural Resources
+DILG - Department of Interior and Local Government
+DOH - Department of Health
+DPWH - Department of Public Works and Highways
+EEG - Electroencephalogram
+ELISA - Enzyme Linked Immunoabsorbent Assay
+EPG - Egg Per Gram Count
+GPS - Global Positioning System
+HBT - Hepatobiliary Tract
+HBSAq - Hepatitis B Antigen
+HPN - Hypertension
+HXE - History
+IDCCU - Infectious Disease Critical Care Unit
+IDSN20 - Alternate drug to Propanolol
+IEC - Information Education Communication
+IM - Intramuscular
+ISDN - Isosurbide Dinitrate
+ITR - Individual Treatment Record
+IV - Intravenous
+IVP - Intravenous Pressure
+KG - Kilogram
+KBW - Kilogram bodyweight
+LGU - Local Government Unit
+MG - Milligram
+MRI - Magnetic Resonance Imaging
+NCDPC - National Center for Disease Prevention and Control
+NGA - National Government Agency
+NGO - Non-Government Organization
+NIA - National Irrigation Administration
+NSO - National Statistics Office
+OD - Once a Day
+OPD - Out Patient Department
+PHO - Provincial Health Office
+PIA - Philippine Information Agency
+PIR - Program Implementation Review
+PO - Per Orem (oral)
+PR - Prevalence Rate
+PRN - As Needed
+PT - Prothrombin Time
+PTT - Partial Thromboplastin Time
+QA - Quality Assurance
+QC - Quality Control
+QID - Four Times a Day
+RDA - Required Daily Allowance
+RHU - Rural Health Unit
+RITM - Research Institute for Tropical Medicine
+SE - Stool Exam
+SJ - Schistosoma japonicum
+SS - Signs and Symptoms
+TB - Tuberculosis
+TID - Three Times a Day
+TIPS - Transjugular Intrahepatic Shunt
+UPCPH - University of the Philippines - College of Public Health
+UTz - Ultrasound
+
+<image>table_7.png</image>
+
+<image>table_8.png</image>
+
+Annex N
+
+List of Parasitological and Process Indicators
+
+Parasitological Indicators
+1) Prevalence Rate
+2) EPG Count
+3) Snail Infection Rate
+
+Process Indicators
+1) Drug Consumption
+2) Drug Inventory
+3) Mass Treatment Coverage
+</body>

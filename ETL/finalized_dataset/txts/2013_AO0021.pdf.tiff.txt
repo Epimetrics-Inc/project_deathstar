@@ -1,0 +1,127 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>07/01/2013</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2013 - 0021 </docnum>
+<subject>SUBJECT: Adopting of the Association of Sogtlgeast Asian Nations (ASEAN) Common Tecﬂical Dossier (ACTD) andCommog Technical Requirements (ACTR) for the Registration of Pharmaceutical Products for Human Use </subject>
+<body>
+
+
+I. BACKGROUND 
+
+The ASEAN Consultative Committee for Standards and Quality (ACCSQ) was formed by the ASEAN Economic Ministry in 1992 with the aim of eliminating technical barriers to trade of goods and services in order to facilitate the implementation of the Agreement on the Common Effective Preferential Tariff (CEPT) Scheme and realize the ASEAN Free Trade Area (AFTA) by 2015. 
+
+The 13th Meeting of the ACCSQ held in Manila in 1999 agreed that a Pharmaceutical Product Working Group (PPWG) be set up to develop harmonized schemes in pharmaceutical product regulation among the 10 ASEAN Member States to complement the objective of AFTA without compromising quality, safety and efﬁcacy of pharmaceutical products made available. I 
+
+Given the significant differences in the existing infrastructure and technical and financial capacity of ASEAN Member States, the PPWG was able to make considerable progress through the years. After series of meetings and consultations among the national drug regulatory authorities and pharmaceutical industries of the region, the PPWG was able to establish and adopt the ASEAN Common Technical Dossier (ACTD) and ASEAN Common Technical Requirements (ACTR). Both the ACTD and ACTR are currently in various stages of implementation among ASEAN Member States. 
+
+II. RATIONALE 
+
+With the advent of free trade and globalization, the need for increased efficiency in the regulation of pharmaceutical products has compelled many 
+
+national drug regulatory authorities to seek harmonized approaches and enter into mutual recognition agreements/cooperative schemes with each other. In ASEAN, this led to the streamlining of structurally diverse regulatory systems and policies, yet still taking into careful consideration each participating country’s sovereign laws. 
+
+The harmonization of regulatory requirements for pharmaceutical products among ASEAN Member States, with the adoption of the ACTD and ACTR as a key component, can help enhance public health and welfare by providing faster access to and increasing the availability of quality, safe and efﬁcacious pharmaceutical products, as this will reduce technical barriers posed by regulations and facilitate intra- and inter-regional trade. This convergence also intends to provide the foundation for establishing sound partnerships among the regulatory authorities and the pharmaceutical industries, and a means to leverage valuable resources. 
+
+
+III. STATEMENT OF POLICY The Department of Health (DOH) shall: 
+
+A. Support the members of the Philippine Pharmaceutical Industry as they adopt the ASEAN Common Technical Dossier (ACTD) and ASEAN Common Technical Requirements (ACTR) in order to penetrate the Southeast Asian market for pharmaceutical products; 
+
+B. Encourage the members of the Philippine Pharmaceutical Industry to update their systems and technologies to conform to the ASEAN standards and requirements, and provide them with relevant technical information through the Food and Drug Administration (FDA) in cooperation with the pharmaceutical industry associations. 
+
+IV. OBJECTIVE 
+
+This Administrative Order intends to formally adopt and incorporate the ACTD and ACTR into the national regulations and registration requirements of pharmaceutical products. 
+
+V. SCOPE OF APPLICATION 
+
+This Administrative Order shall apply to all manufacturers, traders and distributors (e.g. exporters, importers and wholesalers) of pharmaceutical products. However, manufacturers, traders and distributors of single and multiple-component vitamin and mineral products, traditional medicines, over- the-counter preparations, household remedies, medical gases and veterinary products are not covered by this Administrative Order. 
+
+VI. DEFINITION OF TERMS 
+
+Definition of terms, acronyms and abbreviations shall follow the definitions provided for by the Glossary used for the ACTD and ACTR, insofar as they are not in conflict with the national laws of the Philippines, in which case, the latter shall prevail. 
+
+These terms, acronyms and abbreviations shall include: 
+
+1) ACTD or ASEAN Common Technical Dossier — the part of marketing authorization application dossier that is common to all ASEAN member countries; and 
+
+2) ACTR or ASEAN Common Technical Requirements — a set of written materials intended to guide applicants to prepare application dossiers in a way that is consistent with the expectations of all ASEAN Drug Regulatory Authorities (DRA). 
+
+VII. IMPLEMENTING GUIDELINES 
+
+The following ASEAN harmonized documents for the registration of pharmaceutical products are hereby adopted and incorporated into the national regulations and registration requirements of pharmaceutical products, insofar as they are not in conflict with the national laws of the Philippines: 
+
+A. ASEAN Common Technical Dossier (ACTD) 
+
+1. Glossary
+2. Organization of the Dossier 
+
+a) Part 1. Table of Contents, Administrative Data and Product 
+
+Information 
+-Section A. Introduction 
+-Section B. Overall ACTD Table of Contents 
+—Section C. Administrative Data and Product Information Documents (e.g. Application Form, Letter of Authorization, Certiﬁcations, Labeling, Prescribing Information) 
+
+b) Part 11. Quality Document 
+-Section A. Table of Contents 
+-Section B. Quality Overall Summary 
+-Section C. Body of Data 
+
+c) Part III. Nonclinical (Safety) Document 
+—Section A. Table of Contents 
+-Section B. Nonclinical Overview 
+-Section C. Nonclinical Written and Tabulated Summaries 
+-Section D. Nonclinical Study Reports 
+-Section E. List of Key Literature References 
+
+d) Part IV. Clinical (Efficacy) Document 
+-Section A. Table of Contents 
+-Section B. Clinical Overview 
+-Section C. Clinical Summary  
+-Section D. Tabular Listing of All Clinical Studies 
+-Section E. Clinical Study Reports 
+-Section F. List of Key Literature References 
+
+B. ASEAN Common Technical Requirements (ACTR) 1. ASEAN Guidelines on Stability Study of Drug Product 
+
+2. ASEAN Guidelines on Submission of Manufacturing Process Validation Data for Drug Registration 
+
+3. ASEAN Guidelines for Validation of Analytical Procedures 
+
+4. ASEAN Guidelines for the Conduct of Bioavailability and Bioequivalence Studies 
+
+5. ASEAN Guidelines on Nonclinical (Safety) Document 6. ASEAN Guidelines on Clinical (Efficacy) Document 7. ASEAN Variation Guidelines for Pharmaceutical Products 
+
+The FDA shall make available the full and current version of the ACTD and ACTR guidelines on its official website for reference and information of all stakeholders. To further elaborate and give clarity to certain provisions of these guidelines, the ASEAN Question and Answer (Q&A) documents that have been agreed upon and adopted in previous ACCSQ-PPWG Meetings shall also be posted. 
+
+
+C. Flexibility Over and Above the ACTD 
+
+For innovative therapeutic products (including New Chemical Entities), biologics and generic products approved in ICH (International Conference on Harmonization) member COuntries/regions, the FDA shall accept registration applications ﬁled following the ICH Common Technical Document (CTD) format, in lieu of the ACTD. It must be emphasized, however, that certain sections of the ICH-CTD shall still comply with the ASEAN harmonized requirements (including drug product stability studies), when applicable. Otherwise, other relevant internationally accepted guidelines may be used as reference. 
+
+VIII. ROLES AND RESPONSIBILITIES OF ALL STAKEHOLDERS 
+
+All information provided by the applicant in connection with an application for registration of a pharmaceutical product for human use shall be, to the best of his/her knowledge, true and correct and reflective of the complete and current information available. The applicant shall be aware that if he/she makes any misrepresentation or false entry, or willfully withholds any material fact in connection with an application submitted to FDA, this shall be a ground for the disapproval of the said application. 
+
+Moreover, the applicant (including the manufacturer, if different from the applicant), shall be responsible for the quality, safety and efficacy of the product. Whenever changes in the quality, safety and efficacy aspects of the product are made during the course of its life cycle, the applicant has the obligation to notify FDA in writing. 
+
+FDA shall evaluate all information provided by the applicant in support of an application for registration within reasonable time. It shall then determine, on the basis of the data available, if the pharmaceutical product for human use sought to be registered meets FDA’s current standards for quality, safety and efficacy. After the evaluation process, a regulatory decision shall be made on the application for registration which shall be issued in the form of either a marketing authorization, disapproval letter or notice of deficiency(ies). 
+
+IX. REPEALING CLAUSE 
+
+All other Administrative Orders, Circulars, Memoranda or parts thereof concerning pharmaceutical product registration inconsistent with this Administrative Order are hereby repealed. 
+
+X. SEPARABILITY CLAUSE 
+
+In any case any provision of this Administrative Order is declared contrary to law or unconstitutional, other provisions which are not affected thereby shall remain in force and effect. 
+
+XI. EFFECTIVITY 
+
+This Administrative Order shall be published in a newspaper of general circulation and shall take effect beginning 01 July 2013. 
+
+</body>
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>

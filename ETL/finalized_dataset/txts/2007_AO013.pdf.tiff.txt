@@ -1,0 +1,200 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Building 1, San Lazaro Compound, Rizal Avenue
+Sta Cruz, Manila, 1003 Philippines
+Tel. No. (+63-2) 711-915-02/03; Trunkline: 743-83-01 loc. 1125 Fax: 743-1829
+E-mail Address: osec@doh.gov.ph Web site: http://www.doh.gov.ph
+
+<date>05/18/2007</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2007 - 0013</docnum>
+
+<subject>SUBJECT: Guidelines on the Implementation of the Online Job Posting System for Human Resources for Health (e-Jobs for Health)</subject>
+
+<body>
+I. BACKGROUND AND RATIONALE
+
+Section 1 of Republic Act No. 7041, "An Act Requiring Regular Publication of Existing Vacant Positions in Government Offices, Appropriating Funds Thereof, and For Other Purposes", states that, "It shall be the policy of the Government to promote efficiency in the allocation of personnel in the civil service, as well as transparency and equal opportunities in the recruitment and hiring of new personnel."
+
+In addition, Section III item 1 of Administrative Order No. 87-B s. 2002, "Adoption of the Merit Promotion Plan for the Department of Health and all its Offices, Bureaus and Hospitals", states that, "Vacant positions marked for filling shall be published in accordance with Republic Act No. 7041. The published vacant positions shall also be posted in at least three (3) conspicuous places in the agency for at least ten (10) calendar days. Other appropriate modes of publication shall be considered."
+
+The existing modes of publication of job vacancies in DOH include posting in newspapers, in conspicuous places and in the DOH website. These publications are limited to vacancies within the DOH System (Central Offices, Centers for Health Development, Retained Hospitals and Attached Agencies) and do not include those in the other sectors in health such as other government agencies, local government units and private facilities. Because of this existing system of posting job vacancies, Human Resources for Health (HRH) within and outside DOH have limited access to vacancies in the whole health sector.
+
+The Online Job Posting System (OJPS) has been developed in order to address the problem of limited opportunities for HRH to find suitable jobs. Through the OJPS, vacancies available in the health sector nationwide can be made available and can reach a wide range of potential applicants. The OJPS is in consonance with the National Objectives for Health (NOH) 2005-2010 as shown by the HRH framework (Annex A) and the Fourmula One for Health (F1). F1 is the current implementation framework for health sector reforms. One of its four components is service delivery. Under this component are three strategies, one of which is "ensuring availability of providers of basic and essential health services in localities." HRH is one, if not the most important, health service resource that has to be provided for effective and efficient health service delivery. Specifically, OJPS or also called E-jobs for Health is an innovative system that will enhance existing service delivery system. It can facilitate recruitment and placement of HRH where they are needed and may address the problem of inequitable distribution of HRH.
+
+II. OBJECTIVES
+
+To provide guidelines and procedures in the implementation of the On Line Job Posting System in order to facilitate placement of HRH where they are needed and address the problem of inequitable distribution of HRH.
+
+III. SCOPE AND COVERAGE
+
+The OJPS shall be open to all health facilities and organizations that would like to post health related job vacancies as well as to all potential job applicants. However, only job vacancies in the Philippines will be posted in the OJPS.
+
+IV. DEFINITION OF TERMS
+
+A. Human resources for health (HRH) - shall refer to all people engaged in actions whose primary intent is to enhance health. Included are those who promote and preserve health as well as those who diagnose and treat disease. Also included are health management and support workers - those who help make the health system function but who do not provide health services directly (World Health Report 2006). Direct health service providers include doctors, nurses, etc. while support HRH include medical laboratory technicians, engineers, administrative aides, etc.
+
+B. Internal identifier - shall refer to a variable name internal to the system whose purpose is to specify a body of data.
+
+C. Job vacancies - shall refer to the stock of unfilled job openings for which organizations are recruiting and hiring new  workers.
+
+D. New user - shall refer to an employer, with no previous account on the system, who has been authorized to gain full access to the system.
+
+E. Online job posting - shall refer to a tool for interested employers to log in and access tools that enable them to post, update, renew and delete jobs using the internet/web. It showcases career opportunities within the organization. It also enables site visitors to browse and select jobs of interest, then complete an integrated online application form.
+
+F. Password - shall refer to a secret word or phrase that enables a user to access a file, computer, or program.
+
+G. Registered user - shall refer to an employer/health facility/organization that has been authorized to gain full access to the system.
+
+H. Systems Administrator - shall refer to a person assigned to manage and maintain computer systems and software in an Organization.
+
+I. Terms and Conditions - shall refer to the conditionalities that a user should accept in order to use the system.
+
+J. User account - shall refer to an account that is unique to the user and authorizes one to access the system.
+
+K. Username - shall refer to a name that uniquely identifies someone to gain access on a computer system.
+
+V. GENERAL GUIDELINES
+
+A. OJPS shall be established via a centralized system for electronic posting of job vacancies within and outside the DOH and accessing online application.
+
+B. Only registered users can access the OJPS system and can post job vacancies on line. For DOH job vacancies, any person interested to apply can submit his/her application online. For non-DOH job vacancies, any person interested to apply can be linked to/provided with the facilities' websites/contact information.
+
+VI. SPECIFIC GUIDELINES AND PROCEDURES
+
+A. Access
+
+The OJPS can be accessed through the URL or website address http://umis.doh.gov.ph/ejob. Posting of job vacancies is free of charge but subject to the terms and conditions stated in this administrative order.
+
+B. Registration of Users
+
+a. In order to post a job vacancy, any health facility or organization has to register in the OJPS.
+
+b. For every health facility or organization, only one registered user is allowed to access the OJPS for purposes of job posting.
+
+c. The new user has to provide a unique Username and Password to enable access and use of the Job Vacancy Posting function.
+
+d. The DOH through the Systems Administrator reserves the right to verify and upon verification, approve or disapprove the registration of new users.
+
+e. The registered user shall be solely responsible for the security of the Username and Password provided into the system. It shall not be the responsibility of the OJPS to track and/or monitor adherence or compliance to the confidentiality of the Username and Password.
+
+Job Vacancy Posting
+
+1. Posting and Updating of Job Vacancy
+
+a. For each job vacancy posted by the registered users, the following internal identifiers shall be created:
+
+i. Computer or system-generated Record Reference Number to uniquely identify the vacant position. The number shall have a format of yyyy-nnnnnnnn where yyyy = system-year and nnnnnnnn = computer or system-generated sequential number. When a new year is encountered, the counter returns back to 00000001.
+
+ii. Date of Last Update to record the date when the job posting has been updated or modified using the server's system date and time.
+
+b. Users can edit and update the job postings such as new job title, modifications to the job descriptions, change in professional category, change in closing date for posting extension and other relevant updates.
+
+c. The most recent or updated job posting shall be displayed.
+
+d. Registered Users are required to fill up a new Job Vacancy Form (Annex B) for each job title or position to be posted. The Job Vacancy Form contains details relevant to the job posted such as position, place of work and monthly salary.
+
+2. Period of Job Posting
+
+a. Job postings will run for the period subscribed as determined from the closing date, unless earlier terminated in accordance with the provision of Terms and Conditions agreed upon by the registered user.
+
+b. The job vacancy record remains active on or before the specified Closing Date; remains inactive after the specified Closing Date or as would be suspended, cancelled or terminated by the Systems Administrator.
+
+c. Registered Users shall have the option to remove the posting even before the closing date, e.g. job vacancies posted are already filled up.
+
+D. User Account
+
+a. There shall be only one (1) Username and Password to be provided by each registered user in order to protect the privacy of user account.
+
+b. Username and Password can be suspended or cancelled/terminated for some valid reasons, e.g. breach of the Terms and Agreements, even without notice.
+
+E. Linkages
+
+The OJPS shall provide links to health facilities with existing job posting systems. The Information Management Service (IMS) shall be responsible for maintaining or updating the contents of the list of health facilities with corresponding linkages. The URL or website address http://umis.doh.gov.ph/ejob is directly linked to the DOH portal. This may be updated during systems implementation.
+
+VII. IMPLEMENTING MECHANISMS
+
+A. Structure
+
+The OJPS shall be principally maintained by the Health Human Resource Development Bureau (HHRDB) with the IMS providing technical support.
+
+B. Roles and Functions
+
+The following offices have the following roles and functions in relation to the implementation of the OJPS:
+
+1. HHRDB
+
+a. Maintain the OJPS and develop standards for its use by the concerned offices;
+b. Conduct advocacy on the OJPS for optimal utilization of the system;
+c. Regularly monitor registered users and job vacancy postings;
+d. Verify/validate new users from the list of Bureau of Health Facilities and Services-licensed and or accredited health facilities, Securities and Exchange Commission-registered companies, and other reliable sources prior to issuance of access rights;
+e. Provide access rights to new users by approving requests within 24 hours upon receipt;
+f. Deny access rights to unauthorized users of the system;
+g. Facilitate the provision of instructions to participating offices (DOH and non-DOH) on how to use the system;
+h. Conduct regular monitoring and evaluation of the system;
+i. Set up a help-desk to support inquiries on the use of the system for DOH point persons or other users of the system in coordination with IMS; and
+j. Provide funds for the development, advocacy and functional maintenance of the OJPS.
+k. Be the central unit that will post all job vacancies in the DOH Central Office including 3rd level positions.
+Devise a coding scheme for the Job Reference Number of job vacancies in the DOH Central Office including 3rd level positions.
+l. Regularly access its e-mail account for checking of applications to DOH Central Office job vacancies.
+
+2. IMS
+
+a. Maintain the server, database, network, back-up files and archive;
+b. Maintain the system in case of enhancements such as reports, additional data entry subject to the availability of staff and the complexity of the enhancement;
+c. Train the HHRDB Systems Administrator(s) on the maintenance of the system;
+d. Assist the HHRDB's Systems Administrator on technical issues received through the help-desk; and
+e. Provide funds for the development and technical maintenance of the OJPS.
+
+3. Participating Offices
+
+a. DOH
+
+1. Central Offices
+
+i. All offices shall use the OJPS in posting the job vacancies within their respective offices.
+ii. Each office shall appoint authorized personnel who will fill up the Job Vacancy Form and forward such to the Personnel Division for posting.
+iii. The Head of Office shall assume over-all responsibility on the veracity of the content that shall be provided by their authorized personnel.
+
+2. CHDs/Hospitals/Attached Agencies
+
+i. All CHDs, hospitals and attached agencies shall use the OJPS in posting the job vacancies within their respective offices.
+ii. Each offices shall appoint authorized personnel who will fill out the Registration and Job Vacancy Forms.
+iii. The Head of offices shall assume over-all responsibility on the veracity of the content that shall be provided by their authorized personnel shall be submitted directly to the concerned CHD/hospital/agency. Links, through the CHDs'/hospitals'/agencies' websites/e-mail addresses, shall be established. Screening of applications shall be done by the concerned CHD/hospital/agency. The CHD/hospital/agency shall regularly access its website/e-mail account for checking of applications.
+
+b. Non-DOH facility/organization
+
+i. Non-DOH agencies that wish to post their job vacancies in the OJPS shall appoint authorized personnel who will fill up the required forms.
+ii. The Head of offices shall assume over-all responsibility on the veracity of the content that shall be provided by their authorized personnel;
+
+C. System Flow
+
+The System Flow (Annex C) shows the flow of data for the OJPS and provides a logical diagram on how the system operates.
+
+D. Process Flow
+
+The Process Flow (Annex D) shows what is supposed to happen from the start to end of the system in terms of processes. This shall ensure common understanding of the processes that the software or system must support.
+
+VIII. REPEALING CLAUSE
+
+The provisions of previous issuances, which are inconsistent with those provided in this Order, are hereby rescinded and modified accordingly.
+
+IX. EFFECTIVITY
+
+This Administrative Order shall take effect immediately.
+</body>
+
+<sign>FRANCISCO T. DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<image>figure_1.png</image>
+
+<image>figure_2.png</image>
+
+<image>figure_3.png</image>
+
+<image>figure_4.png</image>
+
+<image>figure_5.png</image>

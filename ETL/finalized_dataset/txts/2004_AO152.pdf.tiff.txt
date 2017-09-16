@@ -1,0 +1,239 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound, Rizal Avenue, Manila
+Telephone No: 743-83-01 to 23 loc. 1125-1126
+
+<date>03/01/2004</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 152 s. 2004</docnum>
+
+<subject>SUBJECT: Prescribing Regulations for Irradiated Food</subject>
+
+<body>
+I. RATIONALE/BACKGROUND
+
+Pursuant to Republic Act 3720 Section 26 (a), otherwise known as the Food, Drugs and Devices and Cosmetics Act (as amended), this Administrative Order on Regulation for Irradiated Food is issued to ensure safe supply of irradiated food and prevent undue risk to safety and public health in the application of ionizing radiation to reduce wastage caused by insects, micro-organism, physiological processes, and to control pests of quarantine significance in foods.
+
+II. SCOPE
+
+These regulations shall cover all food irradiation facilities and all irradiated foods, whether produced for domestic consumption, imported or for export.
+
+III. DEFINITION OF TERMS
+
+1. Absorbed Dose, or sometimes simply referred to as Dose - the quantity of ionizing radiation energy imparted per unit mass of the irradiated food.
+
+Such dose is expressed as:
+1.1 Gray (Gy)- SI unit of absorbed dose, equivalent to the absorption of 1 joule per kilogram of food (1Gy= 1 J/kg)
+
+2. BFAD - Bureau of Food and Drugs, Department of Health
+
+3. BFAR - Bureau of Fisheries and Aquatic Resources, Department of Agriculture
+
+4. BHDT - Bureau of Health Devices and Technology, Department of Health
+
+5. BPI - Bureau of Plant Industry, Department of Agriculture
+
+6. Dosimetry - measurement of absorbed dose
+
+7. Fish and Fishery Products - raw, frozen and processed fish, fishery products and other aquatic products, e.g. shrimps
+
+8. Food - any substance, whether processed, semi-processed or raw, which is intended for human consumption and includes beverage, chewing gum and any other substance which has been used in the manufacture, preparation of treatment of "food".
+
+9. Food Establishment - food manufacturer, processor and distributor
+
+10. Food Irradiation - the processing of food by ionizing radiation for a technological objective or to serve a food hygiene purpose
+
+11. Food Irradiation Facility - a suitable facility licensed to irradiate food
+
+12. Ionizing Radiation - any gamma rays, x-rays or corpuscular radiation capable of producing ions directly or indirectly, as specified in IV. C - Reporting/Recording hereof.
+
+13. Irradiated Food - any food product, which has been subjected to treatment by ionizing radiation with an appropriate absorbed dose. This does not apply to foods exposed to radiation imparted by measuring instruments for inspection purposes.
+
+14. Meat and Meat Products - raw, frozen and processed meat and poultry/livestock products
+
+15. NMIS - National Meat Inspection Service, Department of Agriculture
+
+16. PNRI - Philippine Nuclear Research Institute, Department of Science and Technology
+
+17. Plant Products - products derived from plants, either in their natural state or in manufactured or processed form (fresh and vegetables; rootcrops; cereals, legumes and grains; processed and unprocessed spices, seeds and nuts)
+
+IV. POLICIES & GUIDELINES
+
+A. Licensing Requirements
+
+a. General Licensing Requirements
+
+1. Radiation treatment of food shall be carried out in a food irradiation facility licensed and registered as required in this AO.
+
+2. The food irradiation facility shall be designed and operated to meet requirements of safety, efficacy and good hygienic practices of food processing.
+
+3. The food irradiation facility shall be staffed and operated by adequate, trained and competent personnel
+
+4. * Food irradiation facility shall operate within PNRI or BHDT standards and requirements in the utilization and disposal or ionizing radiation for food and food products.
+
+b. Specific Licensing Requirements
+
+b.1 Food Establishment with Food Irradiation Facility
+
+1. Food establishment with food irradiation facility shall be licensed and controlled by BFAD.
+
+2. A License to Operate shall be issued by BFAD if food establishment complies with the following:
+
+a. Current Codex General Standard for Irradiated Foods (Annex A)
+b. Current Codex Recommended International Code of Practice for the Operation of Irradiation Facilities Used for the Treatment of Foods (Annex B)
+c. Good Manufacturing Practice (GMP) (Annex C)
+
+3. For food establishment with existing LTO, the LTO shall indicate that it has food irradiation facility.
+
+4. No food establishment shall operate a food irradiation facility without a Radioactive Material License (Large Irradiator) from PNRI in the case of gamma irradiation facilities or a license from BHDT in the case of electron beam and x-ray facilities.
+
+b.2 Food Establishment with Irradiated Product/s
+
+1. Food Establishment that intend to irradiate food product's shall secure a certification from BFAD.
+
+2. A certification shall be issued to food establishments only upon demonstration of compliance with Good Manufacturing Practices.
+
+3. For quarantine control, the food establishment shall be accredited and controlled by:
+
+a. BPI for fresh fruits and vegetables
+b. BFAR for fresh and frozen fish
+c. NMIS for fresh and frozen meat/poultry/livestock
+d. BFAD for processed food and food products
+
+* Reference is MOA between PNRI and DOH
+
+B. Standard Requirements for Food Irradiation
+
+1. Radiation Sources
+
+The following sources of ionizing radiation may be used for irradiation of food:
+
+a. Gamma rays from radionuclides 60Co or 137Cs
+b. X-rays generated from machine sources operated at or below an energy level of 5 MeV
+c. Electrons generated from machine sources operated at or below an energy level of 10 MeV
+
+2. Irradiation of food is justified when it fulfills a technological objective or when it serves a food hygiene purpose and should not be used as a substitute for good manufacturing practice.
+
+3. Food intended for irradiation treatment must meet the general requirements of quality and hygiene as recommended by the Codex General Principles 0 f Food Hygiene and other relevant Codex standards and codes of practice.
+
+4. The food packaging materials used shall be suitable for irradiation and be adequate to prevent re-infestation and re-contamination. Such packaging materials should maintain their integrity during storage, transport and distribution.
+
+5. The recommended dose ranges for the irradiation of various classes of foods for specified treatment objectives is shown in Appendix I. Doses outside this range may be applied provided satisfactory information and assurance is given that the doses applied will commensurate with technological and public health purposes to be achieved and is in accordance with good radiation processing. Food treated by ionizing radiation shall receive at least the minimum dose required to achieved the desired technological effect and the maximum dose received shall not affect the quality of the product.
+
+6. The irradiated food shall comply with the current Codex General Standard for Irradiated Food
+
+7. Control of the irradiation process shall be carried out in accordance with the current Codex Recommended International Code of Practice for the Operation of Irradiation Facilities Used for the Treatment of Foods
+
+The quality assurance system of the facility shall be documented and shall include:
+
+7.1 Dosimetry complying with duly recognized international practices. As such the operators shall be able to demonstrate the ability to carry out dosimetry as provided hereunder:
+
+a. Measure absorbed dose in an accurate and precise manner
+b. Determine the dose distribution in the product
+c. Calibrate dosimetry systems, traceable to national or international standards
+d. Keep dosimetry records
+
+7.2 Procedures to physically segregate irradiated from non-irradiated food products
+
+When applicable, a visual color change radiation indicator can be affixed to the outer package to readily distinguish irradiated from non-irradiated products.
+
+C. Reporting/Recording
+
+1. The facility shall submit an annual written report to BFAD, containing the following information
+
+a. The name of the facility
+b. The reporting period (January 1 - December 31)
+c. Description of food treated by ionizing radiation
+d. The quantity food treated by ionizing radiation, including lot numbers and date of irradiation
+
+2. Documentation process to maintain a record of each batch of food subjected to the irradiation treatment. Such records shall be kept for a period of three (3) years and shall be readily available for inspection by BFAD. The record shall contain:
+
+a. The lot/code number of each batch
+b. The date of irradiation
+c. The type and quantity of the irradiated food
+d. The packaging used during the irradiation treatment
+e. All controls and measurement performed during the irradiation treatment, particularly those related to minimum and maximum doses
+f. Any incidents or deviation observed during the irradiation treatment
+
+D. Inspection of the Irradiation Facility and the Irradiated Food
+
+1. Food Establishment with food irradiation facility shall be inspected by BFAD while the compliance of standards and requirements for utilizing ionizing radiation shall be checked/monitored by PNRI or BHTD as the case maybe, at, any time during the validity of its license to ensure that compliance with the standards and requirements or conditions of its license is maintained.
+
+2. The irradiated food products wherever they are held shall be subject to inspection in accordance with Section 27 of R.A. 3720 as amended.
+
+3. Products irradiated for quarantine control shall be inspected by appropriate agencies described in Section 5.2.2.1.
+
+E. Labeling of Irradiated Food
+
+1. Labeling of irradiated food shall comply with the provisions of the Codex General Standard for Irradiated Food and the Codex General Standard for Labeling Pre-Packaged Foods and the mandatory labeling information required by BFAD for pro-packaged food.
+
+2. The labeling of pro—packaged irradiated food at the retail outlets shall contain the international logo for irradiated food with the statement “treated by irradiation" or its equivalent, in addition to the mandatory labeling information required by BFAD for pro—packaged food.
+
+3. The information required for pro-packaged irradiated food shall be posted and/or conspicuously displayed in the shelves where irradiated food which are not pro-packaged are being displayed for sale to consumers at the retail outlets.
+
+4. Irradiated food for wholesale or distribution to retailers shall be labeled with sufficient information to identify the product and shall be accompanied by documents that will contain the following:
+
+a. Irradiation facility where the products were treated and its address
+b. License number of the facility and its validity period
+c. Date of irradiation
+d. Purpose of irradiation
+
+F. Re-Irradiation
+
+1. Re—irradiation of food shall conform with Codex provision for the re-irradiation of food
+
+2. Irradiated foods shall not be re-irradiated except under the following conditions:
+
+a. Irradiated foods of low moisture content such as cereals, pulses and dehydrated food, for the purpose of controlling insect re-infestation.
+b. Foods prepared from materials which have been irradiated at low dose may be irradiated for another purpose.
+c. Foods containing less than 5% of irradiated ingredients
+d. Foods irradiated in installments to a total absorbed dose required to achieve the intended purpose
+
+G. Importation and Exportation of Irradiated Food
+
+1. Importation of irradiated food shall be covered by a BFAD Certificate of Product Registration (CPR), which shall be issued upon an application by the importer, who shall submit the following information and documents:
+
+a. The identity, lot number and date of irradiation of the products to be imported
+b. Name and address of the irradiation facility which treated the products
+c. The country of origin
+d. A certificate from the food control agency of the country of origin that the irradiation facility is duly licensed and the irradiation process appropriately applied.
+
+2. Importation of irradiated agricultural products such as plant products, fish and fishery products and meat and meat products shall also follow existing import and quarantine requirements of concerned agencies, Department of Agriculture for raw and unprocessed foods and Bureau of Food and Drugs for processed foods.
+
+3. Exportation of irradiated food shall be covered by a BFAD CPR, which shall be issued upon an application by the exporter, who shall submit the following information and documents:
+
+a. The identity, lot number and date of irradiation of the products to be exported
+b. Name and address of the irradiation facility which treated the products, license number and validity period
+c. Name of the importing company and its address
+
+3. Exportation of irradiated food for quarantine control shall follow existing export and quarantine requirements of the concerned agencies, Department of Agriculture for raw and unprocessed foods and Bureau of Food and Drugs for processed foods.
+
+The BFAD CPR and clearances from concerned Bureaus of the Department of Agriculture shall carry the condition that the exported irradiated food shall comply with the rules and regulations governing irradiated food in the importing country.
+
+V. LEGAL SANCTIONS
+
+1. Irradiated foods that do not comply with any of the foregoing standards and requirements shall be deemed either adulterated and/or misbranded under the provision of R.A. 3720 as amended and may not be allowed for distribution into commerce or be ordered withdrawn from the market unless deficiencies can be corrected without withdrawing or recalling the said products from the market.
+
+2. Imposition of fines or suspension or revocation of the Certificate of Product Registration (CPR), and/or license to operate food irradiation facility.
+
+Any deficiencies in complying with or violators of PNRI or BHDT standards and requirements for facilities utilizing ionizing radiation or any violations of any provisions of this Order shall be a ground for the imposition of fines or suspension or revocation of the CPR and/or license to operate of a food irradiation facility as properly determined by BFAD after due notice and hearing.
+
+3. The above administrative penalties shall be in addition to any criminal action the BFAD may initiate in accordance with RA No. 3720 as amended, otherwise known as the Foods, Drugs and Devices, and Cosmetics Act.
+
+VI. SEPARABILITY/REPEALING CLAUSE
+
+If any provision of these guidelines is declared null and void, for any reason, the remaining provisions shall not be affected thereby and shall remain valid.
+
+VII. EFFECTIVITY
+
+This Order shall be effective thirty (30) days following its publication in two (2) newspapers of general circulation, once a week for a period of one (1) month.
+</body>
+
+<sign>MANUEL M. DAYRIT, MD, MSc.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<image>table_1.png</image>
+
+<image>table_2.png</image>

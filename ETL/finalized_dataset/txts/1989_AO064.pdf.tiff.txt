@@ -1,0 +1,50 @@
+﻿Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+<date>13/3/1989</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 64 s. 1989</docnum>
+<subject>Subject: Amendments of A.O. No. 55 a. 1988 Otherwise Known As Requirements for Labeling Materials of Pharmaceutical Products</subject>
+
+
+<body>
+WHEREAS, there is a need to harmonize the provisions of A.O. 55, s. 1988 on Requirements for Labeling Materials of Pharmaceutical Products with the Provisions of A.O. 62, s. 1989 on Prescribing Requirements;
+
+WHEREAS, some drug establishments through their association have requested that the starting date for requiring the new labels under A.O. No. 55 be postponed from April 1, 1989 to July 1, 1989;
+
+ WHEREAS, the Industry has signified that the labeling requirements for blister packs to put the product name, strength and expiry date for every two units are physically not possible.
+
+WHEREAS, in view of many new labels to be designed, approved and printed, more lead time is required if drug establishments would be able to comply with the provisions of A.O. 55.
+
+NOW THEREFORE, A.O. 55, s. 1988 on Requirements for Labeling Materials of Pharmaceutical Products is hereby amended as follows:
+
+Section 1. Section 2.1.15 shall read as follows:
+	2.1.15 Caution for Prescription Drugs
+	All prescription or Rx drug products shall carry the following caution
+		2.1.15.1 For any product belonging to List A, herein identified as Annex I:
+		“Foods, Drugs, Devices and Cosmetics Act prohibits dispensing without prescription (List A)”
+		2.1.15.2 For any drug product belonging to List B, herein identified in Annex 2:
+		“Foods, Drugs, Devices and Cosmetics Act prohibits dispensing without prescription (List B)”
+		2.1.15.3 For all other prescription drug products:
+		“Foods, Drugs, Devices and Cosmetics Act prohibits dispensing without prescription”
+
+Section 2. Sections 3.1.4 and 3.1.5 are hereby merged and amended to read as follows:
+		3.1.4 Products containing two or more active ingredients shall have generic names as determined by BFAD. All provisions above referring to generic names shall be applicable to these products as well. The starting date for the use of these generic names on the label shall be in accordance with a schedule to be determined by BFAD.
+
+Section 3. Section 10.2 is hereby amended as follows:
+	1.2 For products contained in a strip or blister packs, the requirement of 2.1.1, strength, expiry date, company name and batch numbers must appear for every standard strip
+
+Section 4. Section 17 is hereby amended to read as follows:
+
+	Section 17 Effectivity
+	This regulation shall take effect fifteen (15) calendar days after its publication in two newspapers of general circulation or in the Official Gazette. Provided, however, (1) that all productions shall be covered by these rules and regulations as soon as the manufacturer or trader is ready but not later than July 1, 1989 provided for in 3.1.4 as amended (2) that drug establishments shall have their new label approved by BFAD starting on the date of effectivity of these rules and regulations, provided further that all drug establishments shall report to BFAD the first batch number with their production which carries the new label. However, those old labels shall be allowed to remain in the market, but not later than December 31, 1989.
+
+Section 5. This order shall take effect immediately upon approval.
+ 
+
+</body>
+<sign>ALFREDO R. A. BENGZON, M.D.</sign>
+<signtitle>Secretary of Health</signtitle>

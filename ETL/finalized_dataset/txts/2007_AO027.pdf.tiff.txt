@@ -1,0 +1,349 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+2/F Building 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila
+Trunk Line 7423-83-01 Direct Line: 711-9501; Fax: 743-1829;743-1829; 743-1786
+URL: http://www.doh.gov.ph, e-mail: osec@doh.gov.ph
+
+   
+<date>08/22/2007</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2007-0027</docnum>
+
+<subject>SUBJECT: SUBJECT: Revised Rules and Regulations Governing the Licensure and Regulation of Clinical Laboratories in the Philippines</subject>
+
+
+<body>
+
+I. RATIONALE
+
+One of the main thrusts of current health sector reforms under FOURmula One (F1) for Health is regulation. The main objective of regulatory reforms is to ensure access to quality and affordable health products, devices, facilities and services, especially those commonly used by the poor.
+
+Physicians utilize laboratory work-ups in aid of diagnosis and management of patients. Accuracy of laboratory results is important in assuring and improving the quality of patient care. Republic Act No. 4688 s. 1966, “An Act Regulating the Operation and Maintenance of Clinical Laboratories and Requiring the Registration of the Same with the Department of Health, Providing Penalty for the Violation Thereof, and for Other Purposes”, mandated the DOH to look after public welfare by effectively enforcing and updating the current regulations to improve laboratory performance.
+
+Advances in technology necessitate the need to update the minimum standards and technical requirements for clinical laboratories. Current regulatory issuances on this matter may no longer be relevant. One of these is Administrative Order No. 59 s. 2001, entitled: “Rules and Regulations Governing the Establishment, Operation and Maintenance of Clinical Laboratories in the Philippines”. Thus, this Order revises such issuance in order to ensure the quality of services of clinical laboratories nationwide.
+
+II. OBJECTIVE
+
+This Order is promulgated to prescribe a revised minimum standard for clinical laboratories. This shall also ensure accuracy and precision of laboratory examinations in order to safeguard public health and safety.
+
+III. SCOPE AND COVERAGE
+
+This Administrative Order shall apply to all individuals, agencies, partnerships or corporations that operate clinical laboratories in the Philippines performing examination and analysis of samples of tissues, fluids, secretions, excretions, or other materials from the human body that would yield relevant laboratory information, which physicians use for the prevention, diagnosis, and treatment of diseases, and the management and promotion of personal and public health.
+
+Government clinical laboratories, doing microscopy work only for specific DOH programs such as but not limited to malaria screening, acid fast bacilli microscopy, tests for sexually transmitted infections, and cervical cancer screening using Pap smears, shall be exempted from the provisions of this Order.
+
+IV. DEFINITION OF TERMS
+
+For purposes of this Order, the following terms and acronyms shall have the following definition:
+
+1. Applicant — a natural or juridical person who intends to operate a clinical laboratory
+
+2. BHFS — acronym for the Bureau of Health Facilities and Services
+
+3. CHD — acronym for the Center for Health Development
+
+4. Clinical Laboratory - a facility where tests are done on specimens from the human body to obtain information about the health status of a patient for the prevention, diagnosis and treatment of diseases. These tests include, but are not limited to, the following disciplines: clinical chemistry, hematology, immunohematology, microbiology, immunology, clinical microscopy, histopathology, cytology, toxicology, endocrinology, molecular biology, and cytogenetics. Other functions of the clinical laboratory are to provide consultative advisory services covering all aspects of laboratory investigation including the interpretation of results and advice on further appropriate investigation. Facilities that are involved in the pre-analytical processes, such as the collection, handling or preparation of specimens, or act as a mailing or distribution center, such as in a laboratory network or system are also considered to be a part of a clinical laboratory. The total testing process includes pre-analytical, analytical and post-analytical procedures.
+
+5. Critical Values — panic values originally described by Lundberg as “life—threatening” unless something is done promptly and for which some corrective action could be undertaken.
+
+6. DOH — acronym for the Department of Health
+
+7. EQAP— acronym for External Quality Assessment Program. It is a program where participating laboratories are given unknown samples for analysis. These samples are to be treated as ordinary human specimens for the usual processing and examination. The quality of performance of the laboratory shall be assessed through the closeness of its results to the pre-determined value or to the reference value generated by the participating laboratories through peer group analysis.
+
+8. Inspection Tool ~— the checklist used by the regulatoryofficers during inspection visit(s) to evaluate compliance of a clinical laboratory to the minimum standards and technical requirements.
+
+9. Institution — a corporate body or establishment organized for an educational, medical, charitable, or similar purpose.
+
+10. License — the document issued by the DOH to an individual, agency, partnership or corporation that operates a clinical laboratory upon compliance with the requirements set forth in this Order.
+
+11. Licensee — the individual, agency, partnership or corporation to whom the license is issued and upon whom rests compliance with this Order.
+
+12. LTO -— acronym for License to Operate. It also refers to the license
+
+13. Mobile Clinical Laboratory — a laboratory testing unit that moves from testing site to another testing site, or has a temporary testing location. It shall have a base laboratory.
+
+14. Monitoring Examinations —~ tests done in series on patients as a guide for treatment or follow-up of their condition.
+
+15. NRL — acronym for the National Reference Laboratory. It is a laboratory in a government hospital which had been designated by the DOH to provide special functions and services for specific disease areas. These functions include provision of referral services such as confirmatory testing, surveillance, resolution of conflicting results between or among laboratories; training; research, implementation of EQAS; evaluation of diagnostic kits and reagents. An NRL may or may not be part of a general clinical laboratory.
+
+16. POL — acronym for Physician’s Office Laboratory. It is an individual doctor’s office/ clinic wherein laboratory examinations are performed.
+
+17. POCT— acronym for Point of Care Testing. It is a diagnostic testing at or near the site of patient care rather than in the clinical laboratory. It includes bedside testing, outpatient and home care.
+
+18. Routine Tests _ the basic, commonly requested tests in the laboratory, the results of which are not required to be released immediately upon completion. It shall follow the usual procedures and system in the laboratory.
+
+19. Satellite Testing Site — any testing site that performs laboratory examinations under the administrative control of a licensed laboratory, but performed outside the physical confines of that laboratory.
+
+20. STAT Tests —- tests done on urgent cases, the results of which shall be released immediately, within one (1) hour after the procedure. STAT is an abbreviation for sta’tim which means immediately.
+
+V. CLASSIFICATION OF CLINICAL LABORATORIES
+
+A. Classification by Ownership
+
+1. Government - operated and maintained, partially or wholly, by the national government, a local government unit (provincial, city or municipal), any other political unit or any department, division, board or agency thereof
+
+2. Private - owned, established and operated by any individual, corporation, association or organization
+
+B. Classification by Function
+
+1. Clinical Pathology — includes Clinical Chemistry, Hematology, lmmunohematology, Microbiology, Immunology, Clinical Microscopy, Endocrinology, Molecular Biology, Cytogenetics, Toxicology and Therapeutic Drug Monitoring and other similar disciplines
+
+2. Anatomic Pathology — includes Surgical Pathology, Immunohistopathology, Cytology, Autopsy, Forensic Pathology and Molecular Pathology
+
+C. Classification by Institutional Character
+
+1. Institution Based — a laboratory that operates within the premises and as part of an institution, such as but not limited to hospital, medical clinic, school, medical facility for overseas workers and seafarers, birthing home, psychiatric facility, drug rehabilitation center
+
+2. Freestanding — a laboratory that does not form part of any other institution
+
+D. Classification by Service Capability
+
+1. General Clinical Laboratory
+(a) Primary Category — provides the following minimum service capabilities:
+
+i. Routine Hematology [Complete Blood Count — includes Hemoglobin Mass Concentration, Erythrocyte Volume Fraction (Hematocrit), Leucocyte Number Concentration (White Blood Cell or WBC Count) and Leucocyte Type Number Fraction (Differential Count)
+ii. Qualitative Platelet Determination
+iii. Routine Urinalysis
+iv. Routine Fecalysis
+v. Blood Typing — for hospital based
+
+(b)Secondary Category — provides the minimum service capabilities of a primary category laboratory plus the following:
+
+i. Routine Clinical Chemistry ~— includes Blood Glucose Substance Concentration, Blood Urea Nitrogen Concentration, Blood Uric Acid Substance Concentration, Blood Creatinine Concentration, Blood Total Cholesterol Concentration
+ii. Quantitative Platelet Determination
+iii. Cross Matching — for hospital based
+iv. Gram Staining — for hospital based
+v. KOH — for hospital based
+
+(c)Tertiary Category — provides the minimum“ service capabilities of a secondary category laboratory plus the following:
+
+i. Special Chemistry
+ii. Special Hematology, including coagulation procedures
+iii. Immunology
+iv. Microbiology — culture and sensitivity
+- aerobic and anaerobic (for hospital based)
+- aerobic or anaerobic (for non—hospital based)
+
+A clinical laboratory, licensed under any of the above category, shall be permitted to offer laboratory services other than the respective stipulated minimum services, provided that, they comply with the requirements with respect to staff, equipment, reagents and supplies for such additional services, provided further, that such additional services are listed under its LTO.
+
+(d) Limited Service Capability (for institution-based only) — provides the laboratory tests required for a particular service in institutions such as but not limited to dialysis centers and social hygiene clinics.
+
+2. Special Clinical Laboratory
+A laboratory that offers highly specialized laboratory services that are usually not provided by a general clinical laboratory.
+
+VI. GUIDELINES
+
+A. GENERAL GUIDELINES
+
+1. The LTO shall be issued only to clinical laboratories that comply with the standards and technical requirements formulated by the BHFS.
+
+2. Clinical laboratories that are operated and maintained exclusively for research and teaching purposes shall be exempted from the licensing requirement of this Order but shall be required to register with the BHFS.
+
+3. Special clinical laboratories that are not subject to the provisions of other administrative orders, such as but not limited to, Assisted Reproduction Technology Laboratories, Molecular and Cellular Technology, Molecular Biology, Molecular Pathology, Forensic Pathology, Anatomic Pathology laboratories operating independent of a clinical laboratory are required to register with the BHFS without being licensed under the provisions of this Order. Such procedure shall subsist until the appropriate regulation for such purpose is subsequently promulgated. A pathologist or a licensed physician who is trained in the management, principles and methodology of the specialized services that are being provided shall head this type of laboratory.
+
+4. The NRL designated by the DOH shall be covered by the license of the clinical laboratory of the hospital where they are respectively assigned. The NRL that is physically independent from the clinical laboratory of the hospital where they are respectively assigned shall be allowed to register only with the BHFS, provided that, they are duly accredited or certified by an international accrediting or certifying body, such as but not limited to, the Center for Disease Control of the USA and the World Health Organization andl or local accrediting or certifying body recognized by the DOH.
+
+5. A POL is required to secure a clinical laboratory license when it undertakes any or all of the following activities:
+
+(a) Issue official laboratory results;
+(b) Perform more than monitoring examinations; and,
+(c) Cater not only to the physician’s own patients.
+
+Examinations performed in a POL Shall only be permitted when they are used for monitoring patients.
+
+6. A POCT, conducted in a hospital, is required to be under the management and supervision of the licensed clinical laboratory of the respective hospital.
+
+B. SPECIFIC GUIDELINES
+
+1. Standards
+Every clinical laboratory shall be organized to provide quality, effective and efficient laboratory services.
+
+(a) Human Resource
+
+i. Every clinical laboratory shall be headed and managed by a pathologist, certified either as a Clinical Pathologist, an Anatomic Pathologist, or both by the Philippine Board of Pathology.
+ii. The head of the laboratory shall have administrative and technical supervision of the activities in the laboratory.
+iii. The head of the laboratory shall supervise the staff in accordance to the standards set by the Philippine Society of Pathologists.
+iv. There shall be an adequate number of medical technologists and other health professionals with documented training and experience to conduct the laboratory procedures. The number of staff shall depend on the workload and the services being provided.
+v. There shall be staff development and continuing education program at all levels of organization to upgrade the knowledge, attitude and skills of staff.
+
+(b) Equipment
+i. There shall be available and operational equipment to provide the laboratory examinations that the laboratory' Is licensed for. 
+ii. There shall be a calibration, preventive maintenance and repair program for the equipment.
+iii. There shall be a contingency plan in case of equipment breakdown.
+
+(c) Glassware, Reagents and Supplies
+i. There shall be available reagents, glassware and supplies for the laboratory examinations to be provided.
+ii. There shall be an inventory control of the reagents, glassware and supplies.
+iii. The reagents, glassware and supplies shall be stored under the required conditions.
+
+(d) Administrative Policies and Procedures - The clinical laboratory shall have written policies and procedures for the provision of laboratory services and for the operation and maintenance of the laboratory.
+
+(e) Technical Procedures - There shall be documented technical procedures for services provided in each Section of the laboratory, which will ensure the quality of laboratory results.
+
+(f) Quality Assurance Program
+i. There shall be an Internal Quality Assurance Program which shall include:
+a) An Internal Quality Control Program for technical procedures
+b) An Internal Quality Assurance Program for inputs, processes and outputs
+c) A Continuous Quality Improvement Program covering all aspects of laboratory performance.
+ii. The clinical laboratory shall participate in an EQAP administered by designated NRL or in other local and international EQAP approved by the DOH.
+
+(g) Communication and Records
+
+i. There shall be procedures for the receipt and performance of routine and STAT requests for laboratory examinations.
+ii. There shall be procedures for the reporting of results of routine and STAT laboratory examinations, including critical values that would impact on patient care.
+iii. All laboratory reports on various examinations of specimens shall bear the name and facsimile signature of the pathologist who shall be accountable for the reliability of the results. The reports shall also bear the name and signature of the registered medical technologist(s) who have performed the examinations. Electronic signatures shall be permitted in accordance to the provisions of the E~Commerce Law.
+iv. There shall be procedures for the reporting of workload, quality control, inventory control, work schedule and assignments.
+v. There shall be procedures for the reporting and analysis of incidents, adverse events, and in handling complaints.
+vi. The retention of laboratory records shall be in accordance to the standards promulgated by the DOH or by competent authorities for such purposes.
+
+(h) Physical Facilities/ Work Environment
+
+i. The clinical laboratory shall conform to all applicable local and national regulations for the construction, renovation, maintenance and repair of clinical laboratories.
+ii. The laboratory shall conform to the required space for the conduct of its activities.
+iii. There shall be well-ventilated, lighted, clean, safe and functional areas based on the services provided.
+iv. There shall be a program of proper maintenance and monitoring of physical plant and facilities.
+v. There shall be procedures for the proper disposal of waste and hazardous substances.
+vi. There shall be policy guidelines on laboratory biosafety and biosecurity.
+
+(i) Referral of Examinations Outside of the Clinical Laboratory — When laboratory examinations are referred to and provided by an outside laboratory, the head of the referring clinical laboratory shall obtain assurance of the quality of services provided through a Memorandum of Agreement or its equivalent with a licensed clinical laboratory performing the laboratory services needed.
+
+2. LTO
+
+(a) The LTO is issued in the name of the licensee and is non-transferable, whether voluntarily or involuntarily, through sale, assignment or any other means. The license is not valid for any premisel location other than that which is stipulated therein.
+
+(b) The LTO issued to a clinical laboratory, unless sooner suspended or revoked, is valid for one year and expires on the date set forth by the CHD, as stipulated on the faCe of the license.
+
+(c)  The LTO issued to a non-hospital based clinical laboratory shall specifically stipulate the following: name of the clinical laboratory, name/s of the owner or operator, head of the laboratory, service capability, period of validity,license number, and, location wherein the laboratory procedures are to be performed.
+
+(d) The LTO issued to a non-hospital based clinical laboratory must be displayed at all times at a prominent place within the laboratory premises. Hospital based clinical laboratories shall be licensed as part of the hospital through the One-Stop-Shop Licensure for Hospitals and are therefore not required to obtain a separate license.
+
+(e)The capability to perform HIV testing andl or drinking water analysis shall be specifically indicated in the LTO, as issued by the CHD.
+
+(f) The clinical laboratory and its satellite services within the same compound shall have one (1) LTO.
+
+(g) A satellite laboratory outside the premises where the central laboratory is situated shall be required to secure a separate LTO.
+
+(h) Mobile clinical laboratories shall be licensed as part of the main clinical laboratory and shall be permitted to collect specimens only. It shall be allowed to operate only within one hundred (100) km radius from its main laboratory.
+
+(i) Changes that would substantially affect the conditions of a clinical laboratory, as set forth in its LTO, shall be reported to the concerned CHD within two (2) weeks from the initial date of implementation. The report shall be in writing, signed by the licensee, and submitted to the concerned CHD for notation. The LTO maybe revoked, suspended or modified in full or in part for any material false statement by the applicant, or as shown by the record of inspection or for a violation of, or failure to comply with any of the terms and conditions and provisions of these rules and regulations.
+
+VII. PROCEDURAL GUIDELINES
+
+A. Registration for Special Clinical Laboratories, National Reference Laboratories, Research and Teaching Laboratories
+
+1. Applicants can acquire the prescribed Application Form for Registration from the BHFS, CHD that has jurisdiction over the existing or proposed clinical laboratory, or at the the DOH website (www.doh.gov.ph).
+
+2. The accomplished form together with the necessary attachments is to be submitted to the BHFS or through the CHD that has jurisdiction over the existing or proposed clinical laboratory. The applicant shall be required to pay a non-refundable application fee for Certificate of Registration upon submission of the accomplished form and documentary requirements.
+
+3. The BHFS shall evaluate and accept applications based on due execution of forms and completeness of attachments.
+
+B. Procedures for Application for Initial/Renewal of LTO
+
+1. Applicants can acquire the prescribed application form for LTO from the BHFS, CHD that has jurisdiction over the existing or proposed clinical laboratory, or at the DOH website (www.doh.gov.ph).
+
+2. The accomplished form together with the necessary attachments is to be submitted to the CHD that has jurisdiction over the existing or proposed clinical laboratory. The applicant shall be required to pay a non-refundable application fee for LTO upon submission of the accomplished form.
+
+3. The CHD that has jurisdiction over the existing or proposed clinical laboratory shall conduct inspections in accordance with licensing requirements, as provided for under this Order and the One-Stop-Shop Licensure System for Hospitals.
+
+C. Renewal of LTO
+
+1. Renewal of hospital based clinical laboratories shall be in accordance with the licensing process under the One Stop- Shop Licensure System for Hospitals.
+
+2. Non-hospital based clinical laboratories shall file applications for renewal of LTO beginning on the first day of October until the last day of November of the current year. A discount on the renewal fee shall be granted if a complete application is filed during this period.
+
+3. Renewal of license for compliant clinical laboratories shall be processed not later than five (5) working days after the expiration date of its license.
+
+4. The LTO of a clinical laboratory shall be automatically cancelled without notice when it fails to submit a duly accomplished application form and to pay the proper fee on or before the expiration date stated in its license.
+
+D. Inspection
+
+1. The CHD shall conduct an announced licensure inspections at any reasonable time.
+
+2. The licensee shall ensure the accessibility of the premises and facilities where the laboratory examinations are being performed for the inspection of the CHD Director or his authorized representative(s) at any reasonable time.
+
+3. The licensee shall ensure the availability of all pertinent records for checking/review of the CHD Director or his authorized representative(s).
+
+4. An inspection tool, which prescribes the standards, criteria and technical requirements for the issuance of LTO, shall be utilized.
+
+E. Monitoring
+
+1. All clinical laboratories shall be monitored regularly.
+
+2. The BHFS or the CHD Director or his authorized representative(s) shall monitor clinical laboratories through monitoring visits to the laboratory at any reasonable time.
+
+3. All clinical laboratories shall ensure that all laboratory records, premises and facilities are made available to the BHFS or the CHD Director or his authorized representative(s) in order to determine compliance with the provisions of this Order.
+
+4. A Notice of Violation for non- compliant clinical laboratories shall be issued immediately after monitoring the clinical laboratory.
+
+5. The CHD concerned shall submit a quarterly summary of the violations to the BHFS stating the name of the clinical laboratory, location, its corresponding violation and the course of action taken.
+
+6. The Provincial, City-and Municipal Health Officers are enjoined to report to the BHFS/ CHD the existence of unlicensed clinical laboratories or any private party performing laboratory examinations without proper license andl or violations to these rules and regulations.
+
+VIII. SCHEDULE OF FEES
+
+(a) A non-refundable fee shall be charged for the initial application/ renewal of license to operate a clinical laboratory, either government or private.
+
+(b) All feesl checks shall be paid to the order of DOH in person or through postal money order.
+
+(c) All fees, surcharges and discounts shall follow the current DOH prescribed schedule of fees.
+
+IX. VIOLATIONS
+
+Violation of Republic Act 4688 or these rules and regulations andl or commission of the following acts by personnel operating the clinical laboratory under this authority shall be penalized:
+
+(a) Refusal of any clinical laboratory to participate in an EQAP conducted by the designated NRL or other external proficiency program approved by the DOH; 
+
+(b)Issuance of a report, orally or in writing, in whole Or portions thereof, which is not in accordance with the documented procedure approved by the head of the laboratory;
+
+(c) Permitting unauthorized persons to perform technical procedures; 
+
+(d) Demonstrating incompetence or making consistent errors in the performance of clinical laboratory examinations and procedures;
+
+(e) Deviation from the standard test procedures including use of expired reagents; 
+
+(f) Reporting/release of erroneous results;
+
+(g) Lending or using the name of the licensed clinical laboratory or the head of the laboratory or medical technologist to an unlicensed clinical laboratory;
+
+(h) Unauthorized use of the name and signature of the pathologist and medical technologist to secure LTO;
+
+(i) Reporting a test result for a clinical specimen even if the test was not actually performed;
+
+(j) Transferring of results of tests done in an outside clinical laboratory to the result form of the referring laboratory;
+
+(k) Performing and reporting tests in a specialty or subspecialty in which the laboratory is not licensed;
+
+(l) Giving and receiving any commission, bonus, kickback or rebate or engaging in any split-fee arrangement in any form whatsoever with any facility, physician, organization, agency or person, either directly or indirectly, for patients referred to a clinical laboratory licensed by the DOH.
+
+X. INVESTIGATION OF COMPLAINTS
+
+(a) The BHFS or the CHD Director or his authorized representative(s) shall investigate the complaint and verify if the laboratory concerned or any of its personnel is accountable for an alleged violation.
+
+(b) The CHD Director or his authorized representative(s), after investigation, shall suspend, cancel or revoke for a determined period of time the LTO of licensees who are found violating the provisions of RA. 4688 or this Order, without prejudice to taking the case to judicial authority for criminal action. The CHD shall seek the assistance of any law enforcement agency to execute the closure of any erring clinical laboratory, when necessary.
+
+XI. PENALTY
+
+Any person who operates a clinical laboratory without the proper license from the DOH shall upon conviction be subject to imprisonment for not less than one (1) month or a fine of not less than Php 1,000.00 and not more than Php 5,000.00 or both at the discretion of the court. Provided however, that if the offender is a firm or corporation, the managing head and/ or owner(s) thereof shall be liable to the penalty imposed herein.
+
+XII. APPEAL
+
+The decision of the BHFS/CHD may be appealed to the Office of the Health Secretary within ten (10) days after receipt of the notice of the decision. Thereupon, the BHFS shall promptly certify and file a copy of the decision, including all documents and transcript of hearings on which the decision is based, with the Office of the Health Secretary for review. The decision of the Office of the Health Secretary is final and executory.
+
+XIII. REPEALING CLAUSE
+
+Provisions from previous issuances that are inconsistent or contrary to the provisions of this Order are hereby rescinded and modified accordingly.
+
+XIV. SEPARABILITY CLAUSE
+
+In the event that any provision or part of this Order be declared unauthorized or rendered invalid by any court of law or competent authority, those provisions not affected by such declaration shall remain valid and effective.
+
+XV. EFFECTIVITY
+
+This Order shall take effect fifteen (15) days after its approval and publication in the official gazette or newspaper of general circulation.
+
+ 
+
+</body>
+<sign>FRANCISCO T. DUQUE III, M.D., MSc.</sign>
+<signtitle>Secretary of Health</signtitle> 

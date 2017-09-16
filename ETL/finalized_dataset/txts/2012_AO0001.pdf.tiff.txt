@@ -1,0 +1,1161 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>01/25/2012</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>	
+<docnum>No. 2012— 0001</docnum>	
+<subject>SUBJECT: New Rules and Regulations Governing the Licensure and Regulation of Dialysis Facilities in the Philippines</subject>
+
+<body>
+I. RATIONALE/ BACKGROUND
+
+The Philippine Renal Disease Registry (PRDR) Annual Report for 2011 revealed that of the nine thousand seven hundred sixteen (9,716) patients that started dialysis in 2010, 9,133 (94%) patients were on hemodialysis (HD) and 583 (6%) patients on peritoneal dialysis (PD). There was an 8.9% increase in the number of patients on dialysis from 8,922 in 2009 to 9,716 in
+2010. 
+
+A listing of dialysis facilities in 2010 as reported by the Renal Disease Control Program (REDCOP) showed a total of 423 dialysis facilities nationwide of which 355 were HD and 68
+were PD facilities. To obtain a snapshot of the level of compliance of Hemodialysis Clinics (HDC), the Department of Health (DOH) through the Bureau of Health Facilities and Services (BHFS) conducted a rapid assessment in March 2009 of selected HDC which revealed gaps instandards and requirements such as, but not limited to: a) personnel (inadequate staff); b)
+equipment (use of refurbished machines with unknown manufacturing dates), supplies andmaterials (incomplete E-cart medicines, supplies and materials); and 0) physical facility(inadequate space for mobility of staff, patients and relatives, and inadequate hand washing areas) that will assure the safety of the foregoing facilities.
+
+Current regulatory issuances on this matter need to be enhanced and updated in order to address the gaps that were noted during the survey. One of these is entitled Administrative
+Order (AO) No. 163 s. 2004 “Revised Rules and Regulations Governing the Licensure and Regulation of Dialysis Clinics in the Philippines” and A0. No. 2006 —— 0037, an Amendment of
+the same. This Order rescinds such issuance in line with the objective of health regulatory reforms to ensure access to safe, quality and affordable health facilities and dialysis services.
+
+II. OBJECTIVE
+
+This Order is promulgated to prescribe a revised minimum standard for HDC to ensure safe
+and effective HD treatments.
+
+
+III. SCOPE
+
+This Order shall apply to all government and private HDC in the Philippines. In cases where PD is also performed in an HDC, DOH through BHFS shall advocate PhilHealth accreditation standards and requirements on PD.
+
+IV. DEFINITION OF TERMS
+
+For purposes of this Order, the succeeding terms and acronyms shall have the following
+deﬁnitions:
+
+1. Association for the Advancement of Medical Instrumentation (AAMI) -— an organization which promotes knowledge and use of medical instrumentation. It creates standards, educates and certiﬁes technicians, and publishes technical
+documents, books, periodicals and software. Its Recommended Practices and Standards are considered to be a major resource of healthcare guidelines and noncompliance with these standards is cited by regulatory organizations that inspect
+health care facilities.
+
+2. Advanced Cardiac Life Support (ACLS) — a group of interventions used to treat and stabilize victims of life-threatening cardio—respiratory emergencies and to
+resuscitate victims of cardiac arrest. It also refers to a training course sponsored bythe American Heart Association that instructs healthcare providers in the basic and advanced techniques of resuscitation.
+
+3. Adverse Event — injury caused by medical management (and not necessarily the disease process) that either caused death, prolonged hospitalization, or produced a disability at the time of discharge.
+
+4. Applicant — a natural orjuridical person who is applying for a license to operate an
+HDC.
+
+5. Bureau of Health Facilities and Services (BHFS) - the regulatory body of DOH charged with the licensing function under these rules and regulations.
+
+6. Board Certiﬁed Physician —— a physician who is a Diplomate and/or a Fellow of a medical specialty and/or subspecialty society recognized by the Philippine Medical Association and certiﬁed to by the corresponding medical specialty and/or
+subspecialty board.
+
+7. Board Eligible Physician — a physician who ﬁnished or completed an accredited medical specialty and/or subspecialty residency/fellowship training program which had been approved by the corresponding medical specialty and/or subspecialty
+board.
+
+8. Center for Health Development (CHD) — the regional ofﬁce of DOH.
+
+9. Certificate of Compliance (COC) the certiﬁcate issued by REDCOP upon compliance of HDC to reporting and participation in PRDR. A COC issued by REDCOP to a participating dialysis unit is a pre-requisite to renewal of LTO.
+
+10. Dialysis a process by which dissolved substances are removed from a patient’s body by diffusion from one ﬂuid compartment to another across a semi-permeable
+membrane. It is a cleansing process using dialyzing equipment (artiﬁcial kidney) and appropriately recognized procedures.
+
+11. Dialysis Station - a designated portion of HDC that accommodates the materials and equipment necessary to provide HD. This station has a minimum area of at least 6 square meters capable of accommodating a dialysis chair or patient bed, a
+dialysis machine and emergency equipment should the need for it arise.
+
+12. Department of Health (DOH)
+
+13. Department of Health Permit to Construct (DOH—PTC) issued by DOH through BHFS to an applicant who will establish and operate an HDC upon compliance with required documents set forth in this Order prior to the actual construction of the subject facility. A DOH- PTC is also required for HDC with substantial alteration, expansion or renovation, or increase in the number of HD stations It is a prerequisite to LTO. 
+
+14. End Stage Renal Disease (ESRD) — a now outdated term synonymous with “Stage V Chronic Kidney Disease”, a severe illness with poor life expectancy if untreated. It is the complete or almost complete failure of the kidneys to function.
+
+15. Hemodialysis (HD) - a medical procedure whereby the patient’s blood is delivered by a machine to a dialyzer (blood ﬁlter) to remove metabolic wastes and restore ﬂuid and electrolyte balance. 
+
+16. Hemodialysis Clinic (HDC) -— the list of DOH licensed HDC is posted at DOH website www. deh. gov. ph
+
+17. License to Operate (LTO) — a formal authority issued by DOH to an individual, agency, partnership or corporation to operate a non—hospital based HDC.
+
+18. One-Stop Shop (OSS) — a strategy of DOH to harmonize the licensure of hospitals, their ancillary and other facilities including, but not limited to, HDC. Under the One-Stop Shop, a hospital based HDC is not required to secure a separate LTO.
+The provision of HD in a hospital shall be reﬂected in the hospital LTO upon full compliance to this Order.
+
+19. Peritoneal Dialysis (PD) — a means of dialysis using the peritoneum as a dialysis membrane.
+
+20. Physician On Duty (POD) —the Physician On Duty in an HDC.
+
+21. Patient — refers to a person admitted to and receiving care in an HDC.
+
+22. Patient Medical Record - a compilation of pertinent facts about a patient’s life and health history including past and present illnesses and treatment written by health care professionals caring for the patient.
+
+23. Philippine Renal Disease Registry (PRDR) — a compilation of data of all dialysis
+patients in the country. It was institutionalized under the National Epidemiology Center of DOH by virtue of A0. No. 2009 — 0012.
+
+24. Renal Disease Control Program (REDCOP) . the National Kidney Transplant Institute (NKTI) of DOH is the main implementing agency of REDCOP. The Renal Disease Control Program addresses all levels of renal disease prevention (health promotion, primary, secondary, tertiary prevention including prevention of death of ESRD patients through transplantation and organ donation) by conceptualizing planning, implementing projects and activities on research, training, advocacy, service and quality assurance.
+
+25. Refurbished HD Machine — a pre-owned HD machine sent back to the supplier with capability to recondition and calibrate the unit to speciﬁcations that will ensure
+accuracy and safety. 
+
+26. Reverse Osmosis (RO) a ﬁltration method that removes many types of large molecules and ions from solutions by applying pressure to the solution when it is on one side of a selective membrane. The result is that the solute is retained on the pressurized side of the membrane and the pure solvent is allowed to pass to the other side. It represents the ultimate in ultra-ﬁltration.
+
+
+27. Water Treatment — the process of treating water used for HD purposes in order to maintain a continuous water supply that meets the provisions of AAMI “Standards for Water for Hemodialysis.”
+
+V. POLICIES
+
+A. GENERAL POLICIES
+
+1. Hemodialysis (HD) shall be performed only in DOH licensed non hospital based HDC and hospital based HDC under the One-Stop Shop Licensure System for
+hospitals.
+
+2. If Peritoneal Dialysis (PD) is being performed in facilities regulated by DOH such as, but not limited to, hospitals and HDC, DOH shall advocate PhilHealth accreditation standards and requirements on PD.
+
+3. All HDC shall participate in PRDR. All patients on HD shall be registered by these facilities to PRDR.
+
+4. All HDC shall have a continuing patient education program that updates the patient
+on treatment options and kidney transplant.
+
+5. All HDC shall have linkages with DOH accredited kidney transplant centers.
+
+6. All HDC shall follow the standards, criteria and requirements prescribed in the I assessment tool for licensure of HDC.
+
+7. All HDC shall follow this Order and other related and future issuances by DOH.
+
+B. SPECIFIC POLICIES
+
+1. CLASSIFICATION OF DIALYSIS FACILITIES
+
+a. ACCORDING TO OWNERSHIP
+
+1. Government - operated and maintained, partially or wholly, by the national government, a local government unit (provincial, city or municipal), any other political unit or any department, division, board or agency thereof.
+
+2. Private - owned, established and operated with funds through donation, principal, investment or other means by any individual, corporation, association or organization.
+
+b. ACCORDING TO INSTITUTIONAL CHARACTER
+
+1. Hospital based —— a dialysis facility that operates within a hospital.
+
+2. Non hospital based — a dialysis facility that operates outside of the hospital premises or on its own.
+
+
+
+2. STANDARDS
+
+Every HDC shall be organized to provide safe, quality, effective and efﬁcient HD
+services.
+
+a. PERSONNEL
+
+Every HDC shall have an adequate number of qualiﬁed, trained and competent staff to ensure efﬁcient and effective delivery of HD services. The staff composition will depend on the workload and the services being provided.
+
+1. Head of HDC
+
+a. Every HDC shall have a Medical Director who is duly licensed by the Professional Regulation Commission (PRC) and preferably is a nephrologist certiﬁed by the Specialty Board of the Philippine Society of Nephrology (PSN). The Philippine Society of Nephrology shall regularly provide DOH with an updated list of its board certiﬁed members.
+
+b. The duties and responsibilities of HDC Medical. Director are, but not limited to, the following:
+
+1. Oversees the overall technical and medical operations of HDC;
+
+2. Sees to it that all medical procedures are done in accordance with
+acceptable norms and standards of medical practice;
+
+3. Develops and adopts internal medical protocol, policies and
+procedures on dialysis and related treatment in accordance with the standards formulated by DOH in coordination with PSN and oversees the implementation thereof;
+
+4. Sets requirements on education and performance criteria for medical staff including hiring of the same;
+
+5. Requires training program for HDC staff for certiﬁcation, continuous improvement of skills and knowledge;
+
+6. Oversees the conduct and completion of tasks within HDC;
+
+7. Initiates, supports and implements ' Quality Assessment and Performance Improvement (QAPI) activities;
+
+8. Ensures strict compliance to infection control and surveillance practices;
+
+9. Assures water safety based on the standards of AAMI including, but not limited to, the following:
+
+a. Ensures programs and policies to ascertain safe mixing of water and dialysate; 
+
+b. Ensures monitoring of safe water regulations and speciﬁcations;
+
+c. Ensures that the manufacturer or supplier of a complete water
+treatment and distribution system demonstrates that the complete
+water treatment, storage and distribution system is capable of
+meeting applicable requirements at the time of installation.
+
+
+c. Whenever a nephrologist is not readily available for the position of Medical Director, BHFS/CHD shall allow the following physicians to handle HDC in order of priority:
+
+1. Board eligible in nephrology;
+
+2. Board certiﬁed in Internal Medicine (IM) or Pediatrics with work experience in any DOH licensed HDC for at least three (3) months;
+
+3. Board eligible in IM or Pediatrics with work experience in any DOH licensed HDC for at least three (3) months;
+
+4. General practitioner with work experience in any DOH licensed HDC for at least six (6) months.
+
+The training of a non-nephrologist for the position of Medical Director shall be in accordance with the guidelines developed by PSN.
+
+d. The Medical Director shall visit HDC at least once a week. The visit in HDC shall have to be documented. 
+
+e. The Medical Director shall handle a maximum of only three (3) HDC.
+
+2. Physician On Duty (POD)
+
+a. The qualiﬁcations, duties and responsibilities of HDC POD are, but not limited to, the following:
+
+1. Attends to patients within HDC under the supervision of the Medical Director;
+
+2. Duly licensed by PRC and:
+
+a. Board certiﬁed in nephrology or
+b. Board eligible in nephrology or 
+c. Board certiﬁed in IM or Pediatrics with work experience in any DOH licensed HDC for at least three (3) months or
+d. Board eligible in IM or Pediatrics with work experience in any DOH licensed HDC for at least three (3) months or
+e. Undergoing an accredited residency training program in IM or Pediatrics (exclusively for training hospitals) or
+f. General practitioner with work experience in any DOH licensed HDC for at least six (6) months.
+
+3. Has experience in the care of patients with ESRD;
+4. Has an updated training in ACLS;
+5. Present during hours of operation of HDC.
+
+b. The ratio of POD to the number of HD patient stations shall not be more than1:15.
+
+3. Nurse
+
+a. The duties and responsibilities of HDC nurse are, but not limited to the following:
+
+1. Provides direct care to patients undergoing HD based on the rules and regulations established by DOH and approved company policies and procedures;
+
+2. Checks and prepares all materials needed and ensures it is available before the start of dialysis;
+
+3. Reads and carries out doctors’ orders and ensures that dialysis is performed accordingly;
+
+4. Assesses patient using the nursing process before, during and after dialysis;
+
+5. Assesses, inspects, regulates and monitors all machine settings and parameters;
+
+6. Prepares patient’s access using the required standards for arteria venous ﬁstula and external access preparation;
+
+7. Communicates with the doctor regarding identiﬁed patient-related problems and initiates interventions for the same;
+
+8. Administers medications as ordered and properly documents the
+same;
+
+9. Performs, monitors and records pre—, intra— and post dialysis treatment vital signs; '
+
+10. Initiates/performs Cardio-Pulmonary Resuscitation (CPR) in the event of cardiac and/or pulmonary arrest and sees to it that all activities are supervised, organized and documented;
+
+11. Updates patient’s records during and after every dialysis session;
+
+12. Inventories e—cart medicines and ward stocks at the end of every shift;
+
+13. Protects patients from accidents, hazards and potential infections;
+
+14. Observes the line of communication and applies appropriate
+communication techniques in reporting, recording and relaying
+information or data;
+
+15. Provides information and health education to patients and signiﬁcant others regarding the plan of care.
+
+b. The nurse shall be duly licensed by PRC in accordance with RA. No. 9173 known as the “Philippine Nursing Act of 2002”.
+
+c. The nurse shall have a certiﬁcate of training in the nursing care of renal dialysis patients from competent training providers.
+
+d. The nurse shall have a certiﬁcate of training in Basic Life Support (BLS) conducted by competent authorities or professional organizations.
+
+e. Every HDC shall have at least one nurse per shift with an updated training "in ACLS conducted by competent authorities or professional organizations. 
+
+f. The ratio of nurse to the number of HD patient stations shall not be more than 1
+
+4. Dialysis technician
+
+The duties and responsibilities of a dialysis technician are, but not limited to, the following: 
+
+a. Regarding technical/equipment care:
+
+1. Primes or prepares dialyzers and dialysis bath according to formula;
+2. Prepares, rinses, disinfects dialysis machines prior to treatment;
+3. Calibrates reprocessing machines at the start of the day prior to use;
+4. Collects all used dialyzers in the dialysis area in accordance with techniques in prevention and control of spillage and contamination; 
+5. Performs reprocessing of used dialyzers;
+
+6. Assesses reprocessed dialyzers for acceptability;
+7. Labels all used dialyzers properly;
+8. Records dialyzer re—use number in HD flow sheet;
+
+9. Stores reprocessed dialyzers in an orderly manner;
+10. Conducts preventive maintenance of HD machines, machine repairs and monitoring of machine-related problems.
+
+b. Assists the nurse with pre- and post dialysis patient assessments and their documentation. He shall also assist in all emergency operational procedures and in performing basic CPR measures during cardiac and/or pulmonary arrest;
+
+c. Enforces company set policies and performs tasks as may be delegated from time to time.
+
+5. A designate supervisor of medical records shall be responsible for the maintenance of complete medical records on all patients within HDC in accordance with the Hospital Medical Records Manual of DOH and acceptable professional standards and practices. The designated HDC staff shall also function as HDC PRDR Coordinator responsible for medical records keeping and ensuring completeness of ﬁlled out forms to be submitted to REDCOP.
+
+6. There shall be administrative staff to facilitate non-medical work in HDC.
+
+b. PHYSICAL FACILITIES
+
+Every HDC shall have physical facilities with adequate areas to ensure the safety of staff, patients and their relatives.
+
+1. Every HDC shall conform to applicable local and national regulations for the construction, renovation, maintenance and repair of the same.
+
+2. Every HDC shall conform to the required space for the conduct of its activities depending on its workload and the services being provided.
+
+3. Every HDC shall have an approved DOH—PTC in accordance with the planning and design guidelines prepared by DOH through BHFS posted at DOH website www.doh.gov.ph. (Annex A —- Planning and Design Guidelines for an HDC; Annex B - Proposed Reference Plan of an HDC) The floor plan of the entire dialysis facility shall be signed and sealed by a licensed architect and/or engineer and shall contain the following areas listed below.
+
+a. DIALYSIS SERVICE COMPLEX
+
+1. HD Station
+
+a. Each HD station shall not be less than two (2) meters by three (3) meters to accommodate a dialysis chair or bed, a dialysis machine and emergency apparatus when needed. Passageway or corridors shall be wide enough for access of stretcher and emergency
+equipment. 
+b. Each HD station shall have electrical convenience outlet(s).
+
+c. Each HD station shall have water line for delivery of treated water to the individual dialysis machine.
+
+2. Nurse’s Station with Work Area
+
+a. The nurse’s station shall be strategically located in an area which allows adequate surveillance of patients on HD.
+
+b. The work area contains a work counter, hand washing sink and storage cabinets including a counter area for medicine
+preparation.
+
+3. Water Treatment Room
+
+The water treatment design shall follow the provisions stipulated in Section V. B. 2. c. of this Order under policies on equipment and supplies re: typical arrangement of a water treatment system.
+
+4. Dialyzer Reprocessing Area Room (only for HDC that re—process)
+
+5. Supply and Storage Room Every HDC shall provide a room/area with storage cabinets for sterile instruments/supplies and other materials.
+
+6. Service Support Areas
+
+Every HDC shall provide for the following support areas:
+
+a. Waste holding cubicle/area;
+
+b. Soiled linen cubicle/area;
+
+c. Janitor’s closet;
+
+d. Emergency generator room/area.
+
+b. NON-TREATMENT AREAS OR RECEPTION AREA/ SECTION
+
+1. Business Ofﬁce 
+
+a. Every HDC shall provide a reception information counter, admitting area, cashier’s area (for non-hospital based HDC), records section and a doctor’s consultation cubicle for the Medical Director.
+
+b. Every HDC shall provide a room for storage and protection of
+medical records.
+
+2. Waiting Area Every HDC shall provide enough seats for patients and visitors.
+
+3. Toilet Facility
+
+a. Every non hospital based HDC shall provide a toilet facility with urinal, water closet and lavatory for patients and their visitors.
+
+b. Every hospital based HDC shall ensure access to a toilet facility.
+
+4. Staff Pantry or Break Room
+
+Every HDC shall provide an eating area, a counter with sink, locker and dressing room with toilet for staff use.
+
+c. EQUIPMENT AND INSTRUMENTS/ SUPPLIES
+
+Every HDC shall have available and operational equipment, instruments, materials and supplies for HD procedure to be provided.
+
+1. Every HDC shall be adequately equipped with the following to provide quality service to HD patients.
+
+a. HD Station and Nurse’s Station
+
+1. HD machines (machine hours, date of acquisition of machine)All HD machines shall use bicarbonate as buffer. There shall be at least one (1) HD machine assigned to patients with hepatitis B infection. Otherwise, patients conﬁrmed to have hepatitis B shall be referred to a bigger HDC with dedicated machines for them.
+
+a. Ten—year rule: New machines and refurbished machines with
+known manufacturing dates shall be covered by existing
+guidelines which is not more than 10 years or 30,000 machine
+hours (equivalent to 7,500 treatments) whichever comes ﬁrst.
+
+b. Machines acquired January 2009 or existing refurbished machines
+with unknown manufacturing dates will be allowed a 5-year grace
+period (to be junked by year 2013). These refurbished machines
+shall be checked annually.
+
+c. Acquisition of refurbished machines shall not be allowed if the manufacturing date and the date of purchase cannot be identiﬁed in any way possible. 
+
+2. Every HDC shall provide dialysis chair(s) capable of full recline and trendelenberg position or patient bed(s) with guard rails (90 cm x 70 cm) or its equivalent.
+
+3. Every HDC shall provide an E-cart with the following basic medicines, equipment and supplies.
+
+a. Basic Medicines
+
+1. B—adrenergic agonists -— salbutamol 2 mg/ml (5 ampoules)
+2. Caloric agent D50W 50 ml/vial (5vials)
+3. Amiodarone 150 mg/ampoule (2ampou1es)
+4. Aspirin USP grade 325 mg/tablet (6 tablets)
+5. Atropine 1 mg/ml ampoule (10 ampoules)
+6. Benzodiazepine [Diazepam 10 mg/2 ml ampoule And/or Midazolam] (4ampoules)
+7. Calcium [usually calcium gluconate] 10 mg/ampoule (2 ampoules)
+8. D5 0.3 NaCl 500 ml/bottle (2 bottles)
+9. D5 LR 1 L/bottle (2 bottles)
+10. D5 NM 500 ml/bottle (2 bottles)
+11. D5 N58 1 L/bottle (2 bottles)
+12. DSW 250 mlibottle (2 bottles)
+13. Digoxin 0.5 mg/ampoule (2 ampoules)
+14. Diphenhydramine 50 mg/ampoule (10 ampoules)
+15. Dobutamine 250 mg/20 ml vial (2 vials)
+16. Dopamine 200 mg/vial (2 vials)
+17. Epinephrine 1 mg/ml ampoule (10 ampoules)
+18. Hydrocortisone 250 mg/vial (10 vials)
+19. Hypertonic saline (4 vials)
+20. Lidocaine 5% solution 1 g/50 ml vial (2 vials)
+21. Mefenamic acid 500 mg/tablet (4 tablets)
+22. Nitroglycerin spray or Isosorbide di-nitrate
+5 mg/tablet (10 tablets)
+23. Noradrenaline 2 mg/ampoule (4 ampoules)
+24. Paracetamol 300 mg/ampoule (4 ampoules)
+25. Phenobarbital IV or tablet preparation
+	(4 ampoules or tablets)
+26. Plain LRS 1 L/bottle (2 bottles)
+27. Plain N88 1 L/bottle (2 bottles)
+28. Sodium bicarbonate 50 mEq/ampoule (4 ampoules)
+29. Terbutaline 0.5 mg/ampoule (2 ampoules)
+30. Tramadol 50 mg/tablet (5 tablets)
+
+b. Basic Equipment
+1. Airway adjuncts (oropharyngeal and nasopharyngeal airways)
+2. Airway/intubation kit:
+a. Bag—valve-mask device (adult set)
+b. Endotracheal tube (size 7.5 —~ 8)
+c. Laryngoscope (adult set)
+3. Biomedical refrigerator or its equivalent for storage of
+biological and other heat-sensitive drugs
+4. Calculator
+5. Cardiac board
+6. Cardiac/ECG leads
+7. Deﬁbrillator (with cardiac monitor and/or pacemaker functions)
+8. Diagnostic (ophthalmoscope/otoscope) set
+9. Different sets of bins (to include a puncture-proof sharps
+container)
+10. Fire extinguishers
+11. Floor lamps (drop light and gooseneck)
+12. Foot stools
+13. IV stands (poles)
+14. Mayo table and tray
+15. Minor surgical set:
+	a. Curved Mayo scissors, 8 inches
+	b. Kelly forceps curve, 6 inches
+	c. Knife handle with blades
+	d. Metal tray cover, 8 x 12 inches
+	e. Metzenbaum scissors, 8 inches
+	f. Mosquito forceps, curve
+	g. Needle holder, 8 inches
+	h. Skin retractors
+	i. Straight Mayo scissors
+	j.Tissue forceps with teeth
+	k. Tissue forceps without teeth
+16. Nebulizer
+17. Oxygen tank (with gauge and humidiﬁer)
+18. Penlights or ﬂashlights
+19. Portable suction device (with suction catheters)
+20. Pulse oximeter
+21. Random blood sugar meter (Glucometer with strips)
+22. Sphygmomanometer (non-mercurial) 
+23. Stethoscope
+24. Stretchers and gurneys (wheel-type and ﬁxed—type stretchers)
+25. Thermometers (non-mercurial)
+26. Water—proof aprons
+27. Weighing scale
+c. Basic Supplies
+1. Alcohol disinfectant
+2. Aseptic bulb syringe
+3. Elastic bandages of different sizes
+4. Gloves (examination and sterile gloves)
+5. Hydrogen peroxide solution
+6. Nasal cannula
+7. Naso gastric tube
+8. Oxygen tubing
+9. Povidone iodine (wound and cleaning solutions)
+10. Protective face shield or mask
+11. Standard face mask
+12. Sterile gauze
+13. Sutures
+14. Urethral catheter
+
+
+b. Water Treatment Area
+
+1. The typical arrangement of a water treatment system is as follows:
+
+a. Raw water
+
+b. Conventional bulk ﬁlters
+
+c. Softener
+
+d. Carbon filter
+
+e. Conventional bulk ﬁlters
+
+f. Reverse Osmosis (RO)
+
+g. Total Dissolved Solids (TDS) meter
+
+h. Plumbing system - delivers treated water to the individual dialysis machines. There are generally two (2) types of plumbing systems.
+
+1. Direct feed single pass RO system (provide details of RO set-
+up);
+
+2. Holding tank set-up or R0 system with storage tank (provide
+details of RO set-up).
+
+2. Every HDC shall have written policies and procedures for storage of water and the appropriate sterilization method(s) used.
+
+c. Dialyzer Reprocessing Machine (whenever applicable)
+
+d. Support Area
+Every HDC shall provide a standby generator (not less than 20 KVA) appropriate to the size of the facility.
+
+e. Business Ofﬁce
+Every HDC shall provide the following:
+
+1. A computer with internet connection (to include hardware and
+software for PRDR);
+
+2. An ambulance or transport vehicle or show proof of contract with providers of ambulance services.
+
+2. There shall be a calibration, preventive maintenance and repair program for equipment.
+
+3. There shall be a contingency plan in case of equipment breakdown.
+
+d. SERVICE DELIVERY
+
+Every HDC shall ensure that the services delivered to patients are of the desired quality.
+
+1. Every HDC shall have documented Standard Operating Procedures (SOP) for the provision of HD services and for the operation and maintenance of the facility.
+
+2. Every HDC shall have documented technical policies and procedures for the services being provided in the facility to ensure quality of services rendered to HD patients. There shall be policies and procedures on, but not limited to, the following:
+
+a. HD treatment protocol;
+
+b. Reprocessing of dialyzers (only for HDC that re—process);
+
+c. Treatment of water for HD;
+
+d. Prevention and control of hepatitis and other infections;
+
+e. Management of complications;
+
+f. Sterilization techniques; '
+
+g. Management of infectious wastes;
+
+h. Patient referral and/or transfer to another facility.
+
+3. The management of HDC shall ensure that blood comes from licensed blood centers or authorized blood stations.
+a. Blood shall be obtained only from DOH designated blood centers or the Philippine Red Cross.
+b. A Memorandum of Agreement (MOA) shall be entered into with
+hospital facilities capable of blood transfusion and with volunteer donors.
+
+QUALITY IMPROVEMENT (QI) ACTIVITIES
+
+Every HDC shall establish and maintain a system for continuous quality improvement activities.
+
+1. Each HDC shall have policies and procedures on Quality Assurance Program (QAP) and continuous quality improvement.
+
+
+2. The Quality Assurance Program shall have a written plan and its implementation shall be continuous with periodic reviews.
+
+f. INFORMATION MANAGEMENT
+
+Every HDC shall maintain a record system to provide readily available information on each patient.
+
+1. Contents of Medical Records
+
+Each HDC shall maintain complete medical records of all patients within the facility, including those patients administering self-care.
+
+All current ﬁles shall be kept at the nurses’ station and shall be placed in the patient’s ﬁle folder once completed. Each patient record shall be kept conﬁdential and shall contain sufﬁcient information to identify the patient and to justify the diagnosis and treatment. The right of the patient to
+obtain records of treatment and other relevant medical information shall be observed. Current medical records shall contain, but is not limited to, the
+following: 
+
+a. Summary of face sheet with patient identiﬁcation data, diagnosis, physician’s name and phone number, family member to be contacted in case of emergency and phone number, patient’s address and phone number, date of admission;
+
+b. Doctor’s orders. Standing orders shall be updated at least semi-annually and as deemed necessary.
+
+c. Dialysis charts with properly ﬁlled out data sheet;
+
+d. Laboratory and x-ray reports; 
+
+e. Personal history and physical examination records;
+
+f. Clinical and graphic record of patient’s vital signs;
+
+g. Medication record;
+
+h. Dietary assessments, updates and progress notes;
+
+i. Consultations, hospitalizations;
+
+j. Nurse’s progress notes each time of dialysis;
+
+k. Problem list;
+
+l. Clinical Abstract;
+
+m. Informed consent, updated at least annually and as deemed necessary;
+
+n. Records of transfer/referral of patient to another health facility;
+
+o. Advance Directive, if any;
+
+p. Documentation on patient education;
+
+q. Hepatitis proﬁle. Determination of patient’s hepatitis proﬁle is highly recommended. 
+
+r. Patient’s vaccination status. The following immunizations are highly recommended.
+
+1. Hepatitis B (double dose) vaccination at 0, 1, 6 months. Routine
+post-vaccination testing thirty (30) days after the last dose;
+
+2. Inﬂuenza vaccination annually;
+
+3. Pneumococcal vaccination every ﬁve (5) years.
+ 
+2. Complications/adverse events logbook shall include, but is not limited to, the following: (Annex C —- DOH HDC logbook following the format posted at DOH website)
+
+a. Medical conditions that resulted in delay of discharge from HDC;
+
+b. Medical conditions that resulted in admission to the hospital of the
+patient following HD treatment;
+
+c. Medical conditions that resulted to death of the patient during or immediately after HD;
+
+d. Complications related to HD procedure;
+e. Complications related to vascular access;
+f. Complications related to disease;
+g. Outcome
+1. Death;
+2. Changed to another treatment modality;
+3. Kidney transplant;
+4. Lost to follow-up;
+5. Refused further treatment.
+
+3. REDCOP patient registry form
+Every HDC shall register their patients to PRDR in support to REDCOP of DOH and in coordination with PSN. Encoding shall be done in each HDC using the required forms from REDCOP. An annual statistical report shall be submitted to REDCOP relative thereto.
+
+4. Administrative records
+
+Every HDC shall maintain the following administrative records.
+
+a. Minutes of meeting;
+
+b. Attendance logbook;
+
+c. 201 staff ﬁles (include vaccination status of staff)
+Immunizations such as, but not limited to, the following, are highly recommended:
+1. Hepatitis B vaccination at 0, 1, 6 months. Routine post vaccination testing thirty (30) days after the last dose;
+
+2. Inﬂuenza vaccination annually;
+3. Pneumococcal vaccination every ﬁve (5) years;
+
+d. Reports of DOH inspection and monitoring activities.
+
+5. Technical records/logbook
+
+Every HDC shall maintain the following technical records.
+a. Records of plumbing disinfection and water analysis reports;
+b. Logbook/records on efﬁciency/machine hours of HD machines;
+c. Inventory card of each HD machine to determine the dates of
+manufacture, acquisition and installation;
+
+d. Schedule of calibration of HD machine/equipment;
+e. Logbook/records of preventive and corrective maintenance of HD machine/equipment.
+
+
+ 
+
+6. All HDC shall submit data/information as may be required by DOH through BHFS for purposes of research, standards setting, improving access to HD services, and the like.
+
+7. Retention and disposal of records and other relevant information whether paper-based or electronic media shall be in accordance with related and future issuances by DOH.
+
+g. ENVIRONMENTAL MANAGEMENT
+
+Every HDC shall ensure that the environment is safe for its patients and staff and that the following measures and/or safeguards shall be observed.
+
+1. There shall be well ventilated, lighted, clean, safe and functional areas based on the services provided.
+
+2. There shall be a program of proper maintenance and monitoring of physical facilities.
+
+3. Water supply for all purposes shall be adequate in volume and pressure. Likewise, potability and safety of water shall be ensured.
+
+The water for HD purposes shall be treated accordingly to maintain a continuous water supply that is biologically and chemically compatible with acceptable HD techniques. Periodic water analysis (for microbiological and chemical tests) at three (3) sampling points shall be done.
+
+a. Raw water analysis;
+
+b. Product water analysis;
+
+c. Point of use water analysis.
+
+The components of water analysis are listed below. (List-of laboratories capable of conducting microbiological and chemical analyses of water in HDC is posted at DOH website.)
+
+a. Microbiological analysis shall be done at least every month and as often as necessary depending on the results. The bacterial count shall be &lt 200 colonies per milliliter.
+
+b. Chemical analysis shall be done at least every six (6) months and as deemed necessary following AAMI Standards for Water for Hemodialysis. The chemicals to be analyzed are:
+
+ 
+<image>table_1.png</image>
+<image>table_2.png</image>
+ 
+
+c. Chemical analysis of water at two (2) sampling points, namely product water and point of use, may be allowed in HDC applying for renewal of LTO, provided there is no change in location. The frequency of analysis shall be every six (6) months and as often as needed.
+
+6. Each HDC shall keep a record of plumbing system disinfection.
+Disinfection following any of the methods stated below shall be done quarterly and whenever microbiologic counts reach or exceed the acceptable limits.
+
+a. Chemical disinfection;
+
+b. Heat disinfection;
+
+c. Ozone disinfection.
+
+7. There shall be procedures for the proper disposal of infectious wastes and toxic and hazardous substances and that the same shall be made in accordance with RA. 6969 and other related policy guidelines and/or issuances.
+
+a. Each HDC shall establish and implement a. system for proper solid waste management which shall be in accordance with the revised DOH Manual on Health Care Waste Management and Environmental Management Bureau —— Department of Environment and Natural Resources (EMB-DENR) environmental laws, particularly RA. 9003 (Ecological Solid Waste Management Act) and the Environmental Sanitation Code and other pertinent policy guidelines and/or issuances.
+
+b. Each HDC shall establish and implement a system for proper liquid waste management which shall be in accordance with the revised DOH. Manual on Health Care Waste Management and other EMB—DENR policy guidelines and/or issuances.
+
+8.There shall be a no smoking policy and that the same shall be strictly enforced.
+
+9. There shall be a contingency plan in case of accidents and emergencies.
+
+VI. PROCEDURAL GUIDELINES
+
+A. APPLICATION FOR DOH-PTC
+
+1. The following are the required documents to be accomplished and submitted to BHS before a DOH-PTC can be issued to an applicant of an HDC.
+
+a. Duly accomplished application form
+
+b. Proof of ownership
+1. Department of Trade and Industry;
+
+2. Securities and Exchange Commission (SEC) Registration with Articles of
+Incorporation and By—laws;
+
+3. Enabling Act or Board Resolution for government;
+
+4. Cooperative Development Authority Registration with Articles of Cooperation and By—laws.
+
+c. Three sets of architectural ﬂoor plans signed and sealed by an architect and/or engineer. The ﬂoor plan shall be in accordance with Section V. B. 2. B. Physical Facilities of this Order.
+
+d. Feasibility study rationalizing the need to establish an HDC at the proposed site.
+
+2. The applicant shall accomplish the application form and required documents and shall submit them to BHFS. Upon ﬁling of application, the applicant shall pay the corresponding fee to DOH cashier in person or through postal money order.
+
+3. The Bureau of Health Facilities and Services through the Health Facility Establishment Review Committee shall review and evaluate the submitted plans and documents of the proposed HDC with respect to basic requirements and with the prescribed prototype plan(s) and technical guidelines in the planning and design
+of an HDC.
+
+4.The Bureau of Health Facilities and Services shall approve or disapprove the issuance of a DOH-PTC. If disapproved, BHFS shall return the documents together with their ﬁndings and recommendations to the applicant. The applicant shall make
+the necessary revisions on the documents and shall submit the revised documents to BHFS for another review. The applicant shall be entitled to only one revision.
+
+5. The Bureau of Health Facilities and Services shall issue a DOH—PTC to the applicant upon approval of the same.
+
+B. APPLICATION FOR INITIAL LTO
+
+1. Applicants can acquire the prescribed application form for LTO at BHF S or CHD or at DOH website www.doh.gov.mph
+
+2. The duly accomplished form together with the necessary attachments such as, but not limited to, list of personnel, list of equipment and other relevant records shall be
+submitted to BHFS.
+
+3. All hospital based HDC shall follow OSS Licensure System for Hospitals under A.O. No. 2007 — 0021 re: “Harmonization and Streamlining of the Regulatory Processes”, A.O. No. 2010 — 0035 re: “Re-centralization of the Issuances of Permit
+to Construct (PTC) for All Levels of Hospitals, License to Operate (LTO) for All New Hospitals and Renewal of LTO for Levels 3 and 4 Hospitals”, its related issuances and this Order.
+
+4. All nonhospital based HDC shall follow OSS Licensure System for non-hospital based HDC in accordance with AD. No. 2008 -~ 0027 re: “One-Stop Shop System for the Regulation of...Non—Hospital Based Dialysis Clinics...’, its related
+issuances and this Order.
+
+C. APPLICATION FOR RENEWAL OF LTO
+
+1. The Center for Health Development shall retain the renewal of LTO for Level 1 and Level 2 hospital based HDC following 088 Licensure System for Hospitals.
+
+2. The Bureau of Health Facilities and Services shall retain the renewal of LTO of non-hospital based HDC and LTO for Level 3 and Level. 4 hospital based HDC following 088 Licensure System for Hospitals.
+
+3. Every HDC shall submit proof of participation in PRDR.
+
+4. The License to Operate of an HDC shall be cancelled automatically without notice upon failure to submit a duly accomplished application form and failure to pay the
+proper fee within thirty (30) calendar days after the expiration date stated on its license. The Hemodialysis Clinic shall cease its operation and apply for a new/initial LTO following Section VI. B. Application for Initial LTO of this Order.
+
+D. INSPECTION
+
+1. The Bureau of Health Facilities and Services or CHD, as the case may be, shall conduct licensure inspections utilizing the assessment tool, at any reasonable time.
+2. The applicant shall ensure that all key staff, pertinent records, premises and facilities are made available to BHFS/CHD Director and/or his authorized representative(s) during inspection visits.
+
+E. MONITORING
+
+1. Every HDC shall be monitored regularly.
+
+2. The Bureau of Health Facilities and Services or CHD Director and/or his authorized representative(s) shall conduct unannounced monitoring visits utilizing the assessment tool, at any reasonable time.
+
+3. Every HDC shall ensure that all key staff, records, premises and facilities are made available to BHFS or CHD Director and/or his authorized representative(s) to determine compliance to this Order.
+
+4. A Notice of Violation for non-compliant HDC shall be issued immediately after monitoring HDC.
+
+5. The respective CHD shall submit a semi-annual summary of Violations to BHFS stating the name of HDC, location, its corresponding Violation and the course of action taken.
+
+VII. SCHEDULE OF FEES
+
+A. A non—refundable fee shall be charged for application of LTO by HDC.
+
+B. All fees/checks shall. be paid to the order of DOH in person or through postal money
+order. 
+
+C. All fees, surcharges and discounts shall follow the current DOH prescribed schedule of
+fees in AD. No. 2007 -—- 0023 re: “Schedule of Fees for the One-Stop Shop Licensure
+System for Hospitals”, A.O. No. 2008 —— 0028 re: “Schedule of Fees for the One-Stop
+Shop System for the...Regulation of Non Hospital Based Dialysis Clinics...” and AD.
+
+ 
+
+C. No. 2007 — 0001 re: “Revised Schedule of. Fees for Certain Services Rendered by the
+Bureau of Health Facilities and Services and Centers for Health Development...”
+
+VIII. VALIDITY OF LTO
+
+The License to Operate shall be valid for three (3) years from the date of its issuance until December 31 of the third year for non-hospital based HDC and following OSS Licensure System for hospital based HDC.
+
+IX. VIOLATIONS
+
+Facilities found violating any provision of these rules and regulations and its related issuances, and/or commission/omission of acts by personnel operating HDC under this authority
+shall be penalized and/or its LTO suspended or revoked. The guidelines on Violations shall be in accordance with AD. No. 2007 w 0022 re: “Violations Under the One-Stop Shop Licensure
+System for Hospitals”, A.O. No. 2008 —— 0027 re: “One-Stop Shop System for the Regulation. . .of Non Hospital Based Dialysis Clinics. . .”, its related issuances and this Order.
+
+X. INVESTIGATION OF CHARGES AND COMPLAINTS
+
+A. The Bureau of Health Facilities and Services or CHD Director and/or his authorized representative(s) shall investigate the complaint and verify if HDC concerned or any of its personnel is accountable for an alleged violation
+
+B. The Bureau of Health Facilities and Services or CHD Director and/or his authorized representative(s), after investigation, may suspend, cancel or revoke LTO of licensees found violating the provisions of this Order and its related issuances, without prejudice to taking the case to judicial authority for criminal action.
+
+XI. PENALTY
+
+Penalty for Violations shall be in accordance with AD. No. 2007 — 0022 re: “Violations Under the One—Stop Shop Licensure System for Hospitals”, A.O. No. 2008 — 0027 re: “One-Stop Shop System for the Regulation...of Non Hospital Based Dialysis Clinics...”, its related issuances and this Order.
+
+XII. APPEAL
+
+A Hemodialysis Clinic or any of its personnel aggrieved by the decision of the Director of BHFS or CHD may, within ten (10) days after receipt of the notice of decision, ﬁle a notice of
+appeal to the Ofﬁce of the Secretary of Health. Thereupon, BHFS shall promptly certify and ﬁle a copy of the decision, including all documents and transcript of hearings on which the decision is based, with the Ofﬁce of the Health Secretary for review. The decision of the Ofﬁce of the Health Secretary shall be ﬁnal and executory.
+
+XIII. REPEALING CLAUSE
+
+This Order rescinds A.O. No. 163 s. 2004 and A0. No. 2006 — 0037. Provisions from previous issuances that are inconsistent or contrary to the provisions of this Order are hereby repealed and modiﬁed accordingly. 
+ 
+
+XIV. SEPARABILITY CLAUSE
+
+In the event that any provision or part of this Order is declared unauthorized or rendered invalid by any court of law or competent authority, those provisions not affected by such
+declaration shall remain valid and in force.
+
+XV. EFFECTIVITY
+
+This Order shall take effect ﬁfteen (15) days after its approval and publication in a newspaper of general circulation.
+</body>
+
+<sign>ENRIQUE T. ONA, M.D.</sign> 
+<signtitle>Secretary of Health</signtitle>	
+
+
+
+ 
+
+Republic of the Philippines
+Department of Health
+BUREAU OF HEALTH FACILITIES AND SERVICES
+
+ 
+
+Standards Development Division
+
+
+PLANNING AND DESIGN GUIDELINES
+FOR DIALYSIS CLINICS
+
+1.0 SPACE REQUIREMENTS 
+
+2.0 PLANNING AND. DESIGN 
+
+3.0 RECOMMENDED FINISHES AND OTHER
+FEATURES 
+
+4.0 REFERENCE. PAGE AND APPROVAL OF
+SIGNING AUTHORITY
+
+ 
+<image>figure_1.png</image>
+ 
+
+Standards Development Division
+
+<subject> Subject : PLANNING AND DESIGN GUIDELINES FOR DIALYSIS CLINICS</subject> 
+
+<body>
+1.0 Space Requirements :
+
+1.1 The Hemodialysis Clinic Facility basically consists of two major areas referred to as the Dialysis Service Complex and the Non-Treatment Areas or Reception Area/Section.
+
+1.2The Dialysis Service Complex essentially consists of the following room/areaa :
+
+-Hemodialysis Station (with a minimum floor area of 6.00 sq. m. and prescribed area dimension of 2.00 m. x 3.00 m., see attached Sketch plan of Typical Hemodialysis Station for
+reference)
+
+-Nurse Station with Work Area (provided with work counter/S, hand washing sink/S w/ hand gel/sanitizer and storage cabinets including a counter area for medicine preparation);
+
+-Water Treatment Room ( with floor area ranging from 12.00 to 15.00 sq. m. with a minimum of 1200 sq m. in order to accommodate all the necessary equipment, tanks, etc. and the needed space for maintenance purposes),
+
+-Supply and Storage Room (for sterile instruments/supplies, clean linen, etc);
+
+-Dialyzer Re—processing Area/Room (shall be provided if the Dialysis Clinic facility re—process and Shall be installed with the necessary faucets, Sink/S, work counters, cabinets and shelves, including exhaust fan/s, etc);
+
+Note : Water to be used for re-processing shall be coming from
+the processed or product water of the Reverse Osmosis Tank.
+
+-Service Support Areas
+ -Waste Holding Cubicle/Area (for temporary storage of
+segregated waste which includes infectious waste such
+as contaminated sharps and needles and non-infectious waste or general waste )
+-Soiled Linen Cubicle/Area _
+-Janitor’s Closet (slop sink and housekeeping cabinet);
+-Emergency Generator Room/Area
+
+1.3 The Non-Treatment Areas or Reception Area/Section. essentially consist of the following rooms/areas :
+
+-Business Ofﬁce (with reception information counter, admitting
+area, cashier’s area and records section including a doctors'
+consultation cubicle for the Medical Director);
+
+-Waiting area (provided with sufficient seats for visitors and
+patients who may be arriving on wheelchair or stretcher) ;
+
+-Toilet Facility (with urinal, water closet with grab rail and
+lavatory accessible to HD patients and their accompanying relative or companion; (Note: Toilet Facility shall be designed in consideration for Persons with Disability or PWD in accordance with The Law to Enhance Mobility of Disabled Persons — “Batas Pambansa Blg. 344”);
+
+-Staff Pantry or Break Room (with eating area and small counter with sink) and Staff Locker and Dressing Room w/ Toilet (with urinal, water closet and lavatory for Staff Use Only)
+
+2.0 Planning and Design:
+
+2.1The Waiting Area and Business Ofﬁce shall be planned in such manner that these areas shall be made readily visible and immediately accessible to patients and visitors upon entry to the Dialysis Clinic facility. The Waiting area shall also be planned to anticipate patients arriving on wheelchair or stretcher and must provide comfortable seats for their accompanying relative or companion. For hospital-based Dialysis Clinics, a satellite Business Office and Waiting Area or ‘Business Counter’ may be provided for the facility. Moreover, the Cashier Counter Section may also be optional as it is already provided by the main hospital.
+
+Preferably, the Business Ofﬁce shall be provided with transaction counters designed in such manner that the counter heights shall not only accommodate normal transactions (inquiries and payments by patient’s companions and relatives) but also to allow visual access and
+
+ 
+ANNEX A-3
+
+communication between patients on wheelchair and Staff from the
+Business Office.
+
+2.2The Toilet Facility for patients and visitors may be located near the Waiting Area for easy access especially for patient on wheelchair.
+
+2.3The Staff Pantry or Break Room may be situated near the Dialysis Service Complex but not inside the HD Treatment Room in order to maintain privacy of patients undergoing treatment. On the other hand, the Staff Locker and Dressing Room shall be preferably located in such manner as to prepare first the HD Treatment Staff particularly for changing from street clothes into appropriate attire before entering the HD Treatment Room, improving Infection Control measures.
+
+2.4ln order to ensure further privacy for HD patients undergoing treatment and to maintain cleanliness for the HD Treatment Room, a “control door’ (with a width/opening that can easily accommodate a wheelchair or stretcher) shall be provided between the Reception Area/Section and
+the Dialysis Service Complex).
+Note : Entry to Dialysis Service Complex shall be restricted and made accessible only to concerned HD Staff and Patient/s who will undergo dialysis treatment.
+
+2.5lnside the HD Treatment Room, the Nurse Station with Work Area shall be strategically planned and located in such manner that the nurses on duty shall have visual supervision/surveillance of HD patients undergoing treatment. Also, the counter height of the nurses’ work area shall be designed in such manner as to allow visual access of patients on wheelchair.
+
+2.6The Hemodialysis Station/s (especially the private HD Treatment Station or cubicle) and adjacent circulation areas shall be planned in such manner as to provide easy access to HD patients on wheelchair and stretcher. Each HD station shall be provided with the following namely :
+
+-required floor area of six (6) sq. m.;
+-prescribed area room dimension of 2.00 m. x 3.00 m.;
+-an electrical duplex—grounded convenience outlet ;
+-service waterline of treated water coming from the Water Treatment Room;
+-for private HD Treatment Station/s (cubicle or room—type),
+provide separate hand washing sink or lavatory for exclusive usage.
+
+In addition, if the design of the Dialysis Clinic facility permits, preferably provide an exterior window (for view out and natural lighting purposes only) per HD Treatment Station, as windows are important for the psychological well-being of the HD patient.
+
+2.7The Supply and Storage Room (for sterile instruments/supplies, clean linen, etc) and Dialyzer Re-processing Room, if provided in the Dialysis ' Clinic facility, shall be located near the HD Treatment Section for easy access and retrieval of supplies, dialyzers, etc.
+
+2.8The Water Treatment Room (provided with the required various
+equipment and tanks, etc.) shall be located in the Dialysis Clinic facility in such manner that it will be accessible from the HD Treatment Section but not cause any noise disturbance to patients undergoing treatment. In addition, the Water Treatment Room shall be made presentable with floors finished preferably with ceramic tiles or approved equivalent and walls also tiled or painted. Further, it shall be well-ventilated and
+provided with exhaust fan/s. 
+
+2.9 Likewise, the Waste Holding Cubicle/Area, Soiled Linen Cubicle/Area and Janitor’s Closet shall be planned in such manner that they are accessible from the HD Treatment Section but at the same time ‘zoned’ for visual concealment purposes.
+
+2.10 The required emergency generator set room shall also be located preferably ‘zoned’ from the rest of the dialysis clinic especially from the HD Treatment Section in order to avoid noise disturbance to HD patients as well as to ensure restricted access. Moreover, the emergency generator set room, when warranted, shall have acoustical insulation or sound absorbing material along walls to diffuse, lessen, if not totally eliminate the noise disturbance of the genset when in operation. In addition, room for the emergency generator set shall have space for maintenance access and shall be provided with appropriate ventilation for cooling and elimination of fumes. In addition, mechanisms for intake air shall be arranged to resist entry of rain and Other elements.
+
+3.0 Recommended Finishes and Other Features :
+-Walls and Partitions :
+
+1. All walls and partitions of the Dialysis Clinic to be used (whether concrete, light steel wall framing or approved equivalent) shall be structurally sound, safe and made of sturdy and permanent materials.
+
+ANNEX A-5
+
+2. The outlying or external walls surrounding the HD Treatment Area shall be constructed from floor to ceiling height in order to attain both sound and visual privacy for the HD patients undergoing treatment.
+
+3. Cubicle curtains (if used for private HD Stations) and draperies (if used for the windows at the HD Treatment Area) shall be non-combustible or flame—retardant.
+
+-Ceiling:
+
+4. The ceiling of the Dialysis Clinic shall also be structurally sound, safe and made of sturdy and permanent materials (such as light steel ceiling framing with gypsum boards or hardiflex panels, wooden ceiling joist frame with wooden ceiling hangers and standard plywood panels or their approved equivalent construction). However, the preferred ceiling construction is made of acoustic ceiling boards on aluminum T—runners for aesthetic and acoustic purposes.
+
+-Doors:
+
+5. Entrance Doors to the HD Treatment Room shall have a minimum clear width or opening of at least 1.12 m. or 3 feet 8 inches in order to easily accommodate patient on wheelchair or stretcher. However, a two-leaf door with narrow lite or glass vision panels and with a total clear width of 1.80 m. or 6 ft. is much preferred. 
+
+-Finishes :
+
+6. Floor materials that will be used for the Dialysis Clinic shall be readily cleanable and appropriately wear-resistant such as durable vinyl tiles, ceramic tiles, synthetic granite tiles or their approved equivalent/s.
+
+7. Cabinets, shelves and work counters that will be provided for the Dialysis. Clinic shall be appropriately finished with either wood varnish, furniture' paint or provided with smooth laminated finish or their approved equivalent. Countertops shall be provided with smooth laminated finish, ceramic tiles or approved equivalent for aesthetic and maintainability purposes.
+
+8. The walls of the Dialysis Clinic as a whole shall be appropriately finished with paint or its approved equivalent and shall always be well-maintained. In addition, the interior walls of the HD Treatment Room shall be preferably painted with ant—bacterial paint for sterility purposes.
+
+9. The ceiling of the Dialysis Clinic if made of plywood, hard flex panel or approved equivalent shall be appropriately finished with but not limited to
+
+ANNEX A—6
+
+regular paint finish. The preferred acoustic ceiling board if used for the Clinic has an integral finished appearance and texture and therefore does not need further painting.
+
+Room Ventilation .'
+
+10.For proper ventilation, in general, floor to ceiling height of the Dialysis Clinic shall be at least but not limited to 2.40 mts. (or 8’-0”) high (note: A higher ceiling is preferred for the HD Treatment Area to anticipate ceiling—
+mounted TV monitors and for ceiling designs with indirect lighting provisions). Also for the HD Treatment Room, appropriate number and type of air-conditioning unit/s shall be provided in order to achieve good ventilation as well as a comfortable environment for HD patients undergoing treatment. The recommended temperature for the HD Treatment Room is 75 degrees Fahrenheit or approximately 24 degrees Centigrade while the minimum total air changes per hour is 6.
+
+11.Other room/s of the Dialysis Clinic not provided with artificial or mechanical ventilation system shall be provided with a window or windows with a total free area opening equal to at least ten percent (10%) of the floor area of the room and such window/s shall open directly to a court, yard, public street or alley, or open water courses. In order to enhance ventilation in these rooms/areas, provide electric fans or similar ventilating appliances. .
+
+-Lighting :
+
+12.The entire Dialysis Clinic facility shall be well—lighted by environment-friendly, acceptable and approved lighting fixtures with no exposed or dangling electrical wires. Observe recommended illumination values for various spaces of the Dialysis Clinic as specified below :
+
+Illumination Values for Nursing Facilities
+
+<image>table_3.png</image>
+<image>table_4.png</image>
+ 
+4.0 References :
+
+-Latest Draft of Administrative Order Re : Revised Minimum Standards and Requirements Governing the Regulation of Dialysis Facilities in the Philippines (as prepared by the DOH-BHFS).
+
+-The National Building Code of the Philippines with Its Revised
+Implementing Rules and Regulations (approved by the Department of Public Works and Highways).
+
+-Guidelines For Construction and Equipment of HOSPITAL AND MEDICAL FACILITIES,1992-93 (as prepared and published by The American Institute of Architects Press with assistance from the US. Department of Health and Human Services).
+
+-Actual facility survey conducted on selected Dialysis Clinics.
+</body>
+ 
+
+Approved by:
+
+<sign>ATTY. NICOLAS B LUTERO, III, CESO III</sign> 
+
+<signtitle>Director IV
+Bureau of Health Facilities and Services
+Department of Health</signtitle>
+
+<image>figure_1.png</image>
+<image>figure_2.png</image>
+<image>figure_3.png</image>
+<image>figure_4.png</image>
+<image>figure_5.png</image>
+<image>figure_6.png</image>
+<image>figure_7.png</image>
+<image>figure_8.png</image>
+<image>figure_9.png</image>
+<image>figure_10.png</image>
+<image>figure_11.png</image>
+<image>figure_12.png</image>
+
+
+PHILIPPINE SOCIETY or NEPHROLOGY
+GUIDELINES FOR THE TRAINING OF NON—NEPHROLOGIST FOR THE POSITION OF MEDICAL DIRECTOR OF A HEMODIALYSIS CLINIC (HDC)
+
+<body>
+I. Course Description: This is an extensive three (3) months training program or an equivalent of 40 hours a week for 12 weeks, intended for a non-nephrologist to be able to assume the administrative responsibilities of a medical director of  hemodialysis clinic in areas without ’readily available’ nephrologists. The guide to the creation of the training program is the list of responsibilities of a medical director included in the A0 2012— 0001 on the New Rules and Regulations Governing the Licensure and Regulation of Dialysis Facilities in the Philippines. These responsibilities as stated include:
+
+1. Oversees the Over-all technical and medical operations of HDC;
+
+2.Sees to it that all medical procedures are done in accordance with the acceptablenorms and standards. of medical practice;
+
+3. Develops and adopts internal medical protocol, policies and procedures on dialysis and related treatment in accordance with the standards formulated by DOH in coordination with PSN and oversees the implementation thereof;
+
+4. Sets requirements on education and performance criteria for medical staff including hiring of the same;
+
+5. Requires training program for HDC staff for certiﬁcation, continuous improvement of skills and knowledge;
+
+6. Oversees the conduct and completion of tasks within HDC;
+
+7. Initiates, supports and implements Quality Assessment and Performance Improvement (QAPI) activities;
+
+8. Ensure's strict compliance to infection control and surveillance practices;
+
+9. Assures water safety based on standards of AAMI including, but not limited to, the following.
+
+a. Ensures programs and policies to ascertain safe mixing of water and dialysate;
+
+b. Ensures monitoring of safe water regulations and speciﬁcations;
+
+c. Ensures that the manufacturer or supplier of a complete water treatment ' and distribution system demonstrates that the complete water treatment, storage and distribution system is capable Of meeting applicable requirements at the time of installation.
+
+I. Entry Requirements:
+
+-The entry qualiﬁcations of the trainees will follow those mentioned in the AO
+
+thus:
+
+1. Board certified or board eligible in Internal Medicine or Pediatrics With work experience in any DOH licensed HDC for at least three months. The head of the DOH licensed HDC should issue a certiﬁcate on the work experience of the trainee.
+
+2. General practitioner with work experienced in any DOH licensed HDC for at least six months. The head of the DOH licensed HDC should issue a certiﬁcate on the work experience of the trainee.
+
+
+- Qualiﬁed Training Institutions
+
+The course can be offered by any of the DOH accredited HDC with a certiﬁcate of accreditation to train non-nephrologists as medical directors of HDC issued by PSN. The requirements of the HDC to be certified as training center include the following: 
+
+-Letter of interest and intention of the HDC to put up the training programramming. 
+
+-Medical Director and at least two other nephrologists are fellows and/or diplomates of PSN.
+
+-A monthly hemodialysis census of at least 500 treatments per month.
+
+-A Manual of Training.
+
+-Training fee (with justiﬁcation) to be set by the HDC and approved by PSN.
+
+III. Course Objectives: At the end of the three (3) months training, the trainee should possess the competencies to assume the position of non—nephrologist medical VISION STATEMENT director of a ”hernodialysis - clinic who will be responsible only for the administrative function of a medical director.
+
+
+IV. The Manual of Training "to be” read by the interested training institutions:
+
+1. Description of the-accredited HDC.
+2. Department / Section of ”Nephrology Staff and qualiﬁcations.
+3. Instructional design containing the intermediate competencies/objectives, content, teaching and learning activrties, responsible person, resources, and of knowledge and information. The PSN, Inc. manner of evaluation.
+4.The manner of evaluation should include written and oral examinations and submission of projects like protocols, policies, procedures, etc. as enumerated in the responsibilities contained in the AO.
+ 5.Schedule of activities.
+ 6. Responsrbilities of the trainee limitations.
+
+V Certification
+- A letter certifying that the trainee has successfully fulﬁlled the requirements of training for non—nephrologists for the posmon of medical director of a hemodialysis facility including pertinent documents shall be forwarded to PSN. The Cluster on Quality Assurance of PSN Will rewew the submitted documents. An interview of the trainee maybe called by the Cluster. everything satisfactory, PSN will issue the certiﬁcate of training.
+</body>
+
+<sign>Nenita A. Collantes MD</sign>
+<signtitle>President, Philippine Society of Nephrology</signtitle>
+
+<date>07/09/2012</date> 
+
+<image>table_5.png</image>
+<image>table_6.png</image>
+<image>table_7.png</image>
+<image>table_8.png</image>
+<image>table_9.png</image>
+<image>table_10.png</image>
+<image>table_11.png</image>
+<image>table_12.png</image>
+<image>table_13.png</image>
+<image>table_14.png</image>
+<image>table_15.png</image>
+<image>table_16.png</image>
+<image>table_17.png</image>
+<image>table_18.png</image>
+
+

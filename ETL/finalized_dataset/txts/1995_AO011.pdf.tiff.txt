@@ -1,0 +1,765 @@
+Republic of the Philippines
+Department of Health
+OFFICE FOR HEALTH FACILITIES,
+STANDARDS AND REGULATION
+San Lazaro Cmpd., Sta. Cruz, Manila
+Tel. No. 711-95-72, Fax No. 711-95-09  
+
+
+<date>06/19/1995</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 11, s. 1995</docnum>
+
+<subject>SUBJECT: Rules and Regulations Implementing Republic Act 7170 otherwise known as “THE ORGAN DONATION ACT OF 1991” as amended by Republic Act 7885 otherwise known as “AN ACT TO ADVANCE: CORNEAL TRANSPLANTATION IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT SEVEN THOUSAND ONE HUNDRED AND SEVENTY”</subject>
+
+
+<body>
+
+Pursuant to Republic Act 7170 otherwise known as “The Organ Donation Act of 1991 and to Section 3 of Republic Act 7885, otherwise known as an "An Act to Advance Corneal Transplantation in the Philippines, Amending for the Purpose Republic Act Seven Thousand One Hundred and Seventy (RA. 7170) otherwise Known as the Organ Donation Act of 1991”, passed by the Senate and the House of Representatives on 15 February, 1995 and 13 February, 1995 respectively, the following Rules and Regulations are hereby adopted.
+
+
+CHAPTER I
+
+TITLE, PURPOSE AND APPLICATION
+
+Section 1 : TITLE
+
+These rules shall be known as the “Rules and Regulations implementing Republic Act No. 7170 otherwise known as THE ORGAN DONATION ACT OF 1991 as amended by Republic Act 7885 otherwise known as AN ACT TO ADVANCE CORNEAL TRANSPLANTATION IN THE PHILIPPINES, AMENDING FOR THE PURPOSE REPUBLIC ACT SEVEN THOUSAND ONE HUNDRED AND SEVENTY (R.A. 7170)
+
+
+
+Adm. Order
+Page 2
++——————————+
+
+Section 2: Purpose
+
+The advent of effective artificial cardiopulmonary support for severely brain injured persons has created some confusion about the determination of death. Previously, loss of heart and lung function was an easily observable event with sufficient basis for the diagnosis of death. This was true whether the initial failure occurred in the brain, heart, lung or elsewhere in the body. Irreversible failure of either the heart and lungs or the brain precluded the continuing function of he other. Today, circulation and respiration can be maintained by means of mechanical respirator and drugs, despite the loss of all brain functions. In these circumstances, it is presently accepted that the death of an individual occurs when loss of brain function is complete and irreversible.
+
+The criteria that physicians use in determining that death has occurred should:
+
+(1) Eliminate errors in classifying a living individual as dead;
+(2) Allow as few errors as possible in classifying a dead body as alive;
+(3) Allow a determination to be made without reasonable delay;
+(4) Be adaptable to a variety of clinical situations; and '
+(5) Be explicit and accessible to verification.
+
+Corneal disease remains one of the most devastating causes of blindness in the Philippines and the developing world. Up to the present time, attempts at curbing this problem have been frustrating, owing greatly to the scarcity of transplantable corneal tissue and the absence of an eye banking system in the country. The advent of advanced technology in corneal tissue retrieval, evaluation and preservation has made possible the realization of functional and efficient systems of eye banking. Republic Act 7885 addresses the issue of pertaining to the donation, processing and distribution of CORNEAL TISSUE, particularly the issue of retrieval of corneal tissue for transplant from medico—legal cases already under
+the custody of the NBI, Police, or any similar government agency or victims of violent deaths. This is due to the fact that no act prior to R.A. 7885 has categorically identified these cases as suitable cornea donors. Republic Act 7885 was passed in order to amend Republic Act 7170 for the purpose of promoting corneal transplantation in the country specifically through maximizing the retrieval and processing of transplantable corneal tissue. These Rules and Regulations are adopted prescribing the principles, guidelines, procedures and standards for the implementation of R.A. 7170 as amended by R.A. 7885 to facilitate compliance therewith and to achieve the objectives thereof.
+
+
+
+Adm. Order
+Page 3
++——————————+ 
+
+Section 3: Scope
+
+These Rules shall apply to all hospitals, entities, establishments or institutions, government—owned and operated or private, engaged in the donation, retrieval, processing, and distribution of human organs and eye tissue in its many forms (e.g. kidneys, heart, liver, bone, whole eye balls corneal tissue, scleral tissue, etc.), whether full time or part time. 
+
+
+Section 4: Definition of Terms 
+
+As used in these Rules and Regulations, the terms below shall be defined as follows: 
+
+1. Act - Republic Act 7170 otherwise known as “The Organ Donation Act of 1991“ as amended by Republic Act 7885 otherwise known as “An Act To Advance Corneal Transplantation in the Philippines, Amending for the Purpose Republic Act 7170”, unless herein specified;
+
+2. Department — the Department of Health
+
+3. Secretary of Health - the Secretary of Health or any other person to whom the secretary delegates the responsibility of carrying out the provisions of this Act; 
+
+4. Cornea/Corneal Tissue -- for purposes of tissue retrieval and eye banking, refers to the entire transparent structure forming the anterior part of the fibrous tunic of the eye plus 2 to 3 millimeters of scleral tissue. As such, the tissue would be roughly 15 millimeters in diameter and 0.4 to 0.5 millimeters in thickness;
+
+5. Whole Eyes - refers to the entire eye ball minus the conjunctiva after it has been enucleated from the orbit;
+
+6. Enucleation — the removal of the eye ball from the orbit after the optic nerve and eye muscles have been severed.
+
+7. Corneal Excision - the surgical removal of corneal tissue (as defined in #4) from cadaver eyes for the purpose of eye banking and transplant
+
+ 
+
+Adm. Order
+Page 4
++——————————+ 
+
+8. Eye Bank- a laboratory or institution with the capability to perform all or some of the activities related to preparing eye tissue for transplant such as, but not limited to, motivation and recruitment of donors, eye and eye tissue retrieval, screening of donor blood, processing, evaluation and grading of eye/corneal tissue, and distribution of said tissue for transplant, research and/or teaching. Such eye banks are classified into four general categories: 
+
+a. Public, active eye banks = those that are capable of donor blood screening, information drives, and retrieving, processing, and distributing, storing eye/corneal tissue to all qualified eye surgeons. These eye banks serve the whole community of qualified Ophthalmic surgeons and not one single hospital or institution alone. These eye banks may be government or private owned.
+
+b. Private, active eye banks = those that can perform all the functions stated in “a” but which exist to serve only one hospital or institution.
+
+These eye banks may be government or private owned.
+
+c. Public, passive eye banks = these only receive and, store eye/corneal tissue for future distribution to qualified surgeons but cannot properly retrieve and process eye/corneal tissue.
+
+These eye banks may be government or private owned.
+
+d. Private, passive eye banks = these facilities receive and store eye/corneal tissue for use in their hospital and/or institute only. These eye banks do not retrieve, process, or distribute eye/corneal tissue. These eye banks may be government or private owned.
+
+9. Medico-legal officers: Physicians or their duly designated deputies, from the National Bureau of investigation (NBI), the Philippine National Police Crime Laboratory (PNP), the Military Forces (Army, Marines, Navy, Air Force) or any similar government institution or department who have custody of “medico—legal cases” and “violent deaths”, such cases being defined as:
+- death from accidents or trauma
+- death from homicide/murder or apparent suicide
+— death from undetermined cause
+- violent deaths such as military casualties
+
+ 
+
+Adm. Order
+Page 5
++——————————+ 
+
+10. Death: the irreversible cessation of circulatory and respiratory functions or the irreversible cessation of all functions of the entire brain, including the brain stem. A person shall be medically and legally dead if either:
+
+A. In the opinion of the attending physician, based on the acceptable standards of medical practice, there is an absence of natural respiratory and cardiac functions and, attempts at resuscitation would not be successful in restoring those functions. In this case death shall be deemed to have occurred at the time these functions ceased; or
+
+B. In the opinion of the consulting physician, concurred in by the attending physician, and on the basis of acceptable standards of medical practice, there is an irreversible cessation of all brain functions; and considering the absence of such functions, further attempts at resuscitation or continued supportive maintenance would not be successful in restoring such natural functions. In this case, death shall be deemed to have occurred at the time when these conditions first appeared.
+
+The death of the person shall be determined in accordance with the acceptable standards of medical practice and shall be diagnosed separately by the attending physician and another Consulting physician, both of whom must be appropriately qualified and suitably experienced in the care of such patients. The death shall be recorded in the patient’s medical record. 
+
+Two general categories or death are recognized:
+
+10-A. Cardiorespiratory Death : The physical state wherein all of the following conditions are present: 
+
+(1) No respiration
+(2) No heart beat and pulse
+(3) No blood pressure 
+(4) Comatose and non—responsive to all stimuli
+
+1O—B. Brain death: The physical state wherein all the following criteria are met:
+
+ 
+
+Adm. Order
+Page 6
++——————————+ 
+ 
+(1) Irreversible coma is present.
+
+A) The cause of the coma is established and is sufficient to account for the loss of brain function.
+B) Possibility of recovery of any brain function is excluded.
+C) Cessation of whole brain function persists for at least twenty—four (24) hours of observation and therapy.
+
+(2) Permanent cessation of whole brain function.
+
+A) Coma unresponsive to all stimuli.
+B) Absence of all brainstem function as evidenced by:
+- fixed pupils
+- no corneal response
+— no oculovestibular response to ice water calorics
+- no gag reflex
+- no spontaneous respiration after apneic oxygenation
+
+(3) Exclusion to the above criteria
+
+A) Drug and metabolic intoxication
+B) Hypothermia
+0) Shock
+
+(4) In children below five (5) years of age and anencephalic infants special caution should be exercised before the diagnosis of brain death is considered.
+
+(5) Declaration of brain death shall be made by the attending physician and another physician, preferably a neurologist or a neurosurgeon or an internist.
+
+ 
+
+Adm. Order
+Page 7
++——————————+ 
+
+Chapter II
+MANNER OF EXECUTING A DONATION
+(SECTION 9 OF R.A. 7170 AS AMENDED BY R.A. 7885)
+
+
+Section 5: Donation by decedent donor.
+
+A. The legacy of a tissue or organ/s to be donated maybe done by:
+
+1. Will 
+2. Donor Card*
+3. Legal document
+
+B. Requirements for a valid donor card
+
+1. signature of the donor 
+2. signature of two witnesses
+
+This legacy of donation shall be binding to all the heirs of the decedent donor
+
+*If the donor is not of legal age at the time the donor card is signed, this should be countersigned by the his/her parent or guardian who should be of legal age and of sound mind so that the donor card can be valid at the time of the donors death.
+
+
+Section 6: Person(s) who may execute donation of organ(s) or tissue(s):
+
+a.) In the absence of a donor card or similar testament signed by the decedent, any of the following persons, in the order of priority stated hereunder may donate all or any part of the decedent‘s body for any purpose specified in Section 6 of R.A. 7170, provided further that there is no actual notice of contrary intentions by the decedent or actual notice of opposition by a member of the immediate family of the decedent:
+
+1. Spouse
+2. Son or daughter of legal age
+3. either parent
+4. brother or sister of legal age or
+5. guardian over the person of the decedent at the time of his death.
+
+
+
+Adm. Order
+Page 8
++——————————+ 
+
+The persons authorized above may make the donation before or immediately after death. 
+
+Where there is an objection by any of the above, the decision of the person in the higher priority will be followed.
+
+The legacy may be accepted by the attending physician or medical practitioner attending to the decedent donor at the time of death.
+
+b.) Brain Dead Donors:
+
+In the case of brain death, and in the absence of a family member who can authorize the donation, and in the absence of a document or card for organ donation, the following may authorize the removal of transplantable organs:
+
+1. Physician—in-charge of the patient
+2. Chief or Director of the Hospital
+3. Designated Officer of the hospital with custody of the body;
+
+provided that reasonable efforts to locate the nearest of kin have been made. 
+
+Requirements for reasonable efforts to locate the nearest of kin are the following:
+
+l. local media announcements (newspaper, radio or television) with detailed description of the patient, circumstances of accident or injury, and call for possible relatives; or
+
+2. Notification of local police regarding the case and to search for next of kin; and
+
+3. Waiting period of at least forty-eight (48) hours, starting from the time of declaration of death of the patient.
+
+In the case of the retrieval or harvesting of organs and/or tissues from brain dead donors, it is a strict rule that the eyeballs and/or-corneal tissue should only be retrieved after the vital organs for transplant have already been harvested (e.g. kidneys, heart) and the patient has already been declared in a state at CARDIORESPIRATORY DEATH. 
+
+
+
+Adm. Order
+Page 9
++——————————+ 
+
+c.) Corneal Tissue Retrieval in Cardiorespiratory Death
+
+In cases of cardiorespiratory death and in the absence of a family member who can authorize the donation, and in the absence of a document or card for organ donation; the attending physician, head or designated head of hospital, chief pathologist or his designated deputies, the medico—legal officer or designated deputies of a government agency (such as the NBI or Police) which has custody of such body, may authorize the removal of the CORNEA OR CORNEAS of the decedent within twelve (12) hours after death upon the request of a qualiﬁed and duly licensed Public Active Eye Bank Facility (as defined in Chapter I Section 4. The removal of the corneas from such decedent donors may be done provided that:
+
+1) such removal will not interfere with any subsequent investigation;
+
+2) such removal will not alter the post-mortem appearance of the decedent.
+
+In cases where the decedent is directly brought to the morgue, the medico-legal officer may declare death and give authorization for the removal of corneal tissue.
+
+In such cases neither the physicians, medico—legal officers, their deputies, nor the eye bank which retrieves the corneas can be held liable for suit should relatives of the decedent donor later appear and claim that their permission was necessary.
+
+
+d.) Corneal tissue retrieval in autopsy:
+
+A consent for autopsy shall imply a consent for corneal tissue retrieval should the decedent be a suitable corneal donor unless explicit objection is expressed by the next of kin. This objection shall be in the form of a stipulation to be added to standard autopsy consent form stating that corneal tissue may not be retrieved. Autopsy consent forms shall be revised accordingly. 
+
+As is true in section 6 letter c, corneal tissue retrieval in such cases may be performed as long as such removal will not interfere with the subsequent investigation or alter the decedents post-mortem appearance. Such removal may only be performed by Ophthalmic surgeons or Eye Bank technicians trained in the methodology of such procedure and belonging to a certified by an accredited public active eye bank facility.
+
+
+
+Adm. Order
+Page 10
++——————————+
+
+In such cases neither the physicians, medico-legal officers, their deputies, nor the eye bank which retrieves the corneas, can be liable for suit should relatives of the decedent donor later claim that their permission was necessary. 
+
+e.) Certification of Death
+
+In all donations, the death of a person from whose body an organ or tissue will be removed after his death for the purpose of transplantation to a living person, shall be diagnosed separately and certified by two (2) qualified physicians neither of whom shall be:
+
+1. a member of the team of medical practitioners who will effect the removal of the organ from the body; nor 
+
+2. the physician attending to recipient of the organ to be removed; nor
+
+3. the head of hospital or the designated officer authorizing the removal of the organ. 
+
+In cases wherein decedents are brought directly to the morgue however, the medico-legal officer alone may declare death and may authorize removal of corneal tissue within twelve (12) hours from the estimated time of death.
+
+
+
+Chapter III
+PERSON(S) AUTHORIZED TO REMOVE AND TRANSPLANT ORGANS AND TISSUES
+(SECTION 10 OF R.A. 7170 AS AMENDED BY R.A. 7885)
+
+
+Section 7 : Persons Authorized to Remove Eye Balls and/or Corneal Tissue
+
+A. The removal of eye balls through enucleation from a decedent donor for the purpose of transplantation, if done in a hospital setting, may be performed by any licensed medical practitioner trained in its methodology, or any eye bank technician trained, certified, and belonging to a duly licensed eye bank/storage facility.
+
+
+
+Adm. Order
+Page 11
++——————————+
+
+B. The removal and preservation of corneal tissue from decedent donors however, shall be performed only by OPHTHALMIC SURGEONS AND/OR EYE BANK TECHNICIANS TRAINED IN THE METHODOLOGY OF SUCH PROCEDURE AND DULY CERTIFIED BY THE ACCREDITED NATIONAL ASSOCIATION OF OPHTHALMOLOGISTS OR IT'S APPOINTED BODY.
+
+C. Authorisation to retrieve corneal tissue from decedent donors labeled “medico-legal or victims of violent death” in the custody of the NBI, WPD, PNP, Military and other similar government agencies shall be given only to OPHTHALMIC SURGEONS AND/OR EYE BANK TECHNICIANS TRAINED IN THE METHODOLOGY OF CORNEAL TISSUE RETRIEVAL AND STORAGE, DULY CERTIFIED BY THE ACCREDITED NATIONAL ASSOCIATION OF OPHTHALMOLOGISTS OR IT'S APPOINTED BODY, AND BELONGING TO DULY LICENSED PUBLIC, ACTIVE EYE BANK FACILITIES.
+
+This restriction is necessary in order to ensure the proper retrieval, storage, screening and evaluation of corneal tissue, as well as to maximize the distribution of such tissue for transplantation to as many eye surgeons as possible without favoring any one private or government hospital, institution, or surgeon.
+
+
+Section 8: Persons Authorized to Transplant Organs and Tissues 
+
+Only qualified and duly licensed medical practitioners trained in such field shall be allowed to transplant any organ or tissue which is authorized to be removed and/or transplanted pursuant to Section 5 of Republic Act 7170.
+
+
+
+Chapter IV
+PROMOTlON OF EYE AND/OR CORNEA DONATION
+
+Section 9: Information Drive
+
+1. The DOH may undertake or task any other civic, government, non-governmental organization such as the National Kidney Institute, Heart Foundation and the Eye Bank Foundation of the Philippines, to sustain a dignified and medically approved general public information campaign regarding organ, tissue and eye and/or cornea donation as part of its
+
+
+
+Adm. Order
+Page 12
++——————————+
+
+general campaign to promote organ, tissue and eye/or corneal donation in the country. This campaign may utilize print media, radio and television, and shall receive the endorsement of the DOH as long as it contains material which will promote organ, eye, corneal donation consistent with the intention of R.A. 7170 and 7885 as contained in these implementing rules and regulations.
+
+The DOH and NKI will allocate funds specifically for this purpose in its annual operating budget.
+
+2. The DOH shall issue a department order requiring health care workers to routinely inquire if patients under their care are card carrying organ/tissue donors.
+
+3. If no such legacy of donation exists, then health care workers should routinely request the family of a decedent to consider the possibility of organ/tissue donation.
+
+4. The DOH shall issue directives to hospital staff, particularly emergency room personnel and pathologists of hospitals, regarding these Implementing Rules and Regulations of R.A. 7170 and R.A. 7885 so that they may help qualified eye banks retrieve corneas from unaccompanied decedents under their custody within the first 12 hours of death.
+
+5. Other civic, non—governmental organizations may also organize and carry out educational and information campaigns directed at health care workers, in cooperation with the DOH, in order to orient them about the implementing rules and regulations of R.A. 7170 and R.A. 7885. This may be in the form of lectures and work-shops.
+
+
+
+Adm. Order
+Page 13
++——————————+
+
+
+
+Chapter V 
+NON-PROFIT OPERATION
+
+
+Section 10: Operation and Maintenance of Tissue and Eye Bank Facilities
+
+The operation and maintenance of all tissue and eye bank service facilities shall be non-profit, provided that, service fees may be collected, but not greater than the amount to be prescribed by the Secretary of Health, which shall be limited to the necessary expenses entailed in the collection, processing, and operations of the eye bank (including professional fees). Eyes and corneal tissue shall be collected only from donors who do not fall under the currently accepted list of contraindications which shall be specified by a Manual an Eye Banking to be prepared by the DOH in consultation with representatives from the accredited National Association of Ophthalmologists.
+
+
+
+Chapter VI
+REGULATION OF TISSUE AND EYE BANK SERVICES 
+
+
+Section 11: Regulatory Authority
+
+The Department of Health recognizes the need for an efficient system of tissue and eye banking in the country. It likewise recognizes however, that efficiency does not imply encouraging a proliferation of a great many number of so called “eye banks” or “tissue banks” which cannot properly perform their required tasks for the safety and interest of both the surgeons and patients who are in need of their services. On the contrary, worldwide experience has shown that establishing only a few, centralized, strategically located, and properly run eye/tissue bank facilities is the best strategy for eye/tissue banking. Therefore, strict guidelines for licensing, regulation and standardization of eye tissue banks must be enforced.
+
+The licensing and regulatory functions of the Department of Health regulating eye/tissue bank services shall be exercised through the Bureau of Research and Laboratories or any regulating body which the Secretary of Health may wish to form specifically for eye/tissue banking and as such, it is hereby authorized to issue orders and circulars providing for implementation details and specific technical requirements related to licensing and regulation. 
+
+
+
+Adm. Order
+Page 14
++——————————+
+
+
+Section 12: Categories of Eye/Tissue Bank Service Capabilities
+
+Eye/Tissue Banks may be hospital-based or non—hospital based, government run or privately operated. Eye/Tissue Bank service capabilities shall be classified into four (4) categories as follows:
+
+A. Category A: Public Active Eye/Tissue Bank — an eye/tissue bank performing the following:
+
+1. recruitment of voluntary eye/cornea/tissue donors
+2. donor screening and selection
+3. eye, corneal and tissue collection from several hospitals, institutions, and
+agencies
+4. required blood screening and testing as speciﬁed by currently accepted
+world standards of eye/tissue banking. As of this writing these blood tests include HIV I and II, Hep. B Surface Antigen, Hep. C Surface Antigen, and VDRL. 
+5. preparation and preservation of eye/corneal/tissue
+6. Evaluation and grading of eye/cornea/or tissue
+7. storage of eye/cornea/or tissue
+8. issuance, transport, and distribution of eye/ cornea/or tissue to qualified surgeons with patients in need of such tissue regardless of hospital affiliation in an equitable and random manner as prescribed by the Department of Health.
+
+
+B. Category B: Private Active Eye/T Issue Bank- on eye/tissue bank performing the following:
+
+1. recruitment of voluntary eye/cornea/or tissue donors
+2. donor screening and selection
+3. eye and cornea/or tissue collection
+4. required blood screening and testing as specified by currently accepted
+world standards of eye/tissue banking
+5. preparation and preservation of eye/cornea/or tissue
+6. evaluation and grading of eye/cornea/or tissue
+7. storage of eye/cornea/or tissue 
+8. distribution of eye/cornea/or tissue to qualified surgeons with patients in need of such tissue for use only in the hospital or institution in which it is located or to which it is attached in an equitable and random manner as prescribed by the Department of Health.
+
+ 
+
+Adm. Order
+Page 15
++——————————+
+
+
+C. Category C: Public Passive Eye/Tissue Bank — an eye/tissue bank performing the following: 
+
+1. storage of eye/cornea/or tissue received from active eye/tissue banks, whether local or foreign
+2. issuance, transport, and distribution of eye/cornea/or tissue to qualified surgeons with patients in need of such tissue regardless of hospital affiliation in an equitable and random manner as prescribed by the Department of Health. 
+
+
+D. “Category D: Private Passive Eye/Tissue Bank — an eye/tissue bank performing the following:
+
+1. storage of eye/cornea or tissue received from active eye/tissue banks, whether local or foreign 
+2. distribution of eye/cornea/or tissue to qualified surgeons with patients in need of such tissue for use only in the hospital or institution in which it is located or to which it is attached in a random and equitable manner as prescribed by the Department of Health.
+
+
+
+Section 13: Requirements for New License
+
+1. An Eye/Tissue Bank may be granted a license to operate if it shall have complied with the following minimum requirements:
+
+A. It shall be under the supervision and management of a medical director has completed a corneal fellowship or who has demonstrated an expertise in external eye disease, corneal surgery, research or teaching in cornea and/or external disease, and who undergoes continuous medical education in eye banking. This medical director should be certified by the Philippine Board of Ophthalmology. For categories A and B, the medical director is likewise obliged to undergo continuous medical education in the field of eye/tissue banking in order to ensure that the eye/tissue bank follows and maintains the highest standards of competence and safety. A medical director should head only one eye bank.
+
+
+
+Adm. Order
+Page 16
++——————————+
+ 
+
+B. Category A and B eye/tissue banks must have a medical supervisor who shall oversee the day to day operations of the eye/tissue bank and be responsible for the proper running of the facility as well as the preservation and evaluation of the tissue. This medical supervisor should be a trained practitioner in Ophthalmology who has undergone training in eye/tissue banking as recognized by the accredited National
+Association of their particular specialty. 
+
+C. All Eye/Tissue Banks shall be manned by eye bank technicians who may be medical technologists or registered nurses duly licensed by the Professional Regulation Commission and who have undergone at least two months of specialized training in eye/or tissue banking with a recognized international or local training center for eye/tissue banking. Recognition of such training will be the responsibility of the accredited National Association of their particular specialty or it’s duly appointed or created body for such purpose.
+
+1. Categories A and B: Eye/Tissue Bank technicians should be permanently assigned, their number depending upon the size and needs of the eye/tissue bank, with one senior technician assigned as eye/tissue bank manager.
+
+2. Categories C and D: Eye/Tissue Bank technicians may be rotating. An eye/tissue bank manager is not necessary.
+
+D. Eye/Tissue Banks must have the necessary equipment to operate based on their category.
+
+1. Categories A and B: must have equipment for screening of blood from donors as well as retrieval, processing, evaluation, storage and distribution of eye/cornea/or tissue. These requirements and specifications shall be defined in appropriate DOH Orders and Manuals on Eye/Tissue Banking, and shall be revised and updated periodically as the need arises.
+
+2. Categories C and D: must have equipment for the proper storage and distribution of eye/cornea/or tissue. 
+
+
+ 
+Adm. Order
+Page 17
++——————————+
+
+2. BIOSAFETY. Safety precautions shall be followed in all Eye/Tissue Banks at all times. These shall include, but not be limited to, the wearing of protective clothing and gadgets such as laboratory gowns, gloves, masks, and eye protector; and adherence to clear and acceptable procedures and physical arrangements for decontamination and disposal of contaminated materials such as blood, equipment, clothing, and other supplies.
+
+3. RECORDING. REPORTING AND DOCUMENTATION REQUIREMENTS : All eye/tissue banks shall document pertinent information regarding donors, eye/tissue, and recipient surgeons and patients as required by the DOH as described in the SOP manual on Eye/Tissue Banking. 
+
+4. EYE/CORNEA/OR TISSUE DISTRIBUTION AND TRANSPORT REQUIREMENTS: Eye/corneal tissue shall be distributed to and upon the request of qualified surgeons only, and not to patients directly. 
+
+Category A and B eye/tissue banks shall have adequate facilities and arrangements for keeping eye/or tissue under appropriate refrigeration during transport and storage as specified by the DOH in the SOP manual on Eye/Tissue-Banking.
+
+5. Only duly licensed hospitals and agencies/foundations/corporations which are registered with the Securities and Exchange Commission as NON—PROFIT agencies and corporations may be licensed to operate an eye/tissue bank.
+
+
+
+Section 14: ALLOWABLE SERVICE FEES
+
+1. The eye/tissue bank facility can charge a minimal service fee for every eye tissue product issued only to provide operational funds for the eye/tissue bank. The service fee shall cover all the expenses incurred in collecting and processing the eye/tissue (donor recruitment, eye/corneal/or tissue retrieval, blood screening, eye/tissue preparation and preservation, storing and transportation), including professional services rendered.
+
+2. The BRL Director, in consultation with representatives from the National Accredited Association of their particular specialty (Philippine Society of Ophthalmology in case of eye bank) and any organization devoted to operating a public active eye/tissue bank facility (e.g. The Eye Bank Foundation of the Philippines in case of eye bank), shall issue Bureau Orders on the maximum allowable service fees for eye/tissue bank services.
+
+
+ 
+Adm. Order
+Page 18
++——————————+
+ 
+These fees shall be adjusted from time to time, and whenever deemed reasonable. These fees shall apply only to locally utilized eye/tissue tissue and not to internationally shared eye tissue. The latter will be subject to international policies of tissue sharing.
+
+3. Eye/Tissue Banks are not to give monetary compensation for eye/cornea/tissue donations to the families of the donors. 
+
+
+
+Section 15 : International Sharing of Eye Tissue
+
+As a rule, all cadaver organ, eye/or cornea and tissue donations would be preferentially given to Filipino patients. When situations arise however, whereby
+donated organ, eye/or cornea and tissue tissue cannot be utilized by a local recipient prior to it’s expiration date (e.g. corneal tissue can only be stored for two weeks) for whatever reason, then such tissue may be offered to any reputable
+institution, foreign or national that can utilize the organ or tissue, (via the
+international Federation of Eye Banks, the only non-profit, non-government international eye banking network, in case of eye tissue ). Such sharing shall be reciprocal so that Filipino patients may also avail of surplus organ/eye/or cornea/tissue in the international market should the need arise. Such organ or tissue will be subject to accepted international standards and policies of tissue sharing and is beyond the scope of these implementing rules and regulations. 
+
+Arrangement should be made with the Bureau of Customs and other related agencies to facilitate the sending out and entry of such organ or tissue since undue delay will result in permanent damage and loss of viability of the transplantable organ/tissue. Authorization for such arrangements may be delegated by the Department of Health to concern institutions such as the National Kidney Institute, Philippine Heart Foundation or the Eye Bank Foundation of the Philippines that will effect the sharing.
+
+
+
+Section 16: Requirements for Renewal of License
+
+The license of an Eye/Tissue Bank to Operate may be renewed only after compliance with all the requirements for a new license subject to the following additions or modifications.
+
+1. The eye/tissue bank shall have passed the basic proficiency test the previous year. 
+
+
+
+Adm. Order
+Page 19
++——————————+
+ 
+2. All eye/tissue bank technicians, eye/tissue bank medical supervisor and medical director, shall have acquired at least 30 CME units each year.
+
+3. The complete annual report of the preceding year’s operations shall have been submitted on or before January 3i of the succeeding year, following the format to be specified by the DOH through the BRL.
+
+4. The inspection visit shall have confirmed that the Eye/Tissue Bank has continued to operate under good physical conditions and according to prescribed technical and operating standards.
+
+5. The Eye/Tissue Bank has been shown to collect only the allowable service fees for the eye/or tissue distributed.
+
+
+
+Section 17: Terms and Conditions of Licensing 
+
+The licensing of Eye/Tissue Banks shall be subject to the following terms and conditions:
+
+1. In regions outside the National Capital Region, the Regional Health Director shall be the designated representative of the Director of the BRL in the licensing and regulation of Eye/Tissue Banks.
+
+2. Applications for new license shall be addressed and submitted to the Director of the BRL. Applications for renewal of license shall be officially addressed to the Director of the BRL and submitted directly to the BRL for Eye Banks in Metro-Manila, or to the Regional Health Directors for Eye/Tissue Banks in other regions.
+
+3. A license to operate an eye/tissue bank shall be valid for one year from the date of issue and shall be signed by the Undersecretary of Health for Hospital Facilities. Standards and Regulations and issued to persons, agencies or corporations who have successfully complied with all of the standards and requirements listed in Sections 11 to 13, as appropriate.
+
+4. The exact date of expiration of the license shall be printed on the license.
+
+
+
+Adm. Order
+Page 20
++——————————+
+
+5. Assessment of an Eye/Tissue Bank for initial licensing and renewal of license shall involve evaluation of documents and at least once a year actual inspection of the facility by authorized BRL inspectors.
+
+6. The license, as well as the rights under the license, is non-transferable, directly or indirectly.
+
+7. The license of the Eye/Tissue Bank shall be displayed in a conspicuous place within the Eye Bank.
+
+8. A non—refundable license fee of six hundred pesos (P600) shall be charged on application for a license to open and operate an Eye/Tissue Bank and four hundred pesos (P400) for renewal of license.
+
+9. The terms and conditions of the license shall be subject to amendments or modifications by the Secretary of Health through a revision of these rules and regulations when called for by public health safety and interest.
+
+
+
+Section 18: The Licensing Process
+
+The following shall be the process of licensing:
+
+
+1. INITIAL APPLICATION. Any person, agency or corporation desiring to operate an Eye/Tissue Bank shall submit to the BRL a duly-accomplished and notarized BRL Eye/Tissue Bank Services Application Form (to be formulated by the BRL within six months of effectivity of these Implementing Rules and Regulations) together with the following supporting documents:
+
+A. Certified true copy of Securities and Exchange Commission Registration (if a corporation or a foundation); 
+
+B. Names and qualifications of proposed staff, including certified true copies of PRC certificate of registration and professional license; certification of staff; and other certificates of training as appropriated and applicable;
+
+C. Floor diagram of proposed premises;
+
+D. List of equipment for eye/tissue banking services, such required equipment varying according to category of eye bank;
+
+
+
+Adm. Order
+Page 21
++——————————+
+
+E. Certified true copy of hospital license for preceding year (only if hospital based);
+
+F. Biosafety and Quality control arrangements and procedures;
+
+G. International affiliations and/or accreditation, when applicable.
+
+
+2. APPLICATION FOR RENEWAL OF LICENSE. Any person, agency, or corporation desiring to renew its license to operate an Eye/Tissue Bank shall submit to the BRL or the Regional Health Director, as appropriate, a duly—accomplished notarized BRL Application Form for Renewal of license of Eye/Tissue Banks (to be formulated by the BRL within six months of effectivity of these implementing Rules and Regulations), together with the following documents:
+
+A. Names, qualifications and proofs of qualifications of new staff and any staff changes (e.g. resignations, additional training, or qualification for existing staff, etc.);
+
+B. Changes (improvements or deterioration) in existing physical facilities and functioning of facilities and equipment; 
+
+C. Newly acquired equipment and facilities;
+
+D. Annual Report of Eye/Tissue Bank Services and related activities (donations made, out—reach projects, etc.) for the previous year;
+
+E. Any other changes in Eye/Tissue Banking operations and services.
+
+
+3. INSPECTION.
+
+A. Each Eye/Tissue Bank shall be visited on site by an authorized BRL inspector at least once before initial licensing and once a year for the renewal of license. Those who fail to apply for renewal of license within one year of the prescribed period shall be visited within the year to confirm that eye bank operations have ceased.
+
+B. Only inspectors who have satisfactorily completed a BRL Course for Eye/Tissue Bank Inspectors are qualified to inspect Eye/Tissue Banks. An Eye/Tissue Bank Inspector shall be entitled to basic per diem expenses and two hundred pesos (P200) honorarium for each eye/tissue bank facility inspected.
+
+
+
+Adm. Order
+Page 22
++——————————+
+
+C. For applicants desiring to open an Eye/Tissue Bank (new license) inspection shall be done only if applicants have fulfilled all the basic written requirements. 
+
+D. Inspection of a licensed Eye/Tissue Bank shall be done while its activities are going on and shall be unannounced. Each licensee shall make available all records and documents as may be required by the inspectors. 
+
+
+4. TIMETABLE FOR APPLICATION AND INSPECTION.
+
+A. Applications for new license may be submitted any time.
+
+B. Application for renewal of license should be submitted within the two (2) months prior to the expiration date of the current license. Eye/Tissue Banks which fail to submit an application renewal within the prescribed two-month period shall be considered as ”Eye/TissueBanks Operating Without a License” when their current license expires and shall be subject to the penalties for such violation.
+
+C. Eye/Tissue Banks which have submitted their application for renewal of license within the prescribed two (2) month period but have not yet been inspected shall be given a six (6) week extension grace period after expiration of their current license. During the six (6) week extension period, their license shall be considered valid. 
+
+
+5. RELEASE.
+
+A. Licenses shall be released only to the heads of the Eye/Tissue Bank or their duly designated representatives not later than two (2) weeks after the completion of the inspection visit. 
+
+B. Applicants for new license who upon inspection, did not meet all the prescribed standards shall receive a letter from the Director of the BRL or the Regional Health Director specifying the requirements which the Eye/Tissue Bank failed to meet.
+
+C. Applicants for renewal of license who, upon inspection, did not meet all of the prescribed standards shall receive, aside from the letter stating their deficiencies, an order signed by the BRL Director or respective Regional Health Director, to cease eye/tissue banking operations immediately. These eye/tissue bank centers shall also be revisited within one month after release of the order to stop operations for confirmation of compliance with the order.
+
+ 
+
+Adm. Order
+Page 23
++——————————+
+
+
+
+Section 19: Transition Period for Confirmation of License
+
+The period immediately after the effectivity of these Implementing Rules and Regulations until the end of l997 shall be the transition years for confirmation of compliance to the licensure requirements for existing eye/tissue bank facilities.
+
+This is a new field of undertaking for the DOH as it is the first time eye/tissue
+banking is to be institutionalized. This period shall also be used by the DOH for training of their personnel in matters pertaining to currently established international standards of eye/tissue banking, and to formulate the necessary forms and manuals likewise pertaining to eye/tissue banking.
+
+Existing eye/tissue banks which will fall to meet all of the new or additional requirements may still be allowed to operate within this prescribed transition period provided such eye/tissue banks submit an undertaking to upgrade their services and facilities according to the prescribed standards as applicable to their particular category.
+
+Starting January 1, 1998, all licensure requirements will be imposed without exemption.
+
+
+
+Section 20: Appeals and Reports on Violations
+
+Reports and appeals on violations of RA 7885 and these Rules and Regulations shall be addressed to the Secretary of Health.
+
+Section 21: Standard Operating Manual
+
+Standards for donor recruitment and screening; for eye/corneal tissue retrieval, processing tests, handling, storage and transportation: for required biosafety procedures; and all other quality assurance/quality control measures shall follow international guidelines promoted by the World Health Organization (WHO), Tissue Banks International/International Federation of Eye Banks (IFEB), and the Eye Bank Association of America (EBAA). Such guidelines shall be adapted to the Philippine situation through a Standard Operating Procedures Manual (SOP Manual) on Eye/Tissue Banking which shall be developed by the BRL within six (6) months after the effectivity of these Implementing Rules and Regulations and upon consultation with representatives of the Philippines Society of Ophthalmology in case of eye banking or its counterpart in their respective field and, if possible, representatives from the IFEB, WHO, or EBAA.
+
+ 
+
+Adm. Order
+Page 24
++——————————+
+
+Until such a time when this manual is available, existing eye/tissue banks may continue to operate under guidelines established by the WHO, IFEB, EBAA, and the Philippine Society of Ophthalmology in case of eye bank.
+
+This manual shall be reviewed and revised periodically as deemed necessary for public interest and safety. In its revisions, the previous editions shall be collected back by the BRL and precautions taken to ensure that all relevant key persons are informed of the changes and the effectivity of these changes.
+
+
+
+Section 22: Quality Assurance Officer
+
+A Quality Assurance Officer recognized for his/her integrity and organizational abilities shall be assigned or designated and trained for each eye/tissue bank service facility by the BRL through an appropriate training agency or organization. He/she shall organize all documents relating to quality assurance and, in coordination with the head of the eye/tissue bank service facility, shall make sure that the required, recognized standards are instituted and followed according to national specifications. He/she shall periodically review quality control procedures and monitor compliance with standard procedures. He/she shall initiate investigations and remedial action when errors occur, in cooperation with the head of the units affected. 
+
+
+
+Chapter VII 
+IMPORTATION OF EYE BANK EQUIPMENT AND REAGENTS
+
+
+
+Section 23: Certification of Importation Privileges
+
+An annual list of actively operating Eye/Tissue Banks, duly approved and certified by the Undersecretary of Health for Hospital Facilities, Standards and Regulations and duly noted by the Directors of the Bureau of Research and Laboratories and the Bureau of Licensing and Regulation of the Department, shall be submitted to the Department of Finance and the Bureau of Customs before January 31 of every year. 
+
+
+
+Adm. Order
+Page 25
++——————————+
+
+
+Section 24: Equipment and Materials Covered
+
+The BRL, in consultation with the Department of Finance and Bureau of Customs, shall enumerate in an appropriate Bureau Circular the detailed list of equipment and reagents with specifications as necessary, which shall be allowed to be imported tax-free under the provisions of RA 7885. This list shall be modified by the BRL as necessary.
+
+
+
+Section 25: Process of Importation and Exemption
+
+An eye/tissue bank, included in the list of actively operating eye banks recognized by the Department of Health, wishing to import equipment and materials tax and duty free shall submit to the Secretary of Health a letter of intent enclosing the list of equipment and materials to be imported as well as the necessary specifications and justifications for their use. The BRL Director shall certify that the list of equipment and materials requested are included in the list of allowable equipment and supplies and that these are necessary for the operation of the eye/tissue bank. The Undersecretary of Health for Hospital Facilities, Standards and Regulations shall sign a recommendation for tax and duty free exemption addressed to the Commissioner of Customs. 
+
+
+
+Chapter VIII 
+PENALTIES
+
+
+
+Section 26: Penalties
+
+The Secretary of Health, through the BRL, after due notice and hearing, may impose the following administrative sanctions: 
+
+1. Upon complaint of any person, and after investigation, due notice and hearing, any eye bank which shall collect charges and fees greater than the maximum prescribed by the Department shall have its license suspended or revoked by the Secretary;
+
+2. The head of the Eye/Tissue Bank and the necessary trained personnel under the head’s direct supervision found responsible for distributing eye/tissue for the purpose of transplantation from donors whose blood tested positive for absolute contraindications for eye/ tissue transplant (e.g. HIV, Active Hep. B, Active Hep. C, Syphilis} shall be imprisoned for five years. This without prejudice to the filing of criminal charges under the Revised Penal Code;
+
+
+
+Adm. Order
+Page 26
++——————————+
+
+3. A fine of three thousand pesos (P3,000) for the head or owner of, the Eye/Tissue Bank which fails to submit the application for renewal of license of the BRL or its designated offices within two (2) months prior to the expiration of the existing license; 
+
+4. A fine of three thousand pesos (P3,000) for the head or owner of an Eye/Tissue Bank which shall operate without securing authorization from the Department 25 of its designated offices; 
+
+5. Revocation of suspension of Eye/Tissue Bank license because of:
+
+A. Misrepresentation of facts or falsification of documents or records
+B. Refusal of entry for inspection 
+C. Refusal to make available books, accounts and records of operations
+D. Failure to inform the BRL or its authorized representatives about changes in the Eye/Tissue Bank facilities, services or operations
+E. Violation of the Code of Ethics as Specified by The Manual an Eye Banking
+
+6. Recommendation to revoke the certificate of registration or to suspend said certificate to practice the profession and to invalidate the professional license of any health professional involved in misrepresentation of facts or falsification of documents or records especially medical, laboratory or inspection results and certificates, or in violation of R.A. 7885 and the herein Rules, by the Professional Regulation Commission upon recommendation of the Secretary.
+
+
+
+Chapter IX
+REPEALING CLAUSE AND EFFECTIVITY CLAUSE 
+
+
+
+Section 27: Repealing Clause
+
+These Rules and Regulations shall supersede all previous Administrative and Bureau Orders and Circulars of the Department. The provisions of any law, executive order, presidential decree, Department or BRL order and circular, or other issuances inconsistent with these Rules and Regulations are hereby repealed or modified accordingly. 
+ 
+
+
+Adm. Order
+Page 27
++——————————+
+
+
+
+Section 28: EFFECTIVITY CLAUSE
+
+These Rules and Regulations shall take effect fifteen (15) days after its publication in the Official Gazette or in two (2) national newspapers of general circulation.
+
+Approved on this 19th day of June nineteen hundred and ninety—five.
+
+ 
+
+</body> 
+<sign>JAIME Z. GALVEZ TAN, MD, MPH</sign>
+<signtitle>Acting Secretary of Health</signtitle>
+
+<sign>”the name is not indicated; only the signature is present in the AO”</sign><signtitle>Eye Bank Foundation of the Philippines, President</signtitle>
+<sign>”the name is not indicated; only the signature is present in the AO”</sign><signtitle>National Kidney Institute</signtitle>
+<sign>Manuel M. Dayrit</sign><signtitle>Makati Med. Center</signtitle>
+<sign>”the name is not indicated; only the signature is present in the AO”</sign><signtitle>Phil. Soc of Pathology</signtitle>
+<sign>”the name is not indicated; only the signature is present in the AO”</sign><signtitle>NBI</signtitle>
+<sign>”the name is not indicated; only the signature is present in the AO”</sign><signtitle>Eye Bank Foundation of the Phils</signtitle>

@@ -1,0 +1,206 @@
+﻿Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+
+<date>20/1/1994</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 23,s. 1994</docnum>
+
+<subject>Subject: Philippine National Standards for Drinking Water 1993 under the provision of  Chapter II, section 9 of PD 856, otherwise known as the Code on Sanitation of the Philippines. </subject>
+
+       <body>To implement the provisions of section 9, otherwise known as the Prescribed Standards and Procedures of Chapter
+II of the Code on Sanitation of the Philippines, PD 856, this Philippine National Standards for Drinking Water 1993 hereby revises and updates the 1978 National Standards for Drinking Water
+
+       The Philippine National Standards for Drinking Water 1993 (PNSDW 1993) is designed to guide the Waterworks Officials, Developers and operators of Water Supply Systems both Government and Private entities, health and sanitation authorities and the general public and all other concerned.
+
+       The new standards cover requirements for the acceptable values of the determined parameters in measuring water quality. These parameters include microbiological, physical, chemical and radiological compositions of the water. The standard also delineates values established in conforming with the medical and health implication of the parameters as opposed to values established purely to satisfy aesthetic requirements. 
+       
+       SECTION 1. DEFINITION OF IERMS
+
+1. Aesthetic aspects of drinking water quality perceived by senses, including odor, taste, color and clarity.
+
+2. Aerobe — An organism capable of growing in the presence of oxygen. 
+
+3. Aerobic - Description of biological or chemical processes that can_ occur only in the presence of oxygen. 
+
+4. Anaerobic - Life processes or chemical reactions that occur in the absence of oxygen or a condition in which Dissolved Oxygen (DO) is not detectable in the aquatic environment.
+
+5. Available residual Chlorine - Generally refers to the part of the chlorine that will react with orthotolidine or ampere-metric tests and exhibits significant germicidal activity.
+
+6. Bottled water means water that is placed in a sealed container or package and is offered for sale for human consumption as drinking water.
+
+7. Coliform organisms (total coliforms) - refers to any rod-shaped non-spore-forming, gram- negative bacteria capable of growth in the presence of bile salts, or other surface-active agents With similar growth-inhibiting properties which are cytochrome—oxidase negative and able to ferment lactose at either 35 or degrees Celsius with the production of acid, gas, and aldehyde within 24-48 hours.
+
+8. Composite Sample — refers to a mixture of grab samples collected at -the same sampling points at different times.
+
+9. Contamination – A general term referring to the introduction of materials not normally found in water that make the water less desirable or unfit for its intended use
+
+10. Disinfection - water treatment processes designed to destroy disease- causing microorganisms. The efficacy of disinfection is often assessed by measuring the coliform group of indicator organism.
+
+11. Drinking—water - water intended for direct human consumption or for use in food preparation. Where high quality waters are scarce, the quality of water used for other domestic purposes does not need to be as high as that of drinking water
+
+12. Facultative anaerobic - organisms that can use free oxygen or can grow in _the absence of atmospheric oxygen
+
+13. Facultative bacteria - Bacteria that can adapt themselves to growth and metabolism under aerobic or anaerobic conditions. Many organisms of interest in waste water stabilization are among this group.
+
+14. Thermotolerant (Fecal) Coliform — A subgroup of
+Coliform Bacteria that has high positive correlation with fecal contamination associated with all warm-blooded animals. These organisms can ferment lactose at 44.5 degrees C and produce gas in a multiple tube procedure (EC Confirmation) or acidity with the Membrane Filter procedure (M—FC Medium)
+
+15. Grab for catch sample - a sample collected at a particular time and-place and can represent only the composition of the source at the time and place.
+
+16. Gram—negative bacteria — bacteria that decolorize and accept that safranin stain which appears pink using the gram-stain technic.
+
+17. Gross alpha and gross beta radioactivity — radio-radioactivity emanating from radionuclides belonging to the uranium, thorium and actinium series which are terrestrial in origin. It also includes radionuclides that occur singly and are produced by cosmic rays and are terrestrial in origin.
+
+18. Integrated Samples – For certain purposes, the information needed is provided by analyzing mixtures of grab samples collected from different points simultaneously or as nearly as possible
+
+19. Large Water Supply System - more than 5,ooo service connection.
+
+20. Level I (Point source) - A protected well or a developed spring with an outlet but without a distribution system, generally adaptable for rural areas where the houses are thinly-scattered. A Level I facility normally serves around 15 to 25 households and its outreach must not be more than 256 meters from the farthest user. f. The yield or discharge is generally from 40 to 146 liters per minute.
+
+21. Level II (Communal Faucet System or standposts) –a system composed of a source, a reservoir, a piped distribution network and communal faucets, located at not more than 25 meters from the farthest house. The system is designed to deliver 40—80 liters of water per capita per day to an average of 1oo households, with one faucet per 4"to.6 households. Generally suitable for rural and urban areas where houses are clustered. Densely to justify a simple piped system. 
+
+22. LEVEL III (Waterworks System or Individual House Connections) – a system with a source, a reservoir, a piped distribution network and household taps. It is generally suited for densely populated urban areas. This level of facility requires a minimum treatment of disinfection.
+
+23. MPN (Most Probable Number) - a statistical method of determining microbial populations. A multiple dilution tube technique is utilized with a standard medium and observations are made for specific individual tube effects. Resultant coding is translated by mathematical probability tables into population numbers
+
+24. Non-spore forming - not capable of producing spores, the defense mechanism of bacteria under favorable growth conditions such as heat, drying, pH change and disinfectants.
+25. Pollutant — Dredged spoil, solid waste, incinerator residue, sewage, garbage, sewage sludge, munitions, chemical waste, biological materials, radioactive materials, heat, wrecked or discarded equipment, rock, sand and industrial, municipal, agricultural waste discharge into water.
+
+26. Potable water - water suitable (from both health and aesthetic considerations) for drinking and cooking purposes.
+
+27. Protected well - it is a borehole well either deep or shallow well which have sanitary protective measures such as concrete apron, grouting, safe distances to toilets and other source of pollution.
+
+28. Radioactiv1ty - the spontaneous emission of radiation, generally alpha or beta particles, often accompanied by gamma rays, from the nucleus of an unstable isotope.
+
+29. Raw. Water - untreated, undisinfected surface or groundwater.
+
+30. Residual Chlorine – when sufficient dosage of chlorine applied to water, microorganisms of sanitary significance are destroyed and all the
+oxidizable matter are reacted upon. After all of these reactions have taken place, at the end of a specified contact time, there remains a certain minute quantity of chlorine in the water. This is detected as residual chlorine. Its presence in water is usually an indication of the sufficiency of the treatment or chlorination, and is therefore an assurance of protection of the bacteriological quality.
+
+ 
+31. Small Water Supply System – less than 1,000 service connection. 
+
+32. Standard Methods - Methods of analysis prescribed by a joint action of American Public Health Association, American Water works Association, Water Pollution Control Federation or US Environmental Protection Agency, methods accepted by authority.
+
+33. 'Water Quality from the user’s point of view the term "water quality” is used to define those bacteriological, chemical, physical, biological or radiological characteristics which evaluates the acceptability of the water. The term “quality” must be considered relative to the proposed use of the water
+
+34. Water Quality Guideline - a water guideline in this document is a level for a water constituent which does not result in significant health risk and which ensures aesthetically acceptable water.
+
+35. Water supplier - an entity, government or private responsible for source development, water abstraction, treatment and distribution of water.
+
+SECTION 2.  EXAMINATION 0f WATER
+
+	Regular examination of water will have to be carried out in order to determine its potability.
+	The results of this examination shall be expressed as
+follows:
+
+<image>table_1.png</image>
+<image>table_2.png</image>
+
+	Adequate treatment will have to be made available to deal with changes in the quality of the raw water and to consistently produce a finished product which is reliably safe. 
+
+	Microbiological testing may be supplemented with the much simpler colorimetric test for free residual chlorine (free residual chlorine of 0.2 – 0.5 mg.L in the distribution system to reduce the risk of microbial regrowth). Absence of the residual chlorine is an indicator of the entry of oxidizable matter into the distribution system, or a malfunctioning of the treatment process.
+
+ 
+
+SECTION 3. STANDARD PARAEMETERS AND VALUES FOR DRINKING-WATER QUALITY
+<image>table_3.png</image>
+<image>table_4.png</image>
+e. Detect rapidly the organic pollution of water, contamination with toxic substances, and cross-connections of distribution system with contaminated waters.
+
+Details on the BIOLOGICAL METHOD USED FOR ASSESSING WATER QUALITY INCLUDE THE COLLECTION, COUNTING AND IDENTIFICATION OF AQUATIC ORGANISMS can be found in PNSUW 1993 manual
+
+Section 7. PHYSICAL AND CHEMICAL REQUIREMENTS
+
+       Whereas, frequent bacteriological examination is required to ascertain water potability, chemical examinations are done less frequently and are utilized to detect and estimate the chemical substances that might affect health as well as the acceptability of water for domestic use.
+       Tables 3.3 to 3.6 show the maximum permissible levels of the constituents that affect the quality of drinking water. The methods to be followed are those included in Standard Methods for Examination of Water and Wastewater, 1989, 17th edition or more current.
+
+       Initial examinations of water from newly constructed sources are required before they are opened and operated for public use.
+
+  	Periodic examinations of water supply sources shall be performed in a minimum, surface water and groundwater supplies shall be examined annually.
+
+7.1 Sampling for Physical and Chemical Analysis
+
+       The actual collection of the water sample is a matter of considerable importance. It is impossible to state unequivocally how much, time may be allowed between the time of collection of a sample and its analysis. This depends on the character of the sample, the particular analyses to be made and the conditions of storage. Procedures in sampling can be found in PNSDW 1999 manual.
+       
+       7-1.1. Sample Size
+
+       One (1) liter sample should suffice for most physical and chemical analyses.
+
+NOTE: No attempt should be made to use the same sample for microbiological and microscopic examinations because the methods of collection and handling are quite different.
+	7.1.2 Sample Containers
+	In all cases, the container shall be chosen so that it will not contaminate the sample. 
+	a. Chemically resistant glass (pyrex), polyethylene, or hard rubber are suitable materials for containers. For samples containing organics, avoid plastic containers except those made of fluorinated polymers, such as polytetrafluoroethylene (PTFE). Glass containers, generally, are preferred for volatile organics. Sample containers must be carefully cleaned to remove all extraneous surface, dirt, thoroughly rinsed with distilled water and drained before use.
+
+b; .ample containers must be properly labeled. A gummed label, or a cardboard or tag securely affixed to the container shall be provided with the following information:
+
+	-Date and time of sampling
+
+	-Source of sample
+	-Point of sampling (designed in Sufficient detail to enable anyone to collect a second sample from the identical spot from which the first sample was taken)
+	-Temperature of the sample
+	-Sampled by (name of collector)
+
+7.1. 3 Sample Handling and Storage
+
+In general, the shorter the time lapse between collection of a sample and its analysis, the more reliable will be the analytical results.
+
+The recommended sampling, preservation and analysis of samples according to parameter for analysis is presented in PNSDW 1993 manual. The list is by no means all inclusive
+
+SECTION 8. RADIOLOGICAL REQUIREMENTS
+
+	 Radioactive contaminants in drinking water may come from naturally-occurring radionuclides present in rocks and soils from earth’s formation and from man-made radionuclides arising from power generated by nuclear energy Deep wells, groundwater and mineral springs have been known to be sources of natural radioactivity, principally radium and
+Radon. Deposition of radioactive fallout from nuclear weapon testing abroad or from nuclear accidents, nuclear power plant facilities or from medical use of radioactive substances may also be a source of contamination. Although the contribution of radioactivity in drinking water from the above sources are very minimal, it is still important to protect the public from undue exposure to radiation. 
+
+       The World Health Organization has set radioactivity levels for gross alpha and gross beta activity as shown in Table 3.7, in radioactivity units of Becquerel per liter (Bq/l). However, these values are only screening values. This means that further analysis for specific radionuclides should be performed when the levels of these values are exceeded. The item screening value is used in the same manner as reference level as defined by the International Commission on Radiological Protection (ICRP). A reference level is not a dose limit requirement. It is only used to determine the course of action to be pursued when the value of a quantity is exceeded or is predicted to exceed from the reference level. The action to be initiated may range from simple recording of the information to thorough investigation for causes and consequences and intervention measures.
+
+8. Sample Collection and Preparation
+       8.1 Collection of Samples
+
+       Samples of 1drinking water ‘are collected directly from the source, typically from household faucets. Ground water and spring water used as drinking water are also collected directly from pump wells or deepwells
+
+       8.2 Sample Size, Containers, Handling and Storage
+
+       One liter of water samp1e is collected and contained in a properly labeled polyethylene plastic container. After sample collection, the sample is acidified to a pH of less than 2 using minimum amounts of dilute hydrochloric acid to minimize losses caused by adsorption in the container walls as well preserve the sample. Radiochemical analysis is then performed in the laboratory at any time, except perhaps when short-lived radionuclides are known to be present in the sample.
+
+
+8.3 Sampling Frequency
+
+	Initial sampling can be done on a quarterly basis and succeeding on an annual-basis, if there is no significant input of radiation from the surrounding environments. In cases of emergencies like nuclear accidents from neighboring countries, immediate sampling and analysis should be done.
+
+ 
+8.4 Resampling
+Resampling and reexamination of the source of drinking water shall be performed in cases where gross alpha and gross beta radioactivity levels
+Exceed the standard values. In the event gross alpha activity is exceeded, analysis of specific alpha—emitting radionuclide, Radium- 226 and 226Ra should be conducted. If the gross beta activity is exceeded, analysis of specific beta-emitting radionuclides, Tritium (3H) and Strontium (90Sr) should be performed. Additional advice may be obtained from the Philippine Nuclear Research Institute, Diliman, Quezon City.
+
+8.2 Methods for Analysis
+
+The recommended methods for analyses of gross alpha and gross beta radioactivity , 221Ra, 3H and 90Sr (details in PNSDW 1993 manual) are standardized procedures undertaken by the Health Physics Research Section of the Philippine Nuclear Research Institute. These procedures are based on the procedure manual of Environmental Measurements Laboratory (EML-300) and the United States Environmental Protection Agency (USEPA) Prescribed Procedures for Measurement of Radioactivity in Drinking Water (EPA 600/4-80-032).
+
+The determination of gross alpha radioactivity should be made as soon as practicable to minimize the ingrowth of radon and its daughter product in the prepared sample. If the gross alpha and gross beta activity levels are less than the standard values, no further examination is necessary except for routine surveillance as may be required in the vicinity of nuclear installations or other major sources of radionuclides pollution., 
+
+SECTIOM 9. 	OTHER DETAILS
+Details of the following can be found in the PNSDW 1993 Manual.
+1. Different chemical constituents and physical characteristics that may affect the aesthetics quality of drinking water. 
+2. Health significance of different chemicals.
+
+3. Methods of sampling, preservation and detection and estimation of coliform organisms for drinking water.
+4. Sampling, preservation and method of analysis of samples according to parameters.
+5. Forms for request and results for analysis of drinking water.
+
+
+SECTION 10. PENAL PROVISIONS
+ The Penal _Provisions provided for in the Code on
+Sanitation of the Philippines shall apply in this Philippine National Standards for Drinking Water 1993. 
+
+SECTION 11. SEPARABILITY AND REPEALING CLAUSE
+       The Separability and Repealing Clauses specified in the code on Sanitation of the Philippines shall likewise apply in this Philippine National Standards for Drinking Water 1993.
+       
+       This order supersedes all other orders inconsistent herewith shall take effect fifteen (15) days following the date of its publication in a newspaper of general circulation.
+  
+</body>
+<sign>Juan M. Flavier, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>

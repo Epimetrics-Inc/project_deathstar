@@ -1,0 +1,359 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+2nd Floor, Bldg. 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila 
+Telefax: (0632)743-1829 Trunkline: 743-8301 loc1125/1127/1128 
+
+<date>January 8, 2009</date> 
+
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2009— 0003</docnum> 
+
+<subject>SUBJECT: Technical Guidelines for Implementing DOTS Strategy in Jails and Prisons</subject>
+
+<body>
+I. RATIONALE 
+
+In 2008, it was estimated that of the total of about 130,000 prison inmates in the country, 28% or 36,000 had symptoms of TB. In a study of 7,282 inmates in five (5) jails and one (1) prison in Davao Region, the prevalence of sputum smear positive among inmates was 8.7/1,000 compared to the 2/1,000 for the general population based on the result of the 2007 National TB Prevalence Survey. Globally, the estimated number of peeple detained on any given day is over 9 million and the prevalence rate of TB in prisons usually exceeds that ofthe civilian population“. 
+
+The increased vulnerability of this group to TB can be attributed to several factors: (1) overcrowding and lack of ventilation in many jails/prison facilities, (2) late case detection secondary to lack of access to health services and stigma, (3) lack of health human resource and trained staff servicing inmates and (4) presence of other risk factors such as malnutrition and co- morbidities. 
+
+Considering that more than half of the inmate population are detainees awaiting case resolution and that a large majority of them shall be re-integrated with the society at large, the Department of Health (DOH) intends to implement Directly Observed Treatment Short-Course (DOTS) Strategy to this captive pepulation in order to reduce TB transmission, morbidity and mortality within jails and prisons, and to render inmates non—infectious by the time they are released to mainstream society. 
+
+The controlled, supervised situation of the inmates injails and prisons, on the other hand, is also expected to yield success rates and cure rates that are higher than those for the civilian population. Thus, implementing DOTS Strategy in jails and prisons has the potential of significantly expediting the achievement of national and Millennium Development Goal (MDG) targets related to TB control. 
+
+II. OBJECTIVES 
+
+These guidelines aim to strengthen the implementation of the Comprehensive and Unified Policy (CUP) for TB Control in the Philippines (Executive Order 187 s. 2003), by providing minimum standard guidelines for integrating (DOTS) Strategy within jails/prisons. These guidelines shall become the basis for the development of specific operational guidelines by the Bureau of Corrections (BuCor) and Bureau of Jail Management and penology (BJMP) in collaboration with concerned Local Government Units (LGUs). 
+
+III. SCOPE/COVERAGE 
+
+The guidelines are to be used by jail and prison authorities who can comply with minimum DOTS Service requirements of the DOH. 
+
+The implementation shall initially cover four (4) city jails, one (1) district jail and one (1) prison namely: Manila, Cebu, Davao and Antipolo City Jails, Metro Manila District Jail and New Bilibid Prison. Expansion shall be done in phases. 
+
+IV. DEFINITION OF TERMS 
+
+a. Casefinding — an activity to discover or find TB cases. 
+
+b. Caseholding - an activity to treat TB cases through proper treatment regimen and health education. 
+
+c. Detainee —— a person accused before a court or competent authority and is temporarily confined in ajail while undergoing or awaiting investigation, trial, or final judgments. 
+
+d. DOTS Referring Jails/Prisons ~— jails/prisons providing Directly Observed Treatment (DOT) except sputum microscopy which is linked outside. 
+
+e. DOTS Service Providing Jails/Prisons -—— jailslprisons providing DOTS services including sputum microscopy. 
+
+f. Droplet nuclei - microscopic particles which are estimated at I—Smicrons in diameter and are produced when a person coughs, sneezes, shouts or sings. Such particles may contain the M. tuberculosis bacilli and remain suspended in the air for hours). 
+
+g. Direct Sputum Smear Microscopy (DSSM) — is the primary diagnostic tool in NTP case finding. It serves as basis for categorizing TB symptomatics according to standard case definition, used to monitor progress of patients with sputum smear positive TB while they are receiving anti-TB treatment and confirm cure at the end oftreatment. 
+
+h. Environmental Control Measures - these are measures that can be used in jails/prisons to reduce the concentration of droplet nuclei in the air (e.g., maximizing natural ventilation or controlling the direction of airﬂow)6. 
+
+i. Health Promotion -—- a process of enabling people to take action to improve health. 
+
+j. Infection Control — specific measures and work practices that reduce the likelihood of transmitting M. tuberculosis? 
+
+k. Inmates - is a generic term used to refer to a prisoner or a detainee
+
+l. Jail — a place for confinement for city and municipal prisoners, any fugitive from justice, detainee awaiting trial or under investigation or transfer to a National Penitentiary/Mental Institutions. It caters to detainees and inmates serving up to 3 years of imprisonment. Jails are managed by the BJMP and/or LGUs. 
+
+m. Prison — refers to a penal establishment under the control of the BuCor. It caters to prisoner serving more than 3 years. 
+
+n. Prisoner — an inmate who is convicted by final judgments. 
+
+o. TB Symptomatic — any person with cough for two (2) weeks or more with or without the following symptoms: fever; chest and/or back pains not referable to any musculo- skeletal disorders; hemoptysis or recurrent blood-streaked sputum; significant weight loss; and other symptoms such as sweating, fatigue, body malaise, shortness of breath. 
+
+p. Work Practice and Administrative Control Measures —- managerial or administrative measures which guide work practices to reduce significantly the risk ofTB transmission by preventing the generation of droplet nuclei. These include early diagnosis, prompt isolation or separation of infectious TB patients and prompt initiation of appropriate anti—TB treatmenté. 
+
+V. GUIDING PRINCIPLES 
+
+a. TB cannot be managed effectively in a country ifthe TB reservoir in jails/prisons is not dealt with correctly4. 
+
+b. Jails/prisons are reservoirs of TB infection that receive TB disease; concentrate the disease; make it worse by not providing adequate case finding and treatment; create resistance through erratic or non-supervised treatment; disseminate it amongst inmates and export TB through visits and other contacts such asjail/prison staff1 . 
+
+c. A comprehensive package of medical and administrative interventions is necessary to control TB in prisonsg. 
+
+d. TB control in jails/prisons must be incorporated into the existing programmatic TB control strategies thru the NTP, with the DOTS Strategy as the overarching frameworkg. 
+
+e. Inmates have the right to the same standard of health care as the people in the general community (principle of equity of care)8. 
+
+f. Inmates have the right to avail of medical, dental and other health servicess. 
+
+g. The inherent worth, dignity, health and safety of inmates must be respected at all timess. h. The community is a partner in the developmental processes of inmatess. 
+
+i. A diagnosis of TB or incomplete TB treatment must never be used to delay trial, release or amnesty. It should not also bring any extra advantage to the patient compared to other - 4 inmates . 
+
+
+VI. GENERAL GUIDELINES 
+
+A. Administrative: 
+
+a. The DOTS Strategy shall be integrated within the jails/prisons health services and these services shall be decentralized in accordance to their respective system whenever possible (Annex A). 
+
+b. Engagement and partnership of the DOH—NTP with national authorities in charge of jails/prisons in the country shall be formalized thru the signing ofa Memorandum of Understanding (MOU) at the national level. The MOU shall then be adopted at the local level prior to the implementation ofthe program. 
+
+c. Operational Guidelines for BuCor prisons and BJMP jails shall be developed and disseminated. 
+
+d. Jails and prisons shall upgrade their facilities in order to be classified as a DOTS Referring Unit or DOTS Service Providing Units. 
+
+e. A point person from the BJMP and BuCor shall be designated to ensure effective implementation of this program from the national down to the jail/prison level. The point person shall initiate the organization ofa DOTS Team for each jail/prison. 
+
+f. The Jail/Prison DOTS Team shall be responsible for the following: 
+- develop written work plans. The plan shall cover: 
+a. routine NTP activities and procedures 
+b. infection control 
+c. health promotion 
+d. comprehensive discharge/release plan that will ensure continuity of care 
+e. reporting of treatment outcome of (transferred or released inmates. 
+- manage and implement the program in coordination with the LGUs and CHDs 
+
+g. The basic composition of the DOTS team are: 
+- health staff that will manage and oversee the implementation 
+- treatment partner 
+- specimen transporter (for DOTS Referring Units) 
+- sputum collector 
+
+h. Training courses or programs shall be provided by DOH to jail/prison staff and DOTS team that are specific to their tasks. 
+
+B. Management of TB patients in Jails/Prisons 
+
+1. Caseﬁnding and caseholding shall be\systematically implemented in respective jails and prisons during the routine procedures that inmates undergo: 
+- upon entry (or commitment/admission) 
+- during incarceration (or confinement) 
+- prior to transfer of inmates to anotherjail or prison 
+- prior to release of inmates back to the community 
+
+2. General Guidelines on Casefinding: 
+
+a. DSSM shall be the primary diagnostic tool in casefinding. 
+
+b. Casefinding shall prioritize the early diagnosis of inmates with infectious TB (i.e. pulmonary smear-positive) and treat them until cure. 
+
+c. The main strategies for casefinding are through: 
+- screening for signs and symptoms of TB 
+- surveillance 
+
+d. A screening form shall be used to identify the following: 
+- TB symptomatic inmates (upon entry and before release or transfer) 
+- detainees with history of anti-TB treatment and those undergoing treatment for TB (upon entry) 
+
+e. All TB symptomatics identified shall undergo DSSM for diagnosis before start of treatment, regardless of whether or not they have available X—ray results or whether or not they are suspected of having extra-pulmonary TB. The only contraindication for sputum collection is hemoptysis; in which case, DSSM will be requested after control ofhemoptysis. 
+
+f. All sputum collection shall be supervised by the Sputum Collector. Collection, storage and transport shall follow the NTP guidelines. 
+
+g. A cough surveillance shall be put in place to ensure early identification of incarcerated inmates who are TB symptomatics. 
+
+h. All sputum collection shall be supervised by the Sputum Collector. A proper area for sputum collection shall be designated in a well ventilated area outside the cell and away from other people. Sputum collection, storage and transport shall follow the NTP guidelines. 
+
+i. For DOTS Referring Units where DSSM is not available, DSSM shall be done in a designated microscopy center near the jail/prison. Proper coordination with the LGUs managing the microscopy centers shall be done by the Center for Health Development (CHD)-NTP Coordinators in collaboration with the Department of the Interior and Local Government (DILG). The arrangement shall be stipulated in the MOU. 
+
+j. Results of DSSM must be available within 5 working days. 
+
+k. TB symptomatic shall be asked to undergo other diagnostic tests (X-ray and/or culture), if necessary, only after they have undergone DSSM for diagnosis with three sputum specimens yielding negative results. 
+
+l. The TBDC will evaluate the results of the chest X—ray, together with the clinical history and findings, and will recommend whether or not the case will be started on treatment. 
+
+
+3. General Guidelines on Case holding: 
+
+a. All inmates diagnosed as sputum smear positive shall start treatment within 24 hours. 
+
+b. Management of smear negative patients shall follow NTP protocol. 
+
+c. After screening, admitted/committed inmates (after arrest or transfer) who are on TB treatment shall be ensured of continuation of treatment. The DOTS Facility where the inmate was registered shall be notified by jail/prison staff or DOTS team within two (2) days. 
+
+d. Short—course regimens following the NTP guidelines shall be the mode of treatment for the different classifications and types of TB. 
+
+e. Directly Observed Treatment (DOT) shall be performed every time treatment is administered during the entire course oftreatment. DOT is non-negotiable. 
+
+f. Only trained jail/prison staff shall act as treatment partner. 
+
+g. Monitoring response to treatment thru sputum follow-up shall follow the NTP schedule. 
+
+h. Management of possible adverse drug reactions shall be the responsibility ofthe DOTS team. 
+
+
+Transfer and Release of Inmates 
+
+a. Transfer of inmates undergoing treatment shall be coordinated and properly endorsed by the DOTS Team to the receiving jail/prison. To ensure continuation oftreatment, remaining drugs shall also be endorsed to the receiving jail/prison. A preperly filled out referral form shall be used. 
+
+b. Whenever possible, transfers should be delayed: 
+- while inmate is still infectious 
+- until inmate is cured if the destination does not have services for continuation of treatment 
+
+c. Release of inmates who are on treatment shall also be coordinated by the point person and properly endorsed to the receiving DOTS Facility for continuation of treatment. A properly filled out referral form shall be used. Inmates shall be given drugs good for at least 10 days to allow time to locate the receiving DOTS Facility. 
+
+d. Released or transferred patients shall be recorded as “transfer out” in the TB register and “trans-in” in the receiving DOTS Facility. 
+
+5. Infection Control 
+
+a. Infection control measures shall be adopted in two (2) main ways(’: 
+
+1. Work practice and administrative control measures which shall include: 
+- Written infection control plan 
+- Administrative support for procedures in the plan, including quality assurance 
+- Training of staff 
+- Education of patients and increasing community awareness 
+
+2. Environmental control measures 
+
+b. Separation of smear positive cases until no longer infectious 
+
+1. When feasible, a temporary holding area shall be designated for smear positive patients. 
+
+2. To prevent overcrowding in the holding area, a repeat DSSM should be done after 2 weeks to check ifthe inmate has converted to smear negative before returning to their designated cells. 
+
+3. Smear positive patients shall remain in the holding area until the inmate has converted to smear negative. 
+
+4. The purpose of separating smear positive is to prevent transmission of TB to others. It shall be emphasized to the inmate that the separation is a preventive measure and not as a form of punishment. 
+
+c. Face Masks 
+
+1. Smear positive patients who are in the holding area shall also wear face masks. 
+
+2. TB symptomatics and smear negative patients will remain in their assigned cells. 
+
+3. TB symptomatics should be considered infectious until a diagnostic investigation is completed therefore; they should wear mask until result of the DSSM becomes available. Ifthe DSSM is negative, inmate shall no longer wear the mask except if persistently coughing. 
+
+4. Smear positives and TB symptomatics/smear negative inmates but coughing persistently shall wear face masks at all times while inside the cell except during routine inmate count. The DOTS team should inform them of the importance of wearing face masks. 
+
+d. A proper area for sputum collection shall be designated in a well ventilated area outside the cell. 
+
+e. Infection control measures shall be included. in the training of DOTS team members and otherjail staff. 
+
+6. Health Promotion 
+
+a. Health promotion activities shall be conducted to include inmates, their visitors (families and others) andjaillprison staff. 
+
+b. Aside from providing information on TB, inmates shall be made aware of and understand the importance ofthe following: 
+- correct way of collecting sputum 
+- treatment using DOT and sputum follow-up 
+- respiratory hygiene/cough etiquette 
+- how to obtain treatment should immediate transfer or release occur 
+
+C. Program Management 
+
+1. Recording and Reporting: 
+
+a. Recording shall follow the NTP protocol. 
+
+b. DOTS Service Providing Jails/Prisons shall maintain their own laboratory and TB Register for recording. 
+
+c. For DOTS Referring Units, ID cards shall be conferred with the NTP Register at the City health Office (CHO) for updating on the 2nd week ofeach month. 
+
+d. DOTS Service Providing Jails shall maintain their own Laboratory and NTP Register for recording. Quarterly reports on laboratory, casefinding and cohort analysis shall be submitted to the Infectious Disease Office (IDO) of the DOH using NTP schedule through the following channels: 
+- DOTS Service Providing Jails/Prison ———+ CHO —-—> CHDs 4+ IDO 
+- New Bilibid Prison (NBP)—-—> CHD—NCR--> IDO 
+
+2. Supervision, Monitoring and Evaluation 
+
+a. The LGU staff, CHD—NTP Coordinators and IDO staff shall supervise the implementation of the program. Together with the designated national/regional point person from BJMP and BuCor, shall conduct at least a quarterly joint supervision and monitoring visit. 
+
+b. The DOTS team shall regularly analyze data from [quarterly reports using standard program indicators and provide feedback of findings with corresponding recommendations to the staff or authorities concerned. 
+
+c. Planning and evaluation shall be done twice a year. 
+
+d. There will be three (3) stages in evaluating the program: 
+- Case finding 
+- Cohort analysis of results of sputum smear conversion at 2/3 months 
+- Cohort analysis of results of treatment outcome 
+
+IMPLEMENTING MECHANISM 
+
+ROLES AND RESPONSIBILITIES: 
+
+A. Department of Health 
+
+1. Initiate partnership with other government agencies, NGOs, private organizations and international communities involved with prisons and TB control. 
+
+2. Assist partner agencies in deveIOping their respective operational plan vis~a—vis the CUP for TB Control in the Philippines. 
+
+3. Provide technical assistance, support for drugs, laboratory supplies (consumables) and NTP recording/reporting forms. 
+
+4. Ensure the implementation by key partners/agencies at the Regional and LGU levels. 
+
+5. Conduct joint monitoring, supervision and evaluation on the implementation of the program with local and international experts. 
+
+B. Department of Interior and Local Government (DILG)—BJMP 
+
+1. Ensure the issuance of a Department Order from the DlLG for the adeption of these guidelines. 
+
+2. Designate a point person on TB activities in every jail. 
+
+3. Allocate the necessary resources as counterpart support (e.g., surgical masks, transportation expenses) for the operationalization/ implementation of the program. 
+
+4. Ensure continuation of the on—going coordination with the local health facilities of the LGUs. 
+
+5. Allow access to relevant health data in support to TB studies within prisons. 
+
+C. DILG-Bureau of Local Government Development (BLGD) 
+
+1. Issue Memorandum Circular enjoining LGUs to pass a resolution or issue an Executive Order adopting these guidelines through the Local Health Offices and to include TB Control Program as a priority concern to be incorporated in their Comprehensive Development Plans (CDP) and Local Development Investment Programs (LDIP). 
+2. Coordinate and advocate with the League of Provinces, Cities and Municipalities for their support relative to the nationwide adoption and operationalization of these guidelines at the local level.
+3. Assist the BJMP in advocating to the LGUs and districtjails to provide support to the NTP.
+4. Monitor LGU compliance on the adoption of these guidelines and integration of TB Control Program in the CDP/LDIP. 
+
+D. Department of Justice (DOJ)—BuCor/NBP 
+
+1. Ensure the implementation of these guidelines in their operating unit which shall initially be the NBP. 
+2. Designate a full—time coordinator and staff for the TB control activities. 
+3. Manage the logistics (e.g., drugs, laboratory supplies and reagents, recording and reporting forms, IEC materials) provided by DOH through the Center for Health Development (CHD). 
+4. Allow DOH and partners to this MOU access to the NBP and health-related records. 
+5. Provide additional support for NTP supplies and equipment when needed. 
+6. Prepare, analyze and submit necessary reports, data and information thru channels. 
+
+E. Philippine Tuberculosis Society Inc. (PTSI) 
+
+1. To provide personnel assistance thru PTSI branches in implementing these guidelines in partnership with the LGUs. 
+
+2. To assist in the provision of training to BJMP and BuCor personnel on TB diagnosis treatment and DOTS strategy. \ 
+
+3. To serve as a research body that will conduct a survey to determine and monitor the magnitude of TB among inmates and to do operational researches to improve management of TB in jails/prisons. 
+
+4. Participate in thejoint activities on monitoring, supervision and evaluation 
+
+
+F. DOTS Referring Jails/Prisons and DOTS Service Providing Jails/Prisons 
+
+1. Implement their operational guidelines. 
+
+2. Organize DOTS team that will develop a writte'njail/prison specific work plans for TB. 
+
+3. Designate a full—time point person who will be in-charge ofthe program. 
+
+4. Manage the logistics (e.g., drugs, laboratory supplies and reagents, recording and reporting forms, IEC materials) provided by DOH through the CHDs. 
+
+5. Allow DOH and partners to this MOU access to the facility and other health—related records. 
+
+6. Provide additional support for NTP supplies and equipment when needed. 
+
+7. Prepare, analyze and submit necessary reports, data and information thru channels. 
+
+G. City Health Ofﬁce 
+
+1. Supervise and monitor the implementation ofthese guidelines, provide technical assistance to DOTS Referring and DOTS Service Providing Jails/Prisons. 
+
+2. Provide sputum microscopy services to DOTS Referring Jails/Prisons. 
+
+3. Facilitate referrals to the TB Diagnostic Committee (TBDC). 
+
+4. Through the CHDs, provide drugs, recording and reporting forms and sputum caps to DOTS Referring Jails/Prisons. 
+
+5. Collate and submit reports thru channels as per NTP schedule.
+ 
+
+VIII. REPEALING CLAUSE 
+
+Provisions from previous issuances that are inconsistent or contrary to the provisions of this order are hereby rescinded and modified accordingly. 
+
+IX. EFFECTIVITY 
+
+This order shall take effect immediately. 
+</body>
+ 
+<sign>FRANCISCO DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle> 
+
+ANNEX A <image>figure_1.png</image>
+

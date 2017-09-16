@@ -1,0 +1,157 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+<date>12/27/1977</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 338 s. 1977</docnum>
+
+<subject>SUBJECT: Accounting Guidelines in Implementing Budget Circular No. 269 dated April 15, 1977</subject>
+
+<body>
+The following are the guidelines to be followed in implementing the provisions of Budget Circular No. 269 dated April 15, 1977 on excess income:
+
+1. All bills to patients shall be entered in the Journal of Bills rendered maintained under the General Fund.
+
+2. All collections shall be entered in the Journal of Collections and Deposits maintained under the General Fund.
+
+3. All remittances to the Bureau of the Treasury shall be to the credit of the General Fund.
+
+4. When the actual collected income exceeds the estimated income as appropriated under PD No. 1050, (or the built-in income as commonly called) a special account under the General Fund shall be opened.
+
+5. A statement of remittances to the Bureau of the Treasury shall be prepared in the form attached.
+
+6. The following accounting procedures shall be observed:
+
+A. Hospitals using decentralized accounting procedures provided under BC No. 246 dated June 30, 1975, shall prepare a journal voucher to transfer the deposit taken up under the General Fund to the special account:
+
+8-71-100-199     (XXX)
+0-91-000-0            (XXX)
+
+Copy of the journal voucher shall be furnished the Field Health Office Accounting Section, Accounting Division, Financial and Management Service, Department of Health, Manila.
+
+A journal voucher for the special account shal be prepared to take up the transfer by the Bureau of the Treasury of the Deposits from the General Fund of the department (Fund 108) to the respective special account of the hospital (Fund 151)
+
+8-70-700-0     XXX
+0-91-000-0            XXX
+
+Entry to book up the Advice of Allotment representing releases under the Special Account:
+
+0-92-301-0     XXX
+0-93-301-0     XXX    XXX
+0-90-000-0            XXX
+
+TCAA check shall be issued monthly to transfer the deposit with the Bureau of the Treasury to the PNB account opened for the purpose:
+
+8-70-300-0     XXX
+8-70-790-0            XXX
+
+The transfer of cash shall be done once a month and shall not exceed the cash disbursement ceiling issued for the month nor the amount of deposit in the Bureau of the Treasury
+
+1) Obligation of Allotment:
+
+0-90-000-0     XXX
+0-82-000-0            XXX
+
+2) Payment of obligation:
+
+0-83-000-0     XXX
+8-70-300-0            XXX
+
+3) Closing Entries:
+
+(a) To close the income account:
+
+0-91-000-0     XXX
+8-92-101-0            XXX
+
+(b) To close the unexpended allotment:
+
+0-90-000-0            (XXX)
+0-93-301-0     (XXX)
+0-92-301-0     (XXX)
+0-93-301-0            (XXX)
+
+(c) To close the legislative appropriation to current surplus unappropriated:
+
+8-92-101-0     XXX
+0-92-301-0            XXX
+
+(d) To close the obligation incurred and obligation liquidated:
+
+0-82-000-0     XXX
+0-30-000-0            XXX
+8-81-400-0            XXX
+
+B. Hospitals using the accounting procedure prescribed under BC No. 249 shall prepare a journal voucher to adjust the income account by the amount of excess income collected and deposited under the General Fund:
+
+0-91-000-0     (XXX)
+0-91-000-0            (XXX)
+
+Copy of the journal voucher shall be sent to the Regional Office. Regional Office shall correspondingly prepare a journal voucher to adjust the deposits of income taken up under the General Fund:
+
+8-71-100-199     (XXX)
+0-91-000-0               (XXX)
+
+Copy of the journal voucher shall be sent to the Field Head Office Accounting Section, Accounting Division, Department of Health. Upon receipt of notice from the Bureau of the Treasury for the amount transferred to the Special Account, the hospital shall open a separate set of books for the Special Account:
+
+0-70-700-0      XXX
+0-91-000-0            XXX
+
+TCAA check shall be issued to transfer the deposit from the Bureau of the Treasury to the PNB checking account opened for the purpose:
+
+8-70-300-0      XXX
+8-70-790-0            XXX
+
+The transfer shall be done once a month and shall not exceed the monthly cash disbursement ceiling issued by the Budget Commission nor the amount deposited in the Bureau of the Treasury. Entries to book up transaction:
+
+1) Release of allotment covering authority to incur expenses chargeable against the Special Account:
+
+0-92-301-0      XXX
+0-93-301-0      XXX   XXX
+0-90-000-0            XXX
+
+2) Obligations of Allotment:
+
+0-90-000-0      XXX
+0-82-000-0            XXX
+
+3) Liquidation of Obligations:
+
+0-83-000-0      XXX
+0-70-300-0            XXX
+
+4) Closing Entries:
+
+a) To close the unexpended balances in appropriation:
+
+0-93-301-0      (XXX)
+0-90-000-0             (XXX)
+0-92-301-0      (XXX)
+0-93-301-0             (XXX)
+
+b) To close the income:
+
+0-91-000-0      XXX
+8-92-101-0             XXX
+
+c) To close the obligation incurred and obligatios liquidated accounts:
+
+0-82-000-0      XXX
+0-83-000-0             XXX
+8-81-400-0             XXX
+
+d) To close the legislative appropriation to current surplus unappropriated:
+
+8-92-101-0      XXX
+0-92-301-0             XXX
+
+7. Collections after the transfer shall be to the credit of the General Fund.
+
+Transfer of income deposits accruing to the special account shall be done as soon as excess income is realized and deposited and upon preparation and submission of statement of remittances in the form attached and monthly thereafter until the end of the calendar year.
+</body>
+
+<sign>CLEMENTE S. GATMAITAN, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>

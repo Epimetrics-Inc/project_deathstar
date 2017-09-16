@@ -1,0 +1,20 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+<date>06/05/1981</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 132 s. 1981</docnum>
+
+<subject>SUBJECT: Delegation of authority to Dr. ALBERTO G. ROMUALDEZ, Acting Director, Research Institute for Tropical Medicine</subject>
+
+<body>
+In order to carry out efficiently and effectively the functions of the Research Institute for Tropical Medicine, Dr. ALBERTO G. ROMUALDEZ, Acting Director, is hereby authorized to sign contracts, requisitions, purchase orders, and other financial transactions relative to the implementation of activities of said Institute, not exceeding the amount of ₱100,000.00.
+
+This Order, issued in the interest of public service, is hereby declared official, confirmed, and made of record.
+</body>
+
+<sign>ENRIQUE M. GARCIA, M.D.</sign>
+<signtitle>Minister of Health</signtitle>

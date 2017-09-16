@@ -1,0 +1,304 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>09/02/2015</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2015 - 037 </docnum>
+<subject>SUBJECT: National Implementation of Health Data Standards for eHealth Standardization and Information Interoperability </subject>
+<body>
+
+ 
+I. RATIONALE 
+
+In the implementation of Universal Health Care or Kalusugan; Pangkalahatan (UHC/KP), the health sector through the leadership of the Department of Health (DOH) recognizes the necessity of using information and communication technologies (ICT) for health or eHealth as one of the enabling strategic instruments to support and facilitate the achievement of the national health system goals of better health outcomes, sustained health ﬁnancing, and responsive health system. 
+
+Guided by the Philippine eGovernment Master Plan of linking government data centers and databases to create a secure network for government information systems, and harmonize information technology systems in the public sector through the Medium-Term Information and Communication Technology Harmonization Initiative (MITHI), the Department of Health joined hands with the Philippine Health Insurance Corporation (PhilHealth) and Department of Science and Technology (DOST) in the development and implementation of the Philippine eHealth Strategic Plan (PEHSP) 2014—2020. The Plan highlights the continuous development and implementation of a harmonized National eHealth Program (N eHP), and the continuing ﬁnalization of the key milestones and strategic activities to ensure alignment and interoperability among various eHealth initiatives, programs and/or projects under the NeHP, and in accordance with the MITHI objectives. The collaboration and partnership of the stakeholders are embodied in the issuance of the Joint DOH- DOST Department Memorandum (DM) No. 2013-0200 on the Creation of a Joint National Governance on eHealth (JNGeH), which later became the default MITHI eHealth Committee or Health Cluster, and later reconstituted in April 2015 through Joint DOH-DOST DM No. 2015-0097 and 2015—0098. 
+
+One of the identiﬁed critical eHealth components to implement the projects and activities of the PEHSP is the widespread adoption of health information systems and technologies standards/health data standards (HISS/HITS/HDSS) to improve the accessibility, availability, exchange and use of medical/health information across geographical and health sector boundaries. 
+
+On 10 September 2013, the country adopted and implemented the use of health data standards through the DOH issued Administrative Order (AO) No. 2013-0025 — National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001), which provided the initial policy and guidelines for the health sector’s national implementation of health data standards for interoperability. Further, said AO sets the initial mandatory health data standards to be adopted or implemented by the entire health sector. The successful implementation of this administrative order is envisioned to promote uniformity and consistency of health data across national collections, establish a set of unique codes to serve as reference for software development, and facilitate data exchange among different application or information systems as well as aggregation of data. 
+
+ 
+
+However, the said Administrative Order, as per review of its implementation, lacks in terms of: 1) a robust governance and management structure that will oversee and operationalize the mandatory health data standards; 2) a formal change management and quality assurance protocol for establishment, adoption, implementation, and monitoring of these standards, particularly from the perspective of the end-users at various points of services; and 3) expansion, publication, and feedback mechanism on new sets or updates to the mandatory health data standards to national agencies, stakeholder organizations, and decision makers and implementers at various points of services. 
+
+In response to the above-mentioned governance and management concern, by virtue of Joint DOH-DOST DM No. 2014-0161 — eHealth Philippines National Health Data Committee, Creation of National Experts Groups on Health Data'Standards and Privacy, the reconstituted National Health Data Committee is now assumed by the National eHealth Steering Committee as a way of deﬁning the overall governance structure on eHealth, including streamlining of protocols concerning matters on health data standards. Further, given the inter-agency nature of the implementing mechanisms on health data standards, the National Health Data Standards Experts Group is created to assist the National eHealth Steering Committee in the development of relevant policies and implementing mechanisms on the adoption and implementation of national health data standards. 
+
+Thus, in order to address the absence of an ofﬁcial national framework for adoption and management of mandatory and common standards for the health sector, the National Health Data Standards Experts Group arrived at an agreement to create and formalize a standard change management protocol for recommending, adopting, implementing, and monitoring health data standards for use in all electronic health transactions to achieve information interoperability at all governance and management levels of health data and information. The agreement was forged through the creation of the National eHealth Information Interoperability Standards Change Management Protocol. Further, this Joint Administrative Order deems towards the expansion and constant updates to the mandatory health data standards for adeption and implementation by the entire health sector, as well as their consequent publication to national agencies, stakeholder organizations, and various points of services. 
+
+II. DECLARATION OF POLICIES 
+
+1. Strengthening health systems and improving efﬁciency and effectiveness in health service delivery need both operational and summary data. The operational data documents routine activities at the health provider level, whereas the summary data is used to manage national health resources, develop policies, assess performance, and determine major investments, technical assistance and programs needed to achieve national health goals. Thus, information need to be made available when needed. 
+
+2. As one nation, all health facilities need to comply with the national implementation of health data standards for interoperability to gain a true picture of the Philippine Health System, e. g. health status of the Filipino people, health issues, concerns and/or problems that can be addressed by the health sector, and others. 
+
+3. The Health Enterprise Architecture provides a holistic view of the country’s health processes/systems, information, information technology assets, and interoperability standards. It serves the guide in the development of health information systems to meet the country’s requirements and support improvements in the health systems; helps describe the state of the health information system in the country; as well as provide the roadmap for continuing growth. 
+
+4. Information and communication technologies (ICTs) can provide the means to merge different systems and facilitate sharing of data/information. Various health facilities have already adopted the use of ICTs in their operations. With the use of technologies and standards for interoperability, the national health data reporting system to the Department of Health allows data aggregation from various data sources or different health facilities’ information systems. Health facilities, according to their capacities, may implement their own systems as long as these comply with the national health data reporting standards. 
+
+
+5. This Order shall complement the following issuances, resolutions or provisions: 
+
+5.1 .National Laws 
+
+5.1.1. Republic Act 8972 or the “e-Commerce Act of 2000.”
+
+5.1.2. Republic Act 10173 or the “Data Privacy Act of 2012.” 
+
+5.2. National Strategy Guidelines 
+
+5.2.1 .Philippine Development Plan 2011-2016. 
+
+5.2.2.Philippine Digital Strategy 2011-2016. 
+
+5.2.3 eGovernment Master Plan 2013-2016. 
+
+5.2.4.Philippine eGovernment Interoperability Framework
+
+5.2.5.Integrated Government Philippines (iGovPhil).
+
+5.2.6.Philippine eHealth Strategic Plan 2014-2020
+
+5.2.7.Department of Health’s Health Enterprise Architecture. 
+
+5.2.8.Philippine Health Insurance Corporation’s Health Enterprise Architecture. 
+
+5.3.Issuances 
+
+5.3.1 .Executive Order No. 265 or the Government Information Systems Plan (GISP). 
+
+5.3.2.Joint Memorandum Circular No. 2012-01 on the Government-Wide Information and Communication Technology Harmonization Initiative (MITHI) for FY 2014-2016. 
+
+5.3.3.Memorandum Circular No. 2014-09001 on the Approval of the Philippine Electronic Government Interoperability Framework (PeGIF) Version 1.0 for Implementation by Government Agencies. . 
+
+5.3.4.Joint Department of Health and Department of Science and Technology Department Memorandum 2015-0097 on the Reorganization of the National eHealth Steering Committee, as the MITHI Health Cluster Steering Committee. 
+
+5.3.5.Joint Department of Health and Department of Science and Technology Department Memorandum 2015—0098 on the Reorganization of the National eHealth Technical Working Group. 
+
+5.3.6.Memorandum of Agreement on Management and Implementation of the Philippine Health Information Exchange and Other Related eHealth Projects, 17th March 2015. 
+
+
+5.4.International Commitments: The Philippines is a signatory to a number of global agreements such as the Millennium Development Goals, the Geneva Declaration on the World Summit on Information Society, and the 58th and 66th World Health Assembly. 
+
+III. OBJECTIVES 
+
+This Order aims to strengthen and institutionalize the national implementation of health data standards for eHealth standardization and seamless information interoperability at all governance and management levels of health data and information. 
+
+The detailed objectives are: 1. Set direction and deﬁne the overall governance and management structure on the adoption, implementation, monitoring, and compliance with national health data standards; 2. Provide the operational and management guidelines on the adoption and implementation of national health data standards through the operationalization of the National eHealth Information Interoperability Standards Change Management Protocol; and 
+
+3. Institutionalize the National eHealth Information Interoperability Standards Catalogue as the national reference directory of all health data standards for implementation across the entire health sector. 
+
+IV. SCOPE OF APPLICATION 
+
+This Order shall apply to the entire health sector, i.e. public and private sectors (national agencies and local government units, government and private health facilities, development partners, academe, research partners, civil society groups, purchasers of healthcare, producers, distributors, ﬁnancial services, healthcare providers, sellers, donors, and other stakeholders in the health sector). 
+
+V. DEFINITION OF TERMS 
+
+For purposes of this Order, the following terms are deﬁned as follows: 
+
+  <image>table_1.png</image>
+ <image>table_2.png</image>
+ 
+
+VI. GENERAL GUIDELINES 
+
+l. The National eHealth Steering Committee (NeHSC), the National eHealth Technical Working Group (TWG), and the National Health Data Standards Experts Group (Standards EG) in collaboration with other eHealth Experts Groups, Teams and stakeholders shall act in accordance with the most recent guidelines and standard operating procedures as stipulated in the National eHealth Information Interoperability Standards Change Management Manual as duly approved by the Secretaries of the Department of Health (DOH) and the Department of Science and Technology (DOST), and President/CEO of PhilHealth such as: 
+
+1.1. Submission and Collection of Action Requests for Addition and/or Update of Standards in the Standards Catalogue 
+
+1.2. Standards Change Management Protocol for Addition and/or Update of Standards in the Standards Catalogue 
+
+1.3. Implementation Speciﬁcations 
+
+1.4. Adoption of Standards for Implementation 
+
+1.5. Monitoring and Evaluation of Standards Ongoing Implementation 
+
+1.6. Responding to Action Requests for Addition and/or Update of Standards 
+
+1.7. Appeal Procedures 
+
+1.8. Publication of the Standards Catalogue 
+
+1.9. Management of Repository of National Health Data Standards Artifacts 
+
+2. The National eHealth Steering Committee shall serve as the overarching committee to oversee and set direction in the continuous development and/or improvement, adoption, operational maintenance, and monitoring of the common and mandatory eHealth information interoperability standards for implementation. 
+
+3. The National eHealth Technical Working Group shall serve as the intermediary strategy team for the National eHealth Steering Committee. 
+
+4. The National Health Data Standards Experts Group, in collaboration with other eHealth experts groups and teams, particularly the Terminology Asset Management Team, shall assist the NeHSC and the TWG on the development, execution, monitoring and evaluation of national implementing policies and guidelines relating to health data standards. 
+
+5. The eHealth Program Management Ofﬁce shall serve as the overall secretariat for all the activities related to the adoption and implementation of national health data standards. 
+
+6. Revisions on the composition, functions, and status of the Committees and Experts Group shall be updated accordingly through the issuance of an appropriate Joint Memorandum: 
+
+-Non-member stakeholders shall be invited by the Committees and Experts Group on the basis of their acknowledged expertise to speciﬁc matters that may be discussed. 
+
+7. All standards for implementation (e. g. addition of new standards, and update of existing standards) and integration into the eHealth Standards Catalogue shall require approval of the National eHealth Steering Committee through the National eHealth Technical Working Group. 
+
+VII. SPECIFIC GUIDELINES 
+
+1. Composition and Functions of the Committees and Experts Group 
+
+1.1. National eHealth Steering Committee 
+
+Composition: 
+ <image>table_3.png</image>
+  <image>table_4.png</image>
+
+
+ 
+
+Duties and Responsibilities: 
+
+1. Oversee the expansion and maintenance of the National eHealth Information Interoperability Standards Catalogue, and the development and implementation of the standards integration design among different systems and/or data sources. 
+
+2. Review, and approve recommendations on standards for implementation, and the required resources to support their adoption, implementation, operational maintenance, monitoring and evaluation, as endorsed by the Standards EG through the TWG. 
+
+3. Review and approve recommendations on additional members to the Standards Sub— Committees, and the activities of the Standards EG through the TWG. 
+
+4. Review and resolve issues, concerns and/or problems on development, adoption, and implementation of the standards recommendations elevated by the TWG. 
+
+5. Provide opportunities to collaborate with different stakeholder agencies to improve the eHealth Standards Catalogue, in contribution to the overall improvement of national health data collection and reporting mechanisms. 
+
+6. Monitor progress and performance of the Standards EG through the TWG. 
+
+7. Review and approve programs to improve, maintain, share, and integrate national health information. 
+
+8. Provide support in increasing awareness and use of eHealth information interoperability standards for program planning, policy development and health decision making. 
+
+9. Source out ﬁnancial and other resources to support the Standards EG activities, through the TWG, when needed and appropriate.
+ 
+
+1.2 National eHealth Technical Working Group 
+
+Composition: 
+
+
+  <image>table_5.png</image>
+
+
+
+Duties and Responsibilities: 
+
+
+1. Oversee the activities, progress, and performance of the Standards EG in behalf of the NeHSC. 
+
+2. Review and validate proposed standards recommendations and the required implementation resources for approval by the NeHSC. 
+
+3. Review, and resolve issues, concerns andlor problems on the development, adoption, and implementation of the eHealth Information Interoperability Standards recommendations at their level. 
+
+4. Present the proposed ﬁnal standards recommendations, and required implementation resources for approval to the NeHSC, in behalf of the Standards EG. 
+
+5. Elevate unresolved issues, concerns and/or problems on the development, adoption, and implementation of the eHealth Information Interoperability Standards recommendations to the NeHSC for resolution, decision, or approval. 
+
+6. Provide support in increasing awareness and employment of mandatory eHealth information interoperability standards for program planning, policy development and health decision making. 
+
+7. Review and decide on initial recommendations on additional members to the Standards Sub-Committees, and the activities of the Standards EG in behalf of the NeHSC. 
+
+8. Source out ﬁnancial and other resources to support the Standards EG activities when needed and appropriate. 
+
+
+1.3 National Health Data Standards Experts Group 
+
+Composition: 
+
+
+ <image>table_6.png</image>
+ 
+Duties and Responsibilities
+
+1. Spearhead and provide directions in the maintenance and updating of the National eHealth Information Interoperability Standards Catalogue. 
+
+2. Conduct technical reviews and classify proposed standards from other national eHealth experts groups and teams, particularly the Terminology Asset Management Team, and public and private stakeholder organizations for inclusion to the Standards Catalogue taking into account changing national eHealth climate, national strategic context and direction, stakeholders” needs and commitments, level of implementation efforts and compliance to requirements, and operational urgency and readiness for implementation. 
+
+3. Submit, validate and seek approval from NeHSC through the TWG of the standards for inclusion and implementation including the resources needed to implement these. 
+
+4. Finalize the approved standards for implementation, including their corresponding metadata structures, semantic components, and implementing speciﬁcations, and the required resources. 
+
+5. Evaluate, address or resolve complaints, issues, concerns and/or problems that may affect the addition or updating and implementation of the standards and elevate unresolved issues or complaints to the TWG, and to the NeHSC, if deemed necessary, for appropriate resolution, or decision. 
+
+6. Help monitor the status of standards’ adoption and assess the progress of implementation of these standards at the points of service at all stages of deployment and implementation, and identify choke points and recommend these solutions to the TWG. 
+
+7. Approve regular reports to be submitted to the NeHSC on the progress of adoption, deployment and implementation of the standards, including policy and unresolved operational issues. 
+
+8. Help provide channels through which emerging locally and internationally developed standards shall be reviewed for inclusion and/or updating or exclusion from the Standards Catalogue. 
+
+9. Collaborate with international standards developing organizations and national standards bodies, as well as with nationally recognized standards development/setting organizations (SDO) and non-SD03 that have created and produced standards. 
+
+10. Lead the development of implementing guidelines, advisories, and other issuances to support and promote the adoption or implementation of eHealth information interoperability standards. 
+
+11. Recommend creation of Standards sub-committees as necessary to undertake detailed or speciﬁc works including the identiﬁcation of pertinent ofﬁces or organizations or experts to be included in these sub-committees subject to the approval of the NeHSC through the TWG. 
+
+12. Help pursue the occurrence of a national and local level collaborative undertaking including development and tapping of appropriate and relevant resources for supporting implementation and promoting the use of the eHealth information interoperability standards in the broader Philippine health information arena, in partnership with other national eHealth Experts Groups and Teams and pertinent government and private institutions including medical and paramedical specialty association, boards and groups. 
+
+eHealth Program Management Ofﬁce 
+
+Duties and Responsibilities: 
+
+1. Provide efﬁcient and effective administrative support to meetings and other activities such as seminars, workshops, fora, symposia, and other forms of discussion.
+
+2. Maintain a history log of all activities done. 
+
+3. Organize and keep all records, manuals, and other related documents. 
+
+4. Do minute-takings and documentations, and dissemination. 
+
+5. Follow up on action items and related documents or correspondences. 6. Establish linkages to facilitate the ﬂow and exchange of information. 
+
+2. Health Data Standards - The list of mandatory health data standards for eHealth standardization and information interoperability shall be expanded and constantly updated to accommodate and meet the changing clinical and business process, data and information requirements of the entire health sector. Further, each health data standard being implemented shall be monitored for continuous necessity, relevance, and organizational impact in its implementation at the various points of service. 
+
+3. The complete and updated list shall be in accordance with the most recent register of health data standards speciﬁed in the National eHealth Information Interoperability Standards Catalogue as duly approved by the Secretaries of DOH and DOST, and the President/CEO of PhilHealth through the TWG which shall be made available electronically, or otherwise through the DOH- KMITS. 
+
+VIII. ROLES AND RESPONSIBILITIES 
+
+1. Department of Health, Philippine Health Insurance Corporation, Department of Science and Technology, Commission on Higher Education and University of the Philippines Manila 
+
+a. Jointly provide the necessary resources to support the adoption and implementation of eHealth information interoperability standards. 
+
+b. Jointly provide technical assistance and guidance on eHealth information interoperability standards. 
+
+c. Establish coordination and networking with concerned agencies and other stakeholders in planning, implementation, monitoring and evaluation of mandatory eHealth information interoperability standards adoption. 
+
+d. Jointly review and approve eHealth information interoperability standards for adoption. 
+
+e. Distribute, disseminate and/or publish the standard code sets and modiﬁcations made to the eHealth information interoperability standards through the National eHealth Information Interoperability Standards Catalogue. 
+
+f. Provide relevant training to build capacity or capability to the TWG, the Standards EG, other national eHealth experts group and teams, and pertinent government and private institutions involved in the implementation of mandatory eHealth information interoperability standards. 
+
+2. Philippine Statistics Authority, DOH Attached Agencies, and other Medical and Civil Society Organizations 
+
+a. Provide technical expertise and subject matter inputs on all required deliverables (e. g. policy notes, operational guidelines, standards catalogue, standards change management protocol/manual) pertaining to the development, adoption and implementation of the eHealth information interoperability standards as informed by the TWG and the NeHSC. 
+
+b. Participate in all requests for assistance, and response and work signiﬁcantly with the Standards EG in development, adoption and implementation of the eHealth information interoperability standards as informed by the TWG and the NeHSC. 
+
+3. Stakeholders (DOH Hospitals, Local Health Facilities, Public and Private Sector) a. Comply with approved and applicable common and mandatory eHealth information interoperability standards.
+
+b. Ensure the integrity, security, and conﬁdentiality of data and information being maintained, transmitted or exchanged. 
+
+c. Report issues, concerns, and/or problems that may arise in the improvement, implementation and operational maintenance of the eHealth information interoperability standards. 
+
+d. Provide relevant inputs to ﬁrrther improve the adoption and implementation of the eHealth information interoperability standards. 
+
+IX. OPERATIONAL BUDGET 
+
+The budget required to implement this Order shall be sourced out from the Ofﬁce of the Secretary of Health, or any available funds under DOH, and shall be managed by the Knowledge Management and Information Technology Service of the DOH. 
+
+X. REPEALING CLAUSE 
+
+All provisions of Administrative Order No. 2013-0025, and Joint DOH—DOST Department Memorandum 2014-0161 and 2014-0161a that are inconsistent with this Administrative Order are hereby rescinded and modiﬁed accordingly. 
+
+XI. SEPARABILITY CLAUSE 
+
+If any provision of this Order is declared invalid, the other provisions not affceted thereby shall remain valid and subsisting. 
+
+XII. PUBLICATION AND EFFECTIVITY 
+
+This Order shall take effect upon approval/signing by the Secretary of Health, and ﬁfteen (15) days after its publication in a newspaper of general circulation. 
+
+</body>
+
+<sign>JANETTE P. LORETO-GARIN, M.D., MBA-H</sign>
+<signtitle>Secretary of Health</signtitle>
+
+

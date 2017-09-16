@@ -1,0 +1,117 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+ 
+<date>May 19, 2009</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No.2009-0014</docnum>
+
+<subject>SUBJECT: Guidelines for the DOH Integrated Drug TestOperations and Management Information System (IDTOMIS) Subscription/User Fee Collection and Utilization</subject>
+
+<body>
+I.BACKGROUND/RATIONALE 
+
+The Drug Test Operation and Management Information System (DTOMIS) has been operational since November 2003 using the DOH own resources and ICT infrastructure. With the goal of improving the interim solution, the DOI-I requested and was provided a grant from the e-Government Fund with the condition that the project will be self sustaining to maintain and regularly update the system without additional fund allocation. 
+
+To rationalize fees and ensure sustainability and maintenance of the system, various reviews of the current transactions of Drug Test Laboratories (DTLs) and 
+
+consultations were undertaken and a business plan was formulated and approved by DOH. 
+
+Stipulated in Section 4 of Dangerous Drugs Board Regulation No. 8 series of 2007 entitled “Amending Board Regulation No. 2 series of 2003 “Implementing Rules and Regulations Governing Accreditation of Drug Testing Laboratories in the Philippinesm is the general provision on the usage of the IDTOMIS user fee collection. 
+
+Moreover, the Dangerous Drugs Board Regulation No. 9 series of 2007 paragraph 3 states that “Whereas, the Integrated Drug Testing Operations Management and Information System, which was adopted by the DOH and approved by the DDB to gather data on the DTLs nationwide, will be operationalized next year and its constant maintenance will be partly funded by the subscription fees paid by the DTLs” 
+
+In view of the above—mentioned premises, the DOH shall be exacting user fees for the IDTOMIS transactions 
+
+ 
+II. OBJECTIVES 
+
+This Administrative Order has the following objectives: 
+
+1. Prescribe subscription/user fee for drug testing transactions uploaded to the DOH IDTOMIS Central Database 
+
+2. Provide guidelines in the utilization of the IDTOMIS fees 
+
+III. SCOPE 
+
+This Order shall apply to all government entities and private persons whether natural or juridical operating Drug Test Laboratories regulated by the Bureau of Health Facilities and Services and the Centers for Health DeveIOpment. 
+
+IV. DEFINITION OF TERMS 
+
+A. Transaction shall be considered as any record submitted to the DOH database regardless of result. 
+
+B. Subscription/ User Fee a fee prescribed for the connection and transmission of IDTOMIS transactions. 
+
+C. BHFS the Bureau of Health Facilities and Services, regulatory arm of DOH for Drug Test Laboratories, Drug Abuse Treatment and Rehabilitation Centers and other Health Facilities 
+
+D. CHD refers to the Center for Health Development, the DOH field offices that serves as the frontline support for the implementation of IDTOMIS 
+
+E. CO refers to the Department of Health Central Ofﬁce 
+
+F. DTL/DTC refers to Drug Test Laboratories/Drug Test Centers that apply for either a License to Operate (Hospital-Based) or a Certificate of Accreditation. These are the entities responsible for using the IDTOMIS software. 
+
+G. IDTOMIS refers to the Integrated Drug Test Operation and Management Information System, that automates the processes from accreditation, drug test and rehab operations, quality assurance and monitoring 
+
+V. GUIDELINES AND PROCEDURES 
+
+A. Speciﬁc Guidelines 
+
+1. A subscription/user fee amounting to Php30.00 shall be paid for each transaction uploaded to the DOH IDTOMIS Central Database. 
+
+2. The user fee shall be paid every ﬁfteenth (15th) day and end of each month. 
+
+3. User fee bill shall be sent thru the IDTOMIS website ﬁve (5) days before the due date. If payment due date falls on a Saturday or Sunday, the bill can be settled the following working day. 
+
+4. It is the responsibility of the DTL owner and/or DTL administrator to heck the bill regularly. 
+
+5. Payment can be made to the DOH or CHD cashier or to any DOH authorized payment facility. 
+
+6. A delay or non-payment of user fee on or before the prescribed due date shall be a ground for automatic disconnection from IDTOMIS the following day without prior notice. 
+
+7. Disconnected DTLs shall be required to pay a corresponding reconnection fee amounting to Phpl,000.00. 
+
+8. Reconnection of DTLs to IDTOMIS shall be processed within one (I) to two (2) working days. 
+
+9. The Bureau of Health Facilities and Services shall review and revise the schedule of fees on a regular basis subject to consultation with concerned parties/sectors (as needed) and the approval of DDB. 
+
+B. IDTOMIS Fund Utilization 
+
+The IDTOMIS Fund shall be used as follows, subject to the usual government accounting and auditing rules and regulations: 
+
+1. Information and Communication Technology Infrastructure Maintenance 
+a. Recurring costs for the Internet Service Provider (ISP) maintenance 
+b. Hardware/Software Maintenance 
+
+2. Conﬁrmation of Results — checking of screening positive results 
+
+3. Subsidy for licensing, accreditation, monitoring and fact-ﬁnding activities 
+
+4. Hiring of additional contractual personnel for Help Desk and/or System / Software Maintenance 
+
+5. Development and/or Implementation of other programs related to Drug Abuse Prevention, Control and Treatment 
+
+6. Subsidy for Capability Building for implementing agencies namely, Information Management Service, National Reference Laboratory, Bureau of Health Facilities and Services, Ofﬁce for Special Concerns and Centers for Health Development 
+
+7. Maintenance and support to Rehabilitation facilities 
+
+8. Purchase, upgrade and maintenance of Gas Chromatograph Mass Spectrometer (GCMS) machine 
+
+C. PAYMENT OF CONFIRMATORY LABORATORIES 
+
+1. All Screening Drug Test Laboratories shall have a Memorandum of Agreement with one Confirmatory Laboratory preferably nearest to their locations. 
+
+2. Confirmatory Laboratories shall have a Memorandum of Agreement with the Department of Health in order to facilitate, among others, payment to confirmatory laboratories or their services to screening Drug Testing Laboratories (DTLs). 
+
+3. The DOH shall pay only DOH accredited Confirmatory Laboratories upon submission of requirements to DOH. 
+
+4. Payment of Confirmatory Laboratories shall start after DOH has generated enough buffer funds from the subscription/user fee collection. A separate memo informing concerned parties shall be provided upon its commencement. 
+
+VI. EFFECTIVITY 
+
+This Order shall take effect fifteen (15) days after its approval and publication in the official gazette or newspaper of general circulation. 
+</body>
+ 
+<sign>FRANCISCO DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle> 
+

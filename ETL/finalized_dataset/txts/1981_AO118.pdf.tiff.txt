@@ -1,0 +1,35 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+<date>01/08/1981</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 118 s. 1981</docnum>
+
+<subject>SUBJECT: Supplementing Administrative Order No. 81, 88, 94, 96-A, 100, 100-A, 104-A and 109, all series of 1980: Re-authorized ceiling of drugs and medicines that can be kept in stock by hospitals and sanitaria.</subject>
+
+<body>
+This Order is being issued to supplement Administrative Orders No. 81, 88, 94, 96-A, 100, 100-A, 104-A and 109, all series of 1980, fixing the ceiling of drugs and medicines that can be maintained in stock by hospitals at any time including undelivered purchases to include the hospitals named hereunder.
+
+The ceiling hereby fixed are based on the submitted request/average quarterly consumption of drugs and medicines.
+
+1. Aurora Memorial Hospital - ₱ 65,000.00
+2. Barlig Emergency Hospital - 38,000.00
+3. Batangas Regional Hospital - 120,000.00
+4. Corazon Locsin Montelibano Memorial Hospital - 160,000.00
+5. Isabela Emergency Hospital - 60,000.00
+6. Kolambugan General Hospital - 52,500.00
+7. Lupon Emergency Hospital - 28,000.00
+8. Pio Duran Memorial Hospital - 144,000.00
+9. Puerto Princesa Hospital - 47,000.00
+10. San Jose General Hospital (Batangas) - 26,000.00
+11. Tobias Fornier Memorial Hospital - 36,000.00
+12. Tumauini General Hospital - 50,000.00
+13. Valladolid Emergency Hospital - 32,000.00
+
+</body>
+
+<sign>ENRIQUE M. GARCIA, M.D.</sign>
+<signtitle>Minister of Health</signtitle>

@@ -1,0 +1,197 @@
+<date>10/21/1997</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 24-A s., 1997</docnum>
+
+<subject>SUBJECT: Guidelines in the implementation of Hospital-Based TB Control Program under the Hospitals as Centers of Wellness Program</subject>
+
+<body>
+
+A significant proportion of TB cases seek assistance from the hospitals. The first National TB Prevalence Study showed that 23% of TB symptomatic visit the hospitals. Based on the data gathered by the Hospital Operation and Management Services-DOH in 1997, TB ranks as the number two cause of deaths among DOH—retained hospitals, fifth as the reason for discharges and seventh as cause of consultations. Recognizing the important role of hospitals in the identification and management of TB cases, the TB Control Service (TBCS) coordinated with the Hospitals as Centers of Wellness Program (HCWP) and initiated the process of systematizing and strengthening the services being provided by the DOH-retained hospitals to TB symptomatic and TB patients.
+
+This Order defines how the retained hospitals should participate in the implementation of National TB Control Program (NTP) which is one of the flagship programs of the Department of Health, under HCWP.
+
+
+1. DEFINITION OF TERMS:
+
+1.1 Retained Hospital — hospital under the direct supervision of DOH
+
+1.2 Physician NTP Coordinator - any licensed physician connected with the hospital regardless of specialty but preferably internal medicine or family medicine.
+
+1.3 TB Symptomatic - a person manifesting cough for two weeks or more or in combination with one or more of the following signs and symptoms: fever, progressive weight loss, hemoptysis or recurrent blood streak sputum, chest and/or back pains not referable to musculo-skeletal disorder and others (tiredness, loss of appetite, night sweats). 
+
+1.4 TB patient - a person diagnosed as one suffering from tuberculosis based on laboratory (sputum examination for AFB, radiological findings suggestive of tuberculosis) and/or histologic examination.
+
+1.5 Pulmonary Smear Positive Patient - a person whose sputum microscopy examination exhibits the tubercle bacilli.
+
+1.6 Pulmonary Smear Negative Patient - a person whose sputum microscopy examination exhibits no tubercle bacilli but with radiological findings suggestive of TB.
+
+1.7 Extra—Pulmonary - a patient with tuberculous lesions in areas other than the lungs.
+
+1.8 New Case - smear (+) and/or chest x—ray (+) who had never been treated for TB or one who had received anti-TB drugs for less than one month.
+
+
+2. COVERAGE 
+
+These guidelines shall cover all DOH retained hospitals who will implement the hospital based NTP under the Hospitals as Centers of Wellness Program.
+
+
+3. ORGANIZATIONAL SET-UP OF HOSPITAL BASED NTP
+
+3.1 A TB Committee shall be organized upon the recommendation of the respective head of offices/departments and which shall be headed by the designated Physician NTP Coordinator. This Committee shall be under the direct supervision of the Chairman of the Preventive, Promotive Program Committee.
+
+3.1.1 Composition:
+
+a. Physician NTP Coordinator
+b. Nurse Coordinator
+c. Medical Technologist
+d. Social Worker
+e. OPD Coordinator
+f. HEPO
+
+3.1.2 Functions
+a. To oversee the implementation of TB Control Program in the hospital.
+
+b. To prepare plan and program with corresponding budget for inclusion in the HCWP finding of the hospital.
+
+c. To develop a mechanism to ensure patient’s compliance to treatment. 
+
+c. To establish a functional two—way referral system between hospital and the ﬁeld health units/private sector.
+
+d. To develop a scheme of ensuring a regular and adequate NTP drugs, reagents and supplies.
+
+e. To collaborate and coordinate with other government offices, NGOs and LGUs for an effective and sustainable program implementation.
+
+f. To ensure continuous staff development on TB Control Program.
+
+h. To create a functional TB audit within the hospital.
+
+i. To submit accomplishment report including targets and budget utilization report.
+
+3.2 A TB Clinic shall be part of the Outpatient Department (OPD) activities. It shall function at least once a week and whenever possible, it shall be manned by part—time staff, composed of at least one physician, one nurse and one health educator. The clinic shall manage TB cases.
+
+
+4. POLICIES AND PROCEDURES
+
+4.1 On TB Prevention
+
+In accordance with the policies and procedures of the Expanded Program of Immunization (EPI), BCG vaccination shall be given by the Department of Pediatrics to all new-born delivered in the hospital except those who are sick. However, they maybe vaccinated just before discharge.
+
+Recording and reporting of these activities should be as prescribed by the EPI.
+
+4.2 On Case Finding 
+
+4.2.1 All persons, whether seen at OPD or ward, with cough of two weeks or more or associated with any of the following signs and symptoms shall be suspected as having tuberculosis:
+
+a. Fever
+b. Hemoptysis or recurrent blood streaked sputum
+c. Progressive weight loss
+d. Chest and/or back pains not referable to musculo skeletal disorder
+e. Others (tiredness, loss of appetite, night sweat)
+
+4.2.2 All identified TB symptomatic should undergo sputum microscopy. Three specimens (on the spot, early morning and another on the spot) shall be collected and sent to the hospital laboratory for sputum examination.
+
+4.2.3 TB symptomatic with three sputum negative results and who wish to avail of free x-ray examination should be referred to the TB Clinic for further assessment before referring them for chest x-ray examination.
+
+4.2.4 For those walk-in and in-patients (non-TB) with concomitant x-ray findings suggestive of Pulmonary Tuberculosis, a sputum examination is required prior to enrolment in the NTP. Likewise, for patients with extra—pulmonary tuberculosis, official pathologic report, chest x—ray and/or other diagnostic procedures should be submitted.
+
+4.3 On Treatment and Case Finding
+
+4.3.1 All diagnosed TB cases shall be referred to TB clinic for pre-treatment assessment and evaluation.
+
+4.3.2 TB cases enrolled under the program shall follow the NTP prescribed treatment regimen as follows:
+<image>figure_1.png</image>
+
+4.3.3 TB patients who are conﬁned at the hospital shall be referred to the TB Clinic. Referring Physician from various departments should accomplish referral slip and provide results of laboratory examination relative to TB. Patient shall be assessed, counselled and registered. Anti—TB drugs shall be given weekly by the TB clinic in accordance with the hospital and NTP policies.
+
+4.3.4 TB patients who are for discharge shall be referred to the TB Clinic. Discharge summary, referral slip and photocopy of laboratory results shall be given to the NTP Coordinator.
+
+4.3.5 TB patients, whether discharged or from OPD, shall be enrolled in the hospital-based NTP if treatment compliance is ensured. This implies that (1) the patient agrees with the treatment policies and strategies, (2) there is enough anti—TB drugs for the entire duration of treatment and (3) there is adequate and trained manpower to provide the necessary case holding services including defaulter tracing. The number of TB cases handled by the clinic must be enough to ensure that at least 85% of cases are cured or have completed treatment. If treatment compliance is not ensured, then the patient must be referred to the health center nearest his residence.
+
+4.3.6 For enrolled TB cases, a treatment card is opened by the TB clinic staff and patient is given an NTP ID card. He is also listed in the NTP TB Register.
+
+4.3.7 Patients shall collect their drug supply from the TB clinic every week.
+
+4.3.8 All treatment failure and relapse cases shall be placed under directly observed treatment strategy until sputum is converted to negative. If this could not be done by the hospital, they should be referred to health centers.
+
+4.3.9 Patients who fail to come on the scheduled date must be retrieved as soon as possible by the Nurse or HEPO.
+
+4.3.10 Discharged TB cases who shall be referred to health center nearest their residence shall be provided with referral slip, photocopy of laboratory examinations and two-week supply of drugs.
+
+4.3.11 To monitor response to treatment patients shall undergo sputum examination on the following schedules:
+
+New smear positive cases - end of 2nd, 4th & 5th month
+Retreatment / relapse cases - end of 3rd, 5th and 7th month
+X-ray positive cases - end of 2nd month and end of treatment
+
+Monitoring of extra-pulmonary TB cases shall be in accordance with agreed protocol within the hospital.
+
+4.3.12 At the end of the prescribed duration of treatment, patients shall be declared cured based on laboratory results and assessment of the patient by the NTP coordinator/attending physician.
+
+4.4 Health Education/Community Involvement
+
+4.4.1 The HEPO or hospital staff who is trained/experienced in health counselling should be assigned in hospital wards and OPD to render counselling services, specially on the importance of treatment compliance.
+
+4.4.2 All hospital personnel should be advocates of NTP.
+
+4.4.3 TBCS and DIRFOs shall provide IEC materials to the hospitals. Hospitals are also encouraged to develop their own educational materials.
+
+4.4.4 Community involvement shall be highly encouraged through organizations/clubs which are to be composed of patients, families and health staff which in turn are to be properly guided and supervised by the TB committee; thereby, providing opportunities for people participation. 
+
+4.5 On Supervision, Monitoring and Evaluation
+
+4.5.1 Monitoring/supervision of hospital based NTP shall be the responsibility of TBCS, Technical Service Group (TSG) of HCWP-NTP, Regional NTP Coordinator and the hospital based NTP coordinator. The latter shall be responsible for internal monitoring/supervision of NTP activities in the hospital.
+
+4.5.2 On a quarterly basis, the TSG of HCWP-NTP and or the Regional NTP coordinator shall conduct monitoring/supervisory visit to DOH—retained hospitals. Monitoring report shall be submitted to the TB Control Service copy furnished the TSG-HCWP.
+
+4.5.3 The hospital NTP coordinator shall participate in the regional NTP consultative workshop to evaluate the program and identify problems and issues and how these should be tackled.
+
+4.5.4 Annual performance report shall be submitted to the hospital chief, copy furnished DIRFO, TBCS and TSG-HCWP.
+
+4.6 On Logistics
+
+4.6.1 Anti-TB drugs and NTP supplies allocated to DOH—Retained Hospitals shall be based on their submitted quarterly accomplishment reports and current inventory of NTP commodities. Priority for the NTP drugs shall be Category I and 11.
+
+4.6.2 Drugs and Supplies for hospitals in NCR shall be directly provided by the TBCS. In the regions, it will be the responsibility of the DIRFOs to provide supplies to the DOH hospitals. A lead time of at least two months must be properly observed by the requisitioning hospital in the acquisition of drugs and supplies.
+
+4.6.3 A quarterly inventory report on stocks/balances of NTP commodities shall be prepared by the NTP coordinator and submitted to TBCS or DIRFOs. 
+
+4.6.4 Storage and warehousing of NTP drugs and supplies allocated to DOH hospitals shall be under the responsibility of the NTP coordinator. The NTP Coordinator shall notify the supply officer and chief pharmacist upon receipt of these drugs for proper recording and reporting.
+
+4.7 On Records and Reports
+
+4.7.1 TB symptomatic examined shall be recorded at the TB laboratory register which shall be maintained by the designated TB Microscopist.
+
+4.7.2 All TB patients enrolled in the program shall have a treatment card, identification card and they shall be recorded in the NTP TB register.
+
+4.7.3 Reports such as the Quarterly Retrospective Cohort, Quarterly Accomplishment Report on Case Finding and Treatment should be submitted to DIRFO / TBCS.
+
+4.7.4 It is the responsibility of the NTP coordinator to maintain the NTP records, drug inventory and referral slip.
+
+4.7.5 Reports shall be consolidated and analyzed by the hospital and regional NTP coordinators for feedback to hospital chief, DIRFO TBCS-DOH  and TSG-HCWP quarterly.
+
+4.8 On Referral System
+
+4.8.1 Patients who are to be referred to their respective RHU or other Health Institutions for continuation of treatment shall be provided with the following:
+
+a. Two referral slips properly filled-up, one to be retained at the RHU/ clinic and the other one to be returned to the referring hospital within one month.
+
+b. Photocopy of properly and completely filled—up clinical treatment card of patient to be endorsed to the referred center.
+
+c. NTP identification card (to remain with the patient)
+
+4.8.2 TB patients referred by RHUs or other health facilities shall be assessed by the Physician NTP coordinator and provided appropriate services.
+
+4.9 On Research and Training
+
+Researches on TB should be encouraged either for the improvement of treatment of TB cases or identifying future program direction.
+
+All hospital staff involved in any aspect of this program must be trained on the technical and administrative aspect of NTP.
+
+To enable us to control this major public health problem, everybody is enjoined to observe the above guidelines.
+
+This Order shall take effect immediately.
+
+</body> 
+<sign>CARMENCITA NORIEGA-REODICA, MD, MPH, CESO I</sign>
+<signtitle>Secretary of Health</signtitle>

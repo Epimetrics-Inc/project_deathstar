@@ -1,0 +1,144 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>09/19/2012</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No.2012— 00017 </docnum>
+<subject>
+SUBJECT: Guidelines on the Use, Retention and Storage of Residual Dried Blood Spots From Newborn Screening </subject>
+<body>
+
+
+I. Rationale 
+
+The introduction of Newborn Screening (NBS) in the Philippines in 1996 and the enactment of the Newborn Screening Act in 2004 are signiﬁcant milestones in the Philippine health sector. Since then, the National Comprehensive Newborn Screening System has been developed and in the course of its implementation has collected over 2.5 million ﬁlter cards containing residual dried blood spots (DBS) currently in storage at the various Newborn Screening Centers. These residual DBS obtained from newborn screening have generated interest here and around the world as objects of public health research. Likewise, maintenance costs and space requirements of these residual DBS have risen. In this light, this Administrative Order is being issued. 
+
+11. Objective 
+
+To set the guidelines for the retention, storage and use of residual DBS and to ensure that the conﬁdentiality and privacy interests attached to the residual DBS are taken into consideration. 
+
+III.Scope and Coverage 
+
+This Administrative Order applies to all implementers of the Newborn Screening Program, both public and private, research and academic institutions. 
+
+IV. Definition of Terms 
+
+1. Residual Dried Blood Spots (DBS) refers to the dried blood spot materials remaining after samples for newborn screening have been punched out. 
+
+2. Newborn Screening Data Card refers to the portion of the ﬁlter card that contains all the identifying and demographic data of the patient accompanying the dried blood specimens. 
+
+
+3. Newborn Screening Reference Center (NSRC) refers to the central facility at the National Institutes of Health that deﬁnes testing and follow-up protocols, maintains an external laboratory proﬁciency testing program, oversees the national testing database and case registries, assists in training activities in all aspects of the program, oversees content of educational materials and acts as the Secretariat of the Advisory Committee on Newborn Screening. 
+
+4. RA 9288: Newborn Screening Act of 2004 refers to the act promulgating a comprehensive policy and a national system for ensuring newborn screening. 
+
+5. RA 9470: National Archives of the Philippines Act of 2007 refers to the policy that enforces proper management, control and regulation of record disposition in all government ofﬁces/institutions.
+
+6. Records Disposition Schedule refers to document prepared and submitted by the Newborn Screening Reference Center to the National Archives that governs the disposition of all the records of the National Comprehensive Newborn Screening System. 
+
+V. Policies and Procedures 
+
+A. General Guidelines 
+
+1. All residual DBS shall be stored as long as possible and may be retrieved for non- screening purposes. 
+
+
+2. All newborn screening data shall be secured to protect the privacy of the newborn and its family. 
+
+
+3. Should the need arise, all residual DBS and data cards shall be disposed of so that the conﬁdentiality of information is assured. 
+
+4. Residual DBS shall be available for screening—related and non-screening purposes. 
+
+B. Speciﬁc Guidelines 
+
+1. Storage of Residual DBS and Data Cards 
+
+a) All residual DBS shall be placed under the custody of the Newborn Screening Reference Center (NSRC) at the University of the Philippines National Institutes of Health. 
+
+b) Residual DBS, with a unique laboratory identiﬁcation number, shall be stored in a secure and centralized storage facility. Residual blood spots shall be stored in a low humidity environment at 4°C or lower. 
+
+c) All samples shall be stored as long as possible, subject to space limitations and the NSRC’s policy on disposal. 
+
+d) Upon receipt, all Newborn Screening Data Cards shall be encoded, veriﬁed, and the data maintained in a highly secure database. 
+
+2. Retention of Newborn Screening Data 
+
+a) Multiple (electronic) copies of stored data shall be maintained. 
+
+b) Stored data shall include all information contained on the Newborn Screening Data Card and newborn screening results. 
+
+c) The NSRC shall conduct periodic reviews of its computing practices to help ensure that the information collected will remain accessible and readable in the future. The review may address computing issues including data storage, backup, retrieval and management, technological obsolescence, vendor lock-in, data formats and standards, and security. 
+
+3. Disposal of Residual DBS and Newborn Screening Data Cards 
+
+a) Residual DBS are classiﬁed as non-infectious materials (Classiﬁcation of Infectious Substances, Dangerous Goods Regulation, International Air Transport Association, 2010). 
+
+b) When the need arises, destruction (and/or disposal) of the residual DBS shall be conducted in an appropriate manner according to the Health Care Waste Management Manual of the DOH and approved by the National Archives of the Philippines. 
+
+c) Newborn screening data cards shall be destroyed by shredding after encoding and scanning of the data cards in accordance with the approved Records Disposition Schedule by the National Archives of the Philippines. 
+
+4. Screening and Non—Screening Uses of Residual DBS 
+
+a) A Special Committee on the Use of Residual DBS (henceforth abbreviated as “Special Committee”) shall be created to ensure the appropriate use of the samples. 
+
+The primary task of the Special Committee is to evaluate the relevance of the proposed research requests and to assess the capacity of the researcher/requesting body to care for the residual specimens. 
+
+b) The Chair of the Special Committee will be a designated representative of the Secretary of the Department of Health. ' 
+
+c) The Special Committee shall prioritize requests that benefit the patient or his/her family and address public health risks. 
+
+d) Requests for the purposes of litigation, criminal investigation, insurance, and employment shall not be approved. 
+
+e) Use of Residual DBS for Newborn Screening Purposes 
+
+i. Screening-related uses refer to the use of the blood spots for newborn screening and the processes associated with it such as test reﬁnement, treatment efﬁcacy studies, new test validation, and results veriﬁcation. 
+
+
+ii. Screening—related uses shall not require approval of the Special Committee prior to use of residual specimens. It is the responsibility of the NSRC to maintain patient conﬁdentiality and ensure that specimens remain in the custody of NSRC. 
+
+
+f) Use of Residual DBS for Non-screening Purposes 
+
+i. Potential use of the samples include, but are not limited to, the following: 
+
+1. Patient/Family Studies 
+
+2. Public Health Research 
+
+
+ii. All requests for the use of residual DBS for non—screening uses shall go through the Special Committee and the NIH Technical Review Board and ethics review by the UPM Research Ethics Board
+
+iii. In patient/family studies, it may be beneﬁcial that the samples be re-linked to the individual from which the sample was taken. This process shall require consent of the source individuals or their legal guardians, in case of minors. 
+
+
+iv. For purposes of public health research, all samples released must be de~identiﬁed. Only samples permitted for research will be released. Any request deemed by the Special Committee and the UPM Research Ethics Board to be consent-requiring shall not be approved. A return or destruction process must be approved as part of the request.
+
+v. Researchers must submit the following documentation to the Special Committee prior to the review of the request 
+
+1. Credentials of all requesting investigators 
+
+2. Capsule proposal which includes the purpose and anticipated beneﬁts of the study 
+
+vi. Upon approval of the capsule proposal, the requesting party is asked to prepare a full proposal for technical review by the NIH Technical Review Board, ethics review by the UPM Research Ethics Board and ﬁnal approval of the Special Committee. 
+
+
+vii. All costs incurred in the retrieval, preparation, and processing of the request and sample shall be shouldered by the requesting party. 
+
+The proceeds shall go to the NSRC for the maintenance of the storage facility. 
+
+These guidelines shall be reviewed periodically by NCDPC-DOH. 
+
+VI. Repealing Clause 
+
+All issuance that are inconsistent with the provision of this Order are hereby repealed/rescinded. 
+
+VII. Effectivity 
+
+This Order shall take effect ﬁfteen (15) days after its approval and publication in the ofﬁcial gazette or newspaper of general circulation. 
+
+</body>
+<sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+

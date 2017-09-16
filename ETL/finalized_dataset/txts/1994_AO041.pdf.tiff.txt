@@ -1,0 +1,90 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+SAN LAZARO COMPOUND
+RIZAL AVENUE, STA. CRUZ
+MANILA, PHILIPPINES
+TEL. NO. 711-60-80
+
+<date>12/20/1994</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 41 s. 1994</docnum>
+
+<subject>SUBJECT: SUPPLEMENTAL RULES AND REGULATIONS IN REGISTRATION OF PHARMACEUTICAL PRODUCTS, ENTITLED TO A CONDITIONAL CERTIFICATE OF PRODUCT REGISTRATION</subject>
+
+<body>
+This Order is issued under the authority conferred upon the Secretary of Health by Section 26(a) of R.A. 3720 as amended, otherwise known as "Food, Drug and Devices and Cosmetic Act:" And to supplement and clarify Administrative Order No. 67 s. 1989 (Revised Rules and Regulations on Registration of Pharmaceutical Products) particularly Section 2.2 thereof which provides:
+
+"Action on registration application shall be based on the complete set of specifications of the drug product proposed to appear in the label, i.e. formulation, dosage form, strength, therapeutic indication and manufacturer. Any change in any of the above specifications will require a new registration."
+
+1. DEFINITION OF TERMS. For purposes of this Order, the following terms shall mean:
+
+(a) "Active Ingredient" - is the chemical component responsible for the claimed therapeutic effect of the pharmaceutical product.
+
+(b) "Drug Manufacturer" - means any establishment engaged in operations involved in the production of drug, including propagation, processing, compounding, finishing, filling, packing, repacking, altering, ornamenting and labeling with the end in view of storage, distribution or sale of the product.
+
+(c) "Drug Product" - is the finished product form that contains the active ingredients, generally but not necessarily in association with inactive ingredients.
+
+(d) "Drug Trader" - means any establishment which is a registered owner of the drug product, procures the raw materials and packing components, and provides the production monographs, quality control standards and procedures, but sub-contract the manufacture of such product to a licensed manufacturer. In addition, a trader may also engage in distribution, and/or marketing of its products.
+
+(e) "Excipients" used synonymously with the term "inactive ingredients".
+
+(f) "Inactive Ingredients" means any substance other than the "active ingredients present in a drug.
+
+(g) "Immediate Container" means the container or package which is immediately after or near the substance but does not include package liners.
+
+(h) "List B" refers to the list of drug products requiring strict precaution in prescribing, dispensing, and use (e.g. Chloramphenicol. Busulfan, Metoprolol, Quinidine).
+
+(i) List B "Prime" refers to the list of drug products with reported bioavailability/bioequivalence problems (e.g. Cefalexin, Erythromycin, Rifampicin, Warfarin).
+
+(j) "Registration" means the process of approval for the manufacture, importation, exportation, sale, offer for sale, distribution or transfer of pharmaceutical products containing active ingredient(s) of known chemical structure and properties determined to be safe, efficacious, and of good quality according to standards of BFAD.
+
+2. As required under Section 2.2 of A.O. 67 s. 1989 a new registration is necessary for a drug product with a valid registration when there is a change in any of the specifications therein referred to e.g. formulation, dosage form, strength, therapeutic indication, manufacturer.
+
+Provided, however, that this new initial registration may be obtained through an abbreviated procedure for conditional Certificate of Product Registration (CPR) under the following circumstances and conditions:
+
+2.1 When the change constitutes a mere improvement in the immediate container or packaging of an additional packing, presentation of the same previously registered product.
+
+Such change in immediate container or packaging shall refer for instance to change from plastic bottle to glass (for tablets and capsules), OR from bottle to aluminum foil or blister packs, etc. or a change in the content of a unit pack for solid preparations or volume for liquid preparations.
+
+2.2 When there is a change of manufacturer from the present toll manufacture to a higher category toll manufacturer with demonstrated capability to manufacture such line of pharmaceutical products subject to verification by actual inspection.
+
+2.3 When there is a minor insignificant change in the amount of excipients subject to approval by BFAD.
+
+Any change in the active ingredient will require initial registration and will not be eligible for constant registration.
+
+3. The details of the procedure for processing of conditional CPR under this Administrative Order shall be as follows:
+
+3.1 When there is a change in the immediate container or packaging or additional packing presentation of the previously registered product.
+
+3.1.1 In the application for conditional registration, the applicant shall clearly state what were the changes on the container or packaging in presentation.
+
+3.1.2 The BFAD Product Services Division after finding that the change is only in the immediate container or packaging of the product or an additional packing presentation will issue a conditional CPR.
+
+3.2 When there is a change of manufacturer
+
+3.2.1 Upon receipt of the application, the BFAD will determine the capability and category of the new manufacturer as well as the completeness of the documentary requirements for initial registration including the original copy of the CPR issued to the previous manufacturer. If the new manufacturer and the application meet the criteria herein prescribed, a conditional CPR shall immediately be issued.
+
+3.2.2 The CPR of the product of the previously registered manufacturer shall automatically be canceled with the issuance of the conditional CPR to the new manufacturer. The products produced by the previously registered manufacturer before the new conditional CPR is issued shall be allowed in the market until expiration date of the product.
+
+3.2.3 When the application or the new manufacturer does not meet the criteria for conditional registration: the application will be processed in the Special Lane.
+
+3.3 When there is a minor and insignificant change in the amount of excipients of the product formulation as determined by BFAD.
+
+3.3.1 In the application, for conditional registration, the applicant shall clearly state what are the changes on the excipients.
+
+3.3.2 The BFAD/Product Services Division after determining that the change is minor and insignificant and the complete documentary requirements are met, will issue a conditional CPR.
+
+3.3.3 Any application for conditional registration of any change in inactive ingredients of drug products listed in List B Prime (List of Drug Products with reported Bioavailability/Bioequivalence Problems) or List B (list of products requiring strict precaution) shall be denied: changes even in inactive ingredients of the said drug products shall undergo regular initial registration.
+
+4. The conditional CPR shall be issued within one (1) month from submission of the complete application, and is renewable yearly for a maximum of three (3) years, at which time or earlier, a regular full registration may be granted valid for five (5) years if and when the product meets all the standards of quality including satisfactory stability studies.
+
+5. All other administrative order, and other administrative issuance or parts thereof inconsistent with the provisions of this Order are hereby repealed or modified accordingly.
+
+6. This Order shall take effect fifteen (15) days after publication in a newspaper of general circulation.
+</body>
+
+<sign>JUAN M. FLAVIER, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>

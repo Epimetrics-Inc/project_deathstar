@@ -1,0 +1,434 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Bldg. 1, San Lazaro Compound, Rizal Ave, Sta. Cruz, Manila
+Telefax: (632) 743-1829 Trunk line; 743-8301 local 1125-32
+Direct line: 711-95-02 to 03 E-mail: osec@doh.qov.ph
+
+<date>February 12, 2008</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>NO. 2008-0009</docnum> 
+
+<subject>SUBJECT: Adopting the 2008 Revised List of Notiﬁable Diseases, Syndromes, Health—Related Events and Conditions</subject>
+
+<body>
+I. Background and Rationale 
+
+Republic Act 3573 (Law of Reporting of Communicable Diseases) requires all individuals and health facilities to report notiﬁable diseases to local and national health authorities. Pursuant to Section 3 of Act 3573, the list of notiﬁable diseases and syndromes in the Philippines speciﬁed in Department Circular No. 176 s. 2001 dated July 27, 2001 is hereby revised to include diseases and syndromes that have been selected because they are epidemic-prone diseases, are targeted for eradication or elimination, and subject to international health regulation. 
+
+Under the Monitoring and Evaluation for Equity and Effectiveness (ME3) of the General Principles of Sector Development Approach for Health (SDAH) in the Implementation of FOURmulaOne (F1) for Health (IV. C. 2. of Administrative Order 2007-0038), the ME3 shall provide information to stakeholders for outcomes for which they are accountable for. The epidemiology of notiﬁable diseases in our country is one of this information. 
+
+II. Scope and Coverage 
+
+The policy encompasses all individuals and health facilities, both government and private, in all levels of governance (sitio, barangay/village, municipal, city, provincial, regional and national). 
+
+III. Objective 
+
+To adopt the 2008 Revised List of Notiﬁable Diseases, Syndromes, Health—Related Events and Conditions as basis for reporting not only of notiﬁable diseases but also of syndromes, health-related events and conditions that are of public health importance to health authorities of all levels of governance 
+
+IV. General Principles 
+
+The 2008 Revised List of Notifiable Diseases, Syndromes, Health-Related Events and Conditions shall be adherent to the principles of Sector Development Approach for Health in the Implementation of FOURmulaOne (F1) for Health (Administrative Order 2007-0038) and Philippine Integrated Disease Surveillance System framework (Administrative Order 2007-0036). 
+
+V. General Guidelines 
+
+The 2008 Revised List of Notifiable Diseases, Syndromes, Health—Related Events and Conditions shall be adherent to the guidelines of the Philippine Integrated Disease Surveillance System framework (Administrative Order 2007-0036). 
+
+VI. Implementation Arrangements 
+
+The method and urgency of reporting of these diseases and syndromes shall follow the implementing procedures and guidelines prescribed in the Philippine Integrated Disease Surveillance and Response (PIDSR) System (Administrative Order No. 2007-0036). These notiﬁable diseases and syndromes fall into two categories within the PIDSR. 
+
+A. Immediately Notiﬁable Disease/Syndrome/Events and Conditions (Category 1) 
+
+Immediate notification is required for the epidemic-prone diseases that newly appear in a population or have existed but are rapidly increasing in incidence. This also includes epidemic-prone diseases targeted for eradication and elimination. The Disease Reporting Unit (DRU) shall notify simultaneously the PHO, CHD and NEC within 24 hours of detection by the fastest means possible even a single case of such disease. A case-based investigation report shall be submitted to the above- mentioned ofﬁces by facsimile or e-mail. The diseases or syndromes under this category include: 
+
+1. Acute Flaccid Paralysis syndrome 
+2. Adverse Event Following Immunization (AEFI) syndrome 
+3. Anthrax A22 
+4. Human Avian Influenza J10 
+5. Measles B05 
+6. Meningococcal Disease A39 
+7. Neonatal Tetanus A33 
+8. Paralytic Shellﬁsh Poisoning T612 
+9. Rabies A82 
+10. Severe Acute Respiratory Syndrome (SARS) U049 
+11. Outbreaks 
+12. Clusters of diseases 
+13. Unusual diseases or threats 
+
+B. Weekly Notiﬁable Disease or Syndrome (Category II) 
+
+All cases of notiﬁable diseases and syndromes that a DRU sees within the week should be reported to the next higher level using case report form. The weekly notiﬁable diseases or syndromes include: 
+
+1. Acute Bloody Diarrhea syndrome 
+2. Acute Encephalitis Syndrome syndrome 
+3. Acute Hemorrhagic Fever Syndrome syndrome 
+4. Acute Viral Hepatitis B15-B17 
+5. Bacterial Meningitis A87 
+6. Cholera A00 
+7. Dengue A90—A91 
+8. Diphtheria A36 
+9. Inﬂuenza-like Illness J11 
+10. Leptospirosis A27 
+11. Malaria B50-B54 
+12. Non-Neonatal Tetanus A35 
+13. Pertussis A37 
+14. Typhoid and Paratyphoid Fever A01 
+
+The data collected are analyzed and the results used to monitor progress towards disease reduction targets, measure achievements of disease prevention activities, and identify hidden outbreaks or problems so that early action can be taken. 
+
+Zero-case reporting shall be implemented in all levels. This means reporting of “zero case” when no case has been detected by the reporting unit. 
+
+Attached to this directive is a copy of the Case Deﬁnitions of Notifiable Diseases/ Syndromes for ready reference. 
+
+VII. Repealing Clause 
+
+The provisions of previous Orders and other related issuances inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modiﬁed, repealed or rescinded accordingly. All other provisions of existing issuances which are not affected by this Order shall remain valid and in effect. 
+
+VIII. Effectivity: 
+
+This Order shall take effect immediately. 
+</body>
+
+<sign>FRANCISCO DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>  
+
+
+
+ATTACHMENT 1. 
+
+CASE DEFINITIONS 
+
+Category I: Immediately Notifiable 
+
+Acute Flaccid Paralysis 
+
+Suspected case: Any child less than 15 years of age with acute flaccid paralysis in one or more limbs OR a person of any age in whom polio is suspected by a physician 
+
+AFP Hot Case: A child that satisfies the suspect case definition and is under 5 years of age and had less than 3 doses of OPV and had fever at onset of asymmetrical paralysis; OR any AFP case with poliovirus isolated from the stool specimens 
+
+Adverse Events FollowincI Immunization 
+
+Suspected AEF/ case: Any individual that experience a serious condition any time after he or she received an immunization and is considered by a health worker (e.g., midwife, nurse, physician) to be possibly related to that immunization. 
+
+An adverse event following immunization (AEFI) is defined as a medical incident that takes place after an immunization, causes concern, and is believed to be caused by immunization. 
+
+Anthrax (ICD-10 Code: A22) 
+
+Suspected case: A person with acute onset of illness characterized by several clinical forms as follows: 
+
+a. Localized form: 
+- cutaneous: skin lesion evolving over 1 to 6 days from a papular through a vesicular stage, to a depressed black eschar invariably accompanied by oedema that may be mild to extensive; 
+
+b. Systemic forms: 
+- gastro-intestinal: abdominal distress characterized by nausea, vomiting, anorexia and folloWed by fever; 
+- pulmonary (inhalation): brief prodrome resembling acute viral respiratory illness, followed by rapid onset of hypoxia, dyspnea and high temperature, with X—ray evidence of mediastinal widening 
+- meningeal: acute onset of high fever possibly with convulsions, loss of consciousness, meningeal signs and symptoms; commonly noted in all systemic infections 
+
+Probable case: A suspected case that has a positive reaction to allergic skin test (in non vaccinated individuals) 
+
+Conﬁrmed case: A suspected case that is laboratory-confirmed 
+
+Laboratory Confirmation: 
+- isolation of Bacillus anthracis from a clinical specimen (e.g., blood, lesions, discharges) 
+- demonstration of B. anthracis in a clinical specimen by microscopic examination of stained smears (vesicular fluid, blood, cerebrospinal fluid, pleural fluid, stools) 
+- positive serology (ELISA, Western blot, toxin detection, chromatographic assay, fluorescent antibody test (FAT) 
+
+Human Avian Influenza (ICD 10 Code: J10) 
+
+Suspected case: A suspected Influenza-like illness case with exposure to sudden bird deaths (sudden bird deaths in two or more households in a barangay or death of at least 3% of commercial flock increasing twice daily for 2—3 consecutive days) OR confirmed human avian influenza case 
+
+Measles (ICD 10 Code: I305) 
+
+Suspected case: Any individual, regardless of age with the flowing signs and symptoms: history of fever (38°C or more) or hot to touch, and generalized non-vesicular rash of 3 or more days duration; and at least one of the following: cough, coryza, conjunctivitis 
+
+Laboratory-confirmed: A suspected case with at least one of the following: 
+- positive serologic test result for anti-measles IgM antibodies 
+- fourfold rise in anti-measles IgG antibodies in acute and convalescent serum 
+- isolation of measles virus 
+- dot immunobinding assay 
+- polymerase chain reaction testing for measles nucleic acid 
+
+Epidemiologically linked: An epidemiologicalIy-linked measles case is defined as a suspected measles case who was not discarded and who: 
+- had contact with another epidemiologically—linked case or a laboratory confirmed case 7-21 days before rash onset and
+- the other epidemiologically—linked or laboratory confirmed case was infectious at the time of contact (i.e., contact was 4 days before to 4 days after rash onset in the other epidemiologically-linked or laboratory confirmed case) 
+
+Clinically-confirmed: A suspected measles case, that, for any reason, is not completely investigated" (e.g. death befOre investigation, no blood sample) or has equivocal IgM antibody test results, and was diagnosed as Measles by a physician 
+
+NOTE: *Such cases represent failures of the surveillance system to adequately classify a case 
+
+Discarded or not measles: A suspected measles case with an adequate specimen that is not serologically confirmed or is confirmed positive for other diseases such as rubella or dengue. 
+
+Meningococcal Disease (ICD-10 Code: A39) 
+
+Suspected case: A person with sudden onset of fever (>38.5°C rectal or >38.0°C axillary) AND one or more of the following: 
+- neck stiffness 
+- altered consciousness 
+- other meningeal signs 
+- petechial or purpural rash 
+
+NOTE: In patients &lt 1 year, suspect meningitis when fever accompanied by bulging fontanels.
+
+Probable case: Asuspected case as defined above AND with turbid cerebrospinal fluid (with or without positive Gram stain) OR ongoing epidemic and epidemiological link to a confirmed case. 
+
+Conﬁrmed case: A suspected or probable case with laboratory confirmation. 
+
+Laboratory Confirmation: 
+- positive cerebrospinal fluid (CSF) antigen detection or culture 
+
+Neonatal Tetanus (ICD-10 Code: A33) 
+
+Suspected case: Any neonatal death between 3 to 28 days of age in which the cause of death is unknown; or any neonate reported as having suffered from neonatal tetanus between 3-28 days of age and not investigated. 
+
+Conﬁrmed case: Any neonate between 3 to 28 days that sucks and cries normally during the first two days of life, and becomes ill between 3 to 28 of age and develops both an inability to suck and diffuse muscle rigidity (stiffness), which may include trismus, clenched fists or feet, continuously pursed lips, and/or curved back (opisthotonos); OR a neonate diagnosed as a case of tetanus by a physician 
+
+NOTE: Neonatal tetanus (NT) case classiﬁcation is based solely on clinical criteria. Any neonatal death occurring in babies 3-28 days old with no apparent cause should be suspected as NT and evaluated according to the above criteria. In calculating age, the day of birth is considered the first day of life (i.e., the baby is 1 day old on the day he/she was born). 
+
+Paralytic Shellfish Poisoning (ICD-10 Code: T61.2) 
+
+Suspected case: A person who develops one or more of the following signs and symptoms after taking shellfish meal or soup: 
+
+- Sensory: paresthesias (tingling sensations on skin), numbness (lack of sensation) of the oral mucosa and lips, numbness of the extremities 
+
+- Motor: difficulty in speaking, swallowing, or breathing, weakness or paralysis of the extremities Probable Case: Not applicable 
+
+Conﬁrmed case: A suspected case in which laboratory tests (biologic or environmental) have confirmed exposure. 
+
+Laboratory Confirmation: 
+
+- Detection of saxitoxin in epidemiologically implicated food, serum or urine of cases 
+
+Rabies (ICD 10 Code: A82) 
+
+Suspected Case: A person presenting with an acute neurological syndrome (encephalitis) dominated by forms of hyperactivity (furious rabies) or paralytic syndromes (dumb rabies) that progresses towards coma and death, usually by respiratory failure, within 7 to 10 days after the first symptom if no intensive care is instituted. 
+
+NOTE: Bites or scratches from a suspected animal can usually be traced back in the patient medical history. The incubation period may vary from days to years but usually falls between 30 and 90 days. 
+
+Probable case: A suspected case plus history of contact with suspected rabid animal. 
+
+Conﬁrmed case: A suspected case that Is laboratory confirmed. 
+
+Laboratory Confirmation: 
+
+One or more of the following: 
+- Detection of rabies viral antigens by direct fluorescent antibody (FA) in clinical specimens, preferably brain tissue (collected post mortem); 
+- Detection by FA on skin or corneal smear (collected ante mortem); 
+- FA positive after inoculation of brain tissue, saliva or CSF in cell culture, in mice or in suckling mice; 
+- Detectable rabies-neutralizing antibody titer in the CSF of an unvaccinated person; 
+- Identification of viral antigens by PCR on fixed tissue collected post mortem or in a clinical specimen (brain tissue or skin, cornea or saliva); 
+- Isolation of rabies virus from clinical specimens and confirmation of rabies viral antigens by direct fluorescent antibody testing. 
+
+Severe Acute Respiratory Syndrome (ICD 10 Code: U04.9) 
+
+Suspected case: A suspect Influenza-like illness case with exposure to confirmed SARS case 
+
+Outbreak: refers to an epidemic limited to localized increase in the incidence of a disease, (e.g., in a village, town, or closed institution). 
+
+Cluster/s of disease: refers to an aggregation of relatively uncommon events or diseases in space and/or time in magnitude that is believed or perceived to be greater than could be expected by chance. 
+
+Unusual disease/s or threats: refers to an excess of the expected in relation to the time or period the disease/s or threats occurred, the geographic extent the diseasels spread, or sudden change/s in the disease characteristics in terms of affected individual. 
+
+Category II: Weekly Notifiable 
+
+Acute Bloody Diarrhea 
+
+Case deﬁnition: A person with acute diarrhea with visible blood in the stool. 
+
+NOTE: Laboratory culture of stools may be used to conﬁrm possible outbreaks of speciﬁc diarrhea, such as S. dysenteriae type 1, but is not necessary for case deﬁnition. 
+
+Case classiﬁcation: Not applicable 
+
+Acute Encephalitis Syndrome 
+
+Suspected case: A person with acute onset of fever and a change in mental status (including symptoms such as confusion, disorientation, coma, or inability to talk) AND/OR new onset of seizures (excluding simple febrile seizures) 
+
+“Acute encephalitis syndrome”— other agent: A suspected case in which diagnostic testing is performed and an etiological agent other than JE virus is identified. 
+
+“Acute encephalitis syndrome”— unknown: A suspected case in which testing was performed but no etiological agent was identified or in which the test results were indeterminate. 
+
+Probable JE: A suspected case that occurs in close geographic and temporal relationship to a laboratory-confirmed case of JE, in the context of an outbreak. 
+
+Laboratory-conﬁrmed Japanese Encephalitis (JE): A suspected case that has been laboratory-confirmed as JE. 
+
+Laboratory Confirmation: 
+
+- Presence of JE virus-specific IgM antibody in a single sample of cerebrospinal fluid (CSF) or serum, as detected by an IgM—capture ELISA specifically for JE vrrus; 
+
+- Detection of JE virus antigens in tissue by immunohistochemistry 
+
+- Detection of JE virus genome in serum, plasma, blood, CSF, or tissue by reverse transcriptase polymerase chain reaction (PCR) or an equally sensitive and specific nucleic acid amplification test 
+
+- Isolation of JE virus in serum, plasma, blood, CSF, or tissue 
+
+- Detection of a four-fold or greater rise in JE virus—specific antibody as measured by haemagglutination inhibition (HI) or plaque reduction neutralization assay (PRNT) in serum collected durin the acute and convalescent phase of illness. The two specimens for lgG shoud be collected at least 14 days apart. The lgG test should be performe in parallel with other confirmatory tests to eliminate the possibility of cross-reactivity. 
+
+Acute Hemorrhagic Fever Syndrome 
+
+Case Deﬁnition: Any hospitalized person with acute onset of fever of less than 3 weeks duration and with any two of the following: hemorrhagic or purpuric rash, epistaxis, hematemesis, hemoptysis, blood in stools, or other hemorrhagic symptom and the diagnosis is not Dengue 
+
+NOTE: Laboratory confirmation should be done if available Case classiﬁcation: Not applicable 
+
+Acute Viral Hepatitis (ICD-10 Code: B15-B17) 
+
+Suspected case: A person with acute illness characterized by acute jaundice, dark urine, loss of appetite, body weakness, extreme fatigue, and high upper quadrant tenderness 
+
+Probable: Not applicable 
+
+Conﬁrmed Case: A suspected case that is laboratory confirmed 
+
+Laboratory Confirmation: 
+
+- Hepatitis A: Positive for IgM anti-HAV 
+- Hepatitis B: Positive for Hepatitis B surface antigen (HBsAg) or Positive for IgM anti-HBc 
+- Hepatitis C: Positive for anti-HCV 
+- Non—A, non-B: Negative for IgM anti-HAV and IgM anti-HBs (or HBsAg) 
+
+Bacterial Meningitis (ICD 10 Code: A87) 
+
+Suspected case: A person with sudden onset of fever (2 385°C rectal or 38 C axillary) and one of the following signs: neck stiffness, altered consciousness or other meningeal SIgn 
+
+Probable case: A suspected case with CSF examination showing at least one of the following: 
+
+- turbid appearance; 
+- leukocytosis (>100 cells/ mm3); 
+- leukocytosis (10-100 cellsl mm3) AND either an elevated protein (>100 mgidl) or decreased glucose (40mgldl) 
+
+Conﬁrmed case: A suspected case that is laboratory-confirmed Laboratory Confirmation: 
+
+- Culture or detection (ie. by Gram stain or antigen detection methods) of a bacterial pathogen other than Neisseria meningitides. 
+
+NOTE: Identified Neisseria meningitides cases shall be reported as confirmed Meningococcal Disease 
+
+Cholera (ICD-10 Code: A00) 
+
+Suspected case: 
+
+Disease unknown in the area: A person aged 5 years or more with severe dehydration or who died from acute watery diarrhea, 0R 
+
+Disease endemic in the area: A person aged 5 years or more with acute watery diarrhea with or without vomiting, OR 
+
+In an area where there is a cholera epidemic: A person with acute watery diarrhea, with or without vomiting. 
+
+Probable: Not applicable Conﬁrmed case: A suspected case that is laboratory-confirmed Laboratory Confirmation: 
+- Isolation of Vibrio cholerae 01 or 0139 from stools in any patient with diarrhea 
+
+Dengue (ICD-10 Code: A90-A91) 
+
+Suspected Case: A person with an acute febrile illness of 2-7 days duration with 2 or more of the following: headache, retro-orbital pain, myalgia, arthralgia, rash, hemorrhagic manifestations, leucopenia. 
+
+Probable Case: A suspected case with one or more of the following: Supportive serology (reciprocal hemagglutination-inhibition antibody titer), comparable IgG EIA titer or positive IgM antibody test in late acute or convalescent-phase serum specimen. 
+
+Conﬁrmed: A suspected case that is laboratory confirmed (viral isolation, Polymerase Chain Reaction) 
+
+Types: 
+
+Dengue Hemorrhagic Fever: A probable or confirmed case of dengue and hemorrhagic tendencies evidenced by one or more of the following: . 
+- positive tourniquet test,
+- petechiae, ecchymoses or purpura,
+- Bleeding: mucosa, gastrointestinal tract, injection sites or other hematemesis or melena 
+
+And thrombocytopenia (100,000 cells or less per mm3) 
+
+And evidence of plasma leakage due to increased vascular permeability. 
+
+Dengue Shock Syndrome (DSS): All the above criteria, plus evidence of circulatory failure manifested by rapid and weak pulse, and narrow pulse pressure (5 20 mm Hg) or hypotension for age, cold, clainmy skin and altered mental status. 
+
+Diphtheria (ICD-10 Code: A36) 
+
+Suspected Case: Not applicable Probable Case: A person with an illness of the upper respiratory tract characterized by laryngitis or pharyngitis or tonsillitis, and adherent membranes on tonsils, pharynx and/or nose 
+
+Confirmed: A probable case that is laboratory confirmed or linked epidemiologically to a laboratory confirmed case 
+
+Note: Persons with positive Corynebacterium diphtheriae cultures who do not meet the clinical description (i.e. asymptomatic carriers) should not be reported as  probable or confirmed diphtheria cases. 
+
+Laboratory Confirmation: 
+
+- Isolation of Corynebacterium diphtheriae from a clinical specimen 
+
+InfluenzaLike Illness (J11) 
+
+Suspected case: A person with sudden onset of fever of^3 38°C and cough or sore throat in the absence of other diagnoses. 
+
+Probable case: Not applicable 
+
+Confirmed case: A suspected case that is laboratory-confirmed (used mainly in epidemiological investigation rather than surveillance). 
+
+Laboratory Confirmation: Virus isolation or Polymerase Chain Reaction (PCR) of swab or aspirate from the suspected individual or direct detection of influenza viral antigen or 4-fold rise in antibody titer between early and late serum 
+
+Leptospirosis (ICD 10 Code: A27) 
+
+Suspected case: A person who developed acute febrile illness with headache, myalgia and prostration associated with any of the following:conjunctival suffusion, meningeal irritation, anuria or oliguria and/or proteinuria, jaundice, hemorrhages (from the intestines or lungs), cardiac arrhythmia or failure, skin rash and other common symptoms that include nausea, vomiting, abdominal pain, diarrhea, arthralgia AFTER exposure to infected animals or an environment contaminated with animal urine (e.g. wading in flood waters, rice fields, drainage). 
+
+Probable case: Not applicable 
+
+Conﬁrmed case: A suspected case that is laboratory confirmed 
+
+Laboratory Confirmation: 
+- Isolation (and typing) from blood or other clinical specimens through culture of pathogenic Leptospira 
+
+- Positive serology, preferably Microscopic Agglutination Test (MAT), using a range of Leptospira strains for antigens that should be representative of local strains 
+
+Malaria (ICD-10 Code: B50-B54) 
+	Falciparum: (ICD-10 Code: B50) 
+	Vivax: (ICD-1O Code: 851) 
+	Malariae: (ICD-10 Code: 852) 
+	Ovale: (lCD- 10 Code: 853) 
+
+Uncomplicated malaria: Signs and symptoms vary; most patients experience fever. Splenomegaly and anemia are common associated signs. Common but non-specific symptoms include othenivise unexplained headache, back pain, chills, sweating, myalgia, nausea, vomiting. 
+ 
+Severe malaria: Coma, generalized convulsions, hyperparasetemia, normocytic anemia, disturbances in fluid, electrolyte, and acid-base balance, renal failure, hypoglycemia, hyperpyrexia, hemoglobinuria, circulatory collapse/shock, spontaneous bleeding (disseminated intravascular coagulation) and pulmonary edema. 
+
+Laboratory conﬁrmation: Demonstration of malaria parasites in blood films (mainly asexual forms) 
+
+In areas WITHOUT aCCess to laboratory-based diagnosis: 
+
+Probable uncomplicated malaria case: A person with signs (fever, splenomegaly, anemia) and/or symptoms (unexplained headache, back pain, chills, sweating, myalgia, nausea, vomiting) of malaria who receives anti-malarial treatment. 
+
+Probable severe malaria case: A person who requires hospitalization for symptoms and signs of severe malaria (coma, generalized convulsions, renal failure, hyperpyrexia, hemoglobinuria, circulatory collapse/shock, spontaneous bleeding, disseminated intravascular coagulation, and pulmonary edema) and receives anti-malarial treatment. 
+
+Probable malaria death: death of a patient diagnosed with probable severe malaria (In areas WITH access to laboratory-based diagnosis) 
+
+Asymptomatic malaria: A person with no recent history of symptoms and/or signs of malaria who shows laboratory confirmation of parasitemia. 
+
+Conﬁrmed uncomplicated malaria case: A person with signs (fever, splenomegaly, anemia) and/or symptoms (unexplained headache, back pain, chills, sweating, myalgia, nausea, vomiting) of malaria who receives anti-malarial treatment AND with laboratory confirmation of diagnosis. 
+
+Confirmed severe malaria case: A person who requires hospitalization for symptoms and signs of severe malaria (coma, generalized convulsions, hyperparasitemia, normocytic anemia, disturbances in fluid, electrolyte, and acid—base balance, renal failure, hypoglycemia, hyperpyrexia, hemoglobinuria, circulatory collapse/shock, spontaneous bleeding, disseminated intravascular coagulation, and pulmonary edema) and receives anti-malarial treatment AND with laboratory confirmation of diagnosis (microscopy or RDT) 
+
+Conﬁrmed malaria death: death of a patient classified as confirmed severe malaria. 
+
+Malaria Treatment Failure: 
+
+A patient with uncomplicated malaria without any clear symptoms suggesting another concomitant disease who has taken a correct dosage of anti—malarial treatment, and who presents with clinical deterioration or recurrence of symptoms within 14 days of the start of treatment, in combination with parasitaemia (asexual forms). 
+
+Non-Neonatal Tetanus (ICD-10 Code: A35) 
+
+Suspected Case: Not applicable 
+
+Probable Case: Not applicable 
+
+Conﬁrmed Case: Acute onset of hypertonia and/or painful muscular contractions (usually muscles of the neck and jaw) and generalized muscle spasms without apparent medical cause as reported by a health care professional 
+
+Pertussis (ICD-10 Code: A37.0) 
+
+Suspected Case: A person with a cough lasting at least 2 weeks with at least one of the following: paroxysms (Le. fits) of coughing, inspiratory whooping, post-tussive vomiting and without other apparent cause. 
+
+Probable Case: Not applicable 
+
+Conﬁrmed Casen: A suspected case that is laboratory—confirmed 
+
+Laboratory Confirmation: Isolation of Bordertella pertussis, or detection of genomic sequences by polymerase chain reaction (PCR) 
+
+Typhoid Fever and Paratyphoid Fever (ICD-10 Code: A01.0, A01.1 - A01.4) 
+
+Suspected case: A person with an illness characterized by insidious onset of sustained fever with headache, malaise, anorexia, relative bradycardia, constipation or diarrhea, and non-productive cough 
+
+Probable case: A suspected case that is epidemiologically linked to a confirmed case in an outbreak 
+
+Confirmed case: A suspected or probable case that is laboratory confirmed 
+
+Laboratory Confirmation: 
+
+- Isolation of Salmonella enterica from blood, stool, or other clinical Specimen 
+
+
+

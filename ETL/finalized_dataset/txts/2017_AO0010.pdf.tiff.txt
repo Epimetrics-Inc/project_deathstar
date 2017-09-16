@@ -1,0 +1,263 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>JUN 23, 2017</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2017 - 0010 </docnum>
+
+<subject>SUBJECT: Philippine National Standards for Drinking Water 2017</subject>
+
+
+<body>
+I. RATIONALE 
+
+The history of the Philippine National Standards for Drinking Water (PNSDW) started in the year 1963. It was based on the 1958 World Health Organization International Standard for Drinking Water and the 1962 United States Public Health Service Standards. The 1963 PNSDW edition was subsequently revised in 1978, 1993 and 2007. 
+
+Since the last revision of PNSDW in 2007, a number of issues and concerns from various stakeholders have emerged. Among these are: (i) experiences of water service providers in complying with the standards; (ii) publication of the fourth edition of the Guidelines for Drinking-Water Quality by the World Health Organization in 2011, which includes new parameters and an improved framework for drinking-water safety that should be considered in water quality monitoring, testing, and analysis; (iii) issuance of DOH Administrative Order Number 2014-0027, which requires all drinking—water service providers to develop and implement water safety plans; (iv) new scope and deﬁnitions of Sustainable Development Goal (SDG) water supply indicators; and (v) the need for water quality standards during emergency situations. 
+
+This led to the updating of the PNSDW of 2007 through the Inter-agency Technical Working Group (TWG), headed by the Department of Health (DOH) with support from the World Health Organization (WHO). 
+
+II. OBJECTIVES 
+
+This Administrative Order shall prescribe the standards and procedures on drinking-water quality to protect public/consumer’s health. 
+
+III. SCOPE AND COVERAGE 
+
+The PNSDW of 2017 shall apply to all drinking-water service providers including government and private developers and operators, bulk water suppliers, water reﬁlling station operators, and water vending machine operators; ice manufacturers; all food establishments, residential, commercial, industrial and institutional buildings that use/supply/serve drinking water; water testing laboratories; health and sanitation authorities; the general public and all others who are involved in determining the safety of public’s drinking-water. // 
+
+IV. DEFINITION OF TERMS 
+
+1. Acceptability — physical and chemical quality of water that refers to the appearance, taste and odor of drinking-water satisfactory to the consumer. 
+
+2. Bulk Water Supply — drinking-water supplied to water service providers or associated infrastructures including pumping stations, reservoirs, and pipe lines. 
+
+3. Certified sampling personnel — a person who underwent training for drinking—water sampling and certiﬁed by the DOH. 
+
+4. Contamination - a general term referring to the presence of substances found 1n water that make water less desirable or unﬁt for drinking. 
+
+5. Drinking-water - water intended for direct human consumption or for use in food preparation and related processes. 
+
+6. Emergency - any situation in which there is actual disruption or damage to communities, i.e., any actual threat to public health and Safety. 
+
+7. Health- based targets— are measurable health, water quality or performance objectives that are established based on a judgement of safety and on risk assessments of water- borne hazards. 
+
+8. Limit of Quantitation (LOQ) -— the analyte concentration that produces a signal sufﬁciently stronger than the blank, such that it can be detected with a speciﬁed level of reliability during routine operations. Typically, it is the concentration that produces the signal above the reagent water blank signal, and should have a deﬁned precision and bias at that level. 
+
+9. Maximum Allowable Level (MAL) — the highest level of a contaminant that is allowed in drinking-water. 
+
+10. Method Detection Limit (MDL) - the constituent/contaminant concentration that when processed through the complete method, produces a signal with a 99% probability that is different from the blank. 
+
+11. Mobile Water Tanks — tanks designed to deliver water for domestic use or emergency purposes. 
+
+12. Potable/Safe Water — water with quality within the standard limits set in this PNSDW both for acceptability and health aspects. 
+
+13. Surveillance _ the continuous and vigilant public health assessment and review of safety and acceptability of drinking-water supplies. 
+
+V. GENERAL GUIDELINES 
+
+1. Standards for drinking—water quality, water sampling and examination and evaluation of results shall conform to the criteria prescribed under this Order and its Manual of Operations. _ 
+
+2. To ensure the safety of drinking-water, the standards shall be applied in accordance to the improved framework for drinking-water safety comprising of three key components: 
+
+A. Health-based targets established by the health authority; 
+B. Safely managed water systems (application of water safety plan); and 
+C. A system of independent surveillance. 
+
+ 
+VI. SPECIFIC GUIDELINES 
+
+The Philippine National Standards for Drinking Water of 2017 shall consist of the following criteria: 
+
+1. Standards for Drinking-water Quality 
+
+A. Drinking— water must be clear and does not have obj ectionable taste, odor and color. It must be pleasant to drink and ﬂee from all harmful organisms, chemical substances and radionuclides in amounts which could constitute a hazard to the health of the consumer. 
+
+B. The quality of drinking-water shall be measured in terms of its microbiological, physical, chemical and radiological constituents. Refer to Annex A for the Standard Values and Methods of Analysis. . 
+
+C. The parameters of drinking-water quality shall be classiﬁed as mandatory, primary and secondary. Refer to Annex B. 
+
+2. Standards for Water Sampling and Examination 
+
+A. Initial examination shall be conducted for new or newly constructed water sources while periodic examination shall be done for existing water sources. Water samples for initial and periodic examination from all water sources shall cover microbiological, physical, chemical and radiological parameters. Refer to Annex C for the Minimum Frequency of Sampling. I 
+
+B. The minimum number of samples to be collected and examined periodically shall be based on the source and mode of distribution of drinking-water supply. Refer to Annex C.
+
+C. The collection of water samples shall comply with the standard sampling requirements. Refer to Annex D. 
+
+D. Only certiﬁed sampling personnel shall collect water samples for regulatory purposes. 
+
+B. All water samples for regulatory purposes shall be examined only in DOH- Accredited Laboratory. The standard methods of examination shall be based on the “22’” edition (2012) of the Standard Methods for the Examination of Water and Wastewater” unless otherwise stated in the Manual of Operations. 
+
+F. Examination of water samples for radiological quality shall be done by the Philippine Nuclear Research Institute. 
+
+3. Standards for Other Modes of Distribution of Drinking-water 
+
+A. Drinking-water from reﬁlling stations, vending machines, mobile tanks and bulk water supply shall be subject for initial and periodic examinations for microbiological, physical, chemical and radiological quality. 
+
+B. All standard values of mandatory parameters shall be applicable to product water from reﬁlling stations and vending machines, except for the standard Values of pH and total dissolved solids (TDS). The pH value shall be 5-7 while the TDS levels ‘ of product water shall not exceed 10 mg/L to validate the efﬁciency of revers Z70 osmosis or distillation process. 
+
+C. Water from mobile tanks shall have chlorine residual (as free chlorine) of at least - 0.5 mg/L but not to exceed to 1.50 mg/L at the point of delivery. 
+
+D. Bulk water supply shall maintain chlorine residual (as free chlorine) level between 0.3 mg/L to 1.5 mg/L or chlorine dioxide residual between 0.2 mg/L to 0.4 mg/L prior to distribution. 
+
+E. All water-reﬁlling stations, vending machines, mobile tanks and bulk water supply shall comply with the standard minimum number of samples and frequency of sampling requirements. Refer to Annex C. ' 
+
+4. Evaluation of Results 
+
+A. Expression of Results - 
+
+a. Microbiological examination for drinking water shall provide the numbers/presence of Total Coliform, E. ’coli/Thermotoler—ant Coliform, and Heterotrophic Bacteria present in 100 mL of water.
+
+b. All results from physico-chemical and radiological examinations that are not detected shall be reported as less than the method detection limit (MDL). For trace analysis, the MDL and level of quantitation (LOQ) shall be reﬂected in the laboratory test report. 
+
+B. Interpretation of Results 
+
+a. Drinking-Water service providers shall censult the DOH/Local Drinking Water Quality Monitoring Committee (LDWQMC)/ local health ofﬁce for the interpretation of results. 
+
+b. When E. coli/Thermotolerant Coliform 1s present in water, a sanitary survey shall be conducted within 24 hours to determine the cause .of contamination Which include resampling. If resampled _ water still contains E. colt/Thermotolerant coliform, corrective actions should be applied. At the same time, the drinking-water service provider shall issue an advisory to “boil water” or other household water treatment options, or provide an alternative drinking—water supply. ' 
+
+c. In case of exceedance of standard values of physical and chemical parameters, monitoring shall be carried out for the next three (3) consecutive months wherein all results must comply with the standards. If the results still exceed, further study must be done to determine the cause of contamination for proper identiﬁcation of corrective actions. _ 
+
+5. Classification of Drinking-Water Quality Parameters 
+
+A. Mandatory Parameters 
+
+a. Mandatory parameters are legally enforceable. These core parameters shall be required for examination by all drinking-water service providers. The criteria used for selection of mandatory core parameters are: parameters that directly affect health through acute or chronic exposure and/ or will render the water unacceptable for drinking; indicate-the possible presence of .other contaminants; exceed tolerable values/ standards based on loCal monitoring data of the previous . - years, have wide spatial distribution across the Philippines based on local monitoring data, and viable indicators for general quality and stability of water.
+
+b. The frequency of testing for mandatory parameters, except for E. coli/Thermotolerant Coliform and residual disinfectant, may be reduced to every three (3) years if the LDWQMC found the consolidated water quality reports showed undetectable levels (below MDL) of a particular mandatory parameter for three (3) consecutive years. 
+
+c. The mandatory parameters are the minimum parameters required to be tested for initial and periodic examinations. However, the mandatory parameters may include additional parameters from the list of primary and secondary as determined by the LDWQMC. The additional parameters shall be based on the result of the risk assessment of the water sources where potential contamination from the natural or anthropogenic activities may occur. 
+
+B. Primary parameters 
+
+a. Primary parameters are site—speciﬁc. These are chemical impurities in water- that directly affect health through acute or chronic exposure. 
+
+b. Primary parameters can also be adopted as enforceable parameters, in addition to the mandatory parameters. 
+
+C. Secondary parameters 
+
+a. Secondary parameters are those that render the water unacceptable for drinking. 
+
+b. These include operational parameters which affect the efﬁciency of the treatment processes. 
+
+D. Emergency Drinking-Water Parameters 
+
+a. During the ﬁrst 72 hours, temporary supply of water shall be provided by the local government unit (LGU). Water should be disinfected as a minimum treatment (i.e. boiling, chlorination, etc.). Mobile treatment plant can be used as an alternative source of water. 
+
+b. The water supply shall be monitored daily for at least seven (7) days by the LGU and other respondents in terms of residual chlorine, and E. colt. The acceptable level of residual chlorine shall be 0.5 mg/L and a maximum level of 1.5 mg/L. E .6011 should be absent per 100 mL sample. 
+
+c. Regular monitoring shall resume after normal condition has been declared by the appropriate government agency. 
+
+E. Sustainable Development Goal (SDG) Parameters 
+
+a. Relative to Target 6.1.1 of the SDG in achieving universal and equitable access to safe and affordable drinking water for all by 2030, the population should be using safely managed drinking water services. 
+
+b. This entails that the population uses a drinking water source which is located on premises, available when needed, and free of fecal and priority chemical contamination. 
+
+6. Quality Assurance/Quality Control for Water Laboratories 
+
+A. Only laboratories accredited by the DOH shall perform drinking—water quality a examination for regulatory purposes. 
+
+B. All accredited laboratories shall provide highest quality service through the establishment, documentation, and effective operation of a Quality System (QS). 
+
+C. The laboratory personnel involved in water sampling shall be certiﬁed by the DOH. ﬂ L75 
+
+
+7. Water Safety Plan (WSP) and Drinking-water Quality Surveillance 
+
+A. The implementation of WSP approach can secure the safety of drinking-water. It utilizes a risk assessment and risk management approach that encompasses all steps in the water supply system, from catchment/ source to consumers. 
+
+B. All drinkingewater service providers shall be required to prepare -WSP as provided by the DOH Administrative Order No. 2014 — 0027 “National Policy on Water Safety Plan for All Drinking-Water Service Providers”, dated September 4, 2014. 
+
+C. The WSP of a drinking-water service provider shall be subject for review and approval as provided by the DOH Administrative Order No. 2017-0006 ‘T‘Guidelines for the Review and Approval of the Water Safety Plans of Drinking-Water Service Providers“, dated April 20,2017. 
+
+D. The WSP shall be developed to meet health-based targetsc consistent with the Philippine National Standards for Drinking Water. 
+
+E. The drinking—water quality surveillance agency shall ensure that monitoring of the WSP implementation and its effectiveness meets the Philippine National Standards for Drinking Water. The surveillance activity shall include audit and direct assessment approaches. 
+
+VII. ROLES AND RESPONSIBILITIES 
+
+A. Department of Health 
+a. Develop systems and procedures to operationalize this Order. 
+b. Ensure compliance of all drinking— water service providers and operators to this Order. 
+c. Perform independent surveillance of drinking-water service providers. 
+d. Provide technical assistance to the local government units, drinking water service providers and to the general public. 
+e. Accredit water laboratories, certify training providers and water sampling personnel. 
+
+B. Local Government Unit 
+a. Enforce the provisions of this Order. 
+b. Develop and implement drinking water quality surveillance program. 
+c. Establish a local drinking water quality monitoring committee. 
+d. Advocate and create awareness to general population on the importance of drinking water quality standards, impact of water contamination on health, and control measures on addressing water quality issues and problems. 
+
+C. Water Laboratory 
+a. Comply with the provisions of this Order. 
+b. Secure accreditation from the Department of Health. c. Implement QS and develop a manual of operations describing the laboratory’s policies and plans for ensuring the quality of their work provided to the public. 
+
+D. Drinking- Water Service Provider/Operator of Establishment and Building 
+
+a. Comply with the provisions of this Order. 
+b. Develop and implement WSP. 
+c. Institute corrective actions for any unsatisfactory results of water sampling. 
+d. Submit to the accredited laboratories water samples for examination in a manner and at such intervals prescribed under this Order. 
+e. Submit results of water quality testing to the local health authority. 
+f. Educate consumers on how to keep drinking-water safe at all times. 
+
+VIII. PENAL PROVISION 
+
+As provided in Sec. 103 of the Code on Sanitation of the Philippines (PD No. 856): 
+
+A. Any person who shall violate, disobey, refuse, omit or neglect to comply with any of the provisions of this Order, shall be guilty of misdemeanor and upon conviction shall be punished by imprisonment for a period of not exceeding six (6) months or by a ﬁne of not exceeding Php 1,000.00 or both depending upon the discretion of the court. 
+
+B. Any person who shall interfere with or hinder, or oppose any ofﬁcer, agent or member of the Department or of the bureaus and ofﬁces under it, in the performance of his duty as such under this Order, or shall tear down, mutilate, deface or alter any placard, or notice, afﬁxed to the premises in the enforcement of this Order, shall be guilty of a misdemeanor and punishable upon conviction by imprisonment for a period of not exceeding six (6) months or by a ﬁne of not exceeding Php 1,000.00 or both depending upon the discretion of the court. 
+
+IX. SEPARABILITY CLAUSE 
+
+In the event that any rule, section, paragraph, sentence, clause, or word of this Order is declared invalid for any reason, the other provisions thereof shall not be affected thereby. 
+
+X. REPEALING CLAUSE
+
+Administrative Order No. 2007 — 0012 (2007 PNSDW) is hereby repealed. All laws, rules and regulations and administrative issuances or parts thereof inconsistent with the provisions of these standards are hereby repealed or amended accordingly. 
+
+XI. EFFECTIVITY 
+
+This order takes effect ﬁfteen (15) days after its publication in an ofﬁcial gazette or in a newspaper of general circulation. 
+</body>
+
+<sign>PAULYN JEAN B. ROSELL-UBIAL, MD, MPH, CESO II</sign>
+<signtitle>Secretary of Health</signtitle>
+
+
+ 
+<image>table_1.png</image>
+<image>table_2.png</image>
+<image>table_3.png</image>
+<image>table_4.png</image>
+<image>table_5.png</image>
+<image>table_6.png</image>
+<image>table_7.png</image>
+<image>table_8.png</image>
+<image>table_9.png</image>
+<image>table_10.png</image>
+<image>table_11.png</image>
+<image>table_12.png</image>
+<image>table_13.png</image>
+<image>table_14.png</image>
+<image>table_15.png</image>
+<image>table_16.png</image>
+<image>table_17.png</image>
+<image>table_18.png</image>
+<image>table_19.png</image>
+<image>table_20.png</image>
+<image>table_21.png</image>
+<image>table_22.png</image>
+<image>table_23.png</image>
+<image>table_24.png</image>
+<image>table_25.png</image>
+<image>table_26.png</image>
+<image>table_27.png</image>
+<image>table_28.png</image>
+<image>table_29.png</image>
+<image>table_30.png</image>
+

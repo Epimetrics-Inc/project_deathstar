@@ -1,0 +1,274 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>MAR 29, 2016</date>
+<doctype>ADMINISTRIVE ORDER</doctype>
+<docnum>No. 2016 - 0009</docnum>
+
+
+<subject>SUBJECT: Revised Implementing Guidelines for the Electronic Drug Price Monitoring System (EDPMS)</subject>
+
+
+<body>
+I RATIONALE 
+
+In 2008, Republic Act (RA) No. 9502, otherwise known as the Universally Accessible Cheaper and Quality Medicines Act was enacted mandating the Secretary of Health to establish an electronic price monitoring and regulation system for drugs and medicines. In line with this directive, the Department of Health piloted. the Electronic Essential Drug Price Monitoring System (e—EDPMS) through A0 No. 2008—0014. 
+
+After pilot implementation of the system and following consultation with the end—users and stakeholders, the e—EDPMS was simplified to make it more responsive to the needs of users. Electronic Drug Price Monitoring System (EDPMS) Version 2 was issued through A0 2011- 0012 to expand the scope of implementation to cover all drug establishments and outlets, establish guidelines on data validation, analysis, reports generation and dissemination, monitoring and evaluation, and strengthen and provide more coherent roles and responsibilities of the different agencies and stakeholders involved in the implementation of the system. 
+
+In the course of implementing AO No. 2011-0012, iss'ues and concerns have been raised regarding the difﬁculty of. uploading data into the system resulting in a low turn-out of data collection. The most recent information showed that only an average of 25% of drug establishments and outlets are reporting to the system before the moratorium was issued. Complaints vary from inaccessibility of the website, difficulty of sending data to the server, unavailability of internet connection in far ﬂung areas and lack of training of IT personnel. 
+
+The primary aim of the EDPMS is to address the information asymmetry in medicine prices and to empower patients and consumers in exercising intelligent choices when purchasing medicines fromboth the public and private retail outlets. The EDPMS shall be used likewise as a vital reference of the DOH in formulating pricing policies for essential medicines to ensure the afibrdability and availability of essential medicines in the market. 
+
+It is in the above light, that this revised implementing guideline is issued to improve the system and make it more efﬁcient and effective, such that data gathering and data analysis becomes more relevant and manageable. 
+
+ 
+II. OBJECTIVES 
+
+To set the guidelines for a more effective and efﬁcient implementation of EDPMS. 
+
+III. SCOPE 
+
+This Order applies to all DOH Central Ofﬁces, Attached Agencies, Regional Ofﬁces, Local Government Units, Government and Private Health Facilities, drug establishments and drug outlets and other agency data beneﬁciaries subject to the rules of compliance provided below. 
+
+IV. DEFINITION OF TERMS 
+
+For purposes of this Order, the following terms are deﬁned as follows: 
+
+A. Drug Distributor Exporter refers to any establishment that exports raw materials, active ingredients and ﬁnished products for distribution to other drug establishments outside the country. 
+
+B. Drug Distributor Importer refers to any establishment that imports raw materials, active ingredients and/or ﬁnished products for wholesale distribution to other local FDA—licensed drug establishment. 
+
+C. Drug Distributor Wholesaler refers to any establishment that procures raw materials, active ingredients and/or ﬁnished products from a local FDA-licensed drug establishment for local distribution on wholesale basis. 
+
+D. Drug Establishment refers to either sole proprietorship, partnership, corporation, institution, association or organization engaged in the manufacture, importation, exportation, sale, offer for sale, distribution, donation, transfer, use, testing, promotion, advertising, or sponsorship of drug products including the facilities and installations needed for its activities. 
+
+E. Drug Outlets refers to Drugstores, Pharmacies or Botica, including Hospital Pharmacy/Dispensary, where registered drugs, chemical products, active principles, proprietary medicines or a pharmaceutical specialties and dental medicinal, galenical or veterinary preparations are compounded and/or dispensed. 
+
+F. Electronic Drug Price Monitoring System (EDPMS) refers to a computer-based solution with the functionalities to capture, process, store and generate reports on essential drug prices from drug companies, establishments and outlets. 
+
+G. Erroneous Submission of Data refers to incomplete and wrong or incorrect data submitted/uploaded to the EDPMS. 
+
+H. Government Mediated Access Price (GMAP) refers to voluntary price reduction of selected drugs and medicines pursuant to Resolution No. 2009-001 of the Advisory Council for Price Regulation. 
+
+I. Manufacturer refers to any establishment engaged in any or all operations involved i the production of drug products including preparatory processing, compounding, formulating, ﬁlling, packaging, repackaging, altering, ornamenting, ﬁnishing and labeling with the end in View of its storage, sale or distribution; provided, that the term shall not apply to the compounding and ﬁlling of prescriptidns in drugstores and hospital pharmacies. A Drug Manufacturer can distribute and/or export in wholesale its own drug products and importraw materials for its own production. 
+
+J. Manufacturer Trader refers to any establishment which is a registered owner of a drug product and the formulation and procures the raw materials and packing components, and provides the production monographs, quality control standards and procedures but subcontracts the manufactures of such products to a licensed manufacturer.  
+
+K. Maximum Retail Price (MRP) refers to the ceiling prices imposed for drugs and medicines sold in all retail outlets, whether public or private, pursuant to Executive Order No. 821(Prescribing the Maximum Retail Price for selected drugs and medicines that addresses diseases that account for the leading causes of morbidity and mortality). 
+
+
+V. GENERAL GUIDELINES 
+
+A. The medicines to be uploaded into the EDPMS are those selected to address the leading causes of mortality and morbidity in the country.  
+
+B. The list of medicines required to be uploaded in the EDPMS are the medicines listed in the current Philippine National Formulary and the Primary Health Care that the facility carries. These medicines shall include the drugs listed under the DOH mandatory and voluntary price reduction scheme (i.e MRP & GMAP). 
+
+C. The EDPMS shall provide the essential medicines price information to patients and consumers to enable them. to exercise informed choice when purchasing medicines from public and private retail outlets. 
+
+D. The EDPMS shall also provide the price information which the government shall use in developing pricing policies for medicines and in guiding the design of access programs _ and health "beneﬁt packages of the DOH and the Philhealth, respectively. E. Data uploaded into the system shall be analyzed and randomly validated regularly. F. Partnerships with research institutions, the academe and other pertinent agencies and institutions shall be forged for third party/external validation of the EDPMS data and analysis. 
+
+VI. SPECIFIC GUIDELINES 
+
+A. UPLOADING 
+
+1. Drug outlet having only one (1) branch shall upload through EDPMS their selling PM prices and inventory once a year according to the following geographical clusters: 
+
+- Metro Manila — Uploading Month is lanuary a 
+- Luzon - Uploading Month IS April 
+- Visayas - Uploading Month is July 
+- Mindanao  — Uploading Month is October 
+
+2. Drug outlet having two (2) or more branches shall upload through the EDPMS their selling prices and inventory on a quarterly basis. 
+
+3. Drug outlet in hospitals in both public and private shall upload through the EDPMS their selling prices to patients and inventory on a quarterly basis. It is understood that medicine prices are. consistently applied for in-patient and out-patient care. 
+
+4. Drug establishments 
+
+a. Manufacturers and Manufacturer Traders shall upload through the EDPMS their selling price, based on the largest volume on a quarterly basis. Toll Manufacturers are exempted to upload in the EDPMS because they only processes raw materials or semi—ﬁnished goods for another company. 
+
+b. Distributors, Importers, Exporter and Wholesalers shall upload through the EDPMS their purchase price, selling price and inventory on a quarterly basis. 
+
+Data to be uploaded to the EDPMS by type of drug establishmentslfacilities are as follows: 
+
+ 
+<image>table_1.png</image>
+ 
+
+5. Certificate of Compliance to the EDPMS shall be a requirement to all drugs establishments who wish to participate in all government tendering activities for drugs and medicines.
+
+6. Price data made available to consumers and the public shall be. conﬁned to the final selling prices of medicines in drug chains and retail outlets. 
+
+B. LEVEL AND PERMISSION RIGHTS OF USERS 
+
+1. Only the Secretary of Health and/or his designated ofﬁcials/employees and the Pharmaceutical Division shall have full unrestricted access torthe EDPMS system for its price monitoring functions. 
+
+2. The PD shall define the users who are authorized to use the system, deﬁne access level and permission rights, review and approve request to access the system and/or data. 
+
+3. The PD shall assign and issue user names and passwords to drug establishments and outlets that are going to use the system. 
+
+4. The PD shall grant appropriate access levels and rights to the following: 
+
+a. Philhealth for veriﬁcation or checking submitted medicine prices for reimbursement by the government and private health facilities and for other purposes. 
+
+b. Procuring entities, namely Procurement Service, ROS, Hospitals and Committees on Bids and Award may check the current medicine prices in the market. 
+
+c. DOH Management, namely Executive Committee, Directors and Program Managers, and personnel of concerned ofﬁces including FDA. 
+
+5. The PD shall review and assess the requests of other agencies, ofﬁces, units, departments, and other organization to have access to the system. The PD shall assign and issue the appropriateness access level and rights. 
+
+C. CERTIFICATE OF COMPLIANCE 
+
+Certiﬁcate of Compliance will be issued by the Pharmaceutical Division (PD) and the Regional Ofﬁces to drug establishments and outlets who wish to participate in government bidding for drugs and medicines (valid for one (1) quarter)
+
+D. MONITORING AND REVIEW 
+
+1. For the effective implementation of this Order, a monitoring team composed of personnel from PD, KMITS and ROS shall be created to assess compliance of reporting facilities and performance of the system shall be conducted. The PD, KMITS, ROS and FDA are hereby authorized to conduct monitoring activities, which shall be done regularly or the need arises through spot monitoring or checking. 
+
+2. Annual Program Implementation Review will be conducted with the stakeholders to review current implementation of the EDPMS, to discuss the issues and future directions. ' 
+
+E. SOURCE OF FUNDS 
+
+Sub-allotment of funds to ROs shall be made to augment the resources of region to implement the EDPMS training, monitoring and other activities and expenditures related to EDPMS. The source of funds for these activities has been incorporated in the local health systems development. 
+
+VII. ROLES AND RESPONSIBILITIES 
+
+A. The PD, as the system owner and over-all lead ofﬁce in managing the implementation of the EDPMS, shall: 
+
+1. Provide directions and guidance in the implementation of EDPMS. 
+
+2. Recommend policies, procedures and guidelines in data collection, reporting, processing, analysis and dissemination of information.
+
+3. Require all drug outlets to use the EDPMS software in uploading data to the DOH and other automated tools or software to support the implementation of the medicine price monitoring and regulation system. 
+
+4. Grant user names and passwords to those who are authorized to use the EDPMS. 
+
+5. Conduct orientation and trainings on matters related to the use or operation of the system and other relevant trainings and provide funds necessary to maintain and implement the system (e.g. system development and maintenance, cost of meetings, workshops, conferences, symposium, and other related activities). 
+
+6. Review reports of price information, and analyze these data to be used as guide in the pharmaceutical pricing policy and review complaints/reports of violation submitted by the ROS as well as the general public. 
+
+7. Act appropriately on the reported violations submitted and identify drug outlets that will undergo investigation in coordination with ROS, Office for Regulations, FDA and the DOH LSSC. 
+
+8. Issue the Certiﬁcate of Compliance to the EDPMS uploading requirements upon request and Unified Pricing Certification for drug establishments and outlets having the same selling prices. 
+
+9. Monitor and evaluate the implementation of the EDPMS based on the reports submitted by the ROs and KMITS. 
+ 
+
+B. The FDA shall: 
+
+1. Shall Investigate and when necessary prosecute, hear and decide administrative cases and recommend sanctions to the Secretary of Health against drug establishments and drug outlets violating any provisions of this Order. 
+
+2. Maintain and update the registry of medicines and list of licensed drug establishment and outlets. 
+
+3. Report violations to PD for screening. 
+
+4. Suspend/Revoke the License—to—Ope’rate (LTO) and impose other appropriate sanctions upon proof of repeated violations. 
+
+C. The Bids and Awards Committees (BAC) of the DOH and its ROS Shall require a certificate of compliance to the EDPMS for all suppliers participating in government tendering and other modes of procurement of medicines. 
+
+D. PITC Pharma Inc. (PPI) Shall require a certiﬁcate of compliance to the EDPMS for all suppliers participating in government tendering and other modes of procurement of medicines. 
+
+E. The ROS shall: 
+
+1. Issue Certificates of Compliance to the EDPMS duly signed by the RO Director for drug establishments which are interested to join government biddings for drugs and medicines within their area of J urisdiction. 
+
+2. Through the Food and Drugs Regulatory Officer (FDRO): 
+
+2.a Orient and train drug establishments and outlets within their areas of responsibility. 
+
+2.b Monitor the compliance of drug establishments and drug outlets to the EDPMS. 
+
+2.c Issue written warning to non-complying facilities in the EDPMS uploading. 
+
+2.d. Submit quarterly status report of EDPMS compliance to Pharmaceutical Division. 
+
+2.e. Submit list of non— complying facilities to Pharmaceutical Division and FDA- F/ Manila for possible ﬁling of administrative sanctions. 
+
+2.f. Report errors in uploading and other violations to PD. 
+
+3. Through the PD-Technical Support: 
+
+3.a. Generate reports and share these with other divisions/ofﬁces with the approval from the PD Chief or the RO Director. 
+
+3.b. Orient and train drug establishments and outlets within their areas of responsibility on how to operate the software. 
+
+3.c. Monitor and evaluate the implementation of the system.
+
+3.d. Validate requests for user names and passwords, and endorse these to KMITS 
+
+
+F. The KMITS shall: 
+
+1. Provide technical support in software maintenance, implementation, deployment and operations, such as but not limited to the following: software enhancement, system troubleshooting, debugging, database backup and recovery, netWork administration, database administration, and others. 
+
+2. Train the trainers from ROs and PD, and/or users on how to operate the software. 
+
+3. Train the System Administrators on the mechanics of technical assistance, database administration, and other relevant technical support. 
+
+4. Monitor the operations and performance of the system. 
+
+5. Generate reports regarding the EDPMS implementation. 
+
+G. The Ofﬁce for Health Regulations: 
+
+1. Develop appropriate mechanisms to ensure that all relevant policies and plans on the EDPMS are implemented by the ROS. 
+
+2. Resolve issues that are elevated to the Cluster on EDPMS. 
+
+3. Support thetechnical assistance packages necessary to enhance the capacity of the ROs and the regional partners in providing assistance in. the ‘EDPMS to the local government units, and as necessary, in coordination with concerned clusters/ technical units. 
+
+H. Drug establishments and outlets covered by EDPMS shall: 
+
+1. Comply strictly with the standard operating procedures in uploading/submitting reports to the EDPMS. 
+
+2. Attend trainings, workshops, meetings or conferences related to the implementation of the system.  
+
+3. Register the personnel who are authorized to use the EDPMS to PD and R0. 
+
+4. Report issues, concerns or problems in the implementation of the system to the PD and RO. 
+
+VIII. ADMINISTRATIVE SANCTIONS 
+
+A. Administrative sanctions shall be imposed on erroneous submission or failure to submit the required data by drug establishments, hospital pharmacies and drug outlets and non- traditional drug outlets as required by the DOH without justiﬁable reason, provided that such erroneous submission or failure to submit electronic data does not fall. as any of the activities defined as illegal acts of price manipulation in which case the penalty provided for under RA 7581 or RA 9502 as may be appropriate and their implementing rules and regulations shall be followed. 
+
+ 
+B. The Food and Drug Administration shall impose the following sanctions, as stated in R.A. 9502,1RR, Chapter XIV: 
+
+1. 1st violation—m Written Warning(DOH-Regional Offices) 
+
+2. 2nd violation — Administrative Fine of a minimum of Ten Thousand (P10,000.00) to Fifty Thousand (_P50,000.00) Pesos depending on the gravity and. extent ofthe violation, including the recall of the product when applicable. 
+
+3. 3rd violation ——- Administrative Fine of minimum of Sixty Thousand (P60,000.00) to One Hundred Fifty Thousand (P15000000) Pesos, depending on the gravity and extend of the violation, and in addition thereto, the recall of the product, and suspension of the Certificate of Product registration (CPR)when applicable. 
+
+4. 4th violation —- Administrative fine of a minimum of Two” Hundred Thousand (P20000000) to Five Hundred Thousand (P500,000.00) Pesos, and when applicable the recall of the product, recall of violator’s License to Import and Distribute, including the blacklisting of the drug establishment or drug outlet, with advise of such action to the Government Procurement Policy Board (GPPB) and the Department of Trade and Industry (DTl) 
+
+5. 5th and succeeding violations— Administrative ﬁne of One Million (P1,000,000.00) Pesos, and when applicable the recall of the product, recall of violator’s License to Import and Distribute, including the blacklisting of the drug establishment or drug outlet. with advise of such action to the Government Procurement Policy Board (GPPB) and the Department of Trade and Industry (DTI) 
+
+6. An additional penalty of Two Thousand Five Hundred (P2,500.00) Pesos per day shall be made if the violations continues every day after having received the order from the DOH or other such appropriate body. notifying and penalizing the offending person or company for the infraction. 
+
+C. Suspension or revocation of the License to operate as drug establishments and drug outlets may also be imposed by the Secretary of Health in addition to the administrative fine. In case of suspension of the License to Operate, the duration thereof shall not exceed one (1) vear. 
+
+D. Rule 78. of the IRR of RA. 9502 on fees, charges and fines: All fees collected, charges imposed and administrative fine that have accrued. as a consequence of the implementation of this Administrative Order shall be for the account and income ofF DA. 
+
+E. In case the facility is blacklisted due to continuous non-compliance to the EDPMS uploading, the blacklisting status can only be lifted if the facility was able to comply on the uploading requirement of EDPMS for one (1) year after the year that the facility was blacklisted. 
+
+IX. REPEALING CLAUSE 
+
+Administrative OrderNo. 2011 —0012 dated September6, 2011 and other provisions of previous issuances, inconsistent with this Order are hereby repealed, amended and modified accordingly 
+
+
+X. SEPARABILITY CLAUSE 
+
+If any prevision of this Order is declared invalid by any court of law or any competent authority, those provisions not affected shall remain valid and effective. 
+
+XI. EFFECTIVITY: 
+
+This order shall take effect ﬁfteen (15) days after the publication on the gazette and a newspaper of general circulation.
+</body>
+
+<sign>JANETTE P. LORETO-GARIN, MD, MBA-H</sign>
+<signtitle>Secretary of Health</signtitle>
+
+  
+

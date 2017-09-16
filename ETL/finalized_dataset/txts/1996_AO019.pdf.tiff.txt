@@ -1,0 +1,225 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+   
+SAN LAZARO COMPOUND 
+RIZAL AVENUE, STA. CRUZ
+MANILA, PHILIPPINES
+TEL NO. 711-60-80  
+
+<date>05/21/1996</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 19 s. 1996</docnum>
+
+<subject>SUBJECT: SUBJECT IMPLEMENTING GUIDELINES ON EARLY DIAGNOSIS AND PROMPT TREATMENT OF MALARIA PATIENTS</subject>
+
+<body>
+
+The Philippines was among the 96 member countries of the WHO (World Health Organization) winch endorsed the New Global Malaria Control Strategy. This was adopted during the Ministerial Conference on Malaria in Amsterdam, Netherlands last October 1992, The essential elements of the Strategy include Early Diagnosis and Prompt Treatment.
+
+In response to this commitment the DOH (Department of Health), through the MCS (Malaria Control Service) conducted a series of consultative meetings to come up with the implementing guidelines. The participants were the MCS Staff, the Malaria
+Coordinators, the Asst. Provincial Health Officers and the WHO Consultants.
+
+
+GUIDELINES
+
+1. Early Diagnosis and Prompt Treatment of a malaria patient is the provision of drug treatment to a patient as soon as, within one day, she/he is diagnosed to have malaria.
+
+2. The objectives are 1) to cure the patient, 2) to reduce the duration of the illness; 3) to prevent complications and to 4) prevent death.
+
+3. The main strategy in the diagnosis is to utilize either the clinical method or the  microscopic method which ever is most feasible. Clinical Method is based on signs and symptoms and a history of travel to a malaria endemic area and is applicable in areas where Microscopy Examination result is not available within one day. Microscopic Method, is the microscopic confirmation of the blood smear of the patient and is applicable in areas where Microscopy Examination result is available within one day.
+
+4. Complete drug treatment should be given once the diagnosis is made, the previous, strategy of presumptive treatment should no longer be followed.
+
+5. Clinical diagnosis and treatment shall be done by all health workers involved in patient care such as doctors, nurses, midwives and malaria field personnel. To cover all areas within their respective areas of Jurisdiction every month, the RHM or the malaria field  personnel shall undertake the activity without necessarily going house to house but being in a strategic place where patients could go for consultations. The community should be informed or his/her scheduled visit, Then she/he visits the next strategic place until all areas are covered.
+
+6. The existing microscopy network shall still be followed.
+
+7. Immediate referral of the patient should be done when needed, through the existing referral system.
+
+8. To confirm the diagnose and to monitor the parasitological response to chemotherapy, all smears from clinically-diagnosed patients should be submitted for microscopic examination to the microscopy center concerned.
+
+9. A separate record should be maintained for clinically diagnosed cases and for microscopically-diagnosed cases.
+
+10. Training of all health personnel concerned shall be undertaken by the DOH.
+
+11. The following are the Diagnosis and Treatment Flow Chart and the Chemotherapy Guidelines (Figure 1-A, B, C).
+
+11.1 Malaria Diagnosis and Treatment Flow Chart
+
+11.1.1 Clinical Assessment
+
+11.1.2. Diagnosis
+
+11.1.3. Actions to be Taken
+
+11.1.4 Follow—up
+
+11.1.1 CLINICAL ASSESSMENT (Figure 1-A)
+<image>figure_1.png</image> 
+
+11.1.2 DIAGNOSIS (Figure 1-B)
+<image>figure_2.png</image>
+
+11.1.4 FOLLOW-UP (Figure 1-C)
+<image>figure_3.png</image>
+
+11.1 5 FURTHER FOLLOW-UP
+
+IF THE PATIENT IS STTLL SYMPTOMATIC AFTER COMPLETION OF RE-TREATMENT, RE-ASSESS AND MANAGE THE PATIENT AS OUTLINED ABOVE,
+IF THE DIAGNOSIS IS STILL MALARIA, THE DRUG OF CHOICE IS QUININE OR QUININE PLUS  TETRACYCLINE, REFER THE PATIENT TO A PHYSICIAN FOR FURTHER EVALUATION AND MANAGEMENT.
+
+11.3 SCHEDULE OF DRUG TREATMENT
+
+11.3.1 SCHEDULE OF DRUG TREATMENT FOR MILD, MODERATE OR UNCOMPLICATED MALARIA CASES THAT ARE SENSITIVE TO CHLOROQUINE
+
+11.3.1 Treatment of P. falciparum Cases
+
+Recommended Drugs and Dosage Regimen are as follows:
+
+a) Chloroquine phosphate 150 mg. base/tablet (equivalent to 250 mg. salt/tablet)
+First day - 10 mg. base/kg body weight
+Second day - 10 mg. base/kg body weight
+Third day - 5 mg. base/kg body weight
+(The dosage is computed using the based component and not on the salt component)
+
+b) Primaquine diphosphate 15 mg. base/tablet
+0.9 base/kg body weight taken as a single dose
+
+For practical purposes, follow the dosage schedule in Table 1.
+
+Table 1. Treatment Schedule for P. falciparum Cases Using Oral Chloroquine and Primaquine
+<image>table_1.png</image>
+
+11.2 CHEMOTHERAPY GUIDELINES
+
+The following are guidelines regarding the appropriate and rational use of anti-malaria drugs: 
+
+11.2.1 Oral Chloroquine is the first line drug regardless of the malaria parasite provided that the disease is not severe. The use of parenteral Chloroquine is strongly discouraged.
+
+11.2.2 Sulfadoxine-Pyrimethamine is the second line drug. It should be given only to clinically-diagnosed cases or to microscopically-confirmed P. falciparum cases which did not respond to adequate Chloroquine treatment. It must not be given to confirmed P. vivax infection. Its use in pregnancy should be avoided.
+
+11.2.3 Quinine is the third line drug. It should be given only to severe/complicated cases and to those who did not respond to Chloroquine and to Sulfadozine/Pyrimethamine. It is also the drug of choice for malaria in pregnancy which does not respond to adequate treatment with Chloroquine.
+
+11.2.4 In case of suspected Quinine resistance, Tetracycline must be given in combination with Quinine. Tetracycline is contra-indicated in pregnancy and in children under eight (8) years of age.
+
+11.2.5 In severe/complicated cases, Quinidine may be used instead of Quinine, if the latter is not immediately available.
+
+11.2.6 Primaquine must be given as a single dose to all clinically diagnosed cases, or to  microscopically-confirmed P. falciparum cases to prevent transmission. For confirmed P. vivax cases, it is given for fourteen (14) days to prevent relapse.
+
+11.2.7 The use of other anti—malaria drugs such as Halofantrine, Mefloquine and Fansimef (a combination of Mefloquine and Sulfadoxine/Pyrimethamine) is strongly discouraged. These drugs shall be reserved for future use in case resistance develops to the drugs presently used.
+
+11.3.1.2 Treament of P. vivax and Mixed Cases 
+
+Recommended Drugs and dosage regimen are as follows:
+a) Chloroquine - the same dosage as in falciparum cases (Table. 1)
+b) Primaquine (1.3 mg/kg body weight or as indicated in Table 2.
+
+Table 2. Treatment schedule for P. vivax and Mixed Cases Using Oral-Chloroquine and Primaquine.
+<image>table_2.png</image>
+ 
+11.3.1.3 Treatment of P. malariae Cases
+
+Treat as in falciparum case (Table 1)
+
+11.3.1.4 Treatment of Clinically-Diagnosed Cases 
+
+Treat as falciparum malaria (Table 1). Clinical diagnosis shall be done according to the Malaria Diagnosis and Treatment Flow Chart 11.1.
+
+11.3.4 Treatment of Malaria in Pregnancy 
+
+Due to the increased risk of severe disease, acute uncomplicated malaria in pregnancy is an emergency to be treated as soon as possible and requires a very effective treatment with the lowest possible risk of clinical failure, and a high  probability of killing all asexual stages in the blood and in the placenta.
+
+Chemotherapy is basically the same as outlined in the preceding pages and  it depends on the species, status of drug resistance and severity. 
+
+Use Chloroquine phosphate for mild cases. If drug resistance is suspected and/or if severe and complicated Quinine (oral or intravenous as is appropriate) is the drug of choice if given at the recommended therapeutic dose, Quinine has no adverse effect on pregnancy.
+
+Sulfadoxine/Pyrimethamine be given only if Chloroquine is not available or in case of drug resistance to the latter drug. Furthermore, it must be avoided during the first and last three months of pregnancy.
+
+Primaquine disphosphate and tetracycline hydrochloride are contraindicated in pregnancy. If vivax malaria occurs during pregnancy Primaquine must be given after delivery to prevent relapse .
+
+It is essential that blood sugar must be monitored when using intravenous Quinine.
+
+11.3.5 Chemoprophylaxis
+
+Chemoprophylaxis (or more correctly chemosupression) is recommended to the following:
+a) All pregnant women in Malarious A and B areas.
+b) Non-immune/semi-immune travellers visiting highly endemic areas.
+
+Recommended Drug and Dosage
+
+Only Chloroquine phosphate is recommended. The recommended dose 5 mg. base/kg body weight or as outlined in Table 6. 
+
+It must be taken at weekly interval starting 2 weeks before entering the endemic areas, continue weekly while in the endemic areas and until 4—6 weeks after leaving these areas. For pregnant women, Chloroquine must be taken throughout their pregnancy with the same frequency as above.
+
+Table 6. Weekly Dosage of Chloroquine Phosphate for Chemoprophylaxis
+<image>table_3.png</image>
+ 
+11.2.3 Recommended Treatment Schedule:
+
+Table 3. Treatment of Chloroquine-Resistant P. falciparum Cases, Using Sulfadoxine/Pyrimethamine in combination with Primaquine
+<image>table_4.png</image>
+ 
+11.3.2 TREATMENT OF DRUG RESISTANT MALARIA CASES
+
+11.3.2.1 Definition
+
+Drug resmtance means "the ability of the parasite strain to multiply and/or survive despite the administration and absorption of a drug given in doses equal to or higher than those normally recommended but within the limits of tolerance of the patient”. It is suspected when acute cases of falciparum malaria do not rapidly respond to proper treatment with drugs within 48-72 hours, or when recrudescence of symptoms and parasites in the blood are seen soon after their temporary disappearance after such treatment.
+
+11.3.2.2 Recommended Drugs
+
+(a) Sulfadoxine (500 mg)/Pyrimethamine (25 mg) plus Primaquine (15 mg base), per tablet.
+To be used in mild, moderate or uncomplicated cases that did not respond to Chloroquine.
+
+(b) Quinine (300 mg) plus Primaquine (15 mg. base) per tablet
+To be used in cases that did not respond to Sulfadoxine/Pyrimethamine treatment or those who have severe malaria.
+
+(c) Quinine (300 mg/tab) plus Tetracycline (250 mg/cap) and Primaquine (15 mg base/tab)
+Tetracycline maybe combined with Quinine if resistance to the latter is suspected.
+
+Table 4. Treatment of Sulfadoxine/Pyrimethamine—Resistant P. falciparum cases, Using Quinine in Combination with Primaquine
+<image>table_5.png</image>
+
+Note: The dosage of Quinine may be computed as follows: 10 mg./kg. body weight every 8 hours for seven days.
+
+Table 5. Treatment of Quine—Resistant P. falciparum Cases or Multi—Drug Resistant Cases, Using a Combination Of Quinine, Primaquine and Tetracycline
+<image>table_6.png</image>
+ 
+TREATMENT OF SEVERE AND COMPLICATED MALARIA
+
+Severe/complicated malaria is a medical emergency. It is requires intravenous antimalarial drug administration until oral medications can be tolerated. The recommended antimalarial drug treatment is as follows:
+
+11.3.3.1 QUININE 
+
+10 mg./kg. body weight incorporated in 10 ml/kg body weight (roughly 500 ml for adult) intravenous fluid (D5W or D1OW or NSS) to be infused slowly over 2-4 hours. Repeat every eight (8) hours until the patient is able to tolerate oral medications.
+
+Shift to oral quinine at the same dose (10 mg/kg body (weight every 8 hours or as outlined in Table 4) to complete seven days treatment. 
+
+If the patient has not taken quinine within the past 7 days, a leading dose (initial dose) of 20 mg./kg. body weight incorporated in fluid maybe given slowly in 2—4 hours.
+
+11.3.3.2 PRIMAQUINE
+
+To be given at the same dose as in uncomplicated falciparum malaria when the patient can tolerate oral medication.
+
+11.3.3.3 TETRACIYCLINE
+
+May be given when necessary at same dosage and administration as in Table 5 when the patient can take oral medications.
+
+11.3.3.4 QUINIDINE 
+
+If intravenous quinine is not available, quinidine may be given. The dose is 7.5 mg. base/kg. body weight incorporated in IV fluid given  slowly in 2-4 hours and repeat every 8 hours (as in quinine treatment).  Shift to oral quinine to complete seven days treatment as soon as the patient can tolerate oral medications.
+
+If malaria occurs while taking chemoprophylaxis, immediately seek medical attention. If this is not possible, take a full course of
+
+Sulfadoxine/Pyrimethamine (Table 3) and for pregnant women, take the full course of Chloroquine only.
+
+For compliance.
+
+  
+</body> 
+<sign>CARMENCITA NORIEGA-REODICA, M.D., M.P.H., CESO II</sign>
+<signtitle>Secretary of Health</signtitle>
+
+MCS/OPHS

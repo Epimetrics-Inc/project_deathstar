@@ -1,0 +1,21 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+ 
+
+<date>21/5/1982</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 25, s.1982</docnum>   
+
+<subject>SUBJECT : Amendment to Administrative Order No. 116 dated December 31, 1980 by transferring the Management Information System Division from the P1anning Service to the Disease Intelligence Center to which it is organizationally attached effective immediately.</subject>
+
+<body>In order that the statistical information generated from all health and medical units of the Ministry of Health can be effectively utilized for disease intelligence purposes and other health related matters, the Management Information System Division, which has been placed temporarily under the Planning service, is hereby transferred to the Disease Intelligence Center, to which it has been organizationally attached under the General appropriations Act.
+
+       Accordingly, all administrative and technical matters involving the Management Information System Division Shall bear the recommendation or approval, as the case maybe, of the Chief, Disease Intelligence Center. 
+
+       This Order which takes effect immediately supersedes any and all orders if inconsistent therewith. 
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>
