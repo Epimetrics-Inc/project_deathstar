@@ -1,5 +1,6 @@
 import os
 import re
+import datetime
 import copy
 import codecs
 from lxml import etree
@@ -247,6 +248,8 @@ def insert_db(data: dict):
         id = Column(Integer, primary_key=True)
         title = Column(psql.TEXT)
         date = Column(DATE)
+        created = Column(DATE, default=datetime.datetime.now)
+        modified = Column(DATE, default=datetime.datetime.now)
         doctype = Column(psql.TEXT)
         docnum = Column(psql.TEXT)
         subject = Column(psql.TEXT)
