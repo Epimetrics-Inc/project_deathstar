@@ -1,25 +1,25 @@
 from celery import shared_task
 
-@shared_task
-def add(x, y):
-    return x+y
 
 @shared_task
 def viz_scattertext(doc1, doc2):
-    import scattertext as st
-    import spacy
-    output_fn = doc1+'_'+doc2+'.html'
-    convention_df = st.SampleCorpora.ConventionData2012.get_data()
-    nlp = spacy.en.English()
-    corpus = st.CorpusFromPandas(convention_df,
-                                    category_col = 'party',
-                                    text_col = 'text',
-                                    nlp = nlp).build()
-    html = st.produce_scattertext_explorer(corpus,
-              category='democrat',
-              category_name='Democratic',
-              not_category_name='Republican',
-              width_in_pixels=1000,
-              metadata=convention_df['speaker'])
-    open('/vagrant/core/generated/'+output_fn, 'wb').write(html.encode('utf-8'))
+    import os
+
+    dir = '/vagrant/core/generated/'
+
+    existing = False
+    fn = []
+    for _, _, f in os.walk(dir):
+        fn += f
+
+    if doc1 + '_' + doc2 + '.html' in fn or doc2 + '_' + doc1 + '.html' in fn:
+        existing = True
+
+    output_fn = doc1 + '_' + doc2 + '.html'
+
+    # if not existing:
+    #     from api.models import Document
+    #     # Document.objects.get(title=doc1)
+    #     res = create_scattertext(doc1, doc2, dir+output_fn)
+
     return output_fn

@@ -1,12 +1,12 @@
+from celery.result import AsyncResult
 from rest_framework import viewsets, status
-from rest_framework.decorators import api_view
 from rest_framework.filters import SearchFilter, OrderingFilter
 from rest_framework.mixins import RetrieveModelMixin, CreateModelMixin
 from rest_framework.response import Response
 from rest_framework_extensions.mixins import (
     PaginateByMaxMixin, ReadOnlyCacheResponseAndETAGMixin, DetailSerializerMixin)
+
 from api.tasks import viz_scattertext
-from celery.result import AsyncResult
 from .models import Document
 from .serializers import DocumentListSerializer, DocumentGetSerializer, VisualizationPostSerializer, \
     VisualizationGetSerializer
@@ -30,7 +30,8 @@ class DocumentViewSet(DetailSerializerMixin, ReadOnlyCacheResponseAndETAGMixin,
     serializer_class = DocumentListSerializer
     serializer_detail_class = DocumentGetSerializer
 
-class VisualizationViewSet(CreateModelMixin, RetrieveModelMixin,viewsets.GenericViewSet):
+
+class VisualizationViewSet(CreateModelMixin, RetrieveModelMixin, viewsets.GenericViewSet):
     """
     Trigger scattertext to create a new html visualization
     """
@@ -45,6 +46,10 @@ class VisualizationViewSet(CreateModelMixin, RetrieveModelMixin,viewsets.Generic
             return VisualizationPostSerializer
 
     def get_object(self):
+        """
+        Retrieve task object from cache
+        :return: Response object with status code
+        """
 
         result = AsyncResult(self.kwargs[self.lookup_field])
         obj = {
@@ -59,11 +64,17 @@ class VisualizationViewSet(CreateModelMixin, RetrieveModelMixin,viewsets.Generic
         return obj
 
     def create(self, request, *args, **kwargs):
+        """
+        Create a new task that triggers a new visualization document
+        :param request:
+        :param args:
+        :param kwargs:
+        :return: Response object with status code
+        """
         serializer = self.get_serializer(data=request.data)
         serializer.is_valid(raise_exception=True)
         res = viz_scattertext.delay(serializer.data['document_one'],
                                     serializer.data['document_two'])
-        # res = add.delay(2, 3)
         output = serializer.data
         output['task_id'] = res.id
         return Response(output, status=status.HTTP_202_ACCEPTED)
