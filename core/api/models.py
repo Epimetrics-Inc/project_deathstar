@@ -16,7 +16,6 @@ class Document(ext_models.TimeStampedModel):
     images = JSONField(null=True)
     raw_body = JSONField(null=True)
 
-
     class Meta:
         ordering = ('date', 'modified',)
 
@@ -25,10 +24,9 @@ class Document(ext_models.TimeStampedModel):
 
 
 class Label(ext_models.TimeStampedModel):
-
     document = OneToOneField(
         Document,
-        on_delete = models.CASCADE,
+        on_delete=models.CASCADE,
         primary_key=True
     )
 
