@@ -137,6 +137,13 @@ def extract_data(data: etree._Element) -> dict:
     return d
 
 
+def get_text(node):
+    result = node.text or ""
+    for child in node:
+        if child.tail is not None:
+            result += child.tail
+    return result
+
 def find_tag(data: etree._Element, tag: str, all=False) -> dict:
     """
     Handles missing attribute errors with default inputs
@@ -147,7 +154,7 @@ def find_tag(data: etree._Element, tag: str, all=False) -> dict:
     if all is False:
         try:
             tag_node = data.find(tag_search)
-            d['text'] = tag_node.text
+            d['text'] = get_text(tag_node)
             d['line_num'] = tag_node.sourceline
         except AttributeError:
             d['text'] = None
