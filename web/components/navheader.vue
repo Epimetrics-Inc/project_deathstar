@@ -16,13 +16,13 @@
 	        <!-- /.navbar-header -->
 
 	        <ul class="nav navbar-top-links navbar-right ">
-	            <li v-bind:class="{ active: isDocActive }">
+	            <li v-bind:class="{ active: activeSidebar=='doc' }" id="navheader-doc">
 	                <nuxt-link to="/">Documents</nuxt-link>
 	            </li>
-	            <li v-bind:class="{ active: isVisActive }">
+	            <li v-bind:class="{ active: activeSidebar=='viz' }" id="navheader-viz">
 	                <nuxt-link to="visualization">Visualization</nuxt-link>
 	            </li>
-	            <li v-bind:class="{ active: isAboutActive }">
+	            <li v-bind:class="{ active: activeSidebar=='about' }" id="navheader-about">
 	                <nuxt-link to="about">About</nuxt-link>
 	            </li>               
 	        </ul>
@@ -33,7 +33,7 @@
 
 <script>
 export default {
-  props: ['isVisActive', 'isDocActive', 'isAboutActive'],
+  props: ['activeSidebar'],
   methods: {
     toogleSideBar: function (event) {
       this.$emit('tooglesidebar')

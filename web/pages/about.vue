@@ -1,7 +1,7 @@
 <template>
 		<div id="wrapper">
 			<!-- Navigation -->
-			<navheader is-about-active="true"></navheader>
+			<navheader active-sidebar="about"></navheader>
 		</div>
 </template>
 

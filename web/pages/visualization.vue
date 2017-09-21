@@ -2,7 +2,7 @@
     <div id="wrapper">
 
         <!-- Navigation -->	
-        <navheader isVisActive="true" v-on:tooglesidebar="sidebarCollapse=!sidebarCollapse"></navheader>
+        <navheader active-sidebar="viz" v-on:tooglesidebar="sidebarCollapse=!sidebarCollapse"></navheader>
     		<collapse class="navbar-default navbar-collapse sidebar" v-model="sidebarCollapse">
             <div class="sidebar-nav">
                 
