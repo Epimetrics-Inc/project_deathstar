@@ -45,7 +45,7 @@
             </a>
         </li>
     </ul>
-    <modal v-model="isFilterModalOpen" title="Search options" class="modal-wrapper" :footer="false">
+    <modal v-model="isFilterModalOpen" title="Search options" class="modal-wrapper">
         <div class="modal-custom-header">Themes</div>
         <div>
             <label class="checkbox-inline" v-for="filter in filters">
@@ -112,6 +112,12 @@
                 </template>
             </dropdown>
             <!--/ dateto dropdown + date-picker -->
+        </div>
+        <hr>
+
+        <div class="modal-custom-header">Signed by</div>
+        <div>
+          <input class="form-control" type="text" v-model="signedBy">
 
         </div>
     </modal>
@@ -195,7 +201,8 @@ export default {
       sortBy: 'newest',
       isFilterModalOpen: false,
       dateFrom: '',
-      dateTo: ''
+      dateTo: '',
+      signedBy: ''
     }
   },
   props: ['isDocActive'],

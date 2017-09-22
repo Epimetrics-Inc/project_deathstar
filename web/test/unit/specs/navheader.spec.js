@@ -1,8 +1,4 @@
 import Navheader from '~/components/navheader.vue'
-import Index from '~/pages/index.vue'
-import About from '~/pages/about.vue'
-import Visualization from '~/pages/visualization.vue'
-
 import { mount } from 'avoriaz'
 
 describe('navheader.vue', () => {
