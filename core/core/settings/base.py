@@ -14,6 +14,7 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'django_redis',
+    'rest_framework_swagger',
     # project apps
     'api',
 ]
