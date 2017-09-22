@@ -18,7 +18,7 @@ class DocumentListSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Document
-        fields = ('id', 'title', 'date', 'sign', 'doctype',
+        fields = ('pk', 'title', 'date', 'sign', 'doctype',
                   'docnum', 'label', 'created', 'modified',)
 
 
@@ -27,7 +27,7 @@ class DocumentGetSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Document
-        fields = ('id', 'title', 'date', 'sign', 'signtitle', 'doctype',
+        fields = ('pk', 'title', 'date', 'sign', 'signtitle', 'doctype',
                   'docnum', 'label', 'created', 'modified', 'body', 'raw_body', 'label')
 
 
@@ -57,6 +57,8 @@ class VisualizationPostSerializer(serializers.Serializer):
         E = data.get('document_ls_one', None) is None
         F = data.get('document_ls_two', None) is None
 
+        data['type'] = None
+
         if not A and not B:
             if data['document_one'] == data['document_two']:
                 raise serializers.ValidationError('Provided documents should not be the same.')
@@ -66,6 +68,7 @@ class VisualizationPostSerializer(serializers.Serializer):
                 doc_two = Document.objects.get(title=data['document_two'])
                 data['doc_one_id'] = doc_one.pk
                 data['doc_two_id'] = doc_two.pk
+                data['type'] = 'document'
             except Exception as e:
                 raise serializers.ValidationError('Documents not found: ' + str(e))
 
@@ -75,14 +78,19 @@ class VisualizationPostSerializer(serializers.Serializer):
             elif not data['theme_one'].lower() in themes or not data['theme_two'].lower() in themes:
                 raise serializers.ValidationError('Provided themes are not found.')
 
+            data['type'] = 'theme'
+
         elif not E and not F:
             if set.intersection(set(data.get('document_ls_one', None)),
                                 set(data.get('document_ls_two', None))):
                 raise serializers.ValidationError('Provided documents lists have similar values.')
 
             try:
-                data['doc_ls_one_id'] = [Document.objects.get(title=doc).pk for doc in data['document_ls_one']]
-                data['doc_ls_two_id'] = [Document.objects.get(title=doc).pk for doc in data['document_ls_two']]
+                data['doc_ls_one_id'] = sorted([Document.objects.get(title=doc).pk
+                                                for doc in data['document_ls_one']])
+                data['doc_ls_two_id'] = sorted([Document.objects.get(title=doc).pk
+                                                for doc in data['document_ls_two']])
+                data['type'] = 'document_list'
 
             except Exception as e:
                 raise serializers.ValidationError('Documents not found: ' + str(e))

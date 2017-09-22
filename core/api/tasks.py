@@ -1,21 +1,38 @@
 from celery import shared_task
-
+from django.conf import settings
 
 @shared_task
-def viz_scattertext(doc1, doc2):
+def viz_scattertext(ids, task_type):
     import os
 
-    dir = '/vagrant/core/generated/'
+    if settings.DEBUG:
+        dir = '/vagrant/core/generated/'
+    else:
+        dir = None
+
+    if task_type == 'document_list':
+        id1 = ids[0][0]
+        id2 = ids[1][0]
+    else:
+        id1 = ids[0]
+        id2 = ids[1]
+
+    id1 = str(id1)
+    id2 = str(id2)
 
     existing = False
     fn = []
     for _, _, f in os.walk(dir):
         fn += f
 
-    if doc1 + '_' + doc2 + '.html' in fn or doc2 + '_' + doc1 + '.html' in fn:
-        existing = True
+    output_fn = id1 + '_' + id2 + '.html'
 
-    output_fn = doc1 + '_' + doc2 + '.html'
+    if id1 + '_' + id2 + '.html' in fn:
+        existing = True
+    elif id2 + '_' + id1 + '.html' in fn:
+        existing = True
+        output_fn = id2 + '_' + id1 + '.html'
+
 
     # if not existing:
     #     from api.models import Document

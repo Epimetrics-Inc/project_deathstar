@@ -26,6 +26,6 @@ visualization_create = VisualizationViewSet.as_view({
 urlpatterns = [
     url(r'^documents/$', cache_page(5 * 60)(document_list), name='document-list'),
     url(r'^documents/(?P<pk>[0-9]+)/$', cache_page(5 * 60)(document_detail), name='document-detail'),
-    url(r'^visualize/$', visualization_create),
-    url(r'^visualize/(?P<task_id>.+)/$', visualization_detail),
+    url(r'^visualize/$', visualization_create, name='visualization-create'),
+    url(r'^visualize/(?P<task_id>.+)/$', visualization_detail, name='visualization-detail'),
 ]
