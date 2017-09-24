@@ -2,8 +2,8 @@
 const testsContext = require.context('./specs', true, /\.spec$/)
 testsContext.keys().forEach(testsContext)
 
-// // require all pages and components files
-// // you can also change this to match only the subset of files that
-// // you want coverage for.
-// const srcContext = require.context('~/pages', true, /\.vue$/)
-// srcContext.keys().forEach(srcContext)
+// require all pages and components files
+// you can also change this to match only the subset of files that
+// you want coverage for.
+const srcContext = require.context('~/pages', true, /\.vue$/)
+srcContext.keys().forEach(srcContext)

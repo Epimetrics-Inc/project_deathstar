@@ -6,11 +6,11 @@
                 <input type="text" class="form-control" placeholder="Search..." />
                 <icon class="form-control-feedback" name="search"></icon>
             </div>
-            <button class=" btn btn-default search-option icon-button" type="button" v-on:click="isFilterModalOpen=true">
+            <button class=" btn btn-default search-option icon-button" type="button" v-on:click="isFilterModalOpen=true" id="filter-button">
                 <icon name="filter"></icon>
             </button>
             <div v-if="isDocActive == 'true'">
-                <button class=" btn btn-default search-option icon-button" type="button">
+                <button class=" btn btn-default search-option icon-button" type="button" id="upload-button">
                     <icon name="plus"></icon>
                 </button>
             </div>
@@ -47,7 +47,7 @@
     </ul>
     <modal v-model="isFilterModalOpen" title="Search options" class="modal-wrapper">
         <div class="modal-custom-header">Themes</div>
-        <div>
+        <div id="filter-themes">
             <label class="checkbox-inline" v-for="filter in filters">
                 <input type="checkbox" v-bind:value="filter" v-model="checkedFilters">
                 {{ filter }}
@@ -57,7 +57,7 @@
         <hr>
 
         <div class="modal-custom-header">Sort by</div>
-        <div>
+        <div id="filter-sort">
             <label class="radio-inline">
                 <input type="radio" v-model="sortBy" value = "newest">
                 Date (newest)
@@ -76,10 +76,10 @@
         <div class="modal-custom-header">Date signed</div>
         <div class="form-inline">
             <!-- datefrom dropdown + date-picker -->
-            <dropdown class="form-group">
+            <dropdown class="form-group" id="filter-date-from">
                 <label for="datefrom">From </label>
                 <div class="input-group" id="datefrom">
-                    <input class="form-control" type="text" v-model="dateFrom" v-on:blur="validateDate('dateFrom')"  >
+                    <input class="form-control" type="text" v-model.lazy="dateFrom">
                     <div class="input-group-btn">
                         <button class="btn btn-default" type="button" data-role="trigger">
                             <icon name="calendar"></icon>
@@ -95,10 +95,10 @@
             <!--/ datefrom dropdown + date-picker -->
             
             <!-- dateto dropdown + date-picker -->
-            <dropdown class="form-group">
+            <dropdown class="form-group" id="filter-date-from">
                 <label for="dateTo">To: </label>
                 <div class="input-group" id="dateto">
-                    <input class="form-control" type="text" v-model="dateTo" v-on:blur="validateDate('dateTo')">
+                    <input class="form-control" type="text" v-model.lazy="dateTo">
                     <div class="input-group-btn">
                         <button class="btn btn-default" type="button" data-role="trigger">
                             <icon name="calendar"></icon>
@@ -241,6 +241,14 @@ export default {
 
         this[dateObjectName] = [year, month, day].join('-')
       }
+    }
+  },
+  watch: {
+    dateFrom: function () {
+      this.validateDate('dateFrom')
+    },
+    dateTo: function () {
+      this.validateDate('dateTo')
     }
   },
   mounted: function () {
