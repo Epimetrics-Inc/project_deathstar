@@ -4,9 +4,9 @@
         <!-- Navigation -->
         <navheader active-sidebar="doc" v-on:tooglesidebar="sidebarCollapse=!sidebarCollapse"></navheader>
 
-    		<collapse class="navbar-default navbar-collapse sidebar" v-model="sidebarCollapse">
+        <collapse class="navbar-default navbar-collapse sidebar" v-model="sidebarCollapse">
             <div class="sidebar-nav">
-        		<navsearch is-doc-active="true"></navsearch>
+            <navsearch is-doc-active="true"></navsearch>
             </div>
             <!-- /.sidebar-collapse -->
         </collapse>
@@ -16,10 +16,10 @@
         <div id="page-wrapper">
             <div class="container-fluid doc-preview">
             <div class="zoom-buttons">
-                <a v-on:click="zoomOut()">
+                <a id="zoom-out-button" v-on:click="zoomOut()">
                     <icon name="search-minus"></icon>
                 </a>
-                <a v-on:click="zoomIn()">
+                <a id="zoom-in-button" v-on:click="zoomIn()">
                     <icon name="search-plus"></icon>
                 </a>
             </div>
@@ -586,12 +586,14 @@ export default {
   },
   methods: {
     zoomIn: function (event) {
+      console.log('zoom in')
       var fontSizeInt = parseInt(this.docStyle.fontSize, 10) // parse to a decimal value
       if (fontSizeInt < 50) { // maximum 50        
         this.docStyle.fontSize = (fontSizeInt + 5) + 'px'
       }
     },
     zoomOut: function (event) {
+      console.log('zoom out')
       var fontSizeInt = parseInt(this.docStyle.fontSize, 10) // parse to a decimal value
       if (fontSizeInt > 5) { // minimum 5
         this.docStyle.fontSize = (fontSizeInt - 5) + 'px'
