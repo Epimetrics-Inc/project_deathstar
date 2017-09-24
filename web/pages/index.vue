@@ -23,7 +23,7 @@
                     <icon name="search-plus"></icon>
                 </a>
             </div>
-                <div v-bind:style="docStyle" id="zoom-wrapper">
+                <div v-bind:style="{fontSize:fontSize + 'px'}" id="zoom-wrapper">
                     <div class="doc-header">
                         <img id="doh-logo" src="../static/doh_logo.png" alt="DOH logo">
                         <div class="header-title">
@@ -578,25 +578,21 @@ export default {
 
   data: function () {
     return {
-      docStyle: {
-        fontSize: '15px' // 15 is default font-size
-      },
+      fontSize: 15,
       sidebarCollapse: true
     }
   },
   methods: {
     zoomIn: function (event) {
       console.log('zoom in')
-      var fontSizeInt = parseInt(this.docStyle.fontSize, 10) // parse to a decimal value
-      if (fontSizeInt < 50) { // maximum 50        
-        this.docStyle.fontSize = (fontSizeInt + 5) + 'px'
+      if (this.fontSize < 50) { // maximum 50        
+        this.fontSize = (this.fontSize + 5)
       }
     },
     zoomOut: function (event) {
       console.log('zoom out')
-      var fontSizeInt = parseInt(this.docStyle.fontSize, 10) // parse to a decimal value
-      if (fontSizeInt > 5) { // minimum 5
-        this.docStyle.fontSize = (fontSizeInt - 5) + 'px'
+      if (this.fontSize > 5) { // minimum 5
+        this.fontSize = (this.fontSize - 5)
       }
     }
   }
