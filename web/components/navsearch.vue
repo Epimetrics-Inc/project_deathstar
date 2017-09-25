@@ -249,7 +249,9 @@ export default {
   },
   watch: {
     searchString: function () {
-      alert(this.aoDocuments)
+      api.getDocuments({search: this.searchString}).then(res => {
+        this.aoDocuments = res.data.results
+      })
     },
     dateFrom: function () {
       this.validateDate('dateFrom')
@@ -262,10 +264,8 @@ export default {
     for (let filter of this.filters) { // initialize to check all filters
       this.checkedFilters.push(filter)
     }
-
     api.getDocuments().then(res => {
       this.aoDocuments = res.data.results
-      console.log(this.aoDocuments)
     })
   }
 }
