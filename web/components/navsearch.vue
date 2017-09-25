@@ -3,7 +3,7 @@
     <div class="sidebar-search">
         <div class="sidebar-search-options">
             <div class="has-feedback has-feedback-left search-option">
-                <input type="text" class="form-control" placeholder="Search..." />
+                <input type="text" class="form-control" placeholder="Search..." v-model.lazy="searchString"/>
                 <icon class="form-control-feedback" name="search"></icon>
             </div>
             <button class=" btn btn-default search-option icon-button" type="button" v-on:click="isFilterModalOpen=true" id="filter-button">
@@ -31,15 +31,16 @@
         </transition>
     </div>
     <ul class="nav" id="side-menu">
-        <li v-for="ao in aoDocuments" :key="ao.docNum">
+        <li v-for="ao in aoDocuments" :key="ao.pk">
             <a href="/">
                 <div class="list-checkbox">
-                    <input v-bind:value="ao.docNum" type="checkbox" v-model="checkedAOs">
+                    <input v-bind:value="ao.pk" type="checkbox" v-model="checkedAOs">
                 </div>
                 <div>
-                    <div>{{ ao.docNum }}</div>
+                    <div>{{ ao.doctype }} {{ ao.docnum}}</div>
                     <div class="list-title text-muted"> 
-                        {{ ao.docTitle }}
+                        <!-- {{ ao.docTitle }} -->
+                        {{ ao.date }} //will contain the subject
                     </div>
                 </div>
             </a>
@@ -138,6 +139,7 @@ import modal from 'uiv/src/components/modal/Modal.vue'
 import icon from 'vue-awesome/components/Icon'
 
 import datePicker from '~/components/datepicker/DatePicker.vue'
+import api from '~/api/api'
 
 export default {
   components: {
@@ -148,48 +150,49 @@ export default {
   },
   data: function () {
     return {
-      aoDocuments: [
-        {
-          docNum: 'AO No. 2017-0001-A',
-          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-        },
-        {
-          docNum: 'AO No. 2017-0001-B',
-          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-        },
-        {
-          docNum: 'AO No. 2017-0001-C',
-          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-        },
-        {
-          docNum: 'AO No. 2017-0001-D',
-          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-        },
-        {
-          docNum: 'AO No. 2017-0001-E',
-          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-        },
-        {
-          docNum: 'AO No. 2017-0001-F',
-          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-        },
-        {
-          docNum: 'AO No. 2017-0001-G',
-          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-        },
-        {
-          docNum: 'AO No. 2017-0001-H',
-          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-        },
-        {
-          docNum: 'AO No. 2017-0001-I',
-          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-        },
-        {
-          docNum: 'AO No. 2017-0001-J',
-          docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-        }
-      ],
+      aoDocuments: [],
+      // aoDocuments: [
+      //   {
+      //     docNum: 'AO No. 2017-0001-A',
+      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+      //   },
+      //   {
+      //     docNum: 'AO No. 2017-0001-B',
+      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+      //   },
+      //   {
+      //     docNum: 'AO No. 2017-0001-C',
+      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+      //   },
+      //   {
+      //     docNum: 'AO No. 2017-0001-D',
+      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+      //   },
+      //   {
+      //     docNum: 'AO No. 2017-0001-E',
+      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+      //   },
+      //   {
+      //     docNum: 'AO No. 2017-0001-F',
+      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+      //   },
+      //   {
+      //     docNum: 'AO No. 2017-0001-G',
+      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+      //   },
+      //   {
+      //     docNum: 'AO No. 2017-0001-H',
+      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+      //   },
+      //   {
+      //     docNum: 'AO No. 2017-0001-I',
+      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+      //   },
+      //   {
+      //     docNum: 'AO No. 2017-0001-J',
+      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
+      //   }
+      // ],
       filters: [
         'Adolescent Health',
         'Geriatric Health',
@@ -202,14 +205,15 @@ export default {
       isFilterModalOpen: false,
       dateFrom: '',
       dateTo: '',
-      signedBy: ''
+      signedBy: '',
+      searchString: ''
     }
   },
   props: ['isDocActive'],
   methods: {
     selectAll: function (event) {
       for (let ao of this.aoDocuments) {
-        this.checkedAOs.push(ao.docNum)
+        this.checkedAOs.push(ao.pk)
       }
     },
     deselectAll: function (event) {
@@ -244,6 +248,9 @@ export default {
     }
   },
   watch: {
+    searchString: function () {
+      alert(this.aoDocuments)
+    },
     dateFrom: function () {
       this.validateDate('dateFrom')
     },
@@ -255,6 +262,11 @@ export default {
     for (let filter of this.filters) { // initialize to check all filters
       this.checkedFilters.push(filter)
     }
+
+    api.getDocuments().then(res => {
+      this.aoDocuments = res.data.results
+      console.log(this.aoDocuments)
+    })
   }
 }
 </script>
