@@ -139,7 +139,7 @@ import modal from 'uiv/src/components/modal/Modal.vue'
 import icon from 'vue-awesome/components/Icon'
 
 import datePicker from '~/components/datepicker/DatePicker.vue'
-import api from '~/api/api'
+import { getDocuments } from '~/api/api'
 
 export default {
   components: {
@@ -151,48 +151,6 @@ export default {
   data: function () {
     return {
       aoDocuments: [],
-      // aoDocuments: [
-      //   {
-      //     docNum: 'AO No. 2017-0001-A',
-      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-      //   },
-      //   {
-      //     docNum: 'AO No. 2017-0001-B',
-      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-      //   },
-      //   {
-      //     docNum: 'AO No. 2017-0001-C',
-      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-      //   },
-      //   {
-      //     docNum: 'AO No. 2017-0001-D',
-      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-      //   },
-      //   {
-      //     docNum: 'AO No. 2017-0001-E',
-      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-      //   },
-      //   {
-      //     docNum: 'AO No. 2017-0001-F',
-      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-      //   },
-      //   {
-      //     docNum: 'AO No. 2017-0001-G',
-      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-      //   },
-      //   {
-      //     docNum: 'AO No. 2017-0001-H',
-      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-      //   },
-      //   {
-      //     docNum: 'AO No. 2017-0001-I',
-      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-      //   },
-      //   {
-      //     docNum: 'AO No. 2017-0001-J',
-      //     docTitle: 'Policy Guidelines on the Standards of Care for Older Persons in All Healthcare Settings'
-      //   }
-      // ],
       filters: [
         'Adolescent Health',
         'Geriatric Health',
@@ -252,7 +210,7 @@ export default {
   },
   watch: {
     searchString: function () {
-      api.getDocuments({search: this.searchString}).then(res => {
+      getDocuments({search: this.searchString}).then(res => {
         this.aoDocuments = res.data.results
       })
     },
@@ -267,7 +225,7 @@ export default {
     for (let filter of this.filters) { // initialize to check all filters
       this.checkedFilters.push(filter)
     }
-    api.getDocuments().then(res => {
+    getDocuments().then(res => {
       this.aoDocuments = res.data.results
     })
   }

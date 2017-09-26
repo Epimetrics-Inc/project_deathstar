@@ -94,7 +94,7 @@ import navsearch from '~/components/navsearch.vue'
 import collapse from 'uiv/src/components/collapse/Collapse.vue'
 import icon from 'vue-awesome/components/Icon'
 
-import api from '~/api/api'
+import { getDocument } from '~/api/api'
 
 export default {
   components: {
@@ -127,7 +127,7 @@ export default {
       }
     },
     clickDocument: function (document) {
-      api.getDocument(document).then(res => {
+      getDocument(document).then(res => {
         this.doc = res.data
       })
     }
