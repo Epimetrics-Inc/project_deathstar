@@ -10,7 +10,7 @@ class TestVisualizationPostSerializer(object):
             'theme_one': 'mnchn',
             'theme_two': 'geriatric',
         })
-        assert serializer.is_valid() == True
+        assert serializer.is_valid() is True
 
     @pytest.mark.django_db
     def test_accept_document_params(self):
@@ -22,7 +22,7 @@ class TestVisualizationPostSerializer(object):
             'document_one': doc1.title,
             'document_two': doc2.title,
         })
-        assert serializer.is_valid() == True
+        assert serializer.is_valid() is True
         assert serializer.validated_data['doc_one_id'] == doc1.pk
         assert serializer.validated_data['doc_two_id'] == doc2.pk
 
@@ -40,39 +40,39 @@ class TestVisualizationPostSerializer(object):
             'document_ls_one': [doc3.title, doc4.title],
             'document_ls_two': [doc5.title, doc6.title]
         })
-        assert serializer.is_valid() == True
+        assert serializer.is_valid() is True
         assert serializer.validated_data['doc_ls_one_id'] == [doc3.pk, doc4.pk]
         assert serializer.validated_data['doc_ls_two_id'] == [doc5.pk, doc6.pk]
 
     def test_no_params_provided(self):
         serializer = VisualizationPostSerializer(data={})
-        assert serializer.is_valid() == False
+        assert serializer.is_valid() is False
         assert serializer.errors['non_field_errors'] == ['Provided documents or themes are insufficient.']
 
     def test_one_param_provided(self):
         serializer = VisualizationPostSerializer(data={'document_one': 'sad', })
-        assert serializer.is_valid() == False
+        assert serializer.is_valid() is False
         assert serializer.errors['non_field_errors'] == ['Provided documents or themes are insufficient.']
 
     def test_equal_documents_provided(self):
         serializer = VisualizationPostSerializer(data={'document_one': 'sad', 'document_two': 'sad'})
-        assert serializer.is_valid() == False
+        assert serializer.is_valid() is False
         assert serializer.errors['non_field_errors'] == ['Provided documents should not be the same.']
 
     def test_equal_themes_provided(self):
         serializer = VisualizationPostSerializer(data={'theme_one': 'sad', 'theme_two': 'sad'})
-        assert serializer.is_valid() == False
+        assert serializer.is_valid() is False
         assert serializer.errors['non_field_errors'] == ['Provided themes should not be the same.']
 
     def test_themes_provided_not_found(self):
         serializer = VisualizationPostSerializer(data={'theme_one': 'mnchn', 'theme_two': 'sad'})
-        assert serializer.is_valid() == False
+        assert serializer.is_valid() is False
         assert serializer.errors['non_field_errors'] == ['Provided themes are not found.']
 
     @pytest.mark.django_db
     def test_documents_provided_not_found(self):
         serializer = VisualizationPostSerializer(data={'document_one': 'mnchn', 'document_two': 'sad'})
-        assert serializer.is_valid() == False
+        assert serializer.is_valid() is False
         assert serializer.errors['non_field_errors'] == ['Documents not found: Document matching query does not exist.']
 
     @pytest.mark.django_db
@@ -80,7 +80,7 @@ class TestVisualizationPostSerializer(object):
         serializer = VisualizationPostSerializer(data={
             'document_ls_one': ['mnchn', 'sad'],
             'document_ls_two': ['sad']})
-        assert serializer.is_valid() == False
+        assert serializer.is_valid() is False
         assert serializer.errors['non_field_errors'] == ['Provided documents lists have similar values.']
 
     @pytest.mark.django_db
@@ -88,5 +88,5 @@ class TestVisualizationPostSerializer(object):
         serializer = VisualizationPostSerializer(data={
             'document_ls_one': ['mnchn'],
             'document_ls_two': ['sad']})
-        assert serializer.is_valid() == False
+        assert serializer.is_valid() is False
         assert serializer.errors['non_field_errors'] == ['Documents not found: Document matching query does not exist.']

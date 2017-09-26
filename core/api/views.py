@@ -25,7 +25,7 @@ class DocumentViewSet(ReadOnlyCacheResponseAndETAGMixin,
     queryset = Document.objects.all()
     max_paginate_by = 5
     filter_backends = (SearchFilter, OrderingFilter)
-    search_fields = ('title', 'date', 'doctype', 'docnum', 'body', 'sign')
+    search_fields = ('title', 'date', 'subject', 'body', 'sign')
     ordering_fields = ('date', 'title')
 
 

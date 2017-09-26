@@ -18,7 +18,7 @@ class DocumentListSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Document
-        fields = ('pk', 'title', 'date', 'sign', 'doctype',
+        fields = ('pk', 'title', 'date', 'subject','sign', 'doctype',
                   'docnum', 'label', 'created', 'modified',)
 
 
