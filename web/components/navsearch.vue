@@ -40,7 +40,7 @@
                     <div>{{ ao.doctype }} {{ ao.docnum}}</div>
                     <div class="list-title text-muted"> 
                         <!-- {{ ao.docTitle }} -->
-                        {{ ao.date }} //will contain the subject
+                        {{ ao.subject }}
                     </div>
                 </div>
             </a>
@@ -227,6 +227,7 @@ export default {
         this.isLoading = false
         this.aoDocuments = res.data.results
         this.totalPage = Math.ceil(parseInt(res.data.count) / 10)
+        console.log(this.aoDocuments)
       }).catch(function (error) {
         this.isLoading = false
         // TODO: fix error handling
@@ -237,6 +238,7 @@ export default {
   watch: {
     searchString: function () {
       this.queryGetDocuments({search: this.searchString})
+      this.currentPage = 1
     },
     dateFrom: function () {
       this.validateDate('dateFrom')
@@ -293,6 +295,7 @@ export default {
   display: table;
   margin: 15px auto;
 }
+
 
 .search-wrapper .overlay {
   background: #e9e9e9;

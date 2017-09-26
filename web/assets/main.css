@@ -119,6 +119,12 @@ button .fa-icon{
 
 .sidebar .nav li > a > div > .list-title{
   font-size:12px;
+  max-height: 4em;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  display: -webkit-box
 }
 
 .sidebar .sidebar-nav.navbar-collapse {
