@@ -125,6 +125,9 @@
 
         </div>
     </modal>
+    <div class="overlay" v-show="isLoading">
+      <icon name="spinner" pulse></icon>
+    </div>
   </div>
 </template>
 
@@ -136,11 +139,12 @@ import 'vue-awesome/icons/check'
 import 'vue-awesome/icons/plus'
 import 'vue-awesome/icons/download'
 import 'vue-awesome/icons/calendar'
+import 'vue-awesome/icons/spinner'
 
 import dropdown from 'uiv/src/components/dropdown/Dropdown.vue'
 import modal from 'uiv/src/components/modal/Modal.vue'
 import pagination from 'uiv/src/components/pagination/Pagination.vue'
-import icon from 'vue-awesome/components/Icon'
+import icon from 'vue-awesome/components/Icon.vue'
 
 import datePicker from '~/components/datepicker/DatePicker.vue'
 import { getDocuments } from '~/api/api'
@@ -170,9 +174,10 @@ export default {
       dateTo: '',
       signedBy: '',
       searchString: '',
-      currentPage: 1,
-      maxSize: 4,
-      totalPage: 0
+      currentPage: 1, // used for pagination
+      maxSize: 4, // used for pagination
+      totalPage: 0, // used for pagination
+      isLoading: false
     }
   },
   props: ['isDocActive'],
@@ -216,17 +221,22 @@ export default {
       this.$emit('clickDocument', document)
     },
     queryGetDocuments: function (query) {
+      this.isLoading = true
+
       getDocuments(query).then(res => {
+        this.isLoading = false
         this.aoDocuments = res.data.results
-        this.totalPage = parseInt(res.data.count) / 10
+        this.totalPage = Math.ceil(parseInt(res.data.count) / 10)
+      }).catch(function (error) {
+        this.isLoading = false
+        // TODO: fix error handling
+        error({ statusCode: 500, message: 'can\'t fetch data' })
       })
     }
   },
   watch: {
     searchString: function () {
-      getDocuments({search: this.searchString}).then(res => {
-        this.aoDocuments = res.data.results
-      })
+      this.queryGetDocuments({search: this.searchString})
     },
     dateFrom: function () {
       this.validateDate('dateFrom')
@@ -282,6 +292,23 @@ export default {
 .search-wrapper .pagination {
   display: table;
   margin: 15px auto;
+}
+
+.search-wrapper .overlay {
+  background: #e9e9e9;
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  opacity: 0.5;
+  margin:0;
+  text-align: center;
+}
+
+.overlay .fa-icon {
+  height: 100%;
+  width: 50%;
 }
 
 /* Filter modal */
