@@ -46,6 +46,9 @@
             </a>
         </li>
     </ul>
+
+    <pagination v-model="currentPage" :total-page="totalPage" :max-size="maxSize" :size="'sm'" :boundary-links="true" :direction-links="false"></pagination>
+
     <modal v-model="isFilterModalOpen" title="Search options" class="modal-wrapper">
         <div class="modal-custom-header">Themes</div>
         <div id="filter-themes">
@@ -136,6 +139,7 @@ import 'vue-awesome/icons/calendar'
 
 import dropdown from 'uiv/src/components/dropdown/Dropdown.vue'
 import modal from 'uiv/src/components/modal/Modal.vue'
+import pagination from 'uiv/src/components/pagination/Pagination.vue'
 import icon from 'vue-awesome/components/Icon'
 
 import datePicker from '~/components/datepicker/DatePicker.vue'
@@ -146,6 +150,7 @@ export default {
     dropdown,
     modal,
     datePicker,
+    pagination,
     icon
   },
   data: function () {
@@ -164,7 +169,10 @@ export default {
       dateFrom: '',
       dateTo: '',
       signedBy: '',
-      searchString: ''
+      searchString: '',
+      currentPage: 1,
+      maxSize: 4,
+      totalPage: 0
     }
   },
   props: ['isDocActive'],
@@ -206,6 +214,12 @@ export default {
     },
     clickDocument: function (document) {
       this.$emit('clickDocument', document)
+    },
+    queryGetDocuments: function (query) {
+      getDocuments(query).then(res => {
+        this.aoDocuments = res.data.results
+        this.totalPage = parseInt(res.data.count) / 10
+      })
     }
   },
   watch: {
@@ -219,15 +233,17 @@ export default {
     },
     dateTo: function () {
       this.validateDate('dateTo')
+    },
+    currentPage: function () {
+      this.maxSize = this.currentPage >= 995 ? 3 : 4 // update max size
+      this.queryGetDocuments({page: this.currentPage, search: this.searchString})
     }
   },
   mounted: function () {
     for (let filter of this.filters) { // initialize to check all filters
       this.checkedFilters.push(filter)
     }
-    getDocuments().then(res => {
-      this.aoDocuments = res.data.results
-    })
+    this.queryGetDocuments()
   }
 }
 </script>
@@ -261,6 +277,11 @@ export default {
 
 .search-wrapper .document-list a{
   cursor: pointer;
+}
+
+.search-wrapper .pagination {
+  display: table;
+  margin: 15px auto;
 }
 
 /* Filter modal */

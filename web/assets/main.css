@@ -101,8 +101,12 @@ button .fa-icon{
 .sidebar-nav > div{
   margin-right:15px;
   margin-left:15px;
-  margin-top:15px;
   margin-bottom:15px;
+  margin-top:0px;
+}
+
+.sidebar-nav > :first-child{
+  margin-top: 15px;
 }
 
 .sidebar .nav li > a {
