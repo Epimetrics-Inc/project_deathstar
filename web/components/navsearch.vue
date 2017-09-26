@@ -30,9 +30,9 @@
             </div>
         </transition>
     </div>
-    <ul class="nav" id="side-menu">
+    <ul class="nav document-list" id="side-menu">
         <li v-for="ao in aoDocuments" :key="ao.pk">
-            <a href="/">
+            <a v-on:click="clickDocument(ao.pk)">
                 <div class="list-checkbox">
                     <input v-bind:value="ao.pk" type="checkbox" v-model="checkedAOs">
                 </div>
@@ -201,7 +201,7 @@ export default {
       ],
       checkedAOs: [],
       checkedFilters: [],
-      sortBy: 'newest',
+      sortBy: 'relevance',
       isFilterModalOpen: false,
       dateFrom: '',
       dateTo: '',
@@ -245,6 +245,9 @@ export default {
 
         this[dateObjectName] = [year, month, day].join('-')
       }
+    },
+    clickDocument: function (document) {
+      this.$emit('clickDocument', document)
     }
   },
   watch: {
@@ -296,6 +299,10 @@ export default {
 
 .search-wrapper .modal-wrapper {
   margin:0;
+}
+
+.search-wrapper .document-list a{
+  cursor: pointer;
 }
 
 /* Filter modal */

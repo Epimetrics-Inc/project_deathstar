@@ -10,7 +10,7 @@ export default {
     return axios.get('documents/?' + queryString)
   },
 
-  hello: function () {
-    alert('hello')
+  getDocument: function (docPK) {
+    return axios.get('documents/' + docPK + '/')
   }
 }
