@@ -17,7 +17,7 @@ class DocumentViewSet(ReadOnlyCacheResponseAndETAGMixin,
     """
     list:
     Returns a paginated list of all documents and
-    allows for full-text searching of title, date, doctype, docnum, and body.
+    allows for full-text searching of title, date, subject, and body.
 
     retrieve:
     Returns a detailed document retrieved by document id.
