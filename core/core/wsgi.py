@@ -11,6 +11,7 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "core.settings")
+activate_env=os.path.expanduser("/home/vagrant/.virtualenvs/prod/bin/postactivation.py")
+exec(open(activate_env).read())
 
 application = get_wsgi_application()

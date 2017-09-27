@@ -176,3 +176,5 @@ secret_config.json
 .vagrant/
 
 *.bin
+
+core/core/static/
