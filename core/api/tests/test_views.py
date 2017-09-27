@@ -82,8 +82,8 @@ class VisualizationViewSetTests(APITestCase):
 
         url = reverse('api:visualization-create')
         response = self.client.post(url, format='json', data={
-            'document_one': doc1.title,
-            'document_two': doc2.title
+            'document_ls_one': [doc1.title],
+            'document_ls_two': [doc2.title]
         })
         assert response.status_code == status.HTTP_202_ACCEPTED
 

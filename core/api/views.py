@@ -87,17 +87,14 @@ class VisualizationViewSet(CreateModelMixin, RetrieveModelMixin, viewsets.Generi
         data = serializer.validated_data
         ids = []
 
-        if data['type'] == 'document':
-            ids.append(data['doc_one_id'])
-            ids.append(data['doc_two_id'])
+        if data['type'] == 'document_list':
+            ids.append(data['doc_ls_one_id'])
+            ids.append(data['doc_ls_two_id'])
 
         elif data['type'] == 'theme':
             ids.append(data['theme_one'])
             ids.append(data['theme_two'])
 
-        elif data['type'] == 'document_list':
-            ids.append(data['doc_ls_one_id'])
-            ids.append(data['doc_ls_two_id'])
 
         res = viz_scattertext.delay(ids, data['type'])
         output = serializer.validated_data

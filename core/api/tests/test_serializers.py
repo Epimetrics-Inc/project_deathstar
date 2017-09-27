@@ -19,12 +19,12 @@ class TestVisualizationPostSerializer(object):
         doc1.save()
         doc2.save()
         serializer = VisualizationPostSerializer(data={
-            'document_one': doc1.title,
-            'document_two': doc2.title,
+            'document_ls_one': [doc1.title],
+            'document_ls_two': [doc2.title]
         })
         assert serializer.is_valid() is True
-        assert serializer.validated_data['doc_one_id'] == doc1.pk
-        assert serializer.validated_data['doc_two_id'] == doc2.pk
+        assert serializer.validated_data['doc_ls_one_id'] == [doc1.pk]
+        assert serializer.validated_data['doc_ls_two_id'] == [doc2.pk]
 
     @pytest.mark.django_db
     def test_accept_document_ls_params(self):
@@ -50,14 +50,9 @@ class TestVisualizationPostSerializer(object):
         assert serializer.errors['non_field_errors'] == ['Provided documents or themes are insufficient.']
 
     def test_one_param_provided(self):
-        serializer = VisualizationPostSerializer(data={'document_one': 'sad', })
+        serializer = VisualizationPostSerializer(data={'document_ls_one': ['sad'], })
         assert serializer.is_valid() is False
         assert serializer.errors['non_field_errors'] == ['Provided documents or themes are insufficient.']
-
-    def test_equal_documents_provided(self):
-        serializer = VisualizationPostSerializer(data={'document_one': 'sad', 'document_two': 'sad'})
-        assert serializer.is_valid() is False
-        assert serializer.errors['non_field_errors'] == ['Provided documents should not be the same.']
 
     def test_equal_themes_provided(self):
         serializer = VisualizationPostSerializer(data={'theme_one': 'sad', 'theme_two': 'sad'})
@@ -68,12 +63,6 @@ class TestVisualizationPostSerializer(object):
         serializer = VisualizationPostSerializer(data={'theme_one': 'mnchn', 'theme_two': 'sad'})
         assert serializer.is_valid() is False
         assert serializer.errors['non_field_errors'] == ['Provided themes are not found.']
-
-    @pytest.mark.django_db
-    def test_documents_provided_not_found(self):
-        serializer = VisualizationPostSerializer(data={'document_one': 'mnchn', 'document_two': 'sad'})
-        assert serializer.is_valid() is False
-        assert serializer.errors['non_field_errors'] == ['Documents not found: Document matching query does not exist.']
 
     @pytest.mark.django_db
     def test_documents_lists_provided_have_duplicates(self):

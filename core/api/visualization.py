@@ -2,11 +2,9 @@ import scattertext as st
 import spacy
 
 
-def create_scattertext(corpus_1_df, corpus_2_df, output_fn):
-    df = corpus_1_df.append(corpus_2_df)
+def create_scattertext(df, output_fn):
     labels = df['label'].unique()
-    #
-    # convention_df = st.SampleCorpora.ConventionData2012.get_data()
+
     nlp = spacy.en.English()
     corpus = st.CorpusFromPandas(df,
                                  category_col='label',
