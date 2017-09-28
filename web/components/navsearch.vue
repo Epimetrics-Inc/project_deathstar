@@ -168,7 +168,7 @@ export default {
       ],
       checkedAOs: [],
       checkedFilters: [],
-      sortBy: 'newest',
+      sortBy: 'oldest',
       isFilterModalOpen: false,
       dateFrom: '',
       dateTo: '',
@@ -247,7 +247,6 @@ export default {
         this.isLoading = false
         this.aoDocuments = res.data.results
         this.totalPage = Math.ceil(parseInt(res.data.count) / this.numDocPerPage)
-        console.log(this.aoDocuments)
       }).catch(function (error) {
         this.isLoading = false
         // TODO: fix error handling

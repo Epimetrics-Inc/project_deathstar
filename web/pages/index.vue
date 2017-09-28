@@ -55,12 +55,11 @@
                         {{ doc.subject}}
                     </div>
 
-                    <div class="doc-body">
-                        {{ doc.body }}
+                    <div class="doc-body" v-html="doc.body">
                     </div>
 
                     <br>
-                    <div class="doc-signed pull-right">
+                    <div class="doc-signed pull-right" >
                         <div class="doc-sign">
                             {{ doc.sign }}
                             
@@ -71,7 +70,8 @@
                         </div>
 
                     </div>
-
+                    <div class="doc-annex" v-html="annex">
+                    </div>
                     <!-- /.row -->
                 </div>
                  <!-- /#zoom-wrapper -->
@@ -95,7 +95,7 @@ import collapse from 'uiv/src/components/collapse/Collapse.vue'
 import icon from 'vue-awesome/components/Icon'
 
 import { getDocument } from '~/api/api'
-
+import { getImageResource } from '~/api/gitresource'
 export default {
   components: {
     navheader,
@@ -110,7 +110,8 @@ export default {
     return {
       fontSize: 15,
       sidebarCollapse: true,
-      doc: false
+      doc: false,
+      annex: ''
     }
   },
   methods: {
@@ -129,7 +130,30 @@ export default {
     clickDocument: function (document) {
       getDocument(document).then(res => {
         this.doc = res.data
+        this.annex = ''
+
+        if (this.doc.raw_body.image.hasOwnProperty('0')) {
+          let length = Object.keys(this.doc.raw_body.image).length
+          let images = this.doc.raw_body.image
+
+          for (let i = 0; i < length; i++) {
+            let imagesrc = getImageResource(this.doc.title, images[i].text)
+
+            if (images[i].line_num > this.doc.raw_body.signtitle.line_num) { // need to access it as a string
+              this.annex += "<img class='doc-image' src='" + imagesrc + "'>"
+            } else {
+              this.doc.body = this.insert_image(this.doc.body, parseInt(this.doc.raw_body.body.line_num), parseInt(images[i].line_num), "<img src='" + imagesrc + "'>")
+            }
+          }
+        }
       })
+    },
+    insert_image: function (str, startline, insertline, image) { // inserting image in body
+      var delim = '\n'
+      var tokens = str.split(delim)
+      tokens.splice(insertline - startline + 1, 0, image)
+      tokens = tokens.map(i => i + '\n')
+      return tokens.join('')
     }
   }
 }
@@ -178,6 +202,9 @@ export default {
   text-align:center;
 }
 
+#page-wrapper .doc-image{
+  width:100%;
+}
 
 
 /*End of Document Preview*/
