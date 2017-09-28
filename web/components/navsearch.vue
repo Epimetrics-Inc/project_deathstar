@@ -30,6 +30,7 @@
             </div>
         </transition>
     </div>
+    
     <ul class="nav document-list" id="side-menu">
         <li v-for="ao in aoDocuments" :key="ao.pk">
             <a v-on:click="clickDocument(ao.pk)">
@@ -49,7 +50,7 @@
 
     <pagination v-model="currentPage" :total-page="totalPage" :max-size="maxSize" :size="'sm'" :boundary-links="true" :direction-links="false"></pagination>
 
-    <modal v-model="isFilterModalOpen" title="Search options" class="modal-wrapper">
+    <modal v-model="isFilterModalOpen" title="Search options" class="modal-wrapper" :footer="false" @hide="updateQuery()">
         <div class="modal-custom-header">Themes</div>
         <div id="filter-themes">
             <label class="checkbox-inline" v-for="filter in filters">
@@ -71,7 +72,7 @@
                 Date (oldest)
             </label>
             <label class="radio-inline">
-                <input type="radio" v-model="sortBy" value = "relevance">
+                <input type="radio" v-model="sortBy" value = "relevance" disabled>
                 Relevance
             </label>
         </div>
@@ -118,7 +119,6 @@
             <!--/ dateto dropdown + date-picker -->
         </div>
         <hr>
-
         <div class="modal-custom-header">Signed by</div>
         <div>
           <input class="form-control" type="text" v-model="signedBy">
@@ -168,7 +168,7 @@ export default {
       ],
       checkedAOs: [],
       checkedFilters: [],
-      sortBy: 'relevance',
+      sortBy: 'newest',
       isFilterModalOpen: false,
       dateFrom: '',
       dateTo: '',
@@ -177,6 +177,7 @@ export default {
       currentPage: 1, // used for pagination
       maxSize: 4, // used for pagination
       totalPage: 0, // used for pagination
+      numDocPerPage: 10,
       isLoading: false
     }
   },
@@ -217,6 +218,25 @@ export default {
         this[dateObjectName] = [year, month, day].join('-')
       }
     },
+    updateQuery: function () {
+      var order
+
+      switch (this.sortBy) {
+        case 'newest':
+          order = '-date'
+          break
+        default:
+          order = 'date'
+          break
+
+        // todo: handle order by relevance
+      }
+      this.queryGetDocuments({
+        'search': this.searchString,
+        'ordering': order
+      })
+      this.currentPage = 1
+    },
     clickDocument: function (document) {
       this.$emit('clickDocument', document)
     },
@@ -226,7 +246,7 @@ export default {
       getDocuments(query).then(res => {
         this.isLoading = false
         this.aoDocuments = res.data.results
-        this.totalPage = Math.ceil(parseInt(res.data.count) / 10)
+        this.totalPage = Math.ceil(parseInt(res.data.count) / this.numDocPerPage)
         console.log(this.aoDocuments)
       }).catch(function (error) {
         this.isLoading = false
@@ -237,8 +257,7 @@ export default {
   },
   watch: {
     searchString: function () {
-      this.queryGetDocuments({search: this.searchString})
-      this.currentPage = 1
+      this.updateQuery()
     },
     dateFrom: function () {
       this.validateDate('dateFrom')
