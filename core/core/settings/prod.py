@@ -10,10 +10,14 @@ SESSION_COOKIE_SECURE = True
 
 X_FRAME_OPTIONS = 'DENY'
 
+## GCP deployment related variables
+#PROJECT_ID = 'deathstar-181219'
+#CLOUD_STORAGE_BUCKET = 'deathstar-server'
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dev',
+        'NAME': 'prod',
         'USER': os.environ.get('DB_USER'),
         'PASSWORD': os.environ.get('DB_PASS'),
         'HOST': 'localhost',
