@@ -6070,7 +6070,7 @@ vue-add-globals@^2.0.0:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/vue-add-globals/-/vue-add-globals-2.0.1.tgz#c9fba6faac44f679ec15d5a9637f518b181fc44d"
 
-vue-awesome@^2.3.1:
+vue-awesome@^2.3.3:
   version "2.3.3"
   resolved "https://registry.yarnpkg.com/vue-awesome/-/vue-awesome-2.3.3.tgz#e83f976fe5c7f86d207c24ca33731bdc6e9906a9"
 
