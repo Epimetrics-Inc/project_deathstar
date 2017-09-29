@@ -33,7 +33,9 @@ MIDDLEWARE = [
 ]
 
 CORS_ORIGIN_WHITELIST = (
-    'localhost:3000',
+    # 'localhost:3000',
+    # 'localhost:8080',
+    'https://mgmalana.github.io/'
 )
 
 ROOT_URLCONF = 'core.urls'
