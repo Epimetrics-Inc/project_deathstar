@@ -1,7 +1,7 @@
 from rest_framework import serializers
 
+from api.utils import QueryFieldsMixin
 from .models import Document, Label
-
 
 class StringListField(serializers.ListField):
     child = serializers.CharField(required=False)
@@ -13,7 +13,7 @@ class LabelSerializer(serializers.ModelSerializer):
         exclude = ('document', 'created', 'modified')
 
 
-class DocumentListSerializer(serializers.ModelSerializer):
+class DocumentListSerializer(QueryFieldsMixin, serializers.ModelSerializer):
     label = LabelSerializer(read_only=True)
 
     class Meta:
