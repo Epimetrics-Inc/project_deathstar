@@ -14,6 +14,8 @@ X_FRAME_OPTIONS = 'DENY'
 #PROJECT_ID = 'deathstar-181219'
 #CLOUD_STORAGE_BUCKET = 'deathstar-server'
 
+WSGI_APPLICATION = 'core.wsgi.application'
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
