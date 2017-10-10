@@ -46,7 +46,7 @@ class VisualizationPostSerializer(serializers.Serializer):
         :return:
         """
 
-        themes = ['mnchn', 'adolescent', 'geriatric', 'spec_pop']
+        themes = ['mnchn', 'adolescent', 'geriatric', 'specpop']
 
         A = data.get('theme_one', None) is None
         B = data.get('theme_two', None) is None

@@ -178,3 +178,5 @@ secret_config.json
 *.bin
 
 core/core/static/
+
+package.box
