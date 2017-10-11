@@ -16,24 +16,24 @@ def viz_scattertext(ids, task_type):
     elif task_type == 'theme':
         id1 = ids[0]
         id2 = ids[1]
+        id1 = str(id1)
+        id2 = str(id2)
+
     else:
         raise RuntimeError('Unknown task type %s !' % task_type)
-
-    id1 = str(id1)
-    id2 = str(id2)
 
     existing = False
     fn = []
     for _, _, f in os.walk(dir):
         fn += f
 
-    output_fn = id1 + '_' + id2 + '.html'
+    output_fn = str(id1) + '_' + str(id2) + '.html'
 
-    if id1 + '_' + id2 + '.html' in fn:
+    if str(id1) + '_' + str(id2) + '.html' in fn:
         existing = True
-    elif id2 + '_' + id1 + '.html' in fn:
+    elif str(id2) + '_' + str(id1) + '.html' in fn:
         existing = True
-        output_fn = id2 + '_' + id1 + '.html'
+        output_fn = str(id2) + '_' + str(id1) + '.html'
 
     if not existing:
         from api.models import Document

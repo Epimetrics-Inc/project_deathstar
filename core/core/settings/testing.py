@@ -6,7 +6,11 @@ DEBUG = True
 
 INSTALLED_APPS += (
     'debug_toolbar',
+    'dbbackup',  # django-dbbackup
 )
+
+DBBACKUP_STORAGE = 'dbbackup.storage.filesystem_storage'
+DBBACKUP_STORAGE_OPTIONS = {'location': '/vagrant/core/dbbackups'}
 
 MIDDLEWARE += (
     'debug_toolbar.middleware.DebugToolbarMiddleware',
