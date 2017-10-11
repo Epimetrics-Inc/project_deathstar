@@ -225,11 +225,11 @@ def format_date(s: str) -> str:
     s = s.strip().capitalize()
     tmp = ''
     for f in formats:
-        if not isinstance(tmp, pd._libs.tslib.Timestamp):
-            tmp = pd.to_datetime(s, errors='ignore', format=f)
+        # if not isinstance(tmp, pd._libs.tslib.Timestamp):
+        #     tmp = pd.to_datetime(s, errors='ignore', format=f)
 
-    if not isinstance(tmp, pd._libs.tslib.Timestamp):
-        raise TypeError('date error: ', rawstr(tmp) + ": " + str(type(tmp)))
+        if not isinstance(tmp, pd._libs.tslib.Timestamp):
+            raise TypeError('date error: ', rawstr(tmp) + ": " + str(type(tmp)))
 
     return str(tmp.date())
 
@@ -243,7 +243,7 @@ def insert_db(data: dict):
 
 
     class Document(Base):
-        __tablename__ = 'document'
+        __tablename__ = 'api_document'
 
         id = Column(Integer, primary_key=True)
         title = Column(psql.TEXT)
