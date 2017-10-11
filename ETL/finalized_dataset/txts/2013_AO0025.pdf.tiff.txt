@@ -1,0 +1,268 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>09/10/2013</date>
+<docnum>No. 2013 - 0025 </docnum>
+<subject>SUBJECT: National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001) </subject>
+<body>
+
+
+I. RATIONALE 
+
+The Department of Health (DOH) is mandated to be the over-all technical authority on health that provides national policy direction and develop national plans, technical standards and guidelines on health. It is also a regulator of all health services and products, and provider of special or tertiary health care services and of technical assistance to other health providers especially to local government units. The implementation of Kalusugan Pangkalahatan or Universal Health Care is directed towards ensuring the achievement of the health system goals of better health outcomes, sustained health financing and responsive health system. 
+
+One 'of the key components to achieve a responsive health system in the country is the widespread adoption of health data standards. This will allow data to be exchanged among different information systems or software applications with consistent definition or meaning. At present, there is lack of health data standards for adoption across the healthcare service delivery chain in the country. Healthcare providers or professionals are not able to share their patients’ health or medical records for continuing care. This is also true even if patients grant permission to access their medical records. There are different information systems or software applications being used by health facilities like hospitals. Most of these are aimed to manage patients’ medical records and respond to the reporting requirements of the DOH. This poses a problem when information needs to be exchanged between health facilities and when the DOH needs to analyze information coming from different health facilities. To be able to share and use data from different sources like healthcare providers, data must be built upon common definition, terminologies, elements, structures, and organization. The concept is called as interoperability and as such requires the use of health data standards. 
+
+The World Health Organization defined eHealth as the use of information and communication technologies (ICT) for health. In health systems, ICTs are being used to improve the timeliness and reliability of public health reporting and facilitate the monitoring and surveillance of diseases. The DOH has used ICT in the development of health systems and registries (e.g. Electronic Field Health Services Information System, Online National Electronic Injury Surveillance Information System, Unified Chronic Non-communicable Disease Registry, among others), Integrated Hospital Operations and Management Information System for hospitals, Clinic Information System for health centers or clinics, telehealth, and others. There are many existing eHealth applications or solutions that are currently being used by health facilities like hospitals, and continuing eHealth initiatives at the national, regional and local levels. Hospitals and clinics have built their own information systems for their own purposes like processing of data and managing patients’ records, using different technology platforms (e.g. software programming, databases and operating systems), data formats, codes, and structures. 
+
+The Department of Health and Department of Science and Technology have been at the forefront of eHealth and interoperability efforts. Works have already started in developing the country’s eHealth Framework and Plan, developing and promoting interoperability standards for the health sector at the level of aggregate records and individuals. The 66th World Health Assembly held in Geneva, Switzerland last May 2013 has urged member states to consider important actions to be taken on eHealth standardization and interoperability. The Philippines is one of the member states and has pledged to meet commitments contained in the resolution on the actions to be taken. Item #2 of the resolution considers to develop as appropriate, policies and legislative mechanisms linked to an overall national eHealth strategy, in order to ensure compliance in the adoption of ehealth and health data standards by the public and private sectors, as appropriate, and the donor community, as well as to ensure the privacy of personal clinical data. 
+
+Thus, this Order on the National Implementation of Health Data Standards for eHealth Standardization and Interoperability (eHSI Release 001) sets the initial mandatory health data standards that shall be adopted or implemented by the entire health sector. New sets or updates to mandatory health data standards shall be thoroughly reviewed together with concerned stakeholders in health, and policies updated for implementation. 
+
+II. DECLARATION OF POLICIES 
+
+1. Strengthening health systems and improving efficiency and effectiveness in health service delivery need both operational and summary data. The former supports routine activities at the health provider level, whereas the latter to manage national health resources, develop policies, assess performance, and determine major investments, technical support and programs to achieve national health goals. Thus, information need to be made available when needed. 
+
+2. As one nation, all health facilities need to comply with the national implementation of health data standards for interoperability to gain a true picture of the Philippines Health System, e. g. health status of the Filipino people, health issues, concerns and/problems that can be addressed by the health sector, and others. 
+
+3. The Health Enterprise Architecture has provided the holistic view of the country’s health processes/systems, information, information technology assets, and interoperability standards. It serves as guide in the development of health information systems to meet the country’s requirements and support improvements in the health systems; helps describe the state of the health information system in the country; as well as provide the road map for continuing growth. 
+
+4. Information and communication technOlogies (ICTs) can provide the means to join different systems and facilitate sharing of data/information. Various health facilities have already adopted the use of ICTs in their operations. With the use of technologies and standards for interoperability, the national health data reporting system to the Department of Health allows data aggregation from various data sources or different health facilities’ information systems. Health facilities, according to their capacities, may implement their own systems as long as these comply with the national health data reporting standards. 
+
+5. This Order shall complement the following issuances, resolutions or provisions: 
+
+1. Philippine Digital Strategy 2011-2016, a national strategy with the purpose of harnessing the potential and power of information and communications technologies to support the attainment of the govemment’s agenda and objectives contained in the social contract with the Filipino people and the Philippines Development Plan 2011-2016, and respond to the global trends towards a digital economy and knowledgesocieties and ensure that the country’s economy and society is prepared to compete in this digital economy and take advantage of its opportunities. 
+
+2. Eugov Masterplan 2014-2016 that provides the framework to strengthen and integrate existing information systems that are vital to the delivery of services and information. Integrated Government Philippines (iGov Phil) which aims to set-up a government— shared network that will facilitate deployment and. integration of mission-critical ICT projects especially those that deliver common government services. 
+
+3. Republic Act 8792 or the e-Commerce Act of 2000 - mandates all government agencies to transact government business and performs government functions using electronic data messages and electronic documents. It provides for the legal recognition of electronic documents, data messages, electronic signatures, and electronic contracts, among others. International Commitments: The Philippines is a signatory to a number of global agreements such as the Millennium Development Goals, the Geneva Declaration on the World Summit on Information Society and the 58th World Health Assembly. Of which, the Philippines has pledged to meet speciﬁc commitments, highlights of which are the following: 
+
+
+World Summit on Information Society wherein the Philippines is a signatory: 
+
+-Facilitate access to the world’s medical knowledge and locally-relevant content resources fOr strengthening public health research and prevention programs. 
+
+-Alert, monitor and control the spread of communicable diseases, through the improvement of common information systems.
+
+-Promote the development of international standards for the exchange of health data, taking due account of privacy concerns.
+
+-Encourage the adoption of ICTs to improve and extend health care and health information systems to remote and underserved areas and vulnerable populations.
+
+-Strengthen and expand ICT—based initiatives for providing medical and humanitarian assistance in disasters and emergencies
+
+-Promote collaborative efforts of governments, planners, health professional and other agencies along with the participation of international organizations for creating a reliable, timely, high quality and affordable health care and health information systems and for promoting continuous medical training, education and research through the use of ICT’s, while respecting and protecting citizens’ right to privacy. 
+
+58th World Health Assembly — Urges member states to: 
+
+
+-Draw up a long-term strategic plan for developing and implementing ehealth services in the various areas of health sectors including health administration which includes an appropriate legal framework and infrastructure and encourage public and private partnership. 
+
+-Develop the infrastructure for ICTs for health as deemed appropriate to promote equitable, affordable and universal access. 
+
+-Build on closer collaboration with private and non-proﬁt sectors in ICTs. 
+
+-Reach communities, including vulnerable groups, with eHealth services appropriate to their needs. 
+
+-Mobilize multi—sectoral collaboration for determining evidence-based eHealth standards and norms and to share the knowledge of cost-effective models, thus ensuring quality, safety and ethical standards and respect for the principles of confidentiality of information, privacy, equity and equality. 
+
+-Establish national centres and networks of excellence for eHealth best practice, policy coordination, and technical support for health—care delivery, service improvement, information to citizens, capacity building, and surveillance. 
+
+-Establish and implement national electronic public-health information systems and to improve, by means of information, the capacity for surveillance of, and rapid response to, disease and public-health emergencies. 
+
+66th World Health Assembly -— Urges member states to:
+
+-Consider, as appropriate, options to collaborate with relevant stakeholders, including national authorities, relevant ministries, health care providers, and academic institutions, in order to draw up a road map for implementation of eHealth and health data standards at national and subnational levels.
+
+-Consider developing, as appropriate, policies and legislative mechanisms linked to an overall national eHealth strategy, in order to ensure compliance in the adoption of eHealth and health data standards by the public and private sectors, as appropriate, and the donor community, as well as to ensure the privacy of personal clinical data.
+
+-Consider ways for ministries of health and public health authorities to work with. their national representatives on the ICANN Governmental Advisory Committee in order to coordinate national positions towards the delegation, governance and operation of health-related global top-level domain names in all languages, including “health”, in the interest of public health. 
+
+III. OBJECTIVES 
+
+This Order provides the policy and guidelines for the national implementation of health data standards for interoperability to promote uniformity and consistency of data across national collections, establish a set of unique codes to serve as reference for software development, and facilitate data exchange among different application or information systems. 
+
+Detailed objectives are to: 
+
+1. Set direction in the implementation of health data standards to support national health data reporting requirements and exchange of data.
+
+2. Set guidelines in the implementation of the national health data standards. 
+
+3. Provide leadership and define responsibilities in the development, adoption, and compliance to health data standards. 
+
+IV. SCOPE OF APPLICATION 
+
+This Order shall apply to the entire health sector, i.e. public and private sectors (national agencies and local government units, development partners, academe, research partners, civil societies, purchasers of healthcare, producers, distributors, ﬁnancial services, healthcare providers, sellers, donors, and other stakeholders in the health sector). 
+
+V. DEFINITION OF TERMS 
+
+For purposes of this Order, the following terms are deﬁned as follows: 
+
+ 
+
+ 
+<image>table_1.png</image>
+<image>table_2.png</image>
+ 
+
+VI. IMPLEMENTING MECHANISM 
+
+A. NATIONAL HEALTH DATA COMMITTEE 
+
+The Secretary of Health shall create a National Health Data Committee consisting of the Department of Health, Philippine Health Insurance Corporation, and industry experts who shall be tasked to define and recommend data standards, and oversee its implementation. Implementing guidelines are as follows: 
+
+
+
+1. The NI—IDC shall be chaired by a senior officer from the DOH, and the Information Management Service —— DOH shall lead the Secretariat Group. 
+
+2. Officers and members of the NHDC shall have a term of three (3) years, after which the Secretary of Health can renew or get new/additional members. 
+
+3. The adoption of health data standards shall be regularly evaluated. Evaluation results can serve as basis for additions, deletions or modifications to the existing health data standards. 
+
+4. Adoption of any modifications to health data standards that have been used during the one year period starting from the date the national health data standards have been approved shall be carefully evaluated as to its importance or necessity, effect or impact to operations for those who are using the standards, and cost for compliance. 
+
+5. Standard procedures for regular maintenance of the health data standards contained in the National Health Data Dictionary shall be put in place and implemented. Any modifications done shall be properly documented. 
+
+6. Performance metrics shall be created to measure the progress and success of implementing or adopting the health data standards in the country. 
+
+7. Honorarium to be paid to non-DOH members or industry experts shall be based on Department of Budget and Management - National Budget Circular No. 2007-510, dated May 8, 2007 and/or other applicable government rules and regulations. 
+
+
+B. HEALTH DATA STANDARDS 
+
+Mandatory health data standards for interoperability shall be as follows: 
+
+
+<image>table_3.png</image>
+<image>table_4.png</image>
+<image>table_5.png</image>
+
+
+2. Standard date and time formats shall be as follows
+
+<image>table_6.png</image>
+
+3. The DOH developed National Health Data Dictionary shall support the use of nationally agreed standards and shall be made available to all individuals and organizations involved in the generation, use, and/or development of health and health services information. for improved data sharing and exchange, ease of access to data names and elements, ease of integration and harmonization, and improved efficiency and effectiveness in the development and implementation of information systems. 
+
+4. The DOH IMS shall maintain the NHDD software and contents shall be updated by the NHDC. The NHDD shall be readily available in one or single portal for health information data sharing. 
+
+C. IMPLEMENTATION SPECIFICATIONS 
+
+The NHDC shall establish specifications for implementing each of the national health data standards adopted under this Order. 
+
+D. ADOPTION OF STANDARDS 
+
+The initial health data standards shall be carried out not later than eighteen (18) months after the approval of this Order. 
+
+E. DUTIES AND RESPONSIBILITIES 
+
+1. Public and Private Sector 
+
+a. Comply with applicable national health data standards. 
+
+b. Ensure the integrity and confidentiality of information being maintained or transmitted. 
+
+c. Report issues, concerns, and/or problems that may arise in the implementation of the national health data standards
+
+d. Provide inputs to further improve the adoption of health data standards. 
+
+2. Department of Health 
+
+a. Provide the necessary resources to support the implementation of the national health data standards. 
+
+b. Provide technical assistance and guidance on health data standards. 
+
+c. Establish coordination and networking with concerned agencies and other stakeholders in planning, implementation, monitoring, and evaluation of national health data standards adoption. 
+
+d. Review and approve health data standards for adoption. 
+
+e. Distribute, disseminate and/or publish the standard code sets and modifications made to the national health data standards. 
+
+f. Provide relevant training to build capacity or capability of the National Health Data Committee and/or those involved in the implementation of the national health data standards. 
+
+
+3. National Health Data Committee 
+
+The NHDC shall be tasked to define and recommend data standards, and oversee its implementation. It shall be composed of the Management Steering Group, Technical Working Group, and Secretariat Group. 
+
+a. The Management Steering Group shall be tasked to: 
+
+i. Oversee the implementation or adoption of the national health data standards. 
+
+ii. Monitor and evaluate status and progress of implementing the national health data standards. 
+
+iii. Review and recommend implementing policies, procedures, guidelines, advisories, protocols, and other issuances to support the implementation of the national health data standards to the Secretary of Health. 
+
+iv. Review and resolve issues, concerns, and/or problems that may be elevated at their level. 
+
+v. Provide regular status reports to the Secretary of Health on the adoption of health data standards. 
+
+The Technical Working Group shall be tasked to: 
+
+i. Set and manage meetings and other activities like seminars, workshops, fora, symposia, and other forms of discussions. 
+
+ii. Define and recommend health data standards to the Management Steering Group for approval of the Secretary of Health. 
+
+iii. Establish specifications for implementing each of the national health data standards. 
+
+iv. Review and recommend data proposed for inclusion or exclusion with appropriate consultation with the different concerned offices or stakeholders. 
+
+v. Develop and promote appropriate meta data standards for the NHDD and use in the broader Philippine health information arena. 
+
+vi. Collaborate with national and international standards setting bodies such as the World Health Organization and International Organization for Standardization. 
+
+vii. Develop implementing policies, procedures, guidelines, advisories, protocols, and other issuances to support the implementation of health data standards. 
+
+viii. Elevate unresolved issues, concerns and/or problems that may affect the inclusion or exclusion of data to the Management Steering Group for appropriate actions. 
+
+ix. Monitor and evaluate status and progress of implementing the health data standards. 
+
+x. Receive and address complaints for resolution or elevation to the Management Steering Group for appropriate actions. 
+
+xi. Provide the channel through which standards emerging from local, national, and international focused data development and implementation works shall be documented, reviewed, and/or approved for inclusion or implementation in the health data standards. 
+ 
+xii. Finalize health data standards with their corresponding definitions, applicable codes, formats, structures, and other necessary requirements. 
+
+xiii. Provide regular status reports to the Management Steering Committee on the adoption of health data standards. 
+
+
+c. The Secretariat Group shall be tasked to: 
+
+i. Provide efﬁcient and effective administrative support to meetings and other activities like seminars, workshops, fora, symposia, and other forms of discussions. 
+
+
+ii. Maintain a history log of all activities done. 
+
+iii. Organize and keep all records, manuals and other related documents. 
+
+
+iv. Update the NHDD based on the approved inclusion or exclusion of data. 
+
+v. Do minute-takings and documentations, and dissemination.
+
+vi. Follow up on action items and related documents or correspondences. 
+
+vii. Develop linkages to facilitate the flow and exchange of information. 
+
+
+VII. OPERATIONAL BUDGET 
+
+The budget required to implement this Order on the National Implementation of Health. Data Standards shall be sourced out from the Office of the Secretary or any available funds under the DOH, and shall be managed. by the Information Management Service. 
+
+VIII. REPEALING CLAUSE 
+
+Provisions from previous issuances that are inconsistent or contrary to the provisions of this Order are hereby rescinded and modified accordingly. 
+
+IX. SEPARABILITY 
+
+If any provision of this Order is declared invalid, the other provisions not affected thereby shall remain valid and subsisting. 
+
+X. EFFECTIVITY 
+
+This Order shall take effect fifteen (15) days after its approval and publication in a newspaper of general circulation. '
+
+</body>
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+

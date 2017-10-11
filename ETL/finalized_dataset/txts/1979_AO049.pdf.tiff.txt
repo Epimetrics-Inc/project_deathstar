@@ -1,0 +1,33 @@
+Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+<date>10/23/1979</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 49 s. 1979</docnum>
+
+<subject>SUBJECT: Amendment of the provisions of Administrative Order No. 286 relative to the signing and countersigning of TCAA Checks by Officials in Special Hospitals.</subject>
+
+<body>
+Following the provisions of CCA Circular No. 79-26 (8), Section II-1 and 2 of Administrative Order No. 286 are hereby amended to read as follows:
+
+II Signing of TCAA Checks
+
+1. Officials authorized to sign checks:
+a. Cashier - to sign checks up to ₱2,000.00
+b. Administrative Officer - to sign checks up to ₱20,000.00
+c. Chief of Hospital - to sign checks up to ₱100,000.00
+
+2. Officials authorized to countersign checks:
+a. Chief of Hospitals - to countersign checks up to ₱20,000.00
+b. Administrative Officer - to countersign checks up to ₱2,000.00
+
+This Order shall take effect immediately.
+</body>
+
+<sign>ENRIQUE M. GARCIA, M.D.</sign>
+<signtitle>Minsiter of Health</signtitle>
+
+ALR/ara

@@ -1,0 +1,55 @@
+Republic of the Philippines
+Ministry of Health
+Manila
+
+<date>01/29/1979</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 16 s. 1979</docnum>
+
+<subject>SUBJECT: Regulation Part B-12 Date Marking of Prepackage Foods</subject>
+
+<body>
+High temperature and humidity which is characteristic of tropical conditions tend to affect the stability of food products, contributing to their rapid deterioration. Hence, date marking of prepackaged foods is deemed necessary in order to provide information for the protection of the interest and health of consumers.
+
+12.0 Section 15(f) of the Food, Drug and Cosmetic Act provides that a food shall be deemed to be misbranded if any word, statement or other information required by or under authority of this Act to appear on the label or labeling is not prominently placed thereon with such conspicuousness and in such terms as to render it likély to be read and understood by the ordinary individual under customary conditions of purchase and use. Under the authority of this Section and section 26(a) R.A. 3720, this Order is hereby prescribed.
+
+12.1 As used in this Order, the terms :
+
+(a) Prepackaged means packaged or made up in advance, ready for retail in any container.
+
+(b) Lot number, batch number or control number refer to any combination of letters or numbers by which the history of the manufacture, control, packaging and distribution of the product is determined.
+
+(c) "Consume before" date is the period after which the quality of the product or any specifications (microbiological quality, nutritional value, physico-chemical and organoleptic properties), which the food tacitly or expressly claims to possess, is significantly impaired.
+
+12.2 In addition to the lot, batch or control number, packages of processed foods listed in Section 12.3 of this Order shall be ambossed or otherwise permanently marked with a "consume before" date which shall be expressed in terms of month and year e.g. "consume before May 1980."
+
+12.3 the following processed foods shall carry a "consume before" date and specific storage instructions.
+
+Milk (fresh, pasteurized, filled, reconstituted, cultured)
+Butter
+Cream
+Yoghurt
+Chocolate/Chocolate Flavored drinks
+Bakery products
+Cheese and Cheese Products
+Cured Meat Products (not canned)
+Frozen Fish and Food Preparations for Infants
+Such other food products which the Minister may include in this Order
+
+12.4 Processed foods without the prescribed "consume before" date under thiss order shall be deemed to be misbranded as provided for in section 15(f) of R.A. 3720.
+
+12.5 The start-up date for the date marking order shall be on the date of effectivity. Food manufacturers and importers may start complying with this Order at any time from the start-up date prescribed herein; provided that, starting December 1979 all processed food listed in Section 12.3 of this Order shall carry the prescribed "consume before" date.
+
+12.6 This regulation shall take effect thirty days after publication in the Official Gazette.
+</body>
+
+Recommended by:
+
+<sign>ARSENIO M. REGALA, Ph.D.</sign>
+<signtitle>Food and Drug Administrator</signtitle>
+
+Approved by:
+
+<sign>CLEMENTE S. GATMAITAN, M.D., M.P.H.</sign>
+<signtitle>Minister of Health</signtitle>

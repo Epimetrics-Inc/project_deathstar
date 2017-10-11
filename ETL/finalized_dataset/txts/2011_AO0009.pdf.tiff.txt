@@ -1,0 +1,473 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+
+<date>JUL 12, 2011</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2011 - 0009 </docnum>
+
+
+<subject>SUBJECT: National Policy and Program on Pharmacovigilance</subject>
+
+
+<body>
+I. RATIONALE: 
+
+The State has a duty to promote and protectthe right of health of the people and instill health consciousness among them (Section 15, Article II, 1987 Constitution). The State shall also establish and maintain an effective food and drug regulatory system and undertake appropriate health, human resource development, and research, responsive to the country’s health need and problems (Section 12, Article XIII, 1987 Constitution). 
+
+Thus, Republic Act No. 3720, as amended by Executive Order No. 175 series of 1987, otherwise known as the “Food, Drug and Devices and Cosmetics Act” establishes an effective system in the registration, monitoring and regulation of processed foods, drugs, medical devices and cosmetic products to protect the health of the people. 
+
+Seetion 21 of RA 3720 provides that full reports of investigations which have been made to show whether or not such drug is safe, efficacious and of good quality for use based on clinical studies conducted in the Philippines shall be submitted to the Food and Drug Administration (FDA), aka BFAD; 
+
+Republic Act No. 7394, otherwise known as the “Consumer Act of the Philippines,” declares that it is the policy of the State to promote the interest and general welfare of the consumer by implementing measures for: 1. protection against hazards to health and safety; 2. protection against deceptive, unfair and unconscionable sales acts and practices; 3.provision of information and education to facilitate "decision making in choosing the products and exercise of rights of consumers. 
+
+Pharmacovigilance is deﬁned by the World Health Organization in 2006 as “the science and activities relating to the detection, assessment, understanding and prevention of adverse effects or any other possible drug— related problems,” WHO 2006. The deﬁnition of the World Health Organization includes the investigational substances used in the clinical trial studies. Thus, pharmacovigilance is therefore one of the important tools in pre-marketing/ pre-clinical monitoring of adverse drug effects/ reactions and post-marketing surveillance by ensuring the safety of pharmaceutical and related health products. 
+
+The FDA undertook several initiatives for pharmacovigilance, amongst which are: Memorandum Circular No. 5 s 1994 which directed the industry to submit adverse reports on their products to FDA and Department Order No. 345-1 June 1994, creating the National Adverse Drug Reaction Committee (NADRAC) which assisted FDA in the technical evaluation of adverse reports and recommends the course of action needed to ensure the safety of pharmaceutical products. 
+
+In August 1994, the ADR Monitoring Program started as an Aus Aid project of the National Drug Policy Program (NDP) and was formally recognized by the WHO as a National Monitoring Center. Thus, it included the Philippines as the 42nd member in February 1995. 
+
+Bureau Circular No. 01 series of 2002 required applications to be notarized and to submit Standard Operating Procedures (SOPs) for handling adverse reaction reports which further adds credibility to the applications for registration of products, to FDA. 
+
+In October 2002, the ADR unit was transferred to the Product Services Division from the Regulation Division I which continues to receive and acknowledge reports from the industry. 
+
+With a strong inﬂux of products such as food supplements, medical devices, local and foreign pharmaceutical products and cosmetics and the foreign safety alerts and product reports, it is crucial to provide a legal basis for institutionalizing a National Pharmacovigilance Program that would meet the demands of the country in ensuring the health and welfare of the Filipinos in terms of pre-clinical and post-marketing surveillance. ' 
+
+II. OBJECTIVES 
+
+1) To establish and implement the National Pharmacovigilance Program that shall describe a strategic framework for the implementation of Pharmacovigilance policies. 
+
+2) To set the policy direction for the Food and Drug Administration (FDA) and the Department of Health (DOH) ofﬁces, attached agencies, local government units (LGUs) and other partners in the implementation of the National Pharmacovigilance Program. 
+
+III. SCOPE 
+
+This Order shall cover all market authorization holders (MAHs), healthcare providers, healthcare professionals, health care beneficiaries, principal investigators, sponsors. retailers and distributors and all other parties/entities involved in clinical research, as well as health institutions, and government agencies that are engaged in the regulation, research, marketing and use of drugs and medicines. 
+
+IV. DEFINITION OF TERMS 
+
+1. “Adverse Drug Event (ADE) or Adverse Drug Experience” refers to any untoward medical occurrence during treatment with a pharmaceutical product but which does not necessarily have a causal relationship with such treatment. 
+
+2. “Adverse Event (AE)” refers to any untoward medical occurrence during usage of a drug, but which does not necessarily have a causal relationship with the product. 
+
+3. “Adverse Drug Reaction (ADR)” refers to a response to a drug which is noxious, ' unintended, and which occurs at doses normally used in man for the prophylaxis, diagnosis, or therapy of disease, or for the modiﬁcation of physiological function. 
+
+4. “Contract Research Organization (CRO)” refers to a person or an organization (commercial, academic, or other) contracted by the sponsor to perform one or more of a sponsor’s trial-related duties and functions. 
+
+5. “Expedited Reporting” refers to the submission of reports of serious and unexpected adverse reaction within seven (7) working days from the occurrence of such serious adverse reaction. 
+
+6. “Healthcare Professional” refers to any doctor of medicine, doctor of veterinary medicine, doctor of dental medicine, pharmacist, nurse, midwife, or any other healthcare professional or practitioner duly licensed to practice in the Philippines 
+
+7. “Market Authorization Holder (MAH)” refers to any legal entity responsible for introducing a product in Philippine market, and which has been granted authorization by the FDA upon issuance of a Certiﬁcate of Product Registration (CPR). 
+
+8. “National Pharmacovigilance Center (NPVC)” refers to the primary Pharmacovigilance unit that coordinates the Regional Pharmacovigilance units and the implementing authority of the National Pharmacovigilance Program. 
+
+9. “National Pharmacovigilance Program (NPVP)” refers to the nationwide program which oversees the collection, collation, review and analysis of adverse events and other problems concerning drug products from professionals, consumers, the industry and other regulatory bodies for use in setting and updating policy direction and regulatory action and thus, ensure public safety from the use of drugs and medicines through timely dissemination of current and updated information. 
+
+10. “Periodic Safety Update Report (PSUR)” refers to the report submitted by a pharmaceutical company intended to provide an update on the worldwide safety experience of a drug after it has been approved and registered with FDA. 
+
+11. “Peripheral Pharmacovigilance Units (PhPVu)” refers to the Pharmacovigilance units from relatively smaller medical institutions including individual medical practitioners’ clinics, private hospitals, nursing homes, pharmacies etc. They will also function as ﬁrst contact AE data collection units. 
+
+12. “Pharmaceutical Product” refers to any preparation for human use that is intended to modify or explore physiological systems or pathological states for the benefit of the recipient. 
+
+13. “Pharmacovigilance Units (PVu)” refers to the National Center, Regional and Peripheral Pharmacovigilance units of the National Pharmacovigilance Program. 
+
+14. “Post Registration Study or Post-Marketing Study” refers to any study conducted within the conditions of registration or under normal conditions of use and within the knowledge of the MAH. 
+
+15. “Product Defect Report” refers to reports pertinent to, but not limited to the following, lack of efﬁcacy, product defect, counterfeiting or false claims in advertisements. 
+
+16. “Regional Pharmacovigilance Units (RPVu)” refers to the secondary Pharmacovigilance units of relatively larger healthcare facilities attached with medical colleges. They shall act as second level centers in the administrative structure of the National Pharmacovigilance Program. They ' shall also function as ﬁrst contact ADE data collection units. 
+
+17. “Registry” refers to an organized system for the collection, storage, retrieval,analysis, and dissemination of information on individual persons exposed to a speciﬁc medical intervention who have either a particular disease (e.g., risk factor) that predisposes them to the occurrence of a health—related event, or have prior exposure to substances known or suspected to cause adverse health effects. 
+
+18. “Serious Adverse Event or Reaction” refers to any untoward medical occurrence that at any dose results in death, requires inpatient hospitalization or prolongation of existing hospitalization, results in persistent or signiﬁcant disability/ incapacity and is life—threatening. 
+
+19. “Signal” refers to reported information on a possible causal relationship between an adverse event and a drug, the relationship being unknown or incompletely documented previously. 
+
+20. “Spontaneous report” refers to an unsolicited communication by healthcare professionals or consumers to a company, regulatory authority or other organization that describes one or more adverse reactions in a patient who was given one or more drugs,. It is not derived from a study or any organized data collection scheme. 
+
+21. “Spontaneous reporting” refers to a regional or country-wide system for the reporting of suspected adverse events which is the major source of information in Pharmacovigilance. 
+
+22. “Therapeutics Committee (TC)” refers to the pharmacy and therapeutics committee or the committee in hospitals that evaluates the clinical use of drugs, develops policies for managing drug use and drug administration; manages the formulary system, and determines what drugs will be available, at what cost, and how they will be used. 
+
+23. “Unexpected adverse reaction” refers to an adverse reaction, the nature and severity of which is not consistent with domestic labeling or market authorization, or expected from the characteristics of the drug. 
+ 
+
+24. “Uppsala Monitoring Center (UMC)” refers to the WHO reporting center for adverse drug reactions where reports are submitted and where global drug signals are generated. 
+
+
+V. GENERAL GUIDELINES 
+
+A. The Food and Drug Administration, in collaboration with the Department of Health, shall institutionalize the National Pharmacovigilance Program which shall be the framework for an organized systematic, structured system for collection, analysis, risk/beneﬁt management, data-base, report alerting of suspected adverse reactions, product inefﬁcacy, product defect, counterfeit drugs, and other safety related issues. The program shall be an integral part of ensuring safety and quality of drugs. 
+
+B. The National Pharmacovigilance Programme shall promote the culture of blame- free ADR reporting and good pharmacovigilance practices in the country. It shall include the following components: adverse drug reaction reporting, health professional education, public advocacy and education, post—market surveillance, and linkages with local, regional and international partners. 
+
+C. FDA shall reorganize, reinstitute and rename the Adverse Drug Reaction Unit to become the National Pharmacovigilance Center which shall have the primary responsibility and authority for the effective implementation and coordination of the National Pharmacovigilance Program. 
+
+D. All other bureaus and ofﬁces of the DOH, and other stakeholders, including the academe, shall support FDA by integration of efforts towards an effective implementation of Pharmacovigilance. 
+
+E. The FDA shall develop, adopt and update appropriate regulatory instruments to ensure safety, efﬁcacy and quality of drug products registered in the country in agreement with relevant regional, ie, ASEAN and international guidelines, ale. CIOMS, 1C guidelines. The guiding principle is the complete and timely sharing of safety information between FDA and marketing authorization holders (MAHs) and other parties using procedures that ensures conﬁdentiality, quality and reliability of data. 
+
+F. FDA shall develop/update detailed guidance for: 
+
+1. Mandatory submission of post-marketing drug safety information by MAHs to the FDA.  
+
+2. Mandatory submission of reports of serious adverse event or adverse drug reaction of occurring after use of unregistered product (i.e., pro-marketing clinical trials) by the sponsor of the local/multinational clinical trial conducted in the Philippines. 
+
+3. Procedures for direct spontaneous reporting to FDA of any adverse event or doubtful efﬁcacy in the use of drugs and medicines. 
+
+4. Procedures to report ADRs observed from systematic data collection within public health programmes implemented by DOH or LGU (e.g., tuberculosis, malaria, HIV-AIDS, etc.) 
+
+5. Institution of an information/management system including networking to cover the above reports. 
+
+6. Procedures for relevant technical advisory boards for: 
+
+i. Assessment of the risks and beneﬁts of medicines in order to determine any action, if any, is necessary to improve their safe use. 
+
+ii. Monitoring and evaluating the impact of any action to improve drug safety. 
+
+7. Any other regulatory mechanisms or documentation as may be required to achieve the goals of the National Pharmacovigilance Programme. 
+
+G. The FDA shall ensure provisions for public education and professional training and development on Pharmacovigilance. 
+
+H. The FDA shall ensure provision for continuous educational development of the Pharmacovigilance staff through upgrading of references, books and materials and international subscriptions among others. 
+
+I. National Pharmacovigilance Center shall be instituted as the: 
+
+1. Center for vigilance reporting which shall be responsible in collecting and encoding of reports from consumers, patients, physicians and other healthcare professionals, MAHs and foreign surveillance; 
+
+2. Center for investigating vigilance reports, and . 
+
+3. Center responsible for risk management and signal detection for reports. 
+
+J. All adverse events, problems concerning pharmaceutical products shall be reported to the Pharmacovigilance units using the approved prescribed reporting forms and systems. 
+
+K. FDA shall provide the adequate human and material resources for the proper implementation of the National Pharmacovigilance Program. 
+
+VI. SPECIFIC GUIDELINES 
+
+A. NATIONAL PHARMACOVIGILANCE PROGRAM 
+
+The National Pharmacovigilance Program shall be an integral part of Pre-Marketing and Post-Marketing Surveillance of the FDA. 
+
+1. ORGANIZATION OF THE NATIONAL PHARMACOVIGILAN CE PROGRAM 
+
+a. The National Pharmacovigilance Program shall be composed of: 
+i. National Pharmacovigilance Advisory Committee (NPVAC) 
+ii. National Pharmacovigilance Center (NPVC) 
+iii. Regional Pharmacovigilance Unit (RPVu) 
+iv. Peripheral Pharmacovigilance Unit (PhPVu) 
+
+b. The organizational chart for the National Pharmacovigilance Program is illustrated in Annex 1 (Organogram). 
+
+c. The responsibilities of the Units shall be stated in Annex 2. 
+
+B. NATIONAL PHARMACOVIGILAN CE ADVISORY COMMITTEE (NPVAC) 
+
+1. COMPOSITION 
+
+a. The National Pharmacovigilance Advisory Committee shall be chaired by the Director General of the FDA and co-chaired by the Undersecretary for Regulation of the DOH. 
+
+b. National Pharmacovigilance Center shall serve as the secretariat/member. 
+
+c. The following shall constitute the members of the National Pharmacovigilance Advisory Committee with voting powers: 
+
+i. Chief, National Epidemiology Center 
+ii. Chief, National Center for Pharmaceutical Access and Management (NCPAM) 
+iii. Technical adviser/s of the FDA Pharmacovigilance Task Force 
+iv. Program Managers of the programs of the National Center for Disease Prevention & Control (NCDPC) of the DOH which manages the provision of drugs for their program, including the Program Manager of the Expanded Program for Immunization and the Director of the Health Emergency Management Staff (HEMS) 
+v. Chief, Product Services Division, FDA 
+vi. Chief, Legal Information and Compliance Division, FDA 
+vii. Chief, National Center for Health Facilities Development (NCHFD) 
+
+d. Representatives of the following are ex-ofﬁcio members with no voting 
+
+i. Philippine Medical Association (PMA) 
+ii. Philippine College of Pharmaceutical Medicine (PCPM)
+iii. Philippine Hospital Association (PHA) 
+iv. Philippine Healthcare Association of the Philippines (PHAP) 
+v. Philippine Health Insurance Corporation (PHIC) 
+vi. Bureau of Health Facilities Services (BHFS) 
+
+e. The above-mentioned members of NPVAC and their alternates shall be so authorized through a Department Personnel Order. 
+
+f. Technical persons from FDA may be invited by the Committee when necessary to provide technical guidance on reports. 
+
+g. Technical persons from the government, the academe and other partners, may be invited as resource persons by the Committee to review and provide technical guidance or inputs on matters that need to be clariﬁed. These technical persons shall have no voting power. 
+
+2. FUNCTIONS 
+
+The National Pharmacovigilance Advisory Committee (NPVAC) shall have the following functions: 
+
+a. Shall oversee the performance of the National Pharmacovigilance Center and Pharmacovigilance Units. 
+
+b. Shall review drug product safety update reports and other related safety information for this program. 
+
+c. Shall recommend to FDA necessary regulatory measures based on Pharmacovigilance data received from various units. 
+
+d. Shall recommend to the Secretary of Health the involvement of other parties who may be deputized or accredited to perform speciﬁc activities that would ensure the attainment of the objectives of the National Pharmacovigilance Program. 
+
+e. Shall recommend to the FDA Director General and the Secretary of Health appropriate actions based on the results of investigations e.g., withdrawal of drugs from the market 
+
+C. NATIONAL PHARMACOVIGILAN CE CENTER (NPVC) 
+
+1. COMPOSITION/CAPABILITIES 
+
+a. The Head of the Pharmacovigilance Center shall have the appropriate training on risk management, pharmacovigilance and adverse drug reporting, preferably a medical doctor or one with an MS. degree in Pharmacology or MS in Clinical Pharmacy. 
+
+b. The staff of the Pharmacovigilance Center shall include the following: 
+
+i. 3 clinical pharmacists 
+ii. 1 administrative assistant 
+iii. 1 pharmaco-epidemiologist/biostatistician 
+
+c. The staff of the National Pharmacovigilance Center shall be provided with adequate training and resources in pharmacology, biostatistics, risk management, pharmacovigilance and adverse drug reporting, among others, to implement the National Pharmacovigilance Program. 
+
+d. The members and other parties which shall have direct involvement under the National Pharmacovigilance Center shall be properly proﬁled, which shall include assigned task, previous and current, and their credentials. 
+
+e. The National Pharmacovigilance Center shall maintain a database of the members of the different pharmacovigilance units and changes/ amendments in the composition of the members shall be properly documented. 
+
+2. FUNCTIONS 
+
+The FDA, through its National Pharmacovigilance Center shall be the authority responsible for the effective implementation and coordination of the National Pharmacovigilance Program. The National Pharmacovigilance Center shall have the following functions, among others: 
+
+a. Shall receive, encode and consolidate all reports from patients, reporters, industry, consumers, healthcare providers and Pharmacovigilance Units under the scope of the National Pharmacovigilance Program. The reports shall be forwarded to the ADR Unit of the FDA either by fax or post with the four important elements of the report included- the patient, the suSpected drug, the adverse reaction and the reporter. 
+
+b. Shall develop and update appropriate regulatory instruments to ensure safety of drug products registered in the country in agreement with relevant local and international guidelines. These guidelines shall be promulgated for the: 
+
+i. Collection, assessment of causality and risk-beneﬁt, analysis, inspection, reporting and alert of adverse event reports 
+ii. Monitoring and inspection of proposed and on-going clinical studies and post-market studies 
+iii. Development of Good Pharmacovigilance Practices 
+iv. Review of Periodic Safety Update Reports (PSURs) 
+v. Conduct investigation on reported ADRs by the pharmaco— epidemiologist with the help of the NEC epidemiologist. 
+vi. Establishment of network with international, regional and local agencies as well as healthcare providers, health institutions and market authorization holders. 
+
+c. Shall create and maintain a database of the following: 
+
+i. Members, qualiﬁcation of members, as well as, location of all the Pharmacovigilance units. ' 
+ii. All reports received by the NPVC on a nation-wide basis as well as the actions made by the NPVC and FDA. 
+
+d. Shall establish an international collaboration on drug, food, cosmetics and medical devices safety with other regulatory authorities, WHO International Drug Monitoring Program and other international product safety monitoring agencies. 
+
+e. Shall analyze collected reports and make necessary recommendations to FDA on regulatory measures to be taken to promote and ensure the safety of public health, improved patient care, and safety in relation to use of health products. 
+
+f. Shall ensure complete and timely sharing of safety information between FDA and marketing authorization holders and other parties using procedures that ensures conﬁdentiality, quality and reliability of data. 
+
+g. Shall provide information to end-users through a Pharmacovigilance website, adverse reaction news, bulletins, drug alerts, seminars and other similar means of communication. 
+
+h. Shall amend or update other functions of the regional and service provider level Pharmacovigilance units, as appropriate. 
+
+i. Shall provide resources for the units in terms of staff and equipment. 
+
+j. Shall recommend sanctions for violators of this Order. 
+
+The detailed responsibilities of the National Pharmacovigilance Center is stated in Annex 2. 
+
+D. REGIONAL PHARMACOVIGILAN CE UNITS (RPVu) 
+
+1. COMPOSITION/CAPABILITIES 
+
+a. The Regional Pharmacovigilance Unit shall be created in every Center for Health Development (CHDs) or in a teaching hospital in the region and shall be composed of: 
+
+i. Regional Pharmacovigilance unit coordinator, preferably a medical doctor with adequate training on Pharmacovigilance and risk management; 
+
+ii. Doctors, pharmacists or nurses trained in Pharmacovigilance may serve as staff. 
+
+iii. A pharmacologist may serve as consultant to assist the unit. 
+
+b. The staff of the RPVu shall be provided with adequate training and resources by the FDA to implement the National Pharmacovigilance Program. 
+
+c. Documentation shall be required with respect to the composition and qualiﬁcations of the members of the unit. 
+
+2. FUNCTIONS 
+
+The responsibilities of the Regional Pharmacovigilance Unit are enumerated in Annex 2. 
+
+E. PERIPHERAL PHARMACOVIGILANCE UNITS (PhPVu) Facility level 
+
+The Peripheral Pharmacovigilance Units shall include units from medical institutions, medical centers, individual medical practitioners” clinics, private hospitals, nursing homes, pharmacies, public facilities under the local government units, academic institutions and other government agencies. 
+
+1. COMPOSITION 
+
+a. The Peripheral Pharmacovigilance Unit coordinator shall preferably be a medical doctor, a pharmacist or a nurse with adequate training on Pharmacovigilance. 
+
+b. Other health care professionals may serve as staff. 
+
+2. FUNCTIONS 
+
+The functions of the Peripheral Pharmacovigilance unit are enumerated also in Annex 2. 
+
+VII. ROLES and RESPONSIBILITIES 
+
+The Department of Health (DOH) and the Food and Drug Administration (FDA) and other entities covered by this Administrative Order shall assume responsibilities as set forth hereon for the implementation of the National Pharmacovigilance Program. 
+
+A. FDA 
+
+1. Supervision of the use of drugs, and other pharmaceutical products that have been registered in the Philippines. 
+
+2. Formulate the measures necessary to ensure the safe and effective use of such products, through the implementation of pharmacovigilance obligations and its monitoring. 
+
+3. Ensure the compliance of MAHs and clinical trial investigators and sponsors with Pharmacovigilance obligations. 
+
+4. Impose the appropriate sanctions, in case of repeated adverse event occurrences, against a regulated entity whose product/s caused said occurrences after the conduct of an investigation and other observance of due process. 
+
+5. Create and maintain the necessary database/s for the effective implementation of the Program. 
+
+6. Conduct audits of MAHs to ensure that a functional PV system is in place in the company with designated and trained PV staff. The FDA shall prepare the guidelines on the conduct of the audit and will develop standards to ensure that all companies have established PV system in place. 
+
+7. Negotiate and sign a Memorandum of Agreement (MOA) with the LGU local executives, in collaboration with the NCPAM, to enlist/ensure their support to the PV program. ' 
+
+8. The responsibilities of the speciﬁc divisions of the FDA are as follows: 
+
+a. The Legal Information and Compliance Division shall provide legal advice in the enforcement of all related laws and regulations in the implementation of this policy. It shall also monitor advertisements and promotions to ensure compliance with existing guidelines on medical and health claims. 
+
+b. The Regulation Division I shall be the implementing arm and as such shall inspect drug retail outlets and distribution, as well as conduct random product sampling and collection. 
+
+c. The Regulation Division 11 shall be the implementing arm and as such shall inspect and audit manufacturers. 
+
+d. The Laboratory Services Division shall provide assistance by conducting immediate laboratory test on the collected samples. 
+
+e. The Product Services Division shall verify if products involved in local and international reports, alerts, updates has a counterpart in the Philippines, implement the recommended labeling changes and re-classify drugs accordingly based on evaluated data. 
+
+f. The Post Market Surveillance (PMS) Task Force shall be responsible in directing the strategies for effective targeting, sampling and testing of products. ' 
+
+g. The Pharmacovigilance (PV) Task Force shall spearhead and ensure the conduct of trainings on pharmacovigilance, and conduct PV inspections of institutions to assess functionality of their respective PV systems. 
+
+9. The FDA shall provide adequate funds to implement Pharmacovigilance activities, communication networks and market surveillance in accordance with approved the work and ﬁnancial plan of the Program. 
+
+B. DOH OFFICES 
+
+1. The Health Service Delivery Cluster, through the National Center for Health Facilities Development (NCHFD), shall take appropriate measures and information campaign to encourage reporting of suspected adverse events to the FDA by hospitals and health facilities by virtue of the A0 003 s 2008 (National Patient Safety Program). 
+
+2. The Bureau of Health Facilities and Services (BHFS) shall require the establishment of pharmacovigilance units in all hospitals and private facilities (clinics) and pharmacies, which shall form a network responsible for adverse event information submission. 
+
+3. The Bureau of International Health Cooperation (BHIC) shall ensure the establishment and maintenance of strong linkages with international drug safety and monitoring/teaching institutions, local and international societies and agencies that will continually ensure the inclusion, participation, training and cooperation/collaboration of the Philippines in the global scene to assure drug safety. The active participation of the Philippines in the WHO Programme is an evidence of its international commitment to maintain good communication with other regulatory authorities and ensure effective and prompt exchange of information relative to safety issues. 
+
+4. All DOH ofﬁces managing the provision of pharmaceutical products for their programs, such as the National Center for Disease Prevention and Control, Health Emergency Management Services (HEMS), etc., shall ensure the submission of adverse reports arising from drugs used in their public health programs, emergency health services and others. 
+
+5. The National Center for Pharmaceutical Management and Access (NCPAM) shall formulate policies regarding medicines use and shall provide technical and ﬁnancial support to the NPVC to ensure smooth implementation of the program, in coordination with the Bureau of Local Health Development (BLHD). It shall also work for the passage of an Executive Order to enjoin local Chief Executives to implement PV programs in all healthcare facilities. 
+
+6. The National Epidemiology Center (NEC) shall provide the NPVC copies of the submitted reports on adverse events arising from vaccines and biologicals from the Expanded Program on Immunization (EPI) of the DOH. The NEC shall also assist in the investigation of reported ADRs to establish causality or possible link of the drug to the reported reaction. NEC designated sentinel sites shall be utilized in the conduct of surveillance, monitoring and investigation of serious adverse events arising from all pharmaceutical products. 
+
+7. The Philippines Health Insurance Corporation (PHIC) shall require accredited hospitals and drug outlets to establish a Pharmacovigilance Unit for the 12 proper implementation of the National Policy and Program on Pharmacovigilance. 
+
+C. MARKET AUTHORIZATION HOLDER (MAH) 
+
+1. Set up a surveillance system for their marketed drugs. MAHS must have on ﬁle written procedures for the receipt, evaluation and reporting of adverse events to be submitted to FDA. 
+
+2. Conduct spontaneous reporting and submit the Periodic Safety Update Reports (PSURs) based on the timeframe of the FDA in line with the type of product registration granted to them (i.e. monitored release, initial, renewal, etc.) 
+
+3. Submit local reports adopting the format of the FDA report form (CIOMS form for foreign reports) set by this Administrative Order, as appropriate and other additional information required by the National Pharmacovigilance Center. 
+
+4. Establish a PV system in their respective companies with trained PV staff. 
+
+5. Designate a qualiﬁed Pharmacovigilance liaison ofﬁcer who shall assume the following functions: 
+
+a. Shall maintain an effective Pharmacovigilance system of the Marketing Authorization holder 
+
+b. Shall have an overview of the safety proﬁles and any emerging safety concerns in relation to the products for which the Marketing Authorization Holder holds authorizations 
+
+c. Shall act as a single contact point for NPVC during inspection and monitoring and respond promptly for any request/inquiry from FDA 
+
+d. Shall submit to FDA the name of the designated qualiﬁed PV ofﬁcer and inform FDA of any changes 
+
+e. Shall maintain a company database of all adverse events involving their products and have on ﬁle all reported cases 
+
+f. Shall submit an annual report regarding the regular, documented trainings/and updates conducted by the company for its PV staff. 
+
+6. Submit to the NPVC a copy (full protocol) of the post marketing or post registration studies for proper monitoring of serious adverse events. 
+
+D. INVESTIGATORS OF CLINICAL TRIALS 
+
+1. The investigators and research organizations that are conducting clinical trials in the Philippines, shall submit reports of serious adverse event or adverse drug reaction occurring after use of unregistered products (i.e pre-marketing clinical trials) directly to the National Pharmacovigilance Center not later than 24—48 hours from the detection of the adverse drug event by the clinical investigator andf or sub-investigators, even if, the report has not been assessed/evaluated by the sponsor. The purpose of such report is to just alert the FDA on the occurrence of such incident. The sponsor can then submit an assessed report 7 days after the occurrence of the event. 
+
+2. The investigators and research organizations shall meet and COOperate with the pharmacovigilance inspectors during the conduct of inspection, as appropriate. - 
+
+E. HEALTHCARE PROFESSIONALS 
+
+1. Healthcare professionals are required to report to the FDA any suspected adverse event arising from use of pharmaceutical products, who in turn, shall inform the concerned pharmaceutical company. 
+
+2. Healthcare professionals shall be responsible for the accurate reporting of adverse events in patients and participants in clinical trials. 
+
+F. LOCAL GOVERNMENT UNITS (LGUs) 
+
+1. Local government units, through the Provincial Therapeutics Committee (TC) shall ensure the creation of Pharmacovigilance units under their jurisdiction which shall assume functions of Peripheral Pharmacovigilance unit and coordinate with NPVC. 
+
+2. The local government units shall coordinate with NPVC during the conduct of Pharmacovigilance investigations within their territory. 
+
+G. HOSPITALS 
+
+1. All hospitals shall create and maintain a Pharmacovigilance Unit which shall be responsible in collecting and evaluating the data. 
+
+2. All hospital in the Philippines shall submit reports of adverse events (ABS) to FDA. 
+
+3. Pharmacovigilance units in hospitals shall inform the NPVC of any amendments in its composition and qualiﬁcations. 
+
+4. Health professionals and health workers of the hospital Pharmacovigilance unit shall attend trainings on Pharmacovigilance conducted by the NPVC. 
+
+5. The Therapeutics Committee (TC) of the Hospitals shall serve as organic Pharmacovigilance units, unless speciﬁc designations are made by the Chief of Hospital . The TC shall evaluate any report of suspected AE and shall recommend apprOpriate actions to the Hospital Chief regarding the drug implicated in the report if causality is established. Likewise, the TC is empowered to delist ﬁom its list of suppliers any manufacturer whose products are commonly and constantly implicated in adverse event reports submitted to the Committee by a formal hospital policy, endorsed by the Hospital Chief to this effect. 
+
+H. REPORTERS, PATIENTS AND THE CONSUMING PUBLIC 
+
+1. The patients and the consuming public shall be enjoined to report any adverse event or questionable efﬁcacy observed in the use of pharmaceutical products to the National Pharmacovigilance Center or in any of the Pharmacovigilance units. 
+
+2. Reporters shall coordinate and cooperate with the National Pharmacovigilance Center and other assigned units during the validation of the data in the reports. 
+
+3. Reporters shall ensure that their reports maintain honesty, objectivity, integrity and completeness of the information relating to the adverse experience. The reports shall indicate the brand name, batch number and manufacturer of the product. The remaining samples/s of the implicated product shall be submitted for analysis to FDA. 4. The reporters shall have no conﬂict of interest in reporting adverse events. 
+
+5. The reporters shall also be available for further investigation and veriﬁcation for the submitted reports. 
+
+VIII. REPORTING 
+
+All adverse events and problems regarding the products (i.e. counterfeiting, product defect, therapeutic ineffectiveness, and other problems) shall be reported to the National Pharmacovigilance Center or other Pharmacovigilance units using the approved forms, network and systems. 
+
+IX. SANCTIONS 
+
+Any violation of this Administrative Order shall be a ground for ﬁling appropriate administrative charges andlor imposition of administrative sanctions such as but not limited to, imposition of ﬁnes, suspension, cancellation or revocation of any license, permit or registration issued by the DOH and FDA. 
+
+X. HONORARIUM/ADDITIONAL COMPENSATION 
+
+Honorarium or additional compensation shall be given to the members of the Pharmacovigilance Center and other Pharmacovigilance units, as may be determined by the Secretary of Health, upon recommendation of the FDA. 
+
+XI. INLPLEMENTING ARRANGEMENTS 
+
+The FDA through the NPVC shall submit a detailed operational and investment plan including a budget for the establishment of the National Pharmacovigilance Program Center and Units and its ﬁrst ﬁve (5) years of operations, within 90 days of issuing of this A0. 
+
+The DOH through the NCPAM and the FDA shall work for the passage of a Presidential Proclamation declaring October 8-15 as National Drug Safety Week and to observe its annual celebration to promote drug safety in the country. 
+
+XII. FUNDING 
+
+The FDA and the DOH, through the NCPAM, shall assure that line items in the General Appropriations Act shall be for the National Pharmacovigilance Program development, implementation, monitoring and evaluation. 
+
+XIII. AMENDMENTS TO THE IMPLEMENTING RULES AND REGULATIONS 
+
+Any amendment of the National Pharmacovigilance Program should be initiated by the FDA at any time, as necessary. Prior to the effectivity of the proposed amendments, a public consultation shall be conducted with the stakeholders. A copy of the proposed amendments shall be made available to the public 30 days prior to the date of the public consultation. 
+
+IV. ISSUANCE OF APPROPRIATE GUIDELINES 
+
+The FDA, through the NPVC, may issue appropriate guidelines that may be needed to address existing/emerging safety situation to effectively implement the intentions and objectives of the National Pharmacovigilance Program. 
+
+XV. REVIEW OF THE PHARMACOVIGILANCE PROGRAM 
+
+After two (2) years from the effectivity of these Implementing Rules and Regulations and every 2 years thereafter, the FDA and the DOH (Bureau of Health Facilities) shall jointly review the National Pharmacovigilance Program.  
+
+XVI. REPEALING CLAUSE 
+
+The provisions of any previous Orders and other related issuances if any, inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modiﬁed, repealed or rescinded accordingly. All other provisions of existing issuances which are not affected by this Order shall remain valid and in effect. 
+
+XVII. EFFECTIVITY 
+
+This Order shall take effect thirty (30) days after its complete publication in two national newspapers of general circulation. A copy of this Administrative Order shall be submitted to the University of the Philippines Law Center. Subsequent amendments to this Administrative Order shall take effect 15 days after promulgation. 
+</body>
+
+<sign>ENRIQUE T. ONA, MD, FPCS, FAC</sign>
+<signtitle>Secretary of Health</signtitle>
+
+ 
+<image>figure_1.png</image>
+<image>table_1.png</image>
+<image>table_2.png</image>
+<image>table_3.png</image>
+<image>figure_2.png</image>
+ 
+

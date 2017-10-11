@@ -1,0 +1,47 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+<date> </date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 339 series of 1978</docnum>
+
+<subject>AMENDING SECTION 13, SUBSECTION (c) and (d) AND SECTION 14, SUBSECTION (b) OF ADMINISTRATIVE ORDER NO. 156 SERIES OF 1971 CONCERNING REQUIREMENTS FOR A BLOOD BANK AND/OR BLOOD PROCESSING LABORATORY AS AMENDED BY ADMINISTRATIVE ORDER NO. 144-32 SERIES OF 1973.</subject>
+
+<body>
+SECTION 1 - Section 13, Subsections (c) and (d) of Administrative Order No. 156, series 1971 as amended by Administrative Order No. 144-32, series of 1973, are hereby amended to read as follows:
+
+"Section 13 - Requirements for a Blood Bank and/or Blood Processing Laboratory.
+
+(c) Equipment
+
+(1) For preliminary testing of donors:
+
+(a) Blood pressure apparatus
+(b) Stethoscope
+(c) Weight scale
+(d) Autoclave - if glass syringes and lancets are resterilized
+(e) Disposable syringes, needles and lancets enough for a week's use at all times
+(f) Photoelectric colorimeter or hematocrit centrifuge with reader
+(g) At least 18 pcs. of 20 ul. or 0.02 ml. glass pipettes and no less than 50 pcs. for those blood banks with outlets; at lease a dozen 5 ml. serological pipettes and no less than a hundred appropriately-size tubes if hemoglobin is to be determined, or enough disposable heparinized capillary tubes for a week's use at all times if PCV is to be determined; miscellaneous glasswares, slides, log papers, etc.
+(h) Clinical thermometer
+
+(d) Reagents
+
+(5) Drabkin's solution and controls if hemoglobin is to be determined."
+
+SECTION 2 - Section 14, Subsection (b) of Administrative Order No. 156, series 1971, as amended by Administrative Order No. 144-32, series of 1973, is hereby amended to read as follows:
+
+"Section 14 - Minimum Requirements for the Collection, Processing and Disposal of Citrated Whole Blood (Human)
+
+(b) Other requirements of donors
+
+(3) Hemoglobin level must not be less than 12 gm/100 ml. (Cyanmethemoglobin method) or a hematocrit of 36 vol.%."
+
+SECTION 3 - These amendments shall take effect 60 days upon approval and publication in the official gazette.
+</body>
+
+<sign>CLEMENTE S. GATMAITAN, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>

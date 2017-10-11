@@ -1,0 +1,40 @@
+﻿Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+<date>26/10/1987</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 29 s. 1987</docnum>
+To: Bureau/Project Directors, Chief of Offices/Services and others concerned.
+<subject>Subject: Revised Guidelines on Requests for Repair of Office Equipment, Scientific Instruments and other Machines.</subject>
+
+<body>
+	The provisions of Administrative Order No. 14 series of 1986 on this matter are hereby revised to read as follows.
+
+In order to expedite action on requisition for repair of office equipment, scientific instruments and machines, the following procedures shall be observed by all concerned:
+
+1. Office of origin/end-user prepares a Requisition and Issue voucher (RIV) for signature of Chief of Office concerned as Requisitioning Officer, indicating thereon the brand, serial number, property number, acquisition, cost, date, source and other information, such as previous repair and nature;
+2. Requisition and Issue Voucher is forwarded to the approving officials for their signature;
+
+3. Approved RIV is forwarded to the Procurement and Logistics Service for recording and referred to the Medical Equipment Maintenance and Engineering Section;
+
+4. The medical equipment maintenance and Engineering Section shall perform a pre-repair inspection and determine if the repair will be an “in-house repair” or an “outside repair” and call the attention of the DOH inspection team for its findings;
+5. If “in-house repair”, the Medical Equipment Maintenance and Engineering Section will act on it and submit list of materials and spare parts to Procurement and Logistics service for it to prepare the RIV for Materials and spare parts needed, have the RIV approved, conduct a canvass and issue Purchase Orders.
+	Upon delivery of the materials and spare parts, the same will be delivered to the MEMES so that the needed repair can be performed;
+6. if “outside repair will be done, the Procurement and Logistics Service may contact the Service center of the authorized distributor of the equipment to b repaired/conduct a sealed quotation of prices from accredited repair shops and on the basis of which, issue the corresponding Job Order;
+	If the cost of repair exceeds P20,000.00, the Technical Property Inspector, Commission on Audit, shall be requested for comments/remarks thereon;
+7. The Procurement and Logistics Service reviews the manner of procurement and the required supporting papers. If found in order, the Chief, Procurement and Logistics Service signs the Job Order and the Abstract of Canvass or other supporting documents and forwards same to the Budget Division;
+8. Budget Division prepares and signs the Request for Obligation of Allotments (ROA) and forwards the ROA, Job Order and supporting papers to the Accounting Division;
+9. Accounting Division processes, certifies as to availability of funds and forwards the Job Order and supporting papers to approving officials retaining the original and carbon copy of the ROA for bookkeeping purposes;
+10. Approving officials signs Job Order, Abstract of Canvass per delegated authority.
+11. The Procurement and Logistics Service, after receipt of the approved Job Order furnishes Commission on Audit of advance copy. After the lapse of five (5) days Procurement and Logistics Service releases the Job Oder to the contractor who accepts the same indicating date it was released.
+
+All repaired equipment must be delivered to the Material Management Division to determine whether said repair will be inspected by the Technical Inspector of Commission Audit, Department of Health Technical Inspectors or Commission Audit, Department of Health Technical Inspectors or the Medical Equipment Maintenance and Engineering Section, before any payment can be effected.
+	For requisitions during the last two (2) months of the year, ROA and Job Order with the supporting papers are forwarded to the Commission on Audit for clearance purposes pursuant to Executive Order No. 228 after the Accounting Division has indicated the Obligation Number. After the clearance, the ROA, Job Order and supporting papers are returned to the Accounting Division for the signature of the Department Chief Accountant.
+	This Order supersedes all other issuance relative to this matter
+
+</body>
+<sign>ALFREDO R. A. BENGZON, M.D.</sign>
+<signtitle>Secretary of Health</signtitle>

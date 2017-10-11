@@ -1,0 +1,279 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>08/28/2013</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2013 - 0024 </docnum>
+<subject>Subject: Guidelines on the Adoption of the LGU Scorecard Institutional Validation System through the Inter-Local Health Zone (I Cluster of Municipalities}/ District Health System (DOH-ARMM) lSector—Wide (Cities) </subject>
+<body>
+
+I. RATIONALE 
+
+The LGU Scorecard was initially established through Administrative Order No. 2008-0017 in support to the implementation of the Department of Health’s (DOH) Health Sector Reform and in 2010 the Kalusugan Pangkalahatan or Universal Health Care Program. This is in collaboration with the Department of Interior and Local Government to enable the DOH to determine the health needs of the different localities and equitably provide the appropriate support based on these needs and priorities. 
+
+Experiences from previous years’ data yield have identified some issues in data management, such as inconsistencies of LGU Scorecard results with Field Health Service Information System (FHSIS), discrepancies in Province/City—wide Health System,(P/CWHS) performance benchmarks with regional performance benchmark summaries, and presence of extreme values/outliers in results, among others. Data being generated has suffered some set- backs in terms of quality and reliability. Thus, the DOH requested the assistance of UNICEF which commissioned the UP College of Public Health Foundation to provide consultancy service that would look further into the LGU Scorecard processes and data generation. 
+
+The result of the study conducted by UP College of Public Health points out the two (2) levels of validation system to be institutionalized for the LGU Scorecard. The ﬁrst is at the levels of the Inter-Local Health Zones (ILHZs)/District Health Systems (DHS) and Sector-Wide (Cities). Data validation at these levels is focused on ensuring the accuracy and completeness of recording and reporting of health information within the ILHZ, DHS, and Sector Wide systems and processes from the point of service in the communities by the midwives up to the analysis of submitted health reports from the health centers. The second is at the level of the Provincial Local Implementation Coordination Team (PLICT). This level covers ensuring the quality of health—related information that are part of the LGU Scorecard but the sources of data are outside the ILHZ, DHS and Sector-Wide such as information on hospital, health governance and health financing that Will address the gaps in the quality-of information reported to the LGU scorecard. It is expected that the source of the data included in the LGU Scorecard indicators emanating from the provincial/city levels have already undergone quality assurance audit after having been examined by the Commission on Audit or by the regulatory units of the Department of Health. 
+
+II. OBJECTIVES 
+
+1. To ensure the accuracy and completeness of the health information reported in the LGU scorecard. 
+
+2. To create a learning environment that will prevent committing the same mistakes in the future. 
+
+3. To foster closer coordination and cooperation between ILHZs/DHS/Sector—Wide and other stakeholders of the LGU Scorecard system. 
+
+III. DEFINITION OF TERMS 
+
+1. Kalusugan Pangkalahatan or Universal Health Care — is the provision to every Filipino of the highest possible quality of health care that is accessible, efficient, equitably distributed, adequately funded, fairly financed and appropriately used by an informed and empowered public. 
+
+2. HSRA - refers to the Health Sector Reform Agenda developed by the Department of Health in 1999 in order to improve the way health services are delivered, regulated and financed. 
+
+3. Field Health Services Information System (FHSIS) — a system in the Department of Health to better manage its nationwide health service delivery activities and provide the desired management information. 
+
+4. Inter Local Health Zone (ILHZ) — any form of organized arrangement for coordinating the operations of an array and hierarchy of health providers and facilities serving a common population within a local geographic area under the jurisdictions of more than one local government (e.g., a sub-provincial ILHZ consisting of several municipalities with the province; a province—wide ILHZ consisting of one province and its component municipalities and cities; a multi—province ILHZ consisting of several provinces with their component municipalities and cities). 
+
+5. Local Government Performance Monitoring System (LGPMS) — a survey and assessment tool developed by the Department of Interior and Local Government. It has the ability to assess performance and state of development using sets of questions. Its main purpose as a survey tool is to gather raw data from local governments. 
+
+6. LGU Health Scorecard — is a component tool used to track the progress of health sector for health reform implementation that measures the performance of the health system within the province-wide health system. 
+
+7. Monitoring and Evaluation for Equity and Effectiveness (ME3) - system that aims to determine if reforms have equitably and effectively achieved goals in the health system. It measures health sector performance in terms of equity and effectiveness; LGU scorecard for health is a component of ME3. 
+
+8. Provincial Local Implementation Coordination Team (PLICT) — refers to the team responsible for the over-all implementation of health sector reform agenda activities in their respective LGUs. The PLICT shall be composed of the Provincial Governor, Provincial Health Officer, Sangguniang Panlalawigan Chairman of Committee on Health, Chairman/Vice Chairman of the ILHZ and Provincial Health Team Leader. 
+
+9. Province-wide/City-wide Investment Plan for Health — a five-year medium term health plan prepared by health sector reform provinces/cities using the health sector framework to improve the local health system; financing, regulation, good governance and service delivery. 
+
+10. Annual Operation Plan (AOP) — specifies program activities for the year including activities covered by Service Level Agreement, within the annual investment cost- as reflected in the five-year PIPH for all sources of funds (i.e. PLGU, MLGU, Development Partners Support, DOH Budget Support, PHIC, etc.) 
+
+IV. SCOPE AND COVERAGE: 
+
+This Order shall apply to all TechniCal and Area Clusters of DOH, Central Office Bureaus, Philhealth, National Nutrition Council, Centers for Health Development (CHDs), Department of Health-Autonomous Region for Muslim Mindanao (DOH-ARMM) and Local Government Units (LGUs) in all Province/City-wide Health Systems, ILHZs, DHS, Sector- Wide and municipalities implementing this data validation system. 
+
+V. DESCRIPTION OF THE DATA VALIDATION SYSTEM 
+
+There are two (2) levels of data validation system to be institutionalized for the LGU Scorecard. The first is at the level of the ILHZs, DHS and Sector—Wide where data validation is focused on ensuring the accuracy and completeness of recordings and reporting of health information within the ILHZ,DHS, Sector—Wide systems and processes from the point of service in the communities by the midwives up to the analysis of submitted health reports from the health centers at the ILHZ, DHS and Sector-Wide. The second is at the level of the PLICT. This level covers ensuring the quality of health—related information that are part of the LGU Scorecard but the sources of data are outside the ILHZ, DHS and Sector-Wide such as information on health governance and health financing including Philhealth related data. 
+
+The primary method of data validation to be used, at the ILHZ, DHS and Sector-Wide leVels, is implementing quality assurance sample surveys of the LGU scorecard reports submitted by the health centers to their respective ILHZ, DHS and Sector-Wide. Each ILHZ, DHS and Sector-Wide shall be conducting quality assurance sample surveys on another ILHZ using a prescribed methodology. In consideration 0f the current structure of other similar district health system in DOH-ARMM and Sector-Wide in cities, as well as the absence of a functional ILHZ, or small provinces with only one ILHZ, varying methods of implementing the same conceptual framework of the institutional validation system depending on local situations shall be discussed. Beyond detecting weaknesses and gaps in the recording/reporting activities of a local health unit, these surveys are intended to become means of sharing best practice experiences and together, seek common solutions that create synergy among the ILHZs, DHS and Sector-Wide. 
+
+At the level of the PLICT, it is expected that the source of the data included in the LGU Scorecard indicators emanating from the provincial/city level have already undergone quality assurance audit after having been examined by the Commission on Audit or by the regulatory units of the Department of Health and the PhilHealth. Thus, the main task of the PLICT is to review the LGU scorecard reports for inconsistency and use the information for health planning and making policy decisions. 
+
+Annex 1 illustrates the Policy Development Framework depicting the LGU Scorecard system and how health information is validated and managed. 
+
+VI. THE POLICY DEVELOPMENT FRAMEWORK 
+
+There are four (4) principal stakeholders of the LGU Scorecard system - each having a vital role to perform in order for the system to succeed. They are the (1) local government units, (2) the Department of Health, (3) the Department of Interior and Local Government, and (4) the private sector. 
+
+Since the LGU Scorecard system is based on the Province/City/ARMM-wide Investment Plan for Health (P/C/AIPH), and the P/CIPH/AIPH is the mechanism through which the Development Partners are mobilized by DOH to support the health activities of all provinces, cities and their municipalities, the provincial/city governments serve as the de facto leaders of local government units for loCal health development. To have one voice, the provincial/city governments established the League of Provinces/cities in the Philippines (LPP/LCPs) as their umbrella organization with the exception of DOH-ARMM being autonomous. 
+
+With cooperation and collaboration between the four principal stakeholders, a number of policy issues can now be answered. First and foremost is the establishment of the ILHZs/DHS/Sector-Wide in all provinces and cities nationwide which now can become a reality. 
+
+Based on experiences of provinces and cities with ILHZs/DHS/Sector-Wide, the ILHZDHS/SectOFWide can strengthen the efﬁcient and effective delivery of health services within an ILHZ/DHS/Sector-Wide. It strengthens the local health referral system by formalizing the roles of district/city hospitals as the core referral hospital within the ILHZ. DHS and Sector—Wide. It promotes cooperation between cities and municipalities and the private sectors. And with the LGU scorecard, the ILHZ, DHS and Sector becomes the practical means of implementing a data validation system that ensures quality health information. 
+
+The second policy issue answered is the four principal stakeholders can now enable themechanism for the ILHZ, DHS and Sector to be given funding support for its operation, including the quality assurance surveys now being proposed to be implemented by the ILHZ, DHS and Sector=Wide. A recommended option is to include in the P/CIPH/DOH-ARMM- Wide Investment Plan for Health and the AOP, activities of the I-LHZsX DHS and Sector- Wide where budgetary support is needed to enable them to function effectively. These activities should include the LGU scorecard institutional validation surveys. 
+
+VII. IMPLEMENTING GUIDELINES 
+
+The following are the recommended steps in conducting the validation survey for proVinces/cities with more than one ILHZ / DHS/ Sector-Wide: 
+
+l. The survey shall be conducted once a year (between the months of March and April) before the LGU Scorecard Report is submitted for data entry into the web-based Local Government Performance Monitoring System (LGPMS). 
+
+2. In coordination with the Provincial/City Health Office/DOH-ARMM, assignment of each ILHZ, DHS and Sector—wide to survey another one ILHZ/DHS/Sector shall be done at random. (See Annex 1) 
+
+(a) For provinces with municipalities not belonging to a functional ILHZ because of absence of core referral hospital, the Provincial Health Office should lead in organizing adjacent municipalities to function as an ILHZ. After an ILHZ has been assigned to survey another ILHZ, this ILHZ shall select at random one health center belonging to the ILHZ for survey. A survey team shall then be organized. 
+
+
+3. With proper coordination, the visit is scheduled and a copy of the LGU Scorecard report submitted to the respective ILHZ/DHS/Sector-Wide by the health center shall be provided. 
+
+4. The health center to be visited shall prepare all health records kept that served as sources of data for generating the LGU Scorecard report. 
+
+5. Upon the arrival of the survey team, the team shall randomly select three (3) health service indicators included in the LGU Scorecard reports. 
+
+6. From the health records containing the service accomplishments to the succeeding intervening records used to summarize periodically the accomplishments and generate reports, the team member shall examine for completeness and accuracy of entries including the use of prescribed formula of the indicators. 
+
+7. At the end of the survey, the team member shall compute for the estimated degree of accuracy and reliability of the health indicators reported and shall provide feedback ”on its ﬁndings to the concerned RHU staff and ILHZ/DHS/Sector-Wide health staff. 
+
+8. A meeting with all of. the health center members of the ILHZ/DHS/Sector-Wide shall be called to present the ﬁndings of the survey. The purpose of the meeting shall be for all health centers to learn from the lapses of managing health information and sharing ideas on how to avoid them in the future. 
+
+Modification in the recommended steps of conducting the validation survey for provinces with one ILHZ/DHS are as follows: 
+
+1. The survey shall be conducted once a year between the months of March and April and before the LGU Scorecard Report is submitted for data entry into the web-based Local Government Performance Monitoring System (LGPMS). 
+
+2. In coordination with the Center for Health Development, the Provincial Health Office/ DOH-ARMM shall organize a survey team to visit a randomly selected health center within the province. 
+
+3. With proper coordination, the visit is scheduled and a copy of the LGU Scorecard report submitted to the PHO by the health center shall be provided. I 
+
+4. The health center to be Visited shall prepare all health records kept that serve as the sources of data for generating the LGU Scorecard report. 
+
+5. Upon the arrival of the survey team, the team shall randomly select three (3) health service indicators included in the LGU Scorecard reports. 
+
+6. From the health records containing the service accomplishments to the succeeding intervening records used to summarize periodically the accomplishments and generate reports, the team member shall examine for completeness and accuracy of entries including the use of prescribed formula of the indicators. 
+
+7. At the end of the survey, the team member shall compute for the estimated degree of accuracy and reliability of the health indicators reported and shall provide feedback on its findings to concerned RHU staff and ILHZ/DHS health staff. 
+
+8. A meeting with all of the health center members of the ILHZ/DHS shall be called to present the findings of the survey. The purpoSe of the meeting is to learn from the lapses of managing health information and to share ideas on how to avoid them in the future. 
+
+The preceding recommended steps may still be modified depending on the assessment of the CHD and the provinceXcity on what would best ﬁt their local situation. However, the following underlying features of the validation procedures shall be maintained: 
+
+1. The survey team acts as an external auditor. No member of the team shall be a direct participant in the entire process: from recording to reporting of the LGU scorecard indicator that is submitted for entry to the DILG-LGPMS. 
+
+2. The health facility shall be randomly selected among adjacent health facilities who submitted the data capture forms (DCF) for entering into the LGPMS. 
+
+3. The three LGU scorecard indicators to be examined shall only be randomly selected when the survey team has arrived at the health facility. 
+
+4. All health facility staff shall be available and ready to assist the survey team’s conduct of the validation procedures. 
+
+5. The objective of the validation survey is to identify weaknesses in the system of recording and reporting health information in order that solutions may be formulated with the help of the survey team; thus, its aim is to create a learning environment for the members of the health facility and not in finding faults. 
+
+VIII. ROLES AND RESPONSIBILITIES 
+
+1. Department of Health 
+
+1.1. The Technical and Area Clusters of the DOH and Central Office Bureaus shall: 
+
+a. Set direction in the development of policies, frameworks and standards for monitoring and evaluation. 
+
+b. Develop the medium term health indicators and benchmarks for the LGU Scorecard.  
+
+c. Provide venue for the review and reconciliation of LGU scorecard data at the national level. 
+
+d. Provide technical assistance to CHDs on local health systems development. 
+
+e. Support sub-national and local capacity development for monitoring and evaluation. 
+
+1.2 The Bureau of Local Health Development shall: 
+
+a. Facilitate the review and development of the medium term health indicators and benchmarks for the LGU Health Scorecard. 
+
+b. Develop policies, frameworks and standards for local health systems monitoring and evaluation. 
+
+c. Provide technical assistance to sub-national and local capacity development for monitoring and evaluation on local health systems development. 
+
+1.3 The National Epidemiology Center shall: 
+
+a. Review the draft Manual of Procedure on the portion of indicators that is collected through the Field Health Service Information System (FHSIS). 
+
+1.4 The Health Policy Development and Planning Bureau shall: 
+
+a. Review the draft Health Policy on the LGU Scorecard Internal Validation and the Manual of Procedure before it is signed by Secretary of Health. 
+
+1.5 The National Center for Disease Prevention and Control shall: 
+
+a. Review the draft Manual of Procedure on the portion of Medium-Term Development Goals indicators (TB, MCH, NNC and Environmental Sanitation). 
+
+1. 
+6. The CentersforHealth Development shall: a. Validate the LGU Scorecard Data Capture Forms coming from the provinces. 
+
+
+b. Assess performance of province—wide health systems in the region through the LGU scorecard results. 
+
+c. Facilitate conferences for all provinces under their jurisdiction for regional LGU scorecard validation and reconciliation. 
+
+d. Ensure the sustainability of the ILHZ and Sector-Wide validation system by providing the necessary technical and ﬁnancial assistance to the provinces under their region. 
+
+e. Submit to the Bureau of Local Health Development the summarized annual ILHZ and Sector- Wide validation results in their region. 
+
+f. Support local capacity development on monitoring and evaluation. 
+
+1.6.1 The Provincial Health Team Office (DOH Representatives Office at the Province/City) shall:
+
+a. Ensure the timely submission of LGU scorecard reports from municipalities and province. 
+
+b. Validate the LGU Scorecard Data Capture Forms coming from the municipalities and province. 
+
+c. Ensure together with the Provincial Health Ofﬁce the organization and functionality of lLHZ/Sector-Wide validation teams. 
+
+d. Support local capacity development on monitoring and evaluation. 
+
+
+1.6.2 The Community Health Teams shall: 
+
+a. Ensure through constant advocacy and reminder the early submission of FHSIS reports at the municipalities and barangays of their coverage. 
+
+1.7 The PhilHealth shall:
+
+a. Provide technical inputs to the medium term LGU scorecard performance indicators. 
+
+b. Ensure the submission of annual LGU scorecard PhilHealth performance indicators. 
+
+1.8 The National Nutrition Council shall: 
+
+a. the submission of annual LGU scorecard NNC performance indicators. 
+
+2. The DOH-Autonomous Region for Muslim Mindanao shall: 
+
+a. The provincial Health Officers of DOH-ARMM shall conduct their validation through their district health system. 
+
+b. Validate the LGU Scorecard Data Capture Forms coming from the provinces and municipalities covered by DOH—ARMM. 
+
+c. Assess performance of province-wide health systems in the region through the LGU scorecard results.
+
+d. Facilitate conferences for all provinces in DOH-ARMM for regional reconciliation. 
+
+e. Ensure sustainability of the district health system validation by providing the necessary technical and ﬁnancial assistance to provinces under DOH-ARMM. 
+
+f. Support local capacity development on monitoring and evaluation. 
+
+3. Provincial, City and Municipal Governments through their Provincial, City and Municipal Health Offices 
+
+3.1 The Provincial Health office shall: 
+
+a. Implement the LGU Scorecard system and take the overall responsibility of ensuring quality health information being consolidated and reported to the Centers for Health Development (CHD) and Department of Interior and Local Government-Local Governance Performance Monitoring System (DILG— LGPMS). 
+
+b. Ensure the sustainability of the ILHZ Validation system by providing adequate resources and funding support to be incorporated during the preparation of the annual operational plan for health. 
+
+c. Conduct data validation and reconciliation of the consolidated LGU Scorecard Data Capture Forms (Province, Component Cities and MunicipalitieS). 
+
+d. Exercise overall technical supervision over the ILHZ Validation Team. 
+
+e. Facilitate together with the Provincial Health Team Ofﬁce in the Organization of the ILHZ Validation Teams. 
+
+3.2. The City Health Office shall: 
+
+a. Implement the LGU Scorecard system for the city and take the overall responsibility of ensuring quality health information being consolidated and reported to the Centers-for Health Development (CHD) and DILG-LGPMS). 
+
+b. Due to its present sector-wide approach being followed in NCR, cities shall conduct their validation process through sector-wide. . 
+
+c. Ensure the sustainability of the sector-wide validation system, by providing adequate resources and funding support to be incorporated during the preparation of the city-wide annual operational plan for health. 
+
+d. Ensure the readiness of the health facilities during the validation process. 
+
+3.3 The Inter-Local Health Zone Office/District Health System Office/Sector-Wide shall: 
+
+a. Conduct the annual validation process. 
+
+b. Ensure that the results of the validation is discussed among the catchment municipalities of the ILHZ/DHS and barangays for Sector-Wide in order to learn from the process. 
+
+c. Submit the results of the validated data to the Provincial/City Health Office to be entered into the overall data encoding system. 
+
+d. Ensure the readiness of the health facility to be validated in the catchment area of the ILHZ, DHS and Sector—Wide. 
+
+3.4 The Municipal Health Office shall: a. Ensure the accuracy and reliability of data inputted in the LGU Scorecard coming from the different barangay health facilities. b. Ensure the readiness of the health facilities during the validation process. 
+
+4. Department of Interior and Local Government 
+
+4.1 The Bureau of Local Government Supervision shall: a. Responsible for the LGU Scorecard on health project coordination and "monitoring at the levels of the Center for-Health Development (region), Provincial Health Office (province), Inter-Local Health Zones (clusters of municipalities), District Health Systems (ARMM), Sector-Wide (Cities) and municipalities. 
+
+e. Provide database administration, online data entry and online posting of LGU scorecard results in website through the Local Governance Performance _ Monitoring System (LGPMS). 
+
+f. Ensure the printing of the National and Regional Summaries of the LGU Scorecards and the LGU Report Cards of provinces, cities and municipalities in the country. ' ‘ 
+
+IX. SEPARABILITY CLAUSE 
+
+In the event that any provision or part hereof is declared ”invalid by any court or 
+
+competent authority, those provisions that are not affected by such declaration shall remain valid and effective. ' 
+
+X. REPEALING CLAUSE 
+
+Provisions from previous issuances that are inconsistent or contrary to the provisions of this Order are hereby rescinded and modified accordingly. 
+
+XI. EFFECTIVITY 
+
+This Order shall take effect immediately. 
+
+</body>
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<image>figure_1.png</image>
+

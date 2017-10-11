@@ -1,0 +1,466 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Building 1, San Lazaro Compound, Rizal Avenue
+Sta. Cruz, Manila, Philippines
+
+<date>05/08/2006</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2006 - 0018</docnum>
+
+<subject>SUBJECT : Implementing Guidelines for the Philippine National Drug Formulary System</subject>
+
+<body>
+I RATIONALE
+
+The 1987 Philippine Constitution mandates the right of every Filipino to health. The State, under Section II of Article XIII, shall adopt an "integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services acceptable to all the people at affordable cost".
+
+The state policy enunciated in Article II, Section 15 of the 1987 Constitution, that "The State shall protect and promote the health of the people and instill health consciousness among them".
+
+Republic Act (RA) No. 6675 known as the "Generics Act of 1988," prescribe that it is the policy of the State to "ensure the adequate supply of drugs with generic names at the lowest possible cost". Further, it is stated in section 4 (a) of the said law that "(i)n the promotion of the generic names for pharmaceutical products, special consideration shall be given to drugs and medicines which are included in the Essential Drugs List to be prepared within one hundred eighty (180) days from approval of this Act and updated quarterly by the Department of Health on the basis of health conditions obtaining in the Philippines as well as on internationally accepted criteria."
+
+Executive Order No. 49 dated January 21, 1993 entitled "Directing the Mandatory Use of the Philippine National Formulary Volume I as the Basis for Procurement of Drug Products by the Government," strengthens the advocacy of the generics law by ensuring that only essential drugs identified in their generic names will be procured by all government institutions.
+
+Administrative Order No. 163 s. 2002 entitled "Implementing Guidelines and Procedures in the Procurement and Requisition of Drugs and Medicines by the Department of Health pursuant to Executive Order No. 49 dated January 21, 1993," provided the procedural bases that ensure requisition of essential drugs by the Government sector and the decision system for the inclusion and deletion of drugs in the Philippine National Drug Formulary (PNDF).
+
+The PNDF Volume I became the basis for claims reimbursements for drugs and medicines through the Philippine Health Insurance Corporation (PHIC) Board Resolution No. 265 dated July 15, 1999.
+
+After reviewing the implementing policies and procedures that ensure the use of the PNDF and the instruments used for the drug inclusion in and deletion from the formulary, the Department of Health finds it necessary to revise the inputs, processes, and outputs of the PNDF, collectively referred to, thereafter, as the Philippine National Drug Formulary System (PNDFS).
+
+II SCOPE
+
+This Order shall be applicable to all Health Facilities/Units/Offices of the entire Government Sector insofar as drug procurements is concerned and shall be applicable to the entire Health Sector (Government and Private) insofar as PHIC claims for drug reimbursements is concerned.
+
+III OBJECTIVES
+
+This Order is formulated in order to:
+
+A Provide systems and procedure for:
+
+1 The selection of drugs to be included in or deleted from the Essential Drug List (EDL), also known as the Philippine National Drug Formulary (PNDF).
+
+2 The development of a new format of the EDL and the PNDF that integrates all three volumes of the old PNDF: the EDL, the Essential Drugs Monograph and the Cross-Reference Index. The new format shall be called the PNDF Manual
+
+B Identify the roles and responsibilities of various units of the Department of Health, and other stakeholders who are involved in the continuous development of the PNDF.
+
+IV DEFINITION OF TERMS
+
+A CORE or MAIN LIST - A list of drugs for the health care needs of the majority of the population; the listed drugs should therefore be made available at all times in adequate amounts and in appropriate dosage forms at the lowest possible cost. They are of utmost importance and are basic, indispensable, and necessary for the health needs of the population.
+
+B COMPLEMENTARY LIST- A list of drugs for treating rare disorders or for use in exceptional circumstances; alternative drugs when drugs in the main list are known to be ineffective or inappropriate for a given individual, alternative drugs when drugs in the main list cannot be made available, drugs with special pharmacological properties.
+
+V GENERAL GUIDELINES
+
+A The PNDFS shall consist of the Formulary Study Group (FSG) in charge of producing the Formulary Manual (also called the PNDF Manual) using the Formulary Selection Algorithm.
+
+B The Formulary Study Group shall consist of the following committees and council:
+
+1 The Formulary Executive Council (FEC)
+2 The Epidemiology Committees
+
+a) The Clinical Epidemiology Sub-committee
+b) The Public Health Sub-committee
+
+3 The Pharmacology Committee
+
+C The Formulary Selection Algorithm shall be a step-by-Step drug selection procedure to be employed in determining the drugs to be. included or deleted from the formulary.
+
+1 Based on a continuing review of disease statistics-from public and private hospitals and from government health facilities, the Epidemiology Committees shall identify the diseases for which drugs need to be included in the formulary The selection of these diseases shall be based on their burden, i.e., their frequency and severity The frequency of disease shall be measured by their prevalence or incidence. On the other hand, their severity shall be determined by disability-adjusted life years (DALYs) or, in its absence, a consensus of experts.
+
+2 The Clinical Epidemiology Sub-committee shall identify the diseases for clinics and hospitals, while the Public Health Sub-committee shall, similarly, identify the diseases for the DOH public health programs. The DOH, PHIC and other stakeholders may also, separately, propose diseases to the Epidemiology Committees for consideration.
+
+3 The Epidemiology Committees shall determine the most cost-effective clinical or public health practice guidelines based on a systematic review of the medical literature. Specific criteria to be considered are listed in Section VI.B. below.
+
+4 The acceptable Clinical Practice Guidelines shall determine the pharmacologic management of the high-burden diseases and, consequently, the drugs that need to be listed in the formulary. These drugs must be of acceptable safety and efficacy prior to consideration for inclusion.
+
+5 The Pharmacology Committee shall evaluate the drugs identified by the Epidemiology Committees to be listed in the formulary. Its task is to assess these drugs for favorability of pharmacokinetic and pharmacodynamic properties.
+
+6 The recommendations of the Epidemiology and Pharmacology Committees shall be sent to the FEC for review. The FEC shall approve or disapprove the recommendations based on a Consensus of the expert perspectives available on the Council.
+
+7 If a drug is disapproved, the drug's proponent, who may be a member of the Epidemiology or Pharmacology Committees, the DOH National Drug Policy Program (NDPP), or the PHIC may file a written appeals with the Office of the Undersecretary for Health Regulations for consideration. The appeal letter should highlight areas that might have been failed to be considered by the FEC or new evidences not reflected in previous submissions. Otherwise, an appeal shall be dismissed in the absence of such conditions. A Task Force may be created by the Undersecretary of Health, "By Authority of The Secretary of Health," to validate, conduct review and provide recommendation on appeals. Appeals from other parties as described in this Order, e.g. LGUs and Private Sector proponents, Third Parties-NGOs, POs and the likes, shall be coursed through the NDPP.
+
+8 The evidence tables, references, and reports of all the Committees shall be published on the DOH and PHIC websites.
+
+D The PNDF Manual shall consist of Clinical and Public Health Practice Guidelines, the Essential Drug List, the Formulary, and the Cross-Reference index.
+
+1 The Clinical and Public Health Practice Guidelines are the guidelines critically-appraised by the Epidemiology Committees for cost-effectiveness and recommended for use by clinicians and public health practitioners.
+
+2 The Essential Drug List is a simple listing of the drugs needed for the high-burden diseases identified by the Epidemiology Committees as reflected in the Clinical and Public Health Practice Guidelines.
+
+3 The Formulary makes up the main text of the PNDF Manual and, for each essential drug, provides information on use, dosage, adverse effects, contraindications, and warnings.
+
+4 The Cross-Reference index is a guide to the names of the branded and generic products for each drug and to their comparative prices.
+
+5 The previously-named PNDF Volumes 1-3 shall now be integrated in the Formulary Manual and shall cease to exist as independent publications.
+
+E The PNDF Manual shall be published upon the recommendation of the Undersecretary of Health tor Regulations and the approval of the Secretary of Health in accordance with the prescribed timelines established in the Generics Law. The PHIC shall be responsible for cost of dissemination and publication of the PNDF Manual.
+
+F The FSG shall be under the supervision and guidance of the Undersecretary of Health for Regulations. its structure and composition shall be determined by the Secretary of Health upon the recommendations of the Undersecretary for Regulations. All forms and formats, templates, and the algorithms for the decision-making process used by the FSG shall be standardized and shall be subject to the review and approval of the Undersecretary of Health for Regulations. Such shall be issued through supplemental issuances approved by the Undersecretary of Health for Regulations and stamped "By Authority of the Secretary of Health." The NDPP shall be the monitoring arm of the Undersecretary of Health for Regulations that would provide feedback and recommendation on the performance of the FSG.
+
+G The PHIC, shall provide the necessary administrative and secretariat functions of the Epidemiology and Pharmacology Committees of the FSG. On the other hand, the National Drug Policy Program (NDPP) shall be the main organic unit of the DOH that shall provide the necessary administrative and secretariat functions to the FEC.
+
+H BFAD shall provide the necessary technical inputs and essential data requirements, such as quality assurance data, relative availability of drugs in terms of inventory, prices, and market authorizations, to the FSG, to the PHIC, and to the NDPP.
+
+I Only drugs reflected in the PNDF Manual shall be procured by the all government entities in accordance with Executive Order No. 49 s. 1993. However, exemptions may be granted upon submission of a written request with justification subject to the approval of the NDP Program Manager which is also embodied in the aforementioned issuance.
+
+J Only drugs reflected In the PNDF Manual shall be considered for reimbursement or subsidy by the Philippine Health insurance Corporation (PHIC) for the entire Health Sector, Government and Private.
+
+K The PNDF Manual shall be reviewed and updated regularly in accordance with established timelines as provided in the RA 6675.
+
+L The Secretary of Health may authorize the procurement or acquisition of drugs not listed in the PNDF Manual in times of emergency or in support of health initiatives with strategic impact to the development of the country.
+
+M All drug establishments in the Philippine market must have a copy of the PNDF Manual. It shall be a reference for the establishment's in-patient counseling and in giving consumer advice when information about essential drugs is demanded.
+
+N Drugs withdrawn from the Philippine market due to safety reasons shall be deemed delisted from the PNDF Manual effective on the date of the order for withdrawal by the DOH and/or BFAD.
+
+VI SPECIFIC GUIDELINES
+
+A Composition of the Formulary Study Group (FSG)
+
+1 As mentioned above, the FSG shall consist of the following committees and Council:
+
+a) The Formulary Executive Council (FEC)
+b) The Epidemiology Committees
+
+i) The Clinical Epidemiology Sub-committee
+ii) The Public Health Sub-committee
+
+c) The Pharmacology Committee
+
+2 There shall be seven members on each Epidemiology Committee.
+
+a) On the Clinical Epidemiology sub-committee, each member should be both a specialist clinician/surgeon and a clinical epidemiologist. Each of the seven members should be from a different medical specialty. When discussing diseases that do not fall within the specialties of any of the committee members, a consultant specialist may be called in to work with the committee. The committee shall elect, from among themselves, a committee chair whose job shall be to coordinate the work of the other committee members. The committee chair shall hold his/her post for a period not exceeding three years. The other members of the committee shall also have terms of three years each.
+
+b) On the Public Health sub-committee, four members should be public health practitioners who have sufficient experience in the DOH's public health programs, while three members should be Public Health or Field Epidemiologists. When needed by the committee, other public health practitioners may be called in to work with the committee. The committee shall elect, from among themselves, a committee chair whose job shall be to coordinate the work of the other committee members. The committee chair shall hold his/her post for a period not exceeding three years. The other members of the committee shall also have terms of three years each.
+
+3 The Pharmacology Committee shall consist of three pharmacologists. It shall elect, from among itself, a committee chair whose job shall be to coordinate the work of the other committee members. The committee chair shall hold his/her post for a period not exceeding three years. The other members of the committee shall also have terms of three years each.
+
+4 The Epidemiology and Pharmacology Committees shall receive administrative and secretariat support from the PHIC, subject to the concurrence of PHIC including consultants' fees, research costs, and publication of committee proceedings. The PHIC may hire research assistants in support of the support subject Committees as the need arises.
+
+5 The Formulary Executive Council shall consist of ten core members representing the broad societal perspectives on the selection and use of pharmaceuticals. it shall have as members physicians and specialists from different fields of expertise with relevant years of experience and distinction in their respective fields. These members shall represent the following disciplines/institutions:
+
+a) Pharmacology
+b) Toxicology
+c) Clinical Epidemiology
+d) Pharmacy (preferably in the academe)
+e) Health economy
+f) Clinical Pharmacy
+g) Sociology/anthropology
+h) Pharmacovigilance
+i) Head of the National Drug information Center
+j) NDP Program Manager
+
+Specialty consultants shall be hired by FEC as non-permanent members and shall attend the meetings from time to time depending on the assigned topic for review, evaluation and updating. Said expert shall serve as the eleventh member of the Council.
+
+The Secretary of Health shall appoint a Chairperson from the eligible members of the FEC, and upon acceptance, the Chairperson shall coordinate the work of the other members, as well as preside over meetings and facilitate discussions. The Chairperson shall hold his/her post for a period not exceeding three years. The other members of FEC shall also have terms of three years each, except that of the Head of the National Drug information Center and the NDP Program Manager.
+
+6 The FEC shall be supported administratively by the NDPP.
+
+7 Proceedings, appraisals, assessments, and outputs by all the committees shall be made publicly available through publication on both the DOH and the PHIC websites.
+
+B Specific Guidelines for the Formulary Selection Algorithm
+
+1 The FSG shall ensure that each drug that is to be considered for inclusion in the PNDF shall be initially assessed based on its safety, efficacy, quality, and purity.
+
+a) The BFAD shall provide the necessary data inputs to the FSG to this effect, i.e., records of all drugs registered in the Philippine market or covered with a Certificate of Product Registration (CPR). The BFAD shall likewise provide data on whether the drug is already in the Philippine market or is still in the process of registration. in the event that the drug being assessed has failed to pass the selection criteria for safety, efficacy, quality, and purity, It shall not be included in the list. in case it is registered for market entry, its CPR shall be revoked; if its registration is still under process, its application for CPR shall be denied. The FSG may recommend to the Secretary of Health the revocation of an existing CPR or denial of application of CPR. Such recommendation to the Secretary of Health (SOH), through the Undersecretary for Regulation, if approved, shall be enforced by the BFAD.
+
+b) A life-saving essential drug which is not currently covered with a CPR or is not available in the local market may still be considered for inclusion in the PNDF provided that it has passed the selection conditions for the Core List. Still, the WHO Certification Scheme for the said drug and the relevant literature that would satisfy the selection criteria for safety, efficacy, quality, and purity must be obtained by the FSG. Said literature must come from the Drug Regulatory Agency of the country where the drug is marketed, and must be screened, cleared and deemed acceptable by BFAD, otherwise such drug shall not be included in the PNDF.
+
+2 The FSG, on its own initiative, shall review the list of drugs reflected in the current essential drug list as embodied in the latest edition of the PNDF Manual during every quarter of the year. At least two (2) weeks before the end of each quarter the FSG shall submit the recommended drugs that are for inclusion or deletion from the latest edition of the PNDF Manual to the Undersecretary of Health for Regulations through the Program Manager of the NDPP. Such shall be published in the DOH and PHIC websites, upon the approval of the Secretary of Health, in the month succeeding the end of each quarter.
+
+3 The following guidelines for drug selection shall be used by:
+
+a) The Epidemiology sub-committees
+
+i) Burden of disease-indicated in the prevalence or incidence of disease and its DALY.
+
+ii) Efficacy and safety-based on objective results and on adequate pharmacological studies including at least expanded Phase II clinical trials and/or additional Phase III studies.
+
+iii) Pharmacoeconomic analysis of drug therapy/ treatment regimen-the pharmacoeconomic analysis of drug therapy/ treatment regimen considering not only therapeutic effects but also adverse events and based on quality economic evaluations (e.g. use of pharmacoeconomic tools such as cost benefit analysis, cost effectiveness, cost utility, etc).
+
+iv) Appropriateness to the capability of health workers at different levels of health care-the level of expertise required for prescribing, for administering, and for monitoring the safety and adverse effects of single drugs or group of drugs in a therapeutic category must be considered. Consideration should be given to the competence of local personnel in making a correct diagnosis.
+
+b) The Pharmacology sub-committee
+
+i) Local health problems-The influence of concomitant or prevalent diseases or conditions on pharmacokinetic and pharmacodynamic parameters and on the modification of the therapeutic response have to be considered in making a selection, e.g., malnutrition, liver disease.
+
+ii) Benefit/Risk ratio--when several comparable drugs are available for the same therapeutic indication, it is necessary to select the one which provides the most favorable benefit/risk ratio.
+
+4 Preferential factors for evaluating therapeutically-equivalent drugs, both the Epidemiology Committees and the Pharmacology Committee should use these guidelines in choosing the best drug:
+
+a) The drug most thoroughly investigated, with extensive clinical experience and therefore the best understood with respect to its beneficial properties and limitations.
+
+b) The drug possessing clinical utility for the treatment of more than one condition or disease.
+
+c) The drug with most favorable pharmacokinetic properties, e.g., better compliance or lesser risk in various pathophysiological states.
+
+d) The drugs that are in dosage forms that are easy for the health staff to dispense or are easily or safely administered to the patient.
+
+e) The drugs that are easy for the patient to take or have greater acceptability among most patients.
+
+f) The drugs, pharmaceutical products, and dosage forms with favorable stability under the anticipated local conditions in storage facilities.
+
+g) The drugs for which local, reliable manufacturing facilities exist for their production.
+
+5 In the great majority of cases, the drugs should be formulated as single compounds-Fixed-ratio combinations are only acceptable when:
+
+a) The value of concomitant use of more than one drug is clinically documented.
+
+b) The therapeutic benefit of the combination is greater than the sum of each of the individual components.
+
+c) The combination is safer than the use of an individual drug.
+
+d) The cost of the combination product is less than or should not exceed the cost of the sum of the individual products.
+
+e) Compliance is improved.
+
+f) The combination must be such that the appropriate drug benefit-to-risk ratio satisfactory for the majority of the population is maintained.
+
+6 As a result of the above guidelines, the criteria for inclusion of drugs in the PNDF are as follows:
+
+a) The drug is needed for the prevention and treatment of conditions not already covered in the existing list;
+
+b) The drug is more effective and/or less toxic than a drug listed for the same indication;
+
+c) The drug is economically dominant, i.e., more effective and safe and of lower cost than the drug listed for the same indication; and
+
+d) The drug is deemed essential for a specific DOH health program/project.
+
+7 Similarly, the criteria for the deletion of drugs in the PNDF are as follows:
+
+a) A more effective or equally effective but less toxic drug becomes available;
+
+b) In the light of further knowledge, the therapeutic efficacy of the drug is found to be unsatisfactory or questionable;
+
+c) Toxicity, suspected toxicity, potential for abuse, dangerous interactions outweigh the drug's therapeutic value;
+
+d) The drug has fallen into disuse and is no longer available;
+
+e) The drug is no longer deemed cost-effective compared to other therapies;
+
+f) The drug is a fixed-dose combination that does not satisfy the requirements of A.O. 96 s.1990.
+
+8 The following criteria shall be used in selecting drugs for inclusion in the Core List of the PNDF:
+
+a) The drug has an acceptable safety profile, proven efficacy, good quality and purity
+
+b) Disease or condition for which the drug is indicated is found in the Philippines
+
+i) The drug is life-saving even if the disease or condition for which the drug is indicated is of low prevalence OR
+
+ii) The disease or condition for which the drug is indicated is of high prevalence AND there is no other therapeutically-equivalent drugs available in the PNDF OR
+
+iii) The disease or condition for which the drug is indicated is of high prevalence, there are two or more therapeutically-equivalent drugs available in the PNDF, BUT:
+
+(a) It has a favorable benefit-risk ratio
+
+(b) it has been thoroughly investigated or there has been extensive local clinical experience
+
+(c) it has favorable pharmacokinetic properties, e.g., improved compliance or is easy to administer
+
+(d) it is stable under anticipated local conditions, i.e., favorable data on accelerated and long-term studies
+
+(e) it is cost-effective and/or has reliable local manufacturing facilities.
+
+9 The following criteria shall be used in selecting drugs for inclusion in the Complementary List of the PNDF:
+
+a) The disease or condition for which the drug is indicated is of low prevalence AND the drug is not life-saving OR
+
+b) There is a high prevalence of the disease or condition for which the drug is indicated, there are two or more therapeutically-equivalent drugs available in the PNDF, the drug has a favorable benefit/risk ratio, BUT
+
+i) it has not been thoroughly investigated or there has not been extensive clinical experience OR
+
+ii) it does not have favorable pharmacokinetic properties, e.g., has poor compliance or is difficult to administer OR
+
+iii) it is not stable under anticipated local conditions, i.e., unfavorable data on accelerated and long-term studies OR
+
+iv) it is not cost-effective and/or has no reliable local manufacturing facilities BUT is needed
+
+10 The use of the selection criteria above is further described and explained by the algorithm in Annex G.
+
+11 After review by both the appropriate Epidemiology Committees and the Pharmacology Committee using the above selection criteria, the Drug Selection Form-FSG-initiated is sent to the FEC for approval. Using the broad societal perspectives represented by its members, the FEC approves or disapproves the submitted recommendations by majority vote.
+
+12 Documentation and Forms
+
+a) The FSG, for purposes of documentation shall accomplish the attached PNDF Form No. 1 (Drug Selection Form-FSG-initiated) which is hereto appended as Annex A for all drugs evaluated for inclusion or deletion from the PNDF. The PNDF Form No. 1 shall be chronologically numbered as they are accomplished and shall be logged in an official logbook. PNDF Form No. 1 shall have the following data elements:
+
+i) Date when the Form was accomplished
+ii) Serial No. of the Form
+iii) Generic Name of the Drug Evaluated
+iv) Dosage Form
+v) Strength
+vi) Route of Administration
+vii) Therapeutic Classification
+viii) Manufacturer
+ix) importer/Trader
+x) Distributor
+xi) Evidence Table with the following column headings
+xii) Recommendation for Inclusion/Deletion
+xiii) Recommendation Box for the signature of the Chairperson(s) of the Epidemiology and Pharmacology Sub-committees.
+
+b) Duly accomplished PNDF Form No. 1 shall be appended to the Chronological Summary of Drugs to be included or Deleted from the PNDF (PNDF Form No. 2) that shall be submitted quarterly by the FSG, if there is any. The PNDF Form No. 2 is hereto attached as Annex B. The PNDF Form 2 shall likewise be chronologically logged in a separate record book. The PNDF Form 2 shall have the following data elements:
+
+i) The Date of accomplishment
+ii) Covered Quarter
+iii) The Name of the Undersecretary of Health to which the summary reports is addressed to
+iv) The Column for the chronological numbering of drugs evaluated
+v) The Column of the chronologically listed generic name of drugs evaluated together with their dosage form, strength, route of administration
+vi) The Column for the general recommendation for inclusion/deletion
+vii) The Proponent for the inclusion/deletion of the Drug Product
+viii)The Column for the Proponent's main reason for inclusion or deletion recommendation on a subject drug (This is left blank If the FSG is the Proponent)
+ix) The Column of the FSG's action on the request. Such may mean concurrence with the Proponent's argument or the reason for the denial of the request
+x) Signature Box of the FSG Members and Officers
+
+c) The FSG on a quarterly basis shall likewise submit an Alphabetical Summary of the Drugs for inclusion/ Deletion (PNDF Form No.3). it shall have similar data elements as that of PNDF Form 2, except that the drugs are in alphabetic order instead of being chronologically listed. The PNDF Form No. 3 is hereto attached as Annex C.
+
+d) The NDPP, as FEC Secretariat, shall maintain copies of the duly accomplished PNDF Forms Nos. 1-3, and shall maintain a database system that shall be linked with the DOH's Health Commodities Reference Standards information System (HCRIS). The NDPP, in collaboration with the information Management Service, shall be responsible for preparing standard specifications for drug products in the HCRIS. These specifications shall be reviewed jointly by the FSG and BFAD and shall receive the approval of the SOH before posting.
+
+C Facilitation of Request for inclusion or Deletion of Drugs In the PNDF (Stakeholder initiated)
+
+1 Units, Offices, and Health Facilities directly under the supervision of the DOH and Health Facilities under the Local Government Units (LGUs) may request for the inclusion or deletion of drugs in the PNDF by filling-up PNDF Form No. 4 (Request for inclusion/Deletion of Drug in the PNDF by DOH and LGU Health Units), which is hereto appended as Annex D. The said requesting parties shall likewise satisfy all the selection conditions as described in the Specific Guidelines B. The PNDF Form No. 4 shall include appendices that show scientific proofs or evidences such as studies and scientific journal articles and entries and other accepted legal documents that would justify the inclusion or deletion of a drug in the PNDF. The scientific proofs or evidences should be summarized in an Evidence Table similar to that in PNDF Form No. 1.
+
+2 Drugs that are deemed to be essential and are for specific DOH program/project must be explicitly certified as essential by the DOH requesting unit. Drugs, which are certified as essential by DOH units shall be given priority for evaluation by the FSG. The certificate should be submitted by the DOH unit concerned together with PNDF Form No.4 and all the necessary proofs, including an Evidence Table.
+
+3 Drug Establishments from the Private Sector may request for the inclusion or deletion of drugs in the PNDF by accomplishing PNDF Form No. 5 (Request for inclusion/Deletion of Drug in the PNDF by Private Sector Drug Establishments), which is hereto appended as Annex E. The said requesting parties shall likewise satisfy all the selection conditions as described in the Specific Guidelines B. The PNDF Form No. 5 shall include appendices that show scientific proofs or evidences such as studies and scientific journal articles and entries and other accepted legal documents that would justify the inclusion or deletion of a drug in the PNDF. An Evidence Table shall likewise be appended to the submissions.
+
+4 Drug establishments from the Private sector who intends to accomplish PNDF Form No. 5 shall be likewise required to execute an agreement that the same shall submit a monthly inventory and price report on the drugs that they are requesting to be included in the PNDF. A database shall be set-up by the NDPP, in collaboration with the IMS, to ensure electronic submission of the said data requirement.
+
+5 Third parties like professionals, members of the academe, non-government organizations, professional societies, and the general public may request for the inclusion or deletion of drugs in the PNDF by accomplishing PNDF Form No. 6 (Request for inclusion/Deletion of Drug in the PNDF by Third Party Representatives), which is hereto attached as Annex F. The said requesting parties shall likewise satisfy all the selection conditions as described in the Specific Guidelines B. The PNDF Form No. 6 shall include appendices that show scientific proofs or evidences such as studies and scientific journal articles and entries and other accepted legal documents that would justify the inclusion or deletion of a drug in the PNDF. An Evidence Table shall likewise be appended to the submissions.
+
+6 The FSG upon receipt of the PNDF Forms as described in Vl. B and C, shall evaluate the request(s) and shall include the same as annexes to PNDF Form No. 2.
+
+D PNDF Formats and Publication
+
+1 The PNDF Manual shall have the following outline:
+
+a) Authorization Letter signed by the Secretary of Health
+b) The Philippine National Drug Policy Objectives
+c) Preface
+d) Part I-Clinical and Public Health Practice Guidelines
+e) Part II-Therapeutic Categories of the PNDF
+f) Part III-Essential Drug List in their International Non-Proprietary Names (INN)/Generic Names under different Therapeutic Categories classified under Core and Complementary List indicating the Route of Administration and Pharmaceutical Forms and Strengths (A legend may be included under this part)
+
+g) Part IV-Formulary (formerly called Monograph) of the drugs listed in PNDF Volume 1 per Therapeutic Category and as classified and sequenced as PNDF Volume I. The monographs for the Core List shall be printed in bold italics in capital letters and shall include warnings whenever applicable, brief pharmacodynamics and pharmacokinetic data, the accepted indications, contraindications, precautions, pregnancy risk factor, adverse reactions, clinically significant drug interactions, weight and/or age specific dosage recommendations, and preparations available in the Philippine market. Less detail may be given for complementary drugs which shall be printed in bold italics in small letters.
+
+h) Part V-Cross-Reference index
+i) Introduction on the Use of PNDF Volume 3
+ii) Symbols and Abbreviation
+iii) Section A-List of Single Component Pharmaceutical Products and Double Component Pharmaceutical Products currently registered in the BFAD whose active ingredients are included in the PNDF. Reflected data under each generic name classified per therapeutic category includes the brand name (if there‘s any) of the drug product, the pharmaceutical establishment under which such product is registered, the dosage form and strength, and classification whether OTC or Rx.
+iv) Section B-Index of Generic Names, Index of Trade Names, and index of Categories.
+
+i) Appendices (To be included in this part are the pertinent laws, rules, regulations, and statutes that affect the creation of the PNDF or which put in operation the use of PNDF and other relevant data such as statistics and other advises or facts that are informational in nature)
+
+j) Bibliography
+k) Indices
+i) For the EDL
+ii) For the Formulary
+l) Index
+
+2 The PNDF Manual shall be published in a size and with a paper type similar to the WHO Model Formulary.
+
+3 The PNDF Manual shall be reviewed every quarter and any updates available shall be posted in the DOH website. Such shall be considered as an integral part of the currently published PNDF. Publication of hardcopies of PNDF Manual shall be on an annual basis, subject to the availability of funds and the usual accounting and auditing rules and regulations. The funds required for the publication of the Manual shall be lodged in the Work and Financial Plan (WFP) and the Annual Procurement Plan (APP) of the PHIC.
+
+VII Mandatory Use of the PNDF
+
+A All drug establishments in the Philippine market must have a copy of the PNDF. The PNDF shall be the basis of the drug establishment's in-patient counseling and shall be used in giving consumer advice when information about essential drugs is demanded. Such shall form part of the essential documentary requirements that will be monitored by BFAD for purposes of issuing or renewing their License to Operate (LTO) in the Philippine market.
+
+B Only drug products that are reflected in the PNDF Manual can be requisitioned. Procurement by all Government Agencies, i.e. National Government Agencies and the Health Facilities their supervision, Government Health Facilities under the supervision and control of the DOH, Devolved Health Facilities under the Local Government Units, Government Owned and Controlled Corporation, shall be based on the PNDF Manual.
+
+C Every Requisition and issue Slip (RIS) and Procurement Request (PR), including purchases in times of emergency and authorized under the General Appropriations Act, shall be accompanied by a certification from the requisitioning officer or by the duly authorized officer that the drug products being requisitioned and procured fall within and conform with the PNDF Manual, latest edition
+
+D Drug products not reflected in the latest edition of the PNDF Manual may still be procured as long as these are approved by the Secretary of Health for inclusion in the upcoming edition of the PNDF Manual and if such drug products are already posted in the DOH website. Drug products approved for inclusion in an upcoming edition of the PNDF Manual must be covered with the appropriate Department Memorandum and other instruments of announcements.
+
+E Request for procurement of drug products not listed. in the PNDF Manual and their corresponding justifications by the requesting parties shall be forwarded to the NDPP. The NDPP shall make the necessary coordination with the FSG in order to ensure completed staff work, in arriving with the appropriate decision or recommendation.
+
+VIII COORDINATING INSTRUCTIONS AND TFIANSITORY PROVISIONS
+
+A The present members of the National Formulary Committee shall serve as the incoming members of the Formulary Executive Council until such time as determined by the Secretary of Health, upon the recommendation of the Undersecretary for Health Regulation.
+
+B The incoming members of the Formulary Executive Council shall assume the functions as stated in a subsequent Department Order as well as continue to oversee the completion of the PNDF Vol. II, 3rd edition (Essential Drugs Monographs).
+
+C The Formulary Selection Algorithm as described in this Order shall be observed but may be subject to review and revision as the Formulary Study Group may see fit.
+
+D The integration of the three volumes of the old PNDF into the new PNDF Manual shall take into effect after the publication of the PNDF Vol. II, 3rd edition.
+
+E The NDPP shall coordinate with the Commission on Audit so that auditors/heads of auditing units shall monitor compliance thereto and shall disallow claims/reimbursements either from regular budget, local/trust funds covering the procurements of drugs and medicines which are not within the PNDF Volume I, latest edition.
+
+F The BFAD shall conduct an Information, Education and Communication (IEC) campaign targeting all drug establishments, within one (1) year from the effectivity of this Order to ensure smooth compliance.
+
+G Any violation in the compliance of this Order may be subject lo the penalties provided in Section 12 of RA 6675.
+
+IX ANNEXES
+
+A Annex A - PNDF Form No. 1 (Drug Selection Form - FSG initiated)
+B Annex B - Chronological Summary of Drugs to be included or Deleted from the PNDF (PNDF Form No.2)
+C Annex C - Alphabetical Summary of the Drugs for Inclusion/ Deletion (PNDF Form No.3)
+D Annex D - PNDF Form No. 4 (Request for inclusion/Deletion of Drug in the PNDF by DOH and_LGU Health Units)
+E Annex E - PNDF Form No. 5 (Request for Inclusion/Deletion of Drug in the PNDF by Private Sector Drug Establishments)
+F Annex F - PNDF Form No. 6 (Request for inclusion/Deletion of Drug in the PNDF by Third Party Representatives)
+G Annex G - Drug Selection Algorithm
+
+X SEPARABILITY CLAUSE
+
+If any provision in these Guidelines, or application of such provision to any circumstance, is held invalid, the remainder of these Guidelines shall not be affected thereby.
+
+XI REPEALING CLAUSE
+
+The provisions of previous issuances, which are inconsistent with those provided in this Order, are hereby rescinded and modified accordingly.
+
+XII EFFECTIVITY
+
+This Order shall be effective within fifteen (15) days from publication in the Official Gazette.
+</body>
+
+<sign>FRANCISCO T. DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<image>table_1.png</image>
+
+<image>table_2.png</image>
+
+<image>table_3.png</image>
+
+<image>table_4.png</image>
+
+<image>table_5.png</image>
+
+<image>table_6.png</image>
+
+<image>table_7.png</image>
+
+<image>table_8.png</image>
+
+<image>table_9.png</image>
+
+<image>table_10.png</image>
+
+<image>figure_1.png</image>
+
+<image>figure_2.png</image>
+
+<image>figure_3.png</image>
+
+<body>
+ANNOTATIONS
+
+A Some drugs of proven efficacy and safety are not available in the market for lack of profitability or perceived demand but are considered essential, hence included in the PNDF marketed with asterisk.
+
+B Systematic literature reviews in which studies are systematically searched, assembled, appraised and summarized using explicit and reproducible approaches that minimizes biases and random errors (after Sacks, Chalmers, Smith. Randomized versus historical controls for clinical trials. Am J Med 1982; 72:233-40.). The steps that the National Formulary Committee take in conducting systematic literature reviews on specific drugs are the following:
+
+1. We pose the question: Is drug X a safe and efficacious drug for condition Y?
+
+2. We conduct a comprehensive search for randomized controlled trials in HERDIN, MEDLINE, EMBASE, the Cochrane Controlled Trials Register in the Cochrane Library. We combine the generic name of the drug and the MESH terms of the indications for its use with the optimum set of keywords and commands for locating RCTs as given in the Cochrane Handbook for Preparing Systematic Reviews. We search for systematic reviews. in the Cochrane Database of Systematic Reviews using the genetic name of the drug as keyword.
+
+3. We evaluate the abstracts of the studies to verify whether they are really RCTs or not and their relevance to our question.
+
+4. We extract data on safety and efficacy from the study abstracts or, if needed, from the full texts. 
+
+5. We summarize the results of each study in an evidence table and examine similarities and differences of finding across studies. if appropriate, meta-analyses are performed to quantitatively combine the results of several studies.
+
+C Benefits are expressed in risk differences and/or numbers needed to treat (NNT). We define risk as the proportion of people who develop a bad event among all of those who are at risk for developing it. The efficacy of drug X is reflected by the size of the difference in the risk of developing a bad event with and without drug X (the absolute risk difference or ARR). Alternatively, the number of people who need to be treated with drug X to prevent one bad event (the NNT) may be obtained by the formula NNT = 1/ARR such that the smaller the, NNT the more efficacious the drug. Safety is inversely proportional to the risk for adverse effects and is similarly expressed in risk differences and/or numbers needed to harm (NNH). Thus, as the risk difference rises or the NNH decreases the drug is deemed less and less safe.
+
+D1 Recently completed RCTs or systematic reviews that show new drugs to be more efficacious or safe (see C for definitions of efficacy and safety) than other drugs in the same class may be grounds for their inclusion in lieu of or as a complement to formulary drugs. However, the NFC may choose to perform a cost-effectiveness analysis when newer, more efficacious drugs are more expensive than formulary drugs.
+
+D2 The bases for deletion include the following: (1) recently completed RCTs or systematic reviews that show formulary drugs to be less efficacious or safe (see C for definitions of efficacy and safety) than other drugs in the same class; (2) cost-effectiveness analysis favors newer drugs of the same therapeutic class as the formulary drugs.
+</body>

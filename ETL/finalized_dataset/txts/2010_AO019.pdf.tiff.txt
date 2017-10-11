@@ -1,0 +1,536 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+
+<date>June 23, 2010</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2010 - 0019 </docnum>
+<subject>SUBJECT: Establishment of a National Program for Sharing of Organs from Deceased Donors</subject>
+
+
+<body>
+I. RATIONALE 
+
+Transplantation has allowed the improvement and prolongation of lives of patients in need of organ replacement. The traditional source of organ grafts has been deceased donors, i.e. individuals who suffer severe irreversible brain injury with the rest of the body remaining practically intact and “healthy”. However, the perennial lack of deceased organ donors has continually hampered the widespread application of transplantation. The imbalance of supply and demand has created the need to resort to other sources of grafts, such as living donors. Organ donation from living donors, albeit a noble act of charity, has been beset'by numerous ethical issues and has unfortunately lent itself to abuse and has been tainted with commercialism in many areas of the world, including the Philippines. While the Department of Health (DOH) ﬁnally addressed the situation and established mechanisms to curtail organ sale and protect the living kidney donor through AO No. 2002-0124 and A0 No. 2008-0004- A, deceased donor organ transplantation had not been given enough attention. While the 'National Kidney and Transplant Institute (NKTI)—based Human Organ Preservation Effort (HOPE) has been functioning since 1983, the deceased donation rate in the Philippines has remained at way below 1 per million population per year. 
+
+The 2008 Declaration of Istanbul on Organ Trafﬁcking and Transplant Tourism strongly encouraged governments, in collaboration with health care institutions, professional and non- governmental organizations to take appropriate action to increase deceased organ donation, remove obstacles and disincentives to deceased organ donation, enact legislation and create transplantation infrastructure so as to fulﬁll each country’s deceased donor potential (Istanbul Declaration 2008). Tackling the issue of human organ and tissue transplantation in the 63rd World Health Assembly, it was reported that “experience in countries with the most successful deceased donor programs has shewn the advantage of having strong national organizations that can stimulate, coordinate and regulate donation and transplantation. Such organizations can inform the public about the importance of sustaining a community resource that is built on voluntary, unpaid donation of organs, tissues and cells rather than on the exploitation inherent in organ purchases and that provides equitable access to all.” (63"d World Health Assembly provisional agenda item 11.21). 
+
+In response to this, the DOH is spearheading the development of a national system of promoting organ donation from deceased donors and sharing of grafts through the Philippine Network for Organ Sharing (PHILNOS). The potential of deceased donor organs is yet to be maximized in our country where the estimated number of deaths due to accidents is about 8000 per year (ADB—ASEAN Regional Road Safety Program, Accident Costing Report AC7: Philippines). This Network will implement a system of timely referral and processing of potential multiple organ donors, equitable allocation and efﬁCient procurement and transplantation of organs from them. Furthermore the DOH has developed an online database, the Philippine Organ Donor and Recipient Registry System (PODRRS) that will support the implementation of the PHILNOS guidelines. 
+
+II. OBJECTIVES 
+
+This Order sets policies and guidelines for the efﬁcient and equitable sharing of organs from deceased donors. 
+
+Speciﬁc Objectives: 
+
+1. To establish the Philippine Network for Organ Sharing (PHILNOS). 
+
+2. To initiate and maintain the Philippine Organ Donor and Recipient Registry System (PODRRS). 
+
+3. To promote organ donation from the deceased. 
+
+III. COVERAGE 
+
+1. Brain Death (BB) is the irreversible cessation of all functions of the entire brain, including the brain .stem. 
+
+2. Death (as per RA 7170 deﬁnition) is the irreversible cessation of circulatOry and respiratory ﬁmctions or the irreversible cessation of all functiOns of the entire brain, including the brain stem, which is determined in accordance with the acceptable medical practice and diagnosed separately by the attending physician and another consulting physician, both of whom must be appropriately qualiﬁed and suitably experienced in the care of such patients. - 
+
+3. Decedent is a deceased individual, and includes a still-born infant or fetus. 
+
+4. Donor Allocation Scoring System (DASS) is the national scoring system by which allocation of kidney grafts from deceased donors shall be based. 
+
+5. Graft is an organ that has been removed from the body of an organ donor for transplantation into a recipient. 
+
+6. Hospital Transplant Candidate Waiting List is the database of all potential organ recipients of a particular Transplant Center. This shall be administered by the Clinical Transplant Coordinatorof the hospital’s Transplant Program. 
+
+7. National Transplant Candidate Waiting List is the Philippine database Of all potential organ recipients. The candidates who will be registered in this list shall come from the waiting lists of the different accredited Transplant centers of the Philippines. 
+
+8. Organ Procurement Organization (OPO) is a DOH accredited non-proﬁt organization, independent .or hospital-based, composed primarily of transplant coordinators and transplant specialists (internists and surgeons), who can identify, evaluate and maintain potential organ donors and retrieve organs from them.
+
+9. Host OPO is the particular OPO responding to an organ donor call from a referring hospital. 
+
+10. Organ Transplant Candidate (OTC) is a patient with end-stage-organ-disease (ESOD) who is qualiﬁed to receive an organ graft. 
+
+a. Kidney Transplant Candidate (KTC) is a patient with end-stage-renal- disease (ESRD) who is qualiﬁed to receive a kidney graft. 
+
+b. Liver Transplant Candidate (LTC) is a patient with end- stage-liver—disease (ESLD), acute liver failure, or speciﬁc metabolic disorder who 1s qualiﬁed to receive a liver graft. 
+
+11. Philippine Organ Donor and Recipient Registry System (PODRRS) is the system that shall contain the national computerized database of all organ transplant candidates, transplant recipients, and organ donors. 
+
+12. Potential Multiple Organ Donor (PMOD) is any patient who will imminently become brain dead, or who currently meets the criteria for brain death. 
+
+13. Referring Hospital (RH) shall be any hospital that identiﬁes and refers potential deceased organ donors to PHILNOS. 
+
+14. Transplant Center (T XC) shall be hospitals with transplant facilities duly accredited by the Department of Health (DOH). . . 
+
+15. Transplant Coordinator (TC) is- the designated trained health care professional who takes the central role and acts as liaison among the donor hospital, retrieval and transplant team members processing a potential organ donor. 
+
+a. Procurement Transplant Coordinator (PT C) is the TC who shall have the responsibility of coordinating the donor’s evaluation, management, and recovery of organs and/or tissues for transplantation. 
+
+b. Clinical Transplant Coordinator (CTC) is the TC who shall have the responsibility of coordinating the transplant candidate’evaluation, management, and follow-up care. 
+
+16. Transplant Recipient (TR) is a patient who has received an organ graft. 
+ 
+
+V. GENERAL GUIDELINES 
+
+1. The Philippine Network for Organ Sharing (PHILNOS) shall be the organization that will facilitate and oversee organ donation. and organ transplantation involving deceased donors in the country. It shall serve as the central coordinating body of all deceased organﬁissue donation and transplantation activities. It shall replace the National Human Organ Preservation Effort (NI-IOPE) which was established by virtue of A0 No. 2008- 0004. 
+
+2. The speciﬁc objectives of the PHILNOS are the following: 
+
+a. To manage the national deceased donor program, ensuring effectiveness, efﬁciency, equity and transparency in the national system of alloCation of deceased _ organs.
+
+b. To initiate and implement programs that will increase awareness and acceptance of deceased organ donation and transplantation and increase the number of deceased- donors who will donate organs for transplantation. 
+
+c. To formulate, recommend and implement policies that will promote - the ethical practice of deceased organ donation and transplantation. 
+
+d. To maintain a national waiting list of transplant candidates and a national registry cf transplant recipients. 
+
+e. To make policy recommendations to the DOH for legislation and other related matters pertaining to the deceased donor program. 
+
+f. To perform such other ﬁmctions as may be ordered by the Secretary of Health m relation to its primary function. 
+
+3. The function of the PHILNOS shall be carried out through special organ procurement service units called Organ Procurement Organizations (0P0) that need to be DOH accredited. 
+
+4. Each region shall have its own designated OPO. The National Capital Region (NCR), where transplant activity in the country is concentrated, shall be further divided into several areas of responsibility and each area of responsibility shall be serviced by a designated OPO. All OPOs shall be mandated to serve their designated areas of responsibility and other regions to be assigned by the program manager on an annual basis. 
+
+a. Upon Issuance of this AO, all existing memoranda of agreement between an OPO and a referring hospital or transplant center shall be terminated. 
+
+b. All existing OPOs shall be given privileged accreditation for a period of one year, provided that they fulﬁll the minimum requirements of such organizations (see Appendix B). 
+
+c. After the initial year of accreditation, the existing OPOs shall be subjected to a review of performance and renewal of accreditation which shall be every 3 years. 
+
+d. Accreditation of new OPOs shall also initially be for a period of 1 year. Thereafter, they may apply for reaCcreditation every 3 years. 
+
+5. All tertiary hospitals and trauma centers are required to have a PTC, working full-time or part-time, in order to optimize the identiﬁcation and referral of potential deceased organ donors thro'ughout the country. All Tsz are mandated to have a PTC. a. All PTCs shall be trained and duly certiﬁed by PHILNOS'to perform their duties and responsibilities. b. In the absence of a hospital PTC in the referring hospital, the PTC of the designated OPO shall be called. 
+
+6. All patients deemed to be brain dead or in a state of imminent brain death must be referred to the PTC for evaluation as a PMOD in all hospitals. 
+
+7. All transplant candidates shall be enlisted according to established criteria per organ. They shall be registered in PODRRS through their respective Tsz. 
+
+8. All donor referrals shall be registered in PODRRS. Required donor data shall be provided by the Host OPO. 
+
+9. Protocols for donor eValuation, management and proCurement including organ acquisition fees shall be standardized by PHILNOS. 
+
+a. The organ acquisition fee shall include the following: 
+
+i. Brain death assessment and certiﬁcation'costs 
+ii. Donor evaluation costs 
+iii. Donor management costs
+iv. Organ recovery and delivery costs 
+v. Professional fees of specialists involved 
+vi. OPO administrative costs 
+
+b. Funeral assistance to the family of the deceased shall be optional. 
+
+10. Policies and guidelines for non- renal solid organ donation and transplantation shall be developed. 
+
+VI. ORGANIZATIONAL STRUCTURE (See Appendix A) 
+
+1. The PHILNOS shall have a head in the person of the Program Manager who shall be appointed by the DOH secretary. 
+
+2. The PHILNOS shall be govemed by an Executive Committee composed of: 
+
+a. One (1) Program Manager 
+
+b. One (1) Assistant Program Manager 
+
+c. Committee Heads 
+
+d. Three (3) Medical Advisers (Consultants) 
+
+All members of the Executive Committee shall be appointed by the DOH secretary. 
+
+3. The Executive Committee will oversee the day to day operations of PHILNOS; Will- handle membership concerns, will formulate and recommend policies to the Philippine Board for Organ Donation and Transplantation G’BODT). 
+
+4. It shall have an administrative staff that comprise of the following personnel who will operate the PHILNOS ofﬁce. 
+
+a. One (1) Administrative Ofﬁcer 
+
+b. Four (4) Nurses - PHILNOS Transplant COordinators 
+
+c. Three (3) IT specialists 
+
+d. One (1) Utility Man 
+
+5. It shall be compOsed of the following working committees with speciﬁc functions: 
+
+a. Accreditation and Training Committee will handle quality assurance and standardization, will handle accreditation of OPOs; will provide training and certiﬁcation of TCs.
+b. Ethics & Legal Affairs Committee will handle ethical and legal concerns. 
+c. Finance Committee will handle costs and other ﬁnancial matters. 
+d. Information and Advocacy Committee will handle lay education, information dissemination, and media concerns. 
+e. OPO Committee will handle OPO concerns in relation to operations and implementation of PHILNOS guidelines. 
+f. Registry Committee G’ODRRS) will handle registry and research 
+
+6. The heads and members of each committee shall be appointed by the DOH secretary, upon the recommendations of the PHILNOS Program Manager. 
+
+7. The External Audit Committee will be composed of members with no conﬂict of interest, to be appointed by-the DOH secretary as recommended by PBODT. This committee shall conduct a periodic review and audit of the allocation procedures of PHILNOS. It shall submit its reports to the PHILNOS Executive Committee, the Philippine Organ Donation and Transplantation Program (PODTP), the PBODT and the DOH secretary. 
+
+8. Organizations, or centers with interest in organ donation and transplantation may become members of the PHILNOS. 
+
+a. Organ Procurement Organizations (OPO) — DOH accredited 
+
+b. Transplant Centers (TxC) - DOH accredited 
+
+c. Medical Scientiﬁc Organizations —— PMA accredited 
+
+d. Patient Organizations/ Support Groups — SEC registered
+
+e. Histocompatibility Laboratories— DOH accredited 
+
+f. Other groups that have relevance to the program 
+
+Representatives from the above groups will be tapped as members of the PHILNOS working committees except the External Audit Committee. 
+
+OPERATIONAL GUIDELINES 
+
+1. ENLISTMENT OF KIDNEY TRANSPLANT CANDIDATES (KTC) 
+
+a. Enlistment of a KTC for a deceased donor graft will be done in the TxC of choice of the patient. 
+
+1. The KTC must at least be near-ESRD (calculated creatinine clearance &lt 20ml/min for diabetic nephropathy/pre—emptive transplants) or with ESRD (calculated creatinine clearance &lt 15ml/min for non-diabetic chronic kidney disease) at time of enlistment. 
+
+2. Enlistment of the KTC must be done in person at the TxC of choice. 
+
+b. Only Filipino KTC will be allowed to enlist in a HoSpital Transplant Candidate Waiting List of any accredited TxC in the Philippines. 
+
+c. All requirements must be submitted and the registration fee must be paid. 
+
+d. After enlistment in the Hospital Transplant Candidate Waiting List, the names and required documents of patients will be forwarded by the TxC to PHILNOS for enlistment in the National Transplant Candidate Waiting List. 
+
+e. KTCs shall initially be listed as INACTIVE until approved by PHILNOS. After review and approval of the case, the status shall be changed to ACTIVE. 
+
+f. Once ACTIVE on the waiting list, fresh serum sample from the KTC shall be stored every month and whenever sensitizing events have occurred (i.e. blood transfusion, pregnancy, failed allograft) at the PHILNOS reference laboratories for use during cross- matching. 
+
+g. All KTC will be allowed to enlist in only (1) one Hospital Transplant Candidate Waiting List which should be in their TxC of choice. In the event that the KTC decides to transfer enlistment to another TxC, the TC shall immediately report the change to PHILNOS. 
+
+h. If the KTC resides In an area that rs inaccessible, i.e. no telephone or internet Coverage, or living in an island, etc., it shall be required that the KTC provides a contact person with whom the CTC shall be able to communicate with anytime on a 24/7 time frame. This contact person must haVe the capability to communicate or get in touch with the said KTC at all times. 
+
+2. WAITING LIST STATUS GUIDELINES 
+
+a. Only ACTIVE patients in the National Transplant Candidate Waiting List are eligible to receive offers of deceased organs. 
+
+b. If at the time a graft is offered, the KTC is found medically unsuitable or” ﬁnancially incapable, he will be temporarily considered INACTIVE. 
+1. KTC status can be reactivated once the medical or ﬁnancial problem is resolved. 
+2. The original date of enrollment shall be retained. 
+
+c. Enlisted KTCS who will be out of the country for a certain period should inform their CTC who in turn will transmit the information to PHILNOS so that the patient status may be changed to INACTIVE during the period of physical absence from the country. 
+
+1. As soon as the patient returns to the Philippines the patient must inform their CTC so that his/her status may be updated accordingly in the National Transplant Candidate Waiting List. 
+
+2. If the KTC who has gone abroad but failed to inform his CTC is offered a deceased donor graft, he will automatically be delisted. 
+
+3. The delisted patient will have to register again with the Hospital Transplant Candidate Waiting List. Consequently, their date of enrollment 1n the National Transplant Candidate waiting List will be reset. 
+
+3. IDENTIFICATION‘ AND REFERRAL 0F POTENTIAL MULTIPLE ORGAN DONORS (PMOD) 
+
+The schematic diagram for processing a PMOD from identiﬁcation to transplantation is shown in Appendix C. 
+
+a. Any patient found 1n the Emergency Room (ER), or in the Pediatric or Adult Intensive Care Unit (ICU) of a RH or TxC who 1s deemed to be brain dead, or in a state of 1mminent brain death shall be referred as a PMOD to the PTC of the RH. 
+
+b. If the RH does not have an in—house PTC, its designated OPO shall be ‘ contacted to send their PTC to assess and evaluate the PMOD. 
+
+c. The PTC shall assess the eligibility of the PMOD. The PTC shall then perform a complete clinical evaluation which includes: 
+
+1. Consultation with the primary Attending Physician (AP) and nurse- in-charge. 
+
+2. Review of the patient’s medical records. 
+
+3. Review of all laboratory and diagnostic examination results. 
+
+4. Performance of physical examination of the patient. 
+
+5. Exclusion of contraindications to organ donation. 
+
+d. The PTC shall record the ﬁndings in‘a checklist a copy of which shall be incorporated in the patient’s chart and whether the PMOD is eligible or not. 
+
+e. Special Situations 
+
+1. In the event a determination of brain death is being considered in a patient who is knoWn to be pregnant, obstetrical consultation shall be- arranged to ensure that no harm is inﬂicted on the fetus, and that the fetal well-being takes precedence over the option of organ donation. 
+
+2. Although the determination of brain death itself is not an ethical dilemma, ethical issues commOmy coexist in this Setting. Consultation with the Hospital Ethics Committee or the PHILNOS Ethics Committee may be appropriate. 
+
+3. Medico-legal cases shall be referred to the Medico- -Legal ofﬁcer of the RH and/or the National Bureau of Investigation/local police. 
+
+4. REQUEST FOR ORGAN DONATION 
+
+a. When a patient is determined to be a PMOD, the AP and/or Intensivist shall explain the current medical status and prognosis Of the patient. 
+
+b. The PTC shall then offer to the legal next-of-kin or family of the patient the opportunity of the gift of life, or the option of organ donation. 
+
+1. When the family has expressed understanding and agreement to proceed with the option of organ donation, the PTC shall facilitate the process Of BD certiﬁcation. 
+
+2. When the family opts out, this decision shall be recorded in the patient’s chart. Further efforts for organ donation shall be aborted. 
+
+c. The PTC Shall alert the Host OPO of the identiﬁcation of a PMOD, if not yet done at this point. 
+
+5. CERTIFICATION OF BRAIN DEATH 
+
+a. The AP shall refer the PMOD to another physician with skills and experience in neurological assessment, for the diagnosis of braindeath. Alternatively, the AP may call on two (2) other qualiﬁed physicians to assess brain death. 
+
+1. They shall determine and establish brain death based on existing guidelines (Ref- Philippine Neurological Association (PNA); Canada Practice Guidelines for the Diagnosis of Brain Death). ' 
+
+2. A second evaluation by the same two (2) physicians must be . performed after an interval of at least two (2) hours (Ref: Canada Practice Guidelines for the Diagnosis of Brain Death). 
+
+3. If the ﬁndings remain unchanged and brain death is conﬁrmed, a Declaration of Brain Death Form shall be signed by these two physician-s. 
+
+4. A Death Certiﬁcate shall be signed by the AP. The date and time of death is recorded on the Death Certiﬁcate and in the patient’s chart. The time of death is when the patient is initially declared brain dead. 
+
+5. The PTC and the AP Shall then inform the family that brain death has been conﬁrmed. 
+
+No member of the transplant team or host OPO shall participate in the determination-of brain death of the PMOD. 
+
+6. SECURING THE CONSENT FOR ORGAN DONATION FROM THE DECEDENT’S NEXT-OF—KIN 
+
+a. Securing the family consent shall be the sole responsibility of the PTC. After the BD Certiﬁcate has been issued, the PTC shall obtain the consent for organ donation. 
+
+b. Consent for organdonation must be obtained from the legal next-of-kin of the PMOD in the folloWing order of priority (RA 7170): 
+
+1. Legal spouse 
+
+2. Son or daughter of legal age 
+
+3. Either parent 
+
+4. BrOther or sister of legal age
+
+5. Guardian over the deceased person at the time of death 
+
+c. The Consent for Organ Donation form shall be signed by the legal next-of— kin. 
+
+d. Consent of the legal next-of—kin still has to be obtained regardless of a living - legacy, i.e. organ donation card or will, on the part of the decedent. 
+
+e. After the consent for organ donation has been obtained, the PTC shall inform PHILNOS of the availability of the PMOD. The PTC shall provide all available clinical data of the PMOD. 
+
+7. DONOR MANAGEMENT 
+
+a. The donor management in the Intensive Care Unit (ICU) or Emergency Room shall commence after consent for organ donation is obtained. 
+
+b. A donor management physician of the RHfoC, or of the designated OPO in the absence of the former, shall attend to the PMOD until the time of organ procurement- 
+
+c. The donor management physician shall be responsible for the hemodynamic stability and maintenance of the PMOD. 
+
+8. COMPLETION OF DECEASED DONOR EVALUATION AND ALLOCATION 
+
+a. After consent for organ donation is obtained, the PTC shall facilitate the completion of medical evaluation or work-up of the PMOD. 
+
+b. Initial laboratory tests shall be requested. 
+
+c. The PTC shall analyze the test results and determine whether the PMOD remains qualiﬁed as a multiple organ donor. 
+
+1. If not qualiﬁed, further efforts for organ donation shall be aborted. - 2. If qualiﬁed, PHILNOS shall be alerted. 
+
+a. Completion laboratory tests and eXaminations, including HLA typing, shall then be performed. 
+
+b. Once the HLA typing is obtained, the PTC shall inform PHILNOS and the donor allocation process is started using 
+
+d. The donor allocation process is governed by the following: 
+
+1. Geographical location. The National Transplant Candidate Waiting List is divided into: Areas of Responsibility (in the NCR), Regional and National 
+
+2. ABO compatibility 
+
+a. Blood Type “O” donors will be preferentially allocated to Blood Type “O” recipients, before being allocated to other blood types. 
+
+b. Donors of blood types other than “0” will be allocated to identical or compatible recipients equally. 
+
+3. DASS for kidney transplantation (see Section No. 9) 
+
+e. The PHILNOS TC shall then run the match on PODRRS and draw a shortlist of the top 10 KTCS as potential organ recipients Within the areas of responsibility/region of the host OPO and the top 10 KTCS in the national list. ‘ 
+
+1. A full house match or zero antigen mismatch takes priority regardless of geographic location of the potential organ recipient. 
+
+2. When there IS no zero mismatched KTC, the DASS shall be used to determine kidney graft allocation. 
+
+a. If the PMOD is from a region other than the National Capital  Region (NCR), one (1) kidney graft shall be allocated to the KTC within the region and the other kidney graft to the national list. 
+
+b. If the PMOD is from the NCR, one of the kidney grafts shall be allocated to the KTC within the areas of responsibility of origin and the other kidney graft to a KTC on the national list. 
+
+c. If there is a negative tissue cross-match with the top ranked KTC I but the organ is refused for any reason, then the organ will be offered to the succeeding KTCS in the list until it is placed. 
+
+d. If alter the 10th KTC there is still no suitable candidate, PHILNOS shall again draw the next 10 potential recipients from the National Transplant Candidate Waiting List. 
+
+e. In the event that transport of the second kidney graft to a matched KTC in the national list would be inconvenient and threaten graft quality because of prolonged ischemia time, the second graft may then be allocated. to another recipient within the region of donor - orr gm. 
+
+f. PHILNOS shall also inform or alert the other tissue procurement agencies or tissue banks of the availability of a PMOD such as the following: 
+
+1. Sta. Lucia International Eye Bank of Manila (SLIEB) 
+
+2. Bone Banks 
+
+3. Skin Banks 
+
+4. Vessel Banks 
+
+
+9. DONOR ALLOCATION TRANSPLANTATION 
+<image>table_1.png</image>
+
+
+ 
+a. The Donor Allocation Scoring System for kidney grafts includes 5 criteria: 
+1. Number of HLA Mismatches 
+2. Panel Reactive Antibodies ' 
+3. Date of Enrollment at PHILNOS 
+4. Recipient Age 
+5. Previous Kidney Donor . 
+
+b. Categories assigned the highest points correspond to those that are associated, with the greatest graft survival advantage. ' 
+
+c. Donors who have zero HLA mismatches 'with a potential recipient will preferentially be allocated to that recipient, without the need of using the DASS. _ 
+
+d. In the absence of a waitlisted KTC with a zero mismatch to the PMOD, the DASS will be used. A Shortlist of potential KTC ranked from highest to lowest points will be produced. ' p 
+
+e. All KTC with a greater than zero HLA mismatch will be allocated according to the points system below, with KTCS with the highest points receiving priority. 
+
+1. Cross-match negative, highly senSitized patients (deﬁned as PRA>50% on either Class I or Class II PRA) will be assigned a point advantage in the allocation scoring system due to the extreme difﬁculty of these patients in gettingra suitable donor. Historical or current PRA (whichever is highest) will be used. 
+
+2. The enrollment date and time is when the KTC considered ACTIVE in the National Transplant Candidate Waiting List. Patients who have been enrolled as ACTIVE in the National Transplant Candidate Waiting List for the longest period will be given a point advantage. 
+
+3. Patients less than. 18 years of age will be given a point advantage as tranSplantation affords them the best possible patient survival, followed by patients aged 18-65, and lastly patients >65 years. 
+
+4. Previous kidney donors who have developed ESRD will'have a point advantage in the scoring system so that they may receive a kidney transplant immediately. This is done to accOrd the donor the same gift as he himself gave, at the soonest possible time. 
+
+5. ‘OLD DONORS FOR OLD RECIPIENTS’ - The cut-off for deceased donors for kidney grafts is 55 years old. However, exceptions may be made for expanded criteria donors >55 years old. These donors will be preferentially allocated to recipients aged 56 to 65 years old who may not have a long life expectancy but desire a transplant. 
+
+f. The maximum numberof points that can be given is twenty-nine (29). 
+
+g. The KTC with the highest number of points using the DASS will be offered the kidney graft ﬁrst. If that KTC refuses, then the next one in line will be offered the kidney graft until it is accepted. 
+
+h. Among equally ranked patients, the following will apply:
+1. The tie will ﬁrst be broken by waiting time, priority will be given to the oldest date of enrollment 1n months and days. 
+2. If still equally ranked, the tie will then be broken by age; priority will be given to the youngest recipient age in days. 
+
+i. The PHILNOS -may recommend review and revision of the DASS to the PBODT when it is deemed appropriate. 
+
+10. ORGAN ACCEPTANCE The following policies apply to donor and organ acceptance criteria: 
+
+a. Donor Acceptance Criteria. All OPOs shall have one unifOrm set of criteria deﬁning what constitutes an acceptable deceased donor or organ for the OPO or the transplant program(s) it serves. 
+
+b. Renal Acceptance Criteria. All renal transplant programs must submit their minimum renal acceptance criteria annually to PHILNOS. The PHILNOS will not subsequently offer that TxC renal organs that fail to meet such criteria. The renal acceptanCe criteria will not apply to zero antigen mismatched kidney offers. 
+
+c. Non-renal Organ Acceptance Criteria. A TxC may inform PHILNOS of the criteria according to which that TxC will accept non-renal organs allocated through PHILNOS. The PHILNOS will not subsequently Offer that TxC non-renal organs that fail to meet such criteria.  
+
+d. Time Limit for Acceptance. A CTC, or its designee, must access donor information in PODRRS within one hour of receiving the initial organ offer notiﬁcation. The PHILNOS TC shall communicate via phone call and teXt messaging with the CTC of the TxC of the KTC. 
+
+1. If PODRRS IS not accessed within one hour by the TxC or its designee, the offer will be considered reﬁrsed. 
+
+2. After review of the available donor data, the TxC shall be allowed one hour ﬁom the time of accessing the donor information, in which to communicate its acceptance or refusal of the organ. After one hour elapses without a response, the offer will be considered refused and the PHILNOS may then offer the organ to the next KTC in priority on the match list. 
+
+e. All communication and exchange of information between the PHILNOS TC and the CTC of the TxC with the matched KTC shall be properly documented. 
+
+f. The ﬁnal decision to accept a particular organ will remain the prerogative of the transplant nephrologist or transplant surgeon responsible for the care of the KTC. If an organ is declined for a KTC, a notation of the reason for that decision must be made on the appropriate form and submitted promptly. 
+
+g. Once acceptance is conﬁrmed by the receiving TxC, the ﬁnal placement will depend on tissue crossmatching results. 
+
+11. ORGAN PROCUREMENT 
+
+a. Avoidance of Conﬂicts of Interest. Neither the AP of the decedent at the timeof death nor the physician who determines and certiﬁes the decedent’s death may _ participate in the operative proCedure for removing or transplanting an organ from _ the decedent. 
+
+b. If the PMOD rs stable then the organ procurement may be delayed until tisSue crossmatching results of the potential recipients are known. 
+
+c. Otherwise, the organ retrieval team is informed and the organ procurement is scheduled. 
+
+1. The surgical team of the Host OPO performs the organ procurement either in the RH if possible,- or in another hospital to which the PMOD 1s transported, if deemed neceSsary. 
+
+2. If the RH 1s also a TxC and an organ retrieval team is available, then they may perform the organ retrieval. 
+
+d. If a non-renal organ is to be recovered, the operation is performed by the non— renal organ retrieval team. 
+
+e. If the organs are not yet placed after the procurement operation, the grafts shall-remain in the custody of the Host OPO until placed. 
+
+f. The OPO will then coordinate transport of the graft to the receiving TxC once ' placed. . 
+
+12. ORGAN TRANSPLANTATION The task of organ transplantation shall be carried out at the TXC of choice of the KTC. The organ transplantation shall also be performed by the transplant team of choice of the KTC. 
+
+13. FINANCIAL CONSIDERATIONS 
+
+a. All hospital expenses of the PMOD no; related to organ acquisition, i.e. prior to obtaining the consent for organ donation, shall be for the account of the PMOD or his/her next-of-kin. 
+
+b. All charges related to organ acquisition, i. e. from time of BD certiﬁcation until transport of the organs to the TxC, shall be for the account of the Host OPO. Regardless of graft placement, the Host OPO shall be responsible in the immediate settlement of all bills pertaining to organ acquisition in the referring hospital. 
+
+c. If the organs are placed, the Host OPO shall then be reimbursed by the recipient(s) through appropriate sources of funds, e. g. personal account, PhilHealth, private insurance, PCSO, and others. 
+
+d. In the event that the organs procured are not placed, the Host OPO understands and accepts the fact that it shall not be reimbursed for the- expenses it has incurred from the process of organ acquisition. 
+
+14. POSTMORTEM CARE 
+
+a. Postmortem care shall be provided for the decedent by the hospital where the procurement was performed. The Host OPO and PTC will assist in providing this service. 
+
+b. If necessary, assistance for funeral arrangements shall be provided by the Host OPO. 
+
+15. PERFORMANCE REPORTS 
+
+a. The PHILNOS Program Manager shall prepare and submit monthly performance reports to the PODTP, the PBODT and the Secretary of Health. 
+
+b. Each OPO will submit to PHILNOS every lst week of the month the list of PMOD that were referred to them 1n the previous month. 
+
+c. Each TxC will submit to PHILNOS every lst week of the month the list of new patients who were transplanted with deceased donor grafts 1n the previous month. 
+
+d. Each PTC will submit to PHILNOS on a quarterly basis (i. e. 1S week of April, July, October, January) the list of PMOD (i. e. regardless of outcome) who were referred to them in the previous 3 months. 
+
+VIII. REPEALING CLAUSE 
+
+All existing issuances found inconsistent with the provisions of this Administrative Order are hereby amended and/ or repealed accordingly. 
+
+IX. EFFECTIVITY CLAUSE 
+
+This Order “shall take effect ﬁfteen (15) days after publication in a newspaper of general circulation. 
+</body>
+ 
+<sign>ESPERANZA I. CABRAL, MD</sign>
+<signtitle>Secretary of Health</signtitle> 
+
+APPENDIX A 
+<image>figure_1.png</image>
+ 
+APPENDIX B
+
+MINIMUM REQUIREMENTS FOR ORGAN PROCUREMENT ORGANIZATIONS 
+
+1). An Organ PrOcurement Organization is a non-proﬁt organization, independent or hospital based, consisting of: 
+
+a. Procurement Transplant Coordinator(s) 
+b. Internists 
+c. Transplant Surgeons 
+d. Allied Health Professionals 
+
+2). BaSic Functions: 
+
+a. It can identify and evaluate potential organ deceased donors 
+
+b. It can stabilize and maintain potential organ donors. 
+
+c. It can conduct and participate in systematic efforts, including professional education, to procure all viable organs from potential donors. 
+
+d. It can arrange for the acquisition and preservation of donated organs and provide quality standards for the acquisition of organs which are. consistent with the standards adopted by the PHILNOS, including arranging for testing with respect to preventing the acquisition of organs that are infected with the etiologic agent for acquired immune deﬁciency syndrome.
+
+e. It can arrange for the appropriate tissue typing of donated organs. 
+
+f. It can provide or arrange for the transportation of blood specimen to NCR for crossmatching. 
+
+g. It can provide er arrange for the transport of donated organs to receiving transplant centers. 
+
+3). Operational Requirements: 
+
+a. It has an ofﬁce where its operations are centralized and services are coordinated.
+
+b. It should have a legal charging capability, accounting and other ﬁscal procedures.  
+
+c. It or its source of ﬁnancial support; e. g. hospital base, foundation; must be registered with the Securities and Exchange Commission. 
+
+d. It should have ﬁnancial stability. 
+
+e. It has operational policies and procedures. 
+
+f. It can evaluate annually the effectiveneSs of the organization in acquiring potentially available organs. 
+
+g. It can assist hospitals in establishing and implementing protocols ”for making routine inquiries about organ donations by potential donors.
+
+h. It shall participate in the advocacy and information dissemination for organ donation/ sharing. 
+
+
+APPENDIX C 
+<image>figure_2.png</image>
+ 

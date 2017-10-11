@@ -1,0 +1,1311 @@
+Republic 0fthe Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+2/F Building 11 San Lazaro Compound, Ftizal Avenue, StaCruz, Manila
+Trunk Line: 743-8301; Direct Line: 711-9501; Fax: 743-1829;743—1786
+URL: http://www.doh.gov.ph; e-mail: osec@doh.gov.ph
+
+   
+<date>10/19/2007</date>   
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2007 - 0035</docnum>
+
+<subject>Subject: Policv and Guidelines governing the Pilot Testing of the Common Submission Dossier Template as Technical Requirements for the Registration of Medical Devices.</subject>
+
+
+<body>
+
+Rationale:
+
+The ASEAN Consultative Committee for Standards and Quality (ACCSQ) was formed by the ASEAN Economic Minister in 1992 whose main objective is to minimize if not totally remove the technical barriers to trade in order to facilitate the implementation of the Common Effective Preferential Tariff (CEPT) Agreement to realize the ASEAN Free Trade Area (AFTA).
+
+In 1997, during the 4th Senior Economic Ofﬁcials Meeting (SEOM) held in Medan, Indonesia. the SEOM authorized the ACCSQ to involve regulatory bodies in order to achieve its mandate of eliminating technical barrier to trade. During the 24th ACCSQ Meeting on August 2004. a proposal was made to form a Product Working Group for medical device to implement specific measures on medical device regulation under the roadmap for healthcare integration. The ACCSQ—Medical Device Product Working Group (MDPWG) proposal was approved by the SEOM 1/36 January 2005 in Yogyakarta, Indonesia.
+
+One of the measures to eliminate the technical barriers to trade that will be implemented by the ASEAN member countries is the common submission dossier template (CSDT) for product approval in the ASEAN. In 2006, the final draft of the CSDT was approved in the ACCSQ-MDPWG Meeting and initial pilot testing was conducted by 4 member countries. During the August 2007 meeting held in Vietnam. it was decided to pilot test the implementation ofthe CSDT in all member countries.
+
+Purpose and Objective
+
+The purpose ofthis Order is to pilot test the Common Submission Dossier Template for the registration of medical devices that will be used in the implementation of the harmonized technical requirements among the ASEAN member countries.
+
+Scope
+
+All categories of medical devices establishments and the different classifications of medical devices shall be represented in the conduct ofthe pilot testing ofthe CSDT.
+
+Policies
+
+1. The BHDT shall determine the industries that will be invited to participate in the CSDT pilot test.
+
+2. The BHDT shall ensure that all categories of medical devices establishment are represented.
+
+3. The BHDT shall ensure that different classifications of medical devices are included in the CSDT pilot test.
+
+Classiﬁcation of Medical Devices
+
+The classification system of medical devices in this Administrative Order shall follow the classiﬁcation system of the Global Harmonization Task Force (GHTF). However, the classification to be used as agreed by the ACCSQ—MDPWG will be Class 1, 2, 3 and 4 instead of Class A, B, C, D.
+
+Implementing Guidelines:
+
+1. The existing application form for the registration of medical devices shall be used.
+2. Participating company shall be allowed to submit only one application under the CSDT pilot test. However, in the event that the classifications of medical devices are not well represented. the BHDT shall enjoin the participating companies to submit another application.
+3. Registration fee for the application covered by the CSDT pilot test shall be waived. The definition and classification of medical devices shall be governed by the GHTF final directives. Please refer to annex I and annex 2
+4. All the legal requirements shall be the same as the existing legal requirements for the regulation of medical devices.
+5. The technical requirements shall be guided by the guidance document issued by the ACCSQ — Medical Device Product Working Group entitled “ACCSQ—MDPWG—Guidance For Common Submission Dossier Template (Versiono). Chiangmai, Thailand. I4 — 16 Feb 2006” attached as Annex A.
+6. The detailed checklist of technical requirements for each category of medical devices based on the CSDT is attached as Annexes B. C. D and E.
+7. The processing ofthe CPR shall be based on the existing policy under Administrative Order No. 2007—0003: Policies and Guidelines governing the Registration and Licensing of Establishments dealing with Medical Devices.
+8. The Certificate of Product Registration shall only be issued upon compliance with the existing legal requirements and the technical requirements under CSDT.
+
+Effectivity
+
+This order shall take effect immediately.
+
+
+</body> 
+<sign>FRANCISCO T. DUQUE III, M.D., M.Sc.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<body>
+ANNEX A
+
+ASEAN Consultative Committee for Standards and Quality Medical Device Product Working Group (ACCSQ-MDPWG)
+
+Document Number: ACCSQ-MDPWG/Guide6 Draft2 (16 Feb 2006)
+Date: 16 Feb 2006
+Document Name: AC CSQ-MDPWG-Guidance For Common Submission Dossier Template (Version6), Chiangmai, Thailand, 14 — 16 Feb 2006
+
+1.0 Introduction
+
+The document is intended to provide guidance for submission of device information to the regulatory authorities; structured in the format of one common template acceptable by all ASEAN regulators. It is envisaged that a Common Submission Dossier Template (CSDT) will harmonize the differences in documentation formats that presently exist in different ASEAN jurisdictions. The adoption of this guidance document in ASEAN will eiiminate the preparation of multiple dossiers, arranged in different formats but with essentially the same contents, for regulatory submission to different regulatory authorities.
+
+2.0 Scope
+
+This guidance document describes the format for an ASEAN harmonized common submission dossier template and provides general recommendation on the content of the formatted elements. This document does not recommend any new or additional technical documents above and beyond What should be created by the manufacturer to comply with existing requirements to demonstrate conformity to the Essential Principles [GHTF SGt/NO41], and to address any country-specific requirements. 
+
+This document applies to all products that fall within the definition of a medical device.
+
+Essentially, the CSDT contains elements of the Summary Technical Documentation (STED) [GHTF SGl/N041]2 for demonstrating conformity to the Essential Principles of Safety and Performance of Medical Devices.
+
+The format of the CSDT recommended herein is based upon the goal of both regulators and
+manufacturers to strive for the least burdensome means to demonstrate conformity to the Essential
+
+Principles for all ciasses of medical devices.
+
+Requirements for post—market vigilance or adverse event reporting are outside the scope of this
+
+document.
+
+ 
+
+l ACCSQ MDPWG 2ml Meeting. Jakarta. Indonesia. I 1-12 July 2005
+
+2 Text in italics in this document are similar to those in the G] ITF S'l‘lfl.) Document
+
+ 
+
+16 Feb 2006 Page 2 of 12
+
+ANNEX 14
+Draft: Version 6 ACCSQ MDPWG
+Draft: Common Submission Dossier Template
+
+ 
+
+as Essentiva Summary
+
+An executive summary shall be provided with the common submission dossier template, which shall
+
+include the following information:
+
+c an overview, e.g., introductory descriptive information on the medical device, the intended uses
+and indicatioits for use of the medical device, any novel features and a synopsis of the content
+of the CSDT; I
+
+0 commercial marketing history;
+
+0 intended uses and indications in labelling;
+
+0 status of any pending request for market clearance; and
+
+. important safety/performance related information.
+
+eat-ti Eiements of the Common Submission Bossier ”temptate
+4.1 Relevant Essential Principles and Method Used to Demonstrate Conformity
+
+The CSDT should identify the Essential Principles of Safety and Performance of Medical Devices that
+are applicable to the device. The CSDT should identify the general method used to demonstrate
+conformity to each applicable Essential Principle. The methods that may be used include compliance
+with recognized or other standards, state of the art or internal industry methods, comparisons to other
+
+similar marketed devices, etc.
+
+The CSDT should identify the specific documents related to the method used to demonstrate conformity
+to the Essential Principles.
+
+nu
+
+4.1.1 Essential Principles and Evidence of Conformity
+
+The evidence of conformity can be provided in tabular form with supporting documentation available for
+
+review as required. A sample of the essential principles conformity checklist is included in Appendix A.
+
+For example, a completed Essential Principles conformity checklist can be used to demonstrate that a
+recognized test standard was used as part of the method to demonstrate conformity to one Essential
+Principle. As such, CSDT would then include a declaration of conformity to the standard, or other
+certification permitted by the Regulatory Authority, and a summary of the test data, ifthe standard does
+
+not include performance requirements. When the manufacturer uses international or other standards to
+
+ 
+
+16 Feb 2006 Page 3 of 12
+
+ANNEX 14
+Draft: Version 6 ACCSQ MDPWG
+Draft: Common Submission Dossier Template
+
+ 
+
+demonstrate conformity with the Essential Principles, the CSDT should identify the full title of the
+standard, identifying numbers, date of the standard, and the organization that created the standard.
+When the manufacturer uses other means, such as internal standards, the CSDT should describe the
+
+means.
+Not all the essential principles will apply to all devices and it is for the manufacturer of the device to
+assess which are appropriate for his particular device product. in determining this, account must be
+
+taken of the intended purpose of the device.
+
+4.2 Device Description (According to GHTF Classification)
+
+ 
+
+Description
+
+ 
+
+i Device Description
+
+ 
+
+Intended Use/Indications for Use
+
+ 
+
+Product Drawing/Product Brochure
+
+Material/Component List
+
+ 
+
+ 
+
+Statement on Shelf Life (Sterile Product only)
+
+ 
+
+ 
+
+ 
+
+4.2.1 Device description & features
+
+Besides a general description of the device, a more detailed description of the device attributes is
+necessary to explain how the device functions, the basic scientific concepts that form the fundamentals
+for the device, the component materials and accessories used in its principles of operation as well as
+packaging. A complete description of each functional component, material or ingredient of the device
+should be provided, with labelled pictorial representation of the device in the form of diagrams,
+
+photographs or drawings, as appropriate.
+
+4.2.2 Intended use .
+
+This means the use for which the medical device is intended, forwhich it is suited according to the data
+
+supplied by the manufacturer in the instructions as well as the functional capability of the device.
+
+4.2.3 Indications
+This is a general description of the disease or condition that the device will diagnose, treat, prevent,
+
+cure or mitigate and includes a description of the target patient population for which the device is
+
+intended.
+
+4.2.4 Instructions of use
+
+These are all necessary information from the manufacturer including the procedures, methods,
+
+ 
+
+16 Feb 2006 Page 4 of 12
+
+ANNEX 14
+Draft: Version 6 ACCSQ MDPWG
+Draft: Common Submission Dossier Template
+
+ 
+
+frequency, duration, quantity and preparation to be followed for safe use of the medical device.
+Instructions needed to use the device in a safe manner shall, to the extent possible, be included on the
+
+device itself and/or on its packaging by other formats I forms.
+
+4.2.5 Contraindications
+
+This is a general description of the disease or condition and the patient population for which the device
+should not be used for the purpose of diagnosing, treating, curing or mitigating. Contraindications are
+conditions under which the device should not be used because the risk of use clearly outweighs any
+
+possible benefit.
+
+4.2.6 Warnings
+
+This is the specific hazard alert information that a user needs to know before using the device.
+
+4.2.7 Precautions
+
+This alerts the user to exercise special care necessary for the safe and effective use of the device.
+They may include actions to be taken to avoid effects on patients/users that may not be potentially
+life-threatening or result in serious injury, but about which the user should be aware. Precautions may
+also alert the user to adverse effects on the device of use or misuse and the care necessary to avoid
+
+such effects.
+
+4.2.8 Potential adverse effects
+These are potential undesirable and serious outcomes (death, injury, or serious adverse events) to the
+
+patient/user, or side effects from the use of the medical device, under normal conditions.
+
+4.2.9 Alternative therapy
+This is a description of any alternative practices or procedures for diagnosing, treating, curing or
+
+mitigating the disease or condition for which the device is intended.
+
+4.2.10 Materials
+A description of the materials of the device and their physical properties to the extent necessary to
+demonstrate conformity with the relevant Essential Principles. The information shall include complete
+
+chemical, biological and physical characterization ofthe materials ofthe device.
+
+4.2.11 Other Relevant Specifications
+The functional characteristics and technical performance specifications for the device including, as
+relevant, accuracy, sensitivity, specificity of measuring and diagnostic devices, reliability and other
+
+factors; and other specifications including chemical, physical, electrical, mechanical, biological,
+
+ 
+
+16 Feb 2006 Page 5 of 12
+
+ANNEX 14
+Draft: Version 6 ACCSQ MDPWG
+Draft: Common Submission Dossier Template
+
+ 
+
+software, sterility, stability, storage and transport, and packaging to the extent necessary to demonstrate
+
+conformity with the relevant Essential Principles.
+
+4.2.12 Other Descriptive Information
+Other important descriptive characteristics not detailed above, to the extent necessary to demonstrate
+conformity with the relevant Essential Principles (for example, the biocompatibility category for the
+
+finished device).
+
+NOTE: For simple, low risk devices, the above information will typically be contained in already
+
+existing sales brochures, instructions for use, etc.
+4.3 Summary of Design Verification and Validation Documents
+
+This section should summarize or reference or contain design verification and design validation data to
+
+the extent appropriate to the complexity and risk class of the device:
+
+Such documentation should typically include:
+. declarations/certificates of conformity to the “recognized” standards listed as applied by the
+manufacturer; and/or
+. summaries or reports of tests and evaluations based on other standards, manufacturer
+
+methods and tests, or alternative ways of demonstrating compliance.
+
+EXAMPLE: The completed Table of Conformity to the Essential Principles that a recognized test
+standard was used as part of the method to demonstrate conformity to one Essential Principle.
+Section 3.0 of the CSTD would then include a declaration of conformity to the standard, or other
+certification permitted by the relevant Regulatory Authority, and a summary of the test data, if the
+
+standard does not include performance requirements.
+
+The data summaries or tests reports and evaluations would typically cover, as appropriate to the
+
+complexity and risk class of the device:
+
+. a listing of and conclusions drawn from published reports that concern the safety and
+performance of aspects of the device with reference to the Essential Principles;
+
+0 engineering tests;
+
+. laboratory tests;
+
+0 biocompatibility tests;
+
+. animal tests;
+
+ 
+
+16 Feb 2006 Page 6 of 12
+
+ANNEX 14
+Draft: Version 6 ACCSQ MDPWG
+Draft: Common Submission Dossier Template
+
+ 
+
+. simulated use;
+
+0 software validation.
+
+4.3.1 Pre—clinical Studies
+
+Details must be provided on all biocompatibility tests conducted on materials used in a device. At a
+minimum, tests must be conducted on samples from the finished, sterilized device. All materials that are
+significantly different’must be characterized. Information describing the tests, the results and the
+
+analyses of data must be presented.
+
+Complete pre-clinical physical test data must be provided, as appropriate. The report must include the
+objectives, methodology, results and manufacturer's conclusions of all physical studies of the device
+and its components. Physical testing must be conducted to predict the adequacy of device response to
+physiological stresses, undesirable conditions and forces, long-term use and all known and possible
+
+failure modes.
+
+Pre—clinical animal studies used to support the probability of effectiveness in humans must be reported.
+These studies must be undertaken using good laboratory practices. The objectives, methodology,
+results, analysis and manufacture's conclusions must be presented. The study conclusion should
+address the device's interactions with animal fluids and tissues and the functional effectiveness of the
+device in the experimental animal model(s). The rationale (and limitations) of selecting the particular
+
+animal model should be discussed.
+
+4.3.1.1 Software Validation Studies (if applicable)
+
+The correctness of a software product is another critical product characteristic that cannot be fully
+verified in a finished product. The manufacturer and/or device sponsor must provide evidence that
+validates the software design and development process. This information should include the results of
+all verification, validation and testing performed in-house and in a user's environment prior to final
+release, for all of the different hardware configurations identified in the labelling, as well as
+
+representative data generated from both testing environments.
+
+4.3.1.2 Devices Containing Biological Material
+
+Results of studies substantiating the adequacy of the measures taken with regards to the risks
+associated with transmissible agents must be provided. This will include viral clearance results for
+known hazards. Donor screening concerns must be fully addressed and methods of harvesting must
+also be fully described. Process validation results are required to substantiate that manufacturing
+
+procedures are in place to minimize biological risks.
+
+ 
+
+16 Feb 2006 Page 7 of 12
+
+ANNEX 14
+Draft: Version 6 ACCSQ MDPWG
+Draft: Common Submission Dossier Template
+
+ 
+
+4.3.2 Clinical Evidence
+
+This section should indicate how any applicable requirements of the Essential Principles for clinical
+evaluation of the device have been met. Where applicable, this evaluation may take the form of a
+systematic review of existing bibliography, clinical experience with the same or similar devices, or by
+clinical investigation. Clinical investigation is most likely to be needed for higher risk class devices, or
+
+for devices where theirs is little or no clinical experience.
+
+4.3.2.1 Use of Existing Bibliography
+
+Copies are required of all literature studies, or existing bibliography, that the manufacturer is using to
+support safety and effectiveness. These will be a subset of the bibliography of references. General
+bibliographic references should be device—specific as supplied in chronological order. Care should be
+
+taken to ensure that the references are timely and relevant to the current application.
+
+Clinical evidence of effectiveness may comprise device-related investigations conducted domestically
+or other countries. It may be derived from relevant publications in a peer-reviewed scientific literature.
+The documented evidence submitted should include the objectives, methodology and results presented
+in context, clearly and meaningfully. The conclusions on the outcome of the clinical studies should be
+
+preceded by a discussion in context with the published literature.
+4.4 Device Labelling
+
+This is the descriptive and informational product literature that accompanies the device any time while it
+is held for sale or shipped, such as any physician's manuals, pack labeling, promotional material and
+product brochures etc. This section should summarize or reference or contain the following labelling
+data to the extent appropriate to the complexity and risk class of the device, which is generally
+
+considered as “labelling”:
+
+0 Sample of labels on the device and its packaging
+
+0 Instructions for use
+
+0 Other literature or training materials
+
+0 Instructions for installation and maintenance (if applicable).
+
+0 Any information and instructions given to the patient, including instructions for any procedure
+
+the patient is expected to perform (if applicable).
+
+4.4.1 Samples of Labels on the Device and its Packaging
+
+This is the printed, written or graphic product information provided on or attached to one or more levels
+
+ 
+
+16 Feb 2006 Page 8 of 12
+
+ANNEX 14
+Draft: Version 6 ACCSQ MDPWG
+Draft: Common Submission Dossier Template
+
+ 
+
+of packaging, including the outer packaging or the outside containerwrapper. Any pack labelling, which
+
+is not provided on the outer packaging must be easily legible through this outer packaging.
+
+If it is physically impossible to include samples of labels (e.g. large warning labels affixed onto an X-ray
+machine), alternative submission methods (e.g. photographs or technical drawings), to the extent
+
+appropriate, will suffice to meet the requirements of this section.
+
+4.4.2 Instructions for Use, Training Materials & Instructions for Installation and
+
+Maintenance
+
+The instructions for use is commonly referred to as the physician's manual, user manual, operator's
+manual, prescriber’s manual or reference manual. It contains directions under which the physician or
+end-user can use a device safely and for its intended purpose. This should include information on
+indications, contraindications, warnings, precautions, potential adverse effects, alternative therapy and
+the conditions that should be managed during normal use to maintain the safety and effectiveness of
+the device. Where applicable, this section should include instructions for training of the end-users for
+competent use of the device for its intended purpose, as well as installation and maintenance of the
+
+device.
+4.5 Risk Analysis
+
+This section should summarize or reference or contain the results of the risk analysis. This risk analysis
+should be based upon international or other recognized standards, and be appropriate to the complexity
+
+and risk class of the device.
+
+4.5.1 Results of Risk Analysis
+
+A list of possible hazards for these devices must be prepared. Indirect risks from medical devices may
+result from device-associated hazards, such as moving parts, which lead to sustained injury, or from
+user-related hazards, such as ionizing radiation from an X—ray machine. The evaluation of these risks
+against the claimed benefits of the device and the method(s) used to reduce risk to acceptable levels
+must be described. The individual or organization that carries out the risk analysis must be clearly
+identified. The technique used to analyze risk must be specified, to ensure that it is appropriate for the
+
+device and the risk involved.
+
+ 
+
+16 Feb 2006 Page 9 of 12
+
+ANNEX 14
+Draft: Version 6 ACCSQ MDPWG
+Draft: Common Submission Dossier Template
+
+ 
+
+4.6 Manufacturer Information
+
+This section should summarize or reference or contain documentation related to the manufacturing
+processes, including quality assurance measures, which is appropriate to the complexity and risk class
+
+of the device.
+
+4.6.1 Manufacturing Process
+Manufacturing process for the device should be provided in the form of a list of resources and activities
+
+that transform inputs into the desired output.
+
+EXAMPLE: The manufacturing process should include the appropriate manufacturing methods and
+procedures, manufacturing environment or condition, and the facilities and controls used for the
+manufacturing, processing, packaging, labeling, storage of the device. Sufficient detail must be
+provided to enable a person generally familiar with quality systems to judge the appropriateness of the
+
+controls in place. A brief summary of the sterilization method and processing should be included, if any.
+
+If multiple facilities are involved in the manufacture of device, the applicable information (e.g. quality
+assurance certificates issued by an accredited third party inspection body) for each facility must be
+submitted. Firms that manufacture or process the device under contract to the manufacturer may elect
+to submit all or a portion of the manufacturing information applicable to their facility directly to the
+Regulatory Authority in the form of a master file. The manufacturer should inform these contractors of
+the need to supply detailed information on the device. However, it is not the intent of this section to
+capture information relating to the supply of sub-components (i.e. unfinished medical device) that
+
+contributes towards the manufacture ofthe finished device itself.
+
+Rafe tenses _
+
+SG1I N009 Labeling for Medical Devices
+
+861/ N01 5 Medical Devices Classification
+
+SG1INO29 Information Document Concerning the Definition of the Term ‘Medical Device’.
+
+SG1INO41 Essential Principles of Safety and Performance of Medical Devices (including In
+Vitro Diagnostic Devices)
+
+SG1INO43 Labeling for Medical Devices (including In Vitro Diagnostic Devices)
+
+SG1INO11 R17 Summary Technical Documentation for Demonstrating Conformity to the Essential
+
+Principles of Safety and Performance of Medical Devices (8 TED)
+
+ 
+
+16 Feb 2006 Page 10 of 12
+
+Draft: Version 6
+
+ANNEX 14
+ACCSQ MDPWG
+
+Draft: Common Submission Dossier Template
+
+ 
+
+APPENDIX A - Example of an Essential Principles Conformity Checklist
+
+ 
+
+Essential Principle
+
+Applicable
+to the
+
+device ?
+
+Method of Identity of
+Conformity3 Speciﬁc
+
+Documents
+
+ 
+
+1. Medical devices should be designed and manufactured in such a way
+that. when used under the conditions and for the purposes intended and.
+where applicable, by virtue of the technical know-ledge, experience,
+education or training of intended users, they will not compromise the
+clinical condition or the safety of patients, or the safety and health of users
+or- where applicable, other persons, provided that any risks which may be
+associated with their use constitute acceptable risks when weighed against
+the beneﬁts to the patient and are compatible with a high level of protection
+
+of health and safety.
+
+Yes
+
+ 
+
+2. The solutions adopted by the manufacturer for the design and
+construction of the device: should conform to safety principles. taking
+account of the generally acknowledged state of the art. in selecting the most
+appropriate solutions, the manufacturer should apply the following
+principles in the following order:
+
+0 identity hazards and the associated risks arising from the
+intended use and foreseeable mi suse,
+
+o eliminate or reduce risks as far as possible (inherently safe
+design and construction),
+
+0 where appropriate take adequate protection measures
+including alarms if necessary. in relation to risks that
+cannot be eliminated-
+
+0 inform users of the residual risks due to any shortcomings
+
+of the protection measures adopted.
+
+v
+
+ 
+
+’3
+
+n. Devices should achieve the performance intended by the manufacturer
+and be designed, manufactured and packaged in such a way that they are
+suitable for one or more of the functions within the scope of the definition of
+
+a medical device applicable in each jurisdiction.
+
+ 
+
+ 
+
+4. The characteristics and performances referred to in Clauses I, 2 and 3
+should not be adversely affected to such a degree that the clinical conditions
+and safety of the patients and, where applicable. of other persons are
+
+compromised during the lifetime of the device, as indicated by the
+
+ 
+
+ 
+
+ 
+
+ 
+
+3
+
+Select from: recognised standard/other international standard/national standard/company standard/validated testl etc.
+
+ 
+
+16 Feb 2006
+
+Page 11 of 12
+
+ 
+
+Draft: Version 6
+
+ANNEX 14
+ACCSQ MDPWG
+
+Draft: Common Submission Dossier Template
+
+ 
+
+ 
+
+manufacturer. when the device is subjected to the stresses which can occur
+during normal conditions of use and has been properly maintained in
+
+accordance with the manufacturers instructions.
+
+ 
+
+5. 'lhe devices should be designed, manufactured and packed in such a
+
+way that their characteristics and performances during their intended use
+
+will not be adversely affected during transport and storage taking account of
+I
+
+the instructions and information provided by the manufacturer.
+
+ 
+
+6. The benefits must be determined to outweigh any undesirable
+
+side-effects for the performances intended.
+
+ 
+
+ 
+
+7. l. 'lhe devices should be designed and manufactured in such a way as to
+ensure the characteristics and performance referred to in Section I of the
+'General Requirements‘. Particular attention should be paid to:
+
+o the choice of materials used, particularly as regards
+toxicity and, where appropriate, tlammz-lbility,
+
+o the compatibility between the materials used and
+biological tissues, cells and body fluids, taking account of
+the intended purpose of the device.
+
+0 the choice of materials used should reflect, where
+appropriate, matters such as hardness. wear and fatigue
+
+strength.
+
+ 
+
+7.2. The devices should be designed, manufactured and packed in such a
+way as to minimise the risk posed by contaminants and residues to the
+persons involved in the transport, storage and use of the devices and to the
+patients, taking account of the intended purpose of the product. Particular
+attention should be paid to the tissues exposed and to the duration and
+
+frequency of exposure.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 “a lite
+8 lite
+9 Etc 7 _ ___ ____ _
+16 Feb 2006 Page 12 of 12
+
+ 
+
+ANNEX B
+
+List of Requirements for the Notification of Medical Devices under Class |
+
+(CSDT Pilot Test)
+
+ 
+
+Notarized Application Form ﬁled in duplicate
+
+ 
+
+Photocopy of the valid License to Operate in the Philippines issued by DOH
+
+ 
+
+For distributors. Certificate of Agreement between the Manufacturer and Distributor
+regarding the device;,for imported medical device. the Certiﬁcate shall be duly authenticated
+by the territorial Philippine consulate
+
+ 
+
+For imported medical devices. Certiﬁcate of Product Notiﬁcation or Certificate of Product
+Registration or any equivalent document attesting to the safety and effectiveness of the device
+issued by the regulatory agency in the country of origin or reference country and duly
+authenticated by the territorial Philippine Consulate
+
+ 
+
+Device description consisting of the following:
+
+a. Intended use
+
+b. Basic scientific concepts that form the fundamental of the device. if applicable
+
+c. Component Material and accessories used in its principle of operation. if
+applicable
+
+(1. Technical Speciﬁcation
+
+e. The variants of the device to be marketed including the parameters of the range of
+variants. if applicable.
+
+ 
+
+A description of the sterilization method and the packaging used. the sterility level and the
+validation of the sterilization process. if applicable.
+
+ 
+
+Certiﬁcate of Conformity to the aspect of manufacture relating to metrology for devices with
+measuring functions
+
+ 
+
+Declaration of Conformity (self declaration) with product standards. if applicable
+
+ 
+
+Sample of labels on the device and its packaging and other labeling materials to be used for
+the device that includes users or instruction manuals
+
+Government certiﬁcate attesting to the status of the Manufacturer ‘5 competency and
+reliability of the personnel and facilities or Quality Systems Certiﬁcate of approval or
+compliance certiﬁcate with 180 9000 series or ISO 13485. For imported medical device the
+Certiﬁcate shall be duly authenticated by the territorial Philippine Consulate
+
+Stability studies of the product to justify claimed shelf -life. if applicable
+
+ 
+
+Picture of the product and representative sample or commercial presentation of the product .
+when needed
+
+ 
+
+ 
+
+ 
+
+J
+
+ANNEX C
+Checklist of Requirements for the Registration of Medical Devices under
+Class II (CSDT Pilot Test)
+
+ 
+
+REQUIREMENTS
+
+ 
+
+Notarized Application Form ﬁled in duplicate
+
+Photocopy of the valid License to Operate in the Philippines issued by DOH
+
+ 
+
+For distributors. Certiﬁcate of Agreement between the Manufacturer and Distributor regarding the
+device: for i1nported.mcdical device. the Certiﬁcate shall be duly authenticated by the territorial ;
+Philippine consulate :
+
+ 
+
+For imported medical devices- Certiﬁcate of Product Notification or Certificate of Product
+Registration or any equivalent document attesting to the safety and effectiveness of the device issued 9
+by the regulatory agency in the country of origin and duly authenticated by the territorial Philippine
+Consulate
+
+ 
+
+Executive Summary to include a brief introductory descriptive information on the medical device.
+intended use and indications for use any novel feature and a synopsis of the content of the C SDT. f
+commercial marketing history. status of any pending request for market clearance and important j
+safety/performance related information. ‘
+
+ 
+
+Device description consisting of the following:
+
+Intended use
+
+n-v
+oi
+
+b. indications of use and Contraindications
+
+c. Basic scientific concepts that form the fundamental of the device, if applicable
+
+d. Component Material and accessories used in its principle of operation, if applicable
+
+e. 'l‘echnical Speciﬁcations to include the following: :
+e.l The functional characteristics and technical performance speciﬁcations of the device including
+where relevant: accuracy, sensitivity, reliability and other factors
+e2 Other speciﬁcations including chemical, physical, electrical, mechanical, biological, software,
+sterility, stability, storage and transport, and packaging, whichever is applicable. :
+
+f. Any warnings and/or precautions
+
+g. Principles of operation, if applicable
+h. Explanation of any novel features, ifapplicable
+i. List of the accessories and other devices which are intended to be used in combination of the device, if
+
+applicable. .
+j. The variants of the device to be marketed including the parameters of the range of variants. if ;
+applicable. "
+
+k. General description of each of the functional parts or components of the device with labeled pictorial
+representations (such as, diagrams, photographs, drawings) clearly indicating each part, with sufficient
+explanation to understand the drawings and diagrams, if applicable. ‘
+
+1. A description of the materials of the device and their physical properties to the extent necessary to
+demonstrate conformity with safety and effectiveness, ifapplicable.
+
+ 
+
+ 
+
+Design Verification/ Validation documents consisting of the following:
+
+a. Certiﬁcate of Conformity to the aspect of manufacture relating to metrology for devices with measuring
+functions.
+
+b. l_)eclaration ofConformity with product standards, if applicable
+
+c. Summaries or reports of tests and evaluation to cover engineering test, laboratory test, stability studies -
+to justify the claimed shelf life, simulated use and other tests, whichever is applicable
+
+ 
+
+ 
+
+Clinical evidence for the following. if applicable:
+
+a. Newly introduced device
+l.)evices incorporating new materials coming into contact with the patient.
+
+e. Existing materials applied in a body part not previously exposed to that material, and for which no
+prior chemical experience exists.
+
+d. An existing device that is modiﬁed and the modification might affect safety and efﬁectiveness.
+
+ 
+
+Sample of labels on the device and its packaging and other labeling materials to be used for the device .
+that includes users or instruction manuals '
+
+5
+
+Risk assessment consisting of risk analysis. evaluation and reduction measures. if applicable.
+
+ 
+
+Manufacturer information to include the following:
+
+a. Quality Systems Certificate of approval on Manulaeturing or compliance certificate with ISO 9000 ;
+series or 180 13485. For imported medical device the Certificate shall be duly authenticated by the
+territorial Philippine Consulate.
+
+b. Methods/procedures/ controls used in the Quality Assurance.
+
+.0
+
+A description of the sterilization method and the packaging used, the sterility level and the g
+validation ofthe sterilization process, if applicable.
+
+Picture of the product and representative sample or commercial presentation of the product. when
+needed
+
+ 
+
+ 
+
+Declaration of Conformity to acceptable standards.
+
+ 
+
+Page 2 of requirements for Class H
+
+U]
+
+ANNEX D
+
+Checklist of Requirements for the Registration of Medical Devices under Class
+
+III (csor Pilot Test)
+
+ 
+
+REQUIREMENTS
+
+ 
+
+Notarized Application Form filed in duplicate
+
+Photocopy of the valid License to Operate in the Philippines issued by DOH
+
+ 
+
+For distributors- Certificate of Agreement between the Manufacturer and Distributor regarding the
+device; for importeddnedical device. the Certificate shall be duly authenticated by the territorial
+Philippine consulate
+
+ 
+
+For imported medical devices. Certificate of Product Notification or Certificate of Product
+Registration or any equivalent document attesting to the safety and effectiveness of the device issued
+by the regulatory agency in the country of origin or reference country and duly authenticated by the
+territorial Philippine Consulate
+
+ 
+
+Executive Summary to include a brief introductory descriptive information on the medical device.
+intended use and indications for use any novel feature and a synopsis of the content of the CSDT-
+commercial marketing history. status of any pending request for market clearance and important
+safety/performance related information.
+
+ 
+
+Device description consisting of the following:
+a. Intended use
+
+b. indications of use and Contraindications
+c. Basic scientific concepts that form the fundamental of the device, if applicable
+d. Component Material and accessories used in its principle of operation, if applicable
+e. Technical Specifications to include the tollowing:
+i. 'lhe functional characteristics and technical performance specifications of the device
+including where relevant: accuracy, sensitivity, reliability and other factors
+ii. Other specifications including chemical, physical, electrical, mechanical- biological-
+softy-vare, sterility, stability, storage and transport, and packaging, whichever is
+applicable.
+f. Any warnings and/or precautions
+g. Principles of operation, if applicable
+11. Explanation of any novel features, ifapplicable
+
+List of the accessories and other devices which are intended to be used in combination of the
+
+device, if applicable.
+
+j. The variants of the device to be marketed including the parameters of the range of variants,
+if applicable. '
+
+k. General description of each of the functional parts or components of the device with labeled
+pictorial representations (such as, diagrams, photographs, drawings) clearly indicating each
+part, with sufficient explanation to understand the drawings and diagrams, if applicable.
+
+1. A description of the materials of the device and their physical properties to the extent
+
+necessary to demonstrate conformity with safety and effectiveness, if applicable.
+
+p...- .
+
+ 
+
+ 
+
+ 
+
+Design Veriﬁcation/Validation documents consisting of the following:
+
+a. Certificate of Conformity to the aspect of manulacture relating to metrology for devices with
+measuring lunctions.
+
+b. Declaration ofConformity with product standards, if applicable
+
+c. Summaries or reports of tests and evaluation to cover engineering test, laboratory test, stability
+studies to justily the claimed shelf life, simulated use and other tests, whichever is applicable
+
+L__.. ____._____
+
+ 
+
+ 
+
+(i
+
+ 
+
+Clinical evidence for the following:
+
+rm
+_
+
+Implantable devices
+
+Newly introduced device
+
+Devices incorporating new materials coming into contact with the patient.
+
+Existing materials applied in a body part not previously exposed to that material, and for which
+no prior chemical experience exists.
+
+e An existing device that is modified and the modification might affect safety and effectiveness.
+
+$3.037
+
+ 
+
+Sample of labels on the device and its packaging and other labeling materials to be used for the
+device that includes users or instruction manuals
+
+I
+
+ 
+
+Risk assessment consisting of risk analysis. evaluation and reduction measures
+
+ 
+
+Manufacturer information to include the following:
+
+a. Quality Systems Certificate of approval on Design and Manufacturing or compliance certificate
+with ISO 9000 series or ISO 13485. For imported medical device the Certificate shall be duly
+authenticated by the territorial Philippine Consulate
+
+b. Methods/procedures/controls used in the Quality Assurance.
+
+c. A description of the sterilization method and the packaging used, the sterility level and the
+validation ofthe sterilization process, if applicable.
+
+ 
+
+SOHns-I‘sjgalidation Studies. if applicable. _ __
+
+Biological evaluation. if applicable.
+
+ 
+
+Picture of the product and representative sample or commercial presentation of the product. when
+needed
+
+ 
+
+ 
+
+. Declaration of Conformity to acceptable standards.
+
+ 
+
+Page 2 of requirements for Class H!
+
+ 
+
+ANNEX E
+
+Checklist of Requirements for the Registration of Medical Devices under Class
+IV (CSDT Pilot Test)
+REQUIREMENTS
+
+ 
+
+ 
+
+Notarized Application Form filed in duplicate
+
+Photocopy of the valid License to Operate in the Philippines issued by DOH
+
+ 
+
+For distributors. Certificate of Agreement between the Manufacturer and Distributor regarding the
+device; for imported medical device. the Certiﬁcate shall be duly authenticated by the territorial
+Philippine consulate
+
+ 
+
+For imported medical devices- Certificate of Product Notification or Certificate of Product
+Registration or any equivalent document attesting to the safety and effectiveness of the device
+issued by the regulatory agency in the country of origin or refertxiuitt: eternity and duly
+authenticated by the territorial Philippine Consulate
+
+ 
+
+Executive Summary to include a brief introductory descriptive information on the medical device,
+intended use and indications for use any novel feature and a synopsis of the content of the C SDT.
+commercial marketing history. status of any pending request for market clearance and important
+safety/performance related information.
+
+CDey-icedescription Consisting ofthe following:
+
+a. Intended use
+
+b. Indications of use and Contraindications
+
+c. Basic scientific concepts that form the fundamental of the device. if applicable
+
+d. Component Material and accessories used in its principle of operation, if applicable
+e. Technical Specifications to include the lbllowing:
+
+° The functional characteristics and technical performance specifications of the device
+including where relevant: accuracy, sensitivity; reliability and other factors
+
+° Other specifications including chemical. physical, electrical, mechanical, biological,
+software, sterility, stability. storage and transport, and packaging, whichever is
+applicable.
+
+f. Any warnings and/ or precautions
+
+Principles of operation- if applicable
+
+11. Explanation ofany novel features, if applicable
+
+i. List of the accessories and other devices which are intended to be used in combination of the
+device, if applicable.
+
+j. 'Ihe variants of the device to be marketed including the parameters of the range of variants. if
+applicable. '
+
+k. General description of each of the timetional parts or components of the device with labeled
+pictorial representations (such as, diagrams, photographs, drawings) clearly indicating each
+part, with sufficient explanation to understand the drawings and diagrams, if applicable.
+
+I. A description of the materials of the device and their physical properties to the extent
+necessary to demonstrate conformity with safety and effectiveness, if applicable.
+
+rife
+
+ 
+
+Design Verification/Validation documents consisting of the following:
+
+a. Certificate of Conformity to the aspect of manufacture relating to metrology for devices with
+measuring functions.
+
+b. Declaration ofConformity with product standards, if applicable
+
+c. Summaries or reports oftests and evaluation to cover engineering test, laboratory test, stability
+studies to justify the claimed shelf life, simulated use and other tests, whichever is applicable
+
+ 
+
+ 
+
+ 
+
+ 
+
+Clinical evidence
+
+A summary of all studies 011 which the manufacture relies to ensure that the device meets the
+safety and effectiveness.
+
+A bibliography of all published reports dealing with the use. safety. and effectiveness of the
+device.
+
+ 
+
+Sample of labels on the device and its packaging and other labeling materials to be used for the
+device that includes user 5 or instruction manuals
+
+ 
+
+Risk assessment consisting of risk analysis. evaluation and reduction measures
+
+ 
+
+Manufacturer information to include the following:
+
+a. Quality Systems Certificate of approval on Design and Manufacturing or compliance
+certificate with ISO 9000 series or ISO 13485. For imported medical device the Certiﬁcate
+shall be duly authenticated by the territorial Philippine Consulate
+
+b. Methods/procedures/eontrols used in the Quality Assurance.
+
+p
+
+A description of the sterilization 111ethod and the packaging used, the sterility level and the
+validation ofthe sterilization process, if applicable.
+
+ 
+
+ 
+
+Software validation studies. if applicable
+
+ 
+
+Biological evaluation. if applicable
+
+Objective evidence on biological safety of the device. if the device contains animal or human
+tissue or their derivatives.
+
+ 
+
+List of counties where the device has been sold.
+
+ 
+
+Picture of the product and representative sample or commercial presentation of the product. when
+needed
+
+a
+
+ 
+
+Declaration of Conformity to acceptable standards.
+
+Page 2 of requirements for Class 1 V
+
+ 
+
+9
+
+</body>

@@ -1,0 +1,549 @@
+
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>03/22/2012</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2012 - 0006</docnum>
+<subject> 
+SUBJECT: Revised Dengue Clinical Case Management Guidelines 2011 
+</subject>
+
+<body>
+
+I. BACKGROUND and RATIONALE
+
+According to WHO, dengue is the most rapidly spreading mosquito-borne viral disease in the world.a In the last 50 years, incidence has increased 30-fold with increasing geographic expansion to new countries and, in the present decade, from urban to rural settings. Between 2001 and 2008, more than a million cases were reported in Cambodia, Malaysia, Philippines, and Vietnam the four countries in the Western Pacific Region with the highest numbers of cases and deaths. Official reports from these countries revealed a combined death toll of 4,798. 
+
+Dengue is an all-year round disease in the Philippines. In 2008, the Philippines was reported as one of the countries with the highest number of dengue cases and deaths in the Western Pacific Region. In 2010, all regions reported cases of dengue
+and several outbreaks were reported in provinces and municipalities. The cases totalled to 135,355, which is 135% higher compared to 57,636 cases in 2009.
+
+The elimination of dengue is the responsibility of everyone. The Department of Health continuously seeks the participation of communities in eliminating mosquitoes
+as well as their breeding sites. Responding to dengue cases, on the other hand, requires the delivery of competent clinical services and management decisions- among all levels of health care. Dengue missions were conducted to selected regions where increases in the numbers of dengue cases and outbreaks were
+observed. Visits to hospital wards and rural health units found varying clinical skills and degrees of capacity to diagnose, classify, and manage dengue cases.
+
+To address this, the DOH with support from WHO conducted on 29 October 2010 a National Dengue Workshop on Clinical Management to server as a forum for the local adaptation of the recently updated WHO Dengue Guidelines for Diagnosis, Prevention and Control. The results of the discussions paved the way to the development of a standard source of information and guidelines for dengue case management.
+
+II. OBJECTIVE
+
+This document aims to establish a standard in the diagnosis and treatment of dengue for all public and private health facilities and other stakeholders.
+
+
+III. COVERAGE
+
+This administrative order shall apply to all public and private health workers, LGUs, NGOs, academe and other stakeholders involved in the diagnosis and treatment of
+dengue cases.
+
+The following sections and annexes contain updated information on the course of dengue illness, revised dengue case classification, and treatment guidelines specifically for health practitioners, laboratory personnel, those involved in vector control, and other public health officials and staff.
+
+Specifically, these are as follows:
+-Annex A — Revised Case Classification
+-Annex B — General Guidelines
+-Annex C — Treatment Guidelines
+-Annex D - Annotations
+-Annex E — Dengue Reclassiﬁcation Diagram
+-Annex F — Revised Clinical Case Management Diagram
+
+IV. SEPARABILITY CLAUSE
+
+In the event that any rule, section, paragraph, sentence, clause or word of this administrative order is declared null and void for valid reason(s), the validity of the other provisions shall not be affected.
+
+V. REPEALING CLAUSE
+
+All orders and other issuances inconsistent with this administrative order are hereby revised, modified or rescinded accordingly. All other provisions of existing issuances which are not affected by this order shall remain valid and in effect.
+
+VI. EFFECTIVITY
+
+This Order takes effect immediately upon posting and publication in the DOH intranet, or fifteen days upon filing with the University of the Philippines Law CenteV4
+
+
+
+<sign>ENRIQUE T. ONA, MD, FPCS, FACS</sign>
+<signtitle>Secretary of Health
+</signtitle>
+
+ 
+
+REVISED DENGUE CASE CLASSIFICATION
+
+
+In the new case classification, patients with dengue are classified according to levels of severity as having Dengue without Warning Signs, Dengue with Warning Signs, and Severe Dengue based on clinical manifestations with or without laboratory parameters.
+
+Changes in dengue epidemiology in recent years led to difficulties and inconsistencies in the use of the previous dengue case definition and classification. The adoption of this new classification is deemed a solution in determining more standard, practical and appropriate management of dengue cases in the country. Likewise, this improvement is seen to improve consistency in reporting across various levels of health care facilities.
+
+The Old Case Definition and Classification
+vis-a-vis the New Case Deﬁnition and Classification for Dengue
+
+<image>table_1.png</image>
+<image>table_2.png</image>
+<image>table_3.png</image>
+
+
+GENERAL GUIDELINES
+
+Dengue infection is a systemic and dynamic disease. It has a wide clinical spectrum that includes severe
+and non-severe forms of clinical manifestations. After the incubation period, the illness begins abruptly
+and will be followed by 3 phases: febrile, critical and recovery phase.
+
+Course of Dengue Illness
+
+<image>figure_1.png</image>
+
+
+Febrile Phase
+The acute febrile phase usually lasts 2-7 days (refer to Annex A for the revised case classification of dengue). Monitoring for warning signs is crucial to recognize its progression to the critical phase.
+
+Mild hemorrhagic manifestations like petechiae and mucosal membrane bleeding (e.g. nose and gums) may be seen. The earliest abnormality in the full blood count is a progressive decrease in total white cell count, which should alert the physician to a high probability of dengue.
+
+ 
+<image>table_4.png</image>
+<image>table_5.png</image>
+
+
+Critical Phase
+
+Defervescence occurs on day 3 - 7 of illness, when the temperature drops to 37.5 - 38°C or less and remains below this level. Around the time of defervescence, patients can either improve or deteriorate. Those who improve after defervescence have Dengue without Warning Signs. Those who deteriorate will manifest warning signs have Dengue with Warning Signs.
+
+Warning signs are the result of a significant increase in capillary fragility. This marks the beginning of the critical phase. Some of these patients may further deteriorate to severe dengue with severe plasma leakage leading to shock (dengue shock) i respiratory distress, severe bleeding and/or severe organ impairment. The period of clinically signiﬁcant plasma leakage usually lasts 24 to 48 hours.
+
+ <image>table_6.png</image>
+
+Some patients may deteriorate to Severe Dengue, defined by one or more of the following: (i) plasma leakage that may lead to shock (dengue shock) and/or fluid accumulation, with or without respiratory distress, and/or (ii) severe bleeding, and/or (iii) severe organ impairment.
+
+Shock occurs when a critical volume of plasma is lost through leakage. It is often preceded by warning signs. The body temperature may be subnormal when shock occurs. With prolonged shock, the consequent organ hypoperfusion results in progressive organ impairment, metabolic acidosis and disseminated intravascular coagulation. This in turn leads to severe hemorrhage causing the hematocrit to decrease in severe shock. Instead of the leukopenia usually seen during this phase of dengue, the total white cell count may increase in patients with severe bleeding. In addition, severe organ impairment such as severe hepatitis, encephalitis or myocarditis and/or severe bleeding may also develop without obvious plasma leakage or shock.
+
+ 
+Recovery Phase
+A gradual re—absorption of extravasated fluid from the intravascular to the extravascular space (e.g., pleural effusion, ascites) by way of the lymphatics will take place in the next 48-72 hours. Patients’ general well—being improves, hemodynamic status stabilizes and diuresis ensues. Some patients may have a classical rash of "isles of white in the sea of red." The hematocrit stabilizes or may be lower due to the dilution effect of reabsorbed fluid. White Blood Count usually starts to rise soon after defervescence but the normalization of the platelet count is typically later than that of WBC count.
+
+Clinical Problems encountered during the different phases of dengue are:
+
+-Febrile phase — dehydration; high fever may cause febrile seizures in young children neurological disturbances
+- Critical phase — shock from plasma leakage; severe hemorrhage; organ impairment
+
+-Recovery phase — hypervolemia (only if intravenous fluid therapy has been excessive and/ or extended into this period) /
+
+
+
+TREATMENT GUIDELINES: A STEPVVISE APPROACH TO MANAGEMENT OF DENGUE
+
+A. ASSESSMENT
+Step 1 - Overall Assessment
+1.1 History
+-Date of onset of fever/ illness
+-Quantity of oral intake
+-Assess for warning signs
+-Diarrhea
+-Seizures, impaired consciousness. behavioral changes
+-Urine output (frequency, volume and time of last voiding)
+-Other important relevant histories:
+-Family members or neighbors with dengue, or travel to dengue—endemic areasa co—existing conditions such as infancy, pregnancy, obesity, diabetes mellitus,
+hypertension, etc.
+
+-jungle trekking and swimming in waterfall (consider leptospirosis, typhus, malaria)
+-recent unprotected sexual or drug use behavior (consider acute HIV seroconversion illness)
+
+1.2 Physical Examination
+
+-Assess mental state and Glasgow Coma Scale (GCS) score
+-Assess hydration status
+
+-Assess hemodynamic status (refer to Table 1)
+
+-Look out for tachypnea/ acidotic breathing/ pleural effusion
+
+-Check for abdominal tenderness/ hepatomegaly/ ascites
+
+-Examine for rash and bleeding manifestations
+-Tourniquet test (repeat if previously negative or if there is no bleeding manifestation)
+
+1.3 Investigation
+-Full Blood Count (FBC)
+-A full blood count should be done at the first visit.
+-Dengue diagnostic tests
+-Laboratory tests should be performed to confirm the diagnosis viral culture isolation or PCR. However, it is not necessary for the acute management of patients except in cases with unusual manifestations.
+
+Step 2 -- Diagnosis, Assessment of Disease Phase and Severity
+Determine: 
+
+-Is it dengue?
+
+-Which phase of dengue? (febrile/critical/recovery)
+
+-Are there warning signs?
+
+-What is the hydration and hemodynamic status?
+-Does the patient require admission?
+
+Step 3 - Management
+
+a. Disease notiﬁcation
+
+b. Management decisions -— depending on the clinical manifestations and other circumstances,
+patients may:
+
+-be sent home (GROUP A); or may
+-be referred for in—hospital management (GROUP B); or may
+-require emergency treatment and urgent referral (GROUP C).
+
+B. TREATMENT (by type of patient)
+
+GROUP A — Patients who may be sent home These are patients who are able to tolerate adequate volumes of oral fluids and pass urine at least once every 6 hours, and do not have any of the warning signs, particularly when fever subsides.
+Ambulatory patients should be reviewed daily for disease progression: decreasing WBC, defervescence and warning signs until they are out of the critical period. Those with stable hematocrit can be sent home with the advice to return immediately to the hospital if they develop any of the warning signs.
+
+Action Plan:
+
+-Oral rehydration solution (ORS) should be given based on weight, using currently
+recommended ORS:
+ 
+ <image>table_7.png</image>
+
+-Reduce osmolarity of ORS containing sodium 45 to 60 mmol/ liter.
+
+-Sports drinks should NOT be given due to its high osmolarity which may cause more danger to the patient.
+
+ 
+
+HOME CARE CARD FOR DENGUE
+
+ <image>table_8.png</image>
+
+
+ GROUP B -— Patients who should be referred for in—hospital management
+
+These include patients with any of the following features:
+
+-Warning Signs
+-Co-existing conditions that may make dengue or its management more complicated, such as pregnancy, infancy and old age, obesity, diabetes mellitus, renal failure, chronic hemolytic
+diseases, etc. Social circumstances such as living alone or living far from health facility or without a reliable means of transport.
+
+
+Action plan
+a. Dengue without Warning Signs
+
+Encourage oral fluids. If not tolerated, start intravenous fluid therapy of 0.9% NaCl (saline) or Ranger‘s Lactate with or without dextrose at maintenance rate (refer to Table 2). Patients may be able to take oral fluids after a few hours of intravenous fluid therapy.
+
+Fluid management for patients who are admitted, without shock (Dengue without Warning Signs):
+
+-Isotonic solutions (D5 LRS, D5 Acetated Ringers D5 NSS/ D5 0.9 NaCl) are appropriate for Dengue patients without warning signs who are admitted but without shock.
+-Maintenance IVF is computed using the caloric—expenditure method (Holliday—Segar Method) or Calculation Based on Weight (Ludan Method).
+
+ 
+ <image>table_9.png</image>
+
+
+-If the patient shows signs of mild dehydration but is NOT in shock, the volume needed for mild dehydration is added to the maintenance fluids to determine the total fluid requirement
+(TFR).
+-The following formula may be used to calculate the required volume of intravenous fluid to infuse:
+
+TFR = Maintenance NF + Fluids as for Mild dehydration*
+
+*where thevolume of fluids for mild dehydration is computed as follows
+
+Infant 50 ml/kg
+Older Child or Adult 30 ml/kg
+
+One-half of the computed TFR is given in 8 hours and the remaining one—half is given in the
+next 16 hours.
+
+a Sample computation for a 10 kg patient with dengue and mild dehydration:
+
+Step 1: Compute for Total Fluid Requirement:
+TFR = Maintenance Fluids + Fluids for Mild dehydration
+= (100 x 10kg) + (50 x 10kg)
+= 1000 + 500
+= 1500 ml.
+
+Step 2: Compute one-half of TFR:
+TFR/2 = 1500ml/2 = 750 ml.
+
+Step 3: Volume to be given in the first 8 hours:
+= 750 ml in 8 hours
+= 93 ml/hour for 8 hours
+
+Step 4: Volume to be given in the next 16 hours:
+= 750 ml in 16 hours
+= 46 ml per hour for 16 hours
+
+-Periodic assessment is needed so that fluid may be adjusted accordingly
+
+-Clinical parameters should be monitored closely and correlated with the hematocrit. This will
+ensure adequate hydration, avoiding under and over hydration.
+
+-The IVF rate may be decreased anytime as necessary based on clinical assessment.
+
+-If the patient shows signs of deterioration, see Management for Compensated or Hypotensive Shock, whichever is applicable.
+
+Monitoring by health care providers:
+
+-temperature pattern
+
+-volume of fluid intake and losses
+
+-urine output —~ volume and frequency
+
+-warning signs
+
+-hematocrit, white blood cell and platelet counts
+
+b. Dengue with Warning Signs
+
+1. Obtain a reference hematocrit before fluid therapy.
+
+2.Give only isotonic solutions such as 0.9% NaCl (saline), Ringer's Lactate, Hartmann's solution.
+
+Start with 5—7 ml/kg/hour for 1—2 hours, then
+reduce to 3-5 ml/kg/hr for 2-4 hours, and then
+reduce to 2-3 ml/kg/hr or less according to clinical response (see Table 3)
+
+3. Reassess the clinical status and repeat the hematocrit.
+
+4. If the hematocrit remains the same or rises only minimally, continue with the same rate (2-3 ml/kg/hr) for another 2 — 4 hours.
+
+5. If there are worsening of vital signs and rapidly rising hematocrit, increase the rate to 5—10 ml/kg/hour for 1.2 hours.
+
+6. Reassess the clinical status, repeat hematocrit and review fluid infusion rates accordingly.
+
+7. Give the minimum intravenous fluid volume required to maintain good perfusion and urine output of about 0.5 ml/kg/hr. Intravenous fluids are usually needed for only 24 to 48 hours
+
+ 
+
+8. Reduce intravenous fluids gradually when the rate of plasma leakage decreases towards the end of the critical phase. This is indicated by:
+- urine output and/or oral fluid intake is/are adequate, or
+- hematocrit decreases below the baseline value in a stable patient.
+
+Monitoring by health care providers:
+Patients with warning signs should be monitored until the “at-risk" period is over. A detailed fluid balance should be maintained. Parameters that should be monitored include:
+
+-vital signs and peripheral perfusion (1-4 hourly until the patient is out of critical phase)
+-urine output (4-6 hourly)
+-hematocrit (before and after fluid replacement, then 6-12 hourly)
+-blood glucose
+-other organ functions (such as renal profile, liver profile, coagulation profile, as indicated)
+
+GROUP C — Patients with Severe Dengue Requiring Emergency Treatment and Urgent Referral
+
+a. Management for patients admitted to the hospital with Compensated Shock
+
+1. Start intravenous fluid resuscitation with isotonic crystalloid solutions at 5—10 ml/kg/hr over 1 hour, then reassess the patient's condition (vital signs, capillary refill time, hematocrit, urine output) and decide depending on the situation:
+
+2. If the patient’s condition improves, intravenous fluids should be gradually reduced to
+- 5—7 ml/kg/hr for 1-2 hours, then
+- to 3—5 ml/kg/hr for 2—4 hours, then
+- to 2-3 ml/kg/hr and then
+- to reduce further depending on hemodynamic status, which can be maintained for up to 24 to 48 hours.
+
+(Note: Please refer to Tables 2 and 3 for a more appropriate estimation of normal maintenance requirement based on ideal body weight.)
+
+3. If vital signs are still unstable (shock persists), check the hematocrit after the first bolus:
+
+- If hematocrit increases or is still high (> 50%), repeat a second bolus of crystalloid solution at 10-20 ml/kg/hr for 1 hour. After this second bolus, if there is improvement, then reduce the rate to 7-10 ml/kg/hr for 1—2 hours, and then continue to reduce as above.
+
+-If hematocrit decreases compared to the initial reference hematocrit (&lt 40% in children and adult females, &lt 45% in adult males), this indicates bleeding and the need to cross- match and transfuse blood as soon as possible (see Treatment for Hemorrhagic Complications)
+
+
+4. Further boluses of crystalloid or colloidal solutions may need to be given during the next 24 to 48 hours.
+
+Algorithm for the Treatment of Compensated Shock
+
+<image>figure_2.png</image>
+ 
+
+Management for patients admitted to the hospital with Hypotensive Shock.
+Patients with hypotensive shock should be managed more vigorously.
+
+1. Initiate intravenous fluid resuscitation with crystalloid or colloid solution (if available) at 20 ml/kg as a bolus given over 15 minutes to bring the patient out of shock as quickly as possible.
+
+2. If the patient's condition improves, give a crystalloid/colloid infusion of 10 ml/kg/hr for 1 hour, then continue with crystalloid infusion and gradually reduce
+
+-to 5—7 ml/kg/hr for 1-2 hours, then
+
+-to 3—5 ml/kg/hr for 2-4 hours and then
+
+-to 2-3 ml/kg/hr or less, which can be maintained for up to 24 to 48 hours (refer to Table 2) If vital signs are still unstable (shock persists), check hematocrit after the first bolus:
+
+-If hematocrit increases compared to the previous value or remains very high (> 50%), change intravenous fluids to colloid solutions at 10-20 ml/kg as a second bolus over V2 to 1 hour. After this dose, reduce the rate to 7—10 ml/kg/hr for 1—2 hours, then change back to crystalloid solution and reduce rate of infusion as mentioned above when the patient's condition improves.
+
+-If hematocrit decreases compared to the previous value (&lt 40% in children and adult females, &lt 45% in adult males), this indicates bleeding and the need to cross-match and transfuse blood as soon as possible (see treatment for hemorrhagic complications)
+
+4. Further boluses of fluids may need to be given during the next 24 hours. The rate and volume of each bolus infusion should be titrated to the clinical response. Patients with severe dengue should be admitted to the high dependency or intensive care area.
+
+Algorithm for the Treatment of Hypotensive Shock
+
+<image>figure_2.png</image> 
+
+
+c. Monitoring
+
+Patients with dengue shock should be frequently monitored, until the danger period is over. A detailed fluid balance of all input and output should be maintained.
+
+
+Notes:
+
+Interpretation of hematocrit: Changes in the hematocrit are a useful guide to treatment. However, it must be interpreted in parallel to the hemodynamic status, the clinical response to fluid therapy and the acid—base balance.
+
+—— > For example: A rising or persistently high hematocrit:
+
+-Together with unstable vital signs (particularly narrowing of the pulse pressure) indicates active plasma leakage and the need for a further bolus of fluid replacement
+
+-With stable hemodynamic status and adequate urine output, do not require extra intravenous fluid. Continue to monitor closely and it is likely that the hematocrit will start to fall within the next 24 hours as the plasma leakage stops.
+
+-- >For example: A decrease in hematocrit:
+
+- Together with unstable vital signs (particularly narrowing of the pulse pressure, tachycardia, metabolic acidosis, poor urine output) indicates major hemorrhage and the need for urgent blood transfusion
+
+- Together with stable hemodynamic status and adequate urine output indicates hemodilution and/or re—absorption of extravasated ﬂuids; intravenous fluids must be discontinued immediately to avoid pulmonary edema.
+
+C. TREATMENT OF HEMORRHAGIC COMPLICATIONS
+
+Mucosal bleeding may occur in any patient with dengue but if the patient remains stable with fluid resuscitation/replacement, it should be considered as minor. This usually improves rapidly during the recovery phase.
+
+In patients with profound thrombocytopenia, ensure strict bed rest and protection from trauma to reduce the risk of bleeding.
+
+Do not give intramuscular injections to avoid hematoma.
+
+Note: Prophylactic platelet transfusions for severe thrombocytopenia in otherwise hemodynamically stable patients are not necessary.
+
+If major bleeding occurs, it is usually from the gastrointestinal tract and/or per vagina in adult females. Internal bleeding may not become apparent for many hours until the first black stool is passed.
+
+Who are at risk of major bleeding? 
+-Patients with prolonged/refractory shock -Patients with hypotensive shock and renal or liver failure and/or severe and persistent metabolic acidosis
+
+-Patients given non—steroidal anti-inflammatory agents (NSAIDs)
+
+-Patients with pre—existing peptic ulcer disease
+
+
+-Patients on anticoagulant therapy
+-Patients with any form of trauma, including intra-muscular injection
+
+Note: Patients with hemolytic conditions will be at—risk for acute hemolysis with hemoglobinuria and will require blood transfusion.
+
+How to recognize severe bleeding
+
+-Persistent and/or severe overt bleeding in the presence of unstable hemodynamic status,
+regardless of the hematocrit level
+
+-A decrease in hematocrit after fluid resuscitation together with unstable hemodynamic status
+-Refractory shock that fail to respond to consecutive fluid resuscitation of 40-60 ml/kg.
+-Hypotensive shock with low/normal hematocrit before fluid resuscitation
+-Persistent or worsening metabolic acidosis i a well—maintained systolic blood pressure, especially in those with severe abdominal tenderness and distension.
+
+Action Plan
+
+-Give 5-lOml/kg of fresh packed red blood cells or 10-20 ml/kg of fresh whole blood at an appropriate rate and observe the clinical response.
+
+-A good clinical response includes improving hemodynamic status and acid—base balance. Consider repeating the blood transfusion if there is further blood loss or no appropriate rise in hematocrit after blood transfusion.
+
+-Although there is little evidence to support the practice of platelet concentrates and/or fresh frozen plasma transfusion for severe bleeding, they may be given judiciously.
+
+D. DISCHARGE CRITERIA
+
+ALL of the following conditions must be present:
+
+1. No fever for 48 hours
+
+2. Improvement in clinical status (general well-being, appetite, hemodynamic status, urine output, no respiratory distress)
+
+3. Increasing trend of platelet count
+
+4. Stable hematocrit without intravenous fluids
+
+ 
+Table 1. Hemodynamic Assessment: Continuum of Hemodynamic Changes
+
+<image>table_10.png</image> 
+<image>table_11.png</image> 
+<image>table_12.png</image> 
+<image>table_13.png</image> 
+ 
+
+ANNOTATIONS
+
+
+a. If Hct is not readily available, assess hemodynamic status of patient using parameters in Table 1.
+
+b. Assessment of improvement should be based on 7 parameters: mental status, heart rate, blood pressure, respiratory rate, capillary refill time, peripheral blood volume, extremities as described in Table 1.
+
+c. Crystalloids (Ringer’s lactate or 0.9 NaCl solutions) have been shown to be safe and as effective as colloid solutions (dextran, starch, or gelatin) in reducing the recurrence of shock and mortality. Crystalloids are comparable to colloids in terms of total amount of fluids used in resuscitation and need for both rescue fluid and diuretics so they should be used as first line in fluid resuscitation in moderately severe (compensated) dengue shock. Compared with crystalloids, colloids are associated with increased risk of allergic reactions and new bleeding manifestations and are more expensive. Although there is insufficient data to ascertain the advantage of one type of fluid in cases of severe dengue shock (DHF grade IV) or hypotensive (uncompensated) shock, colloids may be used in patients who primarily present with hemodynamic instability and as rescue fluids in those whose cardiovascular status do not improve after the initial fluid resuscitation.
+
+Crystalloids
+0.9% saline ["normal" saline]/NSS
+
+- Normal plasma chloride ranges from 95 to 105 mmol/L. 0.9% NaCl is a suitable option for initial fluid resuscitation, but repeated large volumes of 0.9% NaCl may lead to hyperchloremic acidosis. Hyperchloremic acidosis may aggravate or be confused with lactic acidosis from prolonged shock. Monitoring the chloride and lactate levels will help to identify this problem. When serum chloride level exceeds the normal range, it is advisable to change the other alternatives such as Ringer’s Lactate.
+
+Ringer's Lactate
+
+-Ringer's Lactate has lower sodium (131mmol/L) and chloride (ll5mmol/L) contents and osmolality of 273mOsm/L. It may not be suitable for resuscitation of patients with severe hyponatremia. However, it is a suitable solution after 0.9 NaCl has been given and the serum chloride level has exceeded the normal range. Ringer’s Lactate should probably be avoided in liver failure and patients taking metformin where lactate metabolism may be impaired.
+
+Colloids
+
+-The types of colloids are gelatin—based, dextran-based and starch-based solutions. One of the biggest concerns regarding their use is their impact on coagulation.
+
+- Dextrans may bind to von Willebrand factor/Factor VIII complex and impair coagulation the most. However, this was not observed to have clinical significance in fluid resuscitation in dengue shock. Dextran 40 can potentially cause an osmotic renal injury in hypovolemic patients.
+
+-Gelatin has the least effect on coagulation among all the colloids but the highest risk of allergic reactions. Allergic reactions such as fever, chills and rigors have also been observed in Dextran 70.
+
+
+Inotropes
+The use of inotropes should be decided on carefully and it should be started after adequate fluid volume has been administered.
+-To calculate the AMOUNT of Dopamine to be added to 100 ml of IV base solution:
+mg of Dopamine = 6 X desired dose lmcggkgﬁminl X weight[kg]
+desired fluid rate [ml/hr]
+
+ 
+- To calculate the VOLUME of drug to be added to 100 ml of IV base solution: ml. of Dopamine = mg of drug [determined using formula above] concentration of drug [mg/ml]
+- Preparation of Dopamine: 40 mg/ml; 80 mg/ml
+
+Other vasopressors in dengue shock:
+- Epinephrine
+-Preparation: 1:10.000
+- Dose : 0.1 to 2ug/kg per minute by IV/IO infusion (titrate to desired effect)
+
+- Norepinephrine
+0 Stock dose: 1 mg/mL
+0 Dose : 0.1 to 2ug/k per minute by IV/IO infusion (titrate to desired effect)
+
+e. Hypotension is defined as systolic blood pressure of &lt 90 mmHg or mean arterial pressure &lt 70 mmHg in adults or a systolic blood pressure decrease of  &gt 40 mmHg of &lt 2 standard deviation below normal for age; In children below 10 years of age the 5th centile for systolic blood pressure can be determined by the formula: Systolic Blood Pressure = 70 + [age in years X 2] mmHg.
+
+f. Urine output
+
+A good urine output indicates sufficient circulatory volume and may be used as an index or guide for decreasing the amount of fluid administered. An adequate urine output is at least 1 ml/kg/hr and urine specific gravity of 1.020 is ideal. However in the WHO Dengue Guidelines 2009, a urine output of 0.5 cc/kg/hr is considered acceptable and may have been chosen to avoid congestion in the course of the disease. Monitor urine output hourly till the patient is out of shock, then 1—2 hourly. Deliberate observation for a possible acute kidney injury/ acute renal failure must also be taken.
+
+g. Causes of fluid overload
+
+- Excessive and/or too rapid intravenous fluids
+
+- Incorrect use of hypotonic rather than isotonic crystalloid solution
+
+- Inappropriate use of large volumes of intravenous fluids in patients with unrecognized severe
+bleeding
+
+-Inappropriate transfusion of fresh-frozen plasma, platelet concentrates and cryoprecipitates
+
+-Continuation of intravenous fluids after plasma leakage has resolved [24-48 hours from defervescence]
+
+-Co-morbid conditions such as congenital or ischemic heart disease, chronic lung disease and renal disease
+
+h. Early clinical features of fluid overload
+
+-Respiratory distress, difficulty in breathing
+-Rapid breathing
+-Chest wall indrawing
+-Wheezing rather than crepitant rales
+-Large pleural effusions
+-Tense ascites
+-Increased jugular pressure
+-Hypertension
+
+
+
+REVISED DENGUE CLASSIFICATION
+
+<image>figure_4.png</image> 
+<image>table_14.png</image> 
+<image>table_15.png</image> 
+<image>table_16.png</image> 
+
+</body>
+

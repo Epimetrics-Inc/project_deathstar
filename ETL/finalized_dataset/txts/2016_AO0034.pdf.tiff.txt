@@ -1,0 +1,538 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>AUG 08, 2016</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2016 - 0034</docnum>
+
+
+<subject>SUBJECT: The New Implementing Guidelines of the Philippine National Formulary System (PNFS)</subject>
+
+
+<body>
+I. RATIONALE 
+
+The 1987 Philippine Constitution mandates the right of every Filipino to health. It enunciates the policy that “the State shall protect and promote the health of the people and instill health consciousness among them” (Article II Section 15). Moreover, it provides the adoption by the State of an “integrated and comprehensive approach to health development which shall endeavor to make essential goods, health and other social services accessible to all the people at affordable cost” (Article XII Section 15). 
+
+To support these goals, several policies and laws have been passed. These include Republic Act No. 6675 known as the Generics Act of 1988 that was enacted to “ensure the adequate supply of drugs with generic names at the lowest possible cost.” It further states that “in the promotion of the generic names for pharmaceutical products, special consideration shall be given to drugs and medicines which are included in the Essential Drugs List to be prepared within one hundred eighty (180) days from approval of this Act and updated quarterly by the Department of Health on the basis of health conditions obtaining in the Philippines as well as on internationally accepted criteria.” 
+
+Executive Order No. 49 (dated 21 January 1993, entitled “Directing the Mandatory Use of the Philippine National Formulary Volume I as the - Basis for Procurement of Drug Products by the Government”) strengthened the advocacy of the Generics Act by ensuring that only essential medicines identiﬁed in their generic names will be procured by all government institutions. 
+
+Administrative Order No. 163 s. 2002 (entitled “Implementing Guidelines and Procedures in the Procurement and Requisition of Drugs and Medicines by the Department of Health pursuant to Executive Order No. 49”) provides the procedural bases that ensure requisition of essential medicines by the Government sector and the decision system for the inclusion and deletion of medicines in the Philippine National Drug Formulary (PNDF). 
+
+The Philippine Health Insurance Corporation (PHIC) Board Resolution No. 265 (dated 15. July 1999) and the National Health Insurance Act of 2013 (Republic Act No. 7875 as amended by RA. No. 9241 and RA. No. 10606) provide that the PNDF Volume I shall be the basis for claims reimbursements for medicines both in the private and public sectors for equitable and efﬁcient use of limited resources. 
+
+The more recent RA 9502 enacted in 2008 provides additional power to the President of the Philippines to impose, upon the recommendation of the Secretary of Health, maximum retail prices over medicines that include, among others, the “drugs and medicines that are included in the Philippine National Drug Formulary Essential Drug List.” 
+
+The Philippine National Formulary continues to serve as the national reference for cost- effective and rational selection of the medicines which are vital in achieving optimal population health outcomes. Given the importance of the PNF in the attainment of universal access to quality essential medicines, the systems, procedures and processes to formulate and update the previous issuances, Administrative Order 2012-0023 (Revised Implementing Guidelines for the Philippine National Formulary System) and its addendum AO 2012-0023—A need to be reviewed and enhanced. 
+
+II. OBJECTIVES 
+
+This issuance aims to: 
+
+A. Describe the new systems and procedures for: 
+
+1. the selection of medicines to be included in or deleted from the Essential Drug List hereafter referred to as the National Essential Medicines list; 
+
+2. the development of the PNF manual which integrates the Essential Medicines List and Formulary monographs; and 
+
+3. the promotion of the use of the Formulary among the different levels of healthcare managers and providers and the consumers. 
+
+B. Reconstitute the Formulary COmmittee and describe the implementation arrangements of the Philippine National Formulary System (PNFS). 
+
+III. SCOPE 
+
+This Order shall be applicable to all health facilities, units and ofﬁces of the entire government sector as a basis for drug procurement. It shall also be applicable to the entire health sector (both government and private) as a reference guide for rational use of medicines and as a basis for reimbursement of medicines by the PHIC. 
+
+IV. DEFINITION OF TERMS 
+
+A. Essential Medicines- These are medicines that satisfy the priority health care needs of the population and which are selected based on the evidence of their efﬁcacy, safety and comparative cost-effectiveness. The DOH shall endeavor to make these available and affordable at all times. 
+
+B. Affordability- refers to the cost implications of including the drug in the Formulary expressed as total treatment cost per patient and budget impact to the government. 
+
+C. Budget Impact Analysis- estimates the ﬁnancial consequences of the adoption and diffusion of a new health-care intervention such as drugs/medicines within the local speciﬁc health-care setting context given inevitable resource constraints. 
+
+D. Conﬂict of Interest— a situation created when persons or entities in the public and/or private sectors that have personal, ﬁnancial, or any other interest in the pharmaceutical and/or medical device industry, such as but not limited to, having existing ownership or investment therein, being an ofﬁcer or a member of the Board of Directors of a corporation of a corporation (including its subsidiaries, afﬁliates and branches) or a partner in a partnership engaged therein, and receiving any contribution there from. This includes receiving or accepting any offer or contribution there from. 
+
+E. Cost- effective- a term that is applied to a drug or health technology when its overall health gain to the health system outweighs the opportunity costs of ﬁnding that drug or technology. 
+
+F. Evidence Review Group- composed of content and methods experts who shall evaluate medicines that are proposed to be included into or deleted from the PNF. 
+
+G. Health Technology Assessment- the systematic evaluation of properties, effects, and/or impacts of health technology to inform policy decision making. 
+
+H. Methods Manual— provides the principles and methods of health technology assessment that shall be undertaken to assess medicines that will be included into or deleted from the Formulary. 
+
+I. National Health Program (N HP) — health programs and disease control strategies developed and funded by the Department of Health for the prevention and management of diseases that are of public health importance. 
+
+J. Pharmaceutical Establishment— a sole proprietorship, a partnership, a corporation, an institution, an association, or an organization engaged in the manufacture, importation, exportation, sale, offer for sale, distribution, donation, transfer, use, testing, promotion, advertising, or Sponsorship of health products including the facilities and installations needed for its activities. 
+
+K. Scoping- a process of determining the scope of drug review with relevant stakeholders in terms of the population who will beneﬁt, the comparator or the current standard of care and the relevant health outcomes to be considered. 
+
+L. Systematic Review- a systematic search of all empirical evidence that would meet pre—speciﬁed eligibility criteria in order to answer a Speciﬁc research question. It involves an explicit reproducible methodology to assess the validity of the ﬁndings of the included studies. 
+
+M. Urgent health situation- requiring immediate action to prevent death, permanent disability or a major or irreversible organ dysfunction and for concerns that are of public health importance upon decision and endorsement of the Secretary of Health. 
+
+V. GENERAL GUIDELINES 
+
+A. The new edition of the Philippine National Drug Formulary Shall be referred to as the Philippine National Formulary (PNF), with its inputs, processes and outputs collectively referred to as the Philippine National Formulary System (PNF S). 
+
+B. The Formulary Committee Shall be reconstituted and hereafter referred to as the Philippine National Formulary Executive Council (PNFEC). 
+
+C. The process by which the PNFEC evaluates medicines shall be guided by the principles under the New Global Model for HTA Governance: ( 1) ethically sound, (2) scientiﬁcally rigorous, (3) transparent, (4) consistent, (5) independent, (6) contestable, and (7) timely and enforceable. 
+
+D. The PNFS shall be operationalized through the PNFEC with assistance from independent evidence review groups (ERGS) and a pool of Specialty experts. The Pharmaceutical Division through its Policy, Planning, Program Development and Research Unit shall provide secretariat support to the PNFEC. 
+
+E. The PNF Shall be developed and updated using the Formulary Selection Algorithm as well as the Methods Manual which shall describe the step-by-step selection procedure to be employed in determining the medicines to be included in or deleted from the Formulary. 
+
+F. Declaration of conﬂict of interest (Annex A) shall be mandatory to all persons who will be involved in any Formulary related activities (i.e., PNFEC members, Secretariat, ERG, consultees from hospitals professional associations and patient groups). 
+
+G. Prioritization criteria (Annex B) shall be developed by the PNFEC to determine which medicines will merit priority evaluation by the ERG. 
+
+H. Representatives from the pharmacy and therapeutics committee (PTC) of both public and private hospitals and professional medical societies recognized by the Philippine Medical Association (PMA) Shall be convened to help in the updating and review of the Formulary. 
+
+I. Applications for inclusion in the PNF shall emanate from the PTCs, professional medical societies, national health program (NHP) or Philhealth. For medicines disapproved for inclusion in the PNF or deleted from the PNF, all application for reconsideration shall include new or additional evidence—based data on the medicine. The PNFEC may consider holding a public forum when deliberating on the reconsideration of an application. 
+
+J. The PNF Manual shall include the following: (1) Guidelines on the Rational Use of Medicines, (2) National Essential Medicines List, and (3) Formulary Monographs. 
+
+1. The previously named PNDF Volumes 1-2 (Essential Medicines List and Formulary Monographs) Shall cease to exist as independent publications. Together with succinct guidelines on the rational use of medicines, the content of these previous volumes shall be integrated into a concise PNF Manual. PNDF Volume 3 or the cross reference index shall no longer be part of the new PNF, instead the Food and Drug Administration (FDA) website Shall serve as the reference for the available proprietary names of each drug molecule. 
+
+2. Two versions of the PNF Manual shall be published: (1) Essential medicines list (EML) for the Bids and Awards Committee (BAC) and (2) EML with prescribing information for each medicine which shall be classiﬁed whether it can be dispensed and administered at the (a) primary healthcare or (b) general hospital level. A legend for restricted antirnicrobials shall also be speciﬁed in the manual. 
+
+3. The PNF Manual shall be published upon the recommendation of the Assistant Secretary or Undersecretary of Health in charge of the Pharmaceutical Division and the approval of the Secretary of Health in accordance with the prescribed timelines established in the Generics Act of 1988 and the Cheaper Medicines Act of 2008. The Pharmaceutical Division shall be responsible for the cost of publication and dissemination of the PNF Manual. 
+
+K. The PNF Manual shall be made available in downloadable format from the ofﬁcial websites of the DOH, FDA, and the Pharmaceutical Division. 
+
+L. Only medicines listed in the PNF Manual shall be procured by all government entities in accordance with Executive Order No. 49 S. 1993. However, exemptions may be granted upon submission of the completed application form by the end user, e. g., DOH national programs and government hospitals, with justiﬁcation and subject to the approval of the Pharmaceutical Division Cluster Head upon the recommendation of the PNFEC based on the prescribed criteria. All NHPS that will request exemption of non-PNF medicines in volumes exceeding Php 500,000.00 in cost shall be subject to the approval of the Secretary of Health. 
+
+M. Medicines that shall be used in the rural health units, city health ofﬁces, inﬁrmaries and other primary healthcare facilities shall be restricted to only those that are classiﬁed under the Primary Healthcare category. 
+
+N. Medicines withdrawn from the Philippine market due to safety reasons shall be deemed delisted from the PNF Manual effective on the date of the order for withdrawal by the FDA. 
+
+VI. SPECIFIC GUIDELINES 
+
+A. Philippine National Formulary Executive Council 
+
+1. Composition: 
+
+a. The Philippine National Formulary Executive Council (PNFEC) shall consist of experts representing the broad scientiﬁc and societal perspectives that may impact on the judicious selection and use of medicines. It shall have as members respected individuals whose collective expertise shall cover the ﬁelds of pharmacology, toxicology, clinical epidemiology, pharmacy, clinical medicine, public health, law and medicine, health economics. 
+
+b. The number of Council members shall be odd and is to be determined by the Secretary of Health. 
+
+c. The members of the committee shall be co-terminus with the Secretary of Health (maximum), subject to reappointment by the new Secretary of Health. 
+
+d. The PNFEC shall have a Chairperson selected by the Secretary of Health from the members. The chair shall hold his/her position for a period not exceeding three (3) years, unless he/she relinquishes his/her position for reasons beyond his/her control. 
+
+2. Qualiﬁcations: 
+
+a. Persons of moral and intellectual integrity. 
+
+b. Recognized specialists in their ﬁeld of expertise. 
+
+c. Willingness to disclose conﬂicts of interest. 
+
+3. Disclosure of Conﬂicts of Interests: 
+
+The PNFEC members shall conform with the principles of integrity and shall therefore declare all circumstances with real or potential conﬂicts of interests and shall comply with the policy set up for declaring and managing such (Annex A). 
+
+4. Speciﬁc Functions: 
+
+a. The PNFEC shall identify which medicines need to be included in the Formulary based on a continuing review of local disease statistics from public and private hospitals and other health facilities, advice from the different specialty societies and input from the programs and ofﬁces of the Department of Health and other stakeholders. 
+
+b. The PNFEC shall prioritize which medicines to evaluate within the prescribed period using a prioritization tool (Annex B). 
+
+c. The PNFEC shall determine the research question of each medicine that will be evaluated by the ERG following the PICO format (population, intervention, comparator and outcome). 
+
+d. The PNFEC shall recommend for ofﬁcial approval to the Secretary of Health the medicines to be included into and deleted from the PNF. 
+
+5. The PNFEC shall meet at least once a month and shall follow a regular cycle of review for drugs being considered for inclusion in the PNF (Drug nomination, Prioritization of drugs, Scoping of Drug review, Evaluation/Assessment, Deliberation, Decision and Implementation). 
+
+6. The PNFEC shall conduct a continuous review of the Formulary with assistance from the ERG and/or the specialty experts (i.e., specialists, subspecialists, members of Pharmacy and Therapeutics Committee) as needed. 
+
+7. The PNFEC may recommend to the Pharmaceutical Division (PD) courses of action for a more comprehensive dissemination, monitoring and evaluation of the PNF. Monitoring of the dissemination and use of the Formulary Manual will be conducted regularly by the PD. 
+
+B. Evidence Review Groups 
+
+1. Compositions and Qualiﬁcations: 
+
+a. The evidence review groups (ERG) shall be composed of experts in clinical epidemiology, pharmacology, toxicology, pharmacoeconomics, health economics, health technology assessment (HTA), evidence-based medicine (EBM) and other related ﬁelds. 
+
+b. Qualiﬁcations of an evidence review expert include: 
+
+i. Active practice or teaching of evidence-based medicine; 
+ii. Willingness to declare and manage conﬂicts of interests; and 
+iii. Willingness to Sign the contract of service. 
+iv. Trained on EBM, health economics, HTA, pharmacoepiderniology 
+v. At least masters or doctorate degree holder in the above fields. 
+
+2. Functions: 
+
+a. The evidence review experts are tasked as necessary by the PNFEC to systematically review and analyze the results of beneﬁt- risk and efﬁciency analysis of medicines obtained from controlled clinical trials and sound epidemiologic studies. 
+
+b. Conduct economic evaluation as deemed necessary. 
+
+c. Develop evidence summary following the prescribed format set by the PNFEC. 
+
+d. Present the result of evaluation during PNFEC meetings. 
+
+C. Specialty Experts 
+
+1. Composition and Qualiﬁcations: 
+
+a. Specialty experts from various clinical and related disciplines with relevant years of experience and distinction in their ﬁelds. 
+b. Trained on EBM and/or epidemiology. 
+c. Willingness to declare and manage conﬂicts of interests. 
+
+2. Functions: 
+
+a. Provide expert opinion regarding a particular medicine; 
+b. Review and assist in the formulation of relevant clinical guidelines; 
+c. Provide assistance in the formulation of systems and procedures; and 
+d. Recommend to the PNFEC items for inclusion or deletion from the PNF. 
+
+
+D. Speciﬁc Guidelines for the Formulary Selection Algorithm 
+
+1. The PNFEC shall ensure that any medicine considered for inclusion in the PNF shall be assessed based on its beneﬁt- risk assessment (efﬁcacy and safety), cost—effectiveness affordability and local public health relevance. 
+
+2. The FDA shall provide the initial necessary data to the PNFEC to this effect, i.e. records of all medicines registered in the Philippine market covered with a Certiﬁcate of Product Registration (CPR). The FDA Shall likewise provide data on whether the medicine is available in the Philippine market or is still in the process of being registered. 
+
+3. The PNFEC shall continuously review the list of medicines in the PNF. The PNFEC shall submit to the Assistant Secretary or Undersecretary of Health in charge of PD the list of recommended medicines for inclusion in or deletion from the PNF. Such Shall be published in the DOH-PD website, upon the approval of the Secretary of Health. 
+
+4. The PNF adheres to the essential medicines list concept of the World Health Organization (WHO) which states that “essential medicines are those that satisfy the priority healthcare needs of the population.” As such, the major criteria for the selection of medicines in the PNF are: 
+
+a. Local public health context- the drug addresses a priority disease or unmet health care need as determined by the DOH in consultation with the stakeholders. 
+
+b. Burden of disease and avoidable burden of disease that shall be measured by its frequency, as indicated by its prevalence or incidence, and by its severity, as indicated by its quality—adjusted life years (QALY) or disability-adjusted life years (DALY) or, in their absence, a consensus of experts; 
+
+c. Comparative efﬁcacy and safety relative to the current standard of care or a medicine listed in the PNF indicated for the same condition. This shall be based on pharmacological studies including systematic reviews andfor meta-analysis of Phase III clinical trials; 
+
+d. Comparative cost-effectiveness— as a rule of thumb, the F EC sets an arbitrary threshold of less than or equal to one (1) GDP per capitaper QALY gained or DALY averted when evaluating potentially innovative treatments compared to the current standard of care which include the medicines listed in the PNF; 
+
+e. Affordability of the drug to DOH and Philhealth- pertains not only to the unit cost of the drug but also the treatment cost per patient and the overall potential budget impact if all patients eligible for that treatment are funded by the national government; and 
+
+f. Equity - the drug addresses the disease that places a great burden. on disadvantaged or special populations such as the poor, disabled, children, elderly, women, indigenous peoples that reﬂect the valuesthat should be considered by DOH policymakers as stipulated in existing DOH policies and national laws. 
+
+5. For medicines belonging to the same pharmacologic class, the following preferential factors shall be used in choosing the best possible medicine: 
+
+a. The medicine is the most thoroughly investigated and therefore the best understood with respect to its beneﬁts and risks; 
+
+b. The medicine possesses clinical utility for the treatment of more than one condition or disease; 
+
+c. The medicine has the most favorable pharmacokinetic properties, e.g., factors promoting better compliance or leading to lesser risk in various pathophysiological states; 
+
+d. The medicine has dosage forms that are, easy for the health staff to dispense or that are easily and safely administered to the patient; 
+
+e. The medicine is easy for the patient to take or promotes better compliance among most patients; and 
+
+f. The medicine and its dosage forms have favorable stability under the anticipated local conditions in storage facilities. 
+
+6. The medicines should be formulated as single compounds. Fixed-dose combinations, however, are acceptable only when: 
+
+a. The value of concomitant use of more than one medicine is rational and clinically documented; 
+
+b. At least equally effective or more cost—effective. The combination product is less than or does not exceed that of the sum of the individual products of the active ingredients of the combination. 
+
+c. Plus any of the following: 
+
+i. The combination provides an additive, synergistic and/ or complementary action; 
+ii. The combination has no additional adverse drug reactions; and 
+iii. The combination provides dosage convenience for better patient compliance. 
+
+7. Criteria for the exclusion or deletion of medicines from the PNF are as follows: 
+
+a. The medicine has been withdrawn from the FDA registry due to safety reasons; 
+b. A more effective or equally effective but less toxic medicine becomes available; 
+c. In light of new data, the therapeutic efﬁcacy of the medicine is found to be unsatisfactory; 
+d. Toxicity, suspected toxicity, potential for abuse and dangerous interactions outweigh the medicine‘s therapeutic value; 
+e. The medicine is no longer deemed cost-effective compared to other therapies; 
+f. The medicine is a ﬁxed—dose combination that does not satisfy the requirements of A0. 96 S. l 990 and the prescribed criteria of the PNFEC; or 
+g. Not affordable to the government (budget impact). 
+
+8. Exemptions 
+
+a. EO No. 49 s.1993 states that only medicines listed in the PNDF shall be procured by all government entities. Requests for exemptions will be considered provided that the medicine proposed for exemption meets all the criteria for exemption. There shall also be a simultaneous application ﬁled by the proponent for inclusion of the medicine in the PNF. 
+
+b. The application for exemption shall have the following as attached documents: 
+
+i. Accomplished proposal form that includes justiﬁcation, a report on disease burden and its ranking relative to the common diseases in the health facility or community; 
+ii. Soft/electronic cOpieS of all cited studies and published articles; and 
+iii. Other relevant documents (e. g. peer—reviewed local Philippine clinical practice guidelines which provides information on the indication or use of the product (preferred), excerpts from WHO documents or other formularies, etc., including photocopies of such). 
+
+c. Only requests for exemption submitted by the PTC of the requesting facility or the DOH National Health Program shall be accepted. 
+
+d. The request for exemption shall only be granted if it fulﬁlls ALL of the following criteria: 
+
+i. The medicine has proven safety and efﬁcacy. 
+ii. There is no other medicine listed in the formulary which is indicated for the same condition or appropriate for the current situation. 
+iii. The medicine will be used for an urgent health situation. 
+
+e. Potentially innovative medicines responding to a public health priority or where there are no other strategies or treatment to address a disease which is of grave public health importance may be granted an exemption provided that they have been tested in terms of clinical performance and safety, and have a certiﬁcate of product registration from the FDA. 
+
+f. The Undersecretary or Assistant Secretary in charge of PD shall approve or disapprove the request based on the recommendation of the PNFEC. In cases where the procurement would amount to Php 500,000 and above, the Secretary of Health shall be the approving authority. 
+
+g. The validity of the exemption is good for a period of one year or as prescribed, unless an adverse decision has been rendered regarding the application for inclusion. 
+
+Medicines not registered in the Philippines may be considered for exemption or inclusion in the PNF provided that they are needed to address a public health priority as determined by the Secretary of Health upon the recommendation of the PNFEC. Provided also that the medicine is registered in any stringent national regulatory authority (i.e., accredited by the Pharmaceutical Inspection Convention and Pharmaceutical Inspection Co-operation Scheme (jointly referred to as PIC/S)). 
+
+E. Process for Inclusion or Deletion of Medicines in the PNF 
+
+1. Drug Nomination 
+
+a. The following individuals or parties, hereto referred as the proponents, may request for application for inclusion or deletion of medicines; for additional indications, formulation, route of administration, dosage strength, net content and] or immediate packaging; as well as for exemptions: PNFEC; Units, Ofﬁces and Health Facilities directly under the supervision of the DOH and Health Facilities under the Local Government Units (LGUs); and professional medical societies recognized by the Philippine Medical Association (PMA). 
+
+b. The following timeline for submission of application and scoping shall be followed: 
+
+i. January — submission period of all applications for the year; 
+ii. February * presentation of applications to PNFEC; and 
+iii. March — presentation of prioritized drugs and their corresponding research questions to stakeholders through public consultation. 
+
+c. The proponents Shall submit Letters of Requests and accomplish the appropriate Proposal Forms prescribed by the PNFEC. These are the following forms: 
+
+i. PNF Form No.1 (Letter of Request and Proposal Form for Inclusion) hereto appended as Annex C. 
+ii. PNF Form No. 2 (Letter of Request and Proposal Form for Deletion of Medicine from the PNF) hereto appended aS Annex D. 
+iii. PNF Form No. 3 (Letter of Request and Proposal Form for Exemption from E0. No. 49 S. 1993) hereto appended as Annex E. 
+
+The above forms may be downloaded from the PD website. 
+
+d. The proponents shall likewise submit two (2) hard and soft copies each of the following documents required by the PNFEC, to wit: 
+
+i. Accomplished proposal form; 
+
+ii. Soft/Electronic copies of all cited studies and published articles; 
+
+iii. Systematic Review (preferably Cochrane) or Meta-analysis or at least Phase III Randomized Controlled Clinical Trials; and 
+
+iv. Other relevant documents (e.g. peer-reviewed local Philippine clinical practice guidelines which provides information on the indication or use of the product (preferred), excerpts from WHO documents or other formularies, etc., including photocopies of such). 
+
+e. Proposal Forms shall include the following: 
+
+i. General information on the medicine; 
+ii. Speciﬁc request; 
+iii. Summary of justiﬁcation for request; 
+iv. References for clinical efﬁcacy and safety proﬁle; 
+v. Details required for cost-effectiveness assessment; and 
+vi. Copies of all cited scientiﬁc journal articles, entries, other accepted legal documents and other supporting publications. 
+
+f. Medicines deemed essential for a speciﬁc DOH health facility or are for speciﬁc DOH program/project must be explicitly certiﬁed as essential by the DOH requesting unit. These medicines Shall be prioritized for evaluation by the PNFEC. The NHP shall be required to submit the following documents in lieu of the abovementioned requirements: (1) letter of request with justiﬁcation; (2) local or international clinical practice guidelines and (3) WHO recommendation, if available. 
+
+2. Prioritization of Drugs 
+
+a. The PNFEC, upon receipt of the Letter of Request and Proposal Form duly classiﬁed by the Secretariat, shall proceed with the prioritization of the request following the tool attached herein as Annex B. Only applications for inclusion shall undergo the prioritization process. - 
+
+b. Medicines classiﬁed as non-priority medicines shall be recommended for disapproval. 
+
+3. Scoping of Drug Evaluations/ Assessments 
+
+a. A research question shall be developed by the Council for each of the prioritized medicine with regard to the appropriateness of the target population, comparator and clinically relevant outcomes. 
+
+b. Public consultation shall be conducted to inform and elicit feedback on the list of prioritized medicines and their corresponding research question. 
+
+4. Evaluation and Assessment 
+
+a. The Council shall follow the process ﬂow with timelines as detailed in Annexes G and H. 
+
+b. The ERG shall develop an evidence summary together with an evidence table for each evaluation. The evidence summary Shall consist of the following parts: (1) burden of disease; (2) clinical evidence; (3) cost analysis; (4) ﬁnal recommendation; and (5) references. 
+
+c. If deemed necessary by the Council, a pharmacoeconomic evaluation may be conducted. This is deﬁned as the comparative analysis of alternative courses of action in terms of both costs (resource use) and consequences (outcomes, effects). This may pertain to (1) cost minimization analysis, (2) cost utility analysis, (3) cost—effectiveness analysis and (4) cost—beneﬁt analysis. 
+
+d. A budget impact analysis shall be conducted especially for high cost medicines to guide the PNFEC in making a recommendation on the feasibility and sustainability of ﬁnancing the drug through government procurement or Philhealth reimbursement. 
+
+5. Deliberation 
+
+a. The Council Shall recommend the inclusion or deletion of a certain medicine based on the aforementioned criteria under the Speciﬁc Guidelines for the F ormulary Selection Algorithm. 
+
+b. The ﬁnal recommendation shall be obtained through a majority (50% + 1) vote provided that there is a quorum. In the absence of a quorum and in an urgent situation, votation through ad referendum may be conducted. 
+
+c. A period of 30 working days shall be allowed for reconsideration on the recommendations of the Council. All submissions Shall still emanate from the PTC or professional medical societies. 
+
+d. For appeals, the proponent shall submit a letter of justiﬁcation for reconsideration based on the following parameters: new evidence on safety, efﬁcacy or price. 
+
+6. Decision 
+
+a. The recommendations of the Council shall be endorsed by the cluster head in charge of the Pharmaceutical Division to the Secretary of Health. 
+
+b. The inclusion or disapproval of a medicine in the PNF Shall be considered ofﬁcial once signed with ﬁnality by the Secretary of Health. 
+
+7. Implementation 
+
+a. A corresponding Department Memorandum shall be drafted for all the decisions of the Secretary of Health. This shall be signed by the cluster head in charge of the Pharmaceutical Division. 
+
+b. The Issuance shall be disseminated to all DOH Regional Ofﬁces, Philhealth, government and private health facilities and other concerned institutions. 
+
+c. All evidence summaries, PNF-related issuances or announcements and the decisions of the Secretary of Health shall be posted on the DOH-PD website and disseminated to the stakeholders. PNF updates Shall be presented during the quarterly meetings of the Advisory Council. 
+
+F. PNF Formats and Publication 
+
+1. The PNF Manual shall consist of the following: 
+
+a. National Essential Medicines List; and 
+b. Formulary Monographs. 
+
+2. The Formulary lists the medicines according to Therapeutic Categories and the following information will be provided for each medicine in the Manual: 
+
+a Generic name; 
+b. Brief pharmacodynamic and pharmacokinetic data; 
+c. Accepted indications; 
+d. Contraindications; 
+e. Precautions; 
+f. Adverse reactions; 
+g. Clinically signiﬁcant drug interactions; 
+h. Weight and/or age speciﬁc dosage recommendations and dose adjustments for patients with renal or hepatic disease; 
+i. Approved drug preparations; and 
+j. Other recommendations regarding proper intake. 
+
+3. Succinct guidelines on the safe and rational use of medicines for the management of the priority diseases shall be included. 
+
+4. A list of restricted antimicrobials identiﬁed by the Formulary Executive Council and the National Antibiotic Guidelines Committee shall be part of the PNF manual. 
+
+5. PNF updates shall be posted on the DOH website and such shall be considered as an integral part of the currently published PNF. The EML for BAC and EML with full prescribing information shall be printed annually and every three years, respectively, subject to the availability of funds and the usual accounting and auditing rules and regulations. 
+
+6. An online version and mobile application of the PNF shall be made available. These shall contain the abovementioned information together with the latest data of the Drug Price Reference Index (DPRI). 
+
+VII. IMPLEMENTATION ARRANGEMENTS 
+
+A. Roles and Responsibilities 
+
+1. Ofﬁce of the Secretary 
+
+The Secretary of Health shall make the ﬁnal review prior to the approval or disapproval of the recommendations of the PNFEC through the Undersecretary or Assistant Secretary on the PNF. 
+
+2. Undersecretary or Assistant Secretary 
+
+The Assistant Secretary or Undersecretary of Health in charge of PD shall provide oversight functions to the PNFEC. 
+
+3. Pharmaceutical Division 
+
+a. Chief 
+
+i. Shall assist the Undersecretary or Assistant Secretary in the provision of oversight functions to the PNFEC; 
+
+ii. Shall undertake overall management of the PNFS Secretariat ﬁmction including but not limited to the planning, budgeting, controlling and monitoring processes; and 
+
+iii. Shall undertake overall coordination with internal and external partners. 
+
+b. Head of the Policy, Flaming, Program Development and Research Section 
+
+i. Shall undertake day to day management of the PNFS Secretariat function; 
+
+ii. Shall monitor implementation of the plan of the PNFS Secretariat and address potential and actual delays in implementation; and 
+
+iii. Evaluates performance of the PNFS Secretariat. 
+
+c. The Policy, Planning, Program Development and Research Section staff: 
+
+i. Shall provide technical and administrative support to the PNFEC; 
+
+ii. Shall formulate the annual work and ﬁnancial plan pertinent to the updating of the PNF S; and 
+
+iii. Shall implement the above- mentioned plan, monitor implementation and formulate catch-up plans in case of delay in implementation. 
+
+4. Formulary Executive Council 
+
+a. The PNFEC shall establish the systems and procedures of the PNFS. 
+
+b. The PNFEC shall review all applications submitted for inclusion in or deletion from the PNF or exemption from EC. No. 49 3.1993 and make appropriate recommendations to the Secretary of Health thru the concerned Undersecretary or Assistant Secretary. 
+
+5. Evidence Review Groups (ERGS) shall prepare the evidence summaries and perform facilitated/rapid reviews pertaining to the medicines under deliberation as requested by PNF EC. 
+
+6. A pool of specialty experts on various disciplines shall provide inputs during the deliberations when called upon by the PNFEC. 
+
+7. A representative from the FDA, the Philippine Health Insurance Corporation (PHIC), Research Institute for Tropical Medicine (RITM) and other agencies that may be deemed necessary by the PNFEC chairperson or the Secretary of Health may be called upon to serve as resource persons during PNFEC deliberations. 
+
+8. The following Bureaus and Centers of this Department are instructed to fully support the PNFS and comply with the provisions stated in Executive Order No. 49 as applicable: 
+
+a. The Food and Drug Administration (FDA) shall provide the necessary technical input and essential data requirements such as relative availability of drugs in terms of market authorizations, as deemed necessary by the PNFEC. It shall also ensure that all drug establishments have the latest edition of the PNF manual as part of licensing requirement. 
+
+b. Philippine Health Insurance Corporation (PHIC) — shall use the PNF as the basis for payments of in-patient and out-patient beneﬁts schemes for medicines and in the accreditation of health facilities and pharmacies for drug reimbursements; conduct price negotiation; provide inputs on the capability of the government to fund medicines (affordability); conduct prescription audit. 
+
+c. Research Institute for Tropical Medicine (RITM) — shall provide timely information on the trends in resistance rates of microorganisms to antimicrobials and latest researches in the prevention, diagnosis and treatment of tropical diseases including vaccines for the control of vaccine-preventable diseases of public health importance. 
+
+d. Disease Prevention and Control Bureau (DPCB) — shall provide information on trends of diseases being monitored. It shall likewise promote the use of PNF in all its programs speciﬁcally ensuring that medicines used in the clinical practice guidelines (CPGs) or standard treatment guidelines (STGs) are those listed in the PNF. 
+
+e. Health Facilities Development Bureau (HF DB) — shall ensure that public health facilities through their Pharmacy and Therapeutics Committees (PTCs) comply with the mandatory use of the PNF. It shall also assist in monitoring compliance with PNF use in health facilities. 
+
+f. Health Facilities Services and Regulatory Bureau (HFSRB) — shall ensure that the tool in licensing public and private health facilities include compliance with the mandatory use of the PNF. 
+
+g. Health Human Resource Development Bureau (HHRDB) ﬂshall advocate for a transformative curriculum which shall include the use of PNF and rational management of medicines by health professionals. They shall develop and provide continuing professional education trainings that promote the use of the PNF
+
+h. Central Ofﬁce Bids and Awards Committee/ Logistics Management Division (COBAC/LMD) — shall ensure the use of PNF as basis for objective, transparent and efﬁcient processes in the DOH procurement and distribution of medicines. 
+
+i. DOH Regional Ofﬁce — shall implement and monitor the mandatory use of PNF in its procurement. It shall also report and give feedback on the status of PNF use in their areas of jurisdiction. 
+
+9. This Department shall closely coordinate with the Department of Interior and Local Government (DILG) to ensure compliance with the mandatory use of PNF in the medicines procurement of LGUs and to assist the DOH in the monitoring and evaluation of the PNF use. 
+
+10. The Local Government Units (LGUs) shall comply with the use of PNF by their respective Bids and Award Committees (BAC) in their medicines procurement and shall submit reports to the DOH on the monitoring and evaluation of the use of the PNF in LGUs. 
+
+11. Government entities including Government Owned and Controlled Corporations (GOCCS) and those under public-private partnership arrangement with these agencies shall comply with the mandatory use of PNF in procuring medicines. 
+
+12. The Commission on Audit (COA) shall ensure the use of PNF as the basis for the procurement of medicines by all government agencies and shall provide the necessary sanctions if violations are committed. 
+
+B. Mandatory Use of the PNF 
+
+1. All government pharmaceutical establishments and health facilities must have a copy of the PNF Manual. The PNF Manual shall be the basis of the drug establishment’s in-patient counseling and shall be used in giving consumer advice when information about essential medicines is demanded. 
+
+2. Only those reﬂected in the PNF Manual can be requisitioned in the procurement of medicines by all government agencies, i.e. national government agencies and the health facilities under their supervision, government health facilities under the supervision and control of the DOH, devolved health facilities under the Local Government Units and GOCCs. 
+
+3. Every Requisition and Issue Slip (RIS) and Procurement Request (PR), including purchases in times of emergency and authorized under the General Appropriations Act, shall be accompanied by a certiﬁcation from the requisitioning ofﬁcer or by the duly authorized ofﬁcer indicating that the products fall within and conform with the latest edition of the PNF Manual. 
+
+4. Medicines not reﬂected in the printed PNF Manual may still be procured as long as these are approved by the Secretary of Health for inclusion in the upcoming edition of the PNF and if such products are already posted in the PD website. Medicines approved for inclusion in an upcoming edition of the PNF Manual must be covered with the appropriate Department Memorandum and other instruments of announcements, which shall be disseminated to all public and private health facilities as well as other government drug procuring entities. 
+
+5. Only medicines listed in the PNF Manual shall be considered for reimbursement or subsidy by the Philippine Health Insurance Corporation (PHIC) for the entire health sector — government and private. 
+
+6. Restricted antimicrobials may only be procured by health facilities that satisfy any of the following conditions: (1) presence of an Infection Control Committee whose chairperson is a physician and DOH—trained on Antimicrobial Stewardship; or (2) presence of a board certiﬁed infectious disease specialist who shall authorize the use of the drug as clinically needed. 
+
+7. Medical practitioners and all potential end-users shall avail of a copy of the PNF Manual or download it from the DOH or PD website. 
+
+C. Coordinating Instructions 
+
+1. The PD shall coordinate with the Commission on Audit so that auditors/heads of auditing units shall monitor compliance thereto and shall disallow claims/reimbursements either from regular budget, local/trust funds covering the procurements of drugs and medicines which are not within the latest edition of the PNF. 
+
+2. The PD shall conduct an Information, Education and Communication (IEC) campaign targeting all drug establishments, patients, doctors/ prescribers, dispensers, and government procuring entities within one (1) year from the effectivity of this Order to ensure smooth compliance. 
+
+3. Any violation in the compliance of this Order may be subject to the penalties provided in Section 12 of RA 6675 as amended by RA 9502. 
+
+VIII. TRANSITORY PROVISION 
+
+There are still a substantial number of drug applications pending review from the previous years, hence, the timeline provided under Section E of the Speciﬁc Guidelines shall take effect in 2017. Submission of applications shall commence in January 2017. However, for medicines that have no alternative in the Formulary or if there is an urgent need as determined by the PNFEC, applications therefor may be accepted. All other provisions shall take effect pursuant to the Effectivity provision. 
+
+IX. SEPARABILITY CLAUSE 
+
+If any provision in these Guidelines, or application of such provision to any circumstance, is held invalid, the remainder of these Guidelines shall not be affected thereby. 
+
+X. REPEALING CLAUSE 
+
+AO 2012-0023 and A0 2012-0023-A are hereby repealed by this Order. All other issuances inconsistent with the provisions of this Order are hereby repealed/rescinded and modiﬁed accordingly. 
+
+XI. EFFECTIVITY 
+
+This Order shall be effective within ﬁfteen (15) days from publication in the Ofﬁcial Gazette. ' 
+</body>
+
+<sign>JANETTE P. LORETO-GARIN, MD, MBA-H</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<image>figure_1.png</image>
+<image>figure_2.png</image>
+<image>figure_3.png</image>
+<image>figure_4.png</image>
+<image>figure_5.png</image>
+<image>figure_6.png</image>
+<image>figure_7.png</image>
+<image>figure_8.png</image>
+<image>figure_9.png</image>
+<image>figure_10.png</image>
+<image>figure_11.png</image>
+<image>figure_12.png</image>
+<image>figure_13.png</image>
+<image>figure_14.png</image>
+<image>figure_15.png</image>
+<image>figure_16.png</image>
+<image>figure_17.png</image>
+<image>figure_18.png</image>
+<image>figure_19.png</image>
+<image>figure_20.png</image>
+<image>figure_21.png</image>
+<image>figure_22.png</image>
+<image>figure_23.png</image>
+<image>figure_24.png</image>

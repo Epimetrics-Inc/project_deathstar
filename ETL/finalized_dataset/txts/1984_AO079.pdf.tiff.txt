@@ -1,0 +1,30 @@
+﻿
+Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>February 6, 1984</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 79, s. 1984</docnum>
+
+<subject>Subject: Authority for the Provincial Health Officers to Deputies Special Collecting Officers to collect fees and charges of the BUREAU OF FOOD AND DRUGS (Food and Drug Administration), and the guidelines in the collection and remittance of the same revenues. Population Offices re sterilization subsidy.</subject>
+
+       <body>Effective immediately, all provincial Health Officers are hereby authorized to deputize the Special Collecting Officers of their respective provinces to handle the collection and remittances of fees and charges of the Bureau of Food and Drugs.
+       	The provincial Health Officers and Deputized Special Collecting Officers shall observe the following guidelines in the collection and remittance of the said revenues:
+       	1. All deputized collecting officers shall be adequately and properly bonded;
+       	2. The provincial Health Officer shall approve the Requisition and Issue Voucher (RIV) for Official Receipts to be used in the collection of fees and charges of the Bureau of Food and Drugs (BFAD) which shall be forwarded to BFAD, San Lazaro Compound, Sta. Cruz, Manila, for proper issuance of accountable official receipts pads;
+       	3. Only official receipts marked in the name of Bureau of Food and Drugs shall be used in collecting fees and charges of the said Bureau;
+       	4. All collections shall be deposited regularly and intact to any government depository banks such as the Philippine National Bank, Philippine Veterans Bank, Land Bank, etc.
+       	5. The Remittance Advice shall indicate the Bureau of Food and Drugs as the agency to be credited and using its agency code No. A-579; and
+       	6. The following monthly reports shall be submitted to the said Bureau:
+       		a. Monthly Report of Accountability (Gen. Form No. 16(A)-on Accountable Forms; and 
+       		b. Monthly Report of Collection (Gen. Form No. 99), including the following documents:
+       		1. Duplicate copies of Official Receipts issued.
+       		2. Duplicate copies of validated Remittance advice.
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>

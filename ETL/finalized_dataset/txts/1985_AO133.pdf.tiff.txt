@@ -1,0 +1,51 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>9/10/1985</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 133,s. 1985</docnum>
+
+
+<subject>
+SUBJECT: Guidelines on the evaluation and registration of fixed Dose Combination drugs.</subject>
+
+
+<body>
+       FIXED-DOSE COMBINATION drugs are pharmaceutical preparations consisting of two or more ingredients possessing similar or different pharmacologic actions.
+
+       The advantages offered by fixed dose combinations in simplifying prescribing, encouraging patient compliance, reducing cost and in general, simplifying therapy is well recognized and accepted. However, in order to be acceptable for registration, a combination should not be in conflict with any  of the following principles:
+
+1. There should be pharmaceutical (chemical and/or physical) compat1b111ty of the active ingredients in the preparation to ensure stability
+
+
+2. There is significant number of patients whose dosage requirements of the individual ingredients are satisfied by the dosage recommended for the fixed—dose combination.
+
+3. The combination should prov1de one or more of the following
+
+advantages:
+a) an additive, synergistic and/or complementary action
+b) reduction of adverse drug reactions; and
+c) dosage convenience for better patient compliance.
+
+ 
+       The data requirements for registration of the fixed—dose combination drugs are as follows:
+1. Rationale of the combination based on the above guidelines
+2. Information on the pharmaceutical, pharmacological, therapeutic and adverse properties.
+3. Toxicological studies of the combination compared with the individual components.
+4. Bioequivalence or Bioavailability Data, where applicable to be done on Filipino patients.
+	
+	This Administrative Order shall take effect immediately.
+
+</body>  
+
+Recommended by:
+<sign>CATALINA C. SANCHEZ</sign>
+<signtitle>Director</signtitle>
+Approved by:
+<sign>J.C. AZURIN</sign>
+<signtitle>Minister of Health </signtitle>

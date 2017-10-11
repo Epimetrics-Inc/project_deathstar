@@ -1,0 +1,683 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+SAN LAZARO COMPOUND
+RIZAL AVENUE, STA. CRUZ
+MANILA, PHILIPPINES
+TEL. NO. 711-60-80
+
+<date>08/05/1994</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 35 SERIES OF 1994</docnum>
+
+<subject>REQUIREMENTS FOR THE CONTROL OF RADIATION HAZARDS FROM CLINICAL DIAGNOSTIC X-RAY FACILITIES</subject>
+
+<body>
+1 SCOPE
+
+These requirements shall apply to all clinical diagnostic x-ray facilities.
+
+2 DEFINITION OF TERMS
+
+For the purpose of these requirements, the following definition of terms shall apply:
+
+2.l Shall and shall not are used to indicate that adherence to the requirement is considered mandatory to meet accepted standards of protection.
+
+2.2 Should and should not are used to indicate a prudent practice to winch exceptions may occasionally be made in appropriate circumstances.
+
+2.3 Absorbed Dose is the energy imparted per unit mass by ionizing radiation to matter at a specified point. The SI unit of absorbed dose is joule per kilogram (J/kg). The special name for this unit is gray (Gy). Another special unit of absorbed dose, rad, is related to gray by: 1 rad = 0.01 Gy. 1 Gy = 100 rads.
+
+2.4 Beam limiting device is a device which restricts the dimensions of the x—ray beam such as cone, fixed diaphragm, light beam diaphragm, etc.
+
+2.5 Conventional Tomographic Machine is an x-ray machine used to show in detail the images of structures lying in a predetermined plane of tissue, while blurring or eliminating details in images of structures in other planes.
+
+2.6 Cardiac Radiological Machine is an x-ray machine that is specifically intended for the radiological examination of the heart or for the interventional x-ray procedure that involved the heart.
+
+2.7 Cinefluorography/cineradiography means the production of motion picture photographic records of the image formed on the output phosphor of an image intensifier by the action of x-rays transmitted through the patient.
+
+2.8 Computed Tomographic Machine is an x-ray machine that uses multiple x-ray transmission measurements and a computer program to generate tomographic images of the patient.
+
+2.9 Dead-man switch or a spring loaded type switch is a switch so constructed that a circuit-closing contact can be maintained only by continuous pressure on the switch.
+
+2.10 Dose Equivalent is a quantity, defined for radiation protection purposes, which is the product of the absorbed dose to the tissue and a quality factor "Q" determined for the properties of the radiation that produced the absorbed dose. For x-rays, gamma rays and electrons, Q=1 and dose equivalent values are numerically equal to absorbed dose values when consistent units are used for both quantities. Another special unit of dose equivalent is rem and is related to sievert (Sv) by 1 Sv = 100 rems.
+
+2.11 Effective Dose Equivalent (H_E) is the sum over specified tissues of the products of the dose equivalent (H) in a tissue (T) and the weighing factor for that tissue (ω_T), i.e., H_E = ∑ ω_T H_T (NCRP, 1987a). Also H_E = H_wb
+
+2.12 Exposure is a measure of the quantity of x or gamma radiation based upon its ability to ionize air through which it passes. The SI unit of exposure is the coulomb per kilogram. Another special unit of exposure, the roentgen is related to coulomb per kilogram by: 1 roentgen = 2.58 x 10^-4 C kg^-1.
+
+2.13 Exposure Rate is the quantity of exposure per unit time.
+
+2.14 Facility shall refer to clinical diagnostic x-ray facilities.
+
+2.15 Filter/filtration is a material which absorbs preferentially the less penetrating radiation in the useful beam.
+
+2.16 Inherent filter is a filter permanently in the useful beam; it includes the window of the x-ray tube and any permanent enclosure for the tube.
+
+2.17 Added filter is a filter in addition to the inherent filtration.
+
+2.18 Total filter is th sum of the inherent filter and the added filters.
+
+2.19 Fluoroscopic equipment is an x-ray machine which is used to view continuously the dynamic processes of the body.
+
+2.20 Gonad shield is a radiation absorbing material which is used to reduce the radiation exposure to the gonads.
+
+2.21 Half Value Layer (HVL) is the thickness of a specified material which, when introduced into the path of a given beam of radiation will reduce the exposure rate by one half.
+
+2.22 Head of the facility is the physician in-charge of the activities of the facility who has the qualifications stated in section 4.1.2.
+
+2.23 Image Intensifier is an x-ray image receptor which increases the brightness of a fluoroscopic image by electronic amplification and image minification.
+
+2.24 Lead equivalence is the thickness of lead affording the same attenuation, under specified conditions, as the material in question.
+
+2.25 Leakage radiation is radiation coming from within the x-ray tube assembly except for the useful beam
+
+2.26 Leakage technique factors are specific technique factors (associated with specific source assemblies) which are used in measuring leakage radiation. For diagnostic source assemblies, they are defined as follows:
+
+2.26.1 for capacitor energy storage equipment, the maximum rated kV and the maximum rated number of exposures in an hour at the maximum rated kV with the mAs being the greater of 10 mAs the minimum mAs (allows greatest exposure in an hour) available.
+
+2.26.2 for field emission equipment rated for pulsed operation, the maximum rated number of pulses in an hour at the maximum kVp.
+
+2.26.3 for all types of equipment, the maximum rated kVp and the maximum rated continuous tube current for the maximum kVp.
+
+2.27 Light beam diaphragm is a beam limiting device with adjustable aperture sized provided with a light beam indicator where the field coincides with the radiation field.
+
+2.28 Mammographic x-ray machine is an x-ray machine that is specially designed and intended for radiographic examination of the breast only.
+
+2.29 Medical Physicist is an individual who has completed at least 24 units of the M.S. Medical Physics course and is in-charge of medical and/or health physics work in a radiology department.
+
+2.30 Transportable X-ray Facility is an x-ray facility with an x-ray machine permanently mounted inside a properly shielded vehicle.
+
+2.31 Mobile X-ray Machine is an x-ray machine that is permanently mounted on wheels and can be moved with reasonable ease.
+
+2.32 Owner/licensee is a person, association, partnership or corporation licensed by the Department of Health to operate an maintain an x-ray facility.
+
+2.33 Personal Monitor is an appropriately sensitive device (e.g. film badge, TLD badge, pocket dosimeter) used to estimate the radiation dose received by an individual.
+
+2.34 Portable X-ray Machine is an x-ray machine that is capable of being carried by not more than one able-bodied person.
+
+2.35 Protective apron is an apron made of radiation absorbing materials used to reduce radiation exposure.
+
+2.36 Protective barrier is a barrier made of radiation absorbing materials used to reduce radiation exposure.
+
+2.37 Protective glove is a glove or hand shield made of radiation absorbing material used to reduce radiation exposure to the hand.
+
+2.38 Radiation Safety Officer is a person responsible for the conduct of radiation safety programs in an x-ray facility who is either a medical physicist, a qualified physician described in sub-clause 4.1.3 or a radiologic or x-ray technologist described in sub-clause 4.1.3.
+
+2.39 Serial Radiography is a radiographic exposure in which a sequence of radiographs is made rapidly by using an automatic cassette changer, image intensifier/TV chain, etc.
+
+2.40 Slice is a single body section images in a tomography procedure.
+
+2.41 Tube Assembly is that part of the x-ray machine consisting of the tube housing and the tube insert where the cathode and anode assembly are found.
+
+2.42 X-ray/Radiologic Technologist is a person who is qualified to use or operate an x-ray machine in accordance with section 4.1.2.
+
+2.43 X-ray Service Engineer/Technician is an individual with knowledge and skills in the repair and maintenance of x-ray machines and with training in radiation protection.
+
+2.44 X-ray Examination is a procedure done to help in patient diagnosis using x-ray emitting devices.
+
+2.45 X-ray Machine/Device is an apparatus equipped with a high vacuum tube that produces x-ray by bombarding a target, usually metallic, with fast moving electrons.
+
+3. CLASSIFICATION OF MEDICAL DIAGNOSTIC X-RAY FACILITIES
+
+3.1 For the purpose of these requirements, medical diagnostic x-ray facilities shall be classified as:
+
+3.1.1 FIRST LEVEL - are those facilities capable of performing any of the following non-contrast x-ray examination of the chest, bone and abdomen.
+
+3.1.1.1 Chest for Heart & Lungs
+3.1.1.2 Extremities
+3.1.1.3 Skull
+3.1.1.4 Vertebral Column
+3.1.1.5 Pelvis
+3.1.1.6 Shoulder Girdle
+3.1.1.7 Thoracic Cage
+3.1.1.8 Abdomen
+3.1.1.9 Localization of Foreign Body
+
+3.1.2 SECOND LEVEL - are those facilities capable of performing any x-ray examination done in the First Level category and any of the following non-contrast and contrast examinations.
+
+3.1.2.1 Upper gastrointestinal series
+3.1.2.2 Small intestinal Series
+3.1.2.3 Barium Enema (Large Intestinal series)
+3.1.2.4 Hysterosalpingography
+3.1.2.5 Oral Cholegraphy
+3.1.2.6 Esophagography (Barium Swallow)
+3.1.2.7 Pelvimetry
+3.1.2.8 Fetography
+3.1.2.9 Cardiac Studies with Barium
+3.1.2.10 Myelography
+3.1.2.11 Paranasal Sinuses
+3.1.2.12 Scoliotic Series
+3.1.2.13 Skeletal Survey
+3.1.2.14 Imperforated Anus
+3.1.2.15 Intravenous Pylography
+
+3.1.3 THIRD LEVEL - are those x-ray facilities capable of performing any x-ray examination in the First Level and Second Level category and any of the following invasive procedures:
+
+3.1.3.1 Sinugraphy
+3.1.3.2 Fistulography
+3.1.3.3 Sialography
+3.1.3.4 Operative and Post Operative Cholengiography
+3.1.3.5 Endoscopic Retrograde Cholangiographic Pancreatography (ERCP)
+3.1.3.6 Retrograde Urography
+3.1.3.7 Retrograde Cystography
+3.1.3.8 All Non-cardiac Percutaneous Procedures
+3.1.3.9 Cerebral Angiography
+3.1.3.10 Visceral & Peripheral Angiography
+3.1.3.11 Lymphography
+3.1.3.12 Bronchography
+3.1.3.13 Tomography
+3.1.3.14 Pace-maker Implants
+
+3.1.4 SPECIALIZED - are those facilities capable of performing any x-ray examination done with a dedicated x-ray unit such as:
+
+3.1.4.1 Digital Subtraction Angiography
+3.1.4.2 Bone Densitometry
+3.1.4.3 Mammography
+3.1.4.4 Cardiac Catheterization
+3.1.4.5 Percutaneous Transluminal Angioplasties
+3.1.4.6 Tumour Localization and Simulation
+3.1.4.7 Computed Tomography
+3.1.4.8 Angiocardiography
+
+3.2 Second Level facilities shall have an x-ray machine with a minimum tube current of at least 100 mA.
+
+3.3 Third Level facilities shall have a Radio-graphic/fluoroscopic x-ray machine with a minimum tube current of at least 300 mA equipped with an image intensifier system.
+
+4. MANPOWER REQUIREMENTS
+
+4.1 All facilities shall have the following personnel:
+
+4.1.1 Head of the X-ray Facility shall be the qualified physician who shall be the person-in-charge of the activities in the facility with the following qualification:
+
+4.1.1.1 For government or private x-ray facilities, a diplomate or fellow of the Philippine Board of Radiology or Philippine College of Radiology.
+
+4.1.1.2 For first level and second level government x-ray facilities, a physician who has been certified as a Medical Specialist in Radiology by the Department of Health Medical Manpower Committee if the facility has no physician with the qualification in 4.1.1.1.
+
+4.1.1.3 For second level government facilities, a physician who has completed Module III of the Department of Health-Philippine College of Radiology Stepladder Training Program in Radiology if the facility has no physician with the qualification in 4.1.1.1 and 4.1.1.2.
+
+4.1.1.4 For first level government facilities, a physician who has completed the module I of the Department of Health-Philippine College of Radiology Stepladder Training Program in Radiology if the facility has no physician with the qualification in 4.1.1.1, 4.1.1.2 and 4.1.1.3.
+
+4.1.1.5 For the government hospitals considered as training or teaching institutions, the head of the facility shall be a fellow of the Philippine College of Radiology.
+
+4.1.1.6 For Philippine Tuberculosis Society (PTS) facilities, the head of the facility may be a fellow of the Philippine College of Chest Physicians if the facility has no physician with qualification in 4.1.1.1 and 4.1.1.2
+
+4.1.1.7 In areas where there is no qualified physician, within a 45 km. radius, a physician who had undergone training in radiology and who has been authorized by the Undersecretary of Health for Standards and Regulation shall be allowed to head a clinical diagnostic x-ray facility of only first level and second level category. This authorization shall be valid for period indicated only.
+
+4.1.1.8 In areas where there is a radiologist with qualification in 4.1.1.1 but who, for some reason, cannot act as head of the x-ray facility of other hospitals or clinics in the area, a non-PCR fellow may act as a radiologist provided that the RHS upon evaluation of the documents submitted and upon consultation with the Philippine College of Radiology, recommends issuance of an authorization by the Undersecretary of Health. This authorization shall be valid only for the period indicated.
+
+4.1.2 A radiologic or x-ray technologist duly licensed by the Professional Regulation Commission.
+
+4.1.3 A radiation safety officer who is either a medical physicist, a qualified physician described in sub-clause 4.1, or a chief radiologic or x-ray technologist with at least ten years x-ray experience who had attended a course on radiation protection conducted by the RHS.
+
+4.2 Each x-ray machine shall have at least one radiologic or x-ray technologist.
+
+4.3 For third level and specialized facilities, the services of a medical physicist should be made available.
+
+5. X-RAY MACHINE REQUIREMENTS
+
+5.1 Stationary Radiographic Machine
+
+5.1.1 A diagnostic source housing (x-ray tube housing) assembly with an attached beam limiting device shall be used. This assembly shall be so constructed such that the exposure due to leakage radiation measured at a distance of 1 meter from the source does not exceed 1 mGy (0.1 rad) in one hour when the source is operated at its leakage technique factor.
+
+5.1.2 A mark on the visible exterior of the source assembly shall indicate the location of the focal spot.
+
+5.1.3 Suitable beam limiting device (set of diaphragms, set of cones, light beam diaphragm with adjustable collimators) capable of restricting the beam to the area of interest shall be provided. This shall provide the same primary beam attenuation as the tube housing. Such device should have clear and permanent markings to indicate the image receptor size and source to image distance (SID) for which it is designed.
+
+5.1.4 Means shall be provided to align the center of the x-ray beam and the center of the indicator light beam to the center of the image receptor.
+
+5.1.5 For adjustable collimators in which visual definition of the field is provided, the misalignment between the edges of the visual field and the x-ray field shall be less than 2 percent of the target film distance.
+
+5.1.6 The total filtration in the useful beam for diagnostic x-ray units shall be equivalent to not less than 2.5mm Al of of which 1.5mm shall be permanent and this shall be clearly indicated in the tube housing.
+
+5.1.7 The half value layer (HVL) of the useful beam should not be less than that shown in Annex 1 for a given tube potential, phase and filtration.
+
+5.1.8 The Source Skin Distance (SSD) shall not be less than 30 cm (12 in) and should not be less than 38 cm (15 in). For tabletop radiographic procedures, the source to film distance (SFD) should not be less than 100 cm (40 in). For upright chest radiography, the SFD should not be less than 180 cm (72 in).
+
+5.1.9 The control panel shall include devices (labeled control dials, push button and/or meters) for setting and/or indicating physical factors (such as kVp, mA, exposure time, or mAs) used for exposure.
+
+5.1.10 When more than one tube can be operated from a single control panel with a single exposure switch, there shall be a conspicuous indicator on or near each tube housing and on the control panel showing which tube is being selected.
+
+5.1.11 No radiation shall be detected when timer is set to zero. The timer error shall be within ±10%.
+
+5.1.12 A device shall be provided that automatically terminates the radiographic exposure at the preset time interval or exposure at the receptor.
+
+5.1.13 The radiographic exposure switch shall be of the dead-man or spring loaded type.
+
+5.1.14 The control panel shall provide positive audible and visible indication of the production of x-rays whenever the tube is energized.
+
+5.1.16 Radiographic technique chart shall be provided for each x-ray machine. The technique chart shall be posted in a conspicuous place near the control console.
+
+5.1.17 Written safety procedures, tube rating charts, anode cooling charts and maintenance procedures shall be provided for each x-ray equipment, including restrictions of the particular technique.
+
+5.1.18 The actual kVp and mAs output shall be periodically checked by a qualified medical physicist or x-ray engineer. The actual kVp shall be within ±10% of the set kVp.
+
+5.1.19 The exposure in air at a given mAs and tube potential should be linear constant within ±10% and shall be constant within ±20% of all combinations of current and time settings commonly used.
+
+5.2 Fluoroscopic Equipment, Fluoroscopic Machine with Image Intensifier and Digital Subtraction Angiographic Equipment.
+
+5.2.1 A diagnostic source housing (x-ray tube housing) assembly with an attached beam limiting device shall be used. This assembly shall be so constructed such that the exposure due to leakage radiation measured at a distance of 1 meter from the source does not exceed 1 mGy (0.1 rad) in one hour when the source is operated at its leakage technique factor.
+
+5.2.2 A mark on the visible exterior of the source assembly shall indicate the location of the focal spot.
+
+5.2.3 The total filtration in the useful beam for diagnostic x-ray units shall be equivalent to not less than 2.5mm Al of which 1.5mm shall be permanent and this shall be clearly indicated in the tube housing.
+
+5.2.4 The half value layer (HVL) of the useful beam should not be less than that shown in Table 5.1 for a given tube potential, phase and filtration (see Annex 1).
+
+5.2.5 The Source Skin Distance (SSD) shall not be less than 30 cm (12 in) and should not be less than 38 cm (15 in).
+
+5.2.6 The control panel shall include devices (labeled control dials, push buttons and/or meters) for setting and/or indicating physical factors (such as kVp, mA, exposure time, or mAs) used for exposure.
+
+5.2.7 No radiation shall be detected when timer is set to zero. The timer error shall be within ±10%.
+
+5.2.8 A device shall be provided which will automatically terminate fluoroscopy after a preset time, with a maximum setting of 5 min. To allow resetting, if clinically essential, it shall be supplemented with an audible signal giving warning of an impending cessation of fluoroscopy. The setting of the signal shall be adjustable within the over-all time.
+
+5.2.9 The fluoroscopic exposure switch shall be of the "dead-man or a spring loaded type" switch.
+
+5.2.10 The absorbed dose rate for direct fluoroscopy as measured at the patients entrance surface shall be as low as practicable and should not exceed 50 mGy per min.
+
+5.2.11 For conventional fluoroscopic equipment, the fluorescent screen shall be covered with protective glass sheet having a lead equivalent of not less than:
+
+5.2.11.1 1.5 mm for apparatus having a maximum voltage up to and including 70 kVp.
+
+5.2.11.2 2.0 mm for apparatus having a maximum voltage above 70 kVp up to and including 100 kVp; an additional 0.01 mm per kVp above 100 kVp.
+
+5.2.12 Written safety procedures, tube rating charts, anode cooling charts and maintenance procedures shall be provided to each x-ray equipment, including restrictions of the particular technique.
+
+5.2.13 The actual kVp and radiation output shall be periodically checked by a qualified medical physicist or x-ray engineer. The actual kVp shall be ±10% of the set kVp.
+
+5.2.14 An adjustable collimator shall be provided to restrict the size of the beam to the area of interest.
+
+5.2.14.1 The x-ray tube and collimating system shall be linked with the image receptor assembly so that the beam is centered on the image receptor assembly. The beam shall be confined within the useful receptor area at all source-image receptor distances.
+
+5.2.14.2 For spot-film radiography, the shutters shall automatically change to the required field size before each exposure.
+
+5.2.15 When the x-ray tube is permanently located under the table, the table shall be provided with means (e.g. bucky, slot cover) to attenuate all scattered radiation originating under the table with at least one tenth value layer (TVL) of material at the maximum tube voltage.
+
+5.2.16 Shielding devices such as leaded screen drapes and table side shields shall be provided to minimize over-table scattered radiation reaching the x-ray/radiologic technologists.
+
+5.3 Mobile Radiographic and Fluoroscopic Machine; Photofluorographic Machine and Portable x-ray Machine.
+
+5.3.1 A diagnostic source housing (x-ray tube housing) assembly with an attached beam limiting device shall be used. This assembly shall be so constructed such that the exposure due to leakage radiation measured at a distance of 1 meter from the source does not exceed 1 mGy (0.1 rad) in one hour when the source is operated at its leakage technique factor.
+
+5.3.2 A mark on the visible exterior of the source assembly shall indicate the location of the focal spot.
+
+5.3.3 Suitable beam limiting device (diaphragms, cones, light beam diaphragm, adjustable collimators) capable of restricting the beam to the area of interest shall be provided. These shall provide the same primary beam attenuation as the tube housing.
+
+5.3.4 For mobile radiographic x-ray machine, the beam limiting device should have clear and permanent markings to indicate the image receptor size and source to image distance (SID) for which it is designed.
+
+5.3.5 Means shall be provided to align the center of the x-ray beam and the center of the indicator light beam to the center of the image receptor.
+
+5.3.6 For adjustable collimators in which visual definition of the field is provided, the misalignment between the edges of the visual field and the x-ray field shall be less than 2 percent of the target film distance.
+
+5.3.7 The total filtration in the useful beam for diagnostic x-ray units shall be equivalent to not less than 2.5 mm Al of which 1.5 mm shall be permanent and this shall be clearly indicated in the tube housing.
+
+5.3.8 The half value layer (HVL) of the useful beam should not be less than that shown in Table 5.1 for a given tube potential, phase and filtration (see Annex 1).
+
+5.3.9 The Source Skin Distance (SSD) shall not be less than 30 cm (12 in) and should not be less than 38 cm (15 in). For tabletop radiographic procedures, the source to film distance (SFD) should not be less than 100 cm (40 in). For upright chest radiography, the SFD should not be less than 180 cm (72 in).
+
+5.3.10 The control panel shall include devices (labeled control dials, push buttons and/or meters) for setting and/or indicating physical factors (such as kVp, mA, exposure time, or mAs) used for exposure.
+
+5.3.11 No radiation shall be detected when timer is set to zero. The timer error shall be within ±10%.
+
+5.3.12 A device shall be provided that automatically terminates the radiographic exposure at the preset time interval or exposure at the receptor.
+
+5.3.13 The radiographic exposure switch shall be of the dead-man or a spring loaded type.
+
+5.3.14 The control panel shall provide positive audible and visible indication of the production of x-rays whenever the tube is energized.
+
+5.3.15 Radiographic technique chart shall be provided for each x-ray machine. The technique chart shall be posted in a conspicuous place near the control console.
+
+5.3.16 Written safety procedures, tube rating charts. anode cooling charts and maintenance procedures shall be provided to each x-ray equipment, including restrictions of the particular technique.
+
+5.3.17 The actual kVp and radiation output shall be periodically checked by a qualified medical physicist or engineer.
+
+5.3.18 For mobile radiographic x-ray machine, the exposure in air at a given setting of x-ray tube potential should be linear with mAs over the range of values for milliamperes and seconds commonly used. The exposure in air at a given mAs should be constant within ±20 percent at all combinations of current and time settings commonly used.
+
+5.3.19 For mobile fluoroscopic equipment, an adjustable collimator shall be provided to restrict the size of the beam to the area of interest.
+
+5.3.19.1 The x-ray tube and collimating system shall be linked with the image receptor assembly so that the beam is centered on the image receptor assembly. The beam shall be confined within the useful receptor area at all source-image receptor distances.
+
+5.3.19.2 For spot-film radiography, the shutters shall automatically change to the required field size before each exposure.
+
+5.3.20 Image intensification shall be provided on all mobile fluoroscopic equipment. It shall be impossible to operate the mobile fluoroscopic equipment unless the useful beam is intercepted by the image intensifier.
+
+5.3.21 If a mobile radiographic unit is used routinely in one location it shall be considered a fixed or stationary radiographic equipment.
+
+5.3.22 The exposure switch on mobile radiographic units shall be so arranged that the x-ray/radiologic technologists can stand at least two meters from the patient, the x-ray tube, and the useful beam.
+
+5.3.23 For photofluographic spot film cameras, the entrance exposure rate to the image intensifier at a maximum tube potential and mA should not be greater than 0.3 mrad per exposure.
+
+5.3.24 For photofluographic equipment, the collimator shall restrict the beam to dimension no greater than that of the fluorographic screen.
+
+5.3.25 Operation of portable x-ray equipment shall not be allowed.
+
+5.4 Mammographic X-ray Machine
+
+5.4.1 For mammography, only an x-ray machine designed specifically for this purpose shall be used.
+
+5.4.2 A diagnostic source housing (x-ray tube housing) assembly with an attached beam limiting device shall be used. This assembly shall be so constructed such that the exposure due to leakage radiation measured at a distance of 1 meter from the source does not exceed 1mGy (0.1 rad) in one hour when the source is operated at its leakage technique factor.
+
+5.4.3 A mark on the visible exterior of the source assembly shall indicate the location of the focal spot.
+
+5.4.4 Suitable beam limiting devices capable of restricting the beam to the area of interest shall be provided. These shall provide the same primary beam attenuation as the tube housing.
+
+5.4.5 Geometric unsharpness shall not exceed that resulting from use of a 1 mm focal spot as measured by a star resolution device, with a 50 cm source-to-image distance and a 5 cm object-to-image distance. For magnification studies, a very small focal spot, as measured by a star resolution device, is required to achieve this level resolution: &lt 0.3 mm for 1.5 x and &lt 0.15 mm for 2 x magnification.
+
+5.4.6 Permanent radiation protection barriers for the x-ray/radiologic technologists shall be provided in the room for units that require the x-ray/radiologic technologists to remain in the room during exposure.
+
+5.4.7 The x-ray beam shall be collimated to strike only the area of the image receptor support, except the support designed to be adjacent to the chest wall where the x-ray field shall not exceed beyond the edge by more than two percent of the SID. The image receptor support shall transmit less than 0.0001 cGy (0.1 mrad) per exposure at 5 cm beyond the support with no breast present, for maximum kVp and mAs values employed.
+
+5.4.8.2 A line compensation system or its equivalent shall be provided to assure reproducibility of tube kilovoltage to ±1 kVp.
+
+5.4.8.3 The peak kilovoltage used should be adjustable to 1 kVp increments.
+
+5.4.8.4 The range of kVp values shall extend down to 25 kVp (or less for molybdenum (Mo) or Molybdenum-Tungsten (Mo-W) target tubes, and to 40 kVp or less for tungsten (W) target tubes.
+
+5.4.8.5 Non-uniform film density and image resolution due to heel effect shall be minimized by suitable orientation of the x-ray tube axis and be avoiding an excessively oblique tube targets angle.
+
+5.4.8.6 Except for microfocus tube units, the mA shall be high enough to minimize the increase dose resulting from reciprocity law failure of screen-film combinations. Ordinarily this require exposure times of two seconds or less.
+
+5.4.8.7 The mAs per exposure should be reproducible to within ±15 percent of the set value.
+
+5.4.8.8 Mo or Mo-W alloy target x-ray tubes shall be used for screen-film mammography studies. A permanent filter of about 0.025 or 0.03 mm Mo shall be permanently installed. For magnification studies, a microfocus W target tube may be used; this tube shall have at least 0.5 mm Al equivalent total filtration.
+
+5.4.9 A device for maintaining firm breast compression shall be provided which assures uniform thickness of the compressed breast portion of the radiographed breast. The degree of compression shall be smoothly adjustable and shall remain at the set level during the exposure. The compression plate should attenuate the beam by no more than 2 mm of polymethylmethacrylate.
+
+5.5 Cardiac Radiological Machine
+
+5.5.1 A diagnostic source housing (x-ray tube housing) assembly with an attached beam limiting device shall be used. This assembly shall be so constructed such that the exposure due to leakage radiation measured at a distance of 1 meter from the source does not exceed 1 mGy (0.1 rad) in one hour when the source is operated at its leakage technique factor.
+
+5.5.2 A mark on the visible exterior of the source assembly shall indicate the location of the focal spot.
+
+5.5.3 Suitable beam limiting device (diaphragms, cones, adjustable collimators) capable of restricting the beam to the area of interest shall be provided. These shall provide the same primary beam attenuation as the tube housing. Such device shall have clear and permanent markings to indicate the image receptor size and source to image distance (SID) for which it is designed.
+
+5.5.4 The SSD shall not be less than 30 cm (12 in) and should not be less than 38 cm (15 in).
+
+5.5.5 The control panel shall include devices (labeled control dials. push buttons and/or meters) for setting and/or indicating physical factors (such as kVp, mA, exposure time, or mAs) used for exposure.
+
+5.5.6 When more than one tube can be operated from a single control panel with a single exposure switch, there shall be a conspicuous indicator on or near each tube housing and on the control panel showing which tube is being selected.
+
+5.5.7 The fluoroscopic exposure switch or switches shall be of the dead-man or a spring loaded type switch.
+
+5.5.8 A cumulative timing device, activated by the fluoroscope exposure switch shall be provided. It shall indicate either by an audible or visual signal, or both, obvious to the user, the passage of a predetermined period of irradiation not to exceed five minutes. The signal should last at least 15 seconds at which time the timer must be reset manually.
+
+5.5.9 The various parameters which are used for cine-fluorographic and/or serial radiographic techniques shall be indicated at the control panel.
+
+5.6 Conventional Tomographic Machine
+
+5.6.1 A diagnostic source housing (x-ray tube housing) assembly with an attached beam limiting device shall be used. This assembly shall be so constructed such that the exposure due to leakage radiation measured at a distance of 1 meter from the source does not exceed 1 mGy (0.1 rad) in one hour when the source is operated at its leakage technique factor.
+
+5.6.2 A mark on the visible exterior of the source assembly shall indicate the location of the focal spot.
+
+5.6.3 Suitable beam limiting device (diaphragms, cones, adjustable collimators) capable or restricting the beam to the area of interest shall be provided. These shall provide the same primary beam attenuation as the tube housing. Such device shall have clear and permanent markings to indicate the image receptor size and source to image distance (SID) for which it is designed.
+
+5.6.4 Means shall be provided to align the center of the x-ray beam and the center of the indicator light beam to the center of the image receptor.
+
+5.6.5 The control panel shall include devices (labeled control dials, push buttons and/or meters) for setting and/or indicating physical factors (such as kVp, mA, exposure time, or mAs) used for exposure.
+
+5.6.6 When more than one tube can be operated from a single control panel with a single exposure switch, there shall be a conspicuous indicator on or near each tube housing and on the control panel showing which tube is being selected.
+
+5.6.7 Conventional tomographic equipment, particularly multipurpose machines, shall be equipped with adjustable collimators containing light localizers that define the edges of the entire field. The difference between the length of each x-ray beam edge and each light beam edge shall not be greater than two percent of the source image receptor distance at the image receptor.
+
+5.6.8 A device shall be provided that automatically terminates the body section radiographic exposure at a preset time interval, angle or kerma at the receptor. The x-ray/radiologic technologists shall be able to terminate the exposure at any time.
+
+5.6.9 The body section radiographic exposure switch shall be so arranged that it cannot be operated from outside a shielded area.
+
+5.6.10 The control panel shall provide positive audible and visible indication of the production of x-rays whenever the x-ray tube is energized.
+
+5.6.11 A method of adjusting the slice center position on the patient shall be provided.
+
+5.6.12 A slice center position indication in mm shall be provided.
+
+5.6.13 A visible line indication on the slice center position on the patient shall be provided.
+
+5.7 Computed Tomographic Machine
+
+5.7.1 A diagnostic source housing (x-ray tube housing) assembly with an attached beam limiting device shall be used. This assembly shall be so constructed such that the exposure due to leakage radiation measured at a distance of 1 meter from the source does not exceed 1 mGy (0.1 rad) in one hour when the source is operated at its leakage technique factor.
+
+5.7.2 A mark on the visible exterior of the source assembly shall indicate the location of the focal spot.
+
+5.7.3 Means shall be provided to align the center of the x-ray beam and the center of the indicator light beam to the center of the image receptor.
+
+5.6.4 The dimensions of the unattenuated primary beam at the plane of the first predetector collimator should not exceed the useful dimensions of the detectors by more than 20 percent.
+
+5.6.5 A scan plane position device, such as light or lights, shall indicate directly or indirectly the position of the slice plane(s) on the patient within 2 mm.
+
+5.6.6 If the scan plane position device is light (monochromatic or polychromatic), this light should be clearly visible.
+
+5.6.7 The accuracy of the positioning of the patient couch should be independent of the direction of the power driven motion of the couch and should be ±2 mm.
+
+5.6.8 The manufacturers of the computer tomographic system shall provide the appropriate capability (software or otherwise) to adjust the "CT" numbers so that the data from a calibration scan of a water phantom will produce a "CT" number for water equal to zero.
+
+5.6.9 The manufacturer shall provide a quality assurance phantom and associated methodology for a routine (daily) quality assurance program to assure that the performance of the computerized tomographic system is reproducible within a range specified by the particular manufacturer.
+
+5.7 Bone Densitometer
+
+5.7.1 A diagnostic source housing (x-ray tube housing) assembly with an attached beam limiting device shall be used. This assembly shall be so constructed such that the exposure due to leakage radiation measured at a distance of 1 meter from the source does not exceed 1 mGy (0.1 rad) in one hour when the source is operated at its leakage technique factor.
+
+5.7.2 A mark on the visible exterior of the source assembly shall indicate the location of the focal spot.
+
+5.7.3 The control panel shall include devices (labeled control dials, push buttons and/or meters) for setting and/or indicating physical factors (such as kVp, mA, exposure time, or mAs) used for exposure.
+
+5.7.4 No radiation shall be detected when timer is set to zero. Timer error shall be within + 10%.
+
+5.7.5 A device shall be provided that automatically terminates the exposure at the preset time interval or exposure at the receptor.
+
+5.7.6 The exposure switch shall be of the "dead-man or a spring loaded type" switch.
+
+5.7.8 The control panel shall provide positive audible and visible indication of the production of x-rays whenever the tube is energized.
+
+5.7.9 Written safety procedures, tube rating charts, anode cooling charts and maintenance procedures shall be provided to each x-ray equipment, including restrictions of the particular technique.
+
+5.7.10 The actual kVp and mAs output shall be periodically checked by an x-ray engineer.
+
+5.8 X-ray Imaging System used in Lithotripsy Machine
+
+5.8.1 A diagnostic source housing (x-ray tube housing) assembly with an attached beam limiting device shall be used. This assembly shall be so constructed such that the exposure due to leakage radiation measured at a distance of 1 meter from the source does not exceed 1 mGy (0.1 rad) in one hour when the source is operated at its leakage technique factor.
+
+5.8.2 A mark on the visible exterior of the source assembly shall indicate the location of the focal spot.
+
+5.8.3 Suitable beam limiting device (diaphragms, cones, adjustable collimators) capable or restricting the beam to the area of interest shall be provided. These shall provide the same primary beam attenuation as the tube housing. Such device shall have clear and permanent markings to indicate the image receptor size and source to image distance (SID) for which it is designed.
+
+5.8.4 Means shall be provided to align the center of the x-ray beam and the center of the indicator light beam to the center of the image receptor.
+
+5.8.5 For adjustable collimators in which visual definition of the field is provided, the misalignment between the edges of the visual field and the x-ray field shall be less than 2 percent of the target film distance.
+
+5.8.6 The total filtration in the useful beam for diagnostic x-ray units shall be equivalent to not less than 2.5 mm Al of which 1.5 mm shall be permanent and this shall be clearly indicated in the tube housing.
+
+5.8.7 The half value layer (HVL) of the useful beam should not be less than that shown in Table 5.1 for a given tube potential, phase and filtration.
+
+5.8.8 The Source Skin Distance (SSD) shall not be less than 30 cm (12 in) and should not be less than 38 cm (15 in). [Note: For tabletop radiographic procedures, the source to film distance (SFD) should not be less than 100 cm (40 in).
+
+5.8.9 The control panel shall include devices (labeled control dials, push buttons and/or meters) for setting and/or indicating physical factors (such as kVp, mA, exposure time, or mAs) used for exposure.
+
+5.8.10 When more than one tube can be operated from a single control panel with a single exposure switch, there shall be a conspicuous indicator on or near each tube housing and on the control panel showing which tube is being selected.
+
+5.8.11 No radiation shall be detected when timer is set to zero. Timer error shall be within ±10%.
+
+5.8.12 A device shall be provided that automatically terminates the radiographic exposure at the preset time interval or exposure at the receptor.
+
+5.8.13 The radiographic exposure switch shall be of the "dead-man or a spring loaded type switch".
+
+5.8.14 The control panel shall provide positive audible and visible indication of the production of x-rays whenever the tube is energized.
+
+5.8.15 Radiographic technique chart and protocol shall be provided for each x-ray machine. The technique chart shall be posted in a conspicuous place near the control console.
+
+5.8.16 Written safety procedures, tube rating charts, anode cooling charts and maintenance procedures shall be provided to each x-ray equipment, including restrictions of the particular technique.
+
+5.8.17 The actual kVp and mAs output shall be periodically checked by a medical physicist or x-ray engineer.
+
+5.8.18 The exposure in air at a given setting of x-ray tube potential should be linear with mAs over the range of values for milliamperes and seconds commonly used.
+
+The exposure in air at a given mAs should be constant within 20 percent at all combinations of current and time settings commonly used.
+
+5.9 Calibration reports duly signed by the physicist or x-ray engineer shall be kept and shall be made available for inspection by the Radiation Health Service.
+
+5.10 Other types of x-ray machine not in the above categories should be considered new devices requiring appropriate evaluation by the Radiation Health Service.
+
+6. PHYSICAL PLANT REQUIREMENTS
+
+6.1 X-ray examination rooms shall be well lit, well ventilated, clean and with the following specifications:
+
+6.1.1 X-ray examination room not equipped with table shall have a room size of at least 2.5 m x 3.0 m. For a transportable facility the width of the room shall be 2.0 meters.
+
+6.1.2 X-ray examination rooms equipped with a fixed or stationary patient table shall have a room size of at least 3.5 m x 4 m.
+
+6.1.3 X-ray examination rooms equipped with a tilting patient table shall have a room size of at least 4.5 m x 4.5 m.
+
+6.1.4 For specialized facilities, the size of the x-ray examination room should be in accordance with the specification of the x-ray equipment manufacturer.
+
+6.2 All walls in the x-ray examination room shall be made of any of the following materials to a height of at least 2 meters from the floor level/ground outside the x-ray room; provided that the radiation level at the other side of the wall shall not exceed the dose limit for the general public of 1 mSv per year taking into consideration the workload of the x-ray facility:
+
+6.2.1 at least 6 inches thick poured concrete with a density of 2.35 g/cm^3; or
+
+6.2.2 at least 1/16 inch (1.5 mm) thick lead sheet with a density of 11.36 g/cm^3. Care should be taken to avoid punctures in the lead sheet which may occur during installation. The lead sheet should be glued onto and sandwiched between wooden panels.
+
+6.3 Doors leading to the x-ray examination room shall be lined with 1/16 inch (1.5 mm) thick lead sheet from edge to edge including door jambs to a height of at least 2 meters from the floor.
+
+6.4 A protective barrier shall be constructed or provided inside the x-ray room. The barrier shall be made of any of the materials enumerated in section 6.2. A lead glass/acrylic viewing window with a lead equivalence of at least 1.5 mm should be installed in the barrier.
+
+6.5 Means shall be provided for viewing and communicating with the patient during radiographic examination.
+
+6.6 The base of the x-ray room window/s shall be located at a height of at least 2 meters from the floor of the adjacent area of the room.
+
+6.7 A red warning light bulb that is automatically illuminated when the x-ray machine is switched on shall be installed outside the x-ray examination room above the x-ray room door.
+
+6.8 A warning notice shall be put up outside the x-ray examination room door which shall be made up of a solid yellow equilateral triangle 180 mm long on each side. At the center of the triangle is a black tre-foil sign for radiation. Under the triangle are the words "X-RAY ROOM - DO NOT ENTER WHEN THE RED LIGHT IS ON." The warning notice shall be on a 180 mm x 270 mm white background (see Annex 2).
+
+6.9 There shall be a separate darkroom constructed near the x-ray examination room.
+
+6.10 The darkroom shall be well ventilated, light tight, and shall have a minimum dimension of 2.0 x 1.5 m.
+
+6.11 The darkroom shall be provided with a standard safelight to be installed not lower than 1.3 m from the working table or processing tanks. The safelight housing must be provided with a safelight filter, made of glass or hard plastic, tinted with amber or red and which does not fog a pre-exposed film within 45 seconds. The safelight bulb shall have a wattage of not more than 15 Watts.
+
+6.12 For manual processing, the time-temperature method of processing shall be observed. A luminous interval timer and a metallic stern dial type thermometer, mercury thermometer with protective metallic casing or an alcohol thermometer shall be provided. A standard darkroom manual processing technique chart which takes into account the time development, temperature of the solution and the number of films developed shall be posted in the darkroom.
+
+6.13 For manual processing, processing tanks shall be used.
+
+6.14 For darkroom processing, the facility shall maintain a record of quality control tests which shall be made available for inspection by the Radiation Health Service.
+
+6.15 Unprocessed films shall be properly shielded in a cool dry place protected from x-rays.
+
+6.16 The darkroom shall be provided with an air inlet and an air outlet with an exhaust fan. However, these openings must be designed such that no light can enter the room while darkroom work is done.
+
+6.17 There shall be an adequate supply of water in the darkroom.
+
+6.18 Facilities shall have a waiting area, dressing area, film storage area and film-reading room. The minimum size of the film storage area shall be 1 m x 2 m for a level one x-ray facility and shall be 3 m x 3.5 m for level two and level three x-ray facility.
+
+6.19 A toilet for patients with a door opening directly to the x-ray room shall be provided for every room where examinations using contrast media are performed.
+
+6.20 Each x-ray room shall be provided with the following radiological accessories:
+
+6.20.1 A caliper
+
+6.20.2 A set of gonadal shields with minimum lead equivalence of 0.5 mm lead, which includes:
+
+6.20.2.a Contact shields for male adult, female adult, infant male, and infant female.
+
+6.20.2.b An upright gonadal shield for chest examinations shall be required for radiographic equipment using fixed diaphragm and cones as beam limiting device.
+
+6.20.3 A pair of lead rubber gloves or a lead hand protector with minimum lead equivalence of 0.25 mm lead.
+
+6.20.4 A lead rubber apron with minimum lead equivalence of 0.25 mm lead.
+
+Note: items 6.20.2.a & 6.20.3 and 6.20.4 do not apply for x-ray facilities doing only chest x-ray examination for employment purposes.
+
+7. OPERATIONAL REQUIREMENTS
+
+7.1 All x-ray examinations shall be performed inside a room that is properly shielded in accordance with Section 6.
+
+7.2 Doors leading to the x-ray examination room shall be closed during x-ray examinations.
+
+7.3 The useful beam shall be collimated to the area of clinical interest.
+
+7.4 In order to minimize the frequency of unintentional irradiation of the embryo or fetus, the following advisory notice should be posted at several places within diagnostic x-ray departments (particularly at its reception area) and other areas where diagnostic x-ray equipment is used,
+
+IF IT IS POSSIBLE THAT YOU MIGHT BE PREGNANT, NOTIFY THE PHYSICIAN BEFORE YOUR X-RAY EXAMINATION.
+
+7.5 When pregnant women require other x-ray examinations in which the x-ray beam irradiates the fetus directly, special care has to be taken to ascertain that the x-ray examination is indeed indicated at that time and that it should not be delayed until after the pregnancy. Sometimes the radiation risk to the fetus is less than that of not making the necessary diagnosis, so that the x-ray examination should still be done when medical indications are appropriate. In such cases, greater than usual care should be taken to minimize the absorbed dose in the fetus for each irradiation. However, alterations of technique should not reduce unduly the diagnostic value of the x-ray examination.
+
+7.6 Radiography of areas remote from the fetus, such as the chest, skull or extremities, can be done safely at any time during pregnancy if the x-ray equipment is properly shielded and if proper x-ray beam limitation is used.
+
+7.7 Sensitive body organs (e.g. lens of the eye, gonads) shall be shielded whenever they are likely to be exposed to the useful beam provided that such shielding does not eliminate useful diagnostic information.
+
+7.8 When patients must be held during examinations, all efforts shall be undertaken to avoid having assistance provided by persons who work within the x-ray department. No pregnant woman or persons under the age of 18 years shall be permitted to hold patients. Persons holding the patients shall wear protected aprons and gloves. Even if protective clothing is worn, those holding the patients shall make sure as far as practicable, that no part of their body, even if covered by protective clothing is in the path of the useful beam.
+
+7.9 Only persons whose presence is necessary shall be in the x-ray room during exposures. All such persons shall be protected (e.g. provided with lead aprons, leaded gloves, and/or movable shields).
+
+7.10 The x-ray/radiologic technologists shall stay behind the protective barrier provided and shall observe the patient during x-ray examination. Means should be provided for communicating with the patient.
+
+7.11 Radiographic films shall not be used beyond the expiration date indicated in the manufacturer's recommendations.
+
+7.12 Radiographic cassettes and intensifying screens shall be cleaned regularly according to the instructions of the manufacturer.
+
+7.13 All medical x-ray examinations shall have written results signed by the qualified physician as given in section 4.1.2.
+
+7.14 A medical x-ray examination shall only be performed when there is a request from a referring physician. However, when a physician refers a patient for an imaging procedure, it should be understood that the patient is being referred for an opinion. If there is a significant risk to the patient or it is believed that such a request is inappropriate, it is both the right and duty of the qualified physician as described in Section 4.1.1, to refuse to undertake any particular procedure. A legitimate and logical reason for such refusal shall be provided to the referring physician.
+
+7.15 If two or more medical x-ray examinations are readily available and give the necessary diagnostic information, then the procedure that presents the least overall risk to the patient shall be chosen.
+
+7.16 Requests for x-ray examination shall be signed by the referring physician and shall include the following information in legible form:
+
+7.16.1 Patient's name, age, sex, status, and address.
+7.16.2 Date of request, brief clinical history and examination requested.
+7.16.3 Tentative diagnosis.
+7.16.4 Name of referring physician
+
+7.17 Fluoroscopy shall not be used as a substitute for radiography.
+
+7.18 Fluoroscopy shall be performed only by or under the immediate supervision of physicians possessing qualifications described in 4.1.1.1 and 4.1.1.2.
+
+7.19 Protective aprons of at least 0.25 mm lead equivalence shall be worn in the fluoroscopy room by each person, except the patient. People who must move around the room during the procedure shall wear a wrap-around protective apron.
+
+7.20 Fluoroscopy without image intensifier shall not be used.
+
+7.21 Mobile x-ray machine, shall be used only when it is not possible to transfer patients to fixed installations. If this were the case, the x-ray/radiologic technologists and other persons within the area shall stay at least 2 meters from the patient, the x-ray tube, and the useful beam. If this is not possible, movable shields shall be provided.
+
+7.22 During the use of a mobile x-ray machine, the x-ray/radiologic technologists shall wear a protective apron with 0.25 mm lead equivalence.
+
+7.23 During the use of a mobile x-ray machine, the x-ray/radiologic technologists shall ensure that no person other than the patient will be exposed to the useful beam.
+
+7.24 During cinefluorographic and serial radiography procedures, all personnel required in the room shall stay behind movable shields when possible.
+
+7.25 In serial radiography, the number of films per second and the duration of the procedure shall be kept to a minimum consistent with the needs of the examination.
+
+7.26 During the use of the computed tomographic machine, the slice thickness shall be as big as possible and the number of slices shall be as small as practicable.
+
+7.27 All x-ray examinations shall be performed only when necessary for obtaining diagnostic information.
+
+7.28 All x-ray examinations shall be performed only by or under the immediate supervision of qualified personnel described in Section 4.
+
+8. ADMINISTRATIVE REQUIREMENTS
+
+8.1 The owner/licensee shall ensure that the facility complies with the requirements set herein and other relevant standards, rules, regulations and policies issued by the Department of Health.
+
+8.2 The owner/licensee shall provide radiation dose monitors to all radiation workers in the facility. He/She shall ensure that no worker shall exceed the dose limit of 20 mSv per year.
+
+8.3 The head of the facility shall establish a quality control program for the x-ray facility in accordance with the Radiation Health Service of the Department of Health protocol on quality control. He has the responsibility for the control of all aspects of the conduct of the x-ray examination. He shall ensure that no unqualified person operates the x-ray equipment.
+
+8.4 The radiation safety officer shall be responsible for the conduct of radiation safety programs in the facility. He/She shall keep a record of occupational radiation doses received by the radiation workers in the facility. He/She shall also assist the owner/licensee to comply with the requirements set herein and other relevant standards, rules, regulations and policies issued by the Department of Health.
+
+9. EFFECTIVITY
+
+This requirements shall take effect 15 days after publication in the official Gazette or in a newspaper of general circulation and shall supersede all issuances inconsistent therewith.
+</body>
+
+<sign>JUAN M. FLAVIER, M.D.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<body>
+ANNEX I
+
+Minimum half value layer (mmAl) for single and three phase units and minimum total filtration at various tube potentials.
+
+Note: A minimum beam filtration is required to attenuate very low energy x-rays that are absorbed in the patient with minimum diagnostic benefit. The amount of beam filtration required depends mainly on the kVp, which in turn, is related to the thickness of the body part examined. HVL values are easily measured and serve as a useful determination of total filtration (inherent plus external) which is not always easily seen. The measured HVL should not exceed the table values.
+
+<image>table_1.png</image>
+
+7 The half value layer (HVL) of the useful beam for a given x-ray tube potential (kVp) shall not be less than 0.3 mm Al at 30 kVp and shall not be more than 4.1 mm Al at 150 kVp.
+</body>
+
+<image>figure_1.png</image>

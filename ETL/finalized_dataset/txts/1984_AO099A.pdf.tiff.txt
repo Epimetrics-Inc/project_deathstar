@@ -1,0 +1,100 @@
+﻿   
+
+Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>14/8/1984</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 99-A, s. 1984</docnum>
+<subject> Subject: REGULATION PART C-11: LISTING OF LOCAL HERBAL AND/OR TRADITIONAL DRUGS</subject>
+
+<body>
+
+	C-11. Republic Act No. 3720, otherwise known as Food, Drug and Cosmetic Act, states among other things that the policy of the state to ensure safe and food quality supply of drugs and to regulate the production, sale and traffic of same to protect the health of people. For the proper implementation of the above policy, the following rules and regulations governing the listing of local herbal and/or traditional drugs is adopted to ensure the quality and safety of the drug supply in the country.
+
+C11.1 Local Herbal and/or Traditional Drugs mean – 
+	Processed dosage forms produced in the Philippine from indigenous plant, or animal or mineral material, other than foodstuff, which are intended for use in man to cure or mitigate manifestations of disease, injury or bodily defect or to modify some physiological functions.
+
+C-11.2 Requirements for listing of Herbal and/or Traditional Drug for Local Productions:
+	11.2.1 Application Letter:
+	This should state that the applicant wishes the drug to be regarded as a local herbal and/or traditional drug, the indications claimed for it. It should also specify the name and address of the applicant who must be the manufacturer
+	11.2.2 License to Operate
+	No herbal and/or traditional drug shall be accepted for listing from any applicant unless such applicant is a holder of a current permit issued by the Bureau of Food and Drugs to engage in the manufacture and sale or distribution of such herbal and/or traditional drugs
+	11.2.3 Pharmaceutical Date:
+		11.2.3.1 Technical specifications, such as pharmacognosy of the herbal ingredients, provenance, propagation and culture management, processing, storage and preservation of the natural constituents /plant material and – text missing –
+		11.2.3.2 Manufacturing methods and in-process controls
+		11.2.3.3 Technical and Quality specifications of the finished product as may be available such as physical characterization, bioassay of potency, impurities likely to occur ad level acceptable impurities.
+		11.2.3.4 Packaging materials, specifications, stability studies and recommended storage condition.
+		11.2.3.5 Labels, package insert and sufficient sample for analysis
+	11.2.4 Pharmacologic Documentations:
+		11.2.4.1 Acute toxicity testing and any other toxicology data available.
+		11.2.4.2 Pre-clinical pharmacodynamics studies including in-vitro tests of tissue isolates where available
+		11.2.4.3 Clinical data on safety and efficacy
+	11.2.5 Local herbal and/or Traditional Drugs shall be distributed and sold only after having been duly listed with the Bureau of Food and Drugs.
+	11.2.6 Where a drug is to be distributed and sold in several dosage forms separate listing in respect to each form shall be made.
+	11.2.7 in addition to the requirements of Sec. 18&19 of R 3720, the listing number shall be printed on the label of the herbal and/or traditional drug after it is officially listed with the Bureau of Food and Drugs.
+	11.2.8 Initial Listing Fee
+		11.2.8.1 Each preparation of herbal drugs shall be charged a fee of twenty five pesos (P25.00)
+	11.2.9 The initial listing of a local herbal and/or traditional drug product shall be valid only for one (1) year from the date of issuance to be renewed yearly
+	11.2.10 The listing of a local herbal and/or traditional drug product shall be considered not effective or cancelled:
+		11.2.10.1 If the holder of the listing of the product so requests;
+		11.2.10.2 If the holder of the listing of the product fails to renew the registration of such local herbal and/or traditional drug pursuant to Sec. 11.2.11 of the regulation; or – text missing-
+		11.2.10.3 If the holder of the listing of the product advertised or promoted the local herbal and/or traditional drug is not in accordance with particulars submitted, pursuant to Section C-11.2, of this Order, or
+		11.2.10.4 If new developments, findings, or considerations of public interest and protection so warrants such cancellation; or
+		11.2.10.5 If the composition or labeling of the local herbal and/or traditional drug had been modified without authorization from the Bureau of Food and Drugs; or
+		11.2.10.6 If he local herbal and/or traditional drug product s manufactured by a firm who is not a holder of current listing of the drug product.
+	11.2.11 Any local herbal and/or traditional drug product whose listing is not renewed shall subsequently be subject to a new listing requirements specified in Section C-11.2 of this regulation.
+	11.2.12 Quality Control Requirements (BFAD Analysis)
+		11.2.12.1 Tests for the presence of synthetic drugs:
+			11.2.12.1.1 Aspirin
+			11.2.12.1.2 Acetaminophen
+       11.2.12.1.3 Dipyrone
+       11.2.12.1.4 Phenylbutane
+11.2.12.1.5 Pyrazolone
+11.2.12.1.6 Corticosteroid
+11.2.12.1. Anabolic Steroids
+11.2.12.1.8 Gonadal Hormones
+
+11.2.12.2 Test for the presence of heavy metals
+
+11.2.12.2.1 lead
+11.2.12.2.2 mercury	
+11.2.12.2.3 arsenic
+11.2.12.2.4 cadmium
+
+11.2.12.3 Alcohol content should not be mor9e than 10% w/v
+
+11.2.12.4 Analysis for impurities – U.S.P for gross contaminants
+
+11.2.12.5 Tablets
+11.2.12.5.1 Weight variation
+11.2.12.5.2 Disintegration rate
+11.2.12.5.3 Physical uniformity
+11.2.12.5.4 Hardness
+
+11.2.12.6 Liquids, Suspensions, or syrups
+11.2.12.6.1 Suspendibility
+11.2.12.6.2 Homogeneity
+11.2.12.6.3 Viscosity
+11.2.12.6.4 Standard plate count
+11.2.12.6.5 Coliform Count
+11.2.12.6.7 Yeast count an mold count
+11.2.13 Manufacturers of listed local or traditional herbal drugs shall have to file a report or the progress of the drug in as far as clinical data, toxicology data, adverse effects as well as progress on the identification of active ingredients to the Bureau of Food and Drugs. This report shall be due every 12 months.
+
+C-11.3 This order shall take effect thirty (30) days after publication in the Official Gazette.
+
+
+
+
+
+
+
+
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>

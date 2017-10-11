@@ -1,0 +1,301 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>DEC 21, 2016</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2016 - 0043</docnum>
+
+
+<subject>SUBJECT: Guidelines for the Nationwide Implementation of Dengue Rapid Diagnostic Test (RDT)</subject>
+
+
+<body>
+I. RATIONALE 
+
+The Philippines ranked ﬁrst in the Western Paciﬁc Region among countries with most number of dengue cases from 2013 to 2015. A total of 200,415 suspected dengue cases and 598 deaths were reported nationwide in 2015. There is no speciﬁc medicine against dengue and treatment for dengue involves supportive measures such as ﬂuid management and monitoring of warning signs. Early detection and prompt management are very critical. Mortality rate is reduced to &lt 1% as compared to 20% death rate if proper management is initiated early (WHO, 2016). 
+
+The introduction of the Rapid Diagnostic Test (RDT) for Dengue Non-Structural protein 1 (N Sl) antigen, Complements the overarching 48 Strategy of the National Dengue Prevention and Control Program speciﬁcally in seeking early consultation. The 48 Strategy includes: Search and Destroy, Seek Early Consultation, Self-Protection Measures and Saying Yes to fogging when there is an impeding outbreak. Through the Dengue NSl RDT, test results are produced Within the day making early detection, prompt treatment and timely referral possible. 
+
+The early recognition of dengue through clinical examination, complemented with a simple and rapid diagnostic tool is the cornerstone of its early diagnosis. Hence, the introduction and adoption of Dengue NSl RDT by the National Dengue Prevention and Control Program shall upgrade our existing facilities at the point-of—care and strengthen the diagnosis and management capabilities of our Rural Health Units. 
+
+II. OBJECTIVE 
+
+This issuance shall provide technical and procedural guidelines on the nationwide implementation of Rapid Diagnostic Test at the Rural Health Units (RHUs) and other point of care. 
+
+III. SCOPE 
+
+This issuance shall apply to the DOH - Central Ofﬁce, Regional Ofﬁces, DOH — ARMM, Philippine Health Insurance Corporation and Rural Health Units. 
+
+IV. DEFINITION OF TERMS: 
+
+1. Rapid Diagnostic Test (RDT) — a collection of reagents and other materials for in vitro diagnostics, intended to be used for the detection of either antigen or antibody from clinical samples, usually blood, within a shorter period. 
+
+2. Dengue Non-Structural protein 1 (N S1) RDT- is an immuno-ehromatography based test used to detect the Dengue virus non-structural protein 1 antigen in human serum, plasma, or whole blood to suggest acute Dengue infection. 
+
+3. Suspected Dengue Case- a person with an acute febrile illness of 2—7 days duration with 2 or more of the following: headache, body malaise, retro-orbital pain, myalgia, arthralgia, anorexia, nausea, vomiting, diarrhea, ﬂushed skin, rash (petechial, Hermann’s sign). (Refer to PIDSR Manual of Procedures, 3rd Edition 2014). 
+
+4. Probable Dengue Case-4": a suspected-*case and with a laboratory test result of at least CBC with -'*leueopenia withor. without thrombocytopenia and/or a positive Dengue NSl antigen test or dengue lgM antibody test. (Refer to PIDSR Manual of Procedures, 3rd Edition 2014). 
+
+5. Conﬁrmed Dengue Case— a suspected case with positive result for viral culture isolation, and/or Polymerase Chain Reaction (PCR). (Refer to PIDSR Manual of Procedures, 3rd Edition 2014). 
+
+V. GENERAL GUIDELINES  
+
+1. Aligned with the Dengue Program 48 strategy of “Seeking Early Consultation”, a suspected dengue case shall be eligible for Dengue NS] RDT test if the signs and/or symptoms manifest between day one and day ﬁve of the illness. THE DENGUE NSl RDT SHALL NOT BE USED TO A PATIENT BEYOND FIVE DAYS OF ILLNESS. 
+
+2. Dengue NSI RDT shall be used in support for the clinical diagnosis of suspected dengue. However, it shall not be the sole basis for the ﬁnal diagnosis of dengue. (RT-PCR, Hemagglutination Inhibition test and virus isolation remain to be the “conﬁrmatory test” for the detection of dengue virus in human blood.) 
+
+3. Dengue NSl RDT shall be performed by a health care worker, such as medical technologist, nurse, midwife, barangay health worker (BHW), and other health professional who has undergone appropriate training on its use. 
+
+4. The performance of Dengue NSl RDT shall be supported by a quality assurance system. 
+
+VI. SPECIFIC GUIDELINES 
+
+A. Screening and Early Diagnosis of Patient 
+
+1. An initial assessment of a suspected dengue case based on history of illness and physical examination shall be guided by A0 2012-0006: Revised Dengue Clinical Case Management Guidelines 2011 prior to using dengue NSl RDT. (Refer to Annex 1: Guide in the Initial Assessment of Suspected Dengue Case.) The Dengue NSl RDT shall only be performed to a patient who ﬁts the criteria of a SUSPECTED DENGUE CASE. 
+
+2. Serum, plasma or whole blood specimen shall be used for Dengue NSl RDT. Capillary blood shall be used if the health facility has limited laboratory equipment or there is no medical technologist available to perform the venipuncture. 
+
+3. A positive result shall be deﬁned as probable dengue case. However, a negative result does not rule out Dengue infection and therefore shall be correlated with the clinical information of the patient. The health provider shall rule out a window or convalescence period, wherein the virus may no longer be detected and antibody titer starts to rise. In this case, other laboratory tests may be performed. 
+
+B. Performing the Test 
+
+1. Specimen from the capillary blood may be obtained from a ﬁnger prick. (Refer to Annex 2: Methods for Collecting Specimen.) 
+
+2. The dengue NSl RDT shall be performed and the result shall be made available during the time of consultation. It shall observe the same day testing and releasing of result. 
+
+
+C. Recording and Reporting 
+
+1. All positive results shall be recorded as PROBABLE DENGUE CASE, while negative cases shall be recorded as SUSPECTED DENGUE CASE and shall be reported using the PIDSR Case Report Form (CRF) (Refer to Annex 4). Those with invalid interpretation after the second test shall still be recorded as SUSPECTED DENGUE CASE. 
+
+2. For interpretation of invalid results, the test shall be repeated on the same day when the ﬁrst test is done. The result of the second test shall be used as basis of the ﬁnal interpretation. Two invalid results shall still be classiﬁed as SUSPECTED DENGUE CASE and shall be managed accordingly. 
+
+3. The frequency for reporting shall follow the PIDSR reporting system. 
+
+D. Quality Assurance Program 
+
+1. Lot Testing 
+
+a. Pre-shipment lot testing: RITM shall subject ﬁfteen percent (15%) of RDT kits to evaluation prior to shipment to health facilities. 
+
+b. Post-shipment lot testing: RITM shall evaluate the RDT kits sent to three selected health facilities and then returned to RITM. 
+
+c. Report of the pre-shipment and post shipment testing shall be available after 2 weeks of receipt of the RDT kits. 
+
+2. External Quality Assurance 
+
+a. RITM shall conduct a proﬁciency testing to health facilities at least every two years. 
+
+b. Health facility passing the EQA shall receive a certiﬁcate valid for 2 years. 
+
+c. Health facility that will not pass the EQA shall subject to onsite assessment, retraining, and close monitoring of performance until all recommendations are satisfactorily met. 
+
+3. Validation 
+
+a. RITM and DPCB shall select 50 health facilities to send samples for validation. 
+
+b. Selected health facility shall store one sample per week collected from the agreed day and shall be sent to RITM on a quarterly basis. 
+
+c. RITM shall perform testing of these samples. 
+
+VII. ROLES AND RESPONSIBILITIES 
+
+A. Department of Health (DOH) 
+
+1. Disease Prevention and Control Bureau (DPCB) 
+
+The DOH—DPCB shall be responsible for the overall execution of the policy and guidelines on the introduction of Dengue Rapid Diagnostic Test (RDT) for the early diagnosis of dengue infection at the point of care level. The DPCB shall undertake the following tasks: 
+
+a) Lead in the formulation and dissemination of policy and guidelines for the use of dengue RDT; 
+
+b) Facilitate the orientation and/or training of concerned Regional Ofﬁces; 
+
+c) Oversee the procurement and distribution of dengue RDT supplies from the central to the peripheral health units. Ensure that the supplies are stored at room temperature not exceeding 30°C; 
+
+d) Provide funds and coordinate with RITM for the quality assurance system of the dengue RDT kits, and 
+
+e) Coordinate with EB for the data about dengue caSes speciﬁcally on the PROBABLE DENGUE CASES. Monitor and evaluate the implementation jointly with the region and provincial/city/municipal health ofﬁces and concerned technical partners. 
+
+2. Research Institute for Tropical Medicine (RITM) 
+
+a) Provide technical assistance for the implementation of the RDT testing in the following areas: training on proper colleCtion,hand11ng, transmit and storage anof specimens and kits, testing; and reporting of results.
+
+b) Perform lot testing of RDTs pre and post shipment. 
+
+c) Provide proﬁciency panel to serve as EQAS to health facilities. 
+
+d) Provide feedback and recommendations on the performance of RDT and health facilities to DPCB. 
+
+3. Epidemiology Bureau (EB) 
+
+a) Provide accurate, timely and complete data as basis for program use such as policy decisions, strategic directions and prioritization of resources; 
+
+b) Enhance the current PIDSR dengue case deﬁnition to include reporting of PROBABLE DENGUE CASE based on the result of the dengue RDT and reporting form; and 
+
+c) Strengthen reporting of dengue cases at the RHU level using the PIDSR reporting system. 
+
+4. PhilHealth 
+a) Review as necessary the dengue beneﬁt package to include dengue RDT result as one of the basis of claim both 1n public and In private sectors. 
+
+5. Department of Health Regional Ofﬁces (DOH—R0) 
+
+a) Ensure the dissemination, orientation and/or training of the Regional Ofﬁce staff on the dengue RDT implementation policy and guidelines for its adoption and implementation in different localities within their respective regions, 
+
+b) Integrate the monitoring of dengue RDT implementation in their existing monitoring teams, 
+
+c) Ensure the availability and continuous supply of dengue RDT kits at the RHUs for their regular provision of dengue services; 
+
+d) Strengthen existing communication/advocacy plans to continuously promote the 4S Laban sa Dengue Strategy alongside with the use of dengue RDT; 
+
+e) Support and ensure the implementation of the quality assurance system for dengue RDT; and 
+
+f) Ensure timely submission of dengue report using PIDSR reporting system including dengue RDT data. 
+
+B. Local Government Units 
+
+1. ProvinciallCitylMunicipal Health Ofﬁce (P/C/MHO) 
+
+a) Strengthen existing communication/advocacy plans to continuously promote the 4S Laban sa Dengue Strategy alongside with the use of dengue RDT; 
+
+b) Conduct orientation/training of concerned staff on the use of dengue RDT; 
+
+c) Advocate with municipalities/cities to adopt and support the use of dengue RDT; 
+
+d) Support the quality assurance system of dengue RDT; and 
+
+e) Provide weekly report to the region using the PIDSR reporting system. 
+
+2. Rural Health Units (RHUs) 
+
+a) Strengthen existing communication] advocacy plans to continuously promote the 4S Laban sa Dengue Strategy alongside with the use of dengue RDT; 
+
+b) Implement the use of dengue RDT for screening and early diagnosis of dengue cases; 
+
+c) Ensure proper storage of dengue RDT kits to ensure longer shelf life; and 
+
+d) Ensure timely submission of dengue report using PIDSR reporting system including dengue RDT data. 
+
+VIII. REPEALING CLAUSE 
+No previous Orders inconsistent in part or in whole to this Administrative Order are being rescinded or amended. 
+
+IX. EFFECTIVITY 
+This Order shall take effect immediately. 
+</body>
+
+<sign>PAULYN JEAN B. ROSELL-UBIAL, MD, MPH, CESO II</sign>
+<signtitle>Secretary of Health</signtitle>
+
+
+<image>figure_1.png</image>
+<image>figure_2.png</image>
+
+
+Annex 3: Specimen Collection and Testing 
+
+A. Sample Collection 
+
+1. Serum samples 
+
+a. Collect 3 to 5ml of whole blood using red or yellow top tubes following the usual guidelines for venipuncture. Allow blood to clot at room temperature for 30 minutes. 
+b. Process into serum. 
+c. Aliquot at least lml of serum for validation testing in RITM. 
+
+2. Capillary blood samples 
+
+a. Collect at least 3 drops of capillary blood following the usual guidelines for capillary blood collection. 
+b. The puncture should be one quick, continuous and deliberate stroke, to achieve a good ﬂow of blood and to prevent the need to repeat the puncture. 
+c. Wipe away the ﬁrst drop of blood because it may be contaminated with tissue ﬂuid or debris. 
+d. Avoid squeezing the ﬁnger or heel too tightly because this dilutes the specimen with tissue ﬂuid (plasma) and increases the probability of haemolysis 
+e. Place 3 drops of blood directly onto the Dengue NSl-Ag RDT sample well. 
+
+1. PRE-ANALYTIC 
+
+a. Bring out the Dengue NSl—Ag RDT kit from the refrigerator and equilibrate at room temperature for 30 minutes. Do not perform the test unless the kit is at room temperature (20-25 °C). 
+b. Mix by vortex mixer and spin down the samples for around 10-20 seconds. 
+c. Prepare the working area: place the absorbent liner with biohazard bags on top of the bench. 
+d. Prepare test protocol by ﬁlling up all information and arrange samples in the same order as reﬂected in the testing protocol. 
+
+2. ANALYTIC: 
+
+a. Remove the cassette from the foil pouch and place it on a table just prior to use. 
+b. Label the cassette with the corresponding Laboratory ID. 
+c. Place 3 drops of serum or whole blood into the sample well. If using a micropipette, add 100ul of serum or whole blood. 
+d. Incubate at room temperature for 20 minutes. 
+e. Read the results by grading the intensity of the band as follows: 
+
+<image>table_1.png</image>
+ 
+f. Record the reading into the protocol
+g. A second reader is to validate the results
+
+
+3. POST ANALYTIC: 
+
+a. Results are to be interpreted as follows: 
+<image>table_2.png</image>
+ 
+
+ANNEX 4: Specimen Handling, Transport and Storage 
+
+A. Handling and Storage of Dengue NS1-Ag RDT 
+
+1. The Dengue NS1-Ag RDT kits shall be transported at temperatures between 2- 25°C. 
+2. The Dengue NSl-Ag RDT kits shall be stored inside a refrigeratOr between 2- 8°C until expiration date. 
+3. A single pouch of RDT corresponds to the number of samples to be tested. The RDTs shall not be repeatedly taken 1n and out of the refrigerator to maintain its stability. 
+
+B. Storage and Transport of Serum Samples for Validation 
+
+1. Aliquots of samples stored for validation testing shall be sent to RITM following usual system of sample referral. 
+2. The vials shall be placed inside a resealable plastic bag and sent together with the information sheet. 
+3. Place the bag into the transport box with 4 to 6 frozen ice packs. 
+
+<image>figure_3.pmg</image>
+
+Annex 7. Instruction on How to Use the Dengue NS1 RDT Registry 
+
+This Dengue NSl RDT Registry is to be ﬁlled-out properly using blue or black pen by the Medical Technologist or trained worker assigned in the facility to perform the Dengue NSl Rapid Diagnostic Test (RDT). Positive examination result should be writtenin the Registry using red pen for easier identiﬁcation. 
+
+1. Write down the name of region, province and municipality where the facility is 
+
+2. Write down the name of the person who is ﬁlling-out the form and his/her contact number. 
+
+3. Write down the quarter and year the Dengue NSl RDT was performed. It is advisable to use a new sheet of the Registry for a different quarter. Fill in columns as follows: 
+
+Column 1: Date of Collection/ Examination —date the specimen is collected and examined. Write date in mm/dd/yy format.
+
+Column 2: Case Number— consecutive number assigned to a person as s/he comes in the facility. One person shall receive one case number only regardless of how many times he/she submitted specimens for testing. Write Case Number using the following format: year-xxxx. (ie.2016-0001, 2016-0002, and so on) 
+
+Column 3: Write family name ﬁrst, all in capital letters, then the ﬁrst name and middle initial of the patient. 
+
+Column 4: Age-write age in complete years as of the last birthday or months if less than one (1) year old. 
+
+Column 5: Sex-write F for female, write M for male.
+
+Column 6: ddress- write complete address of the person and his/her contact number.
+
+Column 7: Duration of Signs and Symptoms- number of interval days since the ﬁrst signs and symptoms appear and before the blood specimen is drawn.
+
+Column 8: Result of Dengue NS1 RDT- write P for positive result, N for negative result and I for indeterminate result. Repeat test if the result is indeterminate and follow the same instructions above in writing result.
+
+Column 9: Examined by-write name of the Medical Technologist or health worker who performed the test. Do not afﬁx signature only. 
+
+Column 10: Case Classiﬁcation-identify patient as follows: 
+a. Dengue without Warning Signs 
+- Suspect case- person with acute febrile illness of 2-7 days duration plus two of the following: headache, body malaise, myalgia, arthralgia, retro—orbital pain, anorexia, nausea, vomiting, diarrhea, ﬂushed skin, rash (petechial, Hennan’s sign). Write S for suspect case. 
+- Probable case-a suspect case with a laboratory test result positive with Dengue NSl RDT. Write P for probable dengue case. 
+
+b. Non—Dengue case- a suspect case ruled out for dengue disease and becomes suspect for other diseases upon result of Dengue NS1 RDT. Write ND for Non-Dengue case. 
+
+
+Column 11: Decision of Health Worker- health worker decides on the intervention to be provided to the person after laboratory test that may include the following: 
+- Home Care/ Home Management. Write HC or HM. 
+- Refer to physician or hospital. Write Refer. 
+- Consider other diseases or other tests. Write other disease or other test. 
+
+Column 12: Remarks- write any remarks including but not limited to what happened to the specimen or patient (ie. repeat collection, repeat examination, rejected specimen, 
+
+<image>figure_3.png</image>
+<image>figure_4.png</image>
+<image>figure_5.png</image>

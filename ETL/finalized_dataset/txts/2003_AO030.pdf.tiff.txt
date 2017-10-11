@@ -1,0 +1,122 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound
+Rizal Avenue, Sta. Cruz
+1003 Manila, Philippines
+Trunk Line 743-83-01
+Direct Line 711-95-02 to 03
+Fax Line 743-18-29
+
+ 
+<date>03/24/2003</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 30 s. 2003</docnum>
+
+<subject>SUBJECT: Guidelines for the Lease / Rental of Computers,Communication, Information and other Equipment</subject>
+
+
+<body>
+
+I. RATIONALE
+
+Article XIV, section 46 of the Republic Act No. 9184 entitled “An act providing for the modernization, standardization and regulation of the procurement activities of the Government and for other purposes,” authorized that the “(l)ease of construction and office equipment including computers, communication and information technology equipment are subject to the same public bidding and to the processes prescribed under this Act.”
+
+Section 36 of the Implementing Rules and Regulation of the Executive Order No.40 entitled “Consolidating procurement rules and procedures for all national government agencies, government owned or controlled corporations and government financial institutions, and requiring the use of electronic procurement system,” specifically under 36.6 authorizes the lease of common Information" Communication and Technology (ICT) equipment (e.g. personal computers, printers, scanners, including copiers). Such was provided in order to save on the annual budget and to take advantage of advances in information technology albeit such lease rental are subject to public bidding and on the prevailing assumption that the useful life of for ICT equipment is at least three (3) years
+
+II. COVERAGE
+
+This Order shall be applicable to all lease rentals of ICT equipment under the DOH Central Office.
+
+III. PURPOSE
+
+This Order is thus formulated in order to:
+
+1) Provide guidelines, systems and procedures for the different Offices/Units within the DOH Central Office in the processing their proposals for lease rentals of ICT equipment, and
+
+2) Identify the roles and responsibilities of key units Units/Office in the DOH which undertakes the processing of lease rentals.
+
+IV. GENERAL GUIDELINES
+
+1. ICT equipment for lease rental. shall be reﬂected on the Annual Procurement Plan (APP)of the requesting unit and the Information Systems Plan of the DOH.
+
+2. The specification and terms of conditions reﬂected on the Purchase Request of end-user Offices/Units shall be cleared by the Information Management Service.
+
+3. The Information Management Service shall be the unit of primary reaponsibility in develop ng and standardizing specification, terms of reference/ terms and conditions for lease rentals of ICT equipment.
+
+4. The Procurement and Logistics Service with the support of the Information Management Service shall m nitor the prevailing market price of ICT equipment that are intended to be leased rented by the DOH from at least three (3) reputable suppliers on a semester basis or as often as practicable. Such price analysis shall be the basis in the preparation of budget by the requesting Units/Office unless there are current circumstances beyond the control of the DOH that gravely deviate previously determined prices. The said prevailing price shall be disseminated by the Procurement and Logistics Service to all concerned Office/Units.
+
+5. The lease rental of ICT equipment shall be in accordance with the procedures set by RA 9184 and other pertinent statutes.
+
+6. All leased/rented ICT equipment shall be subjected to inspection and shall be separately tagged and inventoried from those acquired by the DOH under other procurement procedures.
+
+V. SPECIFIC GUIDELINES
+
+A. Preparation of Specifications and Terms and Conditions
+
+1. The Information Management Service shall be responsible in preparing standards for specifications and terms and conditions of ICT equipment that are to be procured through lease rental;
+
+2. The End-user Units/Offices may submit specifications and terms and conditions to the IMS for consideration or incorporation to standards set;
+
+3. The Terms and Conditions shall include provisions on frequency of payment, manner and procedure of payment, minimum maintenance service required, duration of contract and approved agency budget for the contract,
+
+4. The approved standard specifications and Terms rand Conditions of ICT equipment for lease shall be posted on conspicuous places of the DOH, or circularized under Department Memoranda, or through the DOH Website.
+
+B. Inclusion of Items for Lease Rental in the Annual Procurement Plan and Information Systems Plan
+
+1. Only items explicitly reﬂected in the Annual Procurement Plan and Information Systems Plan shall be considered for procurement;
+
+2. Items which are not previously reﬂected 1n the APP may still be included by submitting a Supplemental APP;
+
+3. The items for lease rental must be reﬂected in the APP together with their corresponding agency approved budget and summary of terms and conditions.
+
+C. Purchase Request Preparations:
+
+1. End-user units shall prepare the Purchase Request (PR) of ICT equipment for lease rental after using the standards set by the IMS;
+
+2. End-user units shall submit the prepared PR to the IMS for clearance;
+
+3. Once a clearance is issued by the IMS for a PR, the IMS shall return the PR to the End-user unit so that the latter will submit the same to the Procurement Division;
+
+4. Cleared PRs submitted to the Procurement Division shall be checked if the items for lease rental are reflected In the APP;
+
+5. The PRs cleared and checked by the Procurement Division shall then be scheduled for Public Bidding or the appr0priate modes of procurement in accordance with the pertinent provision of RA 9184.
+
+D. Mode of Procurement
+
+1. The Central Office Bids and Awards Committee shall recommend the appropriate mode of procurement;
+
+2. As far as practicable, Public Bidding shall be the mode of procurement;
+
+3. The COBAC may pool similar items for lease rental in order to undertake bulk procurement, notwithstanding the time factor with which such items are required to be delivered
+
+E. Inspection and Inventory
+
+1. The items procured under lease and rental conditions shall be subjected to the usual inspection and acceptance procedures of the DOH;
+
+2. The End-user shall be directly responsible in maintaining delivered items under lease rental. Such items shall be covered with Memorandum Receipts, and Equipment Ledger Cards to establish accountabilities;
+
+3. The items under lease rental shall be inventoried and tagged separately from other items procured by DOH;
+
+4. The items under lease rental shall be reflected from the appropriate book of accounts from the time such are delivered and accepted by the DOH until replacement or termination of contract;
+
+5. Equipment ledger Cards for ICT equipment shall be prepared and issued by the IMS to the End-user units;
+
+6. Equipment Ledger Cards shall be surrendered by the End—user units to the IMS upon the termination of the lease rental contract, auditing of accountable persons assigned with the mamtenance of the ICT equipment or replacement of the equipment by the Contractor.
+
+VI. REPEALING CLAUSE
+
+Provisions from previous issuances that are inconsistent or contrary to the provisions of this Order are hereby rescinded and modified accordingly.
+
+VII. SEPARABILITY
+
+If any provision of this Administrative Order is declared invalid, the other provisions not affected thereby shall remain valid and subsisting.
+
+VIII. EFF ECTIVITY
+
+The provisions in this Order shall be effective immediately.
+
+ 
+</body>
+<sign>MANUEL M. DAYRIT, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>

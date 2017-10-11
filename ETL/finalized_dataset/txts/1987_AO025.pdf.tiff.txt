@@ -1,0 +1,22 @@
+﻿Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+<date>10/8/1987</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 25 s. 1987</docnum>
+<subject> Subject: Delegation of authority to Undersecretary TOMAS P. MARAMBA, JR. to approve contracts of affiliation between Schools, Colleges and Universities affiliating with Department of Health Hospitals and Rural Health Units.</subject>
+
+<body>
+	To expedite the approval of contracts of affiliation between schools, colleges and universities affiliating with Department of Heath Hospitals and Rural Health Units, Dr. TOMAS P. MARAMBA, JR., undersecretary of Health for Standards and Regulation is hereby delegated the authority to approve such contracts.
+	Accordingly, Dr. Maramba shall approve contracts as follows:
+“APPROVED By the authority of the Secretary of Health”
+TOMAS P. MARAMBA, JR., M.D. M.H.A.
+Undersecretary of Health for Standards and Regulation”
+
+This Order Shall take effect immediately.
+</body>
+<sign>ALFREDO R. A. BENGZON, M.D.</sign>
+<signtitle>Secretary of Health</signtitle>

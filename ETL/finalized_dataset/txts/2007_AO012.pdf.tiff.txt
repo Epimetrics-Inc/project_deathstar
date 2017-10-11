@@ -1,0 +1,597 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila, Philippines 1003
+Tel. No. (632) 743-8601 locals 1107, 1125; (632) 711-9502/03;
+TeleFax: (632) 743-1829
+Email Address: osec@.doh.gov.ph Website: http://www.doh.gov.ph
+
+<date>03/09/2007</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2007- 0012</docnum>
+
+<subject>SUBJECT: Philippine National Standards for Drinking Water 2007</subject>
+
+<body>
+I. RATIONALE/INTRODUCTION
+
+Access to safe drinking water is not only essential for the promotion and protection of public health but is a basic human right. Provision of safe water supply prevents the transmission of waterborne pathogens and reduces the exposure of individuals to chemical and physical hazards that could be ingested through contaminated drinking water. Diarrheas and other waterborne diseases still rank among the leading causes of illnesses in the country. It is apparent that continuous development or refinement of policies and programs geared towards minimizing the risk of contracting waterborne diseases should be supported to provide optimal health service for the population.
+
+Setting standards for drinking water establishes threshold limits for different impurities found in drinking water. These limits are intended to minimize risk and therefore prevent deleterious health repercussions that result from lifelong exposure to these impurities through consumption of water. The Department of Health is mandated to formulate standards to this effect. Chapter II (Water Supply), Section 9 of the Code on Sanitation of the Philippines states that "Standards for drinking water and their microbiological and chemical examinations, together with the evaluation of results, shall conform to the criteria set by the National Drinking Water Standards."
+
+The government recognizes recent quality-related developments in the water supply sector in the country and elsewhere such as the following:
+
+1. New information on many chemicals. As an outcome of evolving agricultural, indUstrial and even domestic practices, new chemicals find their way into the environment and contaminate drinking water sources
+
+2. Proliferation of water refilling stations as alternative (or main) sources of drinking water. The quality of "processed" water from these stations may require distinct standards compared to the water from large water systems.
+
+3. Detection of naturally occurring hazardous substances in groundwater, e.g. arsenic and fluoride. The presence of these chemicals is inevitable constituent in some water sources.
+
+4. The need for different approaches in supporting safe management of water supply systems.
+
+While PNSDW 2007 aims to achieve more comprehensive parameters to address issues on water quality, it also advocates for an efficient water quality surveillance system by prioritizing the parameters that need to be monitored (refer to Annex 1). The concept of performance targets through the application of water safety plans has been introduced to encourage water providers to systematically monitor the quality of water at all phases of production and distribution.
+
+The standards set in 2007 PNSDW are based on guidelines or criteria that are recommended by international institutions like the World Health Organization, United States Environmental Protection Agency, etc. There are certain factors that the national government should consider whether or not to adapt these guideline values. First, standards that are very stringent could limit the availability of water supply that meets such levels. National standards are influenced by national priorities and economic factors. The judgment of safety, or what is acceptable level of risk in particular circumstances, is a matter that our society should decide.
+
+II. OBJECTIVE
+
+To protect public health, safety and welfare by ensuring quality standards of drinking water.
+
+III. SCOPE/COVERAGE
+
+These standards shall apply to all waterworks officials, developers and operators of water supply systems both government and private entities, water refilling station operators, water vending machine operators, ice manufacturers, all establishments and institutions that supply or serve drinking water, drinking water laboratories, health and sanitation authorities, the general public and all other concerned
+
+IV. DEFINITION OF TERMS
+
+As used in this document, the terms below shall be defined as follows:
+
+Acceptability - physical or chemical quality of water that conforms to the appearance, taste and odor or drinking water that satisfy the consumer.
+
+Aerobic bacteria - bacteria that live or occur only in the presence of oxygen.
+
+Agricultural land - a tract of land cultivated for the purpose of agricultural production including but not limited to crop production, raising and breeding of domestic animals, raising, breeding, or production of a specific aquatic animal, and similar activities.
+
+Algae - any of various chiefly aquatic, eukaryotic, photosynthetic organisms, ranging in size from single-celled forms to the giant kelp.
+
+Anaerobic - a descriptive term for a process such as fermentation that can proceed only in the absence of oxygen or a living thing that can survive only in the absence of oxygen.
+
+Banned pesticides - pesticides whose use in the country has been prohibited by official order by the government
+
+Bioaccumulation - is the accumulation of substances in life forms or biological system through uptake from the environment or the food chain
+
+Biofilm - a microbial (bacterial, fungal, algal) community, enveloped by the extracellular biopolymer, which these microbial cells produce, that adheres to the interface of a liquid and a surface
+
+By-product - a secondary or incidental product deriving from a manufacturing process or chemical reaction that is not the primary product or service being produced.
+
+Chlorination - the process of adding the element chlorine to water disinfection to make it fit for human consumption as drinking water.
+
+Coagulation - is a water treatment process that promotes aggregation of small particles into larger particles that can be subsequently removed by sedimentation and/or filtration.
+
+Coliform Organisms (Total Coliforms) - refers to any rod-shaped, non-spore-forming gram negative bacteria capable of growth in the presence of bile sales, or other surface-active agents with similar growth-inhibiting properties which are cytochrome-oxidase negative and able to ferment lactose at either 35 or 37°C with the production of acid, gas and aldehyde within 24-48 hours.
+
+Composite sample - a series of individual grab samples taken at different times from the same sampling point and mixed together
+
+Consumer's tap - a valve and spout used to regulate delivery of water supply located at end of the water distribution systems usually within the vicinity of the houses or buildings.
+
+Contact time - the length of time water supply is held in direct contact with a treating agent, e.g. chlorine solution.
+
+Contamination - a general term referring to the introduction of materials not normally found in water that make the water less desirable or unfit for its intended use.
+
+Cyanotoxin - any of several poisonous substances produced by certain cyanobacteria.
+
+Decomposition - refers to the reduction of the body of a formerly living organism into simpler forms of matter.
+
+Detergent - a substance used to enhance the cleansing action of water, which acts similarly to soap but is made from chemical compounds rather than fats and lye
+
+Disinfection - water treatment processes designed to destroy disease-causing microorganisms. The efficacy of disinfection is often assessed by measuring the coliform group of indicator organisms.
+
+Dissolution - any of a class of chemical reactions in which solute and solvent molecules combine with relatively weak covalent bonds.
+
+Drinking water - water intended for direct human consumption or use in food preparation. Where high quality waters are scarce, the quality of water used for other domestic purposes need not be as high as that of drinking water.
+
+Effluent - an outflowing of water from a natural body of water or from a sewage treatment facility
+
+Facultative Bacteria - bacteria that can adapt themselves to growth and metabolism under aerobic or anaerobic conditions. Many organisms of interest in wastewater stabilization are among this group.
+
+False negative - negative test result when the attribute for which the subject is being tested actually exists in that subject
+
+False positive - a positive finding of a test when, in fact, the true result was negative.
+
+Fecal coliforms - subgroup of coliform bacteria that has a high positive correlation with fecal contamination associated with all warm blooded animals. These organisms can ferment lactose at 44.5°C and produce gas in a multiple tube procedure (EC Confirmation) or acidity with Membrane Filter procedure
+
+Fecal indicator organisms - microorganisms that when detected present in water supply signals fecal pollution of water
+
+Fitting - any machine, piping, or tubing part that can attach or connect two or more larger parts in a plumbing system
+
+Flora - refers to the collective bacteria and other microorganisms in an ecosystem (usually an animal host or a single part of its body
+
+Freshwater - water with less than 0.5 parts per thousand dissolved salts which may be found in lakes, rivers, and groundwater.
+
+Galvanized pipe - iron or steel pipe that is coated with rust-resistant zinc.
+
+Grab sample - a single water sample collected at one time from a single point.
+
+Gram-negative bacteria - bacteria that decolorize and accept the safranin stain which appears pink using the gram-stain technique
+
+Gross alpha and gross beta radioactivity - radioactivity emanating from radionuclides belonging to the uranium, thorium and actinium series, which are terrestrial in origin. It also includes radionuclides that occur singly and are produced by cosmic rays and are terrestrial in origin.
+
+Groundwater - water that occurs below the surface of the Earth, where it occupies spaces in soils or geologic strata
+
+Humic Acid - a complex organic acid that is present in soil, peat, and coal formed from the decomposition of vegetable matter. It is responsible for much of the color in water.
+
+Igneous - rocks or processes involving the formation and solidification of hot, molten magma produced under conditions involving intense heat
+
+Ion - an atom or a group of atoms that has acquired a net electric charge by gaining or losing one or more electrons
+
+Leaching - is the loss of soluble substances and colloids from ores or other rock formations beneath the Earth's surface into groundwater. it is also the separation of soluble substances from plumbing materials into water supply.
+
+Level I (or point source) - a protected well or a developed spring with an outlet but without distribution system, generally adaptable for rural areas where the houses are thinly scattered. A level I facility normally serves 15 to 25 households and its outreach must not be more than 250 meters from the farthest user. The yield or discharge is generally from 40 to 140 liters per minute.
+
+Level II (communal faucet system or standposts) - a system composed of source, a reservoir, piped distribution network and communal faucets, located no more than 25 meters from the farthest house. The system is designed to deliver 40 to 80 liters per capita per day to an average of 100 households, with one faucet per 4 to 6 households. It is generally suitable for rural and urban areas where houses are clustered densely to justify a simple pipe system.
+
+Level III (waterworks system or individual house connections) - a system with a source, a reservoir, a piped distribution network and household taps. It is generally suited for densely populated areas. This level of facility requires a minimum treatment of disinfection.
+
+Local health authority - a government official or employee responsible for application of a prescribed health measure in a local political subdivision. It is the provincial governor, city or municipal mayor, as the case maybe.
+
+Metabolite - organic compound that is a starting material in, an intermediate in, or an end product of metabolism.
+
+Methylation - refers to the replacement of hydrogen atom (H) with a methyl group (CH3), regardless of the substrate.
+
+Most Probable Number (MPN) - a statistical method of determining microbial populations. A multiple dilution tube technique is utilized with a standard medium and observations are made for specific individual tube effects. Resultant coding is translated by mathematical probability tables into population numbers.
+
+Oxidation - a chemical reaction in which the atoms in an element lose electrons and the valence of the element is correspondingly increased
+
+Persistence - extent to which compounds in the environment tend to accumulate and do not easily degrade as a result of natural processes of decomposition
+
+Pesticide - chemical substance or biological agent used against pests including insects, plant pathogens, weeds, mollusks, birds, mammals, fish, nematodes, and microbes that compete with humans for food, destroy property, spread disease or are a nuisance.
+
+Petroleum - a substance, generally liquid, occurring naturally in the earth and composed mainly of mixtures of chemical compounds of carbon and hydrogen with or without other nonmetallic elements such as sulfur, oxygen, and nitrogen.
+
+Pipe - a long hollow cylinder used chiefly to convey water supply or sewage
+
+Plumbing - includes the pipes, materials, fixtures and other appurtenances used in the installation, maintenance, extension or alteration of building water supply system and building drainage system.
+
+Potable water - water suitable (both health and acceptability considerations) for drinking and cooking purposes
+
+Proteinaceous - pertains to any adhesive material having a protein base such as animal glue, casein, and soya.
+
+Radioactivity - the spontaneous emission of radiation, generally alpha and beta particles, often accompanied by gamma rays, from the nucleus of an unstable isotope.
+
+Registered pesticides - types of pesticides that are imported or manufactured locally and are officially recognized by the government for use in the country.
+
+Residual chlorine - When a sufficient dosage of chlorine is applied to water, microorganisms of sanitary significance are destroyed and there is a reaction on all oxidizable matter. After all these reactions have taken place, at the end of a specified contact time, there remains a certain minute quantity of chlorine in the water. its presence in the water is usually an indication of sufficiency of treatment or chlorination, and is therefore an assurance of protection of the microbiological quality.
+
+Risk assessment - an estimate of the severity or likelihood of harm to populations or ecosystems from exposure to hazard
+
+Sedimentary rock - rock that has formed through the deposition and solidification of sediment, especially sediment transported by water (rivers, lakes, and oceans), ice (glaciers), and wind.
+
+Solvent - a substance, ordinarily a liquid, in which other materials dissolve to form a solution. The most familiar and widely used solvent is water. Other compounds valuable as solvents because they dissolve materials that are insoluble or nearly insoluble in water are acetone, alcohol, benzene (or benzol), carbon disulfide, carbon tetrachloride, chloroform, ether, ethyl acetate, furfural, gasoline, toluene, turpentine, and xylene (or xylol).
+
+Trace element - an element found in small quantities (usually less than 1.0%) in a mineral also known as accessory element or guest element.
+
+Turbidity - a cloudiness or haziness of water (or other fluid) caused by individual particles that are too small to be seen without magnification. Turbidity in drinking water is caused by particulate matter that may be present from source as a consequence of inadequate filtration or from resuspension of sediment in the distribution system
+
+Water Refilling stations - establishments where water is purified, sold and placed in water containers
+
+Water safety plan - a comprehensive risk assessment and risk management approach that encompasses all steps in water supply from catchments to consumer to ensure the safety of drinking water supply.
+
+Water softening - any physical or chemical process of reducing the concentration of divalent cations (including calcium and magnesium) in water supply.
+
+Water treatment works - includes devices and equipment or physical and chemical processes for making water suitable for human consumption and other purposes
+
+IV. GENERAL REQUIREMENTS
+
+1. Microbiological Quality
+
+1.1. Public Health Implications
+
+Drinking-water supplies should be free from contamination by human and animal excreta, which can contain a variety of microbial contaminants. Microbiological parameters are indices of potential waterborne diseases and, in general, are limited to bacteria, viruses and pathogenic protozoa. The major interest in classifying and issuing standards is the identification, quantification, and evaluation of organisms associated with waterborne diseases. Practically, all pathogenic organisms that can be carried by water originate from the intestinal tract of warm blooded animals.
+
+Bacterial intestinal pathogens known to be transmitted in drinking-water are strains of Salmonella, Shigella, enterotoxigenic Escherichia coli, Vibrio cholerae, Yersinia enterocolitica and Campylobacter fetus, Legionella pneumophila although, a soil bacterium, may be contracted by inhalation exposure to the bacteria in water.
+
+There are also many common viral and protozoan organisms that transmit disease in humans. Human enteric viruses that may be present in water include poliovirus, Echovirus, Coxsackie Virus A, Coxsackie Virus B, new enterovirus types 68-71, Hepatitis type A, Gastroenteritis type Norwalk, Rotavirus and Adenovirus. The protozoans are Glardia, Cryptosporidium SPP, Entamoeba histolytica, Balantidium coli, Naegleria and Acanthamoeba.
+
+Public health concern regarding cyanobacteria relates to their potential to produce a variety of toxins, known as "cyanotoxins." In contrast to pathogenic bacteria, cyanobacteria do not proliferate within the human body after uptake; they proliferate only in the aquatic environment before intake. Toxic peptides (e.g., microcystins) are usually contained within the cells and may be largely eliminated by filtration. However, toxic alkaloids such as cylindrospermospsin and neurotoxins are also released into the water and may pass through filtration systems.
+
+Some microorganisms will grow as biofilms on surfaces (e.g. pipelines) in contact with water. Although most of these organisms do not cause illness to human, they can cause nuisance through generation of taste and odor or discoloration of drinking-water supplies. Growth following drinking-water treatment is referred to as "regrowth". It is typically reflected in measurement of increasing heterotrophic plate counts (HPC) in water samples. Elevated HPC occur especially in stagnant parts of piped distribution systems, in domestic plumbing, in some bottled water and in plumbed-in devices such as water softeners, carbon filters and vending machines.
+
+Potential consequences of microbial contamination are such that it must be of paramount importance and must never be compromised. It should be the primary concern of water providers to secure microbial safety of drinking-water supplies based on the use of multiple barriers, from catchments/source to consumer, to prevent the contamination of drinking-water or to reduce contamination to levels not deleterious to public health. Two approaches can be used to reduce the risk of bacterial, viral and parasitic infection to a negligible level: providing drinking water from a source verified free of fecal contamination or adequately treating fecal contaminated water. It is particularly more important to prevent or reduce the entry of pathogens into water sources than to rely on treatment processes to remove these pathogens.
+
+Local health authorities should advocate the preparation and implementation of water safety plans (refer to Annex 2) to consistently ensure drinking water safety and thereby protect public health.
+
+1.2. Microbiological Indicators of Drinking-Water Quality
+
+Frequent examinations for fecal indicator organisms remain as the most sensitive and specific way of assessing the hygienic quality of water. Fecal indicator bacteria should fulfill certain criteria to give meaningful results. The tests required to detect specific pathogens are generally very difficult and expensive so it is impractical for water systems to routinely test for specific types of organisms. A more practical approach is to examine the water for indicator organisms specifically associated with fecal contamination. An indicator organism essentially provides evidence of fecal contamination from humans or warm-blooded animals. The criteria for an ideal organism are as follows:
+
+a. Always present when pathogenic organism of concern is present, and absent in clean, uncontaminated water.
+b. Present in large numbers in the feces of humans and warm-blooded animals
+c. Respond to natural environmental conditions and to treatment process in a manner similar to the waterborne pathogens of interest
+d. Readily detectable by simple methods, easy to isolate, identify and enumerate
+e. Ratio of indicator/pathogen should be high
+f. Indicator and pathogen should come from the same source (gastrointestinal tract).
+
+No organism fulfills all the criteria for an indicator organism, but the coliform bacteria fulfill most. The coliform group of bacteria (also called as total coliforms) is defined as all the aerobic and facultative anaerobic, gram-negative, nonspore-forming, rod-shaped bacteria that ferment lactose with gas formation within 48 h at 35°C. This definition includes E. coli, the most numerous facultative bacterium in the feces of warm-blooded animals, plus species belonging to the genera Enterobacter, Klebsiella, and Citrobacter.
+
+Total coliform could be considered as part of natural aquatic flora because of their regrowth in water. Because of this characteristic, their detection in water supply may mean false positive for fecal contamination. Another way by which false positive can occur is when the bacteria Aeromonas is present in the sample. Aeromonas can biochemically mimic the coliform group. False negatives can occur when coliforms are present along with high populations of HPC bacteria. The presence of HPC bacteria may restrict the activities of coliform group bacteria.
+
+Thermotolerant fecal coliforms are a subgroup of total coliforms that are differentiated from the total coliforms through laboratory examinations using elevated temperature (43 to 44.5°C). Although fecal coliforms provide stronger evidence of fecal contamination than total coliforms, they could not be distinguished as human or animal origin. E. coli is the indicator organism of choice for fecal contamination.
+
+On the other hand, Heterotrophic Plate Count (HPC) describes a broad group of bacteria that include pathogens, nonpathogens and opportunistic microorganisms. HPC could be used to indicate general biological condition of drinking-water as a consequence of insufficiency of treatment processes, regrowth or recontamination of drinking water in the distribution system.
+
+Water intended for human consumption should contain no indicator organisms. However, pathogens more resistant to conventional environmental conditions or treatment technologies may be present in treated drinking-water in the absence of E. coli or total coliforms. Protozoa and some enteroviruses are more resistant to many disinfectants including chlorine, and may remain viable and pathogenic in drinking-water following disinfection process.
+
+1.3. Standard Methods of Detection and Values for Microbiological Quality
+
+<image>table_1.png</image>
+
+Standard Methods for the Examination of Water and Wastewater, 20th Edition, 1998
+* Should be validated and approved by Department of Health
+
+<image>table_2.png</image>
+
+Standard Methods for the Examination of Water and Wastewater, 20th Edition, 1998
+* Should be validated and approved by Department of Health
+
+1.4. Sampling and Analysis for Microbiological Quality
+
+To determine the safety and acceptability of drinking-water supply, appropriate laboratory examinations should be conducted on representative samples of water taken at all critical stages in the production and consumption of water supply. These stages include, and not limited to: the water sources, in the course of and after the treatment process (if any), and from a reasonable number of points in the distribution network. Microbiological examination, is. determination of fecal contamination of water supply, is conducted more frequently than the other tests because of the high probability of microbial contamination and the extent of public health it might cause.
+
+1.4.1 Volume of sample
+
+The volume of sample should be sufficient to carry out all tests required, preferably not less than 100 ml.
+
+1.4.2 Sample container
+
+Collect samples for microbiological examination in 120 ml clear bottles that have been cleansed and rinsed carefully, given a final rinse with distilled water and sterilized as directed in the standard method of analysis for water and wastewater. Sampling bottles should be provided with either ground glass stoppers or plastic screw caps. A paper or a thin aluminum foil cover should protect both the stopper and neck of the bottle. For waters that have been chlorinated, add 0.1 ml of a 3% solution of sodium thiosulfate (Na2S2O3) to a clean sample bottle before sterilization
+
+1.4.3 Sample Collection, Handling and Storage
+
+The sample should be representative of the water under examination. Contamination during collection and before examination should be avoided.
+
+The tap should be cleaned and free from attachments and fully opened with water allowed to waste for a sufficient time to permit the flushing/clearing of the service lines. Flaming is not necessary. Taps with a history of previous contamination may be disinfected with hypochlorite solution (NaOCl 100 mg/L). No samples shall be taken from leaking tape.
+
+The sampling bottle should be kept unopened until it is ready for filling. Remove stopper or cap as a unit; do not contaminate inner surface of stopper or cap and neck of bottle. Fill container without rinsing, it should be filled without rinsing and ample space (at least 2.5 cm) must be left to facilitate mixing by shaking. Replace stopper or cap immediately.
+
+Water samples should be processed promptly or within six (6) hours after collection or if not possible the use of ice coolers for storage of water samples during transport to the laboratory is recommended. The time elapsed between collections and processing should in no case exceed 24 hours.
+
+1.4.4 Identification of Samples
+
+Sampling bottles must be tagged with complete and accurate identification and description. The information about the samples can be recorded in a request form for analysis of water quality.
+
+1.4.5 Frequency of Sampling
+
+The minimum number of samples to be collected and examined periodically must be based on the mode and source of water supply (as shown in Table 1).
+
+However, frequency of sampling should also take into account the past frequency of records yielding unsatisfactory results, the quality of raw water treated, the number of raw water sources, the adequacy of treatment and capacity of the treatment plant, risks of contamination at the source and in the distribution system, the size and complexity of the distribution system, the risk of an epidemic and the practice of disinfection.
+
+Table 1. Minimum Frequency of Sampling for Drinking-Water Supply Systems for Microbiological Examination
+
+<image>table_3.png</image>
+
+1.4.6 Location of Sampling Points.
+
+Adherence to the set guidelines for sampling point selection must be observed. These guidelines cover zoning of piped water supply as well as sampling from the point source (refer to Annex 3).
+
+2. Chemical and Physical Quality
+
+2.1 Chemical Contaminants
+
+Various forms of chemicals, which occur naturally in the environment and in raw, water or used in agriculture, industries, and water treatment processes or domestically may be found in drinking water supplies. There are few chemical constituents of water that can lead to acute health problems except through massive accidental contamination of drinking water supply. In such incidents, water usually becomes undrinkable owing to unacceptable taste, odor, and appearance.
+
+Certain inorganic constituents may be present in drinking water as a result of leaching out of piping or plumbing materials such as lead, copper, asbestos, nickel and cadmium. Some of these chemicals are known or suspected carcinogens such as arsenic, lead, chromium, and cadmium among others. Organic constituents in water could come from various sources such as the decomposition of organic debris, domestic, agricultural and industrial activities and contamination that occur during water treatment and distribution. These activities generate wastewater discharges, agricultural and urban runoff and leachates from contaminated soils that may include pesticides, solvents, metal degreasers and plasticizers and petroleum products. Other organic contaminants are formed during water treatment processes such as coagulation, chlorination and ozonation. It is recommended that Local Drinking Water Monitoring Committee should look into the possible sources of these chemicals in their respective areas and direct efforts to monitor its possible implications to drinking water supplies.
+
+2.2 Acceptability Aspect
+
+The chemicals and physical quality of water may affect its acceptability by consumers. Problems resulting to taste, odor, turbidity, color and similar nature may originate in raw water sources, within the treatment processes, in the distribution system or in the plumbing systems of the consumers. Although acceptability aspects of drinking water quality do not have adverse health implications, standards are set to satisfy the need of consumers for a colorless, odorless and tasteless drinking water. Sections 2.9 to 2.13 indicate the physical and chemical quality requirements of drinking water supply to be provided to consumers.
+
+2.3 Particulates in Water Supply
+
+Particles in water may consist of suspended finely divided solids and colloids, clay, silt, fibrous substances as well as living organisms. Particles affect the aesthetic quality or acceptability by the consumers. They can also be of significant health concern since they could be toxic or could adsorb toxic substances. Particulates could interfere with disinfection and other treatment processes. There are no recommended standard values for floating and settled materials, but it is suggested that no floating or settled materials should be found in drinking water.
+
+2.4 Water Sampling for chemical and physical analysis
+
+The actual collection of the water sample is a matter of considerable importance. Refer to section 1.4.6 for sampling location. It is impossible to state unequivocally how much time should be allowed between the time of collection of a sample and its analysis. This depends on the character of the sample, the particular analyses to be made and the conditions of storage. For sampling, the following procedures should be observed:
+
+2.4.1 Collect samples from wells only after the well has been pumped sufficiently to ensure that the samples represent the quality of groundwater that feeds the well. Sometimes it will be necessary to pump at a specified rate to achieve a characteristic drawdown as part of the sample record. New wells will require sufficient utilization and abstraction before sampling. Collect samples from open shallow wells by taking a composite sample.
+
+2.4.2 When samples are collected frOm surface water sources such as river or stream, it is best to take a composite sample from three depths (top, middle and bottom). In this way, the sample becomes representative. If only a grab or catch sample can be collected, it is best to take it in the middle of the stream and at mid-depth.
+
+2.4.3 When sampling lakes and reservoirs, which are naturally subjected to considerable variations from normal causes, the choice of location, depth, and frequency of sampling will depend on the local conditions and the purpose of the investigation.
+
+2.4.4 Before samples are collected from distribution systems, flush the lines sufficiently to ensure that the sample is representative of the supply, taking into account the diameter and length of the pipe to be flushed and the velocity of flow.
+
+2.4.5 Sample of oil films recovered from the surface of stream or other bodies of water will be almost impossible to evaluate in relation to the total volume of water, the total film area, and the thickness involved. A method commonly used to estimate total volume is to divert the water into a wide-mouth container (washed with solvent and air-dried before use). The glass-stopped container should not be completely filled, as a loss of floating oil may occur in stoppering. It is advisable to collect the desired quantity of sample in an oversized bottle that has previously been marked at the desired volume.
+
+2.5 Minimum Frequency of Sampling
+
+The minimum frequency of sampling for drinking water supply systems for physical and chemical analysis is provided in Table 2.
+
+Table 2. Minimum Frequency of Sampling for Drinking-Water Supply Systems for Physical and Chemical Analysis
+
+<image>table_4.png</image>
+
+2.6 Volume of Sample
+
+Three (3) liters of sample should suffice for physical and chemical analyses. Note: No attempt should be made to use the sample for microbiological and microscopic examination because collection and handling methods for are quite different for these analyses.
+
+2.7 Sample Container
+
+In all cases, the container should be chosen so that it will not contaminate the sample.
+
+2.7.1 Chemically resistant glass (Pyrex), polyethylene, or hard rubbers are suitable materials for containers (see Table 3). For samples containing organics, avoid plastic containers except those made of fluorinated polymers such as polytetrafluoroethylene (PTFE). Glass containers generally are preferred for volatile organics. Sample containers must be carefully cleaned to remove all extraneous surface dirt, thoroughly rinsed with distilled water and drained before use.
+
+a. For glass bottles, rinsing with chromic acid cleaning solution is necessary. An alternative method is with the use of alkaline permanganate solution followed by an oxalic acid solution.
+
+b. For polyethylene bottles, detergents or concentrated hydrochloric acid can be used.
+
+2.7.2 Stoppers, caps and plugs should be chosen to resist the attack of material contained in the vessel or container. Cork stoppers wrapped with a relatively inert metal foil are suitable for many samples, or polytetrafluoroethylene (PTFE).
+
+2.7.3 The sample containers should be such that when filled with the desired amount of sample, space roughly equivalent to 1 percent of the volumetric capacity of the containers is available for expansion of the liquid.
+
+2.7.4 Sample containers must be properly labeled. A gummed label, or a cardboard or tag securely affixed to the container should be provided with the following information.
+
+• Date and time of sampling
+• Source of sample
+• Point of sampling (designed in sufficient detail to enable anyone to collect a second sample from the identical spot from which the first sample was taken)
+• Temperature of the sample
+• Sampled by: (name of collector)
+
+2.8 Sample Handling and Storage
+
+In general, the shorter the time lapse between collection of a sample and its analysis, the more reliable will analytical results be.
+
+2.8.1 For certain constituents and physical values, immediate analysis in the field is required in order to obtain dependable results, because the composition of the sample may change before it arrives at the laboratory.
+
+2.8.2 Changes caused by the growth of organisms may be greatly retarded by keeping the sample in the dark and at a low temperature until it can be analyzed.
+
+2.8.3 It is necessary to keep the samples cool or refrigerated. Storage at a low temperature (40C) is the best way to preserve most samples.
+
+2.8.4 Add chemical preservatives to samples only as specified in specific analytical methods. Suitable preservative that will not affect the results of the analyses to be made must be selected.
+
+The recommended sampling and preservation of sample according to parameters for analysis are presented in Table 3. The list is by no means inclusive. It is clearly impossible to prescribe absolute rules for the preservation of all possible changes. Advice is included in the notes under the individual determination.
+
+Table 3. Sampling and Preservation methods according to parameters
+
+<image>table_5.png</image>
+
+P = plastic (polyethylene or equivalent); G = glass; G(A) or P(A) - Rinsed with 1 + 1 HNO3; G(B) - Glass, borosilicate; G(S) - Glass, rinsed with organic solvents or baked; N.S. - Not stated in cited reference; Stat - no storage allowed; analyze immediately
+
+2.9 Standard Values for Inorganic Chemical Constituents with Health Significance
+
+<image>table_6.png</image>
+
+2.9 Standard Values for Inorganic Chemical Constituents with Health Significance - Continuation
+
+<image>table_7.png</image>
+
+2.10 Organic Chemical Constituents from Industrial Pollution (with health significance)
+
+<image>table_8.png</image>
+
+2.10 Organic Chemical Constituents from Industrial Pollution (with health significance) - Continuation
+
+<image>table_9.png</image>
+
+2.11 Standard Value for Organic Chemical Constituents (Pesticides)
+
+<image>table_10.png</image>
+
+2.12 Standard Values for Physical and Chemical Quality for Acceptability Aspects
+
+<image>table_11.png</image>
+
+2.12 Standard Values for Physical and Chemical Quality for Acceptability Aspects
+
+<image>table_12.png</image>
+
+2.13 Standard Values for Chemicals Used in Treatment and Disinfection and Disinfection by-products
+
+<image>table_13.png</image>
+
+2.13 Standard Values for Chemicals Used in Treatment and Disinfection and Disinfection by-products - Continuation
+
+<image>table_14.png</image>
+
+■ AAS - Atomic Absorption Spectrometry
+■ DPD -N,N-diethyl-p-phenylenediamine (under residual chlorine method)
+■ EAAS - Electrothermal Atomic Absorption Spectrometry
+■ ELISA - Enzyme-linked Immunosorbent Assay
+■ FAAS - Flame Atomic Absorption Spectrometry (FAAS)
+■ FID - Flame Ionization Detector
+■ GC - Gas Chromatography
+■ GC/ECD - Gas Chromatography/Electron Capture Detector
+■ GC/ELCD - Gas Chromatograph/Electrolytic Conductivity Detector
+■ GC/FID - Gas Chromatograph/Flame Ionization Detector
+■ GC/MS - Gas Chromatography / Mass Spectrometry
+■ GC/PID - Gas Chromatograph/Photoionization Detector
+■ HPLC - High-performance Liquid Chromatography
+■ ICP/AES - Inductively Coupled Plasma / Atomic Emission Spectrometry
+■ ICP/MS - Inductively Couple Plasma / Mass Spectrometry (ICP/MS)
+
+3. Radiological Quality
+
+Radioactive contaminants in drinking water may come from naturally-occurring radionuclides present in rocks and soils from earth's formation and from man-made radionuclide arising from power generated by nuclear energy. Deepwells, groundwater and mineral springs have been known to be sources of natural radioactivity, principally radium and radon. Deposition of radioactive fallout from nuclear weapon testing abroad or from nuclear accidents, nuclear power plants facilities or from medical use of radioactive substances may also be a source of contamination. Although the contribution of radioactivity in drinking water from above sources is very minimal, it is still important to monitor radioactivity to protect the public from undue exposure to radiation.
+
+The World Health Organization has set radioactivity levels for gross alpha and gross beta activity as shown on Section 3.7, in radioactivity units of Becquerel per liter (Bq/L). The guidelines are based on the fact that radioactivity in drinking water contributes only a minor part of the total radiation dose received from natural sources. Screening of gross alpha and gross beta emitters is used to determine whether more complete analyses for specific radionuclides are needed. The term screening value is used in the same manner as reference level as defined by the International Commission on Radiological Protection (ICRP). A reference level is not a dose limit requirement.
+
+The values of the gross alpha and beta which is used as the initial screening technique for assessing the radiological quality of drinking water do not include gaseous radionuclide such as radon, so that if its presence is suspected, special measurement should be used. The Environmental Protection Agency has established Maximum Contaminant Level and Alternate Maximum Contaminant Level for radon in drinking water. (Refer to Section 3.7).
+
+3.1. Collection of Samples
+
+Samples of drinking water are collected directly from the source, typically from household faucets. Groundwater and springwater used as drinking water are also collected directly from pumpwells or deepwells.
+
+3.2. Sample Size: containers: handling and storage
+
+One liter of water sample is collected and contained in a properly labeled polyethylene plastic container. After sample collection, the sample is acidified to a pH of less than 2 using minimum amounts of diluted hydrochloric acid to minimize losses caused by adsorption in the container walls as well as to preserve the sample. Radiochemical analysis is then performed in the laboratory at any time except perhaps when short-lived radionuclides are known to be present in the sample.
+
+3.3. Sampling frequency
+
+Based on the 2000 EPA final rule on radiological requirements on drinking water, the PNRI established monitoring frequency for the Philippine drinking water (Section 3.8). In case of emergencies such as nuclear accidents from neighboring countries, immediate sampling and analysis should be done.
+
+3.4. Resampling
+
+Re-sampling and reexamination of the source of drinking water should be performed in cases where gross alpha and gross beta radioactivity levels exceed the standard values. In the event that gross alpha is exceeded, analysis of specific alpha-emitting radionuclides, total Radium shall be conducted. If the gross beta activity is exceeded, analysis of specific beta-emitting radionuclides, tritium (3H) and Strontium (90Sr) shall be performed. Additional advice may be obtained from the Philippine Nuclear Research Institute, Commonwealth Avenue, Diliman, Quezon City.
+
+3.5. Method of Analysis
+
+The methods for analyses of gross alpha and gross beta radioactivity), 226Ra, 3H and 90Sr shall be based on the standard procedures by the Health Physics Research Section and Analytical Measurement Research Section of the Philippine Nuclear Research Institute. The procedures are based on the procedure manual of the Environmental Measurements Laboratory (EML-300) and the United States Environmental Protection Agency (USEPA) Prescribed Procedures for Measurement of Radioactivity in Drinking water (EPA 600/4-80-032).
+
+The determination of gross alpha radioactivity should be made as soon as practicable to minimize the in growth of radon and its daughter products in the prepared sample. If the gross alpha and gross beta levels are less than the standard values, no further examination is necessary except for routine surveillance as may be required in the vicinity of nuclear installations or the major sources of radionuclides pollution.
+
+3.6. Health Effects
+
+Radiation causes a variety of health effects, depending on the dose rate, Linear Energy Transfer (LET) of the type of radiation and several other factors. At low closes, the health effects of radiation are primarily cancer induction and genetic disorder. However, these effects may take a number of years before they are manifested. The conservative approach in radiation protection is to assume that any dose, no matter how small, carries with it a finite, albeit small, probability of inducing cancer.
+
+The United Nations Scientific Committee on the Effects of Atomic Radiation (UNSCEAR) has estimated that the probability of fatal cancer induction after low-dose, low dose-rate irradiation of the total population to be 5 x 10-3 sievert per year (Sv/y). For instance, the limits for 3H(7600 Bq/L) and 90Sr(5 Bq/L) in drinking water, when combined, are estimated to have probability of causing in two out of one million persons exposed. However, based on the data obtained at the Philippine Nuclear Research Institute on 3H and 90Sr as well as 222Rn in drinking water, the limits for drinking water are generally not reached, much less exceeded.
+
+Breathing radon from the indoor air in homes is the primary public health risk from radon contributing to about 20,000 lung cancer death each year in the United States according to 1999 landmark report by the National Academy of Sciences (NAS) on radon in indoor air. Radon from tap water is a smallest source of radon in indoor air. Only about 1-2 percent of radon in indoor air comes from drinking water.
+
+3.7. Standard Values for Radiological Constituents
+
+<image>table_15.png</image>
+
+3.8. Sampling Frequency Requirements for Radiological Constituents
+
+<image>table_16.png</image>
+
+VI. REPEALING CLAUSE
+
+All administrative orders, rules and regulations and administrative issuances or parts thereof inconsistent with the provisions of these standards are hereby repealed or amended accordingly.
+
+VII. EFFECTIVITY
+
+This order takes effect fifteen (15) days after its publication in an official gazette or in a newspaper of general circulation.
+</body>
+
+<sign>FRANCISCO T. DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<body>
+Annex 1.
+
+Guidelines in Identifying Priority Drinking-Water Quality Parameters for Monitoring
+
+The Local Health Authority at the municipal or city level shall identify the list of parameters that will be examined to determine the potability of drinking water supply provided in the local area. To achieve this, the local health authority through the Local Drinking Water Quality Monitoring Committee shall undertake a systematic assessment of all the parameters listed in the 2007 Philippine National Standards for Drinking Water (PNSDW 2007) in consultation with, but not limited to, the following authorities: health, water resources, water supply provision, environment, agriculture, geological services/mining, industry, and radiological services. As a matter of prudent public health decision, particularly in situations where resources are limited, to give priority to ensuring availability and accessibility of water supply all individuals over rendering treatment to water for the benefit of few individuals.
+
+Based on its health significance and acceptability, the following priority parameters shall be tested:
+
+1. microbiological
+2. arsenic
+3. cadmium
+4. lead
+5. nitrate
+6. benzene
+7. color
+8. turbidity
+9. iron
+10. pH
+11. manganese
+12. chloride
+13. sulfate
+14. TDS
+
+In addition to the above, other physical and chemical parameters shall be tested based on the following conditions:
+
+1. Chemical/Physical Quality
+
+1.1 All naturally occurring chemicals based on the geological characteristics in the local area that are of health significance and are found in drinking-water supply should be in the priority list.
+
+1.2 An inventory of chemicals used in local agricultural practices such as pesticide, herbicide and fungicides shall be the basis for identifying which the organic constituents (pesticides) to include in the priority list.
+
+1.3 Industries that transport, use as raw materials, produce either as intermediate or final product or by-product or generate as wastes any or all of the chemicals listed in PNSDW 2006 shall be identified and mapped. Water sources taken within 50 meters from the location of the said industries should be examined for such chemicals.
+
+1.4 Chemical disinfection by-products shall be identified based on the type of disinfectants used. If water providers could provide evidence of control of generation of disinfection by-product such as pretreatment to remove precursors, use of treatment technology that evidently removes disinfection by-product or two successive analysis showing that suspected by-product does not occur then such chemical disinfection by-products will be removed from the priority list.
+
+1.5 Chemicals leaching from plumbing system materials or facilities such as copper, lead, zinc and nickel shall be included in the list if the pH of water is 6 or below.
+
+1.6 Hardness will only be in the list if the general population deems it unacceptable at certain level due to taste or odor.
+
+1.7 The list of priority physical and chemical parameters to be monitored may change based on the results of previous water examinations. Parameters that are less likely to occur in water may be tested less frequent.
+
+Radiological Quality.
+
+2.1 Radiological quality shall be included in the priority list if there is fall-out or contamination from suspected sources of radiological impurities of water such as hospitals or other industries.
+
+2.2 Sources of naturally occurring radiological contaminants should be identified by the Department of Health or Philippine Nuclear Research Institute
+
+Annex 2.
+
+Water Safety Plans
+
+The application of an extensive risk assessment and risk management approach that encompasses all steps in water supply system from sources, production, storage and conveyance to consumers will ensure safety of drinking water supply. Such approach is termed as Water Safety Plans. It follows the principles and concepts of multiple-barrier approach and Hazard Analysis Critical Control Point (HACCP) as used in the food  industry. It is proposed that these plans will be prepared by all water providers from large water systems to water refilling stations.
+
+Three key-components of Water Safety Plans:
+
+• System assessment - to determine whether the drinking water supply chain as a whole can deliver water of quality that meets health-based targets. This also includes the assessment of design criteria or new systems
+
+• Operational monitoring - to identifying control measures in a drinking-water system that will collectively control identified risks and ensure that the health-based targets are met; to rapidly detect any deviation from required performance
+
+• Management plans - to describe actions to be taken during normal operations or incident conditions
+
+A thorough discussion of water safety plans is presented in WHO's Guidelines for Drinking-water Quality, 2004, Third Edition.
+
+Annex 3
+
+Guidelines for Selecting the Location of Sampling Points
+
+1. Sample Location
+
+1.1 Piped water supply zoning
+
+Zoning of piped water supplies should be undertaken to ensure that different parts of the water supply system that may have different level of risk are adequately covered for water quality sampling.
+
+A zone can be considered as coverage area per source, service reservoir supplies specific area , an area where different parts of distribution system operates at different pressures and elevations and an area where leakage or reliability is different in different parts of the system
+
+1.2 Point Source
+
+Samples should be taken from the point source from the principal outlet - handpump or spring outlet.
+
+For routine monitoring boreholes or deepwells generally requires less frequent sampling as they are usually of better quality than shallow groundwater given the greater depths of water abstraction.
+
+It is also important to undertake an extended assessment of point source quality in order to develop an understanding of the process causing water quality failure and thus the appropriate interventions required to improve the source.
+
+1.3 Selection of Sampling Sites
+
+When the sample locations and frequencies of sampling visits have been calculated, the final stage is the selection of sampling sites. Sample sites will usually be taken as being representative of a wider area. Samples sites can be either fixed -- is. every time sampling is carried out in the area, a sample is always picked from the same point. Sample sites can also be random, with the exact location of the sample point in zone or area varying between sample rounds.
+
+1.3.1. Key fixed points that should always be included in the surveillance include:
+
+• water leaving treatment works (usually the first tap)
+• the inlets and outlets of service reservoirs
+• critical points in the distribution system - (e.g. low-pressure area or parts of the system prone to frequent discontinuity
+
+1.3.2. Regular sampling points will include public taps in high-density areas or in places such as markets where large number of people congregate.
+
+References
+
+American Public Health Association, American Water Works Association, Standard Methods for the Examination of Water and Wastewater, 20th edition, 1998
+
+CFR Title 40 Part 136 Table II, Dated July 1, 1999
+
+Committee on Water Treatment Chemical, Food and Nutrition Board, Water Chemical Codex
+
+Connell, Gerald F., The Chlorination/Chloramination Handbook, AWWA, 1996
+
+De Zuane, John, Handbook of Drinking Water Quality, 2n°l edition
+
+Degremont, Water Treatment Handbook, 5th edition, 1979
+
+Fertilizer and Pesticide Authority Pesticide Circular No. 04, Series of 1989
+
+Fertilizer and Pesticide Authority Board Resolution No. 04, Series of 2005
+
+Hayashi, Tabata, Catapang, Evaluation Report: LWUA-JICA Technical Cooperation Project on "Improvement of Water Quality in the Philippines", JICA, 2003
+
+Hem, John D., Study and Interpretation of the Chemical Characteristics of Natural Water, USGS, 1985
+
+JICA, Baseline Survey on Nationwide Ground Water Quality Monitoring in the Philippines, 2003
+
+Letterman, Raymond D., (Technical Editor), Water Quality and Treatment - A Handbook of Community Water Supplies, 5th edition, AWWA
+
+Sabandeja, Victor V., Development of 2006 Philippine National Standards for Drinking Water, Paper Presented at the National Convention of Philippine Society of Sanitary Engineers, Baguio City, June 8, 2006.
+
+Sommerfield, Elmer 0., Iron and Manganese Removal Handbook, AWWA, 1999
+
+WHO'S Guidelines for Drinking-water Quality, 2004, Third Edition.
+</body>

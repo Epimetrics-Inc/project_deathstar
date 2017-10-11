@@ -1,0 +1,27 @@
+REPUBLIKA NG PILIPINAS
+KAGAWARAN NG KALUSUGAN
+PANGASIWAAN NG PAGKAIN AT GAMOT
+(FOOD AND DRUG ADMINISTRATION)
+LUNSOD NG MAYNILA
+
+<date>10/11/1972</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 178 s. 1972</docnum>
+
+<subject>SUBJECT : Withdrawal of Dihydrostreptomyoin from all pharmaceutical products intended for human use.</subject>
+
+<body>
+For the guidance of pharmaceutiacal manufacturers and distributors, dihydrostreptomycin and its salts will no longer be allowed to be sold for human use singly or in combination with other drugs in specially formulations.
+
+For the orderly phasing out of stocks which have been distributed to retail outlets prior to the issuance of this order, all stocks shall have been withdrawn by January 1, 1973.
+</body>
+
+<sign>CLEMENTE S. GATMAITAN, M.D., M.P.H.</sign>
+<signtitle>(Undersecretary for Health and Medical Services)
+Officer-in-Charge</signtitle>
+
+Recommended by:
+
+<sign>L. M. PESIGAN</sign>
+<signtitle>Food and Drug Administrator</signtitle>

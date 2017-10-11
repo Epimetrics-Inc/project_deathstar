@@ -1,0 +1,29 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>21/10/1985</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 133A,s. 1985</docnum>
+
+
+<subject>Further amending Administrative Order No. 32-B, s. 1982, providing the guidelines to implement the provisions of Batas Pambansa 337, as amended by Administrative Order No. 80, series of 1984</subject>
+
+
+<body>  
+
+	Paragraph 2 of the guidelines to implement the provisions of Batas Pambansa 337 as embodied in Administrative Order No. 32-B dated June 29, 1982, as amended by the Administrative Order No. 80, dated February 7, 1984, is hereby further amended to read as follows.
+
+	2. Free medical core shall cover the following aspects:
+	a. Free medicines subject to its availability in the hospital pharmacy.
+	b. Free room and board.
+	c. Free diagnostic services as requested by the attending physician depending on the facilities of the hospital.
+	d. No professional fee.
+	This Order takes effect immediately.
+</body>
+<sign>J.C. AZURIN</sign>
+<signtitle>Minister of Health </signtitle>

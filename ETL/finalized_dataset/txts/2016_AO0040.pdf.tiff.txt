@@ -1,0 +1,325 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+
+<date>September 23,2016</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2016 - 0040</docnum>
+
+
+<subject>Subject: Revised Policies and Guidelines on the Implementation of the Programmatic Management of Drug Resistant</subject>
+
+<body>
+I. RATIONALE
+
+Drug-Resistant Tuberculosis (DR-TB) remains a major health problem in the country. Based on the World Health Organization (WHO) 2015 Global TB Report, the Philippines is one of the 30 countries with high TB and Multi Drug-Resistant TB (MDR-TB) burden. There were an estimated 11,100 MDR-TB cases among notified TB cases in 2014. This was based on the second national drug resistance survey done in 2012 which showed that the prevalence of MDR-TB among notified new cases was 2% while 21% among the re-treatment cases. 
+
+To address the problem of DR-TB, the Department of Health (DOH) issued on May 26, 2008 Administrative Order (AO) No. 2008-0018 entitled, "Guidelines for the Implementation of the Programmatic Management of Drug-Resistant Tuberculosis". PMDT was mainstreamed from the National Capital Region (NCR) to the other regions after it was initiated in the private sector. 
+
+Since 2008, many policy, organizational, strategic and technological changes related to PMDT had occurred locally and internationally, that necessitate the issuance of new PMDT policies, standards, and guidelines. 
+
+In 2011, new rapid TB diagnostic tests such as the molecular based drug sussceptibility Testing (DST) (i.e. Xpert MTB/RIF and Line Probe Assay) were introduced and expanded. The number of Xpert sites has increased from 16 to 2011 to 121 in 2015. PMDT satellite/treatment centers have also increased from 25 in 2011 to 120 in 2015. Services to DR-TB are also being integrated within the basic DOTS services of all health facilities through the integrated DOTS services. Hence, the number of DR-TB patients enrolled annually increased from 530 patients in 2008 to 4,063 in 2015. The NTP Manual Procedures (MOP) 5th edition containts new national policies and guidelines for both the drug sensitive and drug resistant TB cases such as the use of Xpert MTB/RIF and the adoption of the standard treatment reguimen for PMDT. In 2015, WHO had issued updated PMDT policies and guidelines and many researches have been conducted and published on various stategies to address MDR-TB. Also, new second line anti-TB drugs and a shorter treatment regimen have been introduced. The Joint Program Review done in March 6-18, 2016, made a list of recommendations to DOH to ensure access to quality PMDT services, improve case finding outputs and treatment outcomes. Lastly, in May 2016, WHO recommended the adoption of shorter regimen (9-12 months) to treat patients with DR-TB.
+
+II. OBJECTIVES
+
+This order aims to:
+
+A. Provide updated policies, standards and guidelines on the diagnosis and treatment of DR-TB that are aligned with international policies and standards. 
+
+B. Describe the key health systems support that will ensure availability of quality PMDT services by all health care providers (public and private)
+
+C. Define the roles and responsibilities of various PMDT stakeholders. 
+
+
+III. SCOPE AND COVERAGE
+
+This Order shall cover all health facilities, both public and private, that are providing PMDT services (screening, diagnostic and treatment) and concerned offices of DOH, local government units (LGUs) and partners that are providing the oversight and support to these health facitilities. 
+
+IV. DEFINITION OF TERMS
+
+A. Drug-Resistant Tuberculosis (DR-TB) - a form of TB, caused by Mycobacterium tuberculosis that is resistant in vitro to the effects of any anti-TB drugs. Multi Drug-Resistant TB (MDR-TB) refers to resistance to at least both Isoniazid and Rifampicin. 
+
+B. Intensified Case Finding - active case finding among individuals belonging to high risk groups (i.e. contacts of DR-TB) and vulnerable populations (i.e. jails/prisons). Active case finding is a purposive effort to find TB cases in the community or among those who do not consult in a DOTS facility.
+
+C. NTP Laboratory Network - is composed of laboratories (public and private) that provide various TB diagnostic tests organized at different levels of the health system and follows NTP protocols.
+
+D. Non-engaged Health Care Provider - a public or private health care practioner, facility or institution that is not linked with NTP to provide TB services based on the NTP policies and guidelines. 
+
+E. Palliative Care - an approach that improves the quality of life for TB patients and their families facing challenges bought about by social stigma, physical symptoms brought about by disease and medications, feeling of worthlessness and loss of hope. 
+
+F. Patient-Centered Care - refers to directly observed treatment in a setting that is acceptable to the patient. 
+
+G. Presumptive Drug-Resitant Tuberculosis (DR-TB) (also known as persons at risk for DR-TB) - any person whether adult or child, who belongs to any the DR-TB high-risk groups, such as: re-treatement cases, contacts of confirmed DR-TB cases, non-converter of Category I or Category II, and people living with HIV with signs and symptoms of TB. 
+
+H. Pharmacovigilance - are activies relating to the deletion, assessment, understanding, and prevetion of adverse effects of anti-TB drugs or any other anti-TB drug related problem (WHO)
+
+I. Programmatic Management of Drug-Resistant Tuberculosis (PMDT) - a collective strategy using the different components of the NTP to effectively manage DR-TB. It includes activities on case detection, treatment, surveillance, monitoring and evaluation of the program's performance.
+
+J. PMDT Treatment Facility - a health care facility, whether public or private, that provides PMDT services in accordance with the policies and guidelines of DOH-NTP. This refers to Treatment Center (TC), Satelite Treatment Center (STC), Treatment Site (TS) and including iDOTS Facility, where PMDT services are integrated into the basic DOTS services of the health facility. 
+
+K. Systematic Screeninhg - is the organized identification of people presumed to have DR-TB using rapid molecular diagnostic test (i.e. Xpert MTB/RIF)
+
+
+V. GENERAL GUIDELINES
+
+1. New WHO recommended rapid diagnostioc tools shall be adopted in accordance with national health policies and capacity. 
+
+2. All presumptive DR-TB whether pulmonary or extra-pulmonary shall be systematically screened. 
+
+3. All public and private laboratories within the NTP laboratory network shall participate in the External Quality Assurance (EQA) system of the National TB Reference Laboratory (NTRL)
+
+4. All diagnosed DR-TB patients shall be promptly provided with quality, adequate and effective treatment regiment. 
+
+5. The prescribed standard treatment regimen shall be the primary regiment of choice unless contraindicted or otherwise specified.
+
+6. Tracing mechanisms and referral systems shall be in placed to ensure that all diagnosed DR-TB patients are initiated on treatment. 
+
+7. All health care providers shall ensure sucessful treatment of all TB cases. 
+
+8. TB prevention and infection control measures shall be implemented in all health care settings. 
+
+9. PMDT data shall be collected, analyzed and utilized to ensure provision of quality and adequate services. 
+
+10. Selection and procurement procedures of drugs, medical and laboratory supplies shall be in accordance to national and international standards and guidelines. 
+
+11. All efforts must be exerted by the referring and receiving diagnostic and treatment facilities providing PMDT services to ensure that referred patients are not lost during the referral process. 
+
+12. Health Promotion activities, such as but not limited to the following: conduct of advocacy to LGUs and other stakeholders for allocation of funds and creation of policy for patient support, creation of patient support groups, creation of dissemination of appropriate IEC materials, conduct of focused group discussions involcing patient and family/significant others related to PMDT, shall be conducted at all levels of the health care system. 
+
+13. Key affected populations shall be involved in all key PMDT activities by participating during consultative meetings and program implementation reviews. 
+
+14. Standard approved training design shall be used in the conduct and roll-out of PMDT trainings. This shall be integrated with the DOH Academy training schedule once it is rolled-out. 
+
+15. All diagnostic and treatment services for PMDT shall be provided by trained health staff. 
+
+16. PMDT monitoring, supervision, and evaluation (MSE) activities shall be integrated within the general MSE framework of NTP. 
+
+17. Conduct of operational researches that are relevant in addressing the challenges in program implementation shall be encouraged. 
+
+VI. IMPLEMENTING GUIDELINES 
+
+A. On Case Finding
+
+1. Xpert MTB/RIF test shall be the primary diagnostic tool for all presumptive DR-TB.
+
+2. Pulmonary and extra-pulmonary specimens shall be transported to the nearest Xpert site while speciments that require special handling (i.e. maceration of tissue sample) shall be transported to the TB culture laboratories.
+
+3. All laboratory results shall be issued within the prescribed turn-around time. Results from other laboratories outside the NTP laboratory network with quality assurance shall be accepted by PMDT treatment facilities. 
+
+4. Intensified case finding shall be implemented by all health care workers of the PMDT treatment facility. Priority shall be given to contacts of DR-TB. 
+
+5. Children with active TB who are contatcs of DR-TB and cannot experctorate/produce speciment for diagnosis shall be diagnosed as DR-TB. 
+
+B. On Case Holding
+
+1. All confirmed DR-TB patients (also known as patients suffering from DR-TB) shall be assessed by a physician trained on PMDT for proper management. 
+
+2. All confirmed DR-TB patients shall be initiated on treatment within one (1) week from time of diagnosis. 
+
+3. All confirmed Rifampicin Resistant TB or MDR-TB patients, without suspected or confirmed resistance to any fluoroquionlones and/or any one of the three second line injectable anti-TB drugs, the prescribed standard regiment shall be provided. For patients with extensive pattern of resistance, individualized regimen shall be given. 
+
+4. All enrolled DR-TB patients shall undergo baseline and follow-up laboratory and other diagnostic tests to monitor treatment response. 
+
+5. All registered DR-TB patients shall be offered with HIV Counseling and Testing upon enrolment. DR-TB patients with HIV co-infection shall be referred to HIV treatment hub for co-management. 
+
+6. The 9-month treatment regimen shall be adopted by the Program following WHO recommendations after all the necessary health system requirements have been put in place. 
+
+7. Ambulatory treatment shall be the preferred mode of care except for patients with life-threatening conditions, wherein hospitalization shall be recommended. 
+
+8. DR-TB treatment shall be done through a patient centered care. DR-TB patients shall be allowed to choose where to recieve treatment among PMDT treatment facilities (TC, STC, TS, iDOTS facility), including option for Community based PMDT Care. Treatment shall be carried out in settings that are most accessible and acceptable to the patient at least 6 days a week. 
+
+9. Only trained community treatment partners shall be involved by PMDT treatment facilities to implement the case holding of DR-TB patients for Community-based PMDT Care. 
+
+10. Patients needing close monitoring shall be offered an option to relocate near the PMDT treatment facility. 
+
+11. All PMDT treatment facilities shall comply with the current national policy and program on Pharmacovigilance and rational use of anti-TB drugs by FDA. 
+
+12. All PMDT treatment facilities shall ensure that tracing mechanisms are in place for patients who interrupt treatment. 
+
+13. All patients who are successfully treated shall be followed-up every 6 months for 2 years by checking for recurrence of symptoms, TB Culture, DST (if needed) and chest x-ray. 
+
+14. All patients shall be given palliative care, especially those who failed or refused further DR-TB treatment. 
+
+C. On Prevention and Infection Control of DR-TB
+
+1. All PMDT treatment facilities shall implement TB infection control according to the "Guidelines on Infection Control for Tuberculosis and Other Infectious Diseases" issued by DOH.
+
+2. Contacts of confirmed DR-TB patients in household and in congregate settings shall be prioritized for systematic screening. 
+
+3. Preventive therapy shall not be given to contacts of DR-TB patients.
+
+D. On Recording and Reporting
+
+1. All diagnostic and treatment facilities providing PMDT services shall follow NTP standards recording and reporting a stipulated in the NTP Manual of Procedures. 
+
+2. The Integrated TB Information System (ITIS) shall be the official electronic TB information system. All PMDT reports (including laboratory reports) shall be submitted through ITIS following the prescribed timeline. 
+
+3. Data quality check shall be done biannually at all levels of implementation. 
+
+4. Feedback on the submitted reports shall be provided following the prescribed flow of reporting. 
+
+5. Confidentiality of patient records shall be observed at all times. 
+
+E. On Logistics Management
+
+1. Uninterrupted supply of quality assured anti-TB drugs, ancillary medicines, medical and laboratory supplies in all PMDT treatment facilities and laboratories within the NTP laboratory network shall be ensured by NTP through correct forecast from reports submitted by facilities. 
+
+2. PMDT drugs and supplies shall be distributed following the existing DOG logistics management system. Redistribution of drigs and supplies shall be done among diagnostic and treatment facilities providing PMDT services to mitigate shortage and prevent expiration of stocks. 
+
+3. Drugs and supplies shall be stored under appropriate conditions in the warehouses and in all diagnostic and treatment facilities providiing PMDT services and accounted for through proper recording and reporting. 
+
+4. Quarterly requistion of supplies shall be submitted by diagnostic and treatment facilities providing PMDT services to NTP through proper channels. Emergency requests shall be acted upon immediately by NTP including response in disaster/conflict affected areas.
+
+5. Management of expired and damaged drugs and supplies shall follow the joint DENR-DOH AO no. 02 s.2005 "Policies and Guidelines on effective and proper handling, collection, transport, treatment, storage and disposal of health care wastes".
+
+F. On Referral System
+
+1. Standard NTP referral form shall be used when referring or transferring patients from a PMDT treatment facility to another PMDT treatment facility. 
+
+2. All PMDT treatment facilities shall accept patients referred by non-engaged health care providers and shall be managed based on the NTP protocols
+
+3. Referrals from other countries shall be coordinated through proper channels and shall observe the NTP protocols. 
+
+G. On Health Promotion
+
+1. Mechanism for ensuring patient support shall be in place at all levels of implementation in coordination with LGU's, non-government organizations (NGOs) and communities. 
+
+2. Appropriate information, education and communication (IEC) materials shall be made available in all PMDT treatment facilities and other health settings. 
+
+3. Targeted TB education campaigns shall be conducted among high risk groups and vulnerable populations in coordination with other government agencies. 
+
+H. On Training
+
+1. All program managers and implementers shall be trained on PMDT. Community treatment partner shall undergo on the job training
+
+2. Post training monitoring shall be done within three (3) months after the training to identify areas that need enhancement and corresponding corrective actions, including mentoring. 
+
+I. On Monitoring, Supervision, and Evaluation (MSE)
+
+1. PMDT MSE activities shall be part of the annual work plans with defined budgetary support at all levels of implementation. 
+
+2. Monitoring and supervisory visits shall be done quarterly at all levels of implementation using the standard monitoring tool. More frequent visits to priority areas shall be done based on program performance, stage of PMDT implementation and technical needs of staff. 
+
+3. Oral or written feedback shall be provided during monitoring visits. 
+
+4. Accomplishments based on key program indicators shall be regularly analyzed and discussed by the PMDT treatment facility physician and his/her team. 
+
+5. Accomplishments shall be published annually and disseminated to stakeholders. Requests for other data shall be coursed through a formal letter to NTP stating the intended use of the data. 
+
+6. Program implementation shall be evaluated regularly. Internal assessments shall be integrated with the regular schedules of Program Implementation Review (PIR) at all levels of implementation, while external evaluations shall be conducted by the regional Green Light Committee/WHO annually. 
+
+J. On Research
+
+1. Research agenda shall be formulated based on the national strategic plan. 
+
+2. All researches shall be reviewed and approved by an institutional review board, ethics review committee and/or regulatory authorities (i.e. FDA), if applicable. 
+
+3. Final approval on the conduct of research study involving TB diagnostic and PMDT treatment facilities shall be provided by the NTP. 
+
+4. NTP, partners and implementers shall be duly recognized in the final report of the research study and shall be given a copy. 
+
+5. Dissemination of the result of the research study shall be done. 
+
+
+VII. ROLES of KEY AGENCIES/OFFICES AND PARTNERS
+
+A. Department of Health (DOH)
+
+1. Disease Prevention and Control Bureau (DPCB)- National TB Control Program Management Office (NTPMO) shall:
+
+i. Develop policies, standards, guidelines, and plans for the implementation of PMDT. 
+ii. Oversee the implementation of PMDT through the different regional offices. 
+iii. Oversee and support the health promotions activities through regional offices and implementing sites. 
+iv. Provide technical advice and assitance to operationalize PMDT facilities
+v. Ensure the conduct of training of trainers for regional, provincial and city health offices. 
+vii. Consolidate quarterly programmatic reports from regional offices and analyze data for information dissemination. 
+viii. Organize and conduct national planning, monitoring, and evaluation activities with partners. 
+ix. Coordinate and collaborate with other government agencies NGOs and bilateral and multi-lateral partners.
+x. Ensure proper functioning and periodic enhancement of ITIS
+xi. Mobilize and allocate funding support for PMDT services. 
+
+2. Knowledge Management Information Technology Service (KMITS) shall: 
+
+i. Develop and maintain ITIS
+ii. Lead, manage and coordinate capacity building activities for ITIS in coordination with NTPMO
+iii. Provide technical support and system monitoring
+iv. Link newly introduced electronic information technology (i.e. GxAlert) that has direct impact in the recording and reporting to ITIS
+
+3. Research Institute for Tropical Medicine - National TB Reference Laboratory (RITM-NTRL) shall:
+
+As manager of the laboratory network:
+
+i. Lead, manage and expand the laboratory network to support the needs of NTP including PMDT
+ii. Develop laboratory strategic plans, policies, guidelines and standards related to PMDT in coordination with NTPMO and partners. 
+iii. Provide proficiency testing and oversee the quality assurance system of the laboratory network
+iv. Conduct capacity building activities on laboratory procedures and management and oversee the conduct of training by the regional offices
+v. Lead in the implementation of laboratory operational, clinical, and diagnostic researches including anti-TB drug resistance surveillance in coordination with NTPMO
+vi. Oversee the maintenance and repair of TB laboratory infrastructure and equipment and the compliance to biosafety and biosecurity standards
+vii. Oversee the provision of logistical support for the laboratory network
+viii. Monitor and evaluate laboratory network performance in coordination with NTPMO
+ix. Submit consolidated laboratory network reports to NTPMO quarterly
+
+As service provider:
+x. Provide specialized TB diagnostic tests such as phenotypic DST and molecular based DST such as Xpert MTB/RIF, LPA, and others. 
+
+4. Lung Center of the Philippines - National Center for Pulmonary Research (LCP-NCPR) shall:
+
+i. Serve as the training and research institution of NTP on PMDT
+ii. Conduct training needs analysis
+iii. Develop or update the training modules
+iv. Monitor and evaluate PMDT training activities
+v. Lead, manage and coordinate the conduct of NTP initiated researches on PMDT
+vi. Assist in the formulation of policies and guidelines on PMDT. Participate in the PMDT planning, monitoring and evaluation. 
+
+5. Food and Drug Administration (FDA) shall:
+
+i. Ensure that all anti-TB drugs used in PMDT, both first line and second line, are of good quality. 
+ii. Lead in the implementation of pharmacovigilance system
+iii. Provide information and alert system in terms of quality and safety of drugs
+
+6. DOH - Regional Offices (DOH-RO) shall:
+
+i. Manage the implementation of PMDT within the region including the TB laboratory network.
+ii. Lead in PMDT advocacy and capacity building of the Local Government Unit's (LGUs) health facilities, TB laboratories and other private institutions within their area in coordination with PHO/CHO
+iii. Provide technical support for PMDT diagnostic and treatment facilities including dissemination of plans, policies, and guidelines, training on diagnostic tests, maintenance, and repair of laboratory infrastructure and equipment within their area. 
+iv. Ensure availability of human resources for all diagnostic and treatment facilities providing PMDT services with the support of NTP and Partners
+v. Ensure availability of drugs and supplies including laboratory supplies to all diagnostic and treatment facilities providing PMDT services through coordination with NTPMO and PHO/CHO.
+vi. Collect, collate, validate and analyze programmatic reports prior to submission to higher level
+vii. Utilize data to improve local decision-making and implementation of PMDT
+vii. Conduct regular program planning, monitoring and evaluation with DPCB-NTPMO and Partners
+
+B. Local Government Units (Provincial and City Health Offices) shall: 
+
+i. Ensure compliance to national policies, standards, and guidelines on PMDT
+ii. Oversee the implementation of PMDT within the province/city including the TB laboratory network
+iii. Ensure availability of human resources for all diagnostic and treatment facilities providing PMDT services with the support of DOH-RO and Partners
+iv. Ensure availability of drugs and supplies including laboratory supplies to all diagnostic and treatment facilities providing PMDT services through coordination with DOH-RO.
+v. Ensure that the staff who are implementing PMDT are trained.
+vi. Collect, collate, validate and analyze programmatic reports prior to submission to higher level.
+vii. Conduct regular program planning, monitoring, and evaluation
+
+
+C. Partners shall:
+
+i. Provide technical assistance on capacity building, policy formulation and research.
+ii. Provide funding and logisitical support
+iii. Participate in the conduct of planning, data validation, monitoring and evaluation
+
+VII. FUNDING
+
+Support for the implementation of this Order shall be provided by the NTP funds, regional offices through NTP sub-allotment, other government agencies, LGUs and partners. 
+
+IX. REPEALING CLAUSE
+
+This order hereby amends the provision of the AO No. 2008-2018 entitled as "Guidelines for the Implementation of Programmatic Management of Drug-Resistant Tuberculosis" and other issuances that are inconsistent with this Order. 
+
+X. EFFECTIVITY 
+
+This order shall take effect immediately upon approval. 
+</body>
+
+<sign>PAULYN JEAN B. ROSELL-UBIAL, MD, MPH, CESO II</sign>
+<signtitle>Secretary of Health</signtitle>
+
+

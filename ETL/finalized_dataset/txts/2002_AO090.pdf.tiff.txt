@@ -1,0 +1,763 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound. Rizal Avenue, Manila
+Telephone No: 7413-83-01 to 23 too. 1125-1126
+
+
+<date>03/18/2002</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 90 s. 2002</docnum>
+
+<subject>SUBJECT: CURRENT GOOD MANUFACTURING PRACTICE GUIDELINES FOR COSMETIC PRODUCTS</subject>
+
+
+<body>
+
+Pursuant to the provisions of Republic Act No. 3720 otherwise known as Foods, Drugs and Devices, and Cosmetics Act, as amended and in consonance with the development in science, technology, industry and public health interest, the attached CURRENT GOOD MANUFACTURING PRACTICE GUIDELINES FOR COSMETIC PRODUCTS is hereby adopted for implementation.
+
+All other administrative issuances or parts thereof, inconsistent with the provision of this Order are hereby amended, repealed and modified accordingly.
+
+This Order shall take effect on January 1, 2003, after its publication in an official gazette or a newspaper of general circulation.
+
+
+</body>
+<sign>MANUEL M. DAYRIT, M.D., MSc.</sign>
+<signtitle>Secretary of Health</signtitle>
+ 
+<body>
+GUIDELINES AND IMPLEMENTING RULES AND REGULATIONS OF GOOD MANUFACTURING PRACTICE FOR COSMETIC PRODUCTS
+
+I. GENERAL PROVISIONS
+
+Section 1. Authority
+
+This is promulgated under the authority conferred upon the Secretary of Health, Section 26 (a) of RA. 3720 as amended, otherwise known as Food, Drug, Devices and Cosmetics Act.
+
+Section 2. Statement of Objectives
+
+2.1 To assist the cosmetic industry in compliance with the harmonized ASEAN Cosmetic Regulatory Scheme.
+
+2.2 To issue license to manufacture cosmetic products only upon compliance with Cosmetic Current Good Manufacturing Practice.
+
+Section 3. Statement of Policies
+
+3.1 The Department of Health adopts the current ASEAN Cosmetic GMP Guidelines.
+
+3.2 Cosmetic products shall be manufactured using methods, facilities and control procedures adequate to preserve their quality and safety.
+
+3.3 The quality of cosmetic products depends on the starting materials, production, quality control processes, building facility, equipment, personnel involved and testing protocols.
+
+Section 4 Definition of Terms
+
+For the purpose of these guidelines and ERR, the following terms shalt mean:
+
+4.1 Batch
+
+A quantity of any cosmetic product produced in a given cycle of manufacture that is uniform in character and quality.
+
+4.2 Batch Number
+
+A designation in numbers or letters or combination thereof that identifies the complete history of batch, quality control and
+distribution.
+
+4.3 Bulk Product
+
+Any processed product which will have to undergo the packaging operation in order to become a finished product.
+
+4.4 Calibration
+
+Combination of checking an instrument and adjusting it to bring it within its limit for accuracy according to recognized standards.
+
+4.5 Complaint
+
+External information claiming a quality defect in a product.
+
+4.6 Component
+
+Any ingredient intended for use in the manufacture of a product, which include raw and packaging materials, including those that may not appear in the finished product.
+
+4.7 Contract Manufacture
+
+The manufacture in part or whole of a product by one (or more) manufacturer(s) (Toll Manufacturer) for another party (Trader).
+
+4.8 Cosmetic
+
+A “cosmetic product” shalt mean any substance or preparation intended to be placed in contact with the various external parts of the human body (epidermis, hair system, nails, lips and external genital organs) or with the teeth and the mucous membranes of the oral cavity with a view exclusively or mainly to cleaning them, perfuming them, changing their appearance and/or correcting body odours and/or protecting them or keeping them in good condition. (EU definition)
+
+Cosmetic means (i) articies intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or othenrvise applied to the human body or any part thereof for cleaning, beautifying, promoting attractiveness, or aitering the appearance; and (2) articles intended for use as a component of any such articles as referred to (1), except that such term shall not include soap. (PHILIPPINE definition)
+
+In line with the Philippine legal definition of cosmetics which excludes soap, however manufacturing of soap exclusively will not be subject to BFAD licensing.
+
+4.9 Cross Contamination
+
+Contamination of a material or of a product with another material or product.
+
+4.10 Date of Manufacture
+
+Date of manufacturing of a batch of product.
+
+4.11 Documentation
+
+All written procedures, instructions and records involved in the manufacture and quality control of products.
+
+4.12 Facilities
+
+This refers to the building, premises and equipment necessary in the manufacture of cosmetic products.
+
+4.13 Finished Product
+
+A product which has undergone all stages of manufacturing operations and ready for use.
+
+4.14 Good Manufacturing Practice (GMP)
+
+It is the part of quality assurance aimed at ensuring that products are consistently manufactured to a quality appropriate for their intended use. It is thus concerned with both manufacturing and quality control procedures.
+
+4.15 In-Process Control
+
+Checks and tests instituted and carried out in the course of the manufacture of a cosmetic product including checks and tests done to the environment and equipment in order to ensure that the end product will comply with its specification.
+
+4.16 Lot
+
+A specific identified portion of a batch having homogenous character and quality within specific limits.
+
+4.17 Lot Number
+
+See batch number
+
+4.18 Manufacture or Manufacturing
+
+The complete set of activities to produce a product that comprise production and quality control from acquisition of all materials through processing and subsequent packaging to the release for distribution of the finished product.
+
+4.19 Master Formula
+
+A document or set of documents specifying the starting materials with their quantities together with a description of the procedures and precautions required to produce a specified quantity of a bulk product as well as the processing instructions, including the in-process controls.
+
+4.20 Master Packaging Document
+
+A document or set of documents specifying the materials with the
+procedures and precautions required to package a quantity of
+finished product.
+
+4.21 Packaging
+
+The part of the production cycle applied to a bulk product to obtain the finished product.
+
+4.22 Packaging Material
+
+Any material, including printed material, employed in the packaging of a product, including any outer packaging used for transportation or shipment. Packaging materiais are referred to as primary or secondary according to whether or not they are intended to be in direct contact with the product.
+
+4.23 Procedures
+
+Description of the operations to be executed, including the precautions to be implemented directly or indirectly related to the manufacture of a finished product.
+
+4.24 Processing
+
+The part of production cycle starting from weighing of raw materials to the obtaining of a bulk product.
+
+4.25 Production
+
+All operations involved in the preparation of a product, starting from acquisition of starting materiais through processing and packaging, to its completion as a finished product.
+
+4.26 Product Recall
+
+A process of withdrawing one or more batches or all of a certain product from market distribution.
+
+4.27 Quality Assurance
+
+The activity of providing the evidence needed to establish confidence that the quality function is being performed adequately.
+
+4.28 Quality Control
+
+All control measures taken during manufacturing designed to ensure that finished products consistently conform to established specifications.
+
+4.29 Quarantine
+
+The act of holding a material for use or a product for a packaging or distribution by setting it apart or by a system fully validated pending a decision of its release or rejection.
+
+4.30 Raw Material
+
+Any substance going into or involved in the processing of a finished product.
+
+4.31 Recovery
+
+The incorporation of all or part of previous batches to come up with the required quality into another batch at a defined step of production.
+
+4.32 Rejected
+
+The status of materials or products which are not permitted to be used for processing, packaging or distribution.
+
+4.33 Released of Passed
+
+The status of materials or products which are permitted to be used for processing, packaging or distribution.
+
+4.34 Representative Sample
+
+A sample representing the lot, the batch, or the total amount of materials based on a sampling plan.
+
+4.35 Reprocessing
+
+The reworking of all or part of a batch of product of an unacceptable quality from a defined step of production in order its quality may be rendered acceptable by one or more additional operations.
+
+4.36 Returned Product
+
+Any finished product which is already in distribution and sent back to the manufacturer or distributor due to complaint, damage or other reasons such as the condition of the container or package which may cast doubt on the product quality and safety.
+
+4.37 Sanitation
+
+Measures taken to preclude contamination of the processing equipment andfor area so as to prevent contamination of the bulk or finished product.
+
+4.38 Specifications
+
+The documents that describe the requirements to which the material, product or service has to conform.
+
+4.39 Starting Materials
+
+Raw/chemical materials and packaging materials used in the production of a finished product.
+
+4.40 Substandard
+
+Any condition that falls below the established specification or requirement for manufacturing.
+
+II. BASIC GMP
+
+Section 1. Personnel
+
+There shall be an adequate number of personnel at all levels having knowledge, skill and capabilities relevant to their assigned functions, in good mental and physical health to be able to execute their duties.
+
+1.1 Organization, Qualification and Responsibilities
+
+1.1.1 The organizational structure of the company shall be such that the production and the quality assurance/quality control are headed by different managers/heads, neither of whom shall be reporting to the other. Each shall be given full authority and facilities necessary to execute his/her duties effectively.
+
+1.1.2 The production manager/head shall be adequately trained and shall possess good practical experience in the field of cosmetic manufacture or any other related field and managerial skill, which will enable him/her to perform his/her function effectively. The production manager shall have full authority and responsibility to manage production of cosmetic products. Additionally, the production manager shall have other responsibilities, which he/she shall share with the quality control manager and the person responsible for engineering.
+
+1.1.3 The quality control managerrhead shall have adequate training and practical experience, which will enable him/her to perform hislher function effectively. The quality control managerihead shall have full authority and responsibility in all quality control duties such as establishment, verification and implementation of all quality control procedures.
+
+1.1.4 The quality control unit shall be entrusted with the responsibilities and authority:
+
+1.1.4.1 approve/reject all components - raw and packaging materials, labeling materials, as well as bulk and finished products;
+
+1.1.4.2 approve/reject product manufactured or packed or held under control by a third party manufacturer;
+
+1.1.4.3 approve/reject procedures which have impact on the product quality or product specifications;
+
+1.1.4.4 review production records and quality control records;
+
+1.1.4.5 support monitoring and controlling the manufacturing environment, plant cleanliness, production validation, calibration, training of personnel, approve suppliers of materials and contract parties, protect products and materials
+against spoilage and deterioration and the maintenance of records.
+
+1.1.5 The quality control manager/head shall share responsibility with the production managerlhead for establishing and authorizing written procedures.
+
+1.1.6 The quality assurance/control managerihead shall ensure that the cosmetic products manufactured are registered with the relevant regulatory agency.
+
+1.1.7 The production managerlhead shall have full authority and responsibility to manage the production of products covering all aspects of personnel, area, equipment and records.
+
+1.1.8 The production manager/head shall share with the quality control manager/head the responsibility of product quality and authority in the aspects enumerated in 1.1.4.3 to 1.1.4.5
+
+1.1.9 The duties of every employee shall be clearly defined, well understood and shall be within his/her capacity to perform.
+
+1.2 Training
+
+1.2.1 All employees who are directly engaged in the manufacturing activities shall be trained in the particular operations they perform in accordance to the principles of Good Manufacturing Practice.
+
+1.2.2 Training shall be conducted by qualified individuals.
+
+1.2.3 Training in Good Manufacturing Practices shall be on a continuing basis and with adequate frequency to assure that employees remain familiar with the Good Manufacturing Practice requirements relevant to their functions.
+
+1.2.4 Training in Good Manufacturing Practices shall be in accordance with written programs approved by the production and quality control managers/heads.
+
+1.2.5 Records of personnel training in Good Manufacturing Practices shall be maintained.
+
+1.2.6 After training, the consequential employees' performance shall be appraised to determine their further training needs.
+
+Section 2 Premises
+
+The premises for manufacturing shall be of suitable design, construction and location to facilitate proper operation, cleaning and maintenance.
+
+2.1 Location, Construction, Design and Lay-out
+
+2.1.1 Effective measures should be taken to avoid any contamination from the surrounding environment to protect against weather, flood, ground seepage and the access and harbouring of vermin, rodents, birds, insect or pests.
+
+2.1.2 In determining the design and lay-out or premises, consideration should be paid to:
+
+2.1.2.1 allow the production to take place in areas connected in a logical order according to the sequence of the operations and to the requisite cleanliness levels;
+
+2.1.2.2 the adequacy of the working space, which shall allow orderly and logical placement of equipment and materials to suit the operation, efficient flow of work and effective communication and supervision.
+
+2.1.2.3 provide separate passageways for materials/products and personnel.
+
+2.1.3 The lay—out of rooms, corridors, and spaces shall provide for a logical movement of materials and personnel with minimal traffic for operations to be carried out in defined areas.
+
+2.1.4 The production of cosmetic products shall be physically separated from the production of other products (is. drugs, device, household hazardous substances).
+
+2.1.4.1 Household products containing non-hazardous materialslingredients and cosmetic products can share the same premises and equipment provided that due care should be exercised to prevent cross contamination and risk of mix-up.
+
+2.1.4.2 Painted line, plastic curtain and flexible barrier in the form of rcpe or tape may be employed to prevent mix-up.
+
+2.1.5 There shall be separate areas for cleaning of used/soiledfcontaminated cleaning tools and clothing, where applicable.
+
+2.1.6 Separate areas for cleaning of mobile equipment, cleaning tools and storage of the same as well as the storage of cleaning materials/supplies shall be provided.
+
+2.1.7 Changinglgowning room shall be directly connected to but separated from processing areas. Suitable changing rooms and locker facilities should be provided at appropriate location.
+
+2.1.8 Toilets shall not be open directly to production areas and shall be well ventilated and with adequate supply of water and soap.
+
+2.1.9 Defined areas, wherever possible and applicable, shall be provided for:
+
+2.1.9.1 Receiving of starting materials;
+2.1.9.2 Sampling;
+2.1.9.3 Materials/products under quarantine;
+2.1.9.4 Laboratories;
+2.1.9.5 Storage of approved materials (chemical & packaging);
+2.1.9.6 Weighing/dispensing of materials;
+2.1.9.7 Processing operations for different product lines;
+2.1.9.8 Equipment washing;
+2.1.9.9 Storage of cleaned, idle and non-functional equipment; washing for cleaning tools/materials and storage of cleaning tools and supplies;
+2.1.9.10 Staging/storage of bulk products;
+2.1.9.11 Packaging/labeling operations;
+2.1.9.12 Storage of approved and rejected finished products;
+2.1.9.13 Loading and unloading
+
+2.1.10 Interior surfaces (walls, floors and ceilings) shall be smooth, cleanable and easy to maintain.
+
+2.1.11 Drains shall be of adequate size. Open channels shall be avoided where possible, but if required, they shall be shallow enough to facilitate cleaning and disinfection.
+
+2.1.12 Production area shall be effectively lit and ventilated to the operations.
+
+2.1.13 Pipework, light fittings, ventilation points and other services in production areas shall be installed in a way that will avoid uncleanable recesses and preferably located outside the processing areas. Lighting fixtures shall be recessed to the ceiling.
+
+2.1.14 Electrical power supply shall be adequate to ensure the proper functioning of production equipment and laboratory instruments.
+
+2.1.15 All premises, including production areas, laboratories, stores, passage ways and external surroundings shall be maintained in a clean and tidy condition.
+
+2.1.16 Storage areas shall be of adequate space, provided with suitable lighting, arranged and equipped to allow dry, clean and orderly placement of stored materials and products.
+
+2.1.16.1 Such areas should be suitable for effective separation of quarantined materials and products. Special and segregated areas shall be available for storage of flammable/explosive substances, highly toxic substances, rejected and recalled materials and products.
+
+2.1.16.2 Where special storage conditions e.g. temperature, humidity and security are required, these should be provided.
+
+2.1.16.3 Storage arrangements shall permit separation of different labels and other printed materials to avoid mix-up.
+
+Section 3 Equipment
+
+Equipment should be designed and located to suit the production of the product.
+
+3.1 Design and Construction
+
+The design and construction of equipment shall fulfill the following requirements:
+
+3.1.1 The equipment surfaces coming in contact with any raw material, intermediate, bulk or finished product shall not be reactive, additive or absorptive;
+
+3.1.2 Equipment shall not adversely affect the product through leaking valves, lubricant drips, inappropriate repairs, maintenance, modifications or adaptations;
+
+3.1.3 Equipment shall be easily and conveniently cleanable, inside and outside;
+
+3.1.4 Equipment used for flammable substances must be explosion proof as the case may be.
+
+3.2 Installation and Location
+
+3.2.1 Equipment should be located to avoid congestion and properly identified to assure that products do not become admixed or confused with one another.
+
+3.2.2 Water, steam, pressure or vacuum lines where applicable should be installed so as to be easily accessible during all phases of operation.
+
+3.2.3 Support systems such as heating, ventilation, air conditioning, water (such as potable, purified, distilled).steam, compressed air and gases (e.g. nitrogen) should be identifiable and should function as designed.
+
+3.3 Maintenance
+
+Weighing, measuring, testing and recording equipment should be serviced and calibrated regularly.
+
+Section 4 Sanitation and Hygiene
+
+Sanitation and hygiene should be practiced to avoid contamination of the manufacturing of products. It should cover personnel, premises, equipment/apparatus and production materials and containers.
+
+4.1 Personnel
+
+4.1.1 Prior to and during employment, shall undergo health examinations.
+
+4.1.2 Personnel should practice good personal hygiene.
+
+4.1.3 Any person shown at any time to have an apparent illness or open lesions that may adversely affect the quality of products shall not be allowed to handle raw materials, packaging materials, in-process materials, and finished products until the condition is improved.
+
+4.1.4 All employees shall be instructed and encouraged to report to their immediate supervisor any condition (plant, equipment or personnel) that they consider may adversely affect the products.
+
+4.1.5 Direct physical contact with the product should be avoided to ensure protection of the product from contamination. They should wear protective and clean attire appropriate to the duties they perform.
+
+4.1.6 Smoking, eating, drinking and chewing, or keeping of plants, foods, drinks and smoking materials are not permitted in production, laboratory, storage or other areas where they might adversely affect product quality.
+
+4.1.7 Personal hygiene procedures including requirement of using protective clothing shall apply to all persons entering production areas. The protective clothing must be changed on a regular basis and must not be worn outside the facility.
+
+4.2 Premises
+
+Premises used for manufacturing cosmetic products shall be suitably constructed to facilitate good sanitation.
+
+4.2.1 There shall be periodic inspection of the production areas for the presence of other product/material being processed.
+
+4.2.2 Waste materials shall not be allowed to accumulate. It shall be collected in suitable receptacles for removal to collection points outside the buildings and disposed off safely in a sanitary manner at regular and frequent intervals.
+
+4.2.3 Rodenticides, insecticides, fumigating agents and sanitizing materials shall not be permitted to contaminate equipment, chemical and packaging materials, in-process materials or finished products.
+
+4.3 Equipment
+
+4.3.1 Equipment and utensils should be kept clean.
+
+4.3.2 Vacuum or wet cleaning methods is preferred. Compressed air and brushes should be used with care and avoided if possible as they increase the risk of product contamination.
+
+4.3.3 Standard operating procedures must be followed for cleaning and sanitizing of major machines.
+
+Section 5 Manufacturing Process
+
+5.1 Raw materials
+
+5.1.1 Written SOPs should be established and implemented for the receipt, handling and storage of raw materials. These shall cover specifics of identification, visual examination for damage to containers or integrity of seal and suitable storage conditions for the released/rejected materials and where space is limited, a quarantine system for its items undergoing testing and pending approval or release.
+
+5.1.2 Written SOPs should be established and implemented for the sampling, testing and control procedures including the sampling schedule, sampling size for testing and retention, appropriate tests for identity and purity to conform to established specifications and labeling of approved and rejected materials.
+
+5.1.3 Water for use in the production should be tested on a regular basis to demonstrate that the system is in control. Water production equipment and water systems should always supply a quality of water that guarantees conformity of the finished product. Water system should allow cleaning and sanitation in conformity with established procedures.
+
+5.2 Packing Materials
+
+5.2.1 Packaging materials intended for use in the manufacture of cosmetic products shall be identified on receipt, sampled and checked for conformance to specifications and released by duly authorized personnel.
+
+5.2.2 Packaging materials should be stored and handled in appropriate manner so as to avoid mix-up and contamination.
+
+5.3 Batch and Lot Numbering System
+
+There shall be a system describing the details of the batch and lot numbering set-up to ensure that each batch or lot of bulk or finished product is identified with a specific batch or lot number.
+
+5.3.1 Every finished product should bear a production identification number which enables the history of the product to be traced from its raw materials.
+
+5.3.2 A batch numbering system should be specific for the product and a particular batch number should not be repeated for the same product in order to avoid confusion.
+
+5.3.3 Records of batch number should be maintained.
+
+5.4 Weighing and Measurement
+
+5.4.1 Weighing should be carried out in the defined areas using calibrated equipment.
+
+5.4.2 All weighing and measurement carried out should be recorded and where applicable, counterchecked.
+
+5.5 Processing
+
+5.5.1 All starting materials used should be approved according to specifications.
+
+5.5.2 All manufacturing procedures should be carried out according to written procedures.
+
+5.5.3 All required in-process controls should be carried out and recorded.
+
+5.5.4 Bulk products should be properly labeled until approved by the Quality Control, where applicable.
+
+5.5.5 Particular attention should be paid to problem of cross-contamination in all stages of processing.
+
+5.6 Dry Products
+
+Handling of dry materials and products should be given special attention. Where possible, dust~containing production system, central vacuum system or other suitable methods should be employed.
+
+5.7 Wet Products
+
+5.7.1 Liquids, creams, and lotions should be produced in such a way as to protect the product from microbial and other contamination.
+
+5.7.2 Where pipelines are used for delivery of ingredients or bulk products, care should be taken to ensure that the system are easy to clean.
+
+5.7.3 The use of closed systems of production and transfer is recommended.
+
+5.8 Labeling and Packaging
+
+5.8.1 Packaging line should be inspected for clearance prior to operation. Equipment should be clean and functional. All materials and products from previous packaging operation should have been removed.
+
+5.8.2 Samples should be taken and checked at random during labeling and packaging operations.
+
+5.8.3 Each labeling and packaging line should be clearly identified to avoid mix-up.
+
+5.8.4 Excess labels and packaging materials should be returned to store and recorded. Rejected packaging materials should be disposed off accordingly.
+
+5.9 Finished Product Quarantine and Delivery to Finished Stock
+
+All finished products should be approved by Quality Control prior to release.
+
+Section 6 Quality Control
+
+Quality Control is an essential part of current Good Manufacturing Practice. It provides assurance that cosmetic products will be of consistent quality appropriate to their intended use.
+
+6.1 Quality Management
+
+6.1.1 A quality control system should be established to ensure that products contain the correct materials of specified quality and quantity, and are manufactured under proper conditions following standard procedures to ensure the quality and safety of the product.
+
+6.1.2 The quality control involves sampling, inspecting and testing of starting materials, in process, intermediate, bulk and finished products. it also includes where applicable, review of batch documentation, sample retention program, stability studies, product complaints, product recalls, and maintaining correct specifications of materials and products.
+
+6.2 Reprocessing
+
+6.2.1 The methods of reprocessing should be evaluated to ensure that they do not affect the quality of the product.
+
+6.2.2 Additional testing of any finished product, which has been reprocessed, should be performed.
+
+6.3 Returned Goods
+
+6.3.1 Returned products should be identified and stored separately either in allocated area or by moveable barrier such as rope or tape.
+
+6.3.2 All returned products should be tested if necessary, in addition to physical evaluation before being released for distribution.
+
+6.3.3 Any returned products that does not comply with the original specification should be rejected.
+
+6.3.4 Rejected products should be disposed according to appropriate procedures.
+
+6.3.5 Records of returned products must be maintained.
+
+6.4 Laboratory Facilities and Controls
+
+6.4.1 The laboratory shall be well designed to suit the relevant operations.
+
+6.4.2 It shall be separated physically from the production areas.
+
+6.4.3 Its concomitant facilities — laboratory equipment and instruments shall be suitable to the testing procedures undertaken.
+
+Section 7 Documentation
+
+7.1 General Provisions
+
+The documentation system should include the complete history of each batch, from starting materials to finished products.
+
+7.1.1 There should be a system for preventing the use of any superseded document.
+
+7.1.2 If an error is made or detected on a document, it should be corrected in such a manner that the original entry is not lost and correction is made close to the original entry, initialed and dated.
+
+7.1.3 Where documents bear instructions they should be clearly written step by step.
+
+7.1.4 Documents should be dated and authorized.
+
+7.1.5 Documents should be readily available to relevant parties.
+
+7.2 Specifications
+
+All specifications should be approved by authorized personnel.
+
+7.2.1 Raw and packaging material specifications should include:
+
+7.2.1.1 Name of material
+
+7.2.1.2 Description of the material
+
+7.2.1.3 Testing parameters and acceptance limits
+
+7.2.1.4 Technical drawings, where applicable
+
+7.2.1.5 Date of issue of the specifications
+
+7.2.1.6 Special precautions e.g. storage and safety conditions, if necessary.
+
+7.2.2 Bulk and finished product specifications should include:
+
+7.2.2.1 Name of product
+
+7.2.2.2 Description
+
+7.2.2.3 Physical properties
+
+7.2.2.4 Chemical assay and or microbiological assay, if necessary
+
+7.2.2.5 Storage conditions and safety precautions, if necessary
+
+7.3 Documents for Production
+
+7.3.1 Master Formula
+
+The Master Formula should be available upon request. This document should contain the following information:
+
+7.3.1.1 Product name and product code/number.
+
+7.3.1.2 Storage conditions and precautions to be followed during processing and packaging.
+
+7.3.1.3 List of raw materials used, whether they remain unchanged or become altered.
+
+7.3.1.4 List of packaging materials
+
+7.3.1.5 Specifications of packaging materials
+
+7.3.1.6 Brief processing and packaging procedures
+
+7.3.1.7 List of equipment used
+
+7.3.1.8 In-process controls in processing and packaging
+
+7.3.2 Batch Manufacturing Record (BMR)
+
+Batch Manufacturing Records should be prepared for each batch or product. Each BMR should include the following:
+
+7.3.2.1 Name of product
+
+7.3.2.2 Identification of the Material
+
+7.3.2.3 Batch formulation, raw materials’ batch/control number and quantities.
+
+7.3.2.4 Brief manufacturing procedure
+
+7.3.2.5 Date of the start and finish of processing and packaging
+
+7.3.2.6 identity of individual major equipment and lines or location used
+
+7.3.2.7 Records cleaning of equipment used for processing as appropriate
+
+7.3.2.8 ln-process controls and laboratory results, such as pH and temperature test records.
+
+7.3.2.9 Packaging line clearance inspection records
+
+7.3.2.10 Any sampling performed during various steps of processing
+
+7.3.2.11 Any investigation of specific failure or discrepancies.
+
+7.3.2.12 Results of examinations on packed and labeled products
+
+7.3.3 Record for Quality Control
+
+Records for each testing, assay result and release or rejection of starting materials, intermediates, bulk and finished product should be maintained. These records should include:
+
+7.3.3.1 Date of test
+
+7.3.3.2 identification of the material
+
+7.3.3.3 Supplier Name
+
+7.3.3.4 Date of receipt
+
+7.3.3.5 Original batch number, if any
+
+7.3.3.6 Batch number
+
+7.3.3.7 Quality control number
+
+7.3.3.8 Quantity received
+
+7.3.3.9 Date of sampling
+
+7.3.3.10 Quality control results
+
+Section 8 Quality Audits
+
+A quality audit consists of an examination and assessment of all or part of a quality system with the specific purpose of improving it. A quality audit maybe conducted by outside or independent specialists or a team designated by the management for this purpose. Such audits may also be extended to suppliers and contractors, if necessary. A report should be made at the completion of each quality audit.
+
+Section 9 Storage, Stock Handling, and Control
+
+9.1 Storage Areas
+
+9.1.1 Storage areas should be of sufficient capacity to allow orderly storage of the various categories of materials and products such as starting and packaging materials, intermediate, bulk and finished products, products in quarantine, released, rejected, returned or recalled products.
+
+9.1.2 Storage areas should be designed or adapted to ensure good storage conditions. They should be clean, dry and well-maintained.
+
+9.1.3 Receiving and dispatch bays should protect materials and products from weather. Reception areas should be designed and equipped to allow incoming materials to be cleaned if necessary before storage.
+
+9.1.4 Storage areas for quarantine products should be clearly demarcated.
+
+9.1.5 Hazardous materials should be safely and securely stored. 
+
+9.2 Stock Handling and Control
+
+9.2.1 Receiving
+
+9.2.1.1 Upon receipt, each incoming delivery should be checked against the relevant documentation and physically verified by label description, type and quantity.
+
+9.2.1.2 The deliveries should be carefully inspected for defects and damage. Records should be retained for each delivery.
+
+9.2.2 Control
+
+9.2.2.1 Records should be maintained showing all receipts and issues of products.
+
+9.2.2.2 issuance of products should observe the principle of stock rotation (first in-first out)
+
+9.2.2.3 All labels and containers of products should not be altered, tampered or changed.
+
+Section 10 Product Complaints, Product Recalls and Returned Products
+
+10.1 Product Complaint
+
+Any product complaint received related to the product quality or adverse reaction of the product shall be thoroughly investigated, reported, documented and where corrective actions are necessary, these shall be implemented.
+
+10.1.1 A product complaint may be reported about:
+
+10.1.1.1 A physical, chemical or microbiological defect of the product or its packaging;
+
+10.1.1.2 The adverse reaction like allergy, toxicity and/or other physiological reaction;
+
+10.1.1.3 Product effectiveness
+
+10.1.2 Product complaints shall be handled by the Quality Control according to the type of complaints received.
+
+10.1.3 Each product complaint and report should be thoroughly investigated and evaluated. it should be documented to show the following data:
+
+10.1.3.1 Product name 8 product code number, if any;
+
+10.1.3.2 Type of complaint;
+
+10.1.3.3 Source of complaint;
+
+10.1.3.4 Sample complaint;
+
+10.1.3.5 Result of investigation;
+
+10.1.3.6 Response and follow-up action to the complaint
+
+10.1.4 When a follow-up action such as those indicated below is required, these shall be recorded and reported to the relevant department.
+
+10.1.4.1 Corrective action, where applicable;
+
+10.1.4.2 Recall of the nonuconforming products;
+
+10.1.4.3 Other appropriate action.
+
+10.2 Product Recall
+
+A product recall is a process of withdrawing one or more batches or all of a certain product from market distribution.
+
+10.2.1 A product recall should be instituted immediately after discovery of a quality defect causing an adverse reaction or which may cause health risk.
+
+10.2.2 Recall of a product may be initiated by the manufacturer or under instruction of a government authority.
+
+10.2.3 Total withdrawal of a product from market distribution may result to a suspension or discontinuation of manufacturing a product.
+
+10.2.4 A written standard operating procedure shall be established for a product recall to be quickly and effectively carried out from all points of distribution, including when the product recall has started, and the result of the product recall shall be documented.
+
+10.3 Returned Product
+
+A returned product is a finished product which is already in distribution and returned due to a complaint, damage, expiration or any quality defect of the container or the package which may cast doubt on the product identity, quality, quantity and safety.
+
+10.3.1 A written standard operating procedure shall be established and followed for handling returned products. It shall include but not limited to:
+
+10.3.1.1 Identification and recording the condition of the returned product;
+
+10.3.1.2 Holding the product in quarantine;
+
+10.3.1.3 investigation, test and analysis of the product, if required;
+
+10.3.1.4 Critical evaluation to determine what category the required product is, whether it can be returned to inventory, reprocessed or destroyed;
+
+10.3.1.5 Additional test required for reprocessing of the returned product, if possible;
+
+10.3.1.6 Destruction of the rejected returned product ensuring protection of the environment and misuse of the product by unauthorized personnel.
+
+10.3.2 Documentation of the handling of the returned product and followuup actions shall be done. It shall include the following data:
+
+10.3.2.1 Product name, batch number and quantity received;
+
+10.3.2.2 Source ofthe returned product;
+
+10.3.2.3 Disposition of the returned product, whether returned to inventory, for reprocessing or for total destruction;
+
+10.3.2.4 Method of destruction;
+
+10.3.2.5 Persons performing and witnessing the destruction;
+
+Section 11 Retention Samples 
+
+Retention samples of a batch product provide a useful tool for the investigation of a product complaint.
+
+11.1 An appropriate and adequate number of samples of the finished batch product shall be withdrawn from the production/packaging line to serve as reserve or retention samples. The number shall be such that it will be adequate for a complete testing, if and when necessary to do so.
+
+11.2 Retention samples shall be stored in an area compatible with storage condition prevailing in the market.
+
+Section 12 Sub-Contracting of Manufacture
+
+The conditions of contract manufacturing should be defined, agreed, and controlled so as to avoid misunderstandings, which could result in a product or work of unacceptable quality. All aspects of contracted work should be specified to obtain a quality product conforming to the agreed standards. There should be a written contract between the principal and the contract manufacturer to clearly establish the duties and responsibilities.
+
+All other administrative issuances or parts thereof, inconsistent with the provisions of this Order are hereby amended, repealed and modified accordingly.
+
+This Order shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
+
+</body>

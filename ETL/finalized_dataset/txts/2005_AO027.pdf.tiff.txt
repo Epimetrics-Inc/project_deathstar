@@ -1,0 +1,159 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+
+<date>08/15/2005</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2005-0027</docnum>
+
+<subject>SUBJECT: Rules and Regulations Governing the Regulation of HIV Testing Laboratories</subject>
+
+
+<body>
+
+I. BackgroundIRationale:
+
+In 1989, the Department of Health issued Administrative Order No. 55-A s. 1989 otherwise known as “Rules and Regulations Governing the Accreditation of Laboratories Performing HIV Testing” in accordance with Republic Act 4688: “Clinical Laboratory Law” and Republic Act 1517: “Blood Bank/Center Law”. Since then, a number of testing centers have secured accreditation.
+
+In order to promote a truly safe, effective and efficient blood transfusion services, Republic Act 7719: “National Blood Services Act of 1994” and its Implementing Rules and Regulations were passed. Further, to strengthen the fight against the spread of HIVIAIDS infection, Republic Act 8504: “Philippine AIDS Prevention and Control Act of 1998” was enacted. As mandated under Section 19 of such law, all testing centers, hospitals, clinics and laboratories offering HIV testing services shall seek accreditation of the DOH, which shall set and maintain reasonable accreditation standards.
+
+With the ratification of the above—mentioned laws, the advances in health technology and the need to streamline the current procedure in securing accreditation, review and subsequent amendment of Administrative Order No. 55-A s 1989 is believed to be indispensable.
+
+II. Objective:
+
+These rules and regulations are promulgated to ensure utmost safety and quality in the performance of HIV testing by laboratories.
+
+III. Scope:
+
+Performance of any of the following laboratory procedures shall be covered by these rules and regulations:
+1. Screening tests for HIV antibody
+1.1 Enzyme Immunoassay (EIA)
+1.2 Particle Agglutination (PA)
+1.3 Other screening tests for HIV antibody
+2. Confirmatory tests for HIV antibody
+2.1 Western Blot (WB)
+2.2 lmmunofluorescence (IF)
+2.3 Radio Immune-Precipitation Assay (RIPA)
+2.4 Other supplemental tests for HIV antibody
+
+IV. Definition of Terms:
+
+A. Applicant refers to the owner or head of a clinical laboratory or blood center securing permission to operate an HIV testing laboratory
+B. BFAD refers to the Bureau of Food and Drugs
+C. BHFS refers to the Bureau of Health Facilities and Services of the DOH. It shall exercise the regulatory function provided in this Order.
+D. Blood Center refers to a blood service facility duly authorized by the DOH—BHFS pursuant to A.O. No. 2005—0002 with the following service capabilities:
+1. Donor recruitment/retention and care of voluntary blood donors,
+2. Collection of blood (mobile or facility based) from qualified voluntary blood donors,
+3. Processing and provision of blood components
+4. Storage, issuance, transport and distribution of units of whole blood and/or blood products to hospitals and other health facilities.
+5. For National and Sub national and selected Regional Blood Centers only: testing units of blood for five (5) infectious disease markers (Anti-HIV 1/2., Anti—HOV, HbsAg, Syphilis, Malaria)
+The Blood Centers shall be classified into Regional, Sub national and
+National whose service capabilities will be determined by the National
+Council for Blood Services.
+E. Confirmatory/ Supplemental Test refers to the test performed on samples reactive to the screening test to ensure that the results were true positive. This test includes but is not limited to Western Blot (WB), Line immunoassay (LIA), lmmunofluorescence Assay (IF) and Polymerase Chain Reaction (PCR).
+F. DOH refers to the Department of Health.
+G. EQAS refers to the External Quality Assessment Scheme. It is an external evaluation of a. laboratory’s performance using proficiency panels. It shall evaluate the effectiveness of the quality assurance program.
+H. HIV refers to Human Immunodeficiency Virus that causes Acquired Immune Deficiency Syndrome
+I. HIV Test Kit refers to the reagent used for the determination of the presence of antibody, antigen, viral genome and viral particles in a clinical specimen indicating infection by HIV types 1 and 2.
+J. HIV Testing shall include the determination for the presence of antibody, viral genome antigenlprotein, viral particles in a clinical specimen indicating infection by the Human Immunodeficiency Virus (HIV) types 1 and 2.
+K. NRL refers to the National Reference Laboratories for HIVIAIDS, Hepatitis and Sexually Transmitted Diseases or "National Reference Laboratories for Confirmatory Testing of Blood Donors and Blood Units" designated by the Secretary of Health as stipulated in Department Order 393-—E s 2000. it is a laboratory capable of doing screening and confirmatory laboratory services, training, and surveillance and external quality assurance program for laboratory tests. Whenever conflicting results occur, the NRL shall make the final decision.
+L. NRL-RITM NVBSP refers to the Research Institute for Tropical Medicine. It is the designated National Reference Laboratory for the Confirmatory Testing of Blood Donors and Blood Units as stipulated in Department Order No 393-E s 2000.
+M. NRL-SACCLISLH refers to the STDIAIDS Cooperative Central Laboratory of the San Lazaro Hospital. It is the designated National Reference Laboratory for HIV AIDS, Hepatitis and Sexually Transmitted Infections.
+N. NVBSP refers to the National Voluntary Blood Services Program
+O. Screening Test refers to initial serological test performed to determine the presence of antibody and/or antigen against HIV 1 and HlV 2. This test includes but is not limited to Enzyme Immunoassay (EIA) and Particle Agglutination Test (PA) and Rapid Assay.
+P. Specimen refers to the body fluid that is collected from a person and submitted for analysis.
+
+V. Policies and Guidelines:
+
+A. General
+
+1. Only licensed clinical laboratory and/or blood center designated by the NVBSP are allowed to operate an HIV testing laboratory provided that requirements set forth in these regulations are met. Permission to operate an HIV testing laboratory shall be included in the License to Operate a clinical laboratory or blood center.
+
+2. The BHFS or the CHD may conduct unannounced on site monitoring visits and shall document the overall quality of the laboratory setting.
+
+3. The HIV testing laboratory shall be a sectionl'unit {division of a clinical laboratory or blood center.
+
+4. The number of HIV testing laboratory an HIV Proficient Medical Technologist can handle shall be based on the Guidelines on Quality Assurance Program for HIV Testing Laboratories set forth by the NRL—SACCUSLH.
+
+B. Specific
+
+1. Physical Plant
+
+There shall be a designated area within the clinical laboratory or blood center adequate enough for the conduct of HIV testing. The designated area shall be well- lighted and ventilated, dust free with adequate water supply and provision of an area for decontamination of infectiousfcontaminated materials. Further, there shall be a designated area (outside the laboratory) accessible for pre and post-test counseling.
+
+2. Personnel
+
+The HIV testing laboratory shall have a licensed Medical Technologist with training in HIV Proficiency Testing certified by the NRL-SACCL/SLH. The HIV Proficiency Certificate of the Medical Technologist shall be posted in a conspicuous place within the laboratory.
+
+3. Equipment/Supplies
+
+a. The HIV testing laboratory shall have the appropriate equipment and necessary supplies for HIV testing which include personal protective devices.
+b. The HIV testing laboratory shall utilize reagents, such as HIV test kits, which have been registered with the BFAD and with a valid Certificate of Product Registration (CPR). However, for screening of blood donors, only BFAD registered kits shall be used.
+
+4. Laboratory Reports
+
+a. The report form issued to the client shall indicate the name/laboratory code of patient, age, sex, address, date of specimen received, requesting physician, screening assay result (name of kit, lot number used, cut off value and patient’s absorbance, when necessary) and name and signature of the analyst and head of the laboratory. Reporting of confirmatory result shall include among others confirmatory assay results (name of kit, lot number used, brand present andfor grade of IF results, if any).
+b. Each HIV testing laboratory shall maintain a documentary evidence (or records) of all HIV testing performed, results and referrals of sero-active samples. This should be made available during monitoring visitslinspection or at any time deemed necessary.
+c. Reactive samples shall be referred for confirmatory testing to NRL-SACCLISLH. Reactive samples for blood units/blood donors shall be referred for confirmatory testing to NRL-RITM NVBSP. Laboratories other than NRL may perform confirmatory testing provided that the Philippine National AIDS Council upon the recommendation of NRL— SACCL/SLH deputizes it.
+d. Each HIV testing laboratory shall submit a quarterly report to the DOH—National Epidemiology Center on the number of tests performed, results and referrals of sero-reactive samples and confirmed sero-active samples as required under RA. 3573 using the HIV/AIDS Case Reporting Format which can be downloaded in this website: wvnv.doh.gov.phlsaccl.
+
+5. External Quality Assessment Scheme
+
+a. The NRL-SACCUSLH shall conduct a continuing assessment of the proficiency of clinical laboratories and blood centers performing HIV testing through participation in EOAS as embodied in the Guidelines on Quality Assurance Program for HIV Testing Laboratories issued by the NRL-SACCLISLH.
+b. A certificate of participation and subsequently a certificate of qualification shall be issued by the NRL-SACCLISLH after the clinical laboratory and/or blood center has achieved satisfactory results in the EQAS.
+
+VI. Procedural Guidelines
+
+A. The applicant shall submit the following documents:
+1. Intention letter to provide HIV testing services.
+2. List of personnel, including photocopies of valid PRC identification cards and current certificates of HIV proficiency training
+3. List of equipment with specifications
+4. Current Certificate of EQAS Participation from NRL-SACCLISLH (renewal only)
+
+B. The BHFS conducts on—site inspection to determine compliance with the standards and technical requirements.
+
+C. The BHFS approves or disapproves the application
+1. If approved, the BHFS includes in the License to Operate a clinical laboratory or blood center, among its service capability, the performance of HIV testing.
+2. If disapproved, the BHFS sends the findings and recommendations to the applicant for compliance.
+3. If BHFS fails to process applications within sixty (60) days after its official receipt, it shall be considered approved.
+
+VII. Violations
+
+Violation of these rules and regulations and! or commission of the following acts by persons operating the HIV testing laboratory under their authority shall be penalized:
+
+1. Any material false statement on the documents submitted.
+2. Conviction of the owner or manager of a clinical laboratorylblood center for any criminal offense committed as an incident to the operation of the laboratory.
+3. Any other causes that materially affect its ability to ensure full reliability and accuracy of HIV testing and the accurate reporting of results (ex. use of unregistered HIV testing kits, issuing laboratory reports without or incomplete signatures).
+4. Failure to submit seroactive samples for confirmatory testing to the NRL~SACCU SLH or NRL~RITM NVBSP. .
+5. Failure to report confirmed seropositive cases to the AIDS registry, DOH.
+6. Failure to participate in an authorized EQAS.
+7. Failure to submit quarterly statistical reports to the DOH- National Epidemiology Center.
+8. Refusal to allow survey, monitoring of a laboratory by the BHFSICHD at any appropriate time.
+9. Any act which is contrary to the accepted clinical laboratorylblood center practices.
+
+VIII. Penalty
+
+Any clinical laboratory/blood center performing HIV testing that violates these rules and regulations shall be liable under the Clinical Laboratory Law (RA. 4688) or National Blood Services Act of'1994 (RA. 7719) or Philippine AIDS Prevention and Control Act of 1998 (RA. 8504) and suffer penalties provided for- in the law and its Implementing Rules and Regulations. Such violations shall be basis for sanctions including suspension or revocation of the license to operate the clinical laboratory/blood center.
+
+IX. Appeal
+
+Any HIV testing laboratory, or any of its personnel aggrieved by the decision of the BHFS may, within ten (10) days after receipt of the notice of the decision, file a notice of appeal with the Office of the Secretary and serve a copy of the notice of appeal to the BHFS. Thereupon, the BHFS shall promptly certify and file a copy of the decision, including all documents and transcript of hearings on which the decision is based, with the Office of the Secretary, for review. The decision of the Office of the Secretary shall be final and executory.
+
+X. Separability Clause
+
+In the event that any provision or part of this Order be declared unauthorized or rendered invalid by any court of law or competent authority, those provisions not affected by such declaration shall remain valid and effective.
+
+XI. Repealing Clause
+
+These rules and regulations shall repeal and supercede all administrative orders and previous issuances inconsistent thereof.
+
+XII. Effectivity
+
+These rules and regulations shall take effect fifteen (15) days after publication in a newspaper of general circulation.
+
+
+</body>
+<sign>FRANCISCO T. DUQUE III, M.D., M.Sc.</sign>
+<signtitle>Secretary of Health</signtitle>

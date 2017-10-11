@@ -1,0 +1,40 @@
+Republika ng Pilipinas
+Ministri ng  Kalusugan
+TANGGAPAN NG MINISTER
+Maynila
+
+<date>10/12/1979</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 47, s. 1979</docnum>
+
+<subject>SUBJECT: STANDARD PROCEDURE IN THE REPAIR/SERVICING OF NON-MEDICAL EQUIPMENT IN THE MINISTRY OF HEALTH PROPER</subject>
+
+<body>
+For purpose of facilitating the repair and/or servicing of non-medical equipment in the Ministry of Health Proper, a standard procedure therefor is hereby prescribed for all concerned to comply with.
+
+SCOPE:
+
+Repair of non-medical equipment like air-conditioner, pump, typewriter machines, electric fans, etc., found in the Ministry of Health Proper located within the San Lazaro Compound, except those of the San Lazaro Hospital, the Dr. Jose R. Reyes Memorial Hospital and Medical Center, the Bureau of Research and Laboratories, and the Malaria Eradication Service.
+
+PROCEDURE:
+
+To avoid delay in the repair/servicing of any non-medical equipment in the Ministry of Health Proper, the steps enumerated hereunder are to be followed as the standard procedure in such repair/servicing:
+
+1. End-user request either by letter, telephone or messenger for servicing or repair of non-medical equipment to the Medical Equipment Maintenance & Engineering Section.
+
+2. Medical Equipment Maintenance & Engineering Section will issue a Job Oder Form to its engineer or mechanic. This Job Order Form is numbered and signed by the mechanic/s assigned to do the job and approved by the Section Chief, or in his absence, by the Supervising Medical Equipment Maintenance Engineer or the Senior Engineer.
+
+3. The mechanic or mechanics with Job Order proceed to service or repair the equipment. If the equipment is repairable without the need for replacement of parts, then the mechanic services said equipment to the satisfaction of end-user. The end-user signs he Job Order Form stating that servicing or repair was accomplished satisfactorily. Said Job Order is kept on file for future reference. If however, said repair could not be accomplished due to lack of spare parts, a certification is prepared by hte mechanic as to parts needed. If parts require no special tool or equipment install, than certification for parts only is approved and passed on to the Auditor. The certification is then noted by the AuditorAfter which, it is passed to the Supply Section for purchase. Once the parts are purchased, the repair will be done by the mechanic assigned to do the said repair. On the other hand, if parts to be replaced will require special tools not available i the Medical Equipment Maintenance & Engineering Section, the certification will call for a reputable outside jobber to do the job, and the same procedure is then followed. The Supply Section takes charge of canvassing of prices and the purchase order is then made.
+
+4. The purchase order (an accountable form) is prepared for the signature of the officials authorized under Administrative Order No. 43 dated September 12, 1979. The purchase order must have a certification that repair said equipment is necessary, urgent and indispensable to public service is provided for under Section 6 of Executive Order # 302, s. 1940, and signed by the Chief of the Medical Equipment Maintenance & Engineering Section, or the Chief of the office using said equipment. This certification is necessary in order that the Auditor will pass in audit the payment of said purchase order. Without this certification, the repair will have to be coursed thru the Bureau of Supply, Ministry of General Services, and the possibility of delay will exist.
+
+Accordingly, the Bureau/Project Directors and Chiefs of Offices/Services concerned are hereby authorized to sign this certification under Section 6, Executive Order 302, s. 1940.
+
+EFFECTIVITY:
+
+This Order takes effect immediately.
+</body>
+
+<sign>ENRIQUE M. GARCIA, M.D.</sign>
+<signtitle>Minister of Health</signtitle>

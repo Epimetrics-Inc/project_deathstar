@@ -1,0 +1,48 @@
+Manila
+
+<date>01/13/1977</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 313 s. 1977</docnum>
+
+<subject>SUBJECT: Guidelines in implementing Accounting Instructions provided in Budget Circular No. 249 dated September 5, 1975 in compliance with Presidential Decree No. 711 dated May 27, 1975.</subject>
+
+<body>
+The following are the guidelines to be followed in implementing the provisions of Budget Circular No. 249 dated September 5, 1975:
+
+I. Regional Accounting Office
+
+Regional Chief Accountants shall receive copies of sub-allotment advices with the corresponding notice of cash disbursement ceiling together with the journal voucher drawn by the Financial and Management Services of the Department of Health.
+
+Regional Accounting Unit shall remit the cash allotment due respective provincial, city and municipal emergency hospitals by drawing a Treasury Checking Account for Agencies (TCAA) check in favor of the PNB branch where the hospitals are maintaining their checking account for credit to the respective accounts. A statement of the amoung due each hospital shall accompany each TCAA check prepared for the information of the bank. The PNB branch will issue credit memo to the hospitals concerned to inform them of the deposit credited to their accounts.
+
+II. The Accounting Units of Hospitals:
+
+Heads of Accounting Units of provincial, city and municipal emergency hospitals shall prepare a journal voucher to book up the receipt of credit advice from the bank as follows:
+
+70-300-0 xxx
+90-000-0 xxx
+
+Information as to allotment class of releases shall be based on the copy of sub-allotment received from regional office. The entry in the Journal Voucher shall be the basis of the memorandum entry in the Journal and Analysis of Obligations.
+
+III. Hospital Collections and Remittances:
+
+All hospital collections from whatever sources are to be deposited with the Bureau of the Treasury thru the PNB branches in accordance with the provisions of Department of Finance Orders Nos. 20-73 dated June 14, 1973, 23-73 dated August 22, 1973, 10-74 dated March 25, 1974 and 8-75 dated March 6, 1975.
+
+Remittance advices prepared by Collecting Officers shall indicate the nature of collection i.e., local contribution, hospital income, affiliation fees, refund of cash advances, accounts receivables, cost of medicines, etc. One xerox copy of the remittance advices shall be forwarded to the Regional Accounting Office and one xerox copy to the Field Head Office Accounting Section, Financial and Management Services for entry in their respective books of accounts. Regional Accounting Office shall furnish Field Head Office Accounting Section, Financial Management Services, copies of journal vouchers drawn to take up deposits made by hospitals.
+
+IV. Releases from the Special Activities Fund:
+
+Releases from the Special Activities Fund are to be remitted to the amount of actual collection of income deposited with the Bureau of the Treasury. Regional Accounting Office shall maintain a subsidiary ledger for deposits of hospitals as well as remittances made from the releases from the Special Activities Fund.
+
+V. Remittances of non-income collections deposited with the Bureau of the Treasury are to be made by Regional Accounting Office upon receipt of validated remittance advices.
+
+VI. All unobligated balances of allotments at the end of the calendar year are to be remitted to the Bureau of the Treasury by drawing a check payable to the Treasurer of the Philippines. The check is to be forwarded to the Regional Accounting Office for entry in their books and for deposit with the Bureau of the Treasury.
+
+All provincial, city and municipal emergency hospitals shall use the national accounting system and shall observe the accounting and auditing rules and regulations prescribed by the Commission on Audit and the Budget Commission.
+
+This Order shall take effect January 3, 1977.
+</body>
+
+<sign>CLEMENTE S. GATMAITAN, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>

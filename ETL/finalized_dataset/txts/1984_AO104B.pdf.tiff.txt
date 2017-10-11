@@ -1,0 +1,21 @@
+﻿
+Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>5/11/1984</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 104-B, s. 1984</docnum>
+<subject> Subject: Amending the provisions of Administrative Order No. 5-B s. 1981 to liberalize the regulations implementing bed subsidy to private hospitals</subject>
+       <body>The following regulations are hereby issued by this Office to amend the provisions of Administrative Order No. 5-B dated August 31, 1981 to liberalize the implementation of bed subsidy to private hospitals:
+       1. That private hospitals which are located not less than twenty (20) kilometers distant from the nearest government hospital shall be qualified for government subsidy;
+       2. That private hospitals located in municipalities with at least 20,000 population shall be eligible 
+
+
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>

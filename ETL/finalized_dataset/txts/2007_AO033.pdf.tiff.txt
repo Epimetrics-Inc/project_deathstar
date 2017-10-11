@@ -1,0 +1,73 @@
+Republic 0fthe Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+2/F Building 11 San Lazaro Compound, Ftizal Avenue, StaCruz, Manila
+Trunk Line: 743-8301; Direct Line: 711-9501; Fax: 743-1829;743—1786
+URL: http://www.doh.gov.ph; e-mail: osec@doh.gov.ph
+
+
+<date>09/28/2007</date>  
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2007 - 0033</docnum>
+
+<subject>SUBJECT: Amendment to Implementing Rules and Regulations of Chapter XX — “Pollution of the Environment” of the Code on Sanitation of the Philippines (P.D. 856)</subject>
+
+
+<body>
+
+I. RATIONALE:
+
+In the performance of the regulatory functions of the Department of Health (DOH) pursuant to Presidential Decree (PD) 856 entitled Sanitation Code of the Philippines, there is a need to include some definitions of terms under section 2 of the said law. These definitions will spell out and clarify some technical words used in the law and will identify the Bureau in charge of enforcement under the DOH.
+
+With these amendments, the regulatory function of the Department of Health, the Implementing Rules and Regulation of Chapter XX — “ Pollution of the Environment” of the Code of Sanitation of the Philippines (RD. 856) dated April 16, 1998 will be strengthened and be more effective.
+
+Section 2. Definition of Terms: The following definitions shall be added:
+
+1. Basic restrictions — restrictions on the effects of exposure to time -varying electric, magnetic, and electromagnetic fields that are based directly on established health effects.
+
+2. Bureau of Health Devices and Technology (BHDT) of the Department of Health (DOH) — the national regulatory agency with responsibility for radiation protection from electrical/electronic devices capable of emitting radiation. Its former name is Radiation Health Service.
+
+3. Distribution Lines — low voltage electric lines that bring electricity from substations to businesses and homes. Pole mounted transformers of distribution lines reduce voltages from 4 kV — 25 kV to 120/240 V when the electricity gets to homes and businesses.
+
+4. Electric Field Strength — the force per unit electric charge at any point in an electric field: symbol E; (unit of measurement: volts per meter [V/m]).
+
+5. Frequency — the number of sinusoidal cycles completed by electromagnetic waves in 1 second: symbol f; (unit of measurement: hertz [Hz]).
+
+6. International Commission on Non-ionizing Radiation Protection (ICNIRP) — an independent scientific organization of experts in non—ionizing radiation (NIR), tasked to investigate the hazards that may be associated with different forms of NIR, deve10p international guidelines on NIR exposure limits, and deal with all aspects of NIR protection.
+
+7. Magnetic Field Strength — an axial vector quantity, which, together with magnetic ﬂux density, specifies a magnetic field at any point in space: symbol H; (unit of measurement: amperes per meters [A/m]).
+
+8. Magnetic Flux Density — a vector field quantity, that results in a force that acts on a moving charge or charges: symbol B; (unit of measurement: tesla [T]).
+
+9. Philippine Electrical Code (Part 2) — rules promulgated by the Board of Electrical Engineering pursuant to RA. 7920 and the purpose of which is the practical safeguarding of persons during the installation, operation, or maintenance of electric supply and communication lines and associated equipment.
+
+10. Reference Level of Exposure — exposure levels that are more practical to measure and which have been derived from basic restrictions. The reference levels have been conservatively formulated such that compliance with the reference levels given in these standards will ensure compliance with the basic restriction.
+
+11. Root Mean Square (rms) value — also known as the effective value of a periodic function. It is derived by first Squaring the function, determining the mean value of the squares obtained, and taking the square root of the mean value.
+
+12. Transmission Lines — high voltage electric lines that bring electrical energy efficiently over long distances from electrical generation facilities to substations. Transmission lines operate at voltages of 69 kV to 500 kV.
+
+Applicable laws and guidelines have been adopted to set standards and reference levels in implementing these rules and regulations.
+
+Section 7- par.7.3.1a, 7.3.1b and 7.3.3 of Sub-section 7.3- Electric and Electronic Industries are hereby amended, to read as follows:
+
+7.3.1a All overhead and underground transmission and distribution lines shall conform with the appropriate provision of the latest edition of the Philippine Electrical Code (Part 2).
+
+7.3.1b All overhead and underground transmission and distribution lines shall not exceed the reference levels of exposure as shown in the table below*:
+
+<image>table_1.png</image>
+
+7.3.3 The provisions of PD. 480 and PD 1372 and the applicable rules and regulations of the Radiation Health Service now named Bureau of Health Devices and Technology of the Department of Health shall be applied and enforced.
+
+II. REPEALING CLAUSE
+
+Other provisions of the Implementing Rules and Regulations that are not affected by this amendment shall remain in effect.
+
+III. EFFECTIVITY
+
+This order shall take effect 15 days after publication in the Official Gazette or in a newspaper of general circulation.
+
+ 
+</body>
+<sign>FRANCISCO T. DUQUE III, MD. M.Sc.</sign>
+<signtitle>Secretary of Health</signtitle>

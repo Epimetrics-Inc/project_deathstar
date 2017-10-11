@@ -1,0 +1,198 @@
+﻿
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>25/5/1994</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 30,s. 1994</docnum>
+
+To: All Regional Directors, Medical Center Chiefs, Regional
+Hospital Chiefs and Chiefs of other Department of Health.(DOH) retained hospitals with x—ray facilities.
+
+<subject>
+Subject: Criteria in Categorizing the X-ray departments/sections of all DOH retained hospitals from 1 Star to 5 Star Ranking in the Implementation of Quality Assurance Programs.</subject>
+
+
+<body>
+In order to institutionalize the development of Quality Assurance Programs and to continually improve the services rendered by the x-ray sections/departments of all DOH-retained hospitals and serve as an indicator of performance level of their radiologic/x-ray service, the following set of criteria in categorizing Department of Health X-ray Facilities from 1 to 5 Star in the Implementation of Quality Assurance Programs is hereby approved. These criteria shall be used by the Radiation Health Service in its annual "Star Awards for X—ray Departments of Hospitals".
+
+A. INCLUSION CRITERIA: Only those Department of Health retained hospitals with valid licenses to operate an X-ray facility are included in the selection
+
+B. SELECTION CRITERIA; _
+ONE (1) STAR X—RAY FACILITY: An x-ray facility with a satisfactory performance in a quality assurance program must have all the following requirements:
+
+I. Must have written and established criteria for good, poor and rejected- radiographs signed by the radiologist and chief x—ray or radiologic technologist. These criteria must be duly approved by the chief of the hospital.
+
+2. Must undertake at least a monthly film, analysis program (Accomplished periodic film analysis forms are filed and duly signed by the Chief X-ray Technologist and noted by the Radiologist.
+ 
+3. Must observe proper radiation protection procedures. 
+
+a. patient/operator use of protective devices when necessary.
+a.1 collimation
+
+a.2. lead gown
+a.3. protective barrier
+a.4. 1ead rubber gloves
+a.5. gonadal shields
+a.6. lead drapes
+
+b. practice cardinal principles of radiation protection when protective devices are net available.
+
+c. operator use of personal radiation dose monitors while inside the x— ray facility.
+
+d. radiation warning signs must be available and warning lights must be functioning.
+
+4. Must perform basic user-preventive maintenance of x-ray, darkroom equipment & their accessories
+
+a. X-ray equipment and accessories
+
+a.1 control console
+       -  cleaning, visual, operational and mechanical checks of switches, knobs, meters, cables and light indicators.
+
+a.2 high tension transformer
+
+- cleaning; checks of cables and oil level if possible
+
+a.3 x—ray tube and tube assembly
+
+- checks of cables, brakes, locks, hinges, mechanical movement; collimator bulb; collimator leaves, cleaning and greasing of rails.
+
+a.4 interconnecting cables
+
+- cleaning, protection and check of chaffing of cables check of cracks, exposed wires
+
+a.5 x— ray table
+       - cleaning; check of mechanical movement, table alignment, level indicators, oiling and greasing
+
+a.6 grid (both stationary and Bucky)
+
+- physical assessment, cleaning
+
+ 
+b. Darkroom equipment and accessories
+
+b.1. film hangers
+       — cleaning and physical inspection
+b.2. film viewer
+       — cleaning and check for luminance
+b.3. exhaust fan
+       — cleaning and functional checks
+b.4 interval timer
+       - cleaning and functional checks
+b.5 cassette with intensifying screens
+       - cleaning and inspection of the physical condition_
+b.6 darkroom safelight
+       - physical inspection
+b.7. automatic film processor
+       - cleaning, checks of rollers
+
+c. user preventive maintenance logbooks must be available where results and action taken are reflected.
+
+5. Must observe proper work ethics within the x-ray department.
+
+6. Must maintain reliable recordkeeping of x-ray requests and results and must maintain orderly film files.
+
+7. Must always observe cleanliness and orderliness within the x—ray department.
+
+
+TWO (2) STAR X-RAY FACILITY : An x-ray facility with slightly more than satisfactory performance in a quality assurance program must have all the following requirements:
+
+1. Must satisfy all the requirements of ONE (1) STAR X~RAY FACILITY.
+
+2. Must observe the time—temperature method of development in manual film processing.
+
+3. Time-temperature charts for manual film processing must be available.
+
+4. Must perform periodic quality control test for darkroom and its accessories.
+
+4.1 quality control test of the following:
+a. automatic film processor
+— replenishment rate, temperature monitoring and film
+transport rate.
+b. cassette light leaks
+c. safelight fogging
+d. film—screen contact
+e. film-screen speed (when necessary)
+
+
+4.2. test protocols and logbook where results and action taken are reflected must be available.
+
+5. Must have a reliable recordkeeping of technical reports, communication, hospital orders and circulars, memorandum receipts, technical/operational manuals and circuit diagrams of X-ray and darkroom equipment and their accessories, DOH Administrative Orders, DOH Bureau Orders, DOH Department Orders and license certificates.
+THREE (3) STAR X-RAY FACILITY: An x—ray facility with almost very satisfactory performance in a quality assurance program must have all the following requirements:
+
+1. Must satisfy all the requirements of Two (2) STAR X—RAY FACILITY.
+2. Must perform periodic quality control test for x—ray equipment and their accessories.
+
+2.1. Quality control tests to be performed by the hospital x—ray or radiologic technologist:
+
+a. x—ray and light field congruency alignment
+b. grid uniformity/alignment
+c. exposure reproducibility
+d. exposure linearity
+
+
+2.2. Quality control test to be performed by the hospital x—ray or radiologic technologist with the assistance of Radiation Health Service (RHS) technical staff:
+
+a. kilovoltage check
+
+b. timer check
+
+c. milliamperage (mA) check
+d. beam quality (HVL) check
+
+2.3. test protocols and logbook where results and action taken are reflected must be available.
+
+3. Must perform x—ray examination commensurate to their x-ray facility category.
+— standard radiographic technique chart per x-ray unit must be available.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FOUR (4) STAR X4RAY.FACIL1TY: An x—ray facility with a very satisfactory performance in a quality assurance program must have all the following requirements:
+
+1. Must satisfy all the requirements of THREE (3) STAR X-RAY FACILITY.
+
+2. Must have a written protocol for each radiographic examination containing the following:
+
+a. procedure on patient preparation per x-ray examination.
+b. procedure on the conduct of x-ray examination.
+
+3. Must have a written standard operating procedures in the conduct of x ray examinations starting from the request to filing and forwarding of results to the requesting physician.
+
+4. Must have a program for the continuing education of the staff.
+
+5. Must have an adequate supply of films, processing chemicals, film envelopes, darkroom and x—ray accessories, and clerical supplies and these supplies must be stored under proper conditions.
+
+6. Must observe proper film and darkroom waste disposal.
+
+
+(5) STAR X—RAY FACILITY : An x ray facility with an outstanding performance in a quality assurance program must have all the following:
+
+1. Must satisfy all the requirements of FOUR (4) STAR X—RAY FACILITY.
+
+2. Must have written radiation safety manual in diagnostic radiology.
+
+3. Must have protocols to rationalize the use of x—ray examination.
+
+4. Must be able to optimize the department’s resources.
+
+
+
+</body>
+<sign>Juan M. Flavier, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+  
+   
+ 
+     
+

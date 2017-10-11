@@ -1,0 +1,49 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+ 
+
+<date>18/7/1983</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 66,s. 1983</docnum>
+
+<subject> Subject: Amending Ministry Order No. 35-A, Series of 1980, relative to the guidelines in the supervision and issuance of results of analysis of all drugs and pharmaceutical product including antibiotics, food and food products as well as its certification for export performed in the Food and Drug Administration for laboratory examination and assay. </subject>
+
+ <body>
+Ministry Order No. 35-A, series of 1900, is hereby amended with the following guidelines in the supervision and issuance of results of analysis of all drugs, pharmaceutical products including antibiotics and food and food products, including certification for export (Commodity of Clearance.
+	The results of analysis of the aforementioned products shall be in accordance with the following formats:
+
+a. For drug Products:
+	Generic Name:
+	Brand Name
+	Manufacturers
+	Expiry Date
+	Requesting Party
+	Report of Results
+	Recommendations/Remarks
+	Signature of Analysts:
+
+Recommended by: Chief Laboratory Division
+	Approved by Acting Administrator
+ 
+
+b. For food Products
+	Samples
+	Manufacturers
+	Submitted by
+	Report of Results
+	Analysis
+	Recommended by: Chief Laboratory Division
+	Approved by: Acting Administrator
+
+c. For certification For Reports
+	This Order supersedes all other orders inconsistent herewith shall take effect immediately 
+
+
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>
+

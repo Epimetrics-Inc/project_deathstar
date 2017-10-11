@@ -1,0 +1,23 @@
+﻿
+Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+ 
+
+<date>July 1,1982</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 33-A, s.1982</docnum>
+
+<subject>SUBJECT: Reviion of Administrative Order No. 121 s. 1981 on Re-demarcation of malaria areas</subject>
+
+<body>Administrative Order No. 121,a. 1981 is hereby revised to re-demarcate malaria areas to fully coincide with regional health boundaries.
+	Exceptions indicated in the previous administrative order are hereby rescinded to attain complete coverage and effective integration of health care delivery and development systems.
+	The demarcated areas are as follows:
+	<image>table_1.png</image>
+	The director of the Malaria Eradication Service is hereby authorized to effect the re-demarcation of malaria regions accordingly.
+	Previous orders not consistent herewith are hereby amended.
+</body>
+<sign>J.C. Azurin</sign>
+<signtitle>Minister of Health</signtitle>

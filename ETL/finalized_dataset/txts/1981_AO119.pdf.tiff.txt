@@ -1,0 +1,35 @@
+﻿Republic of the Philippines
+Ministry of Health
+OFFICE OF THE MINISTER
+Manila
+
+<date>01/12/1981</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 119 s. 1981</docnum>
+
+<subject>SUBJECT: Amending certain provision of Administrative Order No. 91, s. 1980, relative to the signing and countersigning of TCAA Checks by Ministry Officials.</subject>
+
+<body>
+Pursuant to paragraph 2.2 of Treasury Memorandum Circular No. 3-80, dated April 28, 1980, re-Limitation on the Authority of Agency Countersigning Officers to Countersign TCAA Checks, Section II - 2 of Administrative Order No. 91, s. 1980 is hereby amended to include an alternate countersigning officer in the Regional Offices to avoid disruption of operation in case of absences by designated officials.
+
+II. Countersigning of TCAA Checks:
+
+Officials authorized to countersign checks:
+
+1. x x x
+2. To Regional Officials (Sec. 1-D, Administrative Order No. 296, s. 1976, as amended.)
+
+a. x x x
+b. x x x
+c. Chief, Technical Division
+- In the absence of both the Regional Health Director and Finance Officer -
+-- up to ₱20,000.00 as limited by the provisions of COA Circular No. 76-26.
+-- No limit for payments covering partial payments of claims for developmental projects, such as constructions and improvements of government buildings, etc. other than the first and last payments thereof, provided, that in no case shall the amount of the claims for the last payments be less than 20% of the original/adjusted contract cost. (COA Circular No. 80-26) (F)).
+-- No limit for all payments to government agencies, government-owned and/or controlled corporations and local government units for supplies, materials, equipment and services delivered or rendered. (COA Circular No. 80-26 (F)).
+
+This Order shall take effect immediately.
+</body>
+
+<sign>ENRIQUE M. GARCIA</sign>
+<signtitle>Minister of Health</signtitle>

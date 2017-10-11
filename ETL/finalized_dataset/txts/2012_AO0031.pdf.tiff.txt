@@ -1,0 +1,164 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>12/27/2012</date>
+<docnum>No. 2012 - 0031</docnum>
+<subject> 
+SUBJECT: GUIDELINES ON THE REPORTING AND USE OF ANNUAL BLOOD EXAMINATION RATES (ABER) FOR MALARIA </subject>
+<body>
+I. RATIONALE 
+
+The trend in the malaria morbidity reduction is on a more deﬁnite trail and while the level of reduction closely approximates and surpasses the initial reduction goal of 70%, more questions are raised on whether the true malaria picture is being presented. For this purpose, we turn to the number or rates of malaria blood examinations conducted per area per year to show that the reduction of malaria transmission is not actually resulting from insufﬁcient/reduced case ﬁndings. 
+
+To date, the only indicator used for malaria morbidity reduction is the annual parasite incidence (API) and the slide positivity rate (SPR) but as previously mentioned, since this is totally dependent on the total number of malaria blood examinations conducted, therefore, a system has to be developed where the annual blood examination rate (ABER) is brought back into focus and analyzed for this speciﬁc purpose. 
+
+It was ﬁrst used in 1952, the ABER as it is more commonly called was used to measure the adequacy of case-finding. It is however more relevant now more than ever, to review it and ﬁnd ways of rev-tooling it and using it to meet current importance to the malaria program. It may not only be an indicator of a microscopists’ work—load, but may give a clear indicator of the access to malaria diagnostic services and active case surveillance by health workers. 
+
+II. OBJECTIVES: 
+
+This Order shall set the guidelines for reporting and using Annual Blood Examination Rate as a monitoring measure for outcomes and processes in order to track program performance. 
+
+III. SCOPE AND COVERAGE: 
+
+These guidelines shall apply to health workers in the national, regional, municipal and barangay levels, government and private health facilities whose ﬁmctions and activities contribute in the conduct of blood smear collection and examination for detecting malaria incidence. 
+
+IV. DEFINITION OF TERMS: 
+
+1. Annual Blood Examination Rate (ABER) is the total number of blood examinations done per area per year from all sources such as passive case detection, active case detection, RDT and case-ﬁnding during outbreaks over the endemic population except from mass blood survey. 
+
+2. Annual Parasite Incidence, (API) refers to the total number malaria cases in a year over the endemic population multiplied by 1000 
+
+3. Slide Positivity Rate, (SPR) refers to the proportion of slides found positive among the slides examined 
+
+4. Malaria Morbidity Rate, refers to the total number of malaria cases per 100,000 population. 
+
+5. Stable transmission areas are areas with continuous presence of at least one indigenous malaria case in a month for six months or more at any time during the past three years. 
+
+6. Unstable transmission areas are areas with continuous presence of at least one indigenous malaria case in a month for less than 6 months at any time during the past three years 
+
+7. Sporadic transmission areas are areas with at least one indigenous malaria case at any time in the past ﬁve years. 
+
+8. Malaria—prone areas are areas without indigenous malaria case for the past 5 years even in the presence of vector. 
+
+9. Malaria-free is applied to provinces classiﬁed which had no indigenous malaria case in the past ﬁve years; it is not applied to barangays considering the maximum ﬂight range of the vector may go beyond the geographical boundaries of a barangay. 
+
+10. Passive case detection refers to an approach in malaria surveillance where community members with fever seek or consult with health care providers in health facilities. 
+
+11. Active case detection refers to an approach in malaria surveillance where a health staff/volunteer worker aggressively look for more spots to do blood examinations and for fever cases by a regular house to house visit 
+
+
+V. IMPLEMENTING GUIDELINES ON THE USE OF ANNUAL BLOOD EXAMINATION RATE 
+
+A. General Guidelines: 
+
+a. ABER is a particular unit of measure which may not only give an indicator of a microscopists, it may also give a clear indicator of the access of the population-at—risk to malaria diagnostic services. 
+
+b. ABER shall be comparable on a year to year basis. To assure comparability, it shall include all blood collections and examinations obtained by passive case detection in all diagnostic facilities in all stratiﬁed areas from stable , unstable, sporadic and malaria prone transmission areas. It shall also include blood collections and examinations from active case-ﬁnding in stable and unstable transmission areas and ﬁom the screen and test operations during outbreaks. Blood collections and examinations from mass blood surveys shall not be included. 
+
+c. ABER shall also include all malaria blood examinations obtained by active case-ﬁnding in stable areas; in active case-ﬁndings during outbreaks as part of “screen. and treat” operations 
+
+d. ABER shall exclude blood smears collected and examined as part of mass blood surveys. 
+
+e. ABER shall include smears collected ﬁorn imported case but shall be reported in the area where it is detected. 
+
+f ABER shall not include blood smears collected ﬁ'om blood donors who are non—febrile. 
+
+g. ABER shall include blood examinations taken from febrile cases only. 
+
+B. Speciﬁc Guidelines: 
+
+
+a. Annual blood examination rate shall be computed by taking the total number of blood examinations taken per area per year. It shall include all malaria blood examinations done through Rapid Diagnostic Test and malaria microscopy. It is computed as: 
+
+TOTAL NUIWBER OF MALARIA BLOOD EXAMINATIONS DONE x 100 TOTAL ENDEDIC POPULATION 
+
+b. This could ﬁarther be disaggregated as ABER-RDT and ABER—microscopy in as much as in RDT sites blood smears are collected from fever cases and ABER-microscopy comes from active case—ﬁnding. However, for the ABER to be comparable on a year to year basis, several working assumptions have to be set in place to assure comparability. 
+
+c. ABER shall be reported per area per year but more importantly in stable and unstable areas. It shall be reviewed twice yearly in July and in January. 
+
+d. At least 8% of the endemic population in stable and unstable areas; an 8% target was used in the past when the malaria program have stratiﬁed its areas into malarious A, B, and C ; and 2-3% in sporadic areas shall be targeted for ABER. The reduction of Annual Parasite Incidence is more justiﬁable in a particular geographical area with an acceptable or higher ABER than a reduced API with an ABER below the acceptable percentage of the endemic population or a reduced API is more convincing when you have adequate blood smear collected and examined. 
+
+e. ABER shall be done in stable and unstable areas where there are endemic populations , to measure the adequacy of case—ﬁnding; in sporadic areas to determine if case ﬁnding is adequate, and ascertain whether reduction is due to lowering transmission or inadequate case-ﬁnding; in malaria-free areas as part of monitoring activities to sustain the malaria-free status. 
+
+f. ABER includes only all blood smears collected from fever cases and examined for malaria parasite in the above-mentioned transmission areas in contrast to Mass Blood Survey which includes blood smears collected from at least 90% of the population, fever or non—fever. 
+
+g. Blood smear collections shall be done in stable, unstable areas, sporadic and malaria— prone areas from febrile patients at monthly intervals. It shall be done by Field Assistant Worker or volunteer health workers in RDT sites. 
+
+h. Examination of collected blood smears shall be done by the medical technologist at the RHU and accomplish the appropriate reporting form. Report shall be submitted to the Municipal Health Officer. 
+
+i. Results of blood smear examination shall be furnished to the Field Assistant Worker concerned in the collection of the blood smears to be able to get back to positive cases for appropriate administration of anti-malaria drugs and do follow-up smears on day 3, 7, 14,21 and 28. 
+
+j. Monthly report of blood smear collection and examination shall be submitted from the RHU to the Provincial Health Ofﬁce to the Center for Health Development. 
+
+ 
+
+VII. ROLES AND RESPONSIBILITIES: 
+
+
+
+1. DOH—NCDPC-IDO 
+
+a. To augment logistic requirements in the conduct blood smear collection and examination ' 
+
+b. (glass slides, giemsa stain, blood lancet, and anti-malaria drugs). 
+
+c. To provide guidelines on the use of annual blood examination rate. 
+
+2. To conduct orientation of concerned CHD regional malaria coordinators on the use of annual blood examination rate. 
+
+Center for Health Development (CHD) 
+
+a. Orient the PHOs and MHOs on the use of ABER. 
+
+b. Assist the PHOs/MHOs in the preparation of plan of activities. 
+
+c. To allocate/lobby for resources in the conduct of blood smear collection and examination. 
+
+d. To identify areas where blood smear collection shall be done. 
+
+e. To advocate among LGUs to allocate ﬁmds for hiring health workers to do blood smear collection. 
+
+3. Provincial Health Ofﬁces (PHOs) 
+
+a. Provide assistance to municipalities in the blood smear collection and examination.
+
+b. Advocate among LGUs the need for attaining the target for blood smear collection and examination.
+
+4. Municipal Health Ofﬁcers (MIIOs) 
+
+
+a. Implement blood smear collection in stable, unstable, sporadic and malaria-prone areas. 
+
+b. Ensure to attain target blood smear collection and examination. 
+
+c. Provide treatment to positive cases. Implement follow-up of positive cases on day 3, 7, 14, 21 and 28. 
+
+Barangay Health Workers 
+
+a. Assist in information and education campaign regarding relevance of collection of blood smears from fever cases. 
+
+b. Assist the Field Assistant Worker in the follow-up smears 0 positive cases on day 3, 7, 13, 21 and 28. 
+
+
+6. Field Assistant Worker/Volunteer Worker: 
+
+
+a. Ensure to attain blood smear collection target per stratiﬁed area. 
+
+b. Incorporate education and education campaign on relevance of blood smear collection and on prevention and control of malaria. 
+
+
+VIII. Repealing Clause: 
+
+Provisions from previous and related issuances inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modiﬁed and rescinded accordingly. All other provisions of existing issuances which are not affected by this Administrative Order shall remain valid and in effect. 
+
+IX. Effectivity: 
+
+This Order shall take effect immediately. 
+
+</body>
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+ 
+

@@ -1,0 +1,603 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+<date>Oct 10, 2011</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2011 - 0016 </docnum>
+
+
+<subject>SUBJECT: Guidelines on the National Preparedness and Response to Wild Poliovirus </subject>
+
+
+<body>
+I. BACKGROUND AND RATIONALE 
+
+The Philippines has been certiﬁed polio-free in 2000, together with all other countries in the WHO Western Paciﬁc Region (WPR). The last wild poliovirus (WPV) was detected in Cebu in 1993. Although certiﬁed as polio-free, the country remains at risk for WPV importation from endemic countries and areas with WPV transmission. Particularly vulnerable are communities with high population in-migration and out—migration and international travel entry points (e.g. Mindanao, Manila, Cebu, Palawan, etc.). 
+
+In some cases, a WPV importation into polio-free countries does not result in secondary spread or re—established local transmission because of high coverage with three doses of oral poliovirus vaccine (OPV3) and herd immunity and adequate sanitation standards (i.e. potable water sources, sanitary toilet facilities and proper garbage disposal). However, if a WPV importation occurs into polio-free areas with pockets of low OPV immunization coverage and/or sub-optimal Acute Flaccid Paralysis (AFP) surveillance, transmission can spread quickly resulting to large outbreaks. This happened in 2005 in Yemen and Indonesia and most recently Tajikistan and Democratic Republic of Congo in 2010. Since 2003, outbreaks following WPV importations took place in over 20 countries that were previously polio-free. 
+
+Conditions favoring the spread of imported WPVs like low OPV3 coverage and substandard AFP surveillance, pose also a risk for the emergence of circulating vaccine derived poliovirus (cVDPV). It already happened in the Philippines in 2001, when three cVDPV cases were detected in Cagayan de Oro, Laguna and Cavite. 
+
+The Philippines has gone a long way in maintaining its polio-free status. In 2006, the country has accomplished the recommended laboratory containment of WPV by completely destroying all WPV isolates and stocks in the different laboratories nationwide. Thus, it is no longer possible to reintroduce WPV into the community from laboratories. The Philippines is also implementing strategies to achieve and maintain at least 95% OPV3 coverage and quality AFP surveillance in all areas. All efforts shall continue until all countries in the world are certiﬁed polio-free and Global Poliovirus Eradication is achieved. 
+
+This WPV importation preparedness and response plan of action shall be used to secure political commitment, to plan for making emergency funds available to support response activities, to ofﬁcially create the necessary committee for an effective and efﬁcient response, to provide opportunity for capacity building and strengthening of routine vaccine preventable disease (VPD) surveillance, EPI and laboratory capacity and to improve reporting, response and feedback mechanisms at all levels. 
+
+II. OBJECTIVES 
+
+1. To set the guidelines pertaining to preparedness and response mechanisms in case a WPV importation is conﬁrmed, which shall cover: 
+
+- Improving and enhancing AFP/polio surveillance; 
+- Implementing an outbreak response immunization including polio supplemental immunization activities (SIA); 
+- Strengthening laboratory capacity; 
+- Intensifying advocacy and risk communication; and 
+- Enforcing local and international linkages for an effective response and control measures 
+
+2. To provide the policies and guidelines for the effective and efﬁcient implementation, monitoring and evaluation of the response activities aimed at preventing WPV secondary or re—established transmission. 
+
+III. SCOPE AND COVERAGE 
+
+This issuance shall apply to the entire health sector, to include public and private, national agencies and local government units, external development agencies, and the community involved in disease surveillance and response activities. 
+
+This issuance shall apply to both conﬁrmed case(s) of WPV importation and cVDPVs. 
+
+IV. DEFINITION OF TERMS/ACRONYMS 
+
+1. Acute Flaccid Paralysis Refers to a syndrome in which there is a sudden onset of (AFP) ﬂoppy paralysis or lameness usually of the arms and legs. Other accompanying symptoms include fever, extreme tiredness, headache, nausea, vomiting, muscle pain and stiffness in the neck and back. 
+
+2. AFP Case Refers to any child less than 15 years of age with acute onset of ﬂoppy paralysis, or a person of any age in whom poliomyelitis is suspected by a physician 
+
+3. Close contacts Refer to household contacts or contacts whom the suspected case spends regular time with (Le, in settings like playgrounds, schools, etc.) 
+
+4. Cluster of AFP cases Refers to the occurrence of two or more AFP cases in one province or city with the date of paralysis onset of within 1 month of each other. 
+
+5. Circulating Vaccine- derived Poliovirus (cVDPV) Refers to a subclassiﬁcation of VDPV found in areas with gaps in OPV coverage; considered in the context of person-to- person transmission when non—identical but related VDPVs are identiﬁed in at least 2 AFP cases 
+
+6. Disease Surveillance Coordinator (DSC) Refers to the staff of government and non-government health facilities (e.g. hospitals, clinics, RHUs) who have received training on PIDSR with an ofﬁcial designation as disease surveillance coordinator by the head of the facility. The DSC is responsible for the reporting of and collection of specimen from identiﬁed notiﬁable case/s. 
+
+7. Disease Surveillance Ofﬁcer (DSO) Refers to the fulltime staff of the Epidemiology and Surveillance Unit (ESU) of the City Health Ofﬁces (CHOs) of chartered cities, Provincial Health Ofﬁces (PHOs) and Centers for Health Development (CHDs) who received training on basic epidemiology, public health surveillance and PIDSR with an ofﬁcial designation as disease surveillance ofﬁcer by the head of the ofﬁce. The D80 is responsible for the investigation and the timeliness of specimen collection from reported/ identiﬁed notiﬁable case/s. 
+
+8. Expanded Program on Immunization (EPI) Refers to the routine immunization program implemented in the Philippines offered at health centers and other health facilities, which has an outreach immunization component. 
+
+9. Epidemiology Refers to the study of the distribution and determinants of health-related states or events in speciﬁed populations, and the application of this study to the control of health problems. 
+
+10. Epidemiology and Surveillance Unit (ESU) Refers to the unit established in the Centers for Health Development (CHDs), Provincial Health Ofﬁces (PHOs), City Health Ofﬁces (CHOS), and Rural Health Units (RHUs) that provide services on public health surveillance and epidemiology 
+
+11. Global Reference Laboratory (GRL) Refers either to the National Institute of Infectious Diseases (NIID) Reference Laboratory in Japan or the Center for Disease Control (CDC) in the US which receives samples testing inconclusively by Intratypic Differentiation (ITD) as referred by the Regional Reference Laboratory for further characterization and ﬁnal classiﬁcation of polioviruses 
+
+12. Local Chief Executive (LCE) Refers to the principal executive ofﬁcial of Local Government Units 
+
+13. Hot Case Refers to an AFP case that is less than 5 years old, with less than 3 doses of OPV and has fever at the onset of asymmetrical paralysis; 0R an AFP case or a person of any age whose stool specimen/s has poliovirus isolate 
+
+14. International Air Transport Association (IATA) Refers to an organization that represents, leads and serves the airline industry and which members comprised of the world's leading passenger and cargo airlines  
+
+15. International Health Regulations (IHR) Refers to the international legal agreement that took effect since 2005 and is binding on 194 countries across the globe, including all the Member States of WHO with the aim of helping the international community prevent and respond to acute public health risks that have the potential to cross borders and threaten people worldwide 
+
+16. Intratypic differentiation (ITD) Refers to the tests used to analyze polioviruses and identify its speciﬁc genotype 
+
+17. Monovalent Oral polio Vaccine (mOPV) Refers to an attenuated vaccine administered orally that protects against the single serotype present in the formulatio
+
+18. National Certiﬁcation Committee (NCC) Refers to the national review panel for maintenance of polio- free certiﬁcation 
+
+19. Non-polio Enterovirus (NPEV) Refers to enterovirus (i.e. echovirus, coxsackie virus) other than poliovirus isolated from specimens 
+
+20. National Poliovirus Reference Laboratory (NPRL) Refers to the Research Institute for Tropical Medicine (RITM) which is the WHO-accredited poliovirus reference laboratory for the Philippines 
+
+21. National Response Committee (NRC) Refers to the committee formed at the national level that shall be responsible in the coordination, and supervision, monitoring and evaluation of the implementation of the response to conﬁrm importation of wild poliovirus or cVDPV 
+
+22. Oral poliovirus vaccine (OPV) Refers to an attenuated vaccine administered orally that protects against either one (mOPV), two (bOPV) or three (tOPV) serotypes of poliovirus present in the formulation 
+
+23. Philippine Integrated Disease Surveillance and Response (PIDSR) Refers to the system whose framework embodies an integrated functional disease surveillance and response system institutionalized from the national level down to the community level 
+
+24. Rapid Coverage Assessment (RCA) Refers to a strategy of randomly selecting a speciﬁed number of households to validate and ensure high immunization coverage. In this method, vaccinators ensure that previously missed children are revisited and vaccinated.
+
+25. Regional Commission for the Certiﬁcation (RCC) of Poliomyelitis Eradication Refers to the commission in the Western Paciﬁc Region that conducts active oversight to support maintenance of poliomyelitis-free status and conduct of annual meetings to review the situation and requirements in each Member State
+
+26. Regional Reference Laboratory (RRL) Refers to the Victorian Infectious Disease Reference Laboratory (VIDRL) in Australia, to which the RITM sends polioviruses isolated from AF stool specimens for confirmation of virus isolation and intratypic differentiation. 
+
+27. Round 0 Refers to the Outbreak Response Immunization (ORI) that is conducted in area(s) with known positive wild poliovirus case 
+
+28. Supplemental Immunization Activity (SIA) Refers to an immunization activity conducted in a larger-scale with an aim to interrupt transmission of a vaccine—preventable disease; In the context of a polio outbreak, it consists of at least three-rounds immunization activity using either mOPV, bOPV or tOPV that should be started not later than 4 weeks after the conﬁrmation of a case of wild-poliovirus or VDPV 
+
+29. Trivalent Oral polio Vaccine (tOPV) Refers to an attenuated vaccine administered orally as drops that works against all three polio strains 
+
+30. Vaccine-derived Poliovirus (VDPV) Refers to live, attenuated strains of the vaccine poliovirus that have undergone mutation and recombination and differ from (original) Sabin strains by 1 to 15% of VP1 nucleotides, the extent of genetic change of which is indicative of prolonged replication 
+
+31. World Health Assembly (WHA) Refers to the supreme decision-making body for WHO. It generally meets in Geneva in May each year, and is attended by delegations from all 194 Member States 
+
+32. Wild Poliovirus (WPV) Refers to the wild poliovirus that is targeted for global eradication Consisting of three types: poliovirus type 1, type 2 and type 3 
+
+33. Zero Reporting Refers to the regular, scheduled reporting of “zero case” when no cases have been detected by the reporting unit
+
+
+V. IMPLEMENTATION GUIDELINES 
+
+A. Preparedness 
+
+The preparedness plan for wild polio virus importation shall have the following: surveillance and risk assessment, laboratory surveillance activities, immunization program activities as well as establishment of the national and sub-national response committee. 
+
+B. Response to Wild Poliovirus Importation 
+
+The response plan to wild polio virus importation shall include the following activities: strengthening surveillance and risk assessment activities, assessing the risk of transmission, enhancing laboratory surveillance activities for poliovirus and activities to enhance immunization program. 
+
+C. Post-Outbreak Assessment and Response 
+
+Post-outbreak assessment and response should contain activities pertaining to post outbreak response immunization, complete documentation of the outbreak response, dissemination and feedback and destruction of WPV from the laboratory. 
+
+NOTE: See ANNEX 1 for the details of the Implementation Guidelines Sections A-C. 
+
+D. Circulating Vaccine Derived Poliovirus (CVDPV) Isolation 
+
+A conﬁrmed case of cVDPV shall be considered and treated the same way as WPV depending on the result of the risk assessment for Polio of all provinces and cities. 
+
+E. Budgetary Requirements 
+
+All activities related to the outbreak response shall be charged against the funds of the Ofﬁce of the Secretary of Health. 
+
+VI. REPEALING CLAUSE 
+
+The provisions of previous Orders and other related issuances inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modiﬁed, repealed or rescinded accordingly. All other provisions of existing issuances which are not affected by this Order shall remain valid and in effect. 
+
+VII. EFFECTIVITY 
+
+This order shall take effect immediately. 
+</body>
+
+<sign>ENRIQUE T. ONA, MD, FPCS, FAC</sign>
+<signtitle>Secretary of Health</signtitle>
+
+ 
+
+ANNEX 1: IMPLEMENTATION GUIDELINES 
+
+A. PREPAREDNESS 
+
+Any of the polio-free countries is at risk of WPV importation until the goal of GPEI is achieved, but its spread within the country can be prevented and controlled. 
+
+1. SURVEILLANCE AND RISK ASSESSMENT 
+
+a. Identiﬁcation of possible scenarios of WPV detection 
+
+It is important to understand that isolation of a single WPV may in fact represent at least 200 more non-apparent infections in the larger community. The three main scenarios in which the detection of poliovirus could occur are (m ascending order of extent of poliovirus circulation they may represent): 
+
+a.1. WPV is isolated from the stool specimen(s) of a single AFP case with a history of recent travel to a polio-endemic area. This may represent a single infection obtained outside the country. ‘ 
+
+a.2. WPV is isolated from stool specimen(s) of a person” with or without acute paralysis without history of recent travel to a polio-endemic area. This may represent widespread infection. Isolation maybe from an asymptomatic contact of a polio-positive case or a non-paralytic immunocompromised patient. 
+
+a.3. Secondary poliomyelitis cases associated with an imported case. In this situation, the WPV has already started to spread widely in the community. 
+
+WPV can also be isolated from sewage or any other environmental sample that has no link to an individual person. In a large province or city, this may represent many infections. However, environmental sampling for enterovnus testing in the laboratory is not routinely done in the Philippines. 
+
+b. Identiﬁcation of possible sources of importation 
+
+b.1. Identiﬁcation of possible sources: It is important to be vigilant in terms of AFP surveillance and be alert on the global situation regarding polio eradication, especially on wild poliovirus transmission occurring in a neighboring country and its spread within the country. 
+
+b.2. Identification of high-risk areas and populations: Enlist areas and population at hi gh-risk of importation or its spread. The list includes: 
+
+b.2.1. Areas bordering countries with ongoing WPV transmission 
+
+b.2.2. Areas with low population immunity due to low OPV3 routine or SIA coverage. 
+
+b.2.3. Areas with large susceptible populations (e.g. areas with slums or informal settling, areas along the main highways, areas with airports and seaports, areas with high migration) 
+
+c. Intensification of AFP surveillance activities and maintaining polio-free certification performance indicators 
+
+Quality AFP surveillance nationwide shall be maintained at all times to immediately determine any case of WPV importation. The ESU staff shall engage in extra activities to deal with the threat of importation. All ESUs shall ofﬁcially designate DSOs that shall serve as the focal point for all surveillance activities. He/she shall be responsible for reporting, investigation, specimen collection, data management and analysis, and coordination with the immunization program manager. In case of his/her absence, an ofﬁcial alternative arrangement shall be made. 
+
+c.1. Intensiﬁed supervision with close monitoring from the DOH—Central Ofﬁce (CO) and CHDs is a key activity of the preparedness plan. The plan and schedule of monitoring and supervisory visits of DOH-CO and CHDs shall be done at least once a year in the priority provinces and cities per region. Priority areas are determined based on the result of the annual risk assessment using immunization and surveillance indicators. After each visit, all ﬁndings shall be documented with regular and timely feedback to all concerned. Documentation shall be kept at the NEC. 
+
+c.2. Training and orientation of staff: All DSCs and DSOs shall receive an exclusive training on PIDSR. A special training shall be organized for all the staff that shall be assigned at the different ports of entry (e.g. seaports and airports). 
+
+c.3. Monitoring performance indicators: Non-polio AFP rate, percentage of cases with adequate stools, vaccination status of AFP cases, percentage of AFP cases with timely follow-up, NPEV rate, completeness and timeliness of reporting and zero reporting shall be monitored weekly by the concerned ESUs. 
+
+c.4. Active surveillance shall be done by all DSC to ensure that all AFP cases are reported and completely investigated. DSOs shall either conduct the active surveillance visits or conduct regular records review to validate accuracy of DSCs’ reports. 
+
+c.5. AFP “HOT CASE” Detection: Special attention shall be given to “hot cases” and cluster of AFP cases. All information pertaining to hot cases shall be communicated immediately within 24 hours to all concerned parties and the mechanism for hot case investigation shall be initiated within 72 hours. Upon identiﬁcation of an AFP “hot case”, the following should be done: 
+
+c.5.1. Conduct a follow up investigation of the case to determine the following: 
+
+- Final diagnosis of the child 
+- Presence of residual paralysis after 60 days 
+- Presence of similar cases in the barangay and municipality where the child resides 
+- OPV immunization status of the child. If found to be immunized, information about the date of the last dose of OPV. - History of travel of the case and other travel details 6/ / 
+
+c.5.2. Visit the RHU where the hot case resides and the other surrounding RHUs and areas with high inﬂux of susceptible populations (e.g. areas that is in close border with other countries like Malaysia and Indonesia); areas with dense population; areas along the main highways; areas with airports and seaports, slums; and, get the following information: 
+
+- OPV3 coverage of the concerned RHUS and surrounding RHUs 
+- Presence of other AFP cases in the catchment area in the past 6 months 
+- Validate vaccine coverage (OPV3) by review of target client list (TCL) 
+
+c.5.3. Submit copy of patient’s medical record and conduct records review covering the period of 2 months prior to onset of paralysis in the hospital/health facility where the child was seen. 
+
+c.5.4. Inform RHUs and hospital to continuously monitor for other AFP cases. If a case is detected, report and investigate case immediately. 
+
+2. LABORATORY SURVEILLANCE 
+<image>figure_1.png</image>
+
+Laboratory testing by the National Polio Reference Laboratory (NPRL) at the Department of Virology of RITM, plays a crucial role in the timely classiﬁcation of AFP cases, including virus isolation and referral of poliovirus isolates to the Regional Reference Laboratory (RRL) for intratypic differentiation (ITD) testing. The ITD testing currently employed by the RRL consists of both ELISA and Probe/Polymerase Chain Reaction (PCR) tests to differentiate if the poliovirus is either WPV, VDPV or a vaccine strain. If the NPRL initially reports to DOH/WHO, a poliovirus isolate from stool specimens of a "hot AFP" case, referral to the RRL for ITD shall be undertaken within 5 days. In cases where ITD results are contradictory, samples shall be referred immediately to the Global Reference Laboratory (GRL) (See Algorithm for Laboratory Reportng of AFP Cases with Poliovirus Isolate). 
+
+a. Yearly Accreditation: The NPRL shall continue to participate in the annual accreditation review by WHO in order to provide documentation that the laboratory has the capability to detect, isolate, identify and promptly report wild polioviruses that may be present in clinical samples. 
+
+b. Timeliness of reporting: Continuous efforts shall be made to ensure timely reporting of results to the WHO and the NEC. 
+
+3. IMMUNIZATION PROGRAM 
+
+a. High population immunity shall be ensured by achieving at least 95% OPV3 coverage in all barangays. All unimmunized and incompletely vaccinated children shall be tracked to ensure that they receive three (3) doses of OPV. All EPI Coordinators in each administrative level shall implement the following: 
+
+a. 1. Assess all health facilities using the standard child monitoring checklist; 
+
+a.2. Analyze the data on a monthly/quarterly basis to identify access or utilization problems; 
+
+a.3. Agree on key steps to reach all eligible populations; and  
+a.4. Perform follow-up visits at least three (3) times to ensure that all the actions identiﬁed are implemented. 
+
+b. An inventory of the health personnel/volunteers capable of providing OPV to eligible populations, vaccines and other supplies shall be made. 
+
+4. ESTABLISHMENT OF THE NATIONAL AND SUB-NATIONAL RESPONSE COMMITTEE 
+
+To ensure effective and efﬁcient response to a conﬁrmed case of WPV, the following committee shall be formed: 
+
+a. National Response Committee (NRC): The NRC shall be the oversight bOdy for response activities concerning WPV importation in the Philippines. The composition and functions of this body are stated below. 
+
+a. 1. Composition: 
+
+- Head of the Support to Service Delivery Technical Cluster (Overall chairperson) , 
+- Director, National Center for Disease Prevention and Control (NCDPC) (Vice chairperson) 
+- Head of the Sector Finance and Policy Technical Cluster 
+- Head of the Internal Finance and Administration Technical Cluster 
+- Head of the Special Concerns Technical Cluster 
+- Area Cluster Undersecretary for NCR and Southern Luzon 
+- Area Cluster Undersecretary for Visayas " 
+- Area Cluster Assistant Secretary for Northern and Central Luzon 
+- Area Cluster Assistant Secretary for Mindanao 
+- Director General of the Philippine Institute of Traditional and Alternative Health Care 
+- Director, National Epidemiology Center (N EC) 
+- Director, Research Institute for Tropical Medicine (RITM) 
+- Director, National Center for Health Promotion (N CHP)
+- Director, Health Emergency Management Service (HEMS)
+- Director, Bureau of International Health Cooperation (BIHC)
+- Director, Bureau of Quarantine (BOQ)
+- Director, Procurement Service (PS)
+- Director, Administrative Service (Materials and Management Division) Director, Food and Drug Administration (FDA)
+- WHO Representative
+- UNICEF Representative
+- Other government and non-government agencies, professional societies and other partners may be invited 
+
+a.2. Responsibilities 
+
+- The NRC shall have the following responsibilities:
+- Oversee the implementation of response activities;
+- Develop and facilitate approval of a detailed action plan;
+- Review and analyze epidemiological data coming through enhanced surveillance; .
+- Identify and provide additional resources for the appropriate response;
+- Communicate with the general public and the media;
+- Evaluate the impact of the response; -
+- Produce and disseminate a timely and detailed report of the response activities;
+- Provide feedback to the National Certiﬁcation Committee (N CC) of Poliomyelitis Eradication and DOH Executive Committee chaired by the Secretary of Health. The Secretary of Health, as a cabinet member, shall report to the ofﬁce of the President. The NCC shall provide feedback to the RCC for GPEI. 
+
+The National Response Committee shall be supported by a secretariat from NCDPC 
+
+Even in the absence of any WPV, the team shall meet annually to evaluate if current preparedness plans continue to be appropriate or require updating. 
+
+The above committee shall be duplicated at the sub-national level. 
+
+b. Regional Response Committee (RRC): The RRC shall be the regional counterpart of the NRC. The composition and functions of this body are stated below. 
+
+b.1. Composition 
+
+- Area Cluster Assistant Secretary for Northern and Central Luzon 
+- Area Cluster Undersecretary for NCR and Southern Luzon
+- Area Cluster Undersecretary for Visayas
+- Area Cluster Assistant Secretary for Mindanao
+- Regional Director (Overall chairperson)
+- Assistant Regional Director (Vice chairperson)
+- Chief, Local Health Support Division
+- Head, Regional Epidemiology and Surveillance Unit
+- Head, Family Health and Nutrition Cluster
+- Regional EPI coordinator
+- Chief, Management support
+- Health Education and Promotion Ofﬁcer (HEPO)
+- Coordinator, Health Emergency Management Service (HEMS) 
+- Chief, Licensing and Regulations Enforcement Division (LRED) 
+
+The province, city, and municipality shall create their respective committees, facilitated by the RRC chairperson. 
+
+b.2. Responsibilities 
+
+- Plan and coordinate all response activities with the different Local Government Units (LGUS);
+- Disseminate related issuances to all concerned health personnel including partners;
+- Submit timely and complete reports with recommendations on enhancing surveillance and coordinating immunization response;
+- Provide additional resources for the appropriate response;
+- Document all response activities;
+- Support the National Response Committee in evaluating the impact of the response. 
+
+c. Outbreak Response Team (ORT): The ORT shall be the frontline body for response activities in the speciﬁc locality where WPV importation has been identiﬁed. The composition and functions of this body are stated below. 
+
+c.1. Composition 
+
+- Epidemiologist: National, Regional, Provincial/City
+- EPI Managers: National, Regional, Provincial/ City
+- NEC staff
+- Staff from the National Polio Reference Laboratory
+- Health Promotion Ofﬁce
+- HEMS Coordinato
+- Others as needed 
+
+c.2. Responsibilities 
+
+- Investigation of the index case;
+- Contact tracing;
+- Specimen collection;
+- Assessment of immunization coverage;
+- Retrospective records review;
+- Risk communication. 
+
+B. RESPONSE TO WILD POLIOVIRUS IMPORTATION 
+
+The detection of any WPV shall be considered a national public health emergency. In line with IHR 2005, poliomyelitis caused by WPV is one of the four (4) diseases requiring immediate notiﬁcation to the WHO by the NEC, as the IHR focal point. 
+
+Although this document is speciﬁcally intended as a plan for a conﬁrmed WPV importation, the guidelines contained herewith shall also apply to a conﬁrmed occurrence of cVDPV. The cVDPV is similarly virulent as the WPV and also has high transmissibility. Since cVDPVs also pose public concern, the situation shall be assessed through the IHR algorithm. Immediate response is likewise critical to prevent further transmission. 
+
+According to current standard deﬁnitions of the Global Polio Eradication Initiative (GPEI), in a polio~free country, one single wild poliovirus—associated case represents an outbreak that constitutes a public health emergency. 
+
+ 
+
+Based on the recommendations in the WHA Resolution No. 59.1, the following shall be the standard actions in responding to the identiﬁcation of WPV: 
+
+- Conduct an initial investigation, activate local responses and when necessary, request international expert risk assessment within'72 hours of conﬁrmation of the index case in order to establish an emergency plan of action 
+- Enhance the surveillance for polioviruses from all AFP cases and polio suspects 
+- Notify the WHO country and regional ofﬁces 
+- Conduct WPV transmission risk assessment and comprehensively analyse the immunity proﬁle of subpopulations 
+- Create a sub—national and local emergency action plan (by reviewing and updating the existing polio preparedness plan) 
+- Strengthen NPRL capacity for poliovirus isolation 
+- Report to and coordinate with the WHO Country and Regional ofﬁces 
+- Conduct effective advocacy and risk communication 
+- Implement immunization response 
+
+The actions above could be simultaneously done. To ensure that the above actions are implemented, a committee has to be created, both from the national and sub-national levels. Likewise, all decisions on response to WPV importation shall be made at the national level and coordinated at the sub-national level. 
+
+In the event of a conﬁrmed WPV importation .and in line with the adherence of the Republic of the Philippines to the IHR, the DOH Secretary shall be responsible for notifying and updating the Ofﬁce of the President about the outbreak. The President and other members of the Cabinet shall ensure mobilization, approval and release of emergency funds to support response activities and request the cooperation of all sectors of the society to ensure successful interruption of WPV transmission. 
+
+The DOH Secretary also shall call upon the following groups for support and shall ensure that response activities are carried out accordingly until the country is re- declared as polio—free: 
+
+* The President and other members of the cabinet shall source out funds and request cooperation of all sectors of the society 
+* All health, surveillance and laboratory workers shall participate full time in the activity 
+* All the military, civic, religious and peoples’ organizations shall cooperate with health workers in the endeavor 
+
+As soon as a case of WPV is conﬁrmed, the NRC shall meet immediately, and ensure that through effective leadership and representation of all sectors concerned, an appropriate and timely response shall be developed and implemented. 
+
+The NRC shall closely coordinate with the NCC On all response activities and draw expertise from the AFP Surveillance Expert Panel for speedy and comprehensive case investigation and classiﬁcation. 
+
+1. STRENGTHEN SURVEILLANCE AND RISK ASSESSMENT 
+
+a. An initial case investigation shall be conducted immediately after conﬁrmation of the WPV index case 
+
+As soon as WPV is isolated, an immediate investigation shall be done commencing within 72 hours, to identify the scope of the response based on such factors as the known extent of transmission, AFP surveillance quality, major transit routes, international borders and origin of the WPV. This involves full clinical, epidemiological and virological investigation of the case, including tracing and investigation of all close contacts with or without manifestation of paralysis. 
+
+Patients shall receive appropriate medical care. All health staff and family member/s shall be oriented on the procedures to be followed in the handling and disposal of all body ﬂuids that are potentially infectious especially stools. 
+
+Detailed investigation is critical as soon as a WPV is conﬁrmed. The investigation shall include the following and shall be in accordance with the PIDSR guidelines: 
+
+- Determining whether the case signs and symptoms are consistent with poliomyelitis. 
+- Gathering information on geographical and temporal (date of onset) clustering if there are multiple cases including age, sex and ethnicity of cases. 
+
+Door-to-door searches shall be conducted in the area of AFP case/s with , onset in the last 12 months. Such searches can be carried out simultaneously / during the 0R1. Previously unreported AFP cases shall be completely investigated ( e. g. completing a standard case investigation form and collecting 2 stool specimens per case) if the onset of paralysis occurred less than 3 months ago. These cases shall be examined by a pediatrician or neurologist and the ﬁndings shall be immediately presented to the AFP Expert Panel. 
+
+- Determining whether the index case and close contacts had history of travel or exposure to any area or country where there is known transmission of wild poliovirus. Close contacts shall be strictly monitored for 2 weeks and shall be observed for weakness or paralysis of the extremities. 
+- Collecting two stool specimens from cases and its close contacts even without signs and symptoms of paralysis at ﬁrst encounter. The stool samples shall be collected 24 hours apart and within 48 hours of detection. 
+- Validating OPV immunization history of the index case and all close contacts, including the OPV coverage of the barangay and municipality where they reside. 
+- Interviewing RHU health workers to identify other AFP cases in the barangays/municipalities adjacent to the one where the case was found. 
+
+b. Surveillance for polioviruses shall be enhanced 
+
+Upon conﬁrmation of an outbreak (i.e., a single case of poliomyelitis due to imported WPV or vaccine-derived poliovirus), surveillance for AFP and for polioviruses (including supplementary surveillance for all cases of aseptic meningitis) shall be enhanced to ensure that all AF P cases are rapidly identiﬁed, reported and investigated. 
+
+The following actions shall be done by concerned ESUs in accordance with PIDSR guidelines: 
+
+b. 1. Immediately communicate, by the fastest means available with the following: 
+
+b.1.1. All provincial/city ESUs: to, notify them that a WPV outbreak has been conﬁrmed. They shall also be urged to intensify active surveillance and exercise vigilance in identifying other cases; 
+
+b.1.2. All provinces and cities through their surveillance ofﬁcers: to request that they immediately report and investigate within 24 hours all new cases of AFP or polio suspects. The 100% timeliness and completeness of reporting shall be observed and monitored at all levels, without exception; 
+
+b.1.3. WHO and other government, non-government and international partners, such as but not limited to UNICEF, DILG and concerned Local Chief Executives (LCE): to notify them within 48 hours of all additional AFP and polio—suspect cases. 
+
+b.2. Surveillance shall be enhanced for AFP to a level greater than 2 cases per 100,000 children less than 15 years of age, for the duration of the outbreak and sustained for at least 12 months after the last WPV case has been identiﬁed. Intensiﬁed AFP surveillance shall include:
+
+b.2.1. Complete investigation of any AFP case, regardless of source; 
+
+b.2.2. Twelve-month retrospective record reviews and active searches for unreported AF P cases; 
+
+b.2.3. Conduct of a survey of hospitalized or admitted children younger than 5 years of age in tertiary hospitals; and 
+
+b.2.4. Review of the quality of surveillance in all high risk areas such as those bordering with the province/city where the conﬁrmed WPV case resides, densely populated areas, areaswith main ports, slums, migrant population and with low OPV3 coverage. 
+
+b.3. Urgent actions shall be implemented to improve AFP surveillance and coverage especially in high—risk areas (see 
+b.2.4. of this section). 
+
+b.4. Daily reports shall be sent to the provincial and city ESUS surrounding the case. Likewise, weekly reports shall be submitted by all ESUs to the NEC by fastest means. Reporting shall be monitored at the national and sub-national levels and the AFP Expert Panel shall be convened to review and classify all new AFP cases as needed. 
+
+b.5. Coordination with WHO shall be undertaken to reassess the capacity of the NPRL for processing a sudden increase in the number of stool specimens. - 
+
+b.6. Review of the situation shall be done weekly by using mapping and other means of documenting the extent and quality of AFP surveillance. This shall be done at the national and all sub-national levels in the concerned regions. 
+
+b.7. Cost estimates of all actions to enhance AFP surveillance shall be prepared and this shall be included in the overall budget. 
+
+ 
+The EPI Coordinators at all levels shall be notiﬁed by the respective ESUs within 24 hours of identifying all new AFP cases. The coordinators shall institute immediate and appropriate action in accordance with the information provided by the ESUs. 
+
+ 
+c. The WHO Country and Regional Ofﬁces shall be notified within 24 hours 
+
+The IHR 2005 requires reporting of poliomyelitis due to WPV to the IHR focal person within 24 hours of conﬁrmation. The NEC, as the IHR focal point, shall be responsible for reporting to the WHO Philippines IHR focal point, which then transmits the report to the WPRO IHR focal point. 
+
+- After the WHO accredited regional polio reference laboratory conﬁrms isolation and intratypic differentiation of WPV and releases the ofﬁcial results to the NPRL, in turn, the NPRL shall ofﬁcially inform NEC of the result within 24 hours. 
+- NEC shall ofﬁcially inform the following: Ofﬁce of the Secretary (OSEC), WHO IHR focal point, National Center for Disease Prevention and Control (N CDPC) and Regional Epidemiology and Surveillance Units (RESUs) within 24 hours. 
+- NEC shall issue an ofﬁcial communication to WHO through BIHC which include any information about the event, summary of the main investigation activities undertaken and request for any form of assistance needed. 
+
+Through DOH request, WHO shall request assistance from the WHO Director General, who shall: 
+
+- Ensure the availability of technical expertise to support the country in its planning and emergency response related to the WPV Outbreak; 
+- Assist in fund mobilization to help the country implement emergency response to an outbreak and to ensure that adequate supplies of mOPV is available for the large—scale immunization campaign; and 
+- Advise at—risk members, based on respective country-speciﬁc risk assessment, which additional measures, if any, are required nationally and internationally to reduce the further spread of WPV. 
+
+2. ASSESS RISK OF TRANSMISSION 
+
+Risk assessment is a critical activity that shall result in a national emergency action plan tailored to the speciﬁc country situation. The emergency response team conducting the risk assessment shall include the experienced national and international experts, who have broad experience related to controlling an imported WPV. This exercise shall be completed within 72 hours of conﬁrmation of the index case. Risk assessment shall focus on three (3) main areas and the use of the following available data 
+
+a. Population immunity 
+a.1. OPV3 coverage (reported, surveys, best estimates), at national and sub- national levels 
+a.2. Trends (past 3-5 years) in OPV3 coverage 
+a.3. Coverage of last SIAs conducted 
+a.4. Number of children who received OPVl but did not receive OPV3 (drop- outs) 
+a.5. Recent OPV stock—outs 
+a.6. Vaccination status of AFP cases 
+
+b. Surveillance quality 
+b.1. Timeliness of notiﬁcation and investigation 
+b.2. Non-polio AFP rate 
+b.3. Adequate stool specimen collection rate 
+b.4. Specimen shipment times 
+b.5. Follow—up of AFP cases with inadequate stool samples 
+b.6. Zero reporting 
+
+c. Threat of Importation 
+c.1. Domestic travel patterns and contacts with other communities 
+c.1. Migration routes and international travel patterns 
+
+Assessing local and international travel patterns is critical to anticipate areas where spread of WPV transmission is likely to occur. This is relevant for the country's preparedness and for other countries as part of the IHR 2005 risk assessment for international community. 
+
+ 
+3. ENHANCE LABORATORY SURVEILLANCE FOR POLIOVIRUS 
+
+The RITM, as the WHO—accredited NPRL for the Philippines, routinely processes 100-200 specimens monthly. In the presence of WPV importation, surge capacity may exceed 500 specimens a month, in which case, its human resources complement shall be augmented to enable performance of the additional tasks required. 
+
+In the presence of a surge of specimens, the NPRL shall use the following procedures to expedite the transport of specimens requiring ITD testing from the NPRL to the RRL: 
+
+- Identify and mobilize one (1) to three (3) staff within the NPRL to handle the short-term surge of specimens ' 
+- Identify long term solutions to ensure continuity of operations of the other laboratory programs during the surge 
+- Specimens exceeding the enhanced surge capacity of the NPRL shall be sent to other WHO-accredited polio reference laboratories 
+
+With regards to specimen transport, current procedures on handling, packaging and timing of shipment of infectious biological substances (i.e., poliovirus-containing specimens) shall be reviewed and revisions shall be made, as necessary to ensure that they comply with IATA regulations. A contract shall be processed with an identiﬁed shipment agency, capable of handling biological specimens to transport the same in the shortest possible time. Below is the Guidelines for Shipment of Polio Isolate to VIDRL Regional Reference Laboratory (RRL), Melbourne Australia 
+
+Preparedness Phase: 
+
+1. Shipment of polio virus isolate (from L20B and RD cell lines) and stool extract (original sample) shall be done within 7 days from the date the isolate is identiﬁed.
+
+2. The RRL shall be informed promptly of the shipment. 
+
+3. All shipments shall comply with IATA Dangerous Goods Regulations with dry ice. 
+
+4. Import permit shall be secured. This shall be provided by the RRL. 
+
+5. To facilitate door to port shipment, the service of a Broker is required by the cargo aircraft at PAIRPAGS, NAIA, Pasay City. A Broker shall be informed of the shipment and shall be responsible for arranging and pick-up of shipment from RITM to the ofﬁce of cargo aircraft. 
+
+6. For port to port shipment, Philippine Airlines or QANTAS airlines shall be the cargo aircraft. Schedule of shipment to RRL is only during Mondays, Tuesdays and Saturdays to avoid prolonged storage at the Australian airport/customs. The shipment is expected to arrive in Melbourne, Australia within 24 hours, and an ofﬁcial broker of VIDRL shall arrange the release of the shipment from customs within 24—48 hours from arrival in Melbourne. 
+
+7. For door to door shipment, the laboratory shall consider service of World Courier when shipment is urgent. Due to relative high cost for using World Courier for shipping specimens, this may be used only when the specimens were taken from an AFP case that is polio-compatible, with history of travel to an area with known WPV transmission, close contact of a conﬁrmed polio case, with an EMG result indicating poliomyelitis or when there is clustering AFP cases in area with low immunization coverage. 
+
+8. When VIDRL RRL conﬁrms the polio isolate as Sabin-like, no further testing is necessary. 
+
+9. When VIDRL RRL conﬁrms the polio isolate as either not Sabin-like, Wild, or discordant, the isolate shall be referred to Global Reference Laboratory (GRL — NIID Japan or CDC USA) for genomic sequencing to conﬁrm wild poliovirus. While waiting for the result from GRL, VIDRL shall provide the initial result in spreadsheet to the NPRL, WHO—WPRO, and NEC simultaneously through email. Likewise, an ofﬁcial copy of the result through post shall be received. 
+
+10. When the Global Reference Laboratory (GRL) conﬁrms the isolate as wild poliovirus, the ﬁnal result shall be provided to the NPRL, WHO-WPRO, and NEC simultaneously through email. Likewise, an ofﬁcial copy of the result shall be received. 
+
+Response Phase: 
+
+1. As soon as there is cytopathic effect (CPE; i.e., characteristic cellular changes seen in culture due to the presence and/or effects of virus) detected in L20B and RD cell lines, the presumptive “isolate” together with the original sample shall be shipped to the RRL as soon as possible without delay. 
+
+2. The RRL shall be informed promptly of the shipment. 
+
+3. All shipments shall comply with IATA Dangerous Goods Regulations with dry ice. 
+
+4. Import permit shall be secured. This shall be provided by the RRL. 
+
+5. Shipment shall be door to door, therefore, World Courier shall be the courier of choice. Schedule of shipment to VIDRL RRL shall be on Mondays, Tuesdays, Wednesdays and Saturdays to avoid prolonged storage at the Australian airport/customs. The shipment is expected to arrive in Melbourne, Australia within 24 hours and World courier shall deliver to VIDRL RRL within the day of arrival at Melbourne. 
+
+6. When VIDRL RRL conﬁrms the polio isolate as Sabin-like, no further testing is necessary. 
+
+7. When VIDRL RRL conﬁrms the polio isolate as either not Sabin-like, Wild, or discordant, the isolate shall be referred to Global Reference Laboratory (GRL - NIID Japan or CDC USA) for genomic sequencing to conﬁrm wild poliovirus. While waiting for the result from GRL, the RRL shall provide the initial result in spreadsheet to the NPRL, WHO-WPRO, and NEC simultaneously through email. Likewise, an ofﬁcial copy of the result through post shall be received. 
+
+8. When the Global Reference Laboratory (GRL) conﬁrms the isolate as wild poliovirus, the ﬁnal result shall be provided to the NPRL, WHO-WPRO, and NEC simultaneously through email. Likewise, an ofﬁcial copy of the result shall be received. 
+
+4. ENHANCE IMMUNIZATION PROGRAM 
+
+The DOH Expanded Program for Immunization shall spearhead and orchestrate the activities below in order to enhance the immunization program. 
+
+a. Conduct Risk Communication 
+
+Maintaining the conﬁdence of the political authorities, the public health community, health care professionals and the general public is essential for successfully controlling a WPV outbreak. When an imported .WPV is identiﬁed, therefore, immediate steps shall be taken to inform each of these constituencies through appropriate channels. Although there may be a desire to have the emergency response plan fully developed before the identiﬁcation of the WPV is made public, creating the plan will take a minimum of ﬁve (5) days. 
+
+Delaying an announcement of an outbreak creates a risk for people to incorrectly perceive that the event is being hidden, which may lead to loss of support. Regular brieﬁngs of political leaders, public health authorities, the health care community and the public, through mass media, shall be organized. A detailed communication plan for informing the public about the appropriate response, (e.g. mass immunization campaign, enhanced surveillance) shall be developed as part of the national emergency action plan. The DOH shall order all health, surveillance and laboratory workers to participate full time in the activity. 
+
+The President of the Philippines and other members of the Cabinet shall, in collaboration with the WHO, mobilize funds required to effectively carry out the response activities. The former shall call for the cooperation of all sectors of the society. All military, civic, religious and people‘s organizations shall be requested to closely coordinate with the health workers to ensure that: 
+
+- The public is appropriately informed of the situation; and 
+- OPV immunization is effectively implemented in target areas, including military hot spots or areas that are difﬁcult to access. 
+
+b. Implement the Immunization Response 
+
+Unvaccinated or partly vaccinated children, particularly those less than 5 years old, have the highest risk of contracting poliomyelitis. Therefore, a quality immunization response is essential to complete interruption of the WPV circulation nationwide. Two (2) types of immunization responses shall be instituted, namely, the initial outbreak response immunization (ORI) and the three rounds of large-scale SIA stipulated in the WHA resolution using a type—specific mOPV. Area(s) that conduct the ORI shall still be included in the large—scale type-speciﬁc mOPV immunization. fl 
+
+b.1. OPV Outbreak Response Immunization (ORI) 
+
+The initial ORT shall be conducted in the province where the known Round 0, shall use. tOPV. Essentially, this: response shall be done within 72 hours after conﬁrmation to effectively interrupt the transmission of the WPV 
+
+Ideally: OR1 shall. be done; only after two stool samples were collected from all. close contacts of the index. case. However, when stool specimen collection is not possible or expected to be delayed. Round? '0 can be started. The infonnation on the date of stool collection and date of Round 0. shall. be eridfid to the NPRL and speciﬁed in the repert. 
+
+Through. a door—to-door strategy, vaccinators shall administer a dose of tOPV‘ to all :0 to 59 months old children, regardless of the OPV immunization status. This will be, an entra dose in addition to those given during the routine immunization schedule. A minimum of 95% cayeragej should be achieved as veriﬁed by monitors and supervisors through rapid co-Verage a‘sseSsment (RCA). 
+
+b.2. Large- Scale OPV Supplemental Immunization. Activity (SIA) 
+
+The extent of this response Shall be determined after a: risk assessment is done by the NRC. based. on AFP/Polio: surveillance data. This is either a national or subénational immmiization activity preferably conducted within ‘4' weeks after conﬁrmation of the ﬁrst WPV case. It shall be done in three (3) consecutive rounds, four (4') weeks apart and each lasting no longer than one (1) week. These. immanization rounds shall be referred to astnd 1, Round 2 and Round. 3 OPV SIA 
+
+All children ages 0-59 months, regardless of their OPV immunization status, " shall be: vaccinated with. type-Speciﬁc mOPV simultaneously following recommendation of the WHA for certiﬁed polio—free countries like the Philippines. This is a more effective vaccine to rapidly interrupt type~speciﬁc WPV during: an outbreak. However, if ' type-speciﬁc mOPV cannot be; delivered on time or is not available, ’tOPV‘ shall be used. 
+
+ All types of OPV shall be registered With the FDA in. advance once the plan. is approved - 
+
+To ensure more than 95% OPV coverage in each round, the. door—to—door- strategy and .3 RCA (bothintra and post campaign). shall be done for each round of large scale OPV SIA is achieved to Effectively step WPV as rapidly (as possible. 
+
+ 
+A detailed guideline on the» conduct of the immunization response including- the RCA shall be made available to all vaccination teams, supervisors and ”monitors. This shall be developed depending on the results of the risk assessment 
+
+c. Comprehensive analysis of the immunity proﬁle subpopulations in high—risk areas 
+
+Many member countries have conducted serological surveys. or have immunization coverage- data that its useful for assessing the immunity of highrisk subpopulations against poliovirus. However, due to the time required to organize and implement. serological and immunization. coverage surveys, new surveys Shall not? be conducted as part of an emergency response, Rather the risk assessment: shall include. some immunological proﬁle based {on epidemiological data. (surveillance and OPV co-Vetagie). 
+
+d. Create a sub—national eutbreak responSe- plan (reviewing and updating of existing preparedness plan): 
+
+The regional counterpart of DOH Expanded, Pregram for Immllnization, i.e. the Regional EPI Coordinators, shall spearhead. and. orchestrate the creation ofa sub-national Outbreak. response plan. This shall include the development of a. detailed action-plan based en the preparedness plan. , 
+
+C.- POST '-OUTBREAK. ASSESSMENT AND RESPONSE 
+
+The. NRC shall cenvene to conduct the post outbreak assessment This Shall be attended by the members or representatives of: the Response Committees at all levels. The focus of the post outbreak assessment shall include; critical examination 011 the elements of surveillance and. immunization response and come up with appropriate recommendations to further enhance ease-based and. laboratory—based surveillance and reSPO‘nS-e- 
+
+1. Post Outbreak Response Immunization. 
+
+It is recommended that two full. Rounds of Large- Scale OPV fellow up immunimtien activity shall be done within. 21* years after the last WPV case from the outbreak was detected. Prior to implementation, caret-111 planning, and. sourcing of full funding shall. be made to cover all targeted eligible populations._ This is to ﬁnally ensure-- that high. populatien immunity is maintained and children are kept protected from getting infected "with WPV that could pnssibly be circulating among asympmmﬂtic individuals. 
+
+2. Complete Deicu’mzeintathn of‘thle Outbreak Response: 
+
+An equally impenant part. of the response to the importation of WPV or“ an nutbreak is properly documenting that WPV transmission. has» been, interrupted. Such evidence is collected through enhanced AFPiPnlio surveillance. A detailed. and comprehensive documentation. is required to describe the epidemiological background, ﬁndings of ease investigation, including laboratory and virological informatien, the ,. immunization response and the: results of enhanced surveillance. The report Shall Summarize all ﬁndings and activities. for twelve. months after identiﬁcatien of the last 
+case associated With WPV or clinical case of poliomyelitis This documentation shall be completed in coordination with concerned national and international experts and to be presented by the NRC to the NCC for evaluation. The NCC shall decide whether the evidence is sufﬁcient to prove that transmission of imported WPV has been interrupted and has to formally state their conclusions. Then through the WHO the NCC shall ofﬁcially endorse the document to the RCC for further review and ﬁnal recommendations. 
+
+As the NCC prepares to review and discuss the national report, the committee members may wish to conduct an on-the-spot epidemiological assessment or may request the WPRO to send a team of independent experts. 
+
+3. Dissemination and Feedback 
+
+The.” NRC secretariat shall be responsible for endorsing the report of the NCC to- the CHDs, WHO, the. RCC and other partners. 
+
+4. Destruction of WPV from the laboratory 
+
+Within 12 months after the last isolation related to the outbreak, the destruction of WPV stocks in the laboratory shall folow belo Guidelines for Storage and Destruction of Polio Isolates. 
+
+Storage:
+- Original stool sample, stool extract and infected tissue culture fluids of a confirmed positive Polio sample shall be stored at -80 degrees Celsius in a locked freezer. 
+- It shall be kept separately from other positve isolates. 
+- Store indefinitely until destruction is advised by the National Certification Committee for Polio.
+
+Destruction:
+- Witnesses from National Certification Committee for Polio, RITM, and National Reference Laboratory for Polio of the Department of Virology shall be present at the prescribed time of destruction. 
+- Original stool sample, stool extract and infected tissue culture fluids shall be destroyed by steam autoclaving at 121 degrees Celsius, 15 psi for 15 minutes. 
+- Waste Management services of RITM shall be responsible for the collection and final disposal of the autoclaved materials. 
+- There shall be written and digital documentation kept on record. 

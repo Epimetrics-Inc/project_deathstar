@@ -1,0 +1,757 @@
+﻿Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Bldg. 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, 1003 Manila
+Telefax: (632) 743-1329 Trunkline: 743-8301 local 1125-32 Directline: 711-9502 - 03
+E-mail: osec@doh.gov.ph
+
+
+<date>06/19/2002</date>
+
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 129-A s. 2002</docnum>
+
+
+<subject>SUBJECT: National Policy on Diagnosis and Chemotherapy for Malaria</subject>
+
+
+<body>
+I. Rationale
+
+
+Drug resistance has become a major problem hampering current efforts in the control of malaria in the Philippines. Results of recent studies show that in vivo determinations of treatment failure rates for Chloroquine (CQ) and Sulfadoxine-Pyramethamine (SP) monotherapy in sampled population from different regions in the country far exceed the 25% WHO benchmark for clinical failures (MCS, 1996-1997, Preliminary Report ENHR, 2000, ADS-MCP, 1997-2000 and WHO/REM, 2000-2001). These high treatment failure rates provide a very strong evidence for the Department of Health (DOH) to immediately review and change existing anti-malarial drug policy in the country (WHO Guidelines, 2000).
+
+
+In such cases of monotherapy failure, combination therapy becomes the more viable alternative in improving efficacy of available drugs. Therapeutic efficacy studies done in Compostela Valley showed 100% efficacy of artemether-lumefantrine combination, which would make it the better choice in terms of its efficacy, safety and tolerance profile and availability as a fixed dose formulation (WHO, 2001). However, this combination has been restricted to be used as a second-dine drug in view of these reasons: limited findings of its safety for very young children, pregnant women and breastfeeding mothers and their babies and the inadequate capability of the current health infrastructure in many endemic areas to provide confirmatory diagnosis. The DOH therefore has to be given time to explore and further study the use of artemisin-based combinations before it is adopted as a first-line treatment.
+
+
+On the other hand, CQ+SP combination showed lower treatment failure rates of &gt;15% in the sampled population studied in Agusan and Compostela Valley (ADS-MCP 2001 and WHO/REM, 2001). To ensure that there is always safe, effective and affordable treatment which is accessible to the population at risk, the CQ+SP combination offers a better and more practical anti-malarial option in the short-term.
+
+
+This administrative order prescribes policies and guidelines for diagnosis and combination chemotherapy for malaria, with the objective of reducing further development of drug resistance and ultimately towards reducing morbidity and transmission and preventing complications and mortality due to malaria.
+
+
+II. Coverage
+
+
+This order shall apply to all government (national and local) and private health facilities nationwide.
+
+
+III. General Policies
+
+
+A. The new anti-malarial drug policy as prescribed herein and its implementation shall be subject to continuous review and evaluation by technical experts
+
+
+B. Implementation of this diagnosis and chemotherapy in the control of malaria shall always be within the context of primary health care approach. Provision of services shall be integrated with other health services available at the different levels of health care in endemic areas.
+
+
+C. Implementation shall be done in phases. This is to allow the National Malaria Control Programme to manage the increase in cost of diagnosis and treatment and for the regions to strengthen and expand its capacity for implementation. Areas shall be prioritized as follows (refer to Annex I for category of provinces):
+
+
+1. Priority 1 - pilot areas for implementation will consist of project sites where capacity building for drug policy implementation has already been carried out or underway, malaria microscopy centers at the Rural Health Units are already established or upgraded and tools and system for monitoring is being developed, i.e. Palawan, Agusan del Sur, Roll Back Malaria Sites in Compostela Valle, Davao del Sur and Kalinga;.
+2. Priority 2 - category A provinces and areas who had epidemics in last 2 years
+3. Priority 3 - category B provinces
+4. Priority 4 - all other endemic provinces
+
+
+D. Advocacy, training of health workers have to be conducted, systems need to be in place and funding requirements need to be secured prior to the full implementation of this policy
+
+
+E. Support from and collaboration among government, non-government and private organizations shall be a necessary requisite for its successful implementation.
+
+
+IV. Program Policies
+
+
+A. Combination treatment for malaria
+
+
+1. For the treatment of Plasmodium falciparum
+
+
+a. A combination therapy of Chloroquine (CQ) and Sulfadoxine-Pyrimethamine (SP) should be used as the first-line drugs for the treatment of probable malaria and in confirmed Plasmodium falciparum malaria.
+
+
+b. Artemether-lumefantrine (CoartemTM ; A-L) combination should be the second line drug and shall be used only in the treatment of confirmed Plasmodium falciparum which fail CQ+SP. It is not recommended in pregnancy, lactation and in infants &lt; 1 year and in severe malaria.
+
+
+c. Quinine in combination with either Tetracycline and Doxycycline (Q+T/D)
+
+
+i. Shall be the third line drug in the treatment of uncomplicated Plasmodium falciparum which fail A-L;
+ii. Shall be the next line to CQ+SP failure if A-L is unavailable;
+iii. Shall be the drug of choice in the treatment of severe/complicated Plasmodium falciparum malaria;
+iv. In patients where tetracycline and doxycycline are contraindicated (in pregnant women and children &lt;8 years old) Quinine can be given in combination with Clindamycin.
+
+
+d. In addition to CQ+SP, A-L and Q+T/D, Primaquine must be given on the 4th day as single dose to all microscopically-confirmed P. falciparum cases to prevent transmission. It is contraindicated in pregnant women, and children &lt;1 year old.
+
+
+2. For the treatment of P. vivax
+
+
+Chloroquine shall be given to confirmed P. vivax cases together with Primaquine for 14 days of primaquine treatment to prevent relapse. Primaquine is not to be given to pregnant women and children &lt; 1 year old.
+
+
+3. For Pregnant women and children &lt;1 year old
+
+
+a. Quinine shall be the drug of choice in the treatment of malaria in pregnancy regardless of the period of pregnancy;
+
+
+b. Quinine shall also be drug to use for children &lt;1 year old who fail CQ+ SP.
+
+
+c. In the treatment of probable malaria and in case Quinine is unavailable for continued Plasmodium falciparum, CQ+SP combination can be given after the first trimester of pregnancy.
+
+
+4. Chemoprophylaxis
+
+
+For persons who are at high risk for severe and complicated malaria, i.e. non-immune travellers to endemic areas, recommended prophylaxis includes doxycycline tablet given at 100 mg daily starting two to three days prior to travel to continue up to four weeks upon leaving the area (contraindicated in pregnant and lactating women and children below 8 years) or mefloquine tablet given at 250 mg base weekly starting one week before travel to continue up to four weeks upon leaving the area.
+
+
+Chemoprophylaxis is also recommended for pregnant women particularly primagravid during their entire pregnancy and stay in endemic areas. Chloroquine as a chemoprophylactic drug is generally safe and has little teratogenic risk. It may be given on the first trimester of pregnancy, at two tablets weekly two weeks before travel, during stay, and until four weeks after leaving the area. On the second and third trimester of pregnancy, Sulfadoxine/Pyrimethamine can be administered for each trimester of stay in the endemic area.
+
+
+B. Diagnosis
+
+
+1. Microscopy shall remain as the "gold standard" for diagnosing malaria. All areas with a functional laboratory shall at all times employ this standard.
+
+
+2. To ensure quality, a quality assessment and assurance system shall be put in place. Specifically, slide validation of all confirmed positive and proportion of negative smears shall be done by designated provincial/regional validators at least once a year.
+
+
+3. Diagnosis through Rapid Diagnostic Tests (RDTs) shall initially be implemented in pilot areas until operational experience in its use has already been gained. Eventually, its deployment will be limited to the following areas:
+
+
+a. areas with no microscopy centers
+b. areas which require two (2) hours travel to the nearest microscopy centers
+
+
+C. Treatment
+
+
+1. Treatment of all probable and confirmed malaria using the first line drug CQ + SP combination shall only be administered by trained health personnel including Field Assistant Workers (PAWS), Barangay Health Workers (BHWs) and other volunteers under the supervision of the Rural Health Physician (RHU) assigned in the area.
+
+
+2. Treatment of P. falciparum and severe/complicated malaria using A-L and QT/D
+
+
+a. shall only be dispensed by a physician upon confirmation of diagnosis;
+b. in the absence of a Rural Health Physician, shall only be dispensed by a Public Health Nurse upon continuation of diagnosis
+
+
+3. Supervised Treatment (ST) as a mode of treatment of patients shall be adopted. Supervision especially during the first dose of treatment of CQ+SP and subsequent doses of A-L and QT/D shall be done either by the health worker, BHW or caregiver.
+
+
+4. Immediate referral of patients shall be done as deemed necessary (i.e. indications of severe malaria, pregnant women, children under 5 years of age) using the existing referral system.
+
+
+5. A detailed protocol for clinical management of malaria is included in Annex II.
+
+
+D. Treatment during emergency situations or epidemics
+
+
+1. In areas where epidemic is caused by P. falciparum, the most effective treatment should be used in the treatment of positive cases. The best combination is A-L, however, other artemisin-based combination that can be made available can also be used. In these situations, the objective is to ensure rapid cure of patients with lowest risk of treatment failure. Combination shall also be given with single dose of primaquine on the fourth day.
+
+
+2. In areas with P. vivax transmission only, treatment using chloroquine plus 14 days of primaquine shall be given.
+
+
+V. Support Systems
+
+
+1. Health Human Resource Development
+
+
+Development of health human resource to support the implementation shall be ensured. Training materials (standard presentations) on diagnosis and clinical management of malaria shall be prepared and updated in collaboration with the Health Human Resource Development Bureau and other training institutions to address needs of health personnel.  Re-orientation and re-trainings have to be conducted especially in endemic areas as deemed necessary.
+
+
+2. Logistics Management System
+
+
+An efficient logistics management system shall be put in place to ensure continuous supply of drugs and laboratory supplies. Specifically, the system shall require:
+
+
+a. that the provision of first-line drug and laboratory supplies shall be a shared responsibility of the Centers for Health Development (CHDs) and the Local Government Units (LGUs).
+
+
+b. that the sourcing out of funds and provision of second and third-line anti-malarial drug supply shall be a primary responsibility of the Central Office DOH;
+
+
+c. a distribution mechanism ensuring proper allocation and availability of drugs and supplies among the endemic areas
+
+
+The system shall be enhanced to generate pertinent information as to under and overstocking, drug expiration and spoilage at particular periods.
+
+
+3. Reporting and Surveillance System
+
+
+A reporting and surveillance system shall be put in place. The system shall ensure the preparation and consolidation of reports on a regular basis by the various levels with inputs from the different health facilities in the area. Moreover, the system shall prescribe standard forms specifying a comprehensive set of ICD 10 compliant-indicators, and which are useful for decision making at the various levels.
+
+
+VI. Roles and Responsibilities
+
+
+A. The Center for Infectious Diseases, DOH shall be primarily responsible for the overall management - preparatory activities, implementation, monitoring and evaluation of this policy. It shall be responsible for the following activities:
+
+
+1. Formulating a national plan/ strategy for implementation (phasing of implementation, identification of funding sources and initiating start-up activities)
+2. Conducting training of trainers and provision of support for capacity development for various levels of healthcare.
+3. Putting in systems as mentioned above: health human resource development, logistics management, and reporting and surveillance systems and other systems deemed necessary for the efficient implementation of the policy
+4. Ensure quality assurance and logistical availability particularly 2nd line and 3rd line drugs and RDTs.
+5. Regular conduct of monitoring and evaluation activities to provide basis for tracking progress and modifying strategies and mechanisms in addressing the problem of drug resistance
+6. Setting up of sentinel sites for therapeutic efficacy surveillance, in collaboration with Centers for Health Development
+7. Review of treatment guidelines every 2-3 years
+8. Resource generation
+
+
+B. Centers for Health Development
+
+
+1. Develop capacity of health providers to implement policies and guidelines in the diagnosis and treatment of malaria
+2. Conduct of inventory of relevant competencies and assessment of needs and resources as may be required in the implementation of treatment guidelines
+3. Dissemination of treatment guidelines to all stakeholders
+4. Formulate and implement advocacy plans to gain political commitment and community support
+5. Implement systems on health human resource development, logistics management, and reporting and surveillance systems and other systems deemed necessary for the efficient implementation of the policy
+6. Provide 1st line drugs and laboratory supplies
+7. Maintain quality assurance and control team
+8. Ensuring availability of drugs and laboratory supplies at all levels through quarterly monitoring of drug utilization.
+9. Generate additional resources for implementation of the program.
+
+
+C. Local Government Units
+
+
+1. Provincial Health Office (PHO)
+
+
+a. conduct orientation/trainings for private and public health workers on the implementation of the new treatment policy on malaria
+b. provide counterpart funding support for trainings, drugs and laboratory supplies
+c. allocate and monitor utilization of drugs and laboratory supplies
+d. advocate with other local government and other agencies and stakeholders to implement treatment policies
+e. monitor implementation of new treatment policies in public hospitals and implement quality assurance and control system for diagnosis and treatment
+f. ensure effective implementation of systems on health human resource development, logistics management, and reporting and surveillance and other systems for the efficient implementation of the policy
+g. generate additional resources for the implementation of the new treatment policies
+
+
+2. RHU
+
+
+a. implement new treatment policies
+b. provide reaction drugs
+c. provide laboratory confirmation of diagnosis
+d. conduct training for BHWs and volunteers on the diagnosis and treatment of malaria
+e. supervise malaria control activities of all health personnel within the area of responsibility
+f. collect, analyze and submit reports as required
+g. implement information and education campaign
+
+
+3. BHWs/FAWs/other Volunteers
+
+
+a. assist in case finding and treatment
+b. supervise treatment of positive cases especially the first dose of treatment
+c. mobilize communities to use personal protection measures. and to seek early diagnosis for provision of effective treatment
+
+
+D. Non-Government Organizations as an implementing partner may undertake the following responsibilities:
+
+
+1. Support the implementation of new treatment policies for malaria
+2. Provide support health services, i.e. Diagnosis and treatment of malaria, in partnership with local government units or community
+3. Provide technical advice based on relevant experience in community based malaria control, development of IEC messages and promotion of enabling environment that will link health system with communities and can increase political support
+4. Undertake social marketing strategies to increase participation of communities and local government units in the prevention and control of malaria 
+5. Assist generate resources for provision of additional supply of drugs and laboratory supplies.
+
+
+VII. Repealing Clause
+
+
+Administrative Order 19 s.1996, all other orders and related issuances inconsistent with the provisions of this issuance are hereby rescinded.
+
+
+VIII. Effectivity
+
+
+This order takes effect immediately.
+</body>
+
+
+<sign>MANUEL M DAYRIT, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
+
+
+<body>
+Annex I - Category of Provinces
+
+
+Category A - Provinces with no significant improvement in malaria situation in the last 10 years or situation worsened in the last 5 years; average of number of cases more than 1000 in the last 10 years:
+
+
+• Apayao
+• Kalinga (Pilot area)
+• Isabela
+• Cagayan
+• Mindoro Occidental
+• Mindoro Oriental
+• Rizal
+• Zamboanga del Sur
+• Misamis Oriental
+• Davao Oriental
+• Davao del Norte (Pilot area)
+• Compostela Valley (Pilot area)
+• Saranggani
+• Agusan del Sur
+• Agusan del Norte
+• Butuan City
+• Surigao del Sur
+• Tawi-tawi
+• Sulu
+• Basilan
+
+
+Category B - provinces where situation has improved in the last 5 years or average number of cases 100 to &lt;1000 cases/year:
+
+
+• Ifugao
+• Abra
+• Mt. Province
+• Ilocos Norte
+• Pangasinan
+• Nueva Vizcaya
+• Quirino
+• Nueva Ecija
+• Bulacan
+• Zambales
+• Bataan
+• Aurora
+• Laguna
+• Quezon
+• Camarines Norte
+• Zamboanga del Norte
+• Zamboanga del Sur
+• Zamboanga City
+• Bukidnon
+• North Cotabato
+• Lanao del Sur
+• Lanao del Norte
+• Maguindanao
+
+
+Category C - provinces with significant reduction in cases in the last 5 years:
+
+
+• Benguet
+• Ilocos Sur
+• La Union
+• Pampanga
+• Batangas
+• Cavite
+• Marinduque
+• Romblon
+• Masbate
+• Camarines Sur
+• Albay
+• Sorsogon
+• Negros Occidental
+• Negros Oriental
+• Eastern Samar
+• Western Samar
+• Misamis Occidental
+• Davao City
+• Surigao del Norte
+
+
+Category D - provinces that are malaria-free although some are still potentially malarious due to presence of the vector, i.e. Cebu, Bohol, Catanduanes, Aklan, Iloilo, Capiz, Guimaras, Siquijor, Biliran, Leyte Norte and Sur, Northern Samar and Camiguin
+
+
+<image>figure_1.png</image>
+
+
+I. Introduction
+
+
+This protocol was written for the clinical management of malaria and is divided into three medical conditions associated with Plasmodium infection in the Philippines: (a) uncomplicated-, (b) drug-resistant P. falciparum, and (c) severe malaria.
+
+
+An index of suspicion for malaria is made under the following circumstances:
+• Travel to and overnight stay in a malarious area
+• Blood transfusion during the past six months I
+• Intravenous drug use
+
+
+A. Uncomplicated malaria
+
+
+This is a febrile condition with malaria parasites detected in a peripheral blood film and absence of severe disease and signs of multidrug-resistant P. falciparum (see below). Uncomplicated malaria may be accompanied by severe headache and chills followed by a drenching sweat. Fever may be the only presenting sign in young children and infants; a neonate may present with signs of neonatal sepsis. Dengue fever may be suspected because of thrombocytopenia.
+
+
+B. Multi-drug resistant P. falciparum.
+
+
+In 2000 and 2001, community-based studies by the RITM Malaria Study Group have revealed unacceptable levels of P. falciparum treatment failure to chloroquine and pyrimethamine/sulfadoxine administered singly or in combination in Northern and Southern Philippines.
+
+
+Drug resistance in malaria is defined as "the ability of a parasite strain to survive and/or multiply despite the administration and absorption of a drug given in doses equal to or higher than those usually recommended, but within the limits of tolerance of the subject (WHO, 19__)." This is detected by monitoring malaria blood films as given in the schedules below. This condition is manifested as failure to respond to a standard dose of antimalarial and poor drug compliance has been ruled out. Generally, an infection is considered to be drug resistant if (a) there is recrudescence of asexual parasitemia from the 48th hour thereafter, or (b) there is no parasite clearance or reduction.
+
+
+C. Severe malaria
+
+
+This condition is due to the dysfunction of organ systems secondary to the combined effects of malaria toxins, sequestration of infected red blood cells and anemia. The clinical syndromes (e.g. coma, reSpiratory distress, severe anemia, and metabolic acidosis) are also observed in other local infectious diseases (e.g. viral hepatitis, typhoid fever, bacterial and viral CNS infections) and are due to similar pathophysiological processes (e.g. increased tumor necrosis factor and other pro-inflammatory cytokines production).
+
+
+II. Criteria and indications for admission
+
+
+Uncomplicated malaria can be managed on an out-patient basis. However, in-patient management is best for the following patients: pregnant women, children below the age of five years and non-immune individuals with asexual P. falciparum parasitemia. People with manifestations of severe disease (listed below) and those with persistent symptoms despite intake of antimalarials must be also be hospitalized.
+
+
+1. Hyperparasitemia (&gt;5% parasitized RBC; more than 10^6 asexual parasites per cu. mm peripheral blood)^1
+2. Severe anemia
+3. Poor urine output
+4. Signs of pulmonary edema
+5. Seizures^2
+6. Impaired consciousness
+7. Prostration/weakness
+8. Metabolic abnormalities (such as acidosis, hypoglycemia^3)
+9. Signs of DIC^4
+10. Macroscopic hemoglobinuria
+11. Jaundice
+12. Hyperpyrexia (rectal temperature &gt; 40°C)
+
+
+III. Laboratory diagnosis and work-up
+
+
+The diagnosis of malaria is made through microscopy reading of a malaria blood film (thick and thin smears); the presence of parasites is needed to confirm the diagnosis. False negative or positive blood films are generally technical in nature: poor slide preparation. Slide negative severe malaria is very unusual in the absence of prior antimalarial intake. There are only two conditions for a smear negative cerebral malaria: (a) immediately following effective antimalarial treatment when com... persists beyond parasite clearance; and (b) a highly synchronous, untreated severe infection in which nearly all parasites are sequestered and few circulate and are below the level of detection (White et al. 1992).
+
+
+Other laboratory examinations such as kidney and liver function tests, serum electrolytes and blood sugar levels, cerebrospinal fluid analysis, urinalysis and chest radiographic examination are requested only when indicated.
+
+
+1 By itself, not considered by some authors as an indicator to warrant management as severe malaria. Blood stage with pigments (mature trophozoites and schizonts) appear to be more predictive of severity (and fatality) rather than either parasitemia or schizonts alone (Silamut and White, 1993).
+2 Most common manifestation in children.
+3 Especially in pregnant women, patients with other manifestations of severe disease and those treated with quinine (induced). May sometimes present as cerebral malaria.
+4 Thrombocytopenia is common and in most cases not accompanied by bleeding. Some patients referred to RITM were managed as dengue before their transfer.
+
+
+Rapid diagnostic tests for malaria (ICT, ParaSight F, OptiMal) are commercially available. Some tests have been validated in Agusan del Sur (ADS-MOP Reports; Bell et al., 2000) and Palawan. (Bustos et al., 1999). However, these tests are recommended for situations where microscopy of blood films is not possible. Further, poor validity tests have been locally observed and attributed to batch variation of the test kits. Gene amplification through PCR is used only for research purposes. Serology (usually P. falciparum antigen and which cross-reacts with P. vivax) such as indirect immunofluorescent assay) is reserved for screening of blood donors, epidemiological studies and evaluation of interventions and research. The cut-off dilution for positive result is 1:64. Results of an individual must be interpreted with caution. High titers are detectable in sera of people residing in endemic areas up to eight months after treatment (Gatton et al., 1996).
+
+
+A. Uncomplicated malaria
+
+
+1. CBC, platelet count and blood typing
+2. Malaria blood film (thick and thin smear) upon admission and every 12 hours thereafter for the first 48 hours; daily for the next five days or until negative for asexual forms.^5 Blood films are then examined on days 7, 14, 21 and 28 days post-treatment on an outpatient basis for falciparum malaria.
+
+
+B. Drug-resistant P. falciparum
+
+
+As above. Additional blood films are collected and examined in-between scheduled dates if the patient develops fever.
+
+
+C. Severe malaria
+
+
+Malaria blood films are examined every eight hours for the first 48 hours; every 12 hours while on quinine; daily until films are negative for asexual forms; and then on days 7, 14, 21 and 28. The laboratory examinations listed below are requested when indicated:
+
+
+1. CT, BT, APTT
+2. SGPT, SGOT, alkaline phosphatase, bilirubin levels, serum albumin, and prothrombin time
+3. Serum creatinine, BUN
+4. Serum electrolytes
+5. Random blood sugar
+6. CSF analysis
+7. Urinalysis and urine urobilinogen
+8. Chest x-ray
+
+
+IV. Therapeutic management
+
+
+A. Uncomplicated Malaria
+
+
+5 This monitoring schedule will rule out early treatment failure and possible drug-resistant strains.
+
+
+Antimalarial drug combination recommended is chloroquine and pyrimethamine-sulfadoxine (see Table 1 for dosage and schedule).
+
+
+1. Treatment of Uncomplicated Malaria Cases
+
+
+Table 1. Treatment Schedule for probable malaria and confirmed P. falciparum Cases
+
+
+<image>table_1.png</image> 
+
+
+* treatment should be given after meals
+* first day of treatment should be under the supervision of the health worker
+* SP are generally well tolerated when used at the recommended doses for malaria and serious events are associated with hypersensitivity to sulfa component, involving the skin and mucus membranes including Stevens-Johnson syndrome and normally occurring after repeated administration
+
+
+Table 2. Treatment Schedule for confirmed P. vivax Cases
+
+
+<image>table_2.png</image> 
+
+
+Table 3. Treatment schedule for mixed P. falciparum and P. vivax infection
+
+
+<image>table_3.png</image>
+
+
+*treatment should be given after meals
+*first day of treatment should be under the supervision of the healthworker
+
+
+It is best to give pyrimethamine-sulfadoxine followed by chloroquine after two hours to minimize gastric irritation. For mixed infections, primaquine is started as in P. vivax.
+
+
+Discharging the patient and follow-up: If blood films are negative for asexual blood forms by the 7th hospital day, the patient can be discharged, however. Schedule return visits on Days 14, 21 and 28 to monitor for late treatment failure; the patient is advised to return if fever develops or patient becomes ill.
+
+
+B. Multi-drug resistant P. falciparum
+
+
+Table 4 summarizes the grading of response of asexual parasitemia to chloroquine (CQ) plus pyrimethamine-sulfadoxine (S-P; Fansidar). The drug for all parasitological treatment failures to CQ+SP is arthemether-lumefantrine (A-L; Coartem) (Van Vugt et al, 2000); dosage and schedule are in Table 5. Artemether-lumefantrine is preferably taken with a high-fat meal. Patients with signs of severe malaria must be treated as below.
+
+
+Table 4. Grading of response to CQ+SP (WHO 2001)
+
+
+<image>table_4.png</image>
+
+
+Table 5. Dose and schedule of artemether-lumefantrine (20 mg and 120 mg, respectively)
+
+
+<image>table_5.png</image>
+
+
+Table 6. Dose and schedule for quinine plus
+
+
+<image>table_6.png</image>
+
+
+C. Severe malaria
+
+
+The drug of choice for severe malaria is quinine (see Table 7). The majority of deaths from cerebral malaria occur within 48 hours of hospital admission; hence, the reason for the loading dose of quinine and intravenous drip for the next 24 to 48 hours. If it is not possible to give a quinine loading dose parenterally, the drug can be given at the same dose per gram. The loading Shift to oral quinine at the maintenance close if possible after the 48th hour; complete a total of seven days treatment.
+
+
+Table 7. Quinine dosage for severe malaria.
+
+
+<image>table_7.png</image> 
+
+
+If the patient has received quinine within preceding 24 hours, the quinine loading dose is omitted. For patients with acute renal failure, ECG monitoring is required during quinine infusion (Sukontason et al., 1996). Cardiac monitoring has also been recommended for pediatric patients (van Hensbroek et al. 1996).
+
+
+V. Supportive management
+
+
+A. Management of clinical conditions
+
+
+1. Cerebral malaria
+
+
+This is the most common clinical presentation of severe malaria. It is essential to correct metabolic abnormalities and exclude other CNS infections. Attention must be given to fluid balance; hyperpyrexia must be aggressively treated; and seizures controlled (see Table 8). Mannitol and osmotic diuretics are not recommended; steroids, heparin and dextran are absolutely contraindicated.
+
+
+Table 8. Control of seizures:
+
+
+<image>table_8.png</image>
+
+
+Diagnosis (for uniformity): unarousable coma not attributed to any other cause in a patient with malaria; persists for more than 30 minutes after a generalized seizure (WHO, 1990). However, anyone with impaired consciousness on and any sign of cerebral dysfunction should be treated as severe malaria.
+
+
+2. Severe anemia and other hematologic abnormalities
+
+
+a. Severe anemia
+
+
+This is defined as condition with hemoglobin of less than 7 gm/dl and a hematocrit level of less than 20%. The peripheral smear is usually normocytic and normochromic. Hemoglobin level of less 6 gm/dl is usually associated with mortality (Sharma et al., 1992).
+
+
+Indications for blood transfusions (insert the CVP line): (a) signs of high output failure - gallop rhythm, tachycardia, etc); and (b) pulmonary edema. Packed RBC (lOcc/kg) infuse at 2-3 ml/kg/hr in high output failure otherwise at 1 ml/kg/hr. Fresh whole blood infuse (20 cc/kg) at 10 ml/kg/hr
+
+
+<image>figure_2.png</image>
+
+
+6 Short-acting anticonvulsant; may cause respiratory depression.
+7 Additive respiratory depression if given after diazepam.
+
+
+b. Thrombocytopenia
+
+
+Thrombocytopenia and intravascular coagulation are common observations. The pathophysiology is related to the following: (a) immunologic mechanisms; (b) transient hypoplasia of bone marrow; (c) enhanced macrophage activity resulting in increased macrophage-mediated platelet destruction; (d) intensified by platelet/endothelial activation or damage; and (e) structural alterations observed correlated with degree of parasitemia.
+
+
+Platelet concentrate is transfused when there are signs of bleeding. In the absence of bleeding, platelets are transfused if counts are below 60,000 for adults and 30,000 for children.
+
+
+3. Renal failure (malaria associated renal failure - MARF)
+
+
+Pathology is acute tubular necrosis secondary to hypovolemia, ischemia and intravascular coagulation. Presents as oliguric renal failure. Early recognition and aggressive management prevent acute renal failure. Urinalysis shows brownish, pigmented cellular casts; renal tubular epithelial cells. MARF is observed in adults rather than in children. Significantly associated with liver dysfunction. Fatal outcome is significantly associated with anuria, short history of illness, multisystem involvement, and high parasitemia.
+
+
+Table 9. Renal failure
+
+
+<image>table_9.png</image>
+
+
+Dopamine at 2 ug/kg/min and furosemide at 1 mg/kg must be started. Dialysis is considered for patients who fail to respond to fluid challenges and other therapeutic management. Initial loading, doses of antimalarials should not be reduced in patients with renal failure. Fluid replacement as: (1) Insensible loss plus urine output (if no fluid overload); and (2) When diuresis starts, urine volume must be replaced with a solution containing approximately the same electrolytes excreted; no K+ replacement until levels of electrolyte have decreased to normal.
+
+
+4. Pulmonary edema
+
+
+Secondary to increased pulmonary capillary permeability. Predisposing factors are hyperparasitemia, renal failure, and pregnancy; associated with hypoglycemia, hypoalbuminemia and metabolic acidosis. Usually develops after one or two days' management. CVP must be inserted in all cases and fluid overload prevented. Diuretics and inotropics can be administered. Post-mortem and histopathologic findings show endothelial narrowing of capillary lumen, cytoadherence and signs of increased pulmonary capillary permeability, and volume overload.
+
+
+8 There may be some instances of polyuric renal failure; hence, importance of monitoring serum creatinine levels.
+
+
+5. Hypoglycemia
+
+
+Some studies have shown that loading doses of parenteral quinine affect blood glucose level in children with severe malaria. In all age groups, this usually occurs on second or third day of treatment among those who remain severely ill and who require parenteral quinine. May occur in pregnant women with uncomplicated malaria (White, 1992).
+
+
+6. Circulatory collapse/Shock
+
+
+Despite adequate fluid management, rule out metabolic abnormalities and concomitant severe bacterial infections (e.g. gram negative or nosocomial). If disseminated intravascular coagulation is considered, transfuse fresh frozen plasma. If shock is secondary to severe liver dysfunction, give parenteral vitamin K. Start dopamine and other vasopressors.
+
+
+Poor prognostic signs
+
+
+1. Less than three years old
+2. Seizures within three hours of admission, decerebrate posturing, absent corneal reflex
+3. Hyperparasitemia (&gt; 10^6 ring stage/ul)
+4. Schizonts in peripheral blood
+5. Leukocytosis (&gt; 12,000/ul)
+6. Severe anemia
+7. Low CSF sugar
+8. Serum creatinine &gt; 265 umol/l
+9. Hypoglycemia despite glucose infusion
+10. Liver aminotransferases &gt;3x increase
+11. Metabolic acidosis (in children)
+
+
+VI. Management of malaria under special conditions
+
+
+A. Pregnant women.
+
+
+Due to the emerging resistance to chloroquine and pyrimethamine-sulfadoxine, a consensus was reached at a workshop; the concluded dose for treatment in pregnancy is tabulated below. Falciparum malaria is treated with oral quinine alone. Vivax malaria is treated with chloroquine only; primaquine is withheld until pregnancy is terminated because the G-6-PD status of the fetus is not known. Relapse is treated with chloroquine at a dose of two tablets weekly for eight weeks. Pyrimethamine-sulfadoxine combination is not recommended during the first trimester
+
+
+Table 10. Treatment of malaria in pregnant women.
+
+
+<image>figure_10.png</image>
+
+
+B. Lactating mothers
+
+
+Lactating mothers are treated as described in Table l. Antimalarials (chloroquine, quinine, pyrimethamine, and primaquine) are secreted in breast milk in amounts that are not harmful to the infant and in insufficient amounts to provide protection against malaria.
+
+
+C. Infants below 1 year old
+
+
+Children receiving primaquine should be observed for adverse drug reactions such as methemoglobinemia, hemolytic anemia, hemoglobinuria in G-6-PD deficiency neutropenia, and renal dysfunction. Infants with vivax malaria are not given primaquine unless G-6-PD level is known; relapses are treated with chloroquine.
+
+
+Table 11. Treatment of malaria for infants below 1 year old
+
+
+<image>table_11.png</image>
+
+
+9 To put this advice into context, other drugs, notably sulfonamides (and their combinations) can cause G-6-PD deficiency-related hemolysis. Hemolysis associated with this enzyme deficiency is dose-related. If urine turns red during the administration of primaquine for P. vivax, intake of the drug must be stopped.
+
+
+D. Congenital and neonatal malaria
+
+
+The onset of symptoms in congenital malaria with detectable peripheral blood parasitemia may be up to two month after-birth and delayed in vivax malaria. In endemic areas, this condition is diagnosed only when parasites are identified within seven days after birth. If parasites are seen in blood films after the first week of life, neonatal malaria is a possibility. This condition is rare in highly endemic areas. Chloroquine alone is administered as in Table 1.
+
+
+E. Transfusion malaria
+
+
+This condition is suspected when blood has been transfused within the past six months. The infection is treated according to. the type of plasmodium species seen in peripheral blood films following the above recommendations. Since there are no secondary exoerythrocytic forms in transfusion-induced vivax malaria, there is no danger of relapse. Diagnosis is usually delayed because the primary illness masks the symptoms. Transfusion-induced falciparum malaria is usually severe and progresses rapidly.
+
+
+VII. Prevention and Control
+
+
+A. Chemoprophylaxis
+
+
+This is recommended for persons who are at high risk for severe and complicated malaria, particularly non-immune travellers to endemic areas and primgravids during entire pregnancy and who reside in endemic areas. Chloroquine as a chemoprophylactic drug is generally safe and has little teratogenic risk. It is administered from the second trimester of pregnancy to six weeks after delivery.
+
+
+Table 10 lists drug dosages and schedule. Chemoprophylaxis alone does not give 100% protection against infection with the Plasmodium parasite and personal protective measures are just as important.
+
+
+Table 10. Drug dosages and schedule for chemoprophylaxis.
+
+
+<image>table_12.png</image>
+
+
+Table 11. Chemoprophylaxis in pregnant women.
+
+
+<image>table_13.png</image> 
+
+
+B. Personal protection measures in areas of transmission
+
+
+1. Avoid going out between dusk and dawn. Wear long-sleeved clothing and trousers when going out at night. Avoid dark colors (they attract mosquitoes).
+
+
+2. Apply insect repellent to exposed skin. Choose one containing either N,N-diethyl-m-toluamide (deet) or dimethyl phthalatate. The manufacturer's recommendation for use must be followed particularly with small children.
+
+
+3. If there is a choice of accommodation, stay in a well-constructed and well-maintained building in the most developed part of the area.
+
+
+4. Use screen over doors and windows. If no screens are available, windows and doors should be closed at night.
+
+
+5. Use a mosquito net with edges tucked in under the mattress. Make sure that the net is not torn and no mosquitoes are inside. Protection is increased with a permethrin or deltamethrin impregnated net.
+
+
+6. Use insecticide aerosols and pyrethroid mosquito coils.
+</body>

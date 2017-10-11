@@ -1,0 +1,20 @@
+Republika ng Pilipinas
+Ministry ng Kalusugan
+TANGGAPAN NG MINISTER
+Maynila
+
+<date>01/25/1980</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 70 s. 1980</docnum>
+
+<subject>SUBJECT: Authority for Dr. ANTONIO N. ACOSTA, Assistant Secretary, to act on all papers delegated to Dr. J. C. Azurin, Deputy Minister, under Administrative Order No. 43 as amended during the latter's official trip abroad</subject>
+
+<body>
+Effective January 28, 1980 and until the return of Dr. J. C. Azurin, Deputy Minister, from an official trip abroad, Dr. ANTONIO N. ACOSTA, Assistant Secretary, is hereby delegated the authority to sign all communications and perform the functions delegated to the Deputy Minister under MOH Administrative Order No. 43 dated September 12, 1979.
+
+All communications signed under this delegated authority shall bear the phrase "By authority of the Minister of Health" above the name of the signing official.
+</body>
+
+<sign>ENRIQUE M. GARCIA, M.D.</sign>
+<signtitle>Minister of Health</signtitle>

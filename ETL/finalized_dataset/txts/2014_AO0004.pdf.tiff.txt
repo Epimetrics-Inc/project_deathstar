@@ -1,0 +1,550 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>01/20/2014</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2014 - 0004 </docnum>
+<subject>SUBJECT: Guidelines in the Implementation of the Modiﬁg Philippine Malaria Information System (PhilMIS) ig Recording and Reporting Malaria Cases, Deaths and V3 tor Control Activities </subject>
+<body>
+Republic of the Philippines Department of Health OFFICE OF THE SECRETARY 
+
+I. RATIONALE: 
+
+Traditional methods of recording and reporting health information, paper-based reporting of program accomplishments and indicators are carried out especially in remote areas. Patient information are kept at health facilities and summary of reports at different levels of aggregation are manually prepared. This makes detailed analysis difficult and time-consuming. 
+
+The Philippine Malaria Information System (PhilMIS) was developed through the National Epidemiology Center (NEC) by modifying the Rural Health Unit Information System (RHUMIS) of the successful Agusan del Sur Malaria Control Project (ADS- MCP). The PhilMIS was developed to assist the Department of Health to achieve the following: a) competently informed planning, implementation, monitoring and evaluation of the Malaria program through the production of computerized data, b) standardized collection of malaria data using the same reporting and recording forms, c) generation of quality data, (1) easy retrieval of malaria indicators and e) prompt reporting system that addresses delays in generating required local malaria information 
+
+The DOH, with support from the WHO, developed the PhilMIS Standard Operating Guidelines (SOG) to facilitate PhilMIS use These guidelines shall serve as a benchmark for multi-level implementation of PhilMIS processes that range from data recording to useful analysis of information and its eventual use. 
+
+II. OBJECTIVE: 
+
+This Order shall set the guidelines in the implementation of the modified PhilMIS in all malaria endemic provinces and chartered cities. 
+
+HI. SCOPE AND COVERAGE: 
+
+These guidelines shall apply to all health workers in the national, regional, provincial and city health offices whose functions and activities contribute to the use of the Modified PhilMIS in recording and reporting malaria cases, deaths and veCtor control activities. 
+
+ 
+
+IV. DEFINITION OF TERMS: 
+
+A. Active case detection is an operation carried out by health workers who visit every locality in a deﬁned area at regular intervals (usually monthly during the transmission season), in order to enquire for fever cases through individual house visits, and to test for malaria (and treat if positive) each suspected person so discovered. 
+
+B. Barangay Malaria Microscopy Center (BMMC) is a health facility (usually 3 Barangay Health Station) where malaria microscopy diagnosis and treatment services are made available by a trained malaria microscopist. 
+
+C. Confirmed malaria death is a death of a patient due to malaria, with laboratory conformation or diagnosis. 
+
+D. Conﬁrmed severe malaria is a case with fever/history of fever with any of the following signs and symptoms: chills, sweating, headache, enlarge spleen and manifests any of the following: extreme weakness or inability to sit] stand, hyperthermia, severe pallor/jaundice/ yellowish discoloration of eyes! skin delirium, coma, reddish! coffee colored urine, weak pulse, difficulty of breathing and conﬁrmed positive for malaria. 
+
+E. Continued uncomplicated malaria is a case with fever/history of fever and manifests any of the following signs and symptoms: chills, sweating, headache, enlarge spleen and conﬁrmed positive for malaria. 
+
+F. Epidemic-risk areas are low-endemic areas where factors which may cause the occurrence of epidemic are present such as inﬂux of laborers in developmental projects, local or foreign tourists, movement of indigenous people, military personnel and displaced populations from malaria endemic provinces or countries and or in areas bordering endemic areas. 
+
+G. Indoor residual spraying is a method of applying insecticide with a hand- compression spray can on the inner walls and ceilings or the underside of the roof and. caves of all houses in a given area, in order to kill adult mosquito vectors that land and rest on these treated walls. 
+
+H. Malaria Registry is a health facility record book used by health workers to list details of the diagnosis and treatment of procedures undertaken per malaria patient. 
+
+1. Mass blood survey: is an examination of blood film for malaria parasites from every person in a community, group of communities or in a speciﬁc population of an area to identify the individual cases of parasites or carriers of parasites who are not sick. 
+
+J. Philippine Malaria Information System is an information system developed by the Department of Health through the National Epidemiology Center. The system aims to provide information in a computerized form in order to aid the planning, implementation, monitoring and evaluation of the National Malaria Control 
+
+
+K. PhilMIS point person is a designated staff in every health facility/office assigned to undertake PhilMIS—related tasks. 
+
+L. Mosquito net treatment is a vector control strategy of dipping mosquito nets into an insecticide solution that remains effective for a period of time. 
+
+M. Mosquito net re-treatment is a routinely treating old/existing conventional mosquito nets owned by households with an insecticide Solution. 
+
+N. Rapid diagnostic test is an antigen—based stick, cassette or card test for malaria in which a colored line indicates that plasmodial antigens have been detected. 
+
+O. Vector Control is a strategy applied in malaria control that aiIns to reduce malaria morbidity and mortality by reducing the levels of transmission. Refers to insecticide treated and indoor residual spraying. 
+
+V. GENERAL GUIDELINES: 
+
+A. The modified PhilMIS shall be used in all malaria endemic provinces. 
+
+B. The PhilMIS software was created using MS Visual Foxpro Version 9, a popular development tool for creating data base applications, running on a license-free software that can use any Windows operating system that makes PhilMIS easy to- distribute and utilize at the local level. 
+
+C. The modiﬁed PhilMIS guidelines shall be implemented in all provinces in CHD— CAR; Pangasinan in CI-ID—I; all provinces in CHD-II except Bunnies; all provinces in ‘CHD-III except Pampanga; Quezon and Rizal provinces in CHD—IV- A; Palawan , Occidental Mindoro and Oriental Mindoro in CHD-IV-B; Zamboanga del Norte, Sur and Sibugay in CHD~IX; Bukidnon and Misamis Oriental in CHD-X; all provinces in CI-ID-XI; all provinces in CI-ID—XII; all provinces of Caraga region except Surigao del Norte and Dinagat Islands; and Basilan, Sulu, Tawi-Tawi in CHD-ARMM. 
+
+D. The modified PhilMIS forms shall be used in filing out the malaria cases, malaria deaths and vector control activities from the barangays, municipalities/chartered cities and hospitals in every Center for Health Development. 
+
+E. The PhilMIS shall capture the different malaria indicators such as mortality rate, morbidity rate, proportion of uncomplicated and severe malaria, malaria case fatality ratio, proportion of malaria cases by species, speciﬁc age-group, gender, pregnant women; annual parasite incidence, malaria test positivity rate, proportion of patients diagnosed within 24 hours of consultation; proportion of confirmed malaria cases receiving anti-malaria drugs. within 24 hours, proportion of population protected by LLIN and through indoor residual spraying. 
+
+VI. IMPLEMENTING GUIDELINES: 
+
+A. The facilities shall submit their reports using the appropriate reporting forms to the next reporting level on timelines stated on the modiﬁed PhilMIS Standard Operating Guidelines (SOG) as shown in the Data Flow diagram. 
+
+
+<image>figure_1.png</image>
+
+
+B. All malaria data recorded since January 2013 shall be encoded into the modified PhilMIS. 
+
+C. The National Epidemiology Center shall be responsible for ensuring the quality of data submitted by the reporting units. 
+
+D. The levels of implementation emanates from the Barangay Malaria Microscopy Center(BMMC)/ Rapid Diagnostic Test (RD'I) done by the midwife at barangay level; followed by the municipality/component city health office, to the Provincial Health Office, to the chartered city health offices, to hospitals and the Center for Health Development. 
+
+E. The PhilMIS shall be using twelve (12) forms to collect vital information that shall be used by the Malaria program, partners and various stakeholders. These shall include the following forms :(see armex) 
+
+1) Malaria Patient Registry Form (MPRF) — F1 
+
+2) Monthly Malaria Report Form (MMRF)- F2 
+
+3) Malaria In—Patient Registry Form (MIPRF-) F3 
+
+4a) Hospital Out—PatientMonthly Malaria Report Form (I-IOMMRF) F—4a 4b) Hospital Out-Patient Monthly Malaria Report Form (HIMMRF) F-4b 5) Active Case Detection/Mass Blood Survey Form (ACD/MBS- Form F—S 6) Mosquito Net Distribution Form (MNDF) F-6 
+
+7) Mosquito Net Distribution Summary Form (MNDSF) F-7 
+
+8) Indoor Residual Spraying Form (IRSF) F8 
+
+9) Indoor Residual Spraying Summary Form (IRSSF ) F -9 
+
+10) Mosquito Net Retreatment Form (MMRTF) F10 
+
+11) Mosquito Net Retreatment Summary Form (MN RTSF) F11 
+
+F. The National, Regional, Hospital, Provincial/Chartered City and Rural Health Unit shall be responsible for the implementation of the PhilMIS. 
+
+ 
+1. Passive Case Detection 
+Reporting level: 
+
+The BMMC/RDT shall: 
+
+a. Fill out the malaria registry book 
+
+b. Perform microscopy/RDT 
+
+c. Fill out the MPRF 
+
+d. Submit the validated MMRF and was to RHU/CH-CHO every 5th day of the succeeding month 
+
+e. For referrals: ﬁll out the malaria registry book 
+
+The RHU/Component-City Health Office shall: 
+
+a. Fill out the malaria registry book 
+
+b. Perform microscopy test 
+
+c. Update the malaria registry book 
+
+d. Fill out the MPRF and MMRF and attach the MPRF 
+
+e. Receive and validate MPRF and MMRF from the barangays 
+
+The RHU/ Component— City Health Ofﬁce workstations shall: 
+
+a. Encode MPRF and MMRF 
+
+b. Validate the PhilMIS generated reports 
+
+c. Provide feedback to barangays on data validation 
+
+d. Generate electronic dispatch ﬁle 
+
+e. Send electronic dispatch ﬁle to PHO every 8th day of the month 
+
+
+The RHU/Cornponent- City Health Office non-workstations shall: 
+
+a. Make a consolidated summary reports to all barangays 
+
+b. Provide feedback to barangays 
+
+c. Submit all MPRF and MMRF to the PHO every 8th day of the month 
+
+d. For referrals (uncomplicated): fill out the malaria registry book
+
+The hospitals shall: 
+
+a. Receive patient from referrals 
+
+b. Register patient in the Malaria Case Registry
+
+c. Perform microscopy test
+For conﬁnement: 
+
+d. Fill out the MIPRF 
+e. Fill out the HIMMRF For OPD: 
+
+f. Fill out the MPRF 
+
+g. Fill out the HOMMRF 
+
+h. Review the ﬁlled out forms (MPRF, MIPRF, HIMMRF and HOMMRF) for completeness and veracity of informati
+
+The hospital workstations shall: 
+
+
+a. Encode the hospital PhilMIS forms into the PhilMIS software 
+
+b. Validate PhilMIS generated reports 
+
+c. Generate electronic dispatch ﬁle 
+
+d. Send electronic dispatch ﬁle to CH-CHO/PHO/CHD every 5th day of the succeeding month 
+
+Hospital non-workstations shall: 
+
+e. Fill out the summary reports 
+
+f. Submit the ﬁlled out collection forms (MPRF, MIPRF, HIMMRF and HOMMRF) to CH-CHO/PHO/CHD every 5th day of the succeeding month
+ 
+
+The Chartered-City Health Ofﬁce shall: 
+
+a. Fill out the malaria registry book 
+
+b. Perform microscopy test 
+
+c. Update the malaria registry book 
+
+d. Fill out the MPRF and MMRF and attach the MPRF 
+
+e. Receive and validate MPRF and MMRF from the barangays 
+
+Chartered City Health Ofﬁce workstations shall: 
+
+a. Encode MPRF and MMRF 
+
+b. Validate the PhilMIS generated reports 
+
+c. Provide feedback to barangays on data validation 
+
+d. Generate electronic dispatch ﬁle 
+
+e. Send electronic dispatch ﬁle to CHD every 10th day of the month
+ 
+
+Chartered City Health Office non-workstations shall: 
+
+a. Make a consolidated summary reports to all barangays 
+
+b. Provide feedback to barangays 
+
+c. Submit all MPRF and was to the CHD every 10th day of the month 
+
+d. For referrals (uncomplicated) ﬁll out the malaria registry book 
+
+The Provincial Health Ofﬁce shall: 
+
+a. Receive PhilMIS collection forms (MPRF, MMRF, MJPRF, HIMMRF and HOMMRF) from non-workstation RHU and Hospitals 
+
+b. Validate the PhilMIS forms received in terms of completeness and accuracy of information 
+
+c. Encode PhilMIS forms into the PhilMIS software 
+
+d. Receive electronic dispatch ﬁles from RHU/component—CHO and Hospitals 
+
+e. Merge the received electronic dispatch ﬁles from RHUs/component- CHO and Hospitals to the encoded data 
+
+f. Validate the PhilMIS generated reports 
+
+g. Provide feedback to RHUs/component-CHO and Hospitals on data validation 
+
+h. Generate electronic dispatch ﬁle 
+
+i. Submit the validated electronic dispatch ﬁle to CHD every 10th day of the month 
+
+The Center for Health Development shall: 
+
+a. Receive PhilMIS collection ferms (MPRF, MIPRF, HIMMRF and HOMMRF) ﬁom DOH retained hospital Non—PhilMIS workstation 
+
+b. Validate the PhilMIS forms received in terms of completeness and accuracy of information 
+
+c. Encode PhilMIS forms into the PhilMIS software 
+
+d. Receive report dispatch ﬁles ﬁom PHOs, Chartered-CHO and Hospitals 
+
+e. Merge the received report dispatch ﬁles from PHOs, Chartered-CHO and Hospitals to the encoded data
+
+f. Validate the PhilMIS generated reports 
+
+g. Provide feedback to PHOs, Chartered-CHO and hospitals on data validation 
+
+h. Generate electronic dispatch ﬁle 
+
+i. Submit the electronic dispatch ﬁle to NBC at email address- doh_philmis@yahoo.com every 12th day of the month 
+
+The National Epidemiology Center shall: 
+
+a. Receive electronic dispatch ﬁle from CHDS 
+
+b. Validate the database received 
+
+c. Analyze the PhilMIS data 
+
+d. Provide feedback to CHD on data validation 
+
+e. Provide semi—annual/annual (quarterly reports upon request) malaria reports to the Malaria Program 
+
+The Infectious Disease Ofﬁce shall: 
+
+a. Receive malaria reports from National Epidemiology Center 
+
+b. Utilize the Malaria Reports 
+
+c. Provide Malaria Information to stakeholders and partners 
+
+2. Active Case Detection: 
+
+Reporting level: 
+
+RHU/Component-City Health Ofﬁce shall: 
+
+a. Facilitate ACD/MBS activity 
+
+b. Fills out the ACD/MBS form 
+
+c. Perform (microscopy/ RDT) test 
+
+d. Updates the ACD/MBS form 
+
+e. Review the forms for completeness and accuracy of information 
+
+
+RHU/ Component— City Health Office workstations shall: 
+
+a. Encodes ACD/ MBS forms 
+
+b. Validates the PhilMIS generated reports 
+
+c. Generates electronic dispatch ﬁle 
+
+d. Send" electronic. dispatch File to PHO every 8th day of the month 
+
+RHU/ Component- City Health Office noneworkstations shall: 
+
+a. Submit ACD/ MBS forms to PHO every 8th day of the month 
+
+Chartered-City Health Ofﬁce shall: 
+
+a. Facilitate ACD/MBS activity 
+
+b. Fills out the ACDIMBS form 
+
+c. Perform {microscopy} RDT) test 
+
+d. Updates the ACD/MBS form 
+
+e. Review the forms for completeness and accuracy of information 
+
+f. Encode ACD/ MBS forms 
+
+g. Validate the PhilMIS generated reports 
+
+h. Generate electronic dispatch ﬁle 
+
+i. Send electronic dispatch File to CHD every 10th til day of the month 
+
+The Provincial Health Ofﬁce shall: 
+
+a. Receive ACD/ MBS forms from Non— werkstation RHUs 
+
+b. Check the completeness and accuracy of the information 
+
+c. Encode the ACD/MBS information into the PhilMIS software 
+
+d. Validate the PhilMIS generated reports 
+
+e. Provide feedback to the RHUs 
+
+f. Generate electronic diSpatch ﬁle 
+
+g. Send electronic dispatch ﬁle to CHD every 10“h day of the month 
+
+3. Indoor Residual Spraying Reporting level: 
+
+RHU/Component—City Health Ofﬁce shall: 
+
+a. Facilitate Indoor Residual Spraying 
+
+b. Fill up the IRS" forms 
+
+c. Fill up the IRSS forms 
+
+d. Review the forms for completeness and accuracy of the information 
+
+RHU/ Component- City Health Ofﬁce workstations shall: 
+
+a. Encode the IRSS forms into the PhilMIS Software 
+
+b. Validate the PhilMIS generated reports 
+
+c. Generate electronic dispatch ﬁle 
+
+d. Send electronic dispatch File to PHO every 8th day of the month 
+
+RHU/ Component- City Health Ofﬁce non-workstations shall: 
+
+a. Submit IRSFF to PHO every 8th day of the month 
+
+Chartered-City Health Office shall: 
+
+a. Facilitate Indoor Residual Spraying 
+
+b. Fill out the IRSF 
+
+c. Fill out IRSSF 
+
+d. Review the forms for completeness and accuracy of information
+
+e. Encode IRSSF 
+
+f. Validate the PhilMIS generated reports 
+
+g. Verify information 
+
+h. Generate electronic dispatch ﬁle 
+
+i. Send electronic dispatch File to CHD every 10111 day of the month 
+
+Provincial Health Ofﬁce shall: 
+
+a. Receive IRSSF from non-workstationRHUs 
+
+b. Check the completeness and accuracy of the information 
+
+c. Encode the IRSF forms into the PhilMIS software 
+
+d. Validate the PhilMIS generated reports 
+
+e. Provide feedback to the RHUs 
+
+f. Generate electronic dispatch ﬁle 
+
+g. Send electronic dispatch File to CHD every 10'11 day of the month 
+
+4. Bednet Distribution 
+Reporting level: 
+
+RHU/Component—City Health Ofﬁce shall: 
+
+a. Facilitate bednet distribution 
+
+b. Fill Up the MND forms 
+
+c. Fill up the MNDS forms 
+
+d. Review the forms for completeness and accuracy of the information 
+
+RHU/ Component—City Health Office workstations shall: 
+
+a. Encode the MNDS forms into the PhilMIS software 
+
+b. Validate the PhilMIS generated reports 
+
+c Generate electronic dispatch ﬁle 
+
+d. Send electronic dispatch File to PHO every 8th day of the month 
+
+RHU/ Component- City Health Ofﬁce non-workstations shall: 3. Submit MNDSF to PHO every 8th day of the month 
+
+Chartered-City Health Office shall: 
+
+a. Facilitate bednet distribution 
+
+b. Fill out the MND forms 
+
+c. Fill up the MNDS forms 
+
+d. Validate* the PhilMIS generated reports 
+
+e. Verify information 
+
+f. Generate electronic dispatch ﬁle 
+
+g. Send electronic Dispatch File to CHD every 10th day of the month 
+
+Provincial Health Ofﬁce shall: 
+
+a. Receive MNDS forms from non—workstation RHUs 
+
+b. Check the completeness and accuracy "of the information 
+
+c. Encode the MNDS forms into the PhilMIS software 
+
+d. Validate the PhilMIS generated reports 
+
+e. Provide feedback to the RHUs 
+
+f. Generate electronic dispatch ﬁle 
+
+g. Send electronic dispatch File to CHD every 10th day of the month 
+
+
+
+VII. ROLES and RESPONSIBILITIES: 
+
+1. INFECTIOUS DISEASE OFFICE ([00) OF THE DEPARTMENT OF HEALTH shall: 
+
+1 Allocate budget for the continuation of the operations of PhilMIS. 
+
+2. Provide an oversight role over the implementation of the modified PhilMIS. 
+
+3. Utilize the data obtained from the PhilMIS for national planning and policy development within the context of the Malaria Control Program. 
+
+2. NATIONAL EPIDEMIOLOGY CENTER (NEC) OF THE DEPARTMENT OF HEALTH shall: 
+
+1. Facilitate the institutionalization of modified PhilMIS as the national reporting system for malaria. 
+
+2. Act as national repository of the modified PhilMIS database and source code of the software. 
+
+3. Conduct a monitoring and evaluation on the modiﬁed PhilMIS 
+
+3. CENTER FOR HEALTH DEVELOPMENT OF THE DEPARTMENT OF HEALTH shall: 
+
+1. Provide an oversight role of the implementation on modiﬁed PhilMIS at the provincial, chartered city, municipal/city and hospital level. 
+
+2. Designate a PhilMIS point person (including FHSIS encoder) to take charge of data entry and report generation. 
+
+3. Allocate budget for the monitoring and evaluation on the implementation of the modiﬁed PhilMIS. 
+
+4. Utilize the data obtained from the PhilMIS for regional malaria planning, monitoring and evaluation. 
+
+
+4. LOCAL GOVERNMENT UNITS shall: 
+
+1. Allocate budget for the continuation of the operations of PhilMIS. 
+
+2. Designate a PhilMIS point person (including FHSIS encoder) to take charge of data entry and report generation. 
+
+3. Hold the custody and safekeeping of the computers and the forms. 
+
+VIII. REPEALING CLAUSE: 
+
+Provisions from Memorandum of Agreement (MOA) between DOH, WHO, TDFI and 26 Provincial Governments dated August 9,2007; MOA between DOH, NEC, WHO, TDFI, PSFI and the Provincial Government of Sulu dated June 6, 2008 regarding the installation of of a responsive malaria information system; development/enhancement of the PhilMIS and its implementation in the RBM areas, and in the 26 malaria endemic provinces, inconsistent or contrary with the provisions of this Administrative Order are hereby revised, modiﬁed and rescinded accordingly. All other provisions of existing issuances which are not affected by this Administrative Order shall remain valid and in effect. 
+
+IX. EFFECTIVITY: This shall take effect immediately. 6%» 
+
+</body>
+
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+ 
+
+
+<image>figure_2.png</image>
+<image>figure_3.png</image>
+<image>figure_4.png</image>
+<image>figure_5.png</image>
+<image>figure_6.png</image>
+<image>figure_7.png</image>
+<image>figure_8.png</image>
+<image>figure_9.png</image>
+<image>figure_10.png</image>
+<image>figure_11.png</image>
+<image>figure_12.png</image>
+
+
+
+ 
+
+ 
+
+ 
+
+

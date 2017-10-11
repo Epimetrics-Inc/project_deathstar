@@ -1,0 +1,678 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+<date>10/30/2014</date>
+<doctype>ADMINISTRATIVE ORDER</doctype> 
+<docnum>No. 2014 - 0043 </docnum>
+<subject>Subject: Guidelines on the Estimation of Unmet Need for Modern Family Planning 
+</subject>
+<body>
+ 
+I. BACKGROUND 
+
+Section 8.02 of the Implementing Rules and Regulation of RA 10354, otherwise known as “The Responsible Parenthood and Reproductive Health Act of 2012,” mandates DOH to develop a methodology to determine the number of women with unmet need for modern family planning, among others. Unmet need shall be used in identifying and prioritizing interventions to address gaps in accessing family planning services. Together with the estimated number of current users, it will be one of the bases in forecasting FP commodity requirements. 
+
+These guidelines shall provide the steps in determining current levels and projections of number of women with unmet need for modern family planning, which would be the basis of allocations for budget and FF supplies pursuant to the above-cited provision of the IRR. 
+
+II. OBJECTIVES 
+
+This Order shall provide the guidelines for estimating unmet need for modern FP which will be used for planning by the DOH and LGUs. 
+
+III. SCOPE AND COVERAGE 
+
+This Order shall apply to the DOH Central Ofﬁce Units, DOH Regional Ofﬁces (DOHROs), local government units (LGUs) including ARMM, and the private sector. 
+
+IV. DEFINITION OF TERMS 
+
+A. Modern Contraceptive Prevalence Rate (mCPR) shall refer to the proportion of women from 15-49 years old who are currently using (or whose partner is using) any modern method of contraception or family planning, which includes: the pill; female and male sterilization; IUD; injectables; implants; condom; and, natural FP methods such as cervical mucus, basal body temperature method (BBT), symptothermal method, standard days method (SDM) and lactational amenorrhea method (LAM). The formula for computing mCPR is as follows: 
+
+mCPR = (Current Users of Modern FP / WRA) X 100% 
+
+B. Unmet Need for Modern Family Flaming shall refer to the proportion of women who are fertile and sexually active but are not using any modern method of contraception, and report not wanting any more children or wanting to delay the birth of their next child. It is computed as follows: 
+
+Unmet Need Rate = (Number of Women with Unmet Need for Modern FP / WRA) x 100% 
+
+C. Eligible population shall refer to the segment of the population that require a certain type of service. In family planning, this is the segment of the population who are eligible to practice contraception or women of reproductive age (WRA). 
+
+D. Women of Reproductive Age (WRA) shall refer to women aged 15-49 years old, which include those who are (1) currently using any modern FP method, (2) with unmet need for modern FP, (3) want to get pregnant within two years or want their current pregnancy, (4) sexually inactive and (5) not fertile. 
+
+V. GENERAL GUIDELINES 
+
+A. The magnitude of women with unmet need for modern family planning shall be used in identifying interventions in priority population groups or localities for RH services. 
+
+B. Proportions of unmet need for and current users of modern FP shall be based on the latest National Demographic Health Survey (NDHS). Other surveys with rider questions on FF should follow the protocol and standard questions on family planning of the NDHS. The latest household surveys particularly the Census of Population and Housing shall be the bases for estimating population. 
+
+D. The DOH, as mandated by the IRR, shall procure, distribute to LGUs and monitor the usage of family planning supplies for the whole country. However, it shall prioritize the poor as identiﬁed by the National Housing Targeting System for Poverty Reduction (NHTS-PR) or other government procedures of identifying the marginalized. It will secure resource and budgetary requirements of NHTS-PR households taking into consideration resources from national government and partners or donors. 
+
+D. DOH shall procure commodities based on approved FP Program Methods and drugs and devices included in the Philippine National Drug Formulary (PNDF). 
+
+E. Distribution of FF commodities and supplies to service delivery points, Provincial Health Ofﬁces and DOH Regional Ofﬁces shall be based on projected utilization rate per quarter. 
+
+VI. SPECIFIC GUIDELINES 
+
+A. Estimating the number of women with unmet need for modern family planning shall follow these steps (See Annex A for sample computations): 
+
+1. Estimate population for a particular year using the latest projections from the Philippine Statistics Authority or by multiplying the population estimate with the average growth rate. The estimated population and corresponding growth rates per region, province or municipality shall be based on the latest Census of Population and Housing. For NHTS-PR poor households, use the roster to get the actual number and age of members in a household. 
+
+2. Compute for the number of WRA by multiplying total population with the proportion of WRA in the population. Regional proportions from the latest Census of Population and Housing shall be used to estimate number of WRA for provinces. 
+
+For NHTS—PR for poor households, use the actual number of WRA by getting the sum of women 15-49 years old from the roster. 
+
+3. Estimate the number of women with unmet need for modern family planning by multiplying the proportion of women with unmet need from the latest NDHS by the estimated number of WRA. Regional proportions of unmet need shall be used to estimate number of WRA with unmet need for provinces. 
+
+Since the number of women with unmet need for modern family planning cannot be extracted from NHTS-PR, multiply the number of WRA with the proportion of women with unmet need. 
+
+In areas where at least 90% of NHTS—PR poor households have been visited by community volunteers such as CHTs, the actual number of women with unmet need shall be determined from reports such as health use plans. 
+
+4. Estimate the number of women who are current users of modern family planning by multiplying the proportion of women who are current users of modern FP methods from the latest NDHS by the estimated WRA. Regional proportions of current users shall be used to estimate number of WRA who are current users for provinces. 
+
+Since the number of women who are current users of modern family planning cannot be extracted from NHTS-PR, multiply the number of WRA with the proportion of current users of modern FP. 
+
+In areas where at least 90% of NHTS-PR poor households have been visited by community volunteers such as CHTs, the actual number of current users shall be determined from reports such as health use plans. 
+
+B. Forecast commodity requirements for current users as well as for women with unmet need for modern family planning methods for the total population and for WRA from NHTS-PR households. The following steps shall be used in forecasting commodity requirements: 
+
+1. Determine ideal method mix by:
+
+a.Distributing WRA with unmet need for modern FP across the different FP methods such as pills — combined oral contraceptives (COC) and progestin only contraceptives (POC), injectables, male condoms, IUD, subdermal implants, BTL, NSV and natural FP — basal body temperature method, cervical mucus method, symptotherrnal method, standard days method (SDM), lactation amenorrhea method (LAM). Preferences in a province, region or country may be based on data gathered by community health volunteers or community-level providers.
+
+
+b.Distribute WRA who are current users of a modern FP method based on latest method mix derived from administrative data or those gathered by community health volunteers or from the NDHS. To support shifters, redistribute proportion of current users, except for BTL and NSV, across methods towards permanent or more effective methods. 
+
+c.Get average proportion for each method from those with unmet need and current users of modern FP. 
+
+2. Multiply the average proportion for each method by the total number of WRA with unmet need and current users to estimate the number users per FP method. BTL and NSV are not included in commodity forecasting but the estimated number of users would indicate requirements for training of health providers, infrastructure and equipment, as well as outreach services needed. 
+
+3. Compute for total number of units required for each method by multiplying the estimated number of users with the number of units required to protect a woman or couple from getting pregnant in one year. Note that the estimated number of units needed in one year has taken into consideration possible wastage during delivery, storage, distribution and dispensing. The following are the required number of units per year: pills — 15, injectables — 5, IUD - 3, subdermal implants — 3, condoms — 144, and NFP — 1. 
+
+4. Compute for total cost of FP commodities by multiplying unit cost of each commodity with the total number of units required. Unit cost can be based on the prevailing market price or procurement cost of the DOH. 
+
+VII. ROLES AND RESPONSIBILITIES 
+
+A. Women and Men’s Health Development Division (formerly Family Health Ofﬁce) shall: 
+
+ 
+
+1. Estimate the total number of WRA with unmet need and current users of modern FP from the projected population and the NHTS—PR poor households 
+
+2. Estimate commodity and budgetary requirements for NHTS-PR poor households and total population and allocate budgetary ceilings for commodities per region, province/city and municipality 
+
+3. Review and update guidelines in estimating unmet need and current users, forecasting FP commodity requirements taking into consideration new technologies on family planning, parameters for planning, national priorities, unit cost per commodity, among others 
+
+4. Procure and allocate FP commodities to all Local Government Units, service delivery points (hospitals, RHUs, CHOs) 
+
+5. Inform DOH RO and LGUs of allocation to allow LGUs to plan for additional FP commodities needed in localities 
+
+B. Epidemiology Bureau (formerly National Epidemiology Center) 
+
+ 
+
+1. Determine and update parameters using latest data and inform DOH and LGUs on proportions needed to estimate unmet need and current users such as projected population, number of NHTS-PR poor households, unmet need, current users; and other parameters to forecast commodity requirements using the latest household surveys such as Census of Population and Housing, NDHS, among others 
+
+2. Revise or amend the Manual of Operations of the Field Health Services Information System (FHSIS), as needed, in compliance with this order 
+
+3. Coordinate with the PSA to ensure that necessary parameters to estimate unmet need and current users of modern family planning are available and consistent with this Order. 
+
+C. Health Policy Development and Planning Bureau (HPDPB) shall: 
+
+
+1. Review and incorporate methodology in estimating unmet need for modern FP into planning and budget guidelines or protocol 
+
+2. Validate, form and justify budget requirements 
+
+D. DOH Regional Ofﬁces shall: 
+
+1. Determine/estimate unmet need and current users for modern family planning as well as method mix per province and/or municipality in the region and use information to prioritize population groups, identify appropriate interventions to address gaps, allocate resources needed and monitor progress 
+
+2. Provide technical assistance to LGUs in estimating unmet need, forecasting commodity requirements and monitoring utilization 
+
+3. Consolidate progress in addressing gaps by monitoring the following: number of unmet need coming from reports of community health volunteers, current users coming from facility census, available FP services in facilities in the service delivery network 
+
+4. Report difference between ceiling and actual use of PP commodities of LGUs. 
+
+5. Monitor deliveries and usage of FP commodities. 
+
+E. LGUs shall: 
+
+1. Determine/estimate unmet need and current users for modern family planning per municipality in the province and use information to prioritize population groups, identify appropriate interventions to address gaps, allocate resources and monitor progress 
+
+2. Ensure availability of human resources, infrastructure and equipment, information materials to support implementation of interventions to address unmet need and maintain current users of modern family planning methods 
+
+3. Procure FP commodities particularly for those that cannot be covered by supplies coming from the DOH 
+
+4. Monitor the following to assess progress: number of number need coming ﬁom reports of community health volunteers, current users coming from facility census, available FP services in facilities in the service delivery network 
+
+F. Partners shall: 
+
+1. Assist DOH ROs and LGUs in identifying and implementing interventions to address unmet need and maintain current users for modern family planning 
+
+2. Coordinate donations of PP commodities with the DOH R0 and LGUs concerned 
+
+VIII. REPEALING CLAUSE 
+
+Provisions from previous issuances that are inconsistent or contrary to the provisions of this Order are hereby rescinded and/or modiﬁed accordingly. 
+
+IX. SEPARABILITY CLAUSE 
+
+In the event that any provision or part of this Order be declared unauthorized or rendered invalid by any court of law or competent authority, those provisions not affected by such declaration shall remain valid and effective. 
+
+X. EFFECTIVITY 
+
+This Administrative Order shall take effect after ﬁfteen (15) working days following its publication in a newspaper of national circulation and upon submission to the University of the Philippines Law Center. 
+
+</body>
+ <sign>ENRIQUE T. ONA, MD</sign>
+<signtitle>Secretary of Health</signtitle>
+ 
+Annex A: Sample Computations 
+
+
+Following is a sample computation to estimate the number of women with unmet need and forecast FP commodity requirements. Note that proportions are based from the 2008 NDHS. It translates instructions in this issuance to formula. DOH will issue updated proportions based on the latest 2013 NDHS. 
+
+A. Estimating the number of women with unmet need for modern family planning 
+
+1. Estimate population for a particular year using projections from the Philippine Statistics Ofﬁce (PSA). If the projected estimates are not available, multiply the population based on the latest Census of Population and Housing by the growth rate. The following formula can be used: 
+
+Estimated Population y+1= PopulationY + (Populationy * Annual Growth Rate) 
+
+Estimated Population y+2 = Population y+1  + (Population y+1 * Annual Growth Rate) 
+
+
+Total population based on 2010 Census of Population and Housing = 92,097,978 National Annual growth rate = 1.90% 
+
+Estimated population 2011 = Population 2010 + (Population y * Annual Growth Rate) = 92,097,978 + (92,097,978 * 1.90%) = 93,847,840 Estimated population 2012 = Population 2011 + (Population 2011 * Annual Growth Rate) = 93,847,840 + (= 93,847,840 * 1.90%) = 95,630,949 
+
+Following the same process, estimated population for Year 2015 =101,186,137 
+
+Note: T his formula will give the same results: Populationy * (1 +Growth Rate)^Yn- Y) 
+
+The latest NHTS-PR roster will be the basis in estimating the population of the poor. The roster will provide the actual number and age of members in a household. 
+
+NHTS-PR Households = 5,255,094 
+
+NHTS-PR Population = 29,842,300 
+
+2. Compute for the number of WRA by multiplying total population with the proportion of WRA in the population. 
+
+Based on the 2010 CPH, approximately 25.91% of the population are WRA. 
+
+WRA2015 = Population2015 * WRA in Population 
+= 101,186,137 * 25.91% 
+= 26,217,328 
+
+The NHTS-PR roster can the give actual number of WRA. Based on the latest NHTS-PR, there are 7,187,045 WRA. 
+
+3. Estimate the number of women with unmet need for modern family planning by multiplying the proportion of women with unmet need by the estimated WRA. 
+
+Based on the 2013 NDHS, approximately 22.5% of WRA have unmet need for modern FP. 
+
+Unmet Need2015 = WRA2015 * Proportion of WRA with Unmet Need for modern FP = 26,217,328 * 22.5% = 5,898,899 WRA 
+
+Unmet NeedNHTs = WRA NHTS * 22.5% = 7,187,045 * 22.5% = 1,617,085 WRA 
+
+4. Estimate the number of women who are current users of modern family planning by multiplying the proportion of women who are current users of modern FP methods. Based on the 2013 NDHS, approximately 23.5% of WRA are current users of modern FP. 
+
+Current Users2015 = WRA2015 * Proportion of WRA who are current users of modern FP 
+=26,217,328 * 23.5% 
+= 6,161,072 
+
+Current UsersNHTs = WRANHTS * Proportion of WRA who are current users of modern FP = 7,187,045 * 23.5% = 1,688,956 
+
+
+ <image>table_1.png</image>
+
+
+B. Forecast commodity requirements using the estimated number of women with unmet need and current users of modern family planning methods for the total population and for WRA from NHTS-PR households. 
+
+1. Determine method mix 
+
+a. Determine ideal method mix for those with unmet need for modern FP. This can be based from the data gathered by community health volunteers, other administrative data or most ideal for province, region or country. 
+
+b. Get the method mix of those currently using a modern FP method. This data may come administrative information gathered by health facilities or from the latest NDHS. The sample below shows the method mix from the 2013 NDHS. 
+
+c. Current users can be inﬂuenced towards more effective or permanent methods. Determine also the ideal method mix for current users. 
+
+d. Get the average use rates for each method by adding use rate for one method for those with unmet need and for current users and dividing the sum by two.
+
+ Use rateMethod = USC rateUnmet Need + Use rateCurrent Users) / 2 
+
+USC ratePills = (USC rateUnmet Need + Use rateCurrent Users) / 2 
+
+= (32.0% + 30.0%) / 2 = 31.0% 
+
+
+ <image>table_2.png</image>
+
+
+2. Distribute WRA with unmet need and current users to the different FP methods FP eligible population = Unmet Need + Current Users 
+
+Number of potential usersMethod = FP Eligible Population * Use RateMethod 
+
+Number of potential usersPills’Total population = 12,339,604 * 31.0% = 3,825,277 
+
+Number of potential userstssNHTs = 3,382,942 *31.0% = 1,048,712 
+
+ 
+ <image>table_3.png</image>
+ 
+ 
+
+3. Compute for total number of units required for each method by multiplying the estimated number of users with the number of units required to protect a woman or couple from getting pregnant in one year. 
+
+Total Number of UnitsMethod = Number of Units Needed in One Year to Protect a Woman/Couple from Getting Pregnant for the method * Potential Users for the Method 
+
+Total Number of Units pills, Total population = 15 cycles * 3,825,277 = 57,379,157 cycles 
+
+Total Number of Units pills, NHTS = 15 cycles * 1,048,712 = 15,730,681 cycles 
+
+  <image>table_4.png</image>
+
+
+4. Compute for total cost of FP commodities by multiplying unit cost of each commodity with the total number of units required. 
+
+Cost of CommoditiesMethod = Unit CostMethod * Total Number of Units Method 
+
+Cost of Commodities, Total population = Php 15 * 57,379,157 = Php 1,434,478,918 
+
+Cost of Commoditiesms, NHTS = Php 15 * 15,730,681 = Php 393,267,017 
+
+ 
+
+ 
+
+  <image>table_5.png</image>
+ <image>table_6.png</image>
+  <image>table_7.png</image>
+   <image>table_8.png</image>
+  <image>table_9.png</image>
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Cost of Unit cost Commodities Cogﬁggifﬁes (Php) ($2211.88 (Pm—NHTS j k = j * h l = j * i Pills 25 1,401,971,618 384,327,231 Injectables 80 651,238,429 178,526,198 Condoms 5 390,743,057 107,115,719 Subdermal Implants 300 1,628,096,072 446,315,495 IUD 120 553,552,665 151,747,268 BTL NSV Natural FP Basal Body Temperature 50 602,999 165 ,3 02 Cervical Mucus 5 60,3 00 16,53 0 Symptothermal 55 663 ,298 181,832 SDM 100 1,205,997 330,604 LAM Total (Php) 4,628,134,435 1,268,726,179 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annex B: Population, Growth Rate and Proportion of WRA, Current Users and Unmet Need for Modern Family Planning in the Population 
+
+ 
+
+Table l .' Population, Growth Rate and Proportion of WRA in the Population, 2010 CPH 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2010 Census of 2000-2010 % of WRA in Data Source chpgillest’glpggpd Growth Rate the populat10n (CPH) 2010 CPH 2010 CPH Philippines 92,097,978 1.90 25.91 % CAR 1,611,669 26.28% Abra 234,000 1.14 26.28% Apayao 112,523 1.49 26.28% Benguet 718,929 2.18 26.28% Ifugao 190,948 1.69 26.28% Kalinga 201,206 1.48 26.28% Mountain province 154,063 0.92 26.28% 1. Ilocos Region 4,743,067 25.17% Ilocos Norte 567,006 1.00 25.17% Ilocos Sur 657,902 1.03 25.17% La Union 740,710 1.21 25.17% Pangasinan 2,777,449 1.34 25.17% 2. Cagayan Valley 3,225,761 25.65% Batanes 16,530 0.08 25.65% Cagayan 1,123,570 ‘ 1.25 25.65% Isabela 1,488,518 1.47 25.65% Nueva Vizcaya 420,676 1.39 25.65% Quirino 176,467 1.75 25.65% 3. Central Luzon 10,118,478 263% Aurora 200,799 1.48 26.38% Bataan 685,167 2.11 26.38% Bulacan 2,919,370 2.73 26.38% Nueva Ecija 1,953,716 1.65 26.38% Pampanga 2,334,729 2.20 26.3 8% Tarlac 1,271,743 1.77 26.3 8% Zambales 752,954 1.87 26.3 8% NCR 11,796,873 ”-52% Manila 1,642,743 0.44 29.52% Mandaluyong 323,372 1.67 29.52% Marikina 424,150 0.81 29.52% San Juan 120,898 0.31 29.52% Navotas 248,831 0.78 29.52% Las Pinas 551,886 1.57 29.52% Makati 526,952 1.16 29.52% Paranaque 586,322 2.72 29.52% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Source 2010 Census of 2000—2010 % of WRA in Populatlon and Growth Rate the populat10n Muntinlupa 43 8,843 1.95 29.52% Pateros 64,020 1.12 29.52% Quezon City 2,751,579 2.42 29.52% Pasay 391,456 1.02 29.52% Valenzuela 574,840 1.71 29.52% Malabon 352,890 0.42 29.52% Caloocan 1,487,245 2.37 29.52% Pasig 668,569 2.86 29.52% Taguig 642,277 3.27 29.52% 4A. Calabarzon 12,583,009 27.17% Batangas 2,3 74,327 2.24 27.17% Cavite 3,078,727 4.12 27.17% Laguna 2,665,732 3.11 27.17% Quezon 1,983,257 1.70 27.17% Rizal 2,480,966 3.82 27. 17% 4B. MIMAROPA 2,731,928 23.81% Marinduque 227,582 0.47 23.81% Occidental Mindoro 450,779 1.77 23.81% Oriental Mindoro 784,375 1.43 23.81% Palawan 985,710 2.79 23.81% Romblon 283,482 0.72 23 .81% 5. Bicol Region 5,411,521 ' 22.95% Albay 1,231,607 1.24 22.95% Camarines Norte 542,315 1.44 22.95% Camarines Sur 1,818,699 1.62 22.95% Catanduanes 245,574 1.35 22.95% Masbate 833,638 1.66 22.95% Sorsogon 739,688 1.31 22.95% 6. Western Visayas 7,089,739 24.69% Aklan 533,573 1.73 24.69% Antique 545,204 1.45 24.69% Capiz 718,961 0.96 24.69% Guimaras 162,734 1.42 24.69% Iloilo 2,225,686 1.48 24.69% Negros Occidental 2,903,581 1.26 24.69% 7. Central Visayas 6,784,538 25.36% Bohol 1,252,793 0.97 25.36% Cebu 4,156,419 2.19 25.36% Negros Oriental 1,284,351 1.31 25.36% Siquijor 90,975 1.10 25.36% 8. Eastern Visayas 4,089,734 22.80% Biliran 161,250 1.44 22.80% Eastern Samar 427,974 1.33 22.80% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Data Source 2010 Census of 2000-2010 % of WRA. in Populat1on and Growth Rate the populat10n Leyte 1,782,678 1.17 22.80% Northern Samar 587,586 1.64 22.80% Samar (Western) 731,669 1.35 22.80% Southern Leyte 398,577 1.03 22.80% 9. Zamboanga Peninsula 3,397,838 24.87% Isabela City 97,690 2.97 24.87% Zamboanga del Norte 955,668 1.53 24.87% Zamboanga del Sur 1,760,781 2.08 24.87% Zamboanga Sibugay 583,699 1.63 24.87% 10. Northern Mindanao 4,284,594 25.08% Bukidnon 1,294,877 2.05 25.08% Camiguin 83,676 1.22 25.08% Lanao del Norte 928,272 2.07 25.08% Misamis Occidental 566,340 1.55 25.08% Misamis Oriental 1,411,429 2.32 25.08% 11. Davao Peninsula 4,452,549 25.73% Compostella Valley 686,704 1.71 25.73% Davao del Norte 937,785 2.43 25.73% Davao del Sur 2,311,585 1.98 25.73% Davao Oriental 516,475 1.50 25 73% 12. SOCCSKSARGEN 4,103,105 25.81% Cotabato (North) 1,224,279 2.49 25.81% Cotabato City 271,609 5.19 25.81% Sarangani 498,459 1.97 25.81% South Cotabato 1,362,382 2.16 25.81% Sultan Kudarat 746,376 2.45 25 .81% ARMM 3,248,787 25.53% Basilan 293,204 1.22 25.53% Lanao del Sur 928,384 1.55 25.53% Maguindanao 943 ,486 1.66 25 .53% Sulu 718,277 1.49 25.53% Tawi-Tawi 365,436 1.29 25.53% CARAGA 2,424,788 24.08% Agusan del Norte 640,789 1.51 24.08% Agusan del Sur 655,331 1.61 24.08% Surigao del Norte 441,829 1.69 24.08% Surigao del Sur 560,140 1.13 24.08% Dinagat Islands 126,699 1.72 24.08% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table 2: Regional Proportions of Current Users and Unmet Need for Modern FP Method, 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2013 NDHS. Pro ortion of Proportion Of PROVINCE/ Curibnt Users ggflﬁggee: INDEPENDENT CITY of Modern FP among WRA FP among 
+
+WRA Philippines 23 .5% 22. 5% CAR 26.8% 1 8.8% 1. Ilocos Region 25.2% 24.1% 2. Cagayan Valley 35.5% 16.6% 3. Central Luzon 28.5% 19.0% NCR 22.1% 19.4% 4A. Calabarzon 21.9% 22.8% 4B. MIMAROPA 27.4% 22.9% 5. Bicol Region 14.1% 33.4% 6. Western Visayas 22.4% 27.5% 7. Central Visayas 21.6% 26.3% 8. Eastern Visayas 24.4% 25.5% 9. Zamboanga Peninsula 21.4% 19.4% 10. Northern Mindanao 23.9% 22.2% 11. Davao Peninsula 25.9% 20.7% 12. SOCCSKSARGEN 28.7% 19.2% ARMM 9.9% 22.9% CARAGA 26.8% 21 .4% 
+
+ 
+
+ 
+
+ 
+

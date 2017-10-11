@@ -1,0 +1,93 @@
+Department of Health
+FOURmula ONE ASSESSMENT TOOL
+For Consumer Participation
+
+<date> </date>
+<doctype> </doctype>
+<docnum> </docnum>
+<subject> </subject>
+
+<body>
+PURPOSE OF THIS TOOL This Tool is designed to assess the implementation of FOURmula ONE consumer participation strategies that are effective in Local Health Systems (Province, Municipality, or Inter-Local Health Zone/ILHZ). These consumer participation strategies are: 1) consumer feedback mechanisms and 2) increasing purchasing power of the poor, both at the Individual Health Care Level; 3) provision of information about health services and providers, and 4) involvement as co-producers and co-financing agent, both at the Health Service Delivery Level; and 5) involving consumers in policy, planning, implementation, monitoring and evaluation, at the Health System Level.
+
+ORGANIZATION OF THIS TOOL This Tool consists of:
+
+a) Identifying Information, which describes the profile of the facility being assessed, its respondents, the date of assessment and the evaluators;
+
+b) How to Fill-up the Tool, which provides a guide on how to accomplish the Tool;
+
+c) Tool proper, which is organized as follows:
+
+• The first column in the tool proper represents the item number of the strategy.
+• The second column states the strategy with its corresponding indicators.
+• The third and fourth columns are for the answers "YES" and "NO," respectively. These columns indicate whether the particular indicator is present/met by the health facility/office/health system, and;
+• The guide questions for eliciting comments on the consumer participation strategies
+
+d) Analysis of Data, which provides for the processing and interpretation of responses generated in the assessment.
+
+HOW TO USE THIS TOOL The use of this Tool for assessing the implementation of effective consumer participation strategies is initially intended for the public sector component of local health systems at the level of the municipality, or ILHZ, or province. Each municipality shall undertake the assessment of its public health facilities like rural health units/health centers, municipal health board, etc. ILHZs or province-wide health systems, on the other hand, shall consolidate the assessment done on its component municipalities. The two options that can be used to generate the information needed in this Tool are: 1) conduct of focus group discussion with the participation of key informants; and 2) interview of individual key informants. The same process can be done in assessing consumer participation implementation at the level of the ILHZ/province.
+
+Verification of the responses provided by the key informants may be done as needed through observation, documents review, and/or probing. Most recent documents should be reviewed, preferably, within the last 12 months.
+
+RESPONDENTS OF THIS TOOL Key informants who can provide appropriate responses to this Tool shall be identified at the provincial and municipal levels. In general, key informants may be selected on the basis of the relevance of their position or function in the health service delivery system, and on their knowledge of the desired information. Relevant key informants at each level may include (but not be limited to) the following:
+
+Provincial level: Provincial Health Officer, Provincial Social Welfare & Development Officer, Provincial Health Team Leader, Provincial Health Board Members (NGOs, private sector representatives, POs, individual consumers and consumer groups and, Sangguniang Panlalawigan for Health, Provincial/District Hospitals Chief, Administrative Officer and Chief Nurse
+
+ILHZ level: ILHZ Board Chairperson, members of the ILHZ Board, and ILHZ office staff Municipal Level: Municipal Health Officer, Public Health Nurse, Municipal Social Welfare & Development Officer, Municipal Local Health Board Members (NGOs, private sector representatives, POs, individual consumers and consumer groups, Municipal DOH Representatives, and the Sangguniang Pambayan for Health.
+
+USERS OF THIS TOOL This Assessment Tool can be used primarily at the provincial, ILHZ and municipal levels as a SELF-assessment tool. The Centers for Health Development (CHDs) and Central Office shall also use this Tool to assess the implementation of consumer participation strategies, and to create and update database on consumer participation in local health systems. Specifically, the following staff/personnel may constitute the Assessment Team who shall utilize the Tool to assess particular health facilities/offices: concerned staff of the CHD to assess the Integrated Provincial Health Office, the Provincial Health Team Leader (PHTL) to assess the Provincial and District Hospitals, and ILHZ offices, and the Municipal DOH Representatives to assess RHUs/HCs and other public health facilities at the municipal level. Members of the Assessment Team who have certain familiarity with the health facility/office being assessed are highly advised to refrain from providing their own responses to the Tool while conducting actual assessment in order to maintain objectivity in the process of conducting the assessment.
+
+FREQUENCY OF ASSESSMENT. It is recommended that assessment of the implementation of consumer participation strategies shall be conducted on a biennial basis to allow changes and improvements to be observable. However, an annual evaluation may be done if deemed appropriate. The timing of assessment must be scheduled so as not to intervene with the regular performance of health activities/services, e.g., assessment of RHUs/HCs may be conducted preferably in the afternoon inasmuch as consultations are usually regularly held, and load heaviest, in the morning.
+
+IDENTIFYING INFORMATION
+
+<image>figure_1.png</image>
+
+HOW TO FILL UP THE TOOL For every indicator required, either the YES or NO column should be marked with a check. If the health facility/office/health system fulfills the indicators being asked, a check mark (√) is placed by the assessor under the YES column. If it does not meet the stated indicator, a check mark (√) is then placed under the NO column.
+
+Indicate any remarks, observation and notes you deem important that are not captured by each strategy/indicator in the Comments box. Fill-in all rows completely.
+
+<image>figure_2.png</image>
+
+<image>figure_3.png</image>
+
+<image>figure_4.png</image>
+
+<image>figure_5.png</image>
+
+*GUIDE QUESTIONS FOR COMMENTS ON STRATEGIES
+The following guide questions illustrate how to elicit comments that give insights on the process of consumer participation in the local health system:
+
+A. What established strategies were easy or difficult to set up and why?
+B. What organizational capacity had to be developed to set up the strategy?
+C. What changes occurred as a result of the strategies? (e.g., Did providers or services change as a result?, Did utilization/access to services by the poor increase?, Did service quality standards have to be improved?, Did consultations for acute illness decrease? Did consumers report more satisfaction with health services? Did consumer become more cooperative?)
+
+ANALYSIS OF DATA Fourmula One seeks to improve the responsiveness of the health system by promoting the initial establishment of five basic consumer participation strategies by 2010. The strategies are open to alternative initiatives on consumer participation from local health systems. The basic set of Consumer Participation strategies, recommended in FOURmula ONE for health , seeks to start off provincial health systems into the relatively new dimension of integrating "responsiveness" and "equitable health care financing" as important goals in their health systems.
+
+This assessment of FOURmula ONE Consumer Participation strategies is focused on its process and outcomes. In process evaluation, we can have two parts. In the first part, we determine the extent to which FOURmula ONE Consumer Participation strategies have been put in place or being practiced. This is the Primary Assessment Focus for health systems. In the second part, we determine the effect and changes that have occurred as a result of these strategies, e.g., improved plans, and the organizational capacity that has been developed to undertake a participation program. This is the Advanced Assessment Focus. The local health system has the option to use only the Primary Assessment Focus for assessment of consumer participation strategies, or to include Advanced Assessment Focus subject to the maturity and capacity of its health system. In impact evaluation, on the other hand, the impact of consumer participation strategies on the achievement of FOURmula ONE goals is assessed.
+
+The object of the tool is less on numerical results, and more on instructing health systems on their performance in setting up the Basic Set of Consumer Participation Strategies desired for the reform process for the medium-term period. Indicators of strategies that are authorized and required by existing mandates, and are deemed foundational for the achievement of F1 desired outcomes in health systems (e.g., PHIC accreditation of facilities) are presented in bold font and shaded in grey. Indicators of strategies that are deemed fundamental or critical for health systems to attain its goals are presented in bold font. Indicators of strategies, which productively contribute to enhance and augment effective consumer participation are presented in regular font. Comments on the guide questions. elicited from the consumer, provider and health policymaker provide qualitative data for Primary Assessment or Advanced Assessment. These help the local health system determine the appropriate and effective consumer participation strategy that leads to attainment of health system goals.
+
+Province-wide / Interlocal health zone Assessment: The table below helps to summarize the responses in the tool proper for all public health facilities/offices in a given local health system that are assessed for effective consumer participation.
+
+<image>figure_6.png</image>
+
+1) Health facilities/offices with positive (Yes) responses to mandatory and foundational indicators (shaded and in bold font) demonstrate compliance to laws and regulations that are foundational to reforming and improving health systems in F1. Health facilities/offices with negative (No) responses to mandatory indicators should prioritise establishment of this consumer participation strategies in order to comply with regulations set and avoid hindering progress of reforms and achievement of goals in the health system.
+
+2) Health facilities/offices with positive (Yes) responses to fundamental or critical indicators (bold font) demonstrate openness of the health system in establishing effective consumer participation strategies, and the expansion of opportunities for more F1 reform strategies to succeed in achieving health system goals. Health facilities/offices with negative (No) responses to fundamental or critical indicators may need to be more oriented and assured of the relevance of consumer participation in achieving health system goals.
+
+3) Health facilities/offices with positive (Yes) responses to indicators that productively contribute to enhance and augment consumer participation (regular font) show advancement of the health system in establishing consumer participation strategies and in accelerating F1 reforms and achievement of health system goals.
+
+4) The set performance benchmark is for all health systems to establish all the five (5) FOURmula ONE effective consumer participation strategies, and all the mandatory and foundational indicators on consumer participation by 2010. Annual or biennial improvements shown in the assessment of consumer participation strategies are good signals towards the attainment of the set performance benchmark.
+
+5) Comments on each strategy, in response to Guide Question (1) provide insights on improving, modifying or changing indicator activities under each strategy. It may also reflect what activities under each strategy are appropriate under circumstances prevailing and specific to certain local health systems.
+
+6) Comments on each strategy, in response to Guide Question (2) provide insights on recommendations and technical assistance that may be given to local health systems in setting up such consumer participation strategies
+
+7) Comments on each strategy, in response to Guide Question (3) provide insights on the mix of indicator activities under each strategy that may be chosen, and that are more facilitative in generating desirable results relevant to F1 reforms for achieving goals of the health system.
+
+8) Consolidated assessment done on component municipalities of province-wide health system or interlocal health zones show the level of coordination of component health systems in achieving effective consumer participation strategies. The range of the total number of indicator activities for each strategy among component municipal health systems that are narrow or with minimal variation, are ideal and indicate effective coordination among component municipal health systems to establish effective consumer participation strategies. Outliers or municipal health systems that have extremely high or low scores must be studied further to identify strong or weak points that must be expanded or improved, respectively, in the province-wide health system or interlocal health zone.
+</body>
+
+<sign> </sign>
+<signtitle> </signtitle>

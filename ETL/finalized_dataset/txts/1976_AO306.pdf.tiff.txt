@@ -1,0 +1,668 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+Manila
+
+<date>12/09/1976</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>NO. 306 s. 1976</docnum>
+
+TO: The Technical Staff, Bureau Directors, Chiefs of Offices, Regional Health Directors, Provincial Health Officers, City Health Officers, Chiefs of Hospitals, all Employees covered under the Rules & Regulations on Dental Services implementing the Labor Code, as amended and others concerned
+
+<subject>SUBJECT: Amended Standards on Industrial Dental Services</subject>
+
+<body>
+In pursuance with the provisions of Section 1 of the Rules and Regulations on Medical and Dental Services implementing the Labor Code, as amended, and pursuant to the provisions of the Memorandum Agreement signed by the Secretary of Health and the Secretary of Labor on October 25, 1975, delineating respective responsibilities of the Department of Health and the Department of Labor relative to the development and enforcement of Standards on Industrial Dental Health Services, the standard requirements for Industrial Dental Services prescribed under Administrative Order No. 118, dated June 16, 1970 are hereby amended to read as follows:
+
+Section 1. Coverage
+Section 2. Definitions
+Section 3. Organization
+Section 4. Dental Personnel, Duties, Qualifications & Training Requirements
+Section 5. Industrial Dental Health Program
+Section 6. Clinical and Technical Procedures
+Section 7. Facilities and Dental Equipment
+Section 8. Medicines and Dental Supplies
+Section 9. Financial Requirements
+Section 10. Records and Reports
+Section 11. Registration and Accreditation
+Section 12. Supervision of Dental Services
+Section 13. Penal Provisions
+Annexes
+
+These standard requirements are hereby promulgated as official, for strict compliance by all concerned.
+
+Any provisions of previous orders inconsistent herewith are hereby amended accordingly.
+
+This Administrative Order shall take effect immediately.
+</body>
+
+<sign>CLEMENTE S. GATMAITAN, M.D., M.P.H.</sign>
+<signtitle>Secretary of Health</signtitle>
+
+<body>
+MINIMUM STANDARD REQUIREMENTS FOR INDUSTRIAL DENTAL SERVICE
+
+SEC. 1 COVERAGE
+
+The standard requirements enumerated hereunder shall apply to all employers whether operating for profit or not, including the government and any of its political subdivisions and government-owned and controlled corporations, which are required by the Labor Code to provide their employees in any locality with free dental attendance and facilities.
+
+SEC. 2 DEFINITION OF TERMS
+
+As used in this Rule the following terms shall have the meaning indicated hereunder unless the context clearly indicates otherwise:
+
+1. "Industrial Establishments" means all covered employers mentioned in Section 1 of this Standards.
+
+2. "Dental Service" means dental personnel, facilities, services and programs organized and maintained by the employer for the workers in compliance with the requirements of the Rules and Regulations implementing the Labor Code as amended.
+
+3. "Industrial Dentist" means dentist employed or engaged by the industrial establishment regardless whether he is engaged on full time, or on part time or on retainer basis.
+
+4. "Workers" means all workers employed by the industrial establishment whose services are regularly and constantly used and form as an integral part of or is connected with the employer's business even though said workers are changed from time to time.
+
+5. "Emergency Dental Case" is an injury or illness involving the teeth and the surrounding hard and soft tissues suffered by a worker during employment, under which his life is endangered and/or his working efficiency is impaired, irrespective of whether or not such injury or illness is work connected.
+
+6. "Emergency Medical & Dental Treatment" means adequate, immediate and necessary medical and dental attendance or remedy given in employment, irrespective of whether or not such injury or illness is work connected before more extensive medical and/or dental treatment can be secured. It does not include continued treatment or follow-up for an injury or illness.
+
+7. "Dentally fit" is a worker who is certified by the industrial dentist when found to have all dental and oral defects restored to sound and healthy condition at the time of the pre-employment oral examination.
+
+8. "Hazardous Work Areas" means working condition in industry which abruptly or insidiously affect the integrity of the teeth and surrounding tissues.
+
+The following are deemed as hazardous work areas:
+
+a. Where the nature of the work exposes the worker to dust, fume, mist, fog, gas, vapor, chemical substances and/or ionizing radiations as they may affect the dental and oral health of the worker.
+
+b. Where workers are engaged in construction work, logging, mining, quarrying, blasting, stevedoring, dock work, deep-sea fishing, and mechanized farming as they may cause accidents involving the dentition and contiguous parts.
+
+c. Where workers are engaged in the manufacture of explosives, dynamite and fireworks (also accident hazards) and;
+
+d. Where workers use and/or are exposed to power-driven tools and machines (also accident hazards).
+
+9. "Occupational Diseases of the Hard and Soft Tissues of the Mouth and Oral Cavity" refer to diseases of the hard and soft tissues of the mouth produced after an individual has been exposed to the occupational hazards present in his working environment whether in physical form, as abrasives, irritants, carcinogenic substances, equipment, or as chemicals, gas or the like.
+
+10. "Non-Occupational Diseases" are those oral diseases and conditions suffered by the worker during employment which are not due to occupational hazards present in his working environment.
+
+11. "Preventive Services" consists of measures that are instituted before any clinical signs or symptoms of dental and oral diseases appear. This refers to the primary level of prevention (prepathogenesis) and includes health promotion and specific protection.
+
+12. "Health Promotion" includes the application of measures which contribute to the protection and maintenance of total health of the community to its maximum potential, dental health wise.
+
+13. "Specific Protection" includes measures that are applied to prevent or intercept the onset of a particular dental or oral disease or condition. Example: Fluoridization, fluoridation, interceptive orthodontics, mouthguards for athletes, specific protection against occupational diseases affecting the oral cavity in industries, some being defined as follows:
+
+1. Fluoridization - is the topical application of fluoride solution on the coronal surfaces of the teeth to reduce the number of new carious lesions using accepted technics.
+2. Fluoridation - is the introduction of fluoride ION in the communal water supply in amount sufficient enough to reduce incidence of dental caries and not produce objectionable mottling.
+3. Interceptive Orthodontics - refer to the application of special mechanical aids among others to stop, correct or prevent irregularities of the teeth in order to bring about proper occlusion.
+
+14. "Treatment Services" are remedial measures applied to halt the progress of a dental and oral disease or condition and to restore or return to a sound and healthy condition of the teeth and supporting tissues. Example: Fillings of decayed teeth, extractions of unsavable teeth and treatment or surgical intervention of oral <missingtext> </missingtext>
+
+15. "Emergency Dental Treatment" refers to first aid treatment of injuries and ailments affecting the oral cavity, and/or of dental defects and oral lesions resulting from the occurence of unforeseen events or a combination of circumstances under which life is in danger or the working efficiency of the individual is impaired.
+
+16. "Dental or Oral Examination" is the careful examination of the oral cavity by a duly trained dentist to detect and diagnose dental and oral diseases and conditions, with the use of plain mouth mirror and explorer under good, natural daylight or artificial light or with the use of diagnostic facilities when available.
+
+17. "Dental Prophylaxis" includes scaling of calculus when present and mechanical cleansing of the teeth to smoothen rough surfaces and remove stains with the use of prophylactic brush or rubber cup and a cleansing agent containing fluorides.
+
+18. "Fillings" refers to restored cavities with permanent filling materials unless otherwise specified as temporary fillings.
+
+19. "Extraction" is the subdivision of oral surgery which is confined to the removal of the tooth.
+
+20. "Dental Caries" (Clinical Caries) is the stage of cavitation in the process of dental caries, characterized by undermined enamel or a breakdown in the walls of the pits and fissures and softened cavity floor detected by the use of plain mouth mirror, explorer and ordinary light.
+
+21. "Chairside Instruction" consists of oral and written advice given to the patient concurrent with dental treatment or consultation and includes information to promote his oral health. It also includes pre-operative and post-operative instructions and advice to achieve full cooperation of the patient with regards to the dental treatment given.
+
+<missingtext> </missingtext> others, regular and proper toothbrushing habits, gum massage, use of dental floss and mouth washes.
+
+23. "A Dental Case" refers to a person registered and given dental service in a dental clinic.
+
+24. "Dental Clinical Case" shall refer to a specific dental or oral disease or condition diagnosed after an oral examination.
+
+25. "Evaluation" is a process of measuring the effectiveness of any effort of the service in terms of input as in dimension of quality and of result as in levels of quality. "It reveals the strength and weakness of a program, performance, methods and technics, and provides information in revising specific objectives, developing new learning experience and improving methods and materials, equipment and finances".
+
+SEC. 3 ORGANIZATION
+
+It shall be the duty of the industrial establishment to organize, operate and maintain a dental service in accordance with the minimum standard requirements prescribed by the Department of Health thru its authorized agency, the Bureau of Dental Health Services.
+
+The dental service shall be administered by a licensed and qualified dentist. The number of dentist to be employed by the industrial establishment and the manner of employment shall be in acoordance with Section 4 of the Rules and Regulations on Medical and Dental Services implementing the Labor Code, as amended.
+
+SEC. 4 DENTAL PERSONNEL DUTIES, QUALIFICATIONS AND TRAINING REQUIREMENTS
+
+1. DUTIES -
+For effective and efficient administration of the dental service the industrial dentist shall have the following duties:
+
+1. Plan, organize and establish a comprehensive dental health program integrating occupational safety to promote a high levels of oral health of the workers.
+
+2. Conducts a complete and thorough oral examination of the workers in addition to the required pre-employment physical examination and certifies whether the worker is "dentally fit" or not.
+
+3. Conducts oral examination of the workers during employment at least once a year in a non-hazardous workplace and periodic oral examinations as may be deemed necessary upon the request of supervisors in work areas which are hazardous in nature.
+
+4. Using X-ray and other diagnostic aids, conducts a complete and thorough oral examination of workers in hazardous work areas who are leaving the company and certifies whether a worker is suffering or not from occupational diseases of the hard and soft tissues of the oral cavity.
+
+5. Conducts oral examination of workers treated and recovered from contagious oral diseases to certify whether they are fit <missingtext> </missingtext>
+
+6. Reports to company physicians and supervisors for immediate and appropriate action, cases of occupational oral diseases detected after oral examination during employment which cannot be attended to by the dental service.
+
+7. Attends to emergency dental cases so that the worker can go back to work as soon as possible.
+
+8. Provide prompt treatment and/or referrals of occupational and non-occupational dental and oral diseases.
+
+9. In hazardous work areas it is the responsibility of the industrial dentist to recommend to management that workers shall be provided with suitable protective appliances to protect them from occupational hazards.
+
+10. Gives chairside instructions while treating the patients; explains and discusses with him oral condition and recommends positive actions that the worker can take to improve his dental and oral health.
+
+11. Participates actively with the health personnel in the preparation of health education materials, as well as in disseminating health information to the workers and thru them to members of their families.
+
+12. Serve as member of the central safety committee including investigation of accidents and inspection of workplaces.
+
+13. Coordinates with the Supply Officer of the industrial establishment in establishin a regular schedule in the procurement of needed equipment and dental materials and supplies.
+
+14. Submits for the approval of the management thru the Budget Officer budget estimates to operate and maintain adequate standards of dental services for a period of at least one calendar or fiscal year.
+
+15. Compiles and maintains a complete record of oral examinations, treatment and/or referrals done for each patient.
+
+16. Submits periodic reports of accomplishments to the employer.
+
+17. Submits to the employer dental reports required by the Regional Health Office.
+
+18. Evaluates the dental health program of the industrial establishment annually and makes a report of such evaluation and recommendation to management.
+
+19. Coordinates his activities with the activities of the other members of the health staff.
+
+20. Performs such other duties that may be assigned by his employer.
+
+21. Other responsibilities:
+
+The industrial dentist should know the size, extent and magnitude of the dental and oral problems of the workers. This information will provide him the basis for planning and implementing dental care programs and evaluating dental care programs and evaluating the effects and cost benefits of this program as well as recommending budgetary requirements to operate the program.
+
+2. QUALIFICATIONS -
+An industrial dentist, shall have the following minimum qualifications:
+
+1. Qualified and licensed to practice dentistry in the Philippines.
+2. Submits to the employer a certificate of physical fitness from any government physician.
+3. Is an active member of the Philippine Dental Association and other professional and scientific organizations.
+
+3. TRAINING REQUIREMENTS -
+
+1. BASIC ORIENTATION TRAINING COURSE
+The course is required for industrial dentist entering the service for the first time and those already in the service but have not attended the course. The course content is pres- <missingtext> </missingtext> by the Regional Health Office or by any organization duly accredited by the Department of Health.
+
+Hours of Training - Forty (40) hours
+Thirty (30) hours for classroom instruction
+Ten (10) hours for practical exercises
+
+Course Content:
+
+1. Laws, Administrative Orders, Rules and Regulations relative to industrial dental health and occupational health and safety services.
+2. Standard requirements for Industrial Dental Services:
+
+1. Coverage, definitions, organizations, dental personnel, duties, qualifications and training requirements, industrial dental health program, clinical and technical procedures, facilities and dental equipment, medicines and dental supplies, financial requirements, records and reports, registration and accreditation, supervision of dental services, and penal provisions.
+
+3. Dental health education
+4. Occupatinal oral diseases; its prevention and control
+
+2. CONTINUING EDUCATION
+The industrial dentist is required to attend re-orientation courses at least once every two years and shall be allowed by the employer to attend scientific seminars conducted by dental societies and duly accredited organizations to keep abreast with modern trends in industrial dentistry. The industrial establishment shall subscribe to dental journals, magazines, books and articles for the use of the industrial dentist.
+
+3. SPECIAL TRAINING ON RESEARCH
+Industrial establishments desiring to conduct studies and research on occupational oral diseases among workers can request for technical assistance from the Bureau of Dental Health Services on training of industrial dentist on dental research me- <missingtext> </missingtext>
+
+4. TRAINING ALLOWANCE
+It shall be the duty of the industrial establishment to provide reasonable training allowance to the industrial dentist while attending the required training courses conducted by the Department of Health and other scientific seminars related to dentistry and occupational health and safety conducted by dental societies and/or duly accredited organizations.
+
+SEC. 5 INDUSTRIAL DENTAL HEALTH PROGRAM
+
+OBJECTIVES
+
+1. To create the awareness of the workers on the value and importance of dental health as it relates to their total health and well being.
+
+2. To maintain a high level of oral health of the workers in order to improve their working efficiency and productive capacity.
+
+BASIC COMPONENTS (4)
+
+1. PREVENTIVE SERVICES
+1. DENTAL HEALTH EDUCATION AND COUNSELLING
+
+1. The industrial dentist shall devote a portion of his time, using the chairside or group approach, and dental health education materials, methods and techniques to motivate the workers to assume responsibility and take positive action for his own as well as for his family's oral health. This includes the following:
+
+1. Those which are the responsibility of the individual, and can be carried out only by him: e.g., proper oral hygiene habits, eating proper foods and practicing correct dietary habits, with particular attention to the avoidance of excessive use of sweet foods especially the sticky kinds.
+2. Those which are the normal responsibility of the family: e.g., regular care of the mouth of children starting from the early age possible; proper nutrition and eating habits of the family; practice of correct oral hygiene with family group.
+3. The workers should be taught and encouraged to utilize regularly the preventive and treatment services available in the industrial establishments.
+
+2. EARLY DETECTION AND CORRECT DIAGNOSIS OF NON-OCCUPATIONAL AND OCCUPATIONAL DISEASES THRU REGULAR AND PERIODIC ORAL EXAMI- <missingtext> </missingtext>
+
+1. Pre-employment
+
+The purpose of the pre-employment oral examination are the following:
+
+1. To determine accurately the actual condition of the teeth and surrounding tissues at the start of employment and thus protect the employer against compensation claims on work connected oral diseases and conditions.
+2. Based on the findings of the oral examination the industrial dentist can give the necessary advise to the worker in order to be dentally fit before starting to work.
+
+2. During Employment
+An oral examination to detect initial symptoms and institute prompt treatment of occupational disease among workers is done periodically during employment at such interval as may be deemed necessary in view of the rish inherent in the workplace and/or other conditions under which work is performed. In case of non-hazardous areas the interval should be at least once a year.
+
+3. Separation from Employment
+A worker leaving employment where the workplace is considered hazardous is required to undergo a thorough oral examination to determine accurately the presence or absence of oral manifestations of occupational diseases and/or conditions.
+
+3. PROTECTION OF WORKERS FROM OCCUPATIONAL HAZARDS AFFECTING THE TEETH AND SUPPORTING TISSUES.
+
+4. PERIODIC DENTAL PROPHYLAXIS FOR THE PREVENTION OF GINGIVITIS AND PROCORSOR PERIODONTAL DISEASES.
+
+2. TREATMENT SERVICES
+
+<missingtext> </missingtext>
+
+earning capacity of the workers the following emergency treatment are deemed necessary:
+
+1. Relief of acute dental conditions.
+2. Extraction of unsavable teeth due to injuries or accidents.
+3. Management of hemorrhage after tooth extraction.
+4. Management of traumatic injuries affecting the oral cavity due to accidents occuring in the workplace.
+5. Establishment of drainage of dento-alveolar abscess.
+6. Management of other dental emergencies not mentioned above.
+
+2. PROMPT TREATMENT OF DENTAL CARIES AND PERIODONTAL DISEASES AND ITS SEQUELAE.
+It shall be the primary duty of the industrial dentist to prevent and/or minimize the loss of natural teeth of workers resulting from advanced stage of dental caries or periodontal disease. This can be done through a regular and systematic schedule of:
+
+1. Fillings of all incipient carious lesions detected upon oral examination and prompt treatment and filling of decayed but restorable teeth.
+2. Scaling of calculus deposits and management of early signs of gingivitis and periodontal diseases.
+
+3. MANAGEMENT OF OTHER DENTAL AND ORAL DISEASES DETECTED DURING ORAL EXAMINATION.
+
+4. ORAL SURGERY CASES.
+Cases that need surgical intervention shall be attended to, when the industrial establishment has its own hospital and when there are qualified surgeons to undertake surgical repair of debilitated conditions of the oral cavity.
+
+3. REHABILITATION
+
+<missingtext> </missingtext>
+
+provided by the dental service depending upon the needs of the worker and after arrangements regarding payment plans have been agreed between employer, worker and industrial dentist.
+
+4. PROMPT REFERRALS AND FOLLOW-UP
+The patient whose needs cannot be met directly by the dental service shall be given proper advice and referred promptly to other dental clinics, provided however that these cases are strictly followed up by the industrial dentist to be sure that the worker actually receives the necessary treatment that he needs.
+
+SEC. 6 CLINICAL AND TECHNICAL PROCEDURES
+
+1. ORAL EXAMINATION
+Refer to Section 2-16.
+As far as is considered necessary the oral examination shall include the use of diagnostic facilities and equipment such as X-ray apparatus, pulp tested and other special laboratory examinations deemed indispensable owing to the particular nature of the employment.
+
+2. DENTAL PROPHYLAXIS
+Refer to Section 2-17.
+
+3. FILLING OF RESTORABLE TEETH.
+
+1. Cavity preparation for filling should at all times be done to provide extension for prevention.
+2. In Class II cavities, occlusal locks should be made wide enough for adequate retention of filling. Matrices and gingival wedges should be used in the filling of all Class II Cavities.
+3. In all deep cavities, the pulp should be protected by calcium hydroxide and zinc, cement lining.
+4. Sedative dressing "temporary filling" should be reduced to the minimum.
+5. Dryness of the teeth should be maintained during the treatment and fillings of cavities.
+6. Mixing, inserting and condensing of filling material.
+
+A. Silver Amalgam
+1) Standard Material - Silver alloy and mercury U.S.P. that will meet No. 1 and No. 6 specifications of the American Dental Association.
+2) Method - Trituration may be done either by mortar and pestle of mechanically using five (5) parts of silver alloy to eight (8) parts of mercury. Condensation may be done by either by mechanical or hand pressure methods. Polishing of restoration should be done at subsequent appointments.
+B. Silicate Cement
+Powder and liquid should meet specification No. 9 of the American Dental Association; spatulation for thirty (30) seconds on a slab cooled to 18°C (60°F) should be carried out, and polishing should be delayed at least after three (3) days.
+C. Composites, Resins, Acrylic and Other types of Filling Materials (see respective literature for proper manipulations, etc.)
+
+4. EXTRACTION
+
+1. Conduction and infiltration anesthesia should always be used whenever indicated to control pain during extractions.
+2. Permanent tooth that cannot be successfully saved by operative or endodontic treatment should be extracted. Exceptions are allowed when the professional judgment of the attending dentist indicates another course of action.
+3. Sterilization of syringes and needles.
+Sterilization by autoclave for 20 minutes at 250°F and 15 lbs. pressure is the safest method to sterilize syringes and needles. In the absence of autoclave, boiling for thirty (30) minutes is necessary. The sterile guard should be removed from the needle just prior to use and a sterile chain be maintained throughout the injection.
+4. All surgical procedures including extraction of teeth of persons with history of rheumatic fever shall first be referred to the physician for clearance using proper referrals slip and pertinent information.
+5. After extraction, the patient should be given written instructions concerning post-operative attention, in addition to the oral instructions given.
+
+DENTAL HEALTH EDUCATION ACTIVITIES
+1) Chairside instruction given concurrently during treatment is the best opportunity to give instruction and advice on the employee's oral health.
+2) Lectures and demonstrations on oral hygiene and desirable oral health habits and practices given by dentists to organized groups of female workers as well as to the male workers.
+3) Distribution of posters, leaflets or other materials on dental health to disseminate information, and to explain proper oral health practices.
+
+REFERRAL AND FOLLOW-UP
+Cases that cannot be attended to directly by the dental service shall be referred immediately to other dental clinics for prompt treatment but should be followed-up by the industrial dentist to be sure that the worker receives the treatment that he needs. The private dentist records the treatment done on the referral slip, affixes his signature and sends it back to the industrial dentist concerned. The duly accomplished referral slip shall becomes a part of the workers dental health record.
+
+SEC. 7 FACILITIES AND DENTAL EQUIPMENT
+
+For effective and efficient operations of the dental service it shall be the responsibility of the industrial establishment to provide facilities, equipment and supplies for dental clinics in accordance with the following standard requirements:
+
+1. PHYSICAL FACILITIES
+The dental clinic should have sufficient space to allow comfort and ease both to the operator and to the patient. It should have good ventilation with sufficient light and adequate water supply. Whether the dental clinic is inside or outside the workplace it should be within reasonable accessibility to the workers to minimize waste of productive hours.
+
+2. PHYSICAL ARRANGEMENT
+The physical arrangement of dental clinic should as much as possible be in accordance with the standard arrangement plan as illustrated in Annex 7.
+
+3. DENTAL EQUIPMENT
+At the initial set-up of the dental service and it shall be the responsibility of the industrial establishment to provide the minimum standard dental equipment and instruments prescribed in Annex 8.
+
+4. CARE OF DENTAL EQUIPMENT
+Care of dental equipment is the responsibility of the dental aide when available; otherwise, this responsibiity rests on the industrial dentist. A suggested schedule for maintenance of equipment is recommended to be observed regularly. (Annex 9).
+
+5. DENTAL CABINETS
+Where cabinets are available, an instrument and medicine arrangement plan is recommended. (Annex 10).
+
+SEC. 8 MEDICINES AND DENTAL SUPPLIES
+
+1. At the initial set-up of the dental service the medicines and dental supplies to be requisitioned by the industrial dentist should conform with the minimum standard requirements as listed in Annex 11.
+2. For subsequent operations and maintenance of the dental service the industrial dentist shall submit to the Supply Officer of the establishment one month in advance a requisition of needed medicine, dental materials and supplies to last for at least three (3) months as listed in Annex 12.
+
+2. PROCUREMENT
+The Supply Officer of the industrial establishment in coordination with the industrial dentist shall establish a regular schedule for the procurement of medicines, dental materials and supplies as requisitioned by the industrial dentist inorder that these are always available to the dentist in the efficient performance of his duties.'
+
+3. REPORT OF MEDICINES, DENTAL MATERIALS AND SUPPLIES
+A report of medicines, dental materials and supplies received and consumed for three (3) months shall be submitted to the Supply Officer of the industrial establishment for his information and guidance not later than the 25th day of the succeeding fourth month.
+
+SEC. 9 FINANCIAL REQUIREMENTS
+
+1. INITIAL SET-UP OF THE DENTAL CLINIC
+At the initial set-up of the dental clinic, it shall be the responsibility of the industrial establishment to set aside adequate funds for the purchase of prescribed standard facilities and dental equipment.
+
+2. MAINTENANCE AND OPERATIONS
+The industrial establishment shall set aside, on a yearly basis and/or consistent with the budgetary procedures of the industrial establishments separate funds for salaries and incidental expenses of dental personnel, and for maintenance and operations of the <missingtext> </missingtext> and two copies to be submitted to the Regional Health Director not later than the 20th day of the succeeding month together with a list of industrial establishments reporting during the same period.
+
+3. The Regional Health Director shall send the original copy of regional monthly and annual consolidated reports of the Industrial Dental Services together with the consolidated reports of other categories of dental services to the Director, Bureau of Dental Health Services not later than the 25th day of each succeeding month.
+
+BUREAU OF DENTAL HEALTH SERVICES
+All industrial dental service reports received by the Bureau of Dental Health Services from the regional and field offices shall be referred to the Standards Division for consolidation, analysis and interpretation. Based on the consolidated reports received from the Regional Health Offices, the Bureau of Dental Health Services shall conduct an annual assessment of the dental health status of industrial workers of the country to determine the effects of industrial dental health program and services as part of the annual report of the Bureau of Dental Health Services to the Secretary of Health.
+
+SEC. 10 RECORDS AND REPORTS
+
+In industrial establishments, complete and up to date records are very important not only to the workers but also to the company. In cases of compensation claims due to dental and oral conditions which may be attributed to occupational hazards present in the workplace, it is well that dental records are kept and maintained accurately.
+
+The following standard procedures on recording and reporting of dental diseases and dental health services are prescribed by the Bureau of Dental Health Services:
+
+RECORD AND REPORT FORMS
+
+BDHS Revised Form 1 - Individual Dental Health Record with Instructions
+BDHS Form 2-1 - Industrial Dental Diseases and Service Report with instructions
+BDHS Form 2B-1 - Report on Dental Medicines and Supplies for Industrial Establishments
+BDHS Form 3-1 - Registration Form for Industrial Establishments Referral Slip
+
+RECORDING
+The industrial dentist shall record findings of oral examinations and dental services rendered to the patient on BDHS Revised Form 1. Criteria and method of recording in the above form shall be in accordance with the revised instructions prescribed by the Bureau of Dental Health Services.
+
+REFERRALS AND FOLLOW-UP
+Cases which can not be attended by the industrial dentist shall be referred to other dental clinics using the referral slip to record the dental services done for the patient.
+
+REPORTING OF CONSOLIDATED REPORTS
+
+1. Industrial Dental Diseases and Service Report
+Data on dental diseases and services recorded on BDHS Form 1 are con- <missingtext> </missingtext>
+
+The industrial dentist shall accomplish the consolidated report monthly and annually in two copies, one copy for his file and one copy to be submitted to the Manager or Head of Office not later than the 2nd day of the succeeding month.
+
+The Manager or Head of Office shall send the monthly consolidated report to the Provincial Health Officer or to the City Health Officer of the province or city where the industrial establishment is located not later than the 5th day of each succeeding month.
+
+2. Dental Medicines and Supply Report
+The industrial dentist is required to submit a report of supplies received and consumed for three months using BDHS Form 2B-1 in two copies, one copy for his file and one copy to be submitted to the Supply Officer of the industrial establishment not later than the 5th day of the succeeding fourth month.
+
+CONSOLIDATED REPORTS
+
+1. Consolidated report of industrial dental service by province/city
+
+1. All dental reports of industrial establishments received by the Provincial Health Office or City Health Office during the month are consolidated by the Senior Dentist (National) or City Head Dentist using the same BDHS Form 2.
+2. A list of industrial establishments who are submitting their reports during the month shall be submitted together with the above report to the Regional Health Office by the Provincial Health Officer or the City Health Officer not later than the 10th day of the succeeding month.
+
+2. Consolidated reports of industrial dental service by region
+
+1. All consolidated reports of industrial dental service received in the Regional Health Office from the Provincial and City Health Offices shall be consolidated by the Supervising Dentist into one consolidated industrial report.
+2. Regional consolidated reports of industrial dental services <missingtext> </missingtext>
+
+SEC. 11 REGISTRATION AND ACCREDITATION
+
+Every industrial establishment shall register with the Department of Health through its authorized agency, the Bureau of Dental Health Services in accordance with the requirement of this Section.
+
+1. REGISTRATION FORM
+Registration shall be accomplished within sixty (60) days upon receipt of notice and/or within 30 days before the initial set-up of the dental service and submitted to the Regional Health Office where the industrial establishment is located, in the form prescribed by the Bureau of Dental Health Services for the purpose and available at the Regional Health Offices. Registration shall be free of charge and shall be valid for the life time of the dental service except when any of the following conditions exists, in which case a new registration shall be accomplished:
+
+1. When a new dentist is employed;
+2. When the nature of workplace is changed from non-hazardous to hazardous; and
+3. When the address is changed.
+
+Included in the registration form is a checklist to indicate that the industrial establishment has complied with the minimum or above standard requirements prescribed by the Bureau of Dental Health Services. The Regional Supervising Dentist shall inspect within 60 days upon receipt of the registration form to verify if the industrial establishment concerned has complied with the prescribed requirements. The registration form, duly verified shall be submitted by the Supervising Dentist within fifteen (15) days after inspection to the Regional Health Director, to be submitted within fifteen days to the Bureau of Dental Health Services with his recommendation for accreditation.
+
+2. ACCREDITATION
+A certificate of accreditation shall be issued by the Secretary of Health to the industrial establishment complying with standard requirements upon the recommendation of the Director, Bureau <missingtext> </missingtext>
+
+SEC. 12 DUTIES OF REGIONAL SUPERVISING DENTISTS
+
+For effective enforcement of minimum standard requirements on dental services in industrial establishments and for proper implementation of industrial dental health program, the following are the duties of the Regional Supervising Dentists:
+
+1. The Supervising Dentist is a member of the technical staff of the Regional Health Office and serve as adviser in all matters pertaining to industrial dental services in his area of jurisdiction.
+2. Interprets policies, guidelines and standards on industrial dental health services in the region.
+3. Provide technical assistance in planning and evaluating the industrial dental health program.
+4. Upon receipt of application for registration from industrial establishments, he conducts inspection of dental services to verify compliance with standard requirements as stated therein and submits recommendations thereof to the Regional Health Director, furnishing a copy to the manager of the industrial establishment or head of office.
+5. Conducts regular inspection of duly accredited industrial establishments to insure compliance with prescribed minimum standard requirements to the Bureau of Dental Health Services.
+6. Recommends appropriate action to the Regional Health Director on erring industrial establishments who willfully refuses to comply with minimum standard requirements prescribed by the Bureau of Dental Health Services.
+7. Initiates, plans and organizes and submits reports of training courses conducted for industrial dentists in close coordination with the Regional Health Training Center and the Labor Regional Office.
+8. Submits required reports of industrial dental services to the Regional Health Director to include tabulation, analysis and recommendation and other reports as may be required by the Regional Health Office.
+<missingtext> </missingtext> of Dental Health Services within thirty (30) days upon receipt of the registration form from the Regional Health Office.
+
+3. REGISTER OF ACCREDITED INDUSTRIAL ESTABLISHMENTS
+The Bureau of Dental Health Services shall keep a complete and updated Register of Accredited Industrial Establishments by regional distribution.
+
+4. INSPECTION OF ACCREDITED INDUSTRIAL ESTABLISHMENTS
+All duly accredited industrial establishments shall be subject to regular inspection by authorized personnel of the Department of Health to determine compliance with standard requirements. The Secretary of Health or his duly authorized representative from the Bureau of Dental Health Services, including but not restricted to the authortized personnel of the Regional Health Offices shsll have access to employer's records and premises at any time of the inspection and the right to copy therefrom, to question any employee and to investigate any fact, condition or matter which may be necessary to determine compliance with or to aid in the enforcement of standards for dental services setforth by the Bureau of Dental Health Services of the Department of Health.
+
+5. REVOCATION OF CERTIFICATE
+The certificate of accreditation may be revoked by the Secretary of Health upon the recommendation of the Regional Health Office and the Bureau of Dental Health Services only when the industrial establishment willfully refuses to comply with standard requirements prescribed by the Bureau of Dental Health Services after three (3) warnings issued by the Regional Health Director.
+
+<image>table_1.png</image>
+
+<image>table_2.png</image>
+
+Annex 3-A
+
+INSTRUCTIONS FOR ACCOMPLISHING BDHS REVISED FORM 1
+(INDIVIDUAL DENTAL HEALTH RECORD)
+
+BDHS Revised Form 1 has two uses, namely:
+1) To record the findings of the oral examination done on each new patient and of the subsequent yearly oral examinations given to a registrant of dental health programs.
+2) To record restorative, surgical procedures and other services given to the patient.
+
+The form is divided into three parts: (1) identification, (2) oral health status of the patient and (3) dental services rendered to the patient.
+
+The FDI tooth numbering system (two digit) is adopted to conform with International Standards.
+
+I. IDENTIFICATION
+1. Name of Patient - to be written in block letters.
+2. File No. - Each patient registered and examined is given a file number in chronological order. The patient is given his file number to facilitate locating his record when he comes back for another treatment. The numbering is done by grade in elementary schools and by year in case of high schools, colleges and universities.
+3. City - In case the examination was done in a city, write the name of the city.
+4. Municipality/Province - Write the name of the municipality and province where the examination was conducted.
+5. Hospital - In case the examination was done in a hospital write the name of the hospital.
+6. In and Out-Patient - Check the square to indicate whether in or out-patient.
+7. Barrio/Barangay No./School/Industrial Establishment - Write the name of the Barrio or Barangay Number or school or industrial establishment where the examination was conducted.
+8. Population Group - Check the square to indicate the population <missingtext> </missingtext>
+School Children - 7 to 14 years old
+Pre-natals - 15 to 44 years old
+Adults - 15 to 65 & over
+9. Date of Birth - Write the month, day and year when the patient was born. Get this information from the patient or from the parent or guardian accompanying the child.
+10. Address - Write the number of the house, the name of the street, barrio and municipality where the patient resides.
+11. Sex - Check square to indicate whether male or female.
+12. Occupation - Indicate whether farmer, laborer, employee, school child, dependent, etc.
+
+II. ORAL HEALTH STATUS
+The specific dental diseases and conditions included in this record are dental caries, periodontal diseases, calculus, neoplasm and handicapping dento-facial anomalies.
+
+1. Dental Caries-
+Using the appropriate symbols in the legend, record the condition of each tooth present as diagnosed during the oral examination in the blank space for condition corresponding to each tooth which is represented by a circle and numbered in accordance with the two digit system. The circle is divided into five (5) parts representing the five tooth surfaces, namely: (1) occlusal, (2) mesial, (3) distal, (4) labio-buccal and (5) lingual surfaces. When a tooth is not present during the time of examination it is recorded either as missing due to caries, or missing due to other causes or unerupted tooth, using the appropriate symbols in the legend. When a tooth is found with clinical caries but not filled or restored, the exact location of the carious lesion is noted by outlining the tooth surface or surfaces involved. (See example). If the tooth is filled with permanent filling <missingtext> </missingtext> the dentist that the gold crown was placed after the tooth was filled, record the condition as filled teeth when there is no sign of secondary caries. If secondary caries is detected, record the condition either as decayed for filling or for extraction as the case may be. If the tooth shows signs of destruction of the epithelial attachment without any signs of clinical caries, record the condition as caries free. Write letter J at the middle of the circle representing the tooth with jacket crown and record the condition as filled or restored using the appropriate symbol. Write letters AB at the middle of the circle representing the tooth used as an abutment for fixed or removable bridge and record the condition as caries free when no clinical caries is detected. When clinical caries is detected record the condition either as decayed for filling or for extraction as the case may be.
+
+Write letter P in the circle representing a pontic and record the condition of the tooth as missing due to caries or missing due to other causes as the case may be, using the appropriate symbols in the legend for condition. Encircle all the teeth and write the appropriate symbol for fixed bridge. Make a half circle showing the teeth with removable bridge and write the appropriate symbol.
+
+Example:
+
+<image>table_3.png</image>
+
+2. Date of Examination - On the first column, record the month, day and year when the first oral examination was performed. Dates of subsequent yearly examinations are recorded on the next columns.
+3. Age last birthday - This is the age of the child on his last birthday at the time of the examination.
+4. Presence of dental caries - Encircle Y, if the patient has one or more decayed, missing and filled temporary and permanent teeth. Encircle N if negative.
+5. Presence of gingivitis - Encircle Y when there is evidence of any one or more of the following signs: redness, swelling, ulceration and bleeding around one or more teeth. Encircle N if negative.
+6. Presence of periodontal pocket - Encircle Y, if periodontal pocket is present affecting one or more teeth as evidenced by destruction of the epithelial attachment. Encircle N if negative.
+7. Presence of oral debris - Encircle Y, if oral debris is present as evidenced by soft foreign matter consisting of mucin, bacteria and food, and varying in color from grayish white to green/orange, on the surfaces of one or more of the following teeth:
+
+buccal surface - Upper right first molar;
+labial surface - upper right central incisor;
+lingual surface - upper left first molar;
+lingual surface - lower right first molar;
+labial surface - lower left central incisor; and the
+lingual surface - lower left first molar
+
+8. Presence of calculus - Encircle Y, if definite hard deposits are found on one or more teeth. Encircle N, if negative.
+9. Presence of neoplasm - Encircle Y, if neoplasm is present as evidenced by signs and significant features of oral cancer. (Refer to Appendix B - 4, page 140, Standards Manual, BDHS).
+10. Presence of dento-facial anomaly - Encircle Y, if the dento- <missingtext> </missingtext> anomaly includes either one of the following: cleft palate, cleft lip, prognathism, retrognathism, deep overbite, open bite, crowding, spacing, and others. An anomaly is regarded as requiring treatment if the disfigurement or functional defect is or is likely to be an obstacle to the patient's physical or emotional well-being.
+11. Tooth Count - Count each tooth as a whole unit and not the number of carious surfaces filled or indicated for filling.
+12. Number of Teeth Present - Count and record the total number of teeth present separately for temporary and permanent teeth. A tooth is considered present when a portion of the crown can already be seen and detected.
+13. Caries Free Teeth - Count and record separately for temporary and permanent dentition and include only those with no evidence of clinical caries. Clinical caries is defined, for the purpose of recording, as cavity positively diagnosed by mouth mirror and probe examination.
+14. Caries Indicated for Filling - Count and record separately for temporary and permanent teeth. A tooth is considered indicated for filling when clinical caries has developed without involvement of the pulp. Include in the count teeth with permanent fillings but with secondary carious lesions and teeth with temporary fillings.
+15. Caries Indicated for Extraction - A tooth is considered indicated for extraction when it is unsavable. A tooth is considered unsavable when it can no longer be restored because of badly broken down surfaces and involvement of the pulp as a result of caries. Count and record separately for temporary and permanent teeth and include filled teeth but unsavable as a result of caries. Root fragments are not included here.
+16. Root Fragment - Count and record separately for temporary and permanent teeth and count only for whole tooth units and not <missingtext> </missingtext>
+17. Missing due to Caries - Count and record separately for permanent dentition only and include missing teeth and ponties. Do not include unerupted teeth here.
+18. Filled or Restored - Count and record separately for temporary and permanent teeth (include teeth with permanent filling such as amalgam, silicate, and cement; teeth with inlays, jacket crown, and gold crown that do not require further restorative procedures. Do not count orthodontic retainers as filled or restored.
+19. Total of df and DMF teeth - Add the total number of decayed, missing and filled teeth separately for temporary and permanent teeth.
+20. Examiner - Write clearly the name of examiner in the space provided for.
+
+III. DENTAL SERVICES RENDERED
+
+All dental services given to the patients are recorded at the back of Form 1, writing down the diagnosis, details of service rendered, tooth number according to two digit system, prescription, referrals and date of next appointment. These should be done in chronological order indicating the date when treatment was performed and duly signed by the dentist. The last column may be used by the dentist or the supervisor. At any time during an inspection, the forms should be available for checking by the superior officers. The dental services performed on the patient is also recorded at the front page of the same form.
+
+1. Fluoride Application - Record the date when fluoride solution is applied and the number of application.
+2. Operation - A restorative or surgical procedure performed on each tooth by the dentist is recorded on the blank space for operation corresponding to the particular tooth treated using appropriarte symbols in the legend. Only completed treatments are recorded. Completed treatment refers to the <missingtext> </missingtext>
+
+LABOR CODE OF THE PHILIPPINES AS AMENDED
+BOOK VII
+CHAPTER I
+PENAL PROVISIONS AND LIABILITIES
+
+ART. 278. PENALTIES. - Except as otherwise provided in this Code, any violation of the provisions of this Code declared to be unlawful or penal in nature or of the rules and regulations issued thereunder shall be punished with a fine of not less than ONE THOUSAND PESOS nor more than TEN THOUSAND PESOS and/or imprisonment for the duration of the violation or non-compliance or until such time that rectification of the violation has been made, at the direction of the appropriate authority. (As amended by Presidential Decree No. 570-A, Section 62.)
+
+ART. 279. WHO ARE LIABLE WHEN COMMITTED BY OTHER THAN NATURAL PERSON? - If the offense is committed by a corporation, trust, firm, partnership, association or any other entity, the penalty shall be imposed upon the guilty officer or officers of such corporation, trust, firm, partnership, association or entity. (As amended by Presidential Decree No. 570-A, Section 23.)
+
+<image>table_4.png</image>
+
+Annex 4-A
+
+INSTRUCTIONS FOR ACCOMPLISHING BDHS FORM 2
+
+BDHS Form 2 is the standard form in reporting dental diseases and dental services by population groups and by specific age. The same form is used for consolidating reports on a monthly, quarterly, semi-annual and annual basis by municipality, by province and by region. It is accomplished by consolidating data on dental diseases derived from the front page of BDHS Revised Form 1 and consolidating data on dental services derived from the back page of the same form.
+
+Uses:
+BDHS Form 2 has two (2) main uses namely:
+1) Provide quantitative data to answer the following question: What proportion of the population will require treatment for dental and oral diseases?
+2) Provide quantitative data on the dental services provided to meet these needs.
+
+Instructions:
+1. Municipality - print the name of the municipality where the data was collected. When more than one municipality were visited during the month, a separate report should be made for each municipality.
+2. Province - print the name of the province where the municipality is located.
+3. City - print the name of the city where the data was collected. Applicable for city dentist, city hospital dentist, private school dentist and industrial dentist where the dental clinic is located in a city.
+4. Regional Health Office No. ___.
+5. Month and year - print the name of the month in full and always indicate the year.
+6. Quarter - print the months from the start and end of the quarter and year.
+<missingtext> </missingtext>
+8. Annual - print the months from the start and end of twelve months period and year.
+9. Check only one square to indicate the category of dentist submitting the report.
+
+I. CONSULTATION AND TREATMENT
+
+The consultation and treatment is counted as (1) the total number of persons registered, examined and attended and (2) the total number of teeth examined and treated during the month.
+
+1. Persons:
+The total count of persons registered and given: (1) oral examination; (2) preventive service; (3) other treatment; (4) X-ray; and (5) referred to other dental clinics or other health agencies for treatment or diagnostic services which are not within the scope and facilities of direct service.
+
+A. Oral Examination - the total count of persons registered and given oral examination during the month.
+
+1) No. of dental caries - is the total number of persons examined with one or more decayed, missing and filled teeth on the temporary and on the permanent dentition.
+2) No. with gingivitis - is the total number of persons examined with gingivitis.
+3) Number with periodontal pockets - is the total number of persons examined with periodontal pockets.
+4) No. with oral debris - is the total number of persons examined with oral debris.
+5) No. with calculus - is the total number of persons examined with calculus.
+6) No. with neoplasm - is the total number of persons examined with significant features of oral cancer (See. p. 140, Standards Manual)
+7) No. with dento-facial anomalies - is the total number <missingtext> </missingtext>
+
+B. Preventive Services
+
+1) Fluoride therapy - is the total number of children given topical application of fluoride during the month (not the number of fluoride application.
+2) Dental prophylaxis - the total number of persons given dental prophylaxis (complete).
+
+C. Other Treatments for - is the count of the total number of persons given treatment for (1) gingivitis, (2) periodontal diseases, (3) apical and alveolar abscess, (4) pericoronitis, (5) oral surgery, (6) Emergency cases & (7) given prescriptions.
+
+D. X-Ray - number of persons given radiographic examination and diagnosis of the teeth or the oral cavity and associated parts.
+
+E. Referrals - number of persons given radiographic examination and diagnosis of the teeth or the oral cavity and associated parts.
+
+2. Teeth affected with dental caries:
+
+The total number of (a) decayed and filled temporary teeth (df teeth) and (b) decayed, missing and filled permanent teeth (DMF teeth).
+
+A. Fillings:
+The total count of permanent and temporary fillings. The figures are derived from the back page of the Individual Dental Health Record.
+
+1) Permanent Fillings: Total - counted separately on the temporary and on the permanent teeth as the sum total of (a) amalgam, (b) silicate, (3) cement fillings. The figures are also derived from the back page of the Individual Dental Health Record.
+2) Temporary Fillings - are consolidated separately on the temporary and permanent dentition.
+
+B. Extraction - Total number of extractions counted separately on the temporary and permanent teeth.
+
+3. Total No. of Fillings and Extractions - is the sum total of temporary and permanent teeth filled and extracted.
+
+II. DENTAL HEALTH EDUCATION - is counted as one activity when it is planned, organized and attended by no less than five persons in a class, or conference, or demonstration or film showing, etc.
+
+III. STUDIES CONDUCTED AND COMPLETED - is the total number of studies conducted and completed. A study is counted as one activity when it is an organized study on a particular area on dental public health guided by a protocol, duly approved by the Bureau of Dental Health Services. The study is considered completed when the findings have been subjected to statistical analysis, interpreted and submitted as an unpublished or published report.
+
+IV. TRAINING COURSES ATTENDED - is the total number of training courses attended. Training is counted as one activity where the dental personnel has taken a formal or informal session on subject or course relevant to the performance of his duties.
+
+V. OTHER ACTIVITIES:
+a) Staff meetings and conferences - counted as the number of meetings or conferences attended by health personnel as called by higher authority.
+b) Others - This refers to activities other than regular duties performed in compliance with assignment given by higher authorities, such as campaign for sanitary toilets, nutrition, education, immunization, home visit, etc. This should be specified in the report.
+
+Other Remarks:
+Statement of problems needing urgent attention of superiors.
+
+<image>figure_1.png</image>
+
+<image>figure_2.png</image>
+
+<image>figure_3.png</image>
+
+<image>figure_4.png</image>
+
+Annex 7
+
+MINIMUM STANDARD REQUIREMENTS FOR EQUIPMENTS, INSTRUMENTS AND DENTAL SUPPLIES AND MATERIALS FOR INDUSTRIAL DENTAL CLINIC
+
+I. EQUIPMENTS: (Standard)
+
+One (1) Dental Unit, complete with the following attachments and accessories:
+- Dental Engine, Handpiece and Contra-angle and engine belt and foot control.
+- Dental lamp, electric fan, x-ray viewer
+- Instrument tray, cuspidor, tumbler holder
+- Triple-syringe (Air-water-air/water spray)
+- Saliva ejector or aspirator
+
+One (1) Dental Chair, Hydraulic
+One (1) Dental Sterilizer, electric
+One (1) Dental Cabinet
+One (1) Wash basin or "lavabo" and kidney basin
+One (1) Towel Holder
+One (1) Office desk with matching chair
+One (1) Extra chair
+One (1) Filing Cabinet
+
+(Optional)
+
+- Air-turbine equipments, air-turbine handpiece, control box and dental air-compressor
+- Motorized dental chair
+- Dental amalgamator with amalgam dispenser
+- Ultrasonic scaler, "cavitron" type
+- Dental X-ray Machine
+- Electric pulp tester
+- Suction apparatus
+- Glass Bead Sterilizer (for Endodontic practice)
+
+II. INSTRUMENTS: (Standard)
+
+<image>table_5.png</image>
+
+<image>table_6.png</image>
+
+<image>figure_5.png</image>
+
+NOTE: The above list should be increased to meet the particular needs of the Industrial Dental Service.
+
+<image>table_7.png</image>
+
+</body>

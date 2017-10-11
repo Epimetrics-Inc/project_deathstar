@@ -1,0 +1,587 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+San Lazaro Compound, Rizal Avenue, Manila
+Telephone No: 743-83-01 to 23 loc. 1125-1126
+
+<date>05/07/2004</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 153 S.2004</docnum>
+
+<subject>SUBJECT: Revised Guidelines on Current Good Manufacturing Practice in Manufacturing, Packing, Repacking, or Holding Food</subject>
+
+<body>
+I. RATIONALE/BACKGROUND
+
+The advent of globalization has opened new competition for local industrial manufacturer in the world as well as in the domestic markets. Emphasis on product quality and safety has gained significant importance in order for local manufacturers, including those in the food manufacturing sector, to be able to compete well and profit under a globalized economy.
+
+Current Good Manufacturing Practice (cGMP) is a key factor for industries to produce good quality, safe and affordable products. There is a need to review, improve and revise the cGMP as embodied in Administrative Order No. 208 s. 1974 Human Food; Current Good Manufacturing Practice (Sanitation) in Manufacture, Processing, Packaging or Holding. Improvement and revision should aim to align cGMP for human food with international standards of cGMP (e.g. USDA and / or EU cGMP). Additionally, the cGMP should be improved to allow for consistent industry implementation and regulatory inspection by BFAD regulators. Once trained under the new cGMP, BFAD regulators shall be able to improve/strengthen their industry inspection and performance.
+
+Thus, we view this updated cGMP to be important and urgent "tool" to push forward local industry competitiveness and profitability.
+
+II. SCOPE/COVERAGE
+
+This order shall cover person(s) or establishment(s) that manufacture, package, repack or hold food products to ensure the quality and safety.
+
+III. DEFINITION OF TERMS
+
+For the purpose of these guidelines the following terms shall mean:
+
+1. Accuracy - An indicator of how near an obtained value is, during measurement or analysis, to a true value.
+
+2. Acid foods or acidified foods - Food that have an equilibrium pH of 4.6 or below.
+
+3. Adequate - That which is needed to accomplish the intended purpose in keeping with good public health practice.
+
+4. Adulteration - To make impure by mixing in a foreign or inferior substance.
+
+5. Batch - A quantity of manufactured food produced in a given cycle of manufacture that is uniform in character and quality.
+
+6. Batter - A semi fluid substance, usually composed of flour and other ingredients, into which principal ingredients of food are dipped or with which they are coated, or which may be used directly to form bakery foods.
+
+7. Calibration - Combination of checking an instrument and adjusting it to bring it within its limit for accuracy according to recognized standards.
+
+8. Clean Area - An area with defined environmental control of particulate and microbial contamination constructed and used in such a way as to minimize the introduction, generation and retention of contaminants within the area.
+
+9. Component - Any ingredient intended for use in the manufacture of a product, which include raw and packaging materials, including those that may not appear in the finished product.
+
+10. Contaminants - Any biological or chemical agent, foreign matter, or other substances that are not intentionally added to food, which may compromise food safety or suitability.
+
+11. Controlled Area - An area constructed and operated to control the introduction of potential contaminants.
+
+12. Critical Control Point - A step at which control can be applied and is essential to prevent or eliminate a food safety hazard or reduce it to acceptable level.
+
+13. Cross Contamination - Contamination of raw materials, in-process and finished products brought about by other ingredients that may compromise food safety and suitability.
+
+14. Disinfection - The reduction by means of chemical agents and/or physical methods, of the number of microorganisms in the environment, to a level that does not compromise food safety or suitability.
+
+15. Documentation - All written procedures, instructions and records involved in the manufacture and quality control of products.
+
+16. Facilities - Refers to the building, premises and equipment necessary for the manufacture, packing, repacking and holding of food.
+
+17. Food - Any substance, whether processed, semi processed or raw which is intended for human consumption and including beverages, chewing gum and any substance which has been used as an ingredient on the manufacture, preparation or treatment of "food"
+
+18. Food Allergens - usually proteins or protein fragments that trigger well defined adverse reaction involving the immune system, most often mediated by immunoglobulin E. Examples of critical food allergens are: eggs, peanuts, tree nuts, milk, soya, fish, crustacean, wheat and other gluten containing cereals.
+
+19. Food Handling - Any operation in the preparation, processing, packaging, repacking, storage, transport, distribution and sale of food product.
+
+20. Food Hygiene - All conditions and measures necessary to ensure the safety and suitability of food at all stages of the food chain.
+
+21. Good Manufacturing Practice - A quality assurance system aimed at ensuring that products are consistently manufactured, packed, repacked or held to a quality appropriate for the intended use. It is thus concerned with both manufacturing and quality control procedures.
+
+22. Holding - An indication that something is to be reserved or stored.
+
+23. Ingredient - Any substance including food additive, used as a component in the manufacture or preparation of a food and present in the final product in its original or modified form.
+
+24. Lot - food produced during a period of time and under more or less the same manufacturing condition indicated by a Specific code.
+
+25. Manufacture or Manufacturing - The complete set of activities to produce a product that comprise production and quality control from acquisition of all materials through processing and subsequent packaging to the release for distribution of the finished product.
+
+26. Microorganisms - Refers to yeasts, molds, bacteria and viruses and includes, but is not limited to, species having public health significance. The term "undesirable microorganisms" includes those microorganisms that are of public health significance, that subject food to decomposition, that indicate that food is contaminated with filth, or that otherwise may cause food to be adulterated within the meaning of RA 3720 as amended and other issuances.
+
+27. Packaging - The process of packing that is part of the production cycle applied to a bulk product to obtain the finished product. Any material, including printed material, employed in the packaging of a product, including any outer packaging used for transportation of shipment. Packaging materials are referred to as primary or secondary according to whether or not they are intended to be in direct contact with the product.
+
+28. Pest - Any objectionable animals or insects including, but not limited to birds, rodents, flies, and larvae.
+
+29. Plant - the building or the facilities or parts thereof, used for or in connection to the manufacturing, packing, labeling or holding of food products.
+
+30. Premises - Plant and grounds within the bounds of the industrial establishment.
+
+31. Procedures - Description of the operations to be executed, the precautions to be implemented directly or indirectly related to the manufacture and the repacking of food products.
+
+32. Processing - The part of production cycle starting from weighing of raw materials to the obtaining of a bulk product.
+
+33. Production - All operations involved in the preparation of a product, starting from acquisition of starting materials through processing and packaging, to its completion as a finished product.
+
+34. Quality Assurance - The activity of providing the evidence needed to establish confidence that the quality function is being performed adequately.
+
+35. Quality Control Operation - A planned and systematic procedure for taking all actions necessary to prevent food from being adulterated and thereby achieve its quality and safety.
+
+36. Raw Material - All substances whether active 0 r excipients that are employed in the processing of a finished product.
+
+37. Repacking - Process of packaging or changing of container, wrapper (that may include or not a changing of label) in furtherance of distribution of food.
+
+38. Representative Sample - A sample representing a lot, a batch, or the total amount of materials based on a sampling plan.
+
+39. Reprocessing - The reworking of all or part of a batch of product of an unacceptable quality from a defined step of production in order that its quality aspect may be rendered acceptable by one or more additional operations.
+
+40. Rework - Clean, unadulterated food that has been removed from processing for reasons other than being unsanitary or unsafe and that has been successfully reconditioned by reprocessing and rendered suitable for use as food.
+
+41. Sanitize - To adequately treat food-contact surfaces by a process that is effective in destroying vegetative cells of microorganisms of public health significance, an in substantially reducing numbers of other undesirable microorganisms, but without adversely affecting the product or the safety of the consumer.
+
+42. Shall - A term used to state specific minimum mandatory requirements.
+
+43. Should - A term used to state recommended or advisory procedures or identify recommended equipment.
+
+44. Water Activity (aw) - A measure of the free moisture in food. It is the quotient of the water vapor pressure of the substance divided by the vapor pressure of pure water at the same temperature.
+
+IV. GENERAL GUIDELINES
+
+A. GMP ORGANIZATION
+
+There shall be an adequate number of personnel, as determined by the company, at all levels having knowledge, skill and capabilities relevant to their assigned functions, in good mental and physical health to be able to execute their duties.
+
+1. Organization, Qualification, and Responsibilities
+
+1.1 The organizational structure of the company should be such that the production and the quality assurance/quality control functions are headed by different managers/heads, neither of whom shall be reporting to the other. Each shall be given full authority and facilities necessary to execute his/her duties effectively.
+
+1.2 The production manager/head shall be adequately trained and/or shall possess good practical experience in the field of food manufacture or any other related field, and managerial skill, which will enable him/her to perform his/her function effectively. The production manager shall have full authority and responsibility to manage production of food products. Additionally, the production manager shall have other responsibilities, which he/she shall share with the quality assurance/quality control manager and the person responsible for engineering.
+
+1.3 The quality assurance/quality control manager/head shall have adequate training and practical experience, which will enable him/her to perform his/her function effectively. The quality assurance/quality control manager/head shall have full authority and responsibility in all quality assurance and quality control duties such as establishment, verification and implementation of all quality control procedures.
+
+1.4 The quality assurance/quality control unit shall be entrusted with the responsibilities and authority to:
+
+1.4.1 Approve/reject all components - raw and packaging materials, labeling materials, as well as bulk and finished products.
+
+1.4.2 Approve/reject product manufactured or packed or, held under control by a third party manufacturer.
+
+1.4.3 Approve/reject procedures, which have impact on the product quality or product specifications.
+
+1.4.4 Review production records and quality control records.
+
+1.4.5 Support monitoring and controlling the manufacturing environment, plant cleanliness production validation, calibration, training of personnel, approve supply of materials and contract parties, protect products and materials against spoilage and deterioration and the maintenance of records.
+
+1.5 The quality assurance/quality control manager/head shall share responsibility with the production manager/head for establishing and authorizing written procedures.
+
+1.6 The production manager/head shall have full authority and responsibility to manage the production of products covering all aspects of personnel, area, equipment and records.
+
+1.7 The production manager/head shall share with the quality assurance/quality control manager/head the responsibility of product quality and authority in the aspects enumerated in 1.4.3 to 1.4.5.
+
+1.8 The duties of every employee shall be clearly defined, communicated and well understood, and shall be within an employee's capacity to perform.
+
+2. Training
+
+2.1 All employees who are directly engaged in the manufacturing activities shall be trained in the particular operations they perform in accordance to the principles of Good Manufacturing Practice.
+
+2.2 Training shall be conducted by qualified individuals.
+
+2.3 Training in Good Manufacturing Practices shall be on a continuing basis and with adequate frequency to assure that employees remain familiar with the Good Manufacturing Practice requirements relevant to their functions.
+
+2.4 Training in Good Manufacturing Practices shall be in accordance with written programs approved by the production and quality control managers/heads.
+
+2.5 Records of personnel training in Good Manufacturing Practices shall be maintained.
+
+2.6 After training, the consequential employees' performance shall be appraised to determine their further training needs
+
+B. PREMISES
+
+1. Grounds
+
+1.1 Grounds shall be constructed and maintained to protect against weather, flood, ground seepage, and the access and harboring of vermin, rodents, birds, insects or other animals.
+
+1.2 If the plant grounds are bordered by grounds not under the operator's control, care shall be exercised by conducting inspection, extermination, or other means to exclude pests, dirt, and filth that may be a source of food contamination
+
+1.3 The grounds about a food plant under the control of the operator shall be kept in a condition that will protect against the contamination of food. The methods for adequate maintenance of grounds shall include, but are not limited to:
+
+1.3.1 Good housekeeping. Properly storing equipment, removing litter and waste, and cutting weeds or grass within the immediate vicinity of the plant buildings or structures that may constitute an attractant, breeding place or harborage for pest.
+
+1.3.2 Providing and prOperly operating systems for waste treatment and disposal in conformance with DENR regulation on waste disposal and treatment, designed and constructed in an appropriate manner so that they do not constitute a source of contamination of areas where food is exposed.
+
+2. Plant Construction and Design
+
+2.1 Plant, buildings, and structures shall be of suitable size, design, and construction to facilitate maintenance and sanitary operations for food manufacturing purposes. The individual working areas shall be adequate so that any risk of confusion and cross-contamination that will affect the safety of food manufactured will be avoided.
+
+2.2 There should be a "Master Plan" diagram that show:
+
+a. building outline with production areas, service areas and surroundings
+a. access for personnel and traffic ways - for incoming and outgoing raw material
+b. rivers, canals and other water catchment areas - e.g. swamps/marshes
+c. any approximate potential origins of problems - e.g. housing, industries, etc.
+d. waste collection areas
+e. prevailing wind direction
+f. definition of main areas - in terms of hygiene zones and functions
+g. planned cleaning practices - by area
+h. circulation of people and vehicles - and flow of goods including raw materials, packaging, intermediate products
+i. waste utilities - including the waste water treatment plant
+
+The "Master Plan" diagram is critical in studies to predict where routes could lead to cross contamination, where new barriers maybe necessary and generally to minimize all circulations - with an aim to reduce carriage of dirt and potential contaminants around the factory.
+
+2.3 Minimum design and construction requirements of plant and facilities shall include:
+
+2.3.1 Sufficient space for placement and operations of equipment, and storage of materials as is necessary for the maintenance of sanitary operations and the production of safe food.
+
+2.3.2 Adequate food safety controls through effective design and construction including the separation of operations in which food contamination is likely to occur, by one or more of the following means: location, time, partition, air flow, enclosed systems, or other effective means.
+
+2.3.3 The plant shall be constructed in such a manner that:
+
+a. Floors where appropriate, shall be of water-proof, non-absorbent, washable, and non-slip material, without crevices, and shall be easy to clean and disinfect. Floors shall slope sufficiently for liquids to drain to trapped outlets.
+
+b. Walls where appropriate, shall be of water-proof, non-absorbent and washable materials sealed and free of insects and shall be light colored. Up to a height appropriate for the operation they shall be smooth and without crevices, and shall be easy to clean and disinfect. Angles between walls, between walls and floors, and between walls and ceiling in food handling areas shall be sealed and coved to facilitate cleaning.
+
+c. Ceilings shall be so designed, constructed and finished as to prevent the accumulation of dirt and minimize condensation, mold development and flaking and shall be easy to clean.
+
+d. Windows and other openings shall be so constructed as to avoid accumulation of dirt and those which open shall be fitted with insect-proof screens. Screens shall be easily movable for cleaning and kept in good repair. Internal windowsills, if present, shall be sloped to prevent use as shelves.
+
+e. Door shall have smooth, non-absorbent surfaces and, w here appropriate, be self-closing and close fitting.
+
+f. Drains shall be of adequate size with traps.
+
+g. Stairs, lift cages and auxiliary structures such as platforms, ladders, chutes, shall be so situated and constructed as not to cause contamination to food. Chutes shall be constructed with inspection and cleaning hatches.
+
+2.3.4 The processing of materials for food products shall be separated from the production of non-food products.
+
+2.3.5 There shall be a separate space for:
+
+a. Cleaning mobile equipment
+b. Storage of cleaning materials
+
+2.3.6 Locker/gowning room shall be directly connected to but separated from processing areas.
+
+2.3.7 Toilets shall not be opened directly to production areas and shall have adequate supply of water and ventilation.
+
+2.3.8 There shall be defined areas for the following operations :
+
+a. gowning/change rooms for all personnel
+b. receiving of starting materials
+c. incoming goods quarantine
+d. sampling room for sampling of deliveries of starting materials
+e. storage for approved materials (chemical & packaging)
+f. storage of reject materials
+g. Quality Control facilities
+h. Preparation of materials
+i. Processing operations
+j. Equipment washing
+k. Storage of cleaned, idle/non-functional equipment
+l. Major repair and maintenance activities
+m. Storage of cleaning tools and supplies
+n. Staging/storage of bulk products
+o. Packaging/labeling operations
+p. Quarantine storage for finished products
+q. Storage/warehouse for approved finished products
+r. Canteen
+
+2.3.9 Adequate natural or artificial lighting shall be provided throughout the establishment. Shatter-proof light bulbs, fixtures, skylights, or other glass suspended over exposed food in any step of preparation shall be provided or otherwise, there shall be protection against food contamination in case of glass breakage.
+
+2.3.10 Adequate ventilation shall be provided to prevent excessive build up of heat, dust odors and vapors (including steam and noxious fumes) in areas where they may contaminate food. Fans and other air-blowing equipment shall be located in a manner that minimizes the potential for contaminating food, food-packaging materials, and food-contact surfaces, i.e. the direction of the air flow within the plant shall never be from a dirty area to a clean area. Ventilation openings shall be provided with a screen or other protecting enclosure of non-corrodible material. Screens shall be easily removable for cleaning.
+
+2.3.11 Adequate screening or other protection against pests shall be provided.
+
+C. EQUIPMENT
+
+1. Equipment and utensils directly utilized for food manufacture shall be designed and constructed using material that is easily and adequately cleanable and maintained. All food contact surfaces shall be corrosion resistant. Food contact surfaces shall be made of non-toxic materials and designed to withstand the environment of intended use. Seams of food contact surfaces should be smoothly bonded and maintained to minimize accumulation of food particles.
+
+2. Equipment shall be suitably installed and located to eliminate cross contamination and facilitate the cleaning of equipment and of adjacent spaces. All equipment shall be located and installed at least 1 meter apart.
+
+3. Holding, conveying and manufacturing systems, including gravimetric, pneumatic, closed and automated systems, shall be of a design and construction that enables them to be maintained in appropriate sanitary condition. Other equipment in the processing area that does not come in contact with food shall likewise be constructed in a manner, that facilitate their cleaning and maintenance.
+
+4. Freezer and other cold storage equipment, incubators and other controlled environment equipment shall be fitted with proper measuring devices for regulating the control parameters such as temperature. These regulating instruments shall be calibrated and maintained in good Operating condition. Records of calibration shall be provided and maintained.
+
+5. Clean and sanitized portable equipment and utensils with product-contact surfaces shall be stored in a manner that product-contact surfaces are protected from splash, dust and other contamination.
+
+6. Equipment should not have glass parts, unless the same is shatter proof. Equipment parts should not be lacquered nor painted. Equipment should not have any hollow bodies where there is a chance of product contact.
+
+7. All equipment must allow for sampling and measuring of product quality.
+
+D. SANITATION AND HYGIENE
+
+1. Personnel
+
+The plant management shall define its policy and document its procedures on sanitation and personnel hygiene and take all reasonable measures and precautions to ensure the following:
+
+1.1 Disease Control;
+
+Any personnel who, by medical examination or supervisory observation, is shown to have, or appears to have, an illness, open lesion, including boils, sores, or infected wounds, or any other possible source of microbial contamination shall be excluded from any food handling/contact operations until the condition is corrected. There shall be established/documented procedures for disease control including specific instruction for all personnel to report such health conditions to their supervisors.
+
+1.2 Hygienic Practices
+
+All personnel working in direct contact with food, food contact surfaces, and food-packaging materials shall materials shall conform to hygienic practices while on duty to the extent necessary to protect against contamination of food. There shall be established/documented procedures and work instructions made known to all appropriate personnel for maintaining cleanliness to include, but are not limited to:
+
+a. Wearing outer garments including working shoes suitable to the operation in a manner that protects against the contamination of food, food-contact surfaces, or food-packaging materials.
+
+b. Maintaining adequate personal cleanliness.
+
+c. Washing hands thoroughly (and sanitizing if necessary to protect against contamination with undesirable microorganisms) in an adequate hand-washing facility before starting work, after each absence from the work station, and at any other time when the hands may have become soiled or contaminated.
+
+d. Removing all unsecured jewelry and other objects that might fall into food, equipment, or containers, and removing hand jewelry that cannot be adequately sanitized during periods in which food is manipulated by hand. If such hand jewelry cannot be removed, it shall be covered by material which can be maintained in an intact, clean and sanitary condition and which effectively protects against food contamination by these objects.
+
+e. Maintaining gloves, if they are used in food handling, in an intact, clean, and sanitary condition. The gloves should be of an impermeable material
+
+f. Wearing, where appropriate, in an effective manner hairnets, headbands, caps, beard covers, or other effective hair restraints.
+
+g. Storing clothing or other personal belongings in areas, other than where food is exposed or, where equipment or utensils are washed.
+
+h. Confining the following to areas other than where food may be exposed or where equipment or utensils are washed: eating food. chewing gum, drinking beverages, or using tobacco.
+
+i. Taking any other necessary precautions to protect against contamination of food, food-contact surfaces, or food-packaging materials with micro-organisms or foreign substances including, but not limited to, perspiration, hair, cosmetics, tobacco, chemicals, and medicines applied to the skin.
+
+2. Education and Training
+
+2.1 A training program shall be established and maintained to define appropriate training necessary for food handlers and supervisors on proper food handling techniques and food-protection principles.
+
+2.2 Training shall be regularly instituted and validated to ensure compliance of personnel to established procedures and work instructions.
+
+3. Supervision
+
+3.1 Authority and responsibility for assuring compliance to established procedures and work instructions and identifying sanitation failures or food contamination by all personnel shall be clearly assigned to competent supervisory personnel (Shift Hygiene and Sanitation Officer or any other title). Overall sanitation of the plant shall be under the supervision of one or more competent individuals given the responsibility for this function.
+
+3.2 Personnel responsible for identifying sanitation failures or food contamination problems should have an educational background or experience, or a combination thereof, with a level of competency necessary for production of clean and safe food.
+
+4. Sanitary Facilities
+
+Each plant shall be equipped with adequate sanitary facilities and including, but not limited to the following:
+
+4.1 Water Supply - Water shall be of the quality necessary for the product, process or use.
+
+a. Potable water - Water can be used as a product ingredient, for cooling and heating, and in this case, it shall be of potable quality. An ample supply of water under adequate pressure and suitable temperature should be available with adequate facilities for its storage, where necessary, and distribution. There shall be adequate protection against contamination of stored water.
+
+b. Non-potable water - Non-potable water in the plant, e.g., for fire control, refrigeration and other similar purposes, not used in food manufacture shall be in identified circuits separated from potable water.
+
+4.2 Effluent and Waste Disposal - The facility shall have an efficient effluent and waste disposal system and facilities for storage of waste and inedible material, which should at all times be maintained in good order and repair and in conformance with DENR regulations. All effluent lines (including sewer systems) should be large enough to carry peak loads and shall be so constructed as to avoid contamination of potable water supplies.
+
+4.3 Changing Facilities - Adequate, suitable and conveniently located changing facilities shall be provided.
+
+4.4 Toilets - Adequate number of toilets shall be provided in all establishments. Toilets shall be designed and constructed so as to ensure hygienic removal of waste matter. Hand-washing facilities with sufficient supply of potable water, hand cleaning preparation and with suitable hygienic means of drying hands, shall be provided adjacent to toilets and located in a passageway towards the processing area. Where paper towels are used, a sufficient number of dispensers and receptacles should be provided near a washing facility. Taps of a non-hand operable type are desirable.
+
+4.5 Hand Washing Facilities in Processing Areas - Adequate and conveniently located facilities for hand washing and drying shall be provided where appropriate. Where appropriate, facilities for hand disinfection should also be provided. Potable water and a suitable hand cleaning preparation shall be provided. There should be suitable hygienic means of drying hands. Where paper towels are used, a sufficient number of dispensers and receptacles should be provided adjacent to each washing facility. Taps of a non-hand operable type are desirable. The facilities shall be furnished with properly trapped wastewater pipes leading to drains.
+
+4.6 Disinfection Facilities - Where appropriate, adequate facilities for cleaning and disinfection of working implements and equipment should be provided. These facilities should be constructed of corrosion resistant materials, capable of being easily cleaned, and shall be fitted with suitable means of supplying potable water in sufficient quantities.
+
+4.7 Facilities for Storage of Waste and Inedible Material - Facilities shall be provided for the storage of waste and inedible material prior to removal from the processing plant. These facilities should be designed to prevent access by pests and possible contamination of food, potable water, equipment, building or roadways on the premises.
+
+4.8 Eating Facilities - Consumption of food in processing areas, warehouses and offices inside the production areas and in laboratories shall be strictly forbidden, as such a eating facilities shall be provided. All food for consumption by personnel should stay in the eating facilities. Hygienic conditions and practices shall be maintained in the eating facilities.
+
+5. Maintenance and Sanitation
+
+5.1 General Maintenance.
+
+There shall be procedures for general maintenance of the plant and its premises. The procedures shall include the following:
+
+5.1.1 Establishments and equipment should be kept in an appropriate state of repair and condition to:
+
+a. Facilitate all sanitation procedures;
+b. Function as intended, particularly at critical steps
+c. Prevent contamination, e.g. from metal shards, flaking plasters, debris and chemicals.
+
+5.1.2 Cleaning should remove food residues and dirt, which may be a source of contamination. The necessary cleaning methods and materials will depend on the nature of the food business. Disinfections may be necessary after cleaning.
+
+5.1.3 Buildings, fixtures and other physical facilities of the plant shall be kept in good repair and shall be regularly cleaned and maintained in a sanitary condition. Cleaning operations shall be done properly to avoid the danger of contamination of food and food-contact surfaces.
+
+5.1.4 Detergents, sanitizers and other supplies employed in cleaning and sanitizing procedures should be safe and effective for their intended uses. Only such toxic materials as are required to maintain sanitary conditions, for use in laboratory testing procedures, for plant and equipment maintenance and Operation, or in manufacturing or processing Operations shall be used or stored in the plant. These materials shall be identified and used only in a manner and under conditions that ensures their safe use. Procedures for the proper use of cleaning agents shall include:
+
+a. Cleaning chemicals, detergents, sanitizers should be handled and used carefully and in accordance with manufacturer's instructions and stored, where necessary, separated from food, in clearly identified containers to avoid the risk of contaminating food.
+
+b. Food and equipment should be protected during maintenance.
+
+c. Where there is a risk of food contact, food grade materials for maintenance must be used.
+
+d. Maintenance personnel must be trained on specific maintenance procedures on quality and hygiene before allowing them to work during Plant Maintenance.
+
+5.2 Cleaning Procedures and Methods
+
+Cleaning can be carried out by the separate or the combined use of physical methods, such as heat, scrubbing, turbulent flow, vacuum cleaning or other methods that avoid the use of water, and chemical methods using detergents, alkalis or acids.
+
+Cleaning procedures will involve, where appropriate:
+
+a. Removing gross debris from surfaces;
+b. Applying a detergent solution to loosen soil and bacterial film and hold them in solution or suspension;
+c. Rinsing with water to remove loosened soil and residues of detergent;
+d. Dry cleaning or other appropriate methods for removing and collection residues and debris; and
+e. Where necessary, disinfections with subsequent rinsing unless the manufacturers' instructions indicate on scientific basis that rinsing are not required.
+
+5.3 Cleaning Programs
+
+Cleaning and disinfections programs should ensure that all parts of the establishment are appropriately clean, and should include the cleaning of cleaning equipment.
+
+Cleaning and disinfections programs should be continually and effectively monitored for their suitability and effectiveness and where necessary, documented.
+
+Where written cleaning programs are used, they should specify:
+
+a. Areas, items of equipment and utensils to be cleaned;
+b. Responsibility for particular tasks;
+c. Method and frequency of cleaning; and
+d. Monitoring arrangements.
+
+Where appropriate, programs should be drawn up in consultation with relevant Specialist expert advisors.
+
+5.4 Animal and Vermin Control
+
+There shall be procedures for animal and vermin control to include the following:
+
+a. Animals or birds, other than those essential as raw materials, shall not be allowed in any area of a food plant.
+b. Measures shall be taken to exclude p cats from the processing areas and to protect against the contamination of foods on the premises by animals, birds, and vermin (including but not limited to, rodent and insects).
+c. Insecticides or rodenticides should be used with caution and restriction to prevent the contamination of food, food contact surfaces or packaging materials with toxic and hazardous residue.
+
+5.5 Pest Control
+
+Pests pose a major threat to the safety and suitability of food. Pest infestations can occur where there are breeding sites and a supply of food. Good hygiene practices should be employed to avoid creating an environment conducive to pests. Good sanitation of incoming materials and good monitoring can minimize the likelihood of infestation and thereby limit the need for pesticides.
+
+5.5.1 Preventing access
+
+Buildings should be kept in good repair and condition to prevent pest access and to eliminate breeding sites. Holes, drains and other places where pests are likely to gain access should be kept sealed. Wire mesh screens, for example on open windows, doors and ventilators, will reduce the problem of pest entry. Animals should, wherever possible, should be excluded from the grounds of factories and food processing plants.
+
+5.5.2 Harborage and infestation
+
+The availability of food and water encourages pest harborage and infestation. Potential food sources should be stored in pest proof containers and/or stacked above the ground away from walls. Areas both inside and outside food premises should be kept clean. Where appropriate, refuse should be stored in covered, pest proof containers.
+
+5.5.3 Monitoring and detection
+
+Establishments and surrounding areas should be regularly examined for evidence of infestation.
+
+5.5.4 Eradication
+
+Pest infestations should be dealt with immediately and without adversely affecting food safety and suitability. Treatment with chemical, physical or biological agents should be carried out without posing a threat to the safety and suitability of food.
+
+E. PRODUCTION AND PROCESS CONTROLS
+
+1. Production Processes and Controls
+
+All operations in the receiving, inspecting, transporting, segregating, preparing, manufacturing, packaging, and storing of food should be conducted in accordance with adequate sanitation principles. There shall be appropriate quality control operations procedures to ensure that food is suitable for human consumption and that food-packaging materials are safe and suitable. All reasonable precautions should be taken to ensure that production processes do not contribute contamination from any source. All food that has become contaminated to the extent that it is adulterated within the meaning of the act shall be rejected, or if permissible, treated or reprocessed to eliminate the contamination.
+
+To prevent problems, which could affect consumer safety or satisfaction, each line must be under control. Hazard and root-cause analyses must be used to Specify control measures: Critical Control Points (CCPs) for food safety and Control Points (CPs) for consistency.
+
+1.1 Raw Materials and Other Ingredients
+
+There shall be procedures and work instructions for the sanitary handling of raw materials and other ingredients.
+
+1.1.1 Raw materials and other ingredients shall be inspected and either segregated or otherwise properly handled to ascertain that they are clean and suitable for processing into food. Raw materials shall be stored under conditions that will protect against contamination and minimize deterioration. Containers and carriers of raw materials shall be inspected on receipt to ensure that their condition has not contributed to the contamination or deterioration of food.
+
+1.1.2 Raw materials and other ingredients shall either not contain levels of microorganisms that may produce food poisoning or other disease in humans, or they shall be pasteurized or otherwise treated during manufacturing operations so that they no longer contain levels that would cause the product to be adulterated within the meaning of the act. Compliance with this requirement shall be verified by any effective means, including purchasing raw materials and other ingredients under a supplier's guarantee or certification.
+
+1.1.3 Rework items shall be held in bulk, or in containers designed and constructed so as to protect against contamination and shall be held in a manner that will prevent the food from becoming contaminated within the meaning of the act. Material scheduled for reprocessing shall be identified as such.
+
+1.1.4 Frozen raw materials and other ingredients shall be kept frozen. If thawing is required prior to use, it shall b e done in a manner that prevents their becoming contaminated within the meaning of the act.
+
+1.2 Manufacturing Operations
+
+Procedures and work instructions shall be established for the sanitary handling and maintenance of equipment and utensils for manufacturing operations.
+
+1.2.1 Equipment and utensils and finished food containers shall be maintained in a sanitary condition through appropriate cleaning and sanitizing. Where appropriate, equipment shall be taken apart for thorough cleaning.
+
+1.2.2 Physical factors such as time, temperature, humidity, aw, pH, pressure, flow rate, and manufacturing operations such as freezing, dehydration, heat processing, acidification, and refrigeration shall be monitored to ensure that mechanical breakdowns, time delays, temperature fluctuations, and uncontrolled events do not contribute to the decomposition or contamination of food.
+
+1.2.3 Food that can support the rapid growth of undesirable microorganisms, particularly those of public health significance, shall be handled in a specified manner that prevents the food from becoming contaminated within the meaning of the act.
+
+1.2.4 Work-in-process shall be handled in a manner that protects against contamination.
+
+1.2.5 Finished food should not be handled together with raw materials, other ingredients, or refuse in a receiving, loading, or shipping area if that handling could result in contaminated food. Food transported by conveyor shall be protected against contamination.
+
+1.2.6 Sieves, traps, magnets, electronic metal detectors, and other suitable means should be used to protect against the inclusion of metal or other extraneous material in food.
+
+1.2.7 Glass, foreign matter should likewise be prevented from contaminating food by exclusion of the use of breakable glass as processing equipment, sampling containers, laboratory glassware, etc. in production areas. If use of breakable glass in production areas cannot be avoided, as in the case where packaging material is glass, there should be a procedure on how to deal with broken glass in food.
+
+1.2.8 Food, raw materials, and other ingredients that are adulterated/contaminated within the meaning of the act shall be disposed of in a manner that protects against the contamination of other food. Adulterated/Contaminated food opted to be reconditioned shall be reprocessed using a method proven to be effective and shall be tested as non-adulterated or non- contaminated within the meaning of the act, before being incorporated into other food.
+
+1.2.9 Food such as but not limited to, dry mixes, nuts, intermediate moisture food and dehydrated food, that relies on the control of aw for preventing control of undesirable microorganisms shall be processed and maintained at safe moisture level at all times.
+
+1.2.10 Processes such as sterilizing, irradiating, pasteurizing, freezing, refrigerating, controlling pH or controlling aW that are taken to destroy or prevent the growth of undesirable microorganisms, particularly those of public health significance, shall be adequate under the conditions of manufacture, handling, and distribution to prevent food from being contaminated within the meaning of the act.
+
+1.2.11 Physical protection of food from contaminants that may drip, drain, or be drawn into the food during operations like washing, peeling, trimming, etc. shall be done prOperly to protect food against contamination. Protection may be provided also by adequate cleaning and sanitizing of all food-contact surfaces, and by using time and temperature controls at and between each manufacturing step.
+
+1.2.12 Heat blanching, when required in the preparation of food, should be effected by heating the food to the required temperature, holding it at this temperature for the required time, and then either rapidly cooling the food or passing it to subsequent manufacturing without delay. Thermophilic growth and contamination in blanchers should be minimized by the use of adequate operating temperatures and by periodic cleaning.
+
+1.2.13 Batters, breading, sauces, gravies, dressings, and other similar preparations shall be protected against contamination by any effective means.
+
+1.2.14 Filling, assembling, packaging, repacking and other operations shall be performed in a manner that protects food against contamination by any effective means.
+
+1.2.15 Food such as, but not limited to, acid and acidified food, that relies principally on the control of p H for preventing the growth of undesirable microorganisms shall be monitored and maintained at a pH of 4.6 or below.
+
+1.2.16 Ice used in contact with food shall be made from potable water and shall be manufactured, stored and handled in accordance with good manufacturing practice.
+
+1.2.17 Steam used in contact with food must be of food grade quality. Make-up water shall be potable and comply with current food legislation standards. Steam pipe insulation should be sealed, in such a manner that it does not become a hiding place for insects.
+
+1.2.18 Food-manufacturing areas and equipment used for manufacturing human food should not be used to manufacture nonhuman food grade animal feed or inedible products, unless there is no reasonable possibility for the contamination of the human food.
+
+1.2.19 All food manufacturing establishments using one or several critical allergens as ingredients shall take all reasonable precautions to avoid cross contact Of products that do not normally contain these allergens and that do not normally carry a specific mention in the ingredient statement.
+
+F. QUALITY CONTROL
+
+1. Quality Management
+
+1.1 A quality control system should be established to ensure that products contain the correct materials of specified quality and quantity and are manufactured under proper conditions following standard procedures to ensure the quality and safely of the product.
+
+1.2 The quality control involves sampling, inspecting and testing of starting materials, in process, intermediate, bulk and finished products. It also includes where applicable, review of batch documentation, sample retention program, stability studies, product complaints, product recalls, and maintaining correct specifications of materials and products.
+
+2. Testing of Reprocessed Products
+
+2.1 The methods of reprocessing should be evaluated to ensure that they do not affect the quality of the product.
+
+2.2 Additional testing of any finished product, which has been reprocessed, should be performed.
+
+3. Testing of Returned Goods
+
+3.1 Returned products should be identified and stored separately either in allocated area or by movable barrier such as mm or tape.
+
+3.2 All returned products should be tested if necessary, in addition to physical evaluation before being released for distribution.
+
+3.3 Any returned products that do not comply with the original specification should be rejected.
+
+3.4 Rejected products should be disposed according to appropriate procedures.
+
+3.5 Records of returned products must be maintained.
+
+4. Laboratory Facilities and Controls
+
+4.1 The laboratory shall be well designed to suit the relevant operations.
+
+4.2 It shall be separated physically from the production areas.
+
+4.3 Its concomitant facilities - laboratory equipment and instruments shall be suitable to the testing procedures undertaken.
+
+G. DOCUMENTATION
+
+1. All documents related to the manufacture and operations from raw materials, packaging materials, master production and control, batch production, laboratory control and batch production record review should be prepared reviewed, approved and distributed according to written procedures.
+
+2. The issuance, revision, superseding and withdrawal of all documents, should be controlled by maintaining revision histories.
+
+3. A procedure should be established for retaining all appropriate documents (e.g. development history reports, scale-up reports, technical transfer reports, process validation reports, training records, production records, control records, and distribution records). The retention period for these documents should be specified.
+
+4. Records of major equipment use, cleaning, sanitation, and/or sterilization and maintenance shall show the date, time (if appropriate), product, and batch number of each batch processed in the equipment and the person who performed the cleaning and maintenance.
+
+5. Specifications shall be established and documented for raw materials, labeling and packaging materials. Acceptance criteria should be established and documented for in-process controls.
+
+H. QUALITY AUDITS
+
+A quality audit consists of an examination and assessment of all or part of a quality system with the specific purpose of improving it. A quality audit may be conducted by outside or independent specialists or an internal audit team designated by the management for this purpose. Such audits may also be extended to suppliers and contractors, if necessary. A report should be made at the completion of each quality audit.
+
+I. WAREHOUSING AND DISTRIBUTION
+
+There shall be appropriate procedures for sanitary handling of food on storage and distribution. Storage and transportation of finished food shall be under conditions that will protect food against physical, chemical, and microbial contamination as well as against deterioration of the food and the container.
+
+Warehouses should be kept free from rodents, insects, birds and other pests. All product spills should be cleaned up immediately, as this is an important preventive measures against pests.
+
+1. No pesticides, disinfectants, toxic chemicals or other contaminating materials must be stored in close proximity to finished products or incoming products.
+
+2. In plants, storage must be organized to ensure that potentially contaminated incoming materials are not stored next to finished products.
+
+3. Defective stock, market returns or complaint goods must be stored in a separate area preferably locked.
+
+4. Storage facilities must be secure enough to prevent theft, tampering, etc.
+
+5. First in-first out system must operate and a stock control system must be in place.
+
+6. All storage premises must be kept clean and tidy-not only inside but also in the surrounding areas.
+
+J. PRODUCT RECALL
+
+1. All quality-related complaints, whether received orally or in writing, shall be recorded and investigated according to a written procedure. Documented records of complaint should be retained to evaluate trends, product-related frequencies and severity with a view to taking additional and if appropriate, immediate corrective action.
+
+2. There shall be a written procedure that defines the circumstances under which a recall should be considered. The recall procedure should designate who should be involved in evaluating the information, how a recall should be initiated, who should be informed about the recall, and how the recalled material should be treated.
+
+3. In the event of a serious or potentially life-threatening situation, all concerned local and national authorities shall be informed and their advice sought. If it is necessary to get in touch with concerned international authorities, communication should come from the national authority and not from the local companies.
+
+4. It is important to have a record of the traceability of raw materials, packaging materials, processing data and laboratory results which could be relevant to analyze the effectiveness of the implementation of procedure for product recall.
+
+K. RETENTION OF SAMPLES
+
+Retention samples of a batch product provide a useful tool for the investigation of a product complaint.
+
+1. An appropriate and adequate number of samples of the finished batch product shall be withdrawn from the production/packaging line to serve as reserve or retention samples. The number shall be such that it will be adequate for a complete testing, if and when necessary to do so.
+
+2. Retention samples shall be stored in an area compatible with storage condition prevailing in the market.
+
+L. SUB-CONTRACTING OF MANUFACTURE
+
+The conditions of contract manufacturing should be defined, agreed, and controlled so as to avoid misunderstandings, which could result in a product or work of unacceptable quality. All aSpects of contracted work should be specified to obtain a quality product conforming to the agreed standards. There should be a written contract between the principal and the contract manufacturer to clearly establish the duties and responsibilities.
+
+V. REPEALING CLAUSE:
+
+All other administrative issuances or parts thereof, inconsistent with the provisions of this Order are hereby amended, repealed or modified accordingly.
+
+VI. EFFECTIVITY
+
+This Order shall take effect fifteen (15) days after its publication in a newspaper of general circulation.
+</body>
+
+<sign>MANUEL M. DAYRIT, MD, M.Sc.</sign>
+<signtitle>Secretary of Health</signtitle>

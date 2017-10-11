@@ -1,0 +1,250 @@
+﻿Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+
+Bldg. No. 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila 1003
+Tel. Nos. (632) (11—95-02, 711-9503; Telefax No. (632) 743-18-29
+
+
+<date>01/10/2006</date>
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No. 2006-0001</docnum>
+
+<subject>SUBJECT: Guidelines for Parasitologic Screening of Food Handlers</subject>
+
+
+<body>
+
+I. BACKGROUND RATIONALE
+
+Intestinal parasitic infections remain an important public health concern in the Philippines. Soil-transmitted helminthiasis (STH), considered the most common intestinal helminthiasis, is ranked first among all communicable and non-communicable diseases in the school-age population of developing countries worldwide (Worm Busters, 2004). Biomedical surveys done in the Philippines by the US. Naval Medical Research Unit No. 2 showed that national infection rates for the three major soil-transmitted helminths, Ascaris lumbricordes (roundworm), Trichuris trichiura (whipworm) and hookworm were 48%, 74% and 38%, respectively (Cross and Sevilla, 1984). A recent nationwide study by UP/DOH/UNICEF revealed that 66% of preschool children were infected with common intestinal helminthes (Lumampao and de Leon, 2004). These numbers clearly show that there have been no significant improvements in the prevalence of STH despite ongoing efforts by the Department of Health and other concerned institutions even after almost three decades. The magnitude of the problem and lack of adequate resources continue to remain as major challenges as evidenced by the latest UP/DOH/UNICEF nationwide survey.
+
+Problems associated with intestinal parasitism vary according to the parasitic species, burden of infection and organ involvement. intestinal infections may cause malabsorption, diarrhea, and other states of poor health (Beaver, 1994; Cooper, 1996; WHO, 1986). Some parasites may even invade the intestinal mucosa to enter the bloodstream and affect other organs such as the liver, lungs, kidneys or brain. intestinal parasitic infections are commonly acquired through the ingestion of contaminated food or water as a result of poor sanitation and hygiene. in some instances, transmission occurs through close contacts between infected and non—infected populations as exemplified by the transfer of organisms from food handlers to consumers.
+
+In terms of Disability Adjusted Life Years (DALY) lost due to burden of disease, intestinal parasitism was ranked first among children, ages 5 to 14 years old, in developing countries (World Bank, 1993). These children are most prone to significant morbidities especially in chronic untreated infections. Complications include malnutrition, anemia, growth retardation, delayed motor activity and poor mental development.
+
+Intestinal parasitism is frequently transmitted through the oral-fecal route as a result of poor sanitation and hygiene. There is a growing concern over the continued high prevalence of parasitic infections acquired throughfood handling and distribution. It is alarming to note that people involved in the preparation and distribution of food may actually be  considered vectors of intestinal parasites. This is the reason why the importance of parasitologic screening can not be overemphasized.
+
+Although the Implementing Rules and Regulations of the Code of Sanitation of the Philippines do not mention the need for stool examinations for the screening of food handlers for intestinal parasites, most local health units have already employed stool examinations as a basic laboratory requirement for food handlers applying for health certificates. However, Direct Fecal Smear (DFS) is the most commonly used method in the local health units. DFS is relatively inexpensive and simple but it does not possess the satisfactory sensitivity in detecting infection, especially among asymptomatic individuals (Jueco, 1976). In a recent study done among food handlers of a tertiary hospital in Manila comparing DFS and Formalin Ether/Ethyl Acetate Concentration Technique (FECT), results showed a prevalence of intestinal parasitic infection of 40.7% and a significant difference in the sensitivities of DFS and FECT at 52.0% and 88.0% (chi square test, p=0.031), respectively (Esparar et at, 2005). In another study among food handlers in selected food establishments in the University Belt area in Manila using FECT, the results showed a prevalence rate of intestinal parasitic infections of 61.8% (Avila et al,2003)
+
+There is a clear need to improvethe policy and practice regarding parasitologic screening of food handlers by the local health units. Early diagnosis and treatment of intestinal parasitism can be facilitated by using more sensitive screening methods, such as the FECT. These guidelines aim to improve the parasltologic screening of food handlers by the local health units by stating the requirements and procedures for FECT. These actions are geared towards improving early detection and management of cases which will consequently help decrease disease morbidity and spread to the population.
+
+II. STATEMENT OF POLlCIES
+
+The Implementing Rules and Regulations of Chapter III Food Establishments of The Code of Sanitation of the Philippines (PD. 856) states:
+
+A. No person shall be employed in any food establishment without a health certificate issued by the citylmunicipal health officer. This certificate shall be issued only after the required physical and medical examinations and immunizations. Briefings shall be provided by the local health office prior to the issuance of the health certificate to the recipient.
+
+B. The Health Certificate shall be renewed at least every year or as often as required by local ordinance.
+
+C. Health certificates are non—transferable.
+
+D. No person shall be allowed to work in food handling and preparation while afflicted with a communicable disease or a carrier of such disease, which includes boils or inflicted wounds, colds or respiratory infection, diarrhea of gastrointestinal upsets, and other related illnesses.
+
+III. OBJECTIVES
+
+A. General Objective
+
+To improve parasitologic screening of food handlers by the local health units
+
+B. Specific Objectives
+
+1. To specify stool examination as a requirement in the screening of food handlers applying for health certificates
+
+a. To specify FECT as the method for stool examination
+b. To state the frequency of stool examinations
+
+2. To prescribe the requirements and procedures for FECT in terms of personnel, physical plant, equipment and supplies
+
+IV. DEFINITION OF TERMS
+
+A. Department of Health (DOH) —— The principal health agency in the Philippines responsible for ensuring the access of basic public health services to all Filipinos through the provision of quality health care and regulation of providers of health goods and services.
+
+B. Direct Fecal Smear (DFS) - A simple parasitologic procedure that allows microscopic examination of a small amount (1 to 2 mg) of feces.
+
+C. Food - Any raw, cooked or processed edible substances, beverages or ingredient used or intended for use or for sale in whole or in part for human consumption.
+
+D. Food establishment — A place or facility where food and drinks are manufactured, processed, stored, sold or served, including those that are located in vessels.
+
+E. Food handler - Any person who handles, stores, prepares, serves food, drinks or ice or who comes in contact with any eating or cooking utensils and food vending machines.
+
+F. Formalin EtheriEthyl Acetate Concentration Technique (FECT) — A stool concentration technique that allows microscopic examination of approximately 1 gm of feces.
+
+G. Health certificate - A certification in writing, using the prescribed form, and issued by the municipal or city health officer to a person after passing the required physical and medical examinations and immunizations.
+
+H. Local Health Authority (LHA) -— An official or employee responsible for the application of a prescribed health measure in a local political subdivision.
+
+I. Local Health Unit — A health care facility where public health services are delivered in cities and municipalities.
+
+J. Medical Technologist — A person who engages in the work of medical technology under the supervision of a pathologist or licensed physician authorized by the Department of Health in places where there is no pathologist, and who having passed the prescribed course (Bachelor of Science in Medical TechnologyIBachelor of Science in Public Health) and examination, is registered under the provisions of the Philippine Medical Technology Act of 1969.
+
+K. Municipal/City Health Officer - A mandatory position under the Local Government Code of 1991, also the department head in—charge of a municipality or city, tasked with formulating and implementing health and medical programs for the whole municipality or city.
+
+V. COVERAGE AND SCOPE
+
+These guidelines shall apply to all MunicipalI’City Health Offices that issue health certificates to food handlers.
+
+VI. GENERAL GUIDELINES
+
+A. Stool examination shall be considered mandatory for all food handlers applying for health certificates from the local health units.
+
+B. FECT shall be the procedure of choice for stool examination by the local health units (see Formalin EtherlEthyl Acetate Concentration Technique in Annex A).
+
+C. Food handlers shall be examined once a year.
+
+VII. IMPLEMENTING GUIDELINES
+
+A. Requirements for FECT
+
+1. Personnel
+
+Personnel to be employed for the parasitologic screening of food handlers in the local health units or clinical laboratories should have the following qualifications:
+
+a. Is a graduate of Bachelor of Science in Medical Technology or Public Health from any school, college or university
+approved by the Commission on Higher Education
+
+b. Has passed the Philippine Medical Technology Licensure Examination
+
+c. Has a valid license to practice medical technology from the Professional Regulation Commission
+
+d. Has completed an accredited training course on diagnosis of food and waterborne parasitoses from an accredited training body/institution recognized by the DOH
+
+2. Physical plant
+
+a. There shall be a designated area within the local health unit with adequate space and furniture for processing and examination of stool specimens as required by the DOH.
+
+b. The area should be provided with adequate illumination and ventilation to ensure optimum personnel function.
+
+3. Equipment
+
+There shall be appropriate equipment/instruments in the local health units and clinical laboratories in order to perform FECT that shall comply with safety requirements. The following are the required equipment! instruments in order to perform FECT:
+
+a. Clinical centrifuge with head and cups to hold 15 ml conical tubes
+
+b. Microscope with low and high power objectives
+
+4. Materials and Reagents
+
+There shall be sufficient supplies in order to perform FECT in the local health units and clinical laboratories. The following are the required supplies needed to perform FECT:
+
+a. Stool cups
+b. Face masks
+c. Non-sterile surgical gloves
+d. Wooden applicator sticks (145 x 2.0 mm)
+e. 50 ml beaker
+f. Formalin 10%
+g. Pipette
+h. Rubber aspirator
+i. Ether or ethyl acetate
+j. Non-sterile surgical gauze
+k. Conical centrifuge tubes (15 ml)
+l. Rubber stoppers
+m. Rack or support for tubes .
+n. Microscope slides (75 x 25 mm)
+o. Coverslips
+
+B. Procedures
+
+1. Collection of stool specimens
+
+The local health unit should instruct and ensure that the food handlers observe the proper stool collection techniques as follows:
+
+a. Stool samples should come from the food handlers themselves, and proper labeling of their names should be placed on the stool containers.
+
+b. An appropriate part of the stool should be selected and sampled (i.e. portions that are bloody, mucoid or watery) with a collection spoon provided with the stool container.
+
+c. Place the stool in a dry, clean, leak~proof stool container. Make sure no urine, water, soil or other material can get inside the container.
+
+d. Stool specimens should be transported to the local health unit as soon as possible. Insert the stool container in a plastic bag prior to transportation or storage.
+
+2. Transportation of stool samples
+
+a. Stool samples placed in stool containers should be brought to the local health unit by the food handler applicant as soon as possible for processing and examination.
+
+b. If transportation has to be delayed for any reason, stool specimens can be placed in a refrigerator at 4°C. Stool specimens should not be frozen.
+
+3. Use of preservatives for stool samples
+
+a. If processing of stool samples at the local health units need to be delayed for any reason, stool specimens should be preserved as soon as possible using 10% formalin in suitable containers.
+
+b. Add one volume of the stool specimen to three volumes of formalin.
+
+c. Ensure that the specimen is mixed well with the preservative. Formed stool needs to be well broken up.
+
+4. Formalin-Ether/Ethyl Acetate Concentration Technique
+
+a. With an applicator stick, add 1.0 - 1.5 grams of feces to 10 ml of formalin in a centrifuge tube and stir to form a suspension.
+
+b. Strain the suspension through two layers of wet surgical gauze directly into a different centrifuge tube. Discard the gauze.
+
+c. Add 10 % formalin to the suspension in the tube to bring the total volume to 10 ml.
+
+d. Add 3.0 ml ether (or ethyl acetate) to the suspension in the tube and mix well by putting a rubber stopper in the tube and shaking vigorously for 10 seconds.
+
+e. Remove the stopper and place the tube in the centrifuge; balance the tubes and centrifuge at 400 — 500 g for two to three minutes.
+
+f. Remove the tube from the centrifuge; the contents consist of four layers:
+
+1) top layer of ether (or ethyl acetate),
+2) a plug of fatty debris that is adherent to the wall of the tube,
+3) a layer of formalin, and
+4) sediment.
+
+g. Gently loosen the plug of debris with an applicator stick by a spiral movement and pour off the top three layers in a single movement, allowing the tube to drain inverted for at least five seconds. When done properly, a small amount of residual fluid from the walls of the tube will flow back onto the sediment.
+
+h. Mix the fluid with the sediment (sometimes it is necessary to add a drop of saline to have sufficient fluid to suspend the sediment). Transfer a drop of the suspension to a slide for examination under a coverslip.
+
+i. Examine the preparations with the 10x objective or if needed for identification, higher power objectives of the microscope in a systematic manner so that the entire coverslip area is observed.
+
+VIII. REPEALING CLAUSE
+
+All rules and regulations which are inconsistent with the provisions stated in these guidelines are hereby repealed or amended accordingly.
+
+IX. EFFECTIVITY
+
+This order shall take effect fifteen (15) days after filing with the University of the Philippines Law Center, or upon posting/publication in the DOH intranet.
+
+
+</body>
+<sign>FRANCISCO T. DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
+
+Annex A
+
+Formalin—Ether/Ethyl Acetate Concentration Technique
+
+Materials and Reagents:
+
+1. Stool cups
+2. Face masks
+3. Non-sterile surgical gloves
+4. Wooden applicator sticks (145 x 2.0 mm)
+5. 50 ml beaker
+6. Formalin 10%
+7. 5 ml glass pipette
+8. Rubber aspirator
+9. Ether or ethyl acetate
+10. Non-sterile surgical gauze
+11. Centrifuge tubes, conical (15 ml) with rubber stoppers
+12. Rack or support for tubes
+13. Microscope slides (75 x 25 mm)
+14. Coverslips
+
+Procedure
+
+1. With an applicator stick, add 1.0 — 1.5 grams of fecesato 10 ml of formalin in a centrifuge tube and stir to form a suspension.
+2. Strain the suspension through two layers of wet surgical gauze directly into a different centrifuge tube. Discard the gauze.
+3. Add 10 % formalin to the suspension in the tube to bring the total volume to 10 ml.
+4. Add 3.0 ml ether (or ethyl acetate).to the suspension in the tube and mix well by putting a rubber stopper in the tube and shaking vigorously for 10 seconds.
+5. Remove the stopper and place the tube in the centrifuge; balance the tubes and centrifuge at 400 —— 500 g for two to three minutes.
+6. Remove the tube from the centrifuge; the contents consist of four layers:
+a. top layer of ether (or ethyl acetate),
+b. a plug of fatty debris that is adherent to the wall of the lube.
+c. a layer of formalin, and
+d. sediment.
+7. Gently loosen the plug of debris with an applicator stick by a spirai movement and pour off the top three iayers in a single movement, allowing the tube to drain inverted for at least five seconds. When done properly, a small amount of residual fluid from the walls of the tube will flew back onto the sediment.
+8. Mix the fluid with the sediment (sometimes it is necessary to add a drop of saline to have sufficient fluid to suspend the sediment). Transfer a drop of the suspension to a slide for examination under a coverslip.
+9. Examine the preparations with the 10x objective or if needed for identification, higher power objectives of the microscope in a systematic manner so that the entire coverslip area is observed.
+
+From: Bench Aids for the Diagnosis of Intestinal Parasites
+World Health Organization 1994

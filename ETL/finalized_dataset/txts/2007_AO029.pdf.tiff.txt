@@ -1,0 +1,578 @@
+Republic of the Philippines
+Department of Health
+OFFICE OF THE SECRETARY
+2nd Floor, Bldg. 1, San Lazaro Compound, Rizal Avenue, Sta. Cruz, Manila
+Telefax: (0632)743-1829 Trunkline: 743-8301 loc 1125, 1127 & 1128
+
+<date>09/21/2007</date>
+
+<doctype>ADMINISTRATIVE ORDER</doctype>
+<docnum>No: 2007- 0029</docnum>
+
+<subject>SUBJECT: Revised Guidelines on Management of Animal Bite Patients</subject>
+
+<body>
+I. BACKGROUND/RATIONALE
+
+Rabies is a fatal disease in developing countries where animal immunization and control of dogs are inadequate. In view of the 100% case fatality of human rabies, the prevention of rabies infection after exposure is of utmost importance. The Department of Health, having committed itself to the prevention of human deaths due to rabies, provides vaccines for post exposure treatment through the Animal Bite Treatment Centers (ABTCs) to high risk exposed patients.
+
+Over the last five years, many studies have been conducted by both local and foreign researchers focusing on changes in treatment modalities. The World Health Organization has also issued new recommendations related to rabies management. Based on the available information, the guideline on animal bite management is revised in order to provide more cost effective strategies for rabies prevention and control. The guidelines in the management of animal bite cases are being updated every five years to integrate updated global recommendations. The first revision was done in 1997 and then in 2002.
+
+Disease free zones initiative has identified as one of the strategies of FOURmula One for Health to reduce public health threats alongside with enhanced health promotion and surveillance. The initiatives aim to "mop up" diseases as leprosy, schistosomiasis, filariasis, rabies and malaria. This would entail doing stratification of areas according to burden of disease, validation of status of potential disease-free areas, and identification of appropriate intervention based on these stratification.
+
+II. OBJECTIVE
+
+To provide new policy guidelines and procedure to ensure an effective and efficient management for eventual reduction if not elimination of human rabies, and to increase voluntary pre-exposure coverage among high risk group such as animal handlers, field workers, health staff working in the rabies unit, rabies diagnostic laboratory staff, and children below 15 years old living in endemic areas.
+
+III. COVERAGE
+
+To ensure consistency in the management of animal bite patients, government health care workers at all levels as well as private practitioners in the country are hereby encouraged to adopt these guidelines.
+
+IV. DEFINITION OF TERMS
+
+A. Post exposure treatment - anti-rabies treatment administered after an exposure (such as bite, scratch, lick etc) to potentially rabid animals. It includes local wound care, administration of rabies vaccine with or without Rabies Immune Globulin (RIG) depending on category of exposure.
+
+B. Pre exposure prophylaxis - rabies vaccination administered before an exposure to potentially rabid animals. This is usually given to those who are at high risk of getting rabies such as veterinarians, animal handlers, staff in the rabies laboratory and hospitals handling rabies patients etc
+
+C. Immunocompromised host - as far as response to rabies vaccination is concerned, this refers to patients receiving immunosuppressive drugs such as systemic steroids (not topical or inhaled) and chemotherapeutic drugs for cancer, patients taking chloroquine, AIDS and HIV infected patients. These patients are expected to have lower immune response to immunization.
+
+D. Active Immunization - refers to the administration of a vaccine to induce protective immune response.
+
+E. Passive Immunization - refers to the administration of pre-formed antibodies (immune globulins or passive immunization products) to provide immediate protection. These antibodies come from either human or animal source.
+
+F. Vaccine Potency - refers to the amount of acceptable active ingredients in a rabies vaccine which is expected to provide at least minimum protection.
+
+G. Incubation Period - the period from the time of exposure up to the appearance of first clinical symptoms of rabies. It is extremely variable ranging from 4 days to 7 years; but generally 20 to 90 days.
+
+H. Prodromal Period - lasts for 10 days with nonspecific manifestations, which include fever, sorethroat, anorexia, nausea, vomiting, generalized body malaise, headache and abdominal pain. Parasthesia or pain at the site of the bite is due to viral multiplication at the spinal ganglion just before it enters the brain
+
+I. Observation Period - animal observation for 14 days from the time of bite until the appearance of expected symptoms of rabies
+
+J. Rabid Animal - biting animal with clinical manifestation of rabies and/or confirmed laboratory findings
+
+K. Suspected Rabid Animal - biting animal with a potential to have rabies infection based on unusual behavior, living condition like stray dogs, endemicity of rabies in the area and no history of immunization.
+
+V. GENERAL GUIDELINES
+
+A. Department of Health shall be responsible for the management of animal bite victims including provision of human rabies vaccine.
+
+B. Rabies Control Program shall be integrated to the regular health services provided by local health facilities of bite victims, as a measure.
+
+C. Post exposure vaccination shall be shared and carried out by the Department of Health and Local Government Units.
+
+D. Funding requirements needed for operational systems should be secured prior to the implementation of this policy.
+
+E. Advocacy through information dissemination and training of health workers shall be conducted at all levels.
+
+F. Collaboration among government agencies, non-government and private organizations to ensure successful implementation shall be strengthened.
+
+VI. SPECIFIC GUIDELINES AND PROCEDURE
+
+A. Management of Potential Rabies Exposure
+
+1. Initiation of post-exposure treatment (PET) should not be delayed for any reason regardless of interval between exposure and consultation as it increases the risk of rabies and it is associated with treatment failure.
+
+2. There are no absolute contraindications to rabies PET. Patients allergic to a specific vaccine/RIG or its components should be given the alternative vaccine/RIG.
+
+3. The following are three (3) categories of exposure to a rabid animal or to an animal suspected to be rabid, each with corresponding management guidelines.
+
+<image>table_1.png</image>
+
+B. Immunization
+
+1. Active Immunization
+
+1.1 Administration
+
+Vaccine is administered to induce antibody and T-cell production in order to neutralize the rabies virus in the body. It induces an active immune response in 7-10 days after vaccination, which may persist for one year or more provided primary immunization is completed.
+
+1.2 Types of Rabies Vaccines and Dosage
+
+The types of anti-rabies vaccines available in the Philippines include: a) Purified Vero cell Rabies Vaccine (PVRV) - 0.5 ml/vial; b) Purified Chick Embryo Cell Vaccine (PCECV) - 1.0 ml/vial
+
+<image>table_2.png</image>
+
+The above mentioned vaccines are considered to be highly immunogenic and safe. For active immunization, any of the two vaccines may be administered either intramuscularly (IM) or intradermally (ID). The potency of vaccine for intramuscular use should be at least 2.5 IU/IM dose and for intradermal use should be at least 0.5 IU/ID dose as evidenced by batch testing performed by a WHO-recognized National Regulatory Authority or National Control Laboratory. The potency of the vaccine batch should be provided by the manufacturer.
+
+Rabies Vaccine Criteria
+
+Only rabies vaccines which satisfy all the following criteria can be used:
+
+• produced by a World Health Organization (WHO) pre-qualified manufacturer;
+
+• have gone through local clinical trials on safety, immunogenicity and efficacy (as evidenced by published clinical trials in peer-reviewed journals and local testing studies);
+
+• have been evaluated by the DOH Rabies Technical Group; AND
+
+• registered with and approved by the Bureau of Food and Drugs (BFAD)
+
+2. Passive Immunization
+
+Rabies Immune Globulins or RIG (also called passive immunization products) are given in combination with rabies vaccine to provide the immediate availability of neutralizing antibodies at the site of the exposure before it is physiologically possible for the patient to begin producing his or her own antibodies after vaccination. This is especially important for patients with Category III exposures. RIGs have a half-life of approximately 21 days.
+
+2.1 Human Rabies Immune Globulins (HRIG) derived from plasma of human donors is administered at 20 IU per kilogram body weight. Available preparation is 2ml/vial; 150 IU/m.
+
+2.2 Highly purified antibody antigen binding fragments [F(ab')2] produced from Equine Rabies Immune Globulin (ERIG) derived from purified horse serum administered at 40 IU per kilogram body weight. Available preparation is 5 ml/vial; 200 IU/ml.
+
+2.3 Equine Rabies Immune Globulin (ERIG) derived from purified horse serum administered at 40 IU per kilogram body weight. Available preparation is 5ml/vial; 200 IU/ml.
+
+a. Types of Rabies Immune Globulins
+
+<image>table_3.png</image>
+
+b. Computation and Dosage of Rabies Immune Globulin
+
+HRIG at 20 IU/kg. body weight (150 IU/ml)
+50 kg. patient x 20 IU/kg. = 1000IU
+1000 IU + 150 IU/ml= 6.7 ml.
+
+ERIG/ F(ab')2 at 40 IU/kg. body weight (200 IU/ml)
+50 kg. patient x 40 IU/kg. = 2000 IU
+
+2000 IU + 200 IU/ml =10 ml.
+
+c. Rabies Immune Globulin Criteria
+
+All imported RIG introduced for the first time in the Philippines should undergo testing and evaluation by the WHO or WHO-recognized National Regulatory Authority (NRA), or National Control Laboratory (NCL). The tests should include Rapid Fluorescent Focus Inhibition Test (RFFIT) or Mouse Neutralization Test (MNT), pre-clinical safety, pyrogenicity and product purity.
+
+An animal survivorship study may be required. The results of the clinical trials conducted on the product should have been published in a peer-review journal.
+
+The local NRA/NCL should validate the RFFIT, MNT and purity of the product and require local clinical trials on safety. The above requirements are necessary for BFAD registration.
+
+Locally produced RIG should undergo the same evaluation and testing as mentioned above by the local NRA/NCL and the product should be registered with and approved by BFAD before use.
+
+d. Administration:
+
+1) The total computed dose of RIG should be infiltrated around and into the wound as much as anatomatically feasible, even if the lesion has healed. In case some amount of the total computed dose of RIG is left after all wounds have been infiltrated, it should be administered deep IM at a site distant from the site of vaccine injection (preferably anterolateral thigh) using another needle. The total computed dose should be administered within one day.
+
+2) A gauge 23 or 24 needle, 1 inch length should be used for infiltration. Multiple needle injections into the same wound should be avoided.
+
+3) A skin test must be performed prior to ERIG/F(ab')2 administration using a gauge 26 needle. For skin testing, 0.02 ml of 1:10 dilution of solution is infiltrated to raise a bleb 3 mm and read after 15 mins. A positive skin test is an induration >6 mm surrounded by a flare/erythema. If initial skin test is positive, repeat skin test on same arm; use distilled water as control on the other arm. The skin test is considered positive if the ERIG/F(ab')2 skin test Is positive but the control is negative.
+
+4) If a finger or toe needs to be infiltrated, care must be taken not to impair blood circulation. Injection of an excessive amount may lead to cyanosis, swelling and pain.
+
+5) RIG should not exceed the computed dose as it may reduce the efficacy of the vaccine. If the computed dose is insufficient to infiltrate all bite wounds, it may be diluted with sterile saline 2 or 3 fold for thorough infiltration of all wounds.
+
+6) RIG should be administered at the same time as the first dose of vaccine (day 0). In case RIG is unavailable on day 0, it may still be given anytime before the day 7 dose of the vaccine. However if the day 3 and/or day 7 doses of the vaccine have not been given, RIG may still be given anytime.
+
+7) In the event that RIG and vaccine cannot be given on the same day, the vaccine should be given before RIG because the latter inhibits the level of neutralizing antibodies induced by immunization.
+
+8) RIG is given only once during the same course of PET.
+
+C. Management of Adverse Reactions
+
+Hypersensitivity to ERIG/F(ab')2 may not be predicted by a negative skin test. Always be ready with adrenaline and antihistamines for treatment of hypersensitivity.
+
+1. Anaphylaxis
+
+a. Give 0.1% adrenaline or epinephrine (1:1.000 or 1mg/ml) underneath the skin or into the muscle. Adults - 0.5 ml. Children - 0.01ml/kg, maximum of 0.5 ml
+b. Repeat epinephrine dose every 10-20 minutes for 3 doses
+c. Give steroids after epinephrine
+
+2. Hypersensitivity Reactions
+
+a. Give antihistamines, either as single drug or in combination
+b. If status quo for 48 hrs despite combination of antihistamines, may give short course (5-7 days) of combined oral antihistamines plus steroids
+c. If patient worsens and condition requires hospitalization or becomes life threatening, may give IV steroids in addition to antihistamines
+
+3. Indications for the use of HRIG:
+
+a. Positive skin test to ERIG/F(ab')2
+b. History of hypersensitivity to equine sera
+c. Multiple severe exposures (especially where dog is sick or suspected of being rabid) on head and neck area
+d. Symptomatic HIV infected patients
+e. The patient must be asked to wait for at least one hour after injection of ERIG/F(ab')2 in order to observe for allergic reactions which usually consist of itchiness, rashes or aching joints.
+
+D. Treatment
+
+1. Post-Exposure Treatment
+1.1 Local Wound Treatment
+
+a. Wounds should be immediately and vigorously washed and flushed with soap or detergent, and water preferably for 10 minutes. If soap is not available, the wound should be thoroughly and extensively washed with water.
+b. Apply alcohol, povidone iodine or any antiseptic.
+c. Suturing of wounds should be avoided at all times since it may inoculate virus deeper into the wounds. Wounds may be coaptated using sterile adhesive strips. If suturing is unavoidable, it should be delayed for at least 2 hrs after administration of RIG to allow diffusion of the antibody to occur through the tissues.
+d. Do not apply any ointment, cream or wound dressing to the bite site because it will favor the growth of bacteria and will occlude drainage of the wound, if any
+e. Anti-tetanus immunization may be given, if indicated. History of tetanus immunization (TT/DPT/Td) should be reviewed. Animal bites are considered tetanus prone wounds. Completion of the primary series of tetanus immunization is recommended.
+
+<image>table_4.png</image>
+
+1.2. Recommended Antimicrobial
+
+a. The most common organism isolated from dog and cat bites is Pasteurella multocida. Other organisms include S. aureus, Bacteroides sp, Fusobacterium and Capnocytophaga. Antimicrobials are recommended for the following conditions:
+
+• All frankly infected wounds
+• All category III cat bites All
+• All other category III bites that are either deep, penetrating, multiple or extensive or located on the hand/face/genital area.
+
+b. Recommended antimicrobials for frankly infected wounds include:
+
+Amoxicillin/clavulanic
+
+Adults - 500 mg p.o. TID
+Children - 30-45 mg/kg/day in 3 divided doses
+
+Cloxacillin
+
+Adults - 500 mg p.o. QID
+Children - 10-150-100 mg/kg/day in 4 divided doses
+
+Cefuroxime axetil
+
+Adults - 500 mg p.o. BID
+Children - 10-15 mg/kg/day in 2 divided doses
+
+For penicillin allergic patients
+
+Adults - Doxycycline
+Children - Erythrornycin
+
+For those instances where there are no obvious signs of infection, amoxycillin as prophylaxis may suffice
+
+Adults - 500 mg p.o. TID
+Children - 30-45 mg/kg/day in 3 divided doses
+
+The public should be educated in simple local wound treatment and warned not to use procedures that may further contaminate the wounds (e.g. tandok, bato, rubbing garlic on the wounds and other non-traditional practices).
+
+1.3 Vaccination
+
+a. General Principles
+
+1. Storage
+
+• Vaccines should be stored at +2 to +8 °C in a refrigerator, not freezer
+• Once reconstituted, vaccines should be kept in the refrigerator and used within 8 hours
+
+2. Administration
+
+• Injections should be given on the deltoid area of each arm in adults or at the anterolateral aspect of the thigh in infants.
+• Vaccine should never be injected in the gluteal area as absorption is unpredictable
+
+b. Treatment Regimen Schedule
+
+1. Updated 2-Site Intradermal Schedule(2-2-2-0-2)
+
+This regimen is a modification of the original Thai Red Cross 2-site ID regimen where the day 90 dose has been transferred to day 28/30.
+
+I. One dose for ID administration is equivalent to 0.1 ml for PVRV and PCECV
+
+II. One dose should be given on each deltoid on Days 0, 3, and 7 and 28/30
+
+<image>table_5.png</image>
+
+III. One intradermal dose should have at least 0.5 IU vaccine potency.
+
+IV. The ID injection should produce a minimum of 3 mm wheel. In the event that a dose of vaccine is inadvertently given subcutaneously or IM, the dose should be repeated
+
+V. A one (1) ml syringe with gauge 26 needle, preferably auto-disable syringe, should be used for ID injection
+
+VI. The vaccination schedule should be strictly followed to prevent treatment failure. In certain instances when patient fails to come on the scheduled date for his succeeding dose, the following rules should apply:
+
+Delay in day 3 dose:
+
+• If delay is 1-2 days from day 3 schedule - give day 3 dose upon visit and follow the original schedule of day 7 and 28/30.
+
+• If delay is 3-4 days from day 3 schedule - give day 3 dose upon visit, adjust succeeding doses (day 7 and 28/30) according to the prescribed interval.
+
+• If delay is > 4 days from day 3 schedule - restart a new course
+
+Delay in day 7 dose
+
+• If delay is ≤7 days from day 7 schedule - give day 7 dose upon visit, give day 28/30 dose as originally scheduled
+
+• If delay is >7 - 14 days from day 7 schedule - repeat day 3 dose and revise according to the prescribed interval
+
+. If delay is > 14 days from day 7 schedule - restart a new course
+
+Delay in day 28/30 dose - give day 28/30 upon visit; this may be considered as a booster.
+
+If RIG has already been administered, it should not be given again
+
+2. Standard Intramuscular Schedule
+
+I. Using the standard IM regimen, one dose is equivalent to 1 vial of 0.5 ml of PVRV or 1.0 ml of PCECV. One (1) dose is given intramuscularly (IM) on days 0, 3, 7, 14 and 28.
+
+<image>table_6.png</image>
+
+II. Treatment schedule should be strictly followed to prevent treatment failure. In certain instances when patient fails to come on the scheduled date for his succeeding dose, the following rules should be followed:
+
+Delay in day 3 dose:
+
+• If delay is 1-2 days from day 3 schedule - give day 3 dose upon visit and follow the original schedule of day 7, 14 and 28/30
+
+• If delay is 3-4 days from day 3 schedule - give day 3 dose upon visit, adjust succeeding doses (day 7, 14 and 28/30) according to the prescribed interval.
+
+• If delay is > 4 days - restart a new course
+
+Delay in day 7 dose:
+
+• If delay is ≤7 days from day 7 schedule - give day 7 dose upon visit, give day 14/28 dose as originally scheduled
+
+• If delay is >7 - 14 days from day 7 schedule - repeat day 3 dose and revise according to the prescribed interval
+
+• If delay is > 14 days from day 7 schedule - restart a new course
+
+Delay in day 14 dose - give day 14 dose upon visit and give day 28 close after two weeks
+
+Delay in day 28 dose - give day 28 dose upon visit
+
+If RIG has already been administered, it should not be given again
+
+3. Other Treatment Regimen Schedules
+
+These are alternative regimens which are approved by WHO but they cannot replace the important role of RIG in Category III exposures
+
+3.1 Zagreb Regimen Schedule (2-1-1 Intramuscular Schedule)
+
+<image>table_7.png</image>
+
+3.2 Oxford Regimen Schedule (8-site Intradermal Schedule)
+
+<image>table_8.png</image>
+
+1.4 Post-Exposure Treatment under Special Conditions
+
+a. Pregnancy and infancy are NOT contraindications to treatment with purified cell culture vaccines (PVRV, PCECV) and RIG.
+
+b. Babies who are born of rabid mothers should be given rabies vaccination as well as RIG as early as possible at birth.
+
+c. Alcoholic patients and those taking chloroquine, anti-epileptic drugs and systemic steroids should be given standard IM regimen as the response to ID regimen is not optimum for these conditions. Vaccination should not be delayed in these circumstances as it increases the risk of rabies.
+
+d. Immunocompromised individuals (such as those with HIV infection, cancer/transplant patients, patients on immunosuppressive therapy etc.) should be given vaccine using standard IM regimen and RIG for both Category II and III exposures.
+
+e. Exposed persons who present for evaluation or treatment weeks or months after the bite should be treated as if exposure has occurred recently. However, if the biting animal has remained healthy and alive with no signs of rabies until 14 days after the bite, no treatment is needed.
+
+f. Interchangeability of modern rabies vaccine brands or types is not recommended. However, in countries such as the Philippines, Thailand, Sri Lanka, France and Germany it has been practiced for many years without reported untoward events, each time circumstances made it inevitable to interchange vaccine used for administration. Shifting from one vaccine brand to another is not recommended but may be warranted in the following circumstances, provided that it is one of the WHO recommended cell culture vaccines:
+
+• Hypersensitivity reaction such as generalized rash, anaphylaxis, severe generalized pruritis, severe local reaction at injection site (swelling of entire upper arm)
+• Unavailability of the initial vaccine used.
+
+g. Since no immunogenicity studies have been done regarding change in route of vaccine administration (i.e. shift from IM to ID or vice versa), shifting from one regimen to another is NOT recommended. As much as possible the initial regimen should be completed. In extreme circumstances that shifting has to be done from IM to ID regimen or vice versa, vaccination should be restarted from day 0 using the new regimen
+
+h. Bites by rodents, guinea pigs and rabbits do not require rabies post-exposure treatment.
+
+i. Bites by domestic animals (dog, cat) and livestock (cows, pigs, horses, goats etc) as well as wild animals (bats, monkeys, etc) require PET.
+
+1.5. Post-Exposure Treatment of Previously Immunized Animal Bite Patients
+
+I. Local wound care MUST always be carried out.
+
+II. Persons with repeat exposure after having previously received complete primary immunization with tissue culture vaccine should be vaccinated as follows:
+
+<image>table_9.png</image>
+
+III. The following patients are considered to have completed the primary immunization:
+
+a. Those who have received day 0, 7, 28 of pre-exposure prophylaxis
+b. Those who have received at least day 0, 3, 7 of post-exposure treatment
+
+IV. Booster doses may be given ID (0.1 ml. for PVRV or PCECV) or IM (0.5 ml for PVRV or 1.0 ml for PCECV).
+
+V. Patients who have previously received complete primary immunization with rabies vaccine have the advantage that booster doses will rapidly induce a large increase in antibody production (a "secondary response"). Therefore, there is no need to give RIG.
+
+VI. Patients who have not completed the primary immunization as described above should receive full course including RlG if needed.
+
+2. Pre-Exposure Prophylaxis
+
+a. Benefits
+
+1. The need for passive immunization product (RIG) is eliminated
+2. PET vaccine regimen is reduced from five to two doses
+3. Protection against rabies is possible if PET is delayed
+4. Protection against inadvertent exposure to rabies is possible
+5. The cost of PET is reduced
+
+b. Target population
+
+1. Personnel in rabies diagnostic laboratories
+2. Veterinarians and veterinary students
+3. Animal handlers
+4. Health care workers directly involved in care of rabies patients
+5. Individuals directly involved in rabies control
+6. Field workers
+7. It is recommended that children 2-10 yrs old also be immunized because of the increased risk and severity of animal bites in this age group
+
+c. Regimen
+
+1. ID regimen - 0.1 ml at one site only for all vaccine types on days 0, 7 and 21/28
+
+2. IM regimen - 1 vial of 0.5 ml for PVRV or 1 ml of PCECV given on days 0, 7 and 21/28
+
+d. One booster dose should be given every one to three years depending on risk of exposure (whether work-related or not).
+
+<image>table_10.png</image>
+
+E. Management of Rabies Patients:
+
+Considering the fatal outcome and lack of cure for human rabies once symptoms start, treatment should center on comfort care, using sedation and avoidance of intubation and life-support measures once the diagnosis is certain.
+
+1. Medications - any of the following regimens may be used
+
+a. Diazepam
+b. Midazolam
+c. Haloperidol plus Diphenhydramine - this regimen has been used at San Lazaro Hospital
+
+<image>table_11.png</image>
+
+2. Supportive care
+
+Patients with confirmed rabies should receive adequate sedation and comfort care in an appropriate medical facility.
+
+a. Once rabies diagnosis has been confirmed, invasive procedures must be avoided.
+b. Provide suitable emotional and physical support.
+c. Discuss and provide important information to relatives concerning transmission of disease and indication for post-exposure treatment of contacts
+d. Honest gentle communication concerning prognosis should be provided to the relatives.
+
+3. Infection control
+
+a. Patients should be admitted in a quiet, draft-free, isolation room.
+b. Healthcare workers and relatives coming in contact with patients should wear proper personal protective equipment (PPE) including gown, gloves, mask, goggles
+
+4. Disposal of dead bodies
+
+a. Humans who have died of rabies generally present a small risk of transmission to others. There is evidence that blood does not contain virus but that the virus is present in many tissues such as the CNS, salivary glands and muscle. It is also present in saliva and urine.
+b. Embalming should be discouraged.
+c. Performing necrOpsies carelessly can lead to mucous membrane and inhalation exposures.
+d. Wearing protective clothing, goggles, face mask and thick gloves should provide sufficient protection.
+e. Instruments must be autoclaved or boiled after use.
+f. Early disposal of the body by cremation or burial is recommended.
+
+F. Diagnosis:
+
+<image>table_12.png</image>
+
+G. Transmission Via Organ Transplantation:
+
+1. Clinical screening of prospective donors is recommended to include a detailed history, thorough clinical evaluation and analysis of the whole scenario.
+
+2. Physicians responsible for screening donors must maintain a high index of suspicion for rabies.
+
+3. Routine laboratory screening of donors for rabies is not recommended due to a requirement for testing of brain tissue, time constraints and serious consequences of a false positive result.
+
+H. Laboratory Confirmation of Suspected Rabid Animal
+
+1. Seller's test or Negri Body Detection - direct microscopic examination technique using impression smear for the detection of rabies inclusion bodies known as Negri Bodies. The result must be confirmed with MIT or other diagnostic tools. It has low sensitivity and specificity.
+
+2. Immunofluorescent Antibody Test (IFAT) - immunoassay using the monoclonal antibodies specific for rabies virus in an impression smear fixed with acetone. It needs a fluorescent microscope to determine the staining reaction. It is the gold standard in the detection of rabies specific antigen.
+
+3. Mouse Inoculation Test (MIT) -in vivo test to confirm the infectivity of the rabies virus from the inoculum of the sample into a suckling or adult mice. The long post inoculation observation, 21 days, limits the clinical usefulness in the management of animal bite cases.
+
+4. Rabies Fluorescent Focus Inhibition Test (RFFIT) - serologic assay using a cell culture technology to determine the rabies virus neutralizing antibody ( VNA) in an immunized or sick individual.
+
+5. Reverse Transcriptase - Polymerase Chain Reaction (RT-PCR) - molecular detection of rabies nucleoprotein in a sample using rabies specific primers. Result should correlate clinically with other diagnostic tools.
+
+I. Collection and Transport of Specimen to Rabies Laboratory
+
+1. Specimen Collection
+
+a. The animal specimens should preferably be collected by a veterinarian in a clinic in order to assure that the precautionary safety measures in handling potentially infectious materials are strictly followed. The basic personal protective equipment (PPE) includes a laboratory gown, examination gloves, face masks and shields, and a disinfectant for decontamination.
+
+b. In the household scenario, a clean table or bench is needed for the decapitation of the animal. The following procedures should be followed:
+
+I. The handler should use gloves or wrap their hands with plastic bags to prevent direct contact with the specimen.
+
+II. Eye protection such as optical glasses or sunglasses should be used to prevent any tissue splatter on the eyes
+
+III. An ordinary butcher's knife or bolo may be used to cut the animal's head.
+
+IV. The head should be cut 2 inches away from the base in order to include important tissue components of the brainstem.
+
+V. No attempt should be made to extract the brain tissue because this would cause additional risk to the processor.
+
+c. Place the head of the animal in a leak proof double household plastic bag. This constitutes the primary container. Do not put any ice cubes inside this container. No chemical preservative like 10% formalin or alcohol should be used as this will render the specimens inappropriate for examination
+
+2. Specimen Transport
+
+a. Place this primary container into another household plastic bag (secondary container) with liberal amounts of ice, enough to sustain the cold temperature during transport to the laboratory.
+
+b. The two containers must be put into styrofoam or any leak proof transport container and brought to the nearest laboratory for testing.
+
+c. If the specimen cannot be transported right away, it can be stored inside a leak proof styrofoam or ice box container. Put plenty of ice/ice packs into the container to allow for overnight cold storage. Replenish the ice/ice packs as often as needed until transport to the laboratory.
+
+d. Label the transport container as "Rabies Suspect". Affix label with the complete name, address and phone number for both the shipper and the laboratory recipient
+
+J. Disposal of Carcass/Disinfection
+
+a. Dispose the carcass by burying or burning in a pit. Disinfect the working area with 10% household bleach (chlorox) or 3% lysol.
+
+b. Do not encourage eating the meat of the biting animal.
+
+<image>table_13.png</image>
+
+K. Management of the Biting Animal
+
+1. The biting animal should be observed for 14 days. Adequate animal care should be provided during the observation period.
+
+2. It is advisable for patients to consult a veterinarian, whenever possible, regarding biting animal management especially when any of the following is observed:
+
+a. sudden change of behavior (from mild to vicious temperament or vice versa)
+b. characteristic hoarse howl
+c. watchful, apprehensive expression of the eyes, staring, blank gaze
+d. drooling of saliva
+e. paralysis or uncoordinated gait of hind legs
+f. marked restlessness, pacing in cage
+g. if at large runs aimlessly, biting anything in its way
+h. depraved appetite, self mutilation
+i. in some cases, lies quiescent, biting when provoked
+j. snaps at imaginary objects
+k. paralysis of lower jaw and tongue; inability to drink
+l. sudden death without associated signs and symptoms
+
+3. Post Exposure Treatment (PET) may be discontinued if the biting animal remains healthy after the 14 day observation period
+
+4. If the animal dies or gets sick, the head should be submitted to the nearest rabies diagnostic laboratory for testing
+
+L. Dispensing of Human Anti-Rabies Immunizing Agent
+
+The following procedures shall be observed when assessing animal bite patients and dispensing anti-rabies immunizing agents:
+
+1. Assess the victim thoroughly and record in the Municipal/CitylHospital Rabies Surveillance Form (Facility-based form).
+
+2. Decide whether or not to initiate treatment using the Revised Guidelines on the Management of Animal Bite Patients as reference.
+
+3. If the situation warrants immunization (Category II and Category III), the patient should be given the intradermal regimen. The other approved regimens may be used if the ID regimen is not feasible
+
+4. If indicated, the patient shall be provided the required dose of passive immunization products/RIG, if available, preferably ERIG or F(ab')2.
+
+5. Explain your decision to the patient with particular emphasis on adherence to treatment schedules, if immunization is indicated.
+
+6. Observe courtesy and tactfulness when dealing with patients particularly among individuals who need not be immunized.
+
+7. Give advice on the practice of Responsible Pet Ownership.
+
+M. Priorities for Dispensing Vaccines
+
+The following shall be the program's order of priority for dispensing vaccines:
+
+1. Patients bitten by animals found to be positive by IFAT or for "negri bodies" regardless of type of bite exposure
+2. Patients with Category III exposure
+3. Patients bitten by animals that are not available for observation (stray/slaughtered)
+4. Individuals exposed to human rabies patients through bite/non-bite exposure
+5. Patients with Category II exposure
+
+VII. Implementing Mechanisms
+
+A. Roles and Responsibilities
+
+1. Central Office - National Center for Disease Prevention and Control should be responsible for procurement, allocation and distribution of vaccines and RIG and shall augment vaccine requirements for low-income municipalities with high incidence of rabies.
+
+All Centers for Health Development shall be given allocation every quarter subject to availability of the rabies vaccines.
+
+2. Centers for Health Development
+
+The Centers for Health Development through the Director and the Rabies Control Program Coordinator shall be responsible for distribution of vaccines to the Provincial/City Health Offices.
+
+3. Local Government Units
+
+The Local Government units are encourage to enact and strictly enforce ordinance/s relevant to rabies control and to provide fund allocation for anti-Rabies vaccines for bite victims. The Provincial Rabies Control Coordinators shall distribute the augmented vaccines of Department of Health to established Animal Bite Treatment Center where human anti-rabies immunizing agents (vaccines and RIG) are administered.
+
+VIII. REPEALING CLAUSE
+
+Provisions of Administrative Order No. 164 s. 2002 dated October 2, 2002 "Revised Guidelines on Management of Animal Bite Patients" and Administrative Order No. 2005-0022 "Amendment to A.O. 1645. 2002 dated August 25, 2005 and any other order inconsistent herewith are hereby rescinded.
+
+IX. EFFECTIVITY
+
+This order shall take effect immediately.
+</body>
+
+<sign>FRANCISCO T. DUQUE III, MD, MSc</sign>
+<signtitle>Secretary of Health</signtitle>
