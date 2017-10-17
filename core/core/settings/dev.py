@@ -45,6 +45,11 @@ SESSION_CACHE_ALIAS = "default"
 
 CACHE_TTL = 60 * 15
 
+CORS_ORIGIN_WHITELIST = (
+    'localhost:3000',
+    'localhost:8080',
+)
+
 
 def show_toolbar(request):
     return True

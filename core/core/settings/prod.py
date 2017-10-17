@@ -27,6 +27,11 @@ DATABASES = {
     }
 }
 
+CORS_ORIGIN_WHITELIST = (
+    'https://mgmalana.github.io/'
+    'http://jerelynco.github.io/'
+)
+
 # CACHES = {
 #     "default": {
 #         "BACKEND": "django_redis.cache.RedisCache",
