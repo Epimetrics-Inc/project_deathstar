@@ -6,7 +6,11 @@ DEBUG = True
 
 INSTALLED_APPS += (
     'debug_toolbar',
+    'dbbackup',  # django-dbbackup
 )
+
+DBBACKUP_STORAGE = 'dbbackup.storage.filesystem_storage'
+DBBACKUP_STORAGE_OPTIONS = {'location': '/vagrant/core/dbbackups'}
 
 MIDDLEWARE += (
     'debug_toolbar.middleware.DebugToolbarMiddleware',
@@ -46,6 +50,10 @@ SESSION_CACHE_ALIAS = "default"
 
 CACHE_TTL = 60 * 15
 
+CORS_ORIGIN_WHITELIST = (
+    'localhost:3000',
+    'localhost:8080',
+)
 
 def show_toolbar(request):
     return True

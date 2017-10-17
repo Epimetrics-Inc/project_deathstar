@@ -2,27 +2,36 @@ from .base import *
 
 SECRET_KEY = os.environ.get('SECRET_KEY')
 
-DEBUG = True
+Debug = False
 
-INSTALLED_APPS += (
-    'debug_toolbar',
-)
+CSRF_COOKIE_SECURE = True
 
-MIDDLEWARE += (
-    'debug_toolbar.middleware.DebugToolbarMiddleware',
-)
+SESSION_COOKIE_SECURE = True
+
+X_FRAME_OPTIONS = 'DENY'
+
+## GCP deployment related variables
+#PROJECT_ID = 'deathstar-181219'
+#CLOUD_STORAGE_BUCKET = 'deathstar-server'
+
+WSGI_APPLICATION = 'core.wsgi.application'
 
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'dev',
-        'USER': 'dev',
-        'PASSWORD': 'dev',
+        'NAME': 'prod',
+        'USER': os.environ.get('DB_USER'),
+        'PASSWORD': os.environ.get('DB_PASS'),
         'HOST': 'localhost',
         'PORT': '',
     }
 }
-#
+
+CORS_ORIGIN_WHITELIST = (
+    'https://mgmalana.github.io/'
+    'http://jerelynco.github.io/'
+)
+
 # CACHES = {
 #     "default": {
 #         "BACKEND": "django_redis.cache.RedisCache",
@@ -45,18 +54,11 @@ SESSION_CACHE_ALIAS = "default"
 
 CACHE_TTL = 60 * 15
 
-CORS_ORIGIN_WHITELIST = (
-    'localhost:3000',
-    'localhost:8080',
-)
-
 
 def show_toolbar(request):
     return True
 
-
-DEBUG_TOOLBAR_CONFIG = {
-    "SHOW_TOOLBAR_CALLBACK": show_toolbar,
-}
-
 ALLOWED_HOSTS = '*'
+
+STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'static/')

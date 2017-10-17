@@ -87,7 +87,7 @@ def process_xml(dir: str) -> dict:
         # inefficient / bad fix for now
         final[i]['images'] = final[i].pop('image')
         final[i]['title'] = i
-        final[i]['raw_json'] = data[i]
+        final[i]['raw_body'] = data[i]
         if final[i]['body'] == None:
             raise AttributeError('Body error for ' + final[i]['title'])
 
@@ -250,7 +250,7 @@ def insert_db(data: dict):
 
 
     class Document(Base):
-        __tablename__ = 'document'
+        __tablename__ = 'api_document'
 
         id = Column(Integer, primary_key=True)
         title = Column(psql.TEXT)
@@ -264,7 +264,7 @@ def insert_db(data: dict):
         sign = Column(psql.TEXT)
         signtitle = Column(psql.TEXT)
         images = Column(psql.JSONB)
-        raw_json = Column(psql.JSONB)
+        raw_body = Column(psql.JSONB)
 
         def __repr__(self):
             return self.title

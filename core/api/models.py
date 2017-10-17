@@ -16,7 +16,6 @@ class Document(ext_models.TimeStampedModel):
     images = JSONField(null=True)
     raw_body = JSONField(null=True)
 
-
     class Meta:
         ordering = ('date', 'modified',)
 
@@ -25,10 +24,9 @@ class Document(ext_models.TimeStampedModel):
 
 
 class Label(ext_models.TimeStampedModel):
-
     document = OneToOneField(
         Document,
-        on_delete = models.CASCADE,
+        on_delete=models.CASCADE,
         primary_key=True
     )
 
@@ -40,11 +38,11 @@ class Label(ext_models.TimeStampedModel):
 
     mnchn_score = models.DecimalField(**default_params)
     adolescent_score = models.DecimalField(**default_params)
-    spec_pop_score = models.DecimalField(**default_params)
+    specpop_score = models.DecimalField(**default_params)
     geriatric_score = models.DecimalField(**default_params)
 
     def __str__(self):
         return "%s \n mnchn: %s \n adolescent: %s \n" \
                "spec_pop: %s \n geriatric: %s \n" \
                % (self.document, self.mnchn_score, self.adolescent_score,
-                  self.spec_pop_score, self.geriatric_score)
+                  self.specpop_score, self.geriatric_score)

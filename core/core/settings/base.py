@@ -14,11 +14,15 @@ INSTALLED_APPS = [
     'rest_framework',
     'django_filters',
     'django_redis',
+    'rest_framework_swagger',
+    'corsheaders',
+
     # project apps
     'api',
 ]
 
 MIDDLEWARE = [
+    'corsheaders.middleware.CorsMiddleware',
     'django.middleware.security.SecurityMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -45,8 +49,6 @@ TEMPLATES = [
         },
     },
 ]
-
-WSGI_APPLICATION = 'core.wsgi.application'
 
 AUTH_PASSWORD_VALIDATORS = [
     {
@@ -78,5 +80,5 @@ STATIC_URL = '/static/'
 REST_FRAMEWORK = {
     'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
     'PAGE_SIZE': 10,
-    'MAX_PAGE_SIZE': 20,
+    'MAX_PAGE_SIZE': 2000,
 }
