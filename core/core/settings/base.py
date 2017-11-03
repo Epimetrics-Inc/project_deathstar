@@ -1,4 +1,7 @@
 import os
+from rest_framework.pagination import PageNumberPagination
+
+from core.api.utils import LargeResultsSetPagination
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
@@ -77,8 +80,9 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 
+
+
 REST_FRAMEWORK = {
-    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.PageNumberPagination',
+    'DEFAULT_PAGINATION_CLASS': LargeResultsSetPagination,
     'PAGE_SIZE': 10,
-    'MAX_PAGE_SIZE': 2000,
 }

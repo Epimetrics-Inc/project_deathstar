@@ -1,3 +1,14 @@
+from rest_framework.pagination import PageNumberPagination
+
+
+class LargeResultsSetPagination(PageNumberPagination):
+    page_size = 10
+    page_size_query_param = 'page_size'
+    max_page_size = 10000
+
+
+
+
 class QueryFieldsMixin(object):
 
     # If using Django filters in the API, these labels mustn't conflict with any model field names.

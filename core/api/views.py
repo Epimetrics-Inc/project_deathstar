@@ -24,7 +24,6 @@ class DocumentViewSet(ReadOnlyCacheResponseAndETAGMixin,
     Returns a detailed document retrieved by document id.
     """
     queryset = Document.objects.all()
-    max_paginate_by = 5
     filter_backends = (DjangoFilterBackend, SearchFilter, OrderingFilter)
     search_fields = ('title', 'docnum', 'date', 'subject', 'body', 'sign')
     ordering_fields = ('date', 'title')

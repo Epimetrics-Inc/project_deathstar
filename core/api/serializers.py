@@ -19,7 +19,9 @@ class DocumentListSerializer(QueryFieldsMixin, serializers.ModelSerializer):
     class Meta:
         model = Document
         fields = ('pk', 'title', 'date', 'subject','sign', 'doctype',
-                  'docnum', 'label', 'created', 'modified',)
+                  'docnum', 'label', 'created', 'modified',
+                  'label__mnchn_score', 'label__specpop_score',
+                  'label__geriatric_score', 'label__adolescent_score')
 
 
 class DocumentGetSerializer(serializers.ModelSerializer):
