@@ -1,6 +1,6 @@
 from celery.result import AsyncResult
 from rest_framework import viewsets, status
-from rest_framework.filters import SearchFilter, OrderingFilter
+from rest_framework.filters import SearchFilter, OrderingFilter, DjangoFilterBackend
 from rest_framework.mixins import RetrieveModelMixin, CreateModelMixin
 from rest_framework.response import Response
 from rest_framework_extensions.mixins import (
@@ -10,6 +10,7 @@ from api.tasks import viz_scattertext
 from .models import Document
 from .serializers import DocumentListSerializer, DocumentGetSerializer, VisualizationPostSerializer, \
     VisualizationGetSerializer
+from .filters import DocumentFilter
 
 
 class DocumentViewSet(ReadOnlyCacheResponseAndETAGMixin,
@@ -24,10 +25,10 @@ class DocumentViewSet(ReadOnlyCacheResponseAndETAGMixin,
     """
     queryset = Document.objects.all()
     max_paginate_by = 5
-    filter_backends = (SearchFilter, OrderingFilter)
-    search_fields = ('title', 'date', 'subject', 'body', 'sign')
+    filter_backends = (DjangoFilterBackend, SearchFilter, OrderingFilter)
+    search_fields = ('title', 'docnum', 'date', 'subject', 'body', 'sign')
     ordering_fields = ('date', 'title')
-
+    filter_class= DocumentFilter
 
     def get_serializer_class(self):
         if self.request.method == 'GET':
