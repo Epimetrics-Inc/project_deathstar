@@ -110,13 +110,15 @@ COMMIT;
 --
 -- Create user login system;
 --
+CREATE EXTENSION if not exists pgjwt;
+
 BEGIN;
 CREATE TYPE basic_auth.jwt_token AS (
   token text
 );
 
 create or replace function
-login(email text, pass text) returns basic_auth.jwt_token
+api.login(email text, pass text) returns basic_auth.jwt_token
   language plpgsql
   as $$
 declare
@@ -146,7 +148,7 @@ grant web_anon to authenticator;
 
 grant usage on schema api, basic_auth to web_anon;
 grant select on table pg_authid, basic_auth.users to web_anon;
-grant execute on function login(text,text) to web_anon;
+grant execute on function api.login(text,text) to web_anon;
 
 
 COMMIT;
